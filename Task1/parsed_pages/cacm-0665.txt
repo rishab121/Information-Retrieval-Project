@@ -1,0 +1,15 @@
+
+
+
+gauss-seidel algorithm 220
+
+cacm december 1963
+
+shantz p w
+
+ca631209 jb march 13 1978  255 pm
+
+665	5	665
+665	5	665
+665	5	665
+

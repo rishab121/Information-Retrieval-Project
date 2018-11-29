@@ -1,0 +1,36 @@
+
+
+
+an on algorithm for determining a near-optimal
+computation order of matrix chain products
+
+this paper discusses the computation of matrix
+chain products of the form m1 x m2 x  x mn 
+where mis are matrices  the order in which the matrices
+are computed affects the number of operations 
+ a sufficient condition about the association of the
+matrices in the optimal order is presented  an 
+on algorithm to find an order of computation which
+takes less than 25 percent longer than the optimal 
+time topt is also presented  in most cases the algorithm
+yields the optimal order or an order which 
+takes only a few percent longer than topt less than 1 percent on the average
+
+cacm july 1978
+
+chin f
+
+approximate algorithm heuristic algorithm
+matrix multiplication matrix chain product
+
+5.14
+
+ca780703 dh february 8 1979  246 pm
+
+3075	4	3085
+3085	4	3085
+2557	5	3085
+3085	5	3085
+3085	5	3085
+3085	5	3085
+

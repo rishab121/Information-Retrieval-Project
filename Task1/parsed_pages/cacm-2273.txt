@@ -1,0 +1,80 @@
+
+
+
+conversion of decision tables by rule mask method without rule mask
+
+two algorithms for generating computer programs
+from decision tables are described  the algorithms 
+allow handling limited entry extended entry and mixed
+entry tables  the algorithms are based on the 
+rule mask method but need not have the masks at execution
+time  they perform the logical operations 
+immediately rather than at the end of the interpreting
+process  execution time can be considerably reduced 
+by instantly marking rules which are not applicable algorithms
+1 and 2 or conditions which are already 
+tested algorithm 2  the new algorithms combine to a
+certain degree the advantages of mask methods with 
+those of tree methods
+
+cacm october 1972
+
+dathe g
+
+decision tables rule mask rule mask method
+rule mask technique program generator
+
+3.50 4.12 4.19 4.29
+
+ca721005 jb january 27 1978  302 pm
+
+1354	4	2273
+1354	4	2273
+1354	4	2273
+1488	4	2273
+1488	4	2273
+1684	4	2273
+1994	4	2273
+2053	4	2273
+2053	4	2273
+2053	4	2273
+2053	4	2273
+2220	4	2273
+2220	4	2273
+2220	4	2273
+2220	4	2273
+2221	4	2273
+2273	4	2273
+2273	4	2273
+2273	4	2273
+2273	4	2273
+2273	4	2273
+2273	4	2273
+2453	4	2273
+2453	4	2273
+2453	4	2273
+2453	4	2273
+2517	4	2273
+2598	4	2273
+2598	4	2273
+2726	4	2273
+2726	4	2273
+2726	4	2273
+2726	4	2273
+2856	4	2273
+2856	4	2273
+2856	4	2273
+2856	4	2273
+2856	4	2273
+3034	4	2273
+3113	4	2273
+1172	5	2273
+1237	5	2273
+1327	5	2273
+1354	5	2273
+2053	5	2273
+2220	5	2273
+2273	5	2273
+2273	5	2273
+2273	5	2273
+

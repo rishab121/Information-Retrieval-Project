@@ -1,0 +1,24 @@
+
+
+
+method is randomness 
+
+certain nonrandom properties of a commonly used
+random number generator are described and analyzed
+
+cacm march 1965
+
+greenberger m
+
+ca650314 jb march 7 1978  418 pm
+
+1293	5	1293
+1293	5	1293
+1293	5	1293
+1674	5	1293
+1691	5	1293
+1293	6	1293
+1293	6	1293
+1420	6	1293
+1631	6	1293
+

@@ -1,0 +1,28 @@
+
+
+
+incorporation of units into programming languages
+
+the issues of how a programming language might
+aid in keeping track of physical units feet 
+sec etc are discussed  a method is given for the
+introduction of relationships among units a watt 
+is voltsamps a yard is three feet and subsequent automatic
+conversion based upon these relationships
+ various proposals for syntax are considered
+
+cacm may 1978
+
+karr m
+loveman iii d
+
+units language design compiler construction language syntax
+
+4.12 4.22
+
+ca780505 dh february 26 1979  143 pm
+
+3102	5	3102
+3102	5	3102
+3102	5	3102
+

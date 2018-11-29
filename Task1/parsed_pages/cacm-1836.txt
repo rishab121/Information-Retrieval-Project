@@ -1,0 +1,108 @@
+
+
+
+a new method for determining linear precedence
+functions for precedence grammars
+
+the precedence relations of a precedence grammar can
+be precisely described by a two-dimensional 
+precedence matrix  often the information in the matrix
+can be represented more concisely by a pair of 
+vectors called linear precedence functions  a new algorithm
+is presented for obtaining the linear precedence
+functions when given the precedence matrix this algorithm
+is shown to possess several computational 
+advantages
+
+cacm october 1969
+
+bell j r
+
+boolean matrices syntax precedence grammar context-free
+parsing transition matrix precedence 
+functions 
+
+4.12
+
+ca691010 jb february 15 1978  313 pm
+
+1379	4	1836
+1542	4	1836
+1665	4	1836
+1683	4	1836
+1693	4	1836
+1693	4	1836
+1768	4	1836
+1781	4	1836
+1781	4	1836
+1787	4	1836
+1787	4	1836
+1824	4	1836
+1825	4	1836
+1836	4	1836
+1836	4	1836
+1836	4	1836
+1836	4	1836
+1836	4	1836
+1861	4	1836
+1945	4	1836
+1945	4	1836
+2015	4	1836
+2015	4	1836
+2060	4	1836
+2060	4	1836
+2061	4	1836
+2061	4	1836
+2082	4	1836
+2091	4	1836
+2091	4	1836
+2110	4	1836
+2127	4	1836
+2152	4	1836
+2179	4	1836
+2179	4	1836
+2187	4	1836
+2317	4	1836
+2340	4	1836
+2340	4	1836
+2356	4	1836
+2545	4	1836
+2546	4	1836
+2546	4	1836
+2603	4	1836
+2698	4	1836
+2698	4	1836
+2698	4	1836
+2708	4	1836
+2708	4	1836
+2733	4	1836
+2824	4	1836
+2982	4	1836
+2986	4	1836
+3045	4	1836
+3045	4	1836
+3093	4	1836
+1191	5	1836
+1477	5	1836
+1491	5	1836
+1781	5	1836
+1836	5	1836
+1836	5	1836
+1836	5	1836
+2340	5	1836
+2982	5	1836
+2986	5	1836
+577	5	1836
+1191	6	1836
+1491	6	1836
+1491	6	1836
+1491	6	1836
+1683	6	1836
+1683	6	1836
+1836	6	1836
+1836	6	1836
+1836	6	1836
+2179	6	1836
+2340	6	1836
+2340	6	1836
+

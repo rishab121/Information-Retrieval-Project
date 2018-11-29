@@ -1,0 +1,34 @@
+
+
+
+combinations of m out of n objects algorithm 382 $g6
+
+cacm june 1970
+
+chase p j
+
+permutations and combinations permutations
+
+5.39
+
+ca700610 jb february 13 1978  1038 am
+
+2045	5	2045
+2045	5	2045
+2045	5	2045
+2466	5	2045
+2834	5	2045
+3115	5	2045
+907	6	2045
+969	6	2045
+2045	6	2045
+2045	6	2045
+2045	6	2045
+2417	6	2045
+2417	6	2045
+2466	6	2045
+2466	6	2045
+2884	6	2045
+579	6	2045
+785	6	2045
+

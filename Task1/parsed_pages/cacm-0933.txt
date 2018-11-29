@@ -1,0 +1,15 @@
+
+
+
+magic squares algorithm 117  118
+
+cacm january 1963
+
+naur p
+
+ca630115 jb march 14 1978  231 pm
+
+933	5	933
+933	5	933
+933	5	933
+

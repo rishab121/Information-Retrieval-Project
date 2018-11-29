@@ -1,0 +1,37 @@
+
+
+
+a card format for reference files in information processing
+
+this paper proposes a card format suitable for
+a variety of reference files in information 
+processing  an 80-column ibm card is divided into two
+fields-reference material field columns 1-67 
+and identification field columns 68-80  the format
+for the reference material is flexible while the 
+format for the identification is rigid  the reference
+material includes basically an index title source 
+class summary and cross reference for each entry 
+the identification includes basically codes for a 
+matrix of descriptors an entry number and the kind
+major interest and source of the reference  the 
+identification also provides a choice to identify material
+for personal as well as general files  since 
+this card format is sufficient to identify the material
+normally associated with reference files for 
+books articles programming terms hardware terms equipment
+machine systems abbreviations etc it 
+is suitable as a standard for card reference files in information processing
+
+cacm february 1961
+
+grems m
+
+ca610201 jb march 17 1978  108 am
+
+929	5	397
+397	5	397
+397	5	397
+397	5	397
+397	6	397
+

@@ -1,0 +1,34 @@
+
+
+
+on the stability of gauss-jordan elimination with pivoting
+
+the stability of the gauss-jordan algorithm
+with partial pivoting for the solution of general 
+systems of linear equations is commonly regarded as suspect
+ it is shown that in many respects suspicions 
+are unfounded and in general the absolute error in the solution
+is strictly comparable with that corresponding 
+to gaussian elimination with partial pivoting plus back
+substitution  however when a is ill conditioned 
+the residual corresponding to the gauss-jordan solution
+will often be much greater than that corresponding 
+to the gaussian elimination solution
+
+cacm january 1975
+
+peters g
+wilkinson j h
+
+gauss-jordan algorithm gaussian elimination back-substitution
+backward error analysis bounds 
+for error in solution bound for residual 
+
+5.11 5.14
+
+ca750104 jb january 12 1978  1044 am
+
+2807	5	2807
+2807	5	2807
+2807	5	2807
+

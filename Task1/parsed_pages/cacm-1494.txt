@@ -1,0 +1,18 @@
+
+
+
+complete elliptic integral of the second kind algorithm 56 s21
+
+cacm january 1966
+
+larssen g m
+
+ca660103c jb march 23 1978  733 pm
+
+1494	4	1494
+1494	5	1494
+1494	5	1494
+1494	5	1494
+1495	5	1494
+1494	6	1494
+

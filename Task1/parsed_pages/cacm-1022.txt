@@ -1,0 +1,18 @@
+
+
+
+greatest common divisor algorithm 237 a1
+
+cacm august 1964
+
+peck j e l
+
+ca640808 jb march 9 1978  717 pm
+
+1022	5	1022
+1022	5	1022
+1022	5	1022
+2031	5	1022
+1022	6	1022
+450	6	1022
+

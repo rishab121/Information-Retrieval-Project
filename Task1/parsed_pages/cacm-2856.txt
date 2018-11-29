@@ -1,0 +1,91 @@
+
+
+
+the synthetic approach to decision table conversion
+
+previous approaches to the problem of automatically
+converting decision tables to computer 
+programs have been based on decomposition  at any
+stage one condition is selected for testing and 
+two smaller problems decision tables with one less
+condition are created  an optimal program with 
+respect to average execution time or storage space for
+example is located only through implicit enumeration 
+of all possible decision trees using a technique such
+as branch-and-bound  the new approach described 
+in this paper uses dynamic programming to synthesize
+an optimal decision tree from which a program can 
+be created  using this approach the efficiency of creating
+an optimal program is increased substantially 
+permitting generation of optimal programs for decision
+tables with as many as ten to twelve conditions
+
+cacm june 1976
+
+schumacher h
+sevcik k c
+
+decision tables decision trees dynamic programming optimal programs
+
+3.50 4.12 5.30 8.3
+
+ca760606 jb january 4 1978  150 pm
+
+1354	4	2856
+1354	4	2856
+1488	4	2856
+1684	4	2856
+2053	4	2856
+2053	4	2856
+2053	4	2856
+2220	4	2856
+2220	4	2856
+2220	4	2856
+2221	4	2856
+2273	4	2856
+2273	4	2856
+2273	4	2856
+2273	4	2856
+2273	4	2856
+2453	4	2856
+2453	4	2856
+2453	4	2856
+2453	4	2856
+2517	4	2856
+2598	4	2856
+2598	4	2856
+2598	4	2856
+2726	4	2856
+2726	4	2856
+2726	4	2856
+2726	4	2856
+2845	4	2856
+2856	4	2856
+2856	4	2856
+2856	4	2856
+2856	4	2856
+2856	4	2856
+2856	4	2856
+2856	4	2856
+3034	4	2856
+3113	4	2856
+3113	4	2856
+1172	5	2856
+1327	5	2856
+1354	5	2856
+2053	5	2856
+2220	5	2856
+2453	5	2856
+2598	5	2856
+2856	5	2856
+2856	5	2856
+2856	5	2856
+3033	5	2856
+3113	5	2856
+1354	6	2856
+2263	6	2856
+2598	6	2856
+2691	6	2856
+2856	6	2856
+2856	6	2856
+

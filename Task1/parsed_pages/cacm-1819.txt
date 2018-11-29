@@ -1,0 +1,21 @@
+
+
+
+complex error function algorithm 363 s15
+
+cacm november 1969
+
+gautschi w
+
+error function for complex argument voigt function
+laplace continued fraction gauss-hermite 
+quadrature recursive computation
+
+5.12
+
+ca691111 jb february 15 1978  1213 pm
+
+1819	5	1819
+1819	5	1819
+1819	5	1819
+

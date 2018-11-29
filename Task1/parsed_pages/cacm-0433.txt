@@ -1,0 +1,15 @@
+
+
+
+fixed-world-length arrays in variable-word-length computers
+
+cacm december 1962
+
+sonquist j a
+
+ca621206 jb march 17 1978  510 pm
+
+433	5	433
+433	5	433
+433	5	433
+

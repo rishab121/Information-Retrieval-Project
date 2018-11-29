@@ -1,0 +1,15 @@
+
+
+
+bessel function i asymptotic expansion algorithm 6
+
+cacm april 1960
+
+clarke d s
+
+ca600411 jb march 22 1978  139 pm
+
+200	5	200
+200	5	200
+200	5	200
+

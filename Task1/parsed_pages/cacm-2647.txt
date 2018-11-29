@@ -1,0 +1,28 @@
+
+
+
+more on algorithms that reveal properties
+of floating point arithmetic units
+
+cacm may 1974
+
+gentleman w m
+marovich s b
+
+floating-point arithmetic high-level
+languages philosophy of language design
+
+4.9 5.19
+
+ca740506 jb january 17 1978  404 pm
+
+2647	4	2647
+2792	4	2647
+2267	5	2647
+2647	5	2647
+2647	5	2647
+2647	5	2647
+2792	5	2647
+2267	6	2647
+2647	6	2647
+

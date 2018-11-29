@@ -1,0 +1,19 @@
+
+
+
+rosenbrock function minimization algorithm r450
+
+cacm august 1974
+
+bultheel a
+
+ca740812 jb january 17 1978  933 am
+
+2587	5	2612
+2588	5	2612
+2612	5	2612
+2612	5	2612
+2612	5	2612
+2612	6	2612
+2612	6	2612
+

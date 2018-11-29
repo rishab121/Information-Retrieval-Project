@@ -1,0 +1,15 @@
+
+
+
+crout with equilibration and iteration algorithm 135 f4
+
+cacm july 1964
+
+mckeeman w m
+
+ca640709 jb march 9 1978  815 pm
+
+1038	5	1038
+1038	5	1038
+1038	5	1038
+

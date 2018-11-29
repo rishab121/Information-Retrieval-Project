@@ -1,0 +1,41 @@
+
+
+
+a statistical study of the accuracy of floating point number systems
+
+this paper presents the statistical results
+of tests of the accuracy of certain arithmetic 
+systems in evaluating sums products and inner products
+and analytic error estimates for some of the 
+computations  the arithmetic systems studied are 6-digit
+hexadecimal and 22-digit binary floating point 
+number representations combined with the usual chop
+and round modes of arithmetic with various numbers 
+of guard digits and with a modified round mode with guard
+digits  in a certain sense arithmetic systems 
+differing only in their use of binary or hexadecimal number
+representations are shown to be approximately 
+statistically equivalent inaccuracy  further the
+usual round mode with guard digits is shown to be 
+statistically superior in accuracy to the usual chop
+mode in all cases save one  the modified round 
+mode is found to be superior to the chop mode in all cases
+
+cacm april 1973
+
+kuki h
+cody w j
+
+error analysis floating point arithmetic
+rounding guard digits number representation
+
+5.11 5.5 6.32
+
+ca730403 jb january 24 1978  1004 am
+
+2525	4	2525
+1474	5	2525
+2525	5	2525
+2525	5	2525
+2525	5	2525
+

@@ -1,0 +1,20 @@
+
+
+
+american standard code for information interchange
+
+cacm august 1963
+
+ca630801 jb march 13 1978  855 pm
+
+1084	5	797
+797	5	797
+797	5	797
+797	5	797
+868	6	797
+603	6	797
+644	6	797
+669	6	797
+791	6	797
+797	6	797
+

@@ -1,0 +1,34 @@
+
+
+
+complex interval arithmetic
+
+complex interval arithmetic is defined using
+real interval arithmetic  complex interval division 
+is defined so as to assure smallest possible resulting intervals
+
+cacm february 1971
+
+rokne j
+lancaster p
+
+real intervals real interval arithmetic
+complex intervals complex interval arithmetic
+
+5.11
+
+ca710207 jb february 8 1978  839 am
+
+1524	4	2214
+1931	4	2214
+2214	4	2214
+2544	4	2214
+311	5	2214
+2214	5	2214
+2214	5	2214
+2214	5	2214
+2544	5	2214
+1524	6	2214
+311	6	2214
+2214	6	2214
+

@@ -1,0 +1,94 @@
+
+
+
+aparel-a parse-request language
+
+aparel is described this language is an extension
+to an algorithmic language pl/i that provides 
+the pattern-matching capabilities normally found only
+in special purpose languages such as snobol4 and 
+tmg  this capability is provided through parse-requests
+stated in a bnf-like format  these parse-requests 
+form their own programming language with special sequencing
+rules  upon successfully completing a parse-request 
+an associated piece of pl/i code is executed  this
+code has available for use as normal pl/i strings 
+the various pieces at all levels of the parse  it
+also has available as normal pl/i variables the
+information concerning which of the various alternatives
+were successful  convenient facilities for 
+multiple input-output streams the initiation of sequences
+of parse-requests as a subroutine and parse-time 
+semantic checks are also included  aparel has proven convenient
+ in building a powerful syntax and function 
+macro system an algebraic language preprocessor debugging
+system an on-line command parser a translator 
+for dataless programming and as a general string manipulator
+
+cacm november 1969
+
+balzer r m
+farber d j
+
+text processing string processing symbol manipulation
+pl/i bnf syntax parser translator 
+pattern matching
+
+4.12 4.13 4.20 4.22 4.29
+
+ca691106 jb february 15 1978  1244 pm
+
+1046	4	1824
+1105	4	1824
+1139	4	1824
+1140	4	1824
+1234	4	1824
+1263	4	1824
+1265	4	1824
+1496	4	1824
+1541	4	1824
+1565	4	1824
+1665	4	1824
+1693	4	1824
+1768	4	1824
+1781	4	1824
+1781	4	1824
+1781	4	1824
+1787	4	1824
+1824	4	1824
+1824	4	1824
+1824	4	1824
+1824	4	1824
+1825	4	1824
+1836	4	1824
+1861	4	1824
+1861	4	1824
+2015	4	1824
+2110	4	1824
+2126	4	1824
+2126	4	1824
+2127	4	1824
+2187	4	1824
+2252	4	1824
+2317	4	1824
+2545	4	1824
+2546	4	1824
+464	4	1824
+2698	4	1824
+2733	4	1824
+584	4	1824
+631	4	1824
+653	4	1824
+680	4	1824
+763	4	1824
+795	4	1824
+799	4	1824
+945	4	1824
+1358	5	1824
+1614	5	1824
+1781	5	1824
+1824	5	1824
+1824	5	1824
+1824	5	1824
+404	5	1824
+

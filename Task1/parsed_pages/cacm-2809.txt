@@ -1,0 +1,30 @@
+
+
+
+positivity and norms
+
+following some lines of joint work with a
+s householder the character and use of algebraic 
+methods in the theory of norms is demonstrated  new results
+concerning norms with values in an archimedian 
+vector lattice not necessarily being totally ordered
+are given in particular for the generalization 
+of order unit norms l-norms and m-norms  an example
+of application to operator norms is given concerning 
+contraction properties of positive operators
+
+cacm january 1975
+
+bauer f l
+
+matrices norms positivity numerical range positivity
+cones vector latticeabsolute monotonic
+
+5.11 5.14
+
+ca750102 jb january 12 1978  1056 am
+
+2809	5	2809
+2809	5	2809
+2809	5	2809
+

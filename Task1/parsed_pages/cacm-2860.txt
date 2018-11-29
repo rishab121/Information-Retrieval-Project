@@ -1,0 +1,56 @@
+
+
+
+a practitioners guide to addressing algorithms
+
+this paper consolidates a number of popular
+rules of thumb which have been suggested for the
+design of record addressing algorithms and discusses
+the applicability of these rules to large commercial 
+databases  guidelines for selecting identifier transformations
+overflow techniques loading factors 
+bucket sizes and loading order and considered  particular
+attention is focused on the reasonableness 
+of common heuristics for determining primary or secondary
+bucket sizes a mathematical model which explicitly 
+considers storage device characteristics and time/space
+cost tradeoffs is used to analyze the effect 
+of design parameters on overall system costs  a
+specific design example is presented and solved
+
+cacm june 1976
+
+severance d
+duhne r
+
+data management file retrieval searching addressing
+techniques hashing functions synonym resolution 
+loading factor bucket size heuristic design rules of thumb
+
+3.50 3.72 3.74 4.33 4.34 4.41 8.1
+
+ca760602 jb january 4 1978  247 pm
+
+1785	4	2860
+2203	4	2860
+2258	4	2860
+2282	4	2860
+2319	4	2860
+2313	4	2860
+2359	4	2860
+2437	4	2860
+2552	4	2860
+2781	4	2860
+2860	4	2860
+2860	4	2860
+2860	4	2860
+2991	4	2860
+3083	4	2860
+911	4	2860
+1328	5	2860
+2203	5	2860
+2860	5	2860
+2860	5	2860
+2860	5	2860
+492	5	2860
+

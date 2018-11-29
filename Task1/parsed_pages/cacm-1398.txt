@@ -1,0 +1,31 @@
+
+
+
+robot data screening a solution to multivariate
+type problems in the biological and social sciences
+
+a new approach is outlined toward the solution
+of the type of multivariate problem that is 
+found usually in the biological and social sciences as
+well as in medicine  this approach uses a logical 
+rather than a statistical criterion by which variables
+are grouped into a deterministic model  algorithm 
+are developed by which some variables are kept on for
+further analysis while others are eliminated  
+criteria for the acceptance of a variable as well as the
+termination of the searching process are derived 
+from information theory
+
+cacm july 1966
+
+sterling t
+gleser m
+haberman s
+pollack s
+
+ca660714jb march 2 1978  826 pm
+
+1398	5	1398
+1398	5	1398
+1398	5	1398
+

@@ -1,0 +1,39 @@
+
+
+
+on generation of test problems for linear programming codes
+
+users of linear programming computer codes have
+realized the necessity of evaluating the capacity 
+effectiveness and accuracy of the solutions provided
+by such codes  large scale linear programming 
+codes at most installations are assumed to be generating correct
+solutions without ever having been bench-marked 
+by test problems with known solutions  the reason for
+this failure to adequately test the codes is that 
+rarely are there large problems with known solutions readily
+available  this paper presents a theoretical 
+justification and an illustrative implementation of a method
+for generating linear programming test problems 
+with known solutions  the method permits the generation
+of test problems that are of arbitrary size 
+and have a wide range of numerical characteristics
+
+cacm october 1974
+
+charnes a
+raike w m
+stutz j d
+walters a s
+
+linear programming test problem generation
+lp program evaluation lp program validation
+
+5.41
+
+ca741006 jb january 16 1978  1228 pm
+
+2592	5	2592
+2592	5	2592
+2592	5	2592
+

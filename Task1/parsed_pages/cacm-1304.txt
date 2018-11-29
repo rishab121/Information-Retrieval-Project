@@ -1,0 +1,22 @@
+
+
+
+a rapid turnaround multi-programming system
+
+in this paper basic features system characteristics
+and the control algorithm for a multi-programming 
+system with rapid turnaround time are described
+
+cacm march 1965
+
+irons e t
+
+ca650303 jb march 7 1978  619 pm
+
+1304	5	1304
+1304	5	1304
+1304	5	1304
+1550	5	1304
+1304	6	1304
+1472	6	1304
+

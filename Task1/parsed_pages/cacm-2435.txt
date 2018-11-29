@@ -1,0 +1,78 @@
+
+
+
+a class of dynamic memory allocation algorithms
+
+anew dynamic memory allocation algorithm the
+fibonacci system is introduced  this algorithm 
+is similar to but seems to have certain advantages over
+the buddy system  a generalization is mentioned 
+which includes both of these systems as special cases
+
+cacm october 1973
+
+hirschberg d s
+
+dynamic storage allocation buddy system
+simulation fibonacci fragmentation
+
+3.89 4.32 4.39
+
+ca731005 jb january 20 1978  1138 am
+
+1389	4	2435
+1552	4	2435
+2162	4	2435
+2435	4	2435
+2596	4	2435
+2768	4	2435
+2845	4	2435
+2902	4	2435
+2955	4	2435
+1184	5	2435
+2435	5	2435
+2435	5	2435
+2435	5	2435
+2596	5	2435
+2747	5	2435
+2768	5	2435
+2845	5	2435
+2902	5	2435
+2911	5	2435
+2955	5	2435
+1051	6	2435
+1062	6	2435
+1184	6	2435
+1184	6	2435
+1184	6	2435
+1184	6	2435
+1184	6	2435
+1211	6	2435
+1552	6	2435
+1879	6	2435
+1879	6	2435
+1879	6	2435
+273	6	2435
+2435	6	2435
+2435	6	2435
+2435	6	2435
+2435	6	2435
+2435	6	2435
+2435	6	2435
+2435	6	2435
+2498	6	2435
+2596	6	2435
+2596	6	2435
+2598	6	2435
+2734	6	2435
+2734	6	2435
+2736	6	2435
+2747	6	2435
+2747	6	2435
+2747	6	2435
+2768	6	2435
+2768	6	2435
+2773	6	2435
+2773	6	2435
+2983	6	2435
+

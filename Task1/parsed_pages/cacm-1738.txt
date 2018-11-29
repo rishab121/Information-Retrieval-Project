@@ -1,0 +1,38 @@
+
+
+
+writing an outline debugging program for the experienced user
+
+presently available online debugging routines
+are often unsatisfactory for the experienced 
+user because they require unnecessarily rigid and complicated
+typing formats make it difficult for the 
+user to correct typing errors and consume excessive
+memory with intricate features  in a debugging 
+program it is of prime importance that the program
+be simple flexible and highly efficient to use 
+ communication between the user and the debugging program
+can be improved by using certain techniques 
+applicable to most online debugging programs  these
+techniques are presented and are illustrated by 
+their use in opak octal package a debugging program coded
+for the pdp-5/8 and the sds-930  the compromise 
+between economy of utility program core storage and incorporation
+of elegant debugging features is discussed
+
+cacm june 1968
+
+brady p t
+
+debugging utility program programming languages
+
+4.42
+
+ca680607 jb february 22 1978  414 pm
+
+1738	4	1738
+1257	5	1738
+1738	5	1738
+1738	5	1738
+1738	5	1738
+

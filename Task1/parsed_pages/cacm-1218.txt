@@ -1,0 +1,17 @@
+
+
+
+partition generator algorithm 263 a1
+
+cacm august 1965
+
+mckay j k s
+
+ca650806 jb march 6 1978  820 pm
+
+1218	5	1218
+1218	5	1218
+1218	5	1218
+2103	5	1218
+1218	6	1218
+

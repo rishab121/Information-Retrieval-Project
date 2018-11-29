@@ -1,0 +1,51 @@
+
+
+
+intentional resolution of privacy protection in database systems
+
+traditionally privacy protection in database
+systems is understood to be the control over 
+what information a given user can get from a database
+ this paper is concerned with another independent 
+dimension of privacy protection the control over what
+a user is allowed to do with a piece of information 
+supplied to him by the database  the ability to condition
+the supply of information on its intended 
+use is called here intentional resolution of privacy
+protection  the practical importance of intentional 
+resolution is demonstrated by several examples and its realization
+is discussed  it is shown that intentional 
+resolution can be achieved but that it involves a radical
+change from the traditional approach to the 
+process of user-database interaction  in particular
+it appears to be necessary for the database to 
+impose a certain amount of control over the internal
+behavior of users programs which interact with 
+it  a model for user-database interaction
+which admits such a control is developed
+
+cacm march 1976
+
+minsky n
+
+protection in database protection in programming
+languages privacy security intentional resolution 
+of privacy interaction with databases
+
+3.50 3.70 4.20 4.30
+
+ca760304 jb january 4 1978  444 pm
+
+2785	4	2876
+2868	4	2876
+2870	4	2876
+2876	4	2876
+2876	4	2876
+3105	4	2876
+3144	4	2876
+2632	5	2876
+2685	5	2876
+2876	5	2876
+2876	5	2876
+2876	5	2876
+

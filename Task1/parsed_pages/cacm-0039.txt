@@ -1,0 +1,22 @@
+
+
+
+the secant method for simultaneous nonlinear equations 
+
+a procedure for the simultaneous solution
+of a system of not-necessarily-linear equations 
+a generalization of the secant method for a
+single function of one variable is given
+
+cacm december 1959
+
+wolfe p
+
+ca591203 jb march 22 1978  339 pm
+
+39	4	39
+16	5	39
+39	5	39
+39	5	39
+39	5	39
+

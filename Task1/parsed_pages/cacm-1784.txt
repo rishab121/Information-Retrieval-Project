@@ -1,0 +1,35 @@
+
+
+
+practical error coefficients for estimating
+quadrature errors for analytic functions
+
+all published error coefficients for estimating
+quadrature errors for analytic functions were 
+computed on the assumption that the quadrature rule
+was exact for polynomials up to a given degree  
+since these rules use rounded values for the abscissas and
+weights and since the true values of the integrals 
+of some of the polynomials in question have an infinite
+binary expression the quadrature rule is not 
+exact  hence these errors must be taken into consideration
+in computing practical error coefficients
+
+cacm january 1968
+
+rabinowitz p
+
+numerical integration quadrature truncation
+error theoretical error coefficients practical 
+error coefficients integration analytical functions roundoff error
+
+5.11 5.16
+
+ca680110 jb february 23 1978  222 pm
+
+1672	5	1784
+1784	5	1784
+1784	5	1784
+1784	5	1784
+1784	6	1784
+

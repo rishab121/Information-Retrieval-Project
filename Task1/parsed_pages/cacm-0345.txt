@@ -1,0 +1,15 @@
+
+
+
+complete elliptic integral of the second kind algorithm 56
+
+cacm april 1961
+
+herndon j r
+
+ca610423 jb march 16 19781143 pm
+
+345	5	345
+345	5	345
+345	5	345
+

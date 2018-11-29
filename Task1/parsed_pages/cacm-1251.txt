@@ -1,0 +1,21 @@
+
+
+
+american standard and ifip/icc vocabularies compared
+
+the proposed american standard vocabulary of
+information processing and the ifip/icc vocabulary 
+of terms used in information processing are analyzed and compared
+
+cacm june 1965
+
+traub j f
+
+ca650604 jb march 7 1978  1238 pm
+
+1251	4	1251
+975	5	1251
+1251	5	1251
+1251	5	1251
+1251	5	1251
+

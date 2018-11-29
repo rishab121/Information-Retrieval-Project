@@ -1,0 +1,23 @@
+
+
+
+adapting optimal code generation for arithmetic
+expressions to the instruction sets available 
+on present-day computers
+
+cacm june 1973
+
+stockhausen p f
+
+arithmetic expressions code generation compilers
+object-code optimization register assignment 
+trees
+
+4.12 5.24 5.32
+
+ca730605 jb january 23 1978  224 pm
+
+2495	5	2495
+2495	5	2495
+2495	5	2495
+

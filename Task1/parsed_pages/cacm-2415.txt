@@ -1,0 +1,29 @@
+
+
+
+algorithm for automatic numerical integration
+over a finite interval d1 algorithm a468
+
+cacm november 1973
+
+patterson t n l
+
+automatic integration numerical integration
+automatic quadrature numerical quadrature
+
+5.16
+
+ca731111 jb january 20 1978  951 am
+
+1352	4	2415
+2415	4	2415
+2415	4	2415
+2415	4	2415
+2550	4	2415
+1040	5	2415
+1982	5	2415
+2074	5	2415
+2415	5	2415
+2415	5	2415
+2415	5	2415
+

@@ -1,0 +1,56 @@
+
+
+
+file structures using hashing functions
+
+a general method of file structuring is proposed which uses a hashing
+function to define tree structure  two types of such trees are examined 
+and their relation to trees studied in the past is explainedesults for the 
+probability distributions of path lengths are derived and illustrated
+
+cacm july 1970
+
+coffman jr e g
+eve j
+
+data structures tree structures file structures scatter
+tables hashing functions information retrieval
+
+3.70 3.74
+
+ca700705 jb february 13 1978  849 am
+
+1050	4	2032
+1676	4	2032
+1682	4	2032
+1728	4	2032
+1860	4	2032
+1935	4	2032
+1936	4	2032
+1973	4	2032
+2017	4	2032
+2018	4	2032
+2032	4	2032
+2032	4	2032
+2033	4	2032
+2107	4	2032
+2109	4	2032
+2203	4	2032
+2251	4	2032
+2257	4	2032
+2360	4	2032
+2359	4	2032
+2451	4	2032
+2452	4	2032
+2524	4	2032
+2543	4	2032
+2552	4	2032
+2559	4	2032
+2991	4	2032
+3053	4	2032
+1785	5	2032
+2032	5	2032
+2032	5	2032
+2032	5	2032
+849	5	2032
+

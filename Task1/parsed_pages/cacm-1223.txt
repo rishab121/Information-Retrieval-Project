@@ -1,0 +1,151 @@
+
+
+
+high speed compilation of efficient object code
+
+a three-pass compiler with the following properties
+is briefly described  the last two passes 
+scan an intermediate language produced by the preceding
+pass in essentially the reverse of the order 
+in which it was generated so that the first pass is the
+only one which hasto read the bulky problem-oriented 
+input  the double scan one in either direction performed
+by the first two passes allows the compiler 
+to remove locally constant expressions and recursively
+calculable expressions from loops and to do the 
+important part of common subexpression recognition
+ optimization such as the effective use of index 
+registers although as important is not discussed since
+the object code which would be most efficient 
+is highly machine dependent  the discussion is in terms
+of a fortran-like language although the technique 
+is applicable to most algebraic languages
+
+cacm august 1965
+
+gear c w
+
+ca650801 jb march 6 1978  845 pm
+
+267	4	1223
+1139	4	1223
+1141	4	1223
+1215	4	1223
+1223	4	1223
+1223	4	1223
+1388	4	1223
+1647	4	1223
+1781	4	1223
+1787	4	1223
+1792	4	1223
+364	4	1223
+405	4	1223
+436	4	1223
+438	4	1223
+763	4	1223
+1223	5	1223
+1223	5	1223
+1223	5	1223
+224	5	1223
+1781	5	1223
+1807	5	1223
+1945	5	1223
+1947	5	1223
+405	5	1223
+823	6	1223
+123	6	1223
+196	6	1223
+914	6	1223
+915	6	1223
+917	6	1223
+919	6	1223
+984	6	1223
+989	6	1223
+990	6	1223
+990	6	1223
+1007	6	1223
+1012	6	1223
+1046	6	1223
+1084	6	1223
+1098	6	1223
+1122	6	1223
+1131	6	1223
+1134	6	1223
+1138	6	1223
+1139	6	1223
+1139	6	1223
+1140	6	1223
+1141	6	1223
+1149	6	1223
+1198	6	1223
+1200	6	1223
+1215	6	1223
+1223	6	1223
+1223	6	1223
+1223	6	1223
+1223	6	1223
+1248	6	1223
+1248	6	1223
+1265	6	1223
+1265	6	1223
+1303	6	1223
+1323	6	1223
+1336	6	1223
+1358	6	1223
+1366	6	1223
+1396	6	1223
+1421	6	1223
+1455	6	1223
+1460	6	1223
+1462	6	1223
+1463	6	1223
+1467	6	1223
+1468	6	1223
+1477	6	1223
+1477	6	1223
+1487	6	1223
+1491	6	1223
+1491	6	1223
+1496	6	1223
+1496	6	1223
+1531	6	1223
+1535	6	1223
+1551	6	1223
+1565	6	1223
+1601	6	1223
+1602	6	1223
+1613	6	1223
+1614	6	1223
+1626	6	1223
+1641	6	1223
+1787	6	1223
+1788	6	1223
+205	6	1223
+224	6	1223
+249	6	1223
+288	6	1223
+1947	6	1223
+316	6	1223
+381	6	1223
+398	6	1223
+399	6	1223
+11	6	1223
+404	6	1223
+410	6	1223
+463	6	1223
+464	6	1223
+483	6	1223
+483	6	1223
+3184	6	1223
+3188	6	1223
+584	6	1223
+584	6	1223
+600	6	1223
+669	6	1223
+680	6	1223
+680	6	1223
+691	6	1223
+763	6	1223
+763	6	1223
+799	6	1223
+

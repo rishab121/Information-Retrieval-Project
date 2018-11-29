@@ -1,0 +1,36 @@
+
+
+
+a simscript-fortran case study
+
+two programs for a vehicle dispatching model
+one written in 7040 simscript and the other in 
+7040 fortran iv are compared the comparison is made
+in terms of basic program design decisions storage 
+requirements computer time used and the ease of making
+changes  in the simscript program the primary 
+design considerations center around the choice of model
+variables model changing events and model testing 
+ in the fortran program basic design problems relate
+to the representation of the passage of time the 
+allocation of storage and the organization of input
+data  the comparison of these differently designed 
+programs shows that the simscript program uses more computer
+storage and more computer time but requires 
+fewer program changes to introduce model revisions
+
+cacm december 1967
+
+weinert a e
+
+ca671205 jb february 26 1978  230 pm
+
+1503	4	1503
+1781	4	1503
+1860	4	1503
+2091	4	1503
+1366	5	1503
+1503	5	1503
+1503	5	1503
+1503	5	1503
+

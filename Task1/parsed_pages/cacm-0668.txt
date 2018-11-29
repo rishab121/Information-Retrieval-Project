@@ -1,0 +1,15 @@
+
+
+
+minimum excess cost curve algorithm 217
+
+cacm december 1963
+
+briggs w a
+
+ca631206 jb march 13 1978  258 pm
+
+668	5	668
+668	5	668
+668	5	668
+

@@ -1,0 +1,42 @@
+
+
+
+computer education in a graduate school of management
+
+several years of experience have led to the belief that the creative
+design and evaluation of management information systems requires
+a thorough understanding of the related computer technology  concepts
+such as paging and priority interrupt systems can best be explained at the 
+machine language level  any machine used for exposition
+should fulfill several criteria  it should 1 raise as few
+spurious issues as possible 2 allow without undue effort the
+solution of interesting problems 3 be capable of exposing all
+outstanding issues of significance capable of exposing all outstanding
+issues of significance within the chosen machine 4 be
+seful for pursuing issues in great depth when appropriate 5 not
+be committed to the equipment provided by any manufacturer 6 be able to 
+provide the student with diagnostic aids to a great depth
+7 allow the student ready access to the machine 8 be capable
+of extension to expose new issues as they come along  we have
+constructed a simulated machine and its associated software which
+meets these criteria  this system called the prism system
+is documented by a primer and a reference manual
+
+cacm february 1970
+
+ness d n
+green r s
+martin w a
+moulton g a
+
+education simulation machine language
+management information systems interpreters
+
+1.52 3.51 4.13 4.21
+
+ca700209 jb february 14 1978  1015 am
+
+2106	5	2106
+2106	5	2106
+2106	5	2106
+

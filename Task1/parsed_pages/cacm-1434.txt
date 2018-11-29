@@ -1,0 +1,31 @@
+
+
+
+a monte carlo algorithm for assigning students to classes
+
+a technique of random choice is illustrated
+by application to the problem of assigning students 
+to a fixed schedule of courses  using the technique
+it is possible to reduce or eliminate difficulties 
+that result when a popular section is filled and closed
+before all students requesting and requiring 
+it have been scheduled  the effectiveness of automatic
+scheduling is retained without loss of the students 
+privilege of picking favorite instructors
+
+cacm may 1966
+
+macon n
+walker e e
+
+ca660503 jb march 3 1978  1014 am
+
+1434	5	1434
+1434	5	1434
+1434	5	1434
+1540	5	1434
+2209	5	1434
+1434	6	1434
+1434	6	1434
+1540	6	1434
+

@@ -1,0 +1,35 @@
+
+
+
+estimation of heart parameters using skin potential measurements
+
+a fundamental problem of vector cardiography
+is the estimation of the state of the heart on 
+the basis of skin potential measurements  a mathematical
+model relating ventricular dipoles to surface 
+potentials is sketched  then it is shown that the inverse
+problem-that of determining electrical heart 
+parameters on the basis of skin potential measurements-may
+be viewed as a nonlinear multipoint boundary 
+value problem  a feasible solution employing quasilinearization
+and high-speed digital computers is 
+given
+
+cacm november 1964
+
+bellman r
+collier c
+kagiwada h
+kalaba r
+selvester r
+
+ca641110 jb march 9 1978  400 pm
+
+973	5	973
+973	5	973
+973	5	973
+1278	5	973
+973	6	973
+1028	6	973
+1029	6	973
+

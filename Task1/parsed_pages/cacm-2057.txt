@@ -1,0 +1,31 @@
+
+
+
+random vectors uniform in solid angle algorithm 381 $g5
+
+cacm may 1970
+
+knop r e
+
+random number random vector random number generator probability
+distribution frequency distribution simulation monte carlo
+
+5.5
+
+ca700509 jb february 13 1978  119 pm
+
+2057	4	2057
+2057	4	2057
+2057	4	2057
+2058	4	2057
+2349	4	2057
+2392	4	2057
+2392	4	2057
+2416	4	2057
+1600	5	2057
+1894	5	2057
+2055	5	2057
+2057	5	2057
+2057	5	2057
+2057	5	2057
+

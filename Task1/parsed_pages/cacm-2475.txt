@@ -1,0 +1,20 @@
+
+
+
+solution of linear programming problems
+in 0-1 variables h1 algorithm a449
+
+cacm july 1973
+
+fiala f
+
+linear programming zero-one variable 
+
+5.41
+
+ca730711 jb january 23 1978  1119 am
+
+2475	5	2475
+2475	5	2475
+2475	5	2475
+

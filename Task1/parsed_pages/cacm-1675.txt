@@ -1,0 +1,25 @@
+
+
+
+a note on a relevance estimate and its improvement
+
+in this paper the effect of iterating the improvement
+procedure is examined  it is shown that 
+applications of the improvement factor beyond the first
+time are ineffectual and that the factor is 
+but a scale factor
+
+cacm november 1968
+
+korfhage r r
+
+information retrieval relevance indexing classification
+
+3.70 3.71 3.74
+
+ca681104 jb february 21 1978  257 pm
+
+1675	5	1675
+1675	5	1675
+1675	5	1675
+

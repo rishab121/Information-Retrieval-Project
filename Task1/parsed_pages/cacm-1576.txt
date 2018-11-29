@@ -1,0 +1,16 @@
+
+
+
+eigenvalues of a real symmetric matrix
+by the qr method algorithm 253 f2
+
+cacm june 1967
+
+welsch j h
+
+ca670607d jb march 23 1978  330 pm
+
+1576	5	1576
+1576	5	1576
+1576	5	1576
+

@@ -1,0 +1,114 @@
+
+
+
+a hardware architecture for implementing protection rings
+
+protection of computations and information
+is an important aspect of a computer utility  in 
+a system which uses segmentation as a memory addressing
+scheme protection can be achieved in part by 
+associating concentric rings of decreasing access privilege
+with a computation  this paper describes 
+hardware processor mechanisms for implementing these rings
+of protection  the mechanisms for implementing 
+these rings of protection the mechanisms allow cross-ring
+calls and subsequent returns to occur without 
+trapping to the supervisor  automatic hardware validation
+of references across ring boundaries is also 
+performed  thus a call by a user procedure to a protected
+subsystem including the supervisor is identical 
+to a call to a companion user procedure  the mechanisms
+of passing and referencing arguments are the 
+same in both cases as well
+
+cacm march 1972
+
+schroeder m d
+saltzer j h
+
+protection protection rings protection hardware
+access control hardware access control computer 
+utility time-sharing shared information segmentation virtual memory multics
+
+4.32 6.21
+
+ca720304 jb january 31 1978  258 pm
+
+1458	4	2377
+1523	4	2377
+1603	4	2377
+1698	4	2377
+1747	4	2377
+1748	4	2377
+1753	4	2377
+1828	4	2377
+1854	4	2377
+1854	4	2377
+1877	4	2377
+1877	4	2377
+1960	4	2377
+1960	4	2377
+2150	4	2377
+2317	4	2377
+2319	4	2377
+2358	4	2377
+2377	4	2377
+2377	4	2377
+2377	4	2377
+2377	4	2377
+2378	4	2377
+2372	4	2377
+2342	4	2377
+2376	4	2377
+2379	4	2377
+2424	4	2377
+2482	4	2377
+2497	4	2377
+2558	4	2377
+2618	4	2377
+2625	4	2377
+2625	4	2377
+2626	4	2377
+2626	4	2377
+2632	4	2377
+2632	4	2377
+2669	4	2377
+2704	4	2377
+2723	4	2377
+2738	4	2377
+2740	4	2377
+2741	4	2377
+2840	4	2377
+2840	4	2377
+2867	4	2377
+2941	4	2377
+3105	4	2377
+3144	4	2377
+3184	4	2377
+1471	5	2377
+1746	5	2377
+1749	5	2377
+2358	5	2377
+2377	5	2377
+2377	5	2377
+2377	5	2377
+2436	5	2377
+2626	5	2377
+2868	5	2377
+2870	5	2377
+953	6	2377
+1746	6	2377
+2080	6	2377
+2358	6	2377
+2377	6	2377
+2377	6	2377
+2377	6	2377
+2377	6	2377
+2380	6	2377
+2558	6	2377
+2625	6	2377
+2625	6	2377
+2629	6	2377
+2632	6	2377
+2632	6	2377
+

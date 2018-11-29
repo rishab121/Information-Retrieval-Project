@@ -1,0 +1,57 @@
+
+
+
+execution characteristics of programs in a page-on-demand system
+
+data are presented which show the execution characteristics
+of two types of commonly used programs 
+in a large-scale time-shared computer system  a software
+monitoring facility built into the supervisor 
+was used for data collection during normal system operation
+ these data were analyzed and results of 
+this analysis are presented for a fortran compiler
+and an interactive line file editor  probability 
+distribution functions and other data are given for
+such things as cpu intervals i/o intervals and 
+the number of such intervals during execution  empirical
+distributions are compared with simple theoretical 
+distributions exponential hyperexponential and geometric
+ other data show paging characteristics 
+of tasks as a function of the number of pages those tasks have in core
+
+cacm april 1974
+
+boyse j w
+
+program behavior virtual memory paging demand paging
+software monitor program execution characteristics 
+compiler execution behavior editor execution behavior
+
+4.12 4.19 4.32 4.39 4.9 8.1
+
+ca740403 jb january 18 1978  1012 am
+
+1533	4	2667
+1892	4	2667
+1924	4	2667
+1951	4	2667
+2095	4	2667
+2218	4	2667
+2297	4	2667
+2374	4	2667
+2526	4	2667
+2667	4	2667
+2667	4	2667
+2667	4	2667
+2668	4	2667
+2668	4	2667
+2668	4	2667
+2862	4	2667
+2863	4	2667
+1604	5	2667
+1728	5	2667
+1827	5	2667
+2667	5	2667
+2667	5	2667
+2667	5	2667
+

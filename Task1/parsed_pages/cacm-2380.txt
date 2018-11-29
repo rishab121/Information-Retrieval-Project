@@ -1,0 +1,91 @@
+
+
+
+tenex a paged time sharing system for the pdp-10
+
+tenex is a new time sharing system implemented
+on dec pdp-10 augmented by special paging hardware 
+developed at bbn  this report specifies a set of goals
+which are important for any time sharing system 
+ it describes how the tenex design and implementation
+achieve these goals  these include specifications 
+for a powerful multiprocess large memory virtual machine
+intimate terminal interaction comprehensive 
+uniform file and i/o capabilities and clean flexible
+system structure  although the implementation 
+described here required some compromise to achieve a
+system operational within six months of hardware 
+checkout tenex has met its major goals and provided
+reliable service at several sites and through the 
+arpa network
+
+cacm march 1972
+
+bobrow d g
+burchfiel j d
+murphy d l
+tomlinson r s
+beranek b
+
+tenex paging virtual machines time sharing
+system scheduling algorithm process structure 
+pdp-10
+
+2.44 4.32 4.39 4.42
+
+ca720301 jb january 31 1978  337 pm
+
+1892	4	2380
+1901	4	2380
+2085	4	2380
+2095	4	2380
+2218	4	2380
+2277	4	2380
+2319	4	2380
+2329	4	2380
+2358	4	2380
+2373	4	2380
+2374	4	2380
+2380	4	2380
+2380	4	2380
+2434	4	2380
+2499	4	2380
+2450	4	2380
+2501	4	2380
+2582	4	2380
+2595	4	2380
+2669	4	2380
+2828	4	2380
+2863	4	2380
+2881	4	2380
+2928	4	2380
+2996	4	2380
+2996	4	2380
+3006	4	2380
+3006	4	2380
+3067	4	2380
+3067	4	2380
+1751	5	2380
+2373	5	2380
+2380	5	2380
+2380	5	2380
+2380	5	2380
+2629	5	2380
+2868	5	2380
+2928	5	2380
+2951	5	2380
+1502	6	2380
+1751	6	2380
+2080	6	2380
+2277	6	2380
+2377	6	2380
+2380	6	2380
+2380	6	2380
+2380	6	2380
+2380	6	2380
+2522	6	2380
+2558	6	2380
+2569	6	2380
+2625	6	2380
+2632	6	2380
+

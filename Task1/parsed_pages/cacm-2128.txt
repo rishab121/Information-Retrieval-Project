@@ -1,0 +1,35 @@
+
+
+
+a processor allocation method for time-sharing
+
+a scheduling algorithm is proposed which is intended to minimize changes of 
+tasks on processors and thereby reduce over-head  the algorithm also has
+application to more general resource allocation problems  it is implemented 
+by means of a method for efficiently handling dynamically changing segmented 
+lists
+
+cacm january 1970
+
+mullery a p
+driscoll g c
+
+time sharing resource allocation scheduling algorithms
+monitors dynamic allocation processor
+allocation multiprogramming multiprocessing time
+slicing scheduling conversational systems 
+interactive systems 
+
+3.80 4.30 4.31 4.32 6.33
+
+ca700103 jb february 14 1978  215 pm
+
+1751	4	2128
+1892	4	2128
+2128	4	2128
+2218	4	2128
+1752	5	2128
+2128	5	2128
+2128	5	2128
+2128	5	2128
+

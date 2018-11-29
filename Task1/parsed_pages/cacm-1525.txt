@@ -1,0 +1,51 @@
+
+
+
+on computing the fast fourier transform
+
+cooley and tukey have proposed a fast algorithm
+for computing complex fourier transform and 
+have shown major time savings in using it to compute
+large transforms on a digital computer  with n 
+a power of two computing time for this algorithm is
+proportional to n log2 n a major improvement over 
+other methods with computing time proportional to n^2
+ in this paper the fast fourier transform algorithm 
+is briefly reviewed and fast difference equation methods
+for accurately computing the needed trigonometric 
+function values are given  the problem of computing
+a large fourier transform on a system with virtual 
+memory is considered and a solution is proposed  this
+method has been used to compute complex fourier 
+transforms of size n  2^16 on a computer with 2^15
+words of core storage this exceeds by a factor of 
+eight the maximum radix two transform size with fixed
+allocation of this amount of core storage  the 
+method has also been used to compute large mixed radix
+transforms  a scaling plan for computing the 
+fast fourier transform with fixed-point arithmetic is also given
+
+cacm october 1967
+
+singleton r c
+
+ca671008 jb february 27 1978  203 pm
+
+1525	5	1525
+1525	5	1525
+1525	5	1525
+1668	5	1525
+1669	5	1525
+1679	5	1525
+1728	5	1525
+2859	5	1525
+1525	6	1525
+1525	6	1525
+1525	6	1525
+1525	6	1525
+1525	6	1525
+1647	6	1525
+1669	6	1525
+1676	6	1525
+1785	6	1525
+

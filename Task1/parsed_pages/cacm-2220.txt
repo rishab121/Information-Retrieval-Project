@@ -1,0 +1,120 @@
+
+
+
+conversion of limited-entry decision tables to computer
+programs-a proposed modification to pollacks 
+algorithm
+
+pollack has proposed an algorithm for converting
+decision tables into flowcharts which minimize 
+subsequent execution time when compiled into a computer
+program  two modifications of this algorithm 
+are proposed  the first relies on shannons noiseless
+coding theorem and the communications concept 
+of entropy but does not completely test the else rule
+ the second modification completely tests the 
+else rule but results in more executions than the first modification
+ both modifications result in modification 
+guarantees a globally optimal solution
+
+cacm february 1971
+
+shwayder k
+
+coding decision table entropy information
+theory noiseless channel sorting
+
+3.50 5.31
+
+ca710201 jb february 8 1978  1006 am
+
+1237	4	2220
+1354	4	2220
+1354	4	2220
+1354	4	2220
+1488	4	2220
+1488	4	2220
+1548	4	2220
+1684	4	2220
+1994	4	2220
+2053	4	2220
+2053	4	2220
+2053	4	2220
+2053	4	2220
+2220	4	2220
+2220	4	2220
+2220	4	2220
+2220	4	2220
+2220	4	2220
+2220	4	2220
+2220	4	2220
+2273	4	2220
+2273	4	2220
+2273	4	2220
+2273	4	2220
+2453	4	2220
+2453	4	2220
+2492	4	2220
+2518	4	2220
+2598	4	2220
+2598	4	2220
+2616	4	2220
+2726	4	2220
+2726	4	2220
+2726	4	2220
+2726	4	2220
+2726	4	2220
+2856	4	2220
+2856	4	2220
+2856	4	2220
+3113	4	2220
+753	4	2220
+1172	5	2220
+1237	5	2220
+1327	5	2220
+1354	5	2220
+250	5	2220
+1489	5	2220
+1548	5	2220
+2220	5	2220
+2220	5	2220
+2220	5	2220
+2273	5	2220
+2453	5	2220
+2598	5	2220
+2726	5	2220
+2856	5	2220
+1172	6	2220
+1172	6	2220
+1172	6	2220
+1172	6	2220
+1172	6	2220
+1237	6	2220
+1327	6	2220
+1327	6	2220
+1327	6	2220
+1354	6	2220
+1354	6	2220
+1354	6	2220
+1354	6	2220
+1488	6	2220
+1489	6	2220
+1548	6	2220
+1548	6	2220
+2053	6	2220
+2053	6	2220
+2053	6	2220
+2220	6	2220
+2220	6	2220
+2220	6	2220
+2220	6	2220
+2220	6	2220
+2221	6	2220
+2263	6	2220
+2263	6	2220
+2453	6	2220
+2453	6	2220
+2598	6	2220
+2691	6	2220
+753	6	2220
+

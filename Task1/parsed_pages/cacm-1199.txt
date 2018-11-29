@@ -1,0 +1,28 @@
+
+
+
+a computer center simulation project
+
+todays computation centers are based on rapidly
+changing technologies of hardware and software 
+systems  it is difficult therefore to base decisions
+on experience in most instances the benefits 
+of comparable experience for a given problem situation
+are not available  in this paper a mathematical 
+model of the lockheed central computer center is formulated
+that describes the operation of a computation 
+center in terms of information nets decision processes
+and control functions  experiments performed 
+with this model the results of the experiments
+and the application of the results are discussed
+
+cacm september 1965
+
+hutchinson g k
+
+ca650907jb march 6 1978  729 pm
+
+1199	5	1199
+1199	5	1199
+1199	5	1199
+

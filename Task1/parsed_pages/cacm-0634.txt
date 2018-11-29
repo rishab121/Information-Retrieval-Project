@@ -1,0 +1,26 @@
+
+
+
+manipulation of trees in information retrieval
+
+cacm february 1962
+
+salton g
+
+ca620209 jb march 20 1978  344 pm
+
+1087	4	634
+634	4	634
+931	5	634
+1324	5	634
+329	5	634
+634	5	634
+634	5	634
+634	5	634
+202	6	634
+396	6	634
+634	6	634
+634	6	634
+652	6	634
+653	6	634
+

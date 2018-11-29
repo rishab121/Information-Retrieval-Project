@@ -1,0 +1,50 @@
+
+
+
+a fast fourier transform algorithm for real-valued series
+
+a new procedure is presented for calculating the
+complex discrete fourier transform of real-valued 
+time series  this procedure is described for an example
+where the number of points in the series is 
+an integral power of two  this algorithm preserves
+the order and symmetry of the cooley-turkey fast 
+fourier transform algorithm while effecting the two-to-one
+reduction in computation and storage which 
+can be achieved when the series is real  also discussed
+are hardware and software implementations of 
+the algorithm which perform only n/4 log2 n/2 complex
+multiply and add operations and which require 
+only n real storage locations in analyzing each n-point record
+
+cacm october 1968
+
+bergland g d
+
+fast fourier transform time series analysis digital
+filtering spectral analysis real-time spectrum 
+analyzers fourier analysis discrete fourier transform
+digital spectrum analysis fourier analysis 
+algorithm fourier synthesis algorithm
+
+3.80 3.81 4.9 5.49 6.22
+
+ca681008 jb february 21 1978  323 pm
+
+1668	4	1679
+1669	4	1679
+1679	4	1679
+1728	4	1679
+2859	4	1679
+1525	5	1679
+1679	5	1679
+1679	5	1679
+1679	5	1679
+2354	5	1679
+1418	6	1679
+1521	6	1679
+1597	6	1679
+1679	6	1679
+2350	6	1679
+2355	6	1679
+

@@ -1,0 +1,121 @@
+
+
+
+can programming be liberated from the von neumann
+style  a functional style and its algebra 
+of programs
+
+conventional programming languages are growing
+ever more enormous but not stronger  inherent 
+defects at the most basic level cause them to be both
+fat and weak their primitive word-at-a-time style 
+of programming inherited from their common ancestor-the
+von neumann computer their close coupling off 
+semantics to state transitions their division of programming
+into a world of expressions and a world 
+of statements their inability to effectively use powerful
+combining forms for building new programs 
+from existing ones and their lack of useful mathematical
+properties for reasoning about programs an 
+alternative functional style of programming is founded
+on the use of combining forms for creating programs 
+ functional programs deal with structured data are often
+nonrepetitive and nonrecursive are hierarchically 
+constructed do not name their arguments and do not require
+the complex machinery of procedure declarations 
+to become generally applicable  combining forms can
+use high level programs to build still higher level
+ones in a style not possible in conventional languages
+ associated with the functional style of programming 
+is an algebra of programs whose variables range over
+programs and whose operations are combining forms 
+ this algebra can be used to transform programs and
+to solve equations whose unknowns are programs 
+in much the same way one transforms equations in high
+school algebra  these transformations are given 
+by algebraic laws and are carried out in the same language
+in which programs are written  combining 
+forms are chosen not only for their programming power
+but also for the power of their associated algebraic 
+laws  general theorems of of the algebra give the detailed
+behavior and termination conditions for large 
+classes of programs  a new class of computing systems
+uses the functional programming style both in 
+its programming language and in its state transition
+rules  unlike von neumann languages these systems 
+have semantics loosely coupled to states-only one
+state transition occurs per major computation 
+
+cacm august 1978
+
+backus j
+
+functional programming algebra of programs combining
+forms functional forms programming languages 
+von neumann computers von neumann languages models of
+computing systems applicative computing systems 
+applicative state transition systems program transformation
+program correctness program termination 
+metacomposition
+
+4.20 4.29 5.20 5.24 5.26
+
+ca780801 dh february 7 1979  313 pm
+
+1024	4	3077
+1051	4	3077
+1102	4	3077
+1132	4	3077
+1390	4	3077
+1486	4	3077
+1549	4	3077
+1706	4	3077
+1826	4	3077
+1878	4	3077
+378	4	3077
+2021	4	3077
+2060	4	3077
+2155	4	3077
+2155	4	3077
+2168	4	3077
+2222	4	3077
+2227	4	3077
+2294	4	3077
+2315	4	3077
+2326	4	3077
+2470	4	3077
+2558	4	3077
+2719	4	3077
+2723	4	3077
+2732	4	3077
+2838	4	3077
+2842	4	3077
+2842	4	3077
+2855	4	3077
+2865	4	3077
+2879	4	3077
+2896	4	3077
+2943	4	3077
+2981	4	3077
+3014	4	3077
+3030	4	3077
+3068	4	3077
+3077	4	3077
+3077	4	3077
+3077	4	3077
+3077	4	3077
+3080	4	3077
+3104	4	3077
+3106	4	3077
+3143	4	3077
+3150	4	3077
+627	4	3077
+106	4	3077
+210	5	3077
+1834	5	3077
+2060	5	3077
+2457	5	3077
+3077	5	3077
+3077	5	3077
+3077	5	3077
+

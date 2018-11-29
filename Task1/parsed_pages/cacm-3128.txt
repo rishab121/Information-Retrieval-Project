@@ -1,0 +1,75 @@
+
+
+
+synchronization with eventcounts and sequencers
+
+synchronization of concurrent processes requires controlling the relative 
+ordering of events in the processes
+a new synchronization mechanism is proposed using 
+abstract objects called eventcounts and sequencers that allows processes
+to control the ordering of events directly rather than using mutual
+exclusion to protect manipulations of shared variables that control
+ordering of events  direct control of ordering seems to simplify
+correctness arguments and also simplifies implementation in distributed
+systems  the mechanism is defined formally and then several
+examples of its use are given  the relationship of the mechanism
+to protection mechanisms in the system is explained in particular
+eventcounts are shown to be applicable to situations where confinement
+of information matters  an implementation of eventcount
+s and sequencers in a system with shared memory is described
+
+cacm february 1979
+
+reed d
+kanodia r
+
+process synchronization interprocess communication distributed
+systems security models mutual exclusion semaphores
+
+4.30 4.32
+
+ca790207 dh april 12 1979  1003 am
+
+2320	4	3128
+2597	4	3128
+2700	4	3128
+2777	4	3128
+2840	4	3128
+2851	4	3128
+2865	4	3128
+2866	4	3128
+2869	4	3128
+2895	4	3128
+2898	4	3128
+2912	4	3128
+2938	4	3128
+2945	4	3128
+2946	4	3128
+2946	4	3128
+2972	4	3128
+3043	4	3128
+3128	4	3128
+3128	4	3128
+3128	4	3128
+3128	4	3128
+3128	4	3128
+3128	4	3128
+3128	4	3128
+3128	4	3128
+3128	4	3128
+3144	4	3128
+3148	4	3128
+3158	4	3128
+2150	5	3128
+2376	5	3128
+2436	5	3128
+2597	5	3128
+2865	5	3128
+2866	5	3128
+2870	5	3128
+2912	5	3128
+3082	5	3128
+3128	5	3128
+3128	5	3128
+3128	5	3128
+

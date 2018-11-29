@@ -1,0 +1,21 @@
+
+
+
+the iteration element
+
+a recent addition to the mad language has made
+the iteration structure of the mad through statement 
+corresponding to the algol for statement and the fortran
+do statement available within expressions
+
+cacm june 1965
+
+galler b a
+fischer m j
+
+ca650601 jb march 7 1978  1249 pm
+
+1254	5	1254
+1254	5	1254
+1254	5	1254
+

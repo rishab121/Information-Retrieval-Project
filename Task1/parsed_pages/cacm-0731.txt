@@ -1,0 +1,127 @@
+
+
+
+symmetric list processor 
+
+a list processing system in which each list
+cell contains both a forward and a backward link 
+as well as a datum is described  this system is intended
+for imbeding in higher level languages capable 
+of calling functions and subroutines coded in machine language
+ the presentation is in the form of fortran 
+programs depending on only a limited set of fortran programs
+depending on only a limited set of primitive 
+machine language subroutines which are also defined
+ finally a set of field particularly character 
+manipulation primitives are given to round out the system
+
+cacm september 1963
+
+weizenbaum j
+
+ca630927 jb march 13 1978  710 pm
+
+1050	4	731
+1050	4	731
+1102	4	731
+1549	4	731
+378	4	731
+2723	4	731
+2882	4	731
+3008	4	731
+731	4	731
+731	4	731
+793	4	731
+798	4	731
+1024	5	731
+1051	5	731
+1098	5	731
+1214	5	731
+209	5	731
+1380	5	731
+1388	5	731
+1393	5	731
+1485	5	731
+1487	5	731
+1549	5	731
+1570	5	731
+1878	5	731
+1946	5	731
+1957	5	731
+2168	5	731
+2723	5	731
+2857	5	731
+3112	5	731
+627	5	731
+731	5	731
+731	5	731
+731	5	731
+878	6	731
+106	6	731
+106	6	731
+106	6	731
+902	6	731
+1051	6	731
+1093	6	731
+1098	6	731
+1132	6	731
+1177	6	731
+1380	6	731
+1387	6	731
+1389	6	731
+1393	6	731
+1393	6	731
+1421	6	731
+1549	6	731
+1626	6	731
+1749	6	731
+1826	6	731
+1826	6	731
+1826	6	731
+210	6	731
+210	6	731
+210	6	731
+210	6	731
+210	6	731
+210	6	731
+1860	6	731
+1878	6	731
+296	6	731
+1972	6	731
+360	6	731
+378	6	731
+2438	6	731
+2651	6	731
+2723	6	731
+2736	6	731
+2833	6	731
+2838	6	731
+405	6	731
+406	6	731
+406	6	731
+3184	6	731
+627	6	731
+627	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+731	6	731
+753	6	731
+793	6	731
+794	6	731
+799	6	731
+

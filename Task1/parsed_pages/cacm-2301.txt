@@ -1,0 +1,39 @@
+
+
+
+generating parsers for affix grammars
+
+affix grammars are two-level grammars which
+are similar to van wijngaardens two-level grammars 
+used in the definition of algol 68  affix grammars are shown
+by koster to be equal in power to van wijngaarden 
+grammars  they are much more suited to parsing than
+are the latter however  koster the inventor of 
+affix based on recursive procedures  this paper presents
+a bottom-up scheme for parsing them based 
+on an extension of floyd production language fpl  included
+is an algorithm similar to that of deremers 
+for converting a large class of affix grammars into fpl
+ the paper concludes by discussing briefly the 
+applicabilities of the conversion algorithm and affix
+grammars in general and some possible extensions 
+to kosters definition of affix grammars
+
+cacm august 1972
+
+crowe d
+
+algorithmic language processingbottom-up parsing
+floyd production language parsing syntax 
+directed compiling translator writing systems two-level grammars
+
+3.42 4.12 4.13 4.20 5.23
+
+ca720801 jb january 30 1978  1021 am
+
+2301	5	2301
+2301	5	2301
+2301	5	2301
+2886	5	2301
+2301	6	2301
+

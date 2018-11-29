@@ -1,0 +1,24 @@
+
+
+
+an evaluation of autocode readability
+
+of the many requirements of an autocode the
+pair of requirements easy to read and easy 
+to write are not often compatible  this paper argues
+that readability can be added automatically in 
+the translation process so that the programmer can
+enjoy the utmost economy of expression while for 
+management a full and valid cobol version is printed to give
+all the advantages of readability and compatibility
+
+cacm march 1962
+
+ellis p v
+
+ca620302 jb march 20 1978  315 pm
+
+630	5	630
+630	5	630
+630	5	630
+

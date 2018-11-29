@@ -1,0 +1,20 @@
+
+
+
+rosenbrock function minimization e4 algorithm a450
+
+cacm august 1973
+
+machura m
+mulawa a
+
+function minimization rosenbrocks method
+
+5.19
+
+ca730806 jb january 23 1978  1043 am
+
+2468	5	2468
+2468	5	2468
+2468	5	2468
+

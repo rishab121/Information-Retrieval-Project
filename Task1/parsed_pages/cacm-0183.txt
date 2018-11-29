@@ -1,0 +1,15 @@
+
+
+
+conversion between floating point representations
+
+cacm june 1960
+
+perry c
+
+ca600607 jb march 20 1978  940 pm
+
+183	5	183
+183	5	183
+183	5	183
+

@@ -1,0 +1,80 @@
+
+
+
+a simple linear model of demand paging performance
+
+predicting the performance of a proposed automatically
+managed multilevel memory system requires 
+a model of the patterns by which programs refer to the
+information stored in the memory  some recent 
+experimental measurements on the multics virtual memory
+suggest that for rough approximations a remarkably 
+simple program reference model will suffice  the simple
+model combines the effect of the information 
+reference pattern with the effect of the automatic management
+algorithm to produce a single composite 
+statement the mean number of memory references between
+paging exceptions increases linearly with the 
+size of the paging memory  the resulting model is easy
+to manipulate and is applicable to such diverse 
+problems as choosing an optimum size for a paging memory
+arranging for reproducible memory usage charges 
+and estimating the amount of core memory sharing
+
+cacm april 1974
+
+saltzer j h
+
+paging demand paging memory models program models
+performance measurement multilevel memory 
+systems virtual memory associative memory memory usage accounting multics
+
+3.79 4.30 4.32
+
+ca740401 jb january 18 1978  1041 am
+
+1892	4	2669
+1901	4	2669
+2085	4	2669
+2095	4	2669
+2218	4	2669
+2277	4	2669
+2319	4	2669
+2319	4	2669
+2329	4	2669
+2358	4	2669
+2377	4	2669
+2373	4	2669
+2374	4	2669
+2380	4	2669
+2434	4	2669
+2499	4	2669
+2481	4	2669
+2501	4	2669
+2582	4	2669
+2582	4	2669
+2625	4	2669
+2626	4	2669
+2669	4	2669
+2669	4	2669
+2669	4	2669
+2669	4	2669
+2828	4	2669
+2863	4	2669
+2863	4	2669
+2881	4	2669
+2928	4	2669
+2996	4	2669
+3006	4	2669
+3016	4	2669
+3052	4	2669
+3054	4	2669
+3067	4	2669
+1751	5	2669
+1901	5	2669
+2017	5	2669
+2358	5	2669
+2669	5	2669
+2669	5	2669
+2669	5	2669
+

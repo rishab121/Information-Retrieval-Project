@@ -1,0 +1,15 @@
+
+
+
+combinatorial of m things taken n at a time algorithm 160
+
+cacm october 1963
+
+blakely r e
+
+ca631020 jb march 13 1978  536 pm
+
+705	5	705
+705	5	705
+705	5	705
+

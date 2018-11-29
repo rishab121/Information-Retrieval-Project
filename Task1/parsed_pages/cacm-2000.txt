@@ -1,0 +1,32 @@
+
+
+
+a variation of the goodman-lance method for
+the solution of two-point boundary value problems
+
+a recently published method for the interpolative
+solution of nonlinear equations is improved
+and applied to give a significant variation of the goodman-lance
+method for the solution of two-point boundary value problems 
+the resulting method applies in particular to the numerical solution
+of optimal control problems in the euler-lagrange formulation
+quantitative estimates are presented which indicate that the variation
+is nearly twice as fast on some problems in the latter context
+
+cacm september 1970
+
+kimble g w
+
+goodman-lance boundary-value problems
+newtons method nonlinear equations
+optimal control optimization ordinary differential equations
+secant method interpolative solution orthogonal matrices
+
+3.21 5.15 5.17
+
+ca700905 jb february 10 1978  139 pm
+
+2000	5	2000
+2000	5	2000
+2000	5	2000
+

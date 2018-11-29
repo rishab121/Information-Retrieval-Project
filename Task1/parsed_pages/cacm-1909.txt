@@ -1,0 +1,34 @@
+
+
+
+computation of jnx by numerical integration
+
+it is shown to be practical to compute jnx by
+numerical integration of its integral representation 
+using the trapezoidal rule the error in this
+approximation was studied empirically
+
+cacm april 1969
+
+stroud a h
+kohli j p
+
+bessel function numerical integration trapezoidal rule
+
+5.11 5.12 5.16
+
+ca690408 jb february 17 1978  413 pm
+
+1909	4	1909
+1909	4	1909
+1909	4	1909
+1909	4	1909
+2119	4	1909
+134	5	1909
+1023	5	1909
+1284	5	1909
+1316	5	1909
+1909	5	1909
+1909	5	1909
+1909	5	1909
+

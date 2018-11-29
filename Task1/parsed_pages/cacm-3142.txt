@@ -1,0 +1,53 @@
+
+
+
+consumer difficulties with computerized transactions 
+an empirical investigation
+
+the prevalence with which errors may be encountered by the 
+end targets of a computerized process is assessed  how many and
+what type of errors occur  how easily are they corrected  what
+is the reaction of consumers to errors-to a failure to correct
+them  what can be learned by designers of large management packages
+from such data results show that with the present state of the
+art approximately 40 percent of individuals or households having
+average contacts with different types of accounts experience one
+or more errors per year  eighty percent relate to billing  attempts
+to correct errors often turned out to be difficult and not always
+successful there appears to be some conflict between computer-using
+organizations and their public  also the role of poor man
+agement packages including poor software is indicated  while most
+management systems may be adequate results of the survey raise
+concerns about the timeliness and the number of designs of very
+large linked program packages as eft for instance  
+
+cacm may 1979
+
+sterling t
+
+errors systems errors billing errors management systems consumers
+
+2.0 2.1 2.12 2.2 3.50 3.52 3.55 4.19 4.6
+
+ca790503 dh june 5 1979  321 pm
+
+3142	4	3142
+3142	4	3142
+3179	4	3142
+3178	4	3142
+3182	4	3142
+3183	4	3142
+2583	5	3142
+3076	5	3142
+3142	5	3142
+3142	5	3142
+3142	5	3142
+3178	5	3142
+3076	6	3142
+3140	6	3142
+3142	6	3142
+3179	6	3142
+3180	6	3142
+3181	6	3142
+3182	6	3142
+

@@ -1,0 +1,35 @@
+
+
+
+codas a data display system
+
+codas a customer oriented data system is
+a user-oriented data retrieval and display system 
+ the command language of the system provides the user
+with an easy means for specifying data retrieval 
+and display requests  data is displayed as tables and
+graphs produced in a format ready for publication 
+ in this paper the statements of the request language
+and the general system design are described
+
+cacm february 1969
+
+day r h
+mansfield m k
+ellis m e
+
+data display information retrieval graphic display
+command languages report program generation 
+management data processing
+
+3.50 3.51 3.59 3.70 3.75 3.79 4.20 4.29
+
+ca690201 jb february 20 1978  1132 am
+
+1937	5	1937
+1937	5	1937
+1937	5	1937
+2002	5	1937
+1767	6	1937
+1937	6	1937
+

@@ -1,0 +1,19 @@
+
+
+
+design of an improved transmission/data processing code
+
+cacm may 1961
+
+bemer r w
+smith jr h j
+williams jr f a
+
+ca610501 jb march 16 1978  1114 pm
+
+333	4	333
+230	5	333
+333	5	333
+333	5	333
+333	5	333
+

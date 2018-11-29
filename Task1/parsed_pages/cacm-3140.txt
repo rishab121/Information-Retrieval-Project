@@ -1,0 +1,40 @@
+
+
+
+social processes and proofs of theorems and programs
+
+it is argued that formal verifications of
+programs no matter how obtained will not play the
+same key role in the development of computer science and software
+engineering as proofs do in mathematics  furthermore the absence
+of continuity the inevitability of change and the complexity of
+specification of significantly many real programs make the form
+al verification process difficult to justify and manage  it is felt
+that ease of formal verification should not dominate program
+language design
+
+cacm may 1979
+
+de millo r
+lipton r
+perlis a
+
+formal mathematics mathematical proofs
+program verification program specification
+
+2.10 4.6 5.24
+
+ca790501 dh june 5 1979  223 pm
+
+3140	5	3140
+3140	5	3140
+3140	5	3140
+3178	5	3140
+3076	6	3140
+3140	6	3140
+3142	6	3140
+3179	6	3140
+3180	6	3140
+3181	6	3140
+3182	6	3140
+

@@ -1,0 +1,19 @@
+
+
+
+solution of an overdetermined system of
+equations in the l1 norm algorithm r478
+
+cacm may 1975
+
+fritsch f n
+hindmarsh a c
+
+ca750508 jb january 9 1978  232 pm
+
+2759	4	2759
+2642	5	2759
+2759	5	2759
+2759	5	2759
+2759	5	2759
+

@@ -1,0 +1,25 @@
+
+
+
+error bounds for periodic quintic splines
+
+explicit error bounds for periodic quintic spline
+interpolation are developed  the first third 
+derivative of the periodic spline is shown to be a sixth
+fourth order approximation at the mesh points 
+to the first third derivative of the function being interpolated
+
+cacm august 1969
+
+hall c a
+
+spline interpolation error bounds
+
+5.1 5.13
+
+ca690804 jb february 15 1978  558 pm
+
+1859	5	1859
+1859	5	1859
+1859	5	1859
+

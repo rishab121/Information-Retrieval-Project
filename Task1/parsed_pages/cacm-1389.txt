@@ -1,0 +1,59 @@
+
+
+
+a programmers description of l^6
+
+bell telephone laboratories low-linked list language
+l^6 pronounced l-six is a new programming 
+language for list structure manipulations  it contains
+many of the facilities which underlie such list 
+processors as ipl lisp comit ad snobol but permits
+the user to get much closer to machine code in 
+order to write faster-running programs to use storage
+more efficiently and to build a wider variety 
+of linked data structures
+
+cacm august 1966
+
+knowlton k c
+
+ca660809 jb march 2 1978  720 pm
+
+1389	4	1389
+1552	4	1389
+2162	4	1389
+2435	4	1389
+2596	4	1389
+2768	4	1389
+2845	4	1389
+2902	4	1389
+2955	4	1389
+1184	5	1389
+1389	5	1389
+1389	5	1389
+1389	5	1389
+1860	5	1389
+1957	5	1389
+2155	5	1389
+2162	5	1389
+1184	6	1389
+1366	6	1389
+1389	6	1389
+1389	6	1389
+1389	6	1389
+1389	6	1389
+1421	6	1389
+1496	6	1389
+1626	6	1389
+1641	6	1389
+1785	6	1389
+1786	6	1389
+210	6	1389
+1860	6	1389
+378	6	1389
+378	6	1389
+2046	6	1389
+2060	6	1389
+3184	6	1389
+731	6	1389
+

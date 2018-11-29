@@ -1,0 +1,65 @@
+
+
+
+a class of unambiguous computer languages
+
+discussed in this paper is the concept of
+a fully nested computer language which may be one 
+means of designing computer languages which would be completely
+free of ambiguities  several suggestions 
+are also given here for the redefinition of algol as a fully nested language
+
+cacm march 1965
+
+johnston j b
+
+ca650301 jb march 7 1978  626 pm
+
+249	4	1306
+254	4	1306
+272	4	1306
+1102	4	1306
+1109	4	1306
+1140	4	1306
+1188	4	1306
+1306	4	1306
+1306	4	1306
+1464	4	1306
+1491	4	1306
+1767	4	1306
+1781	4	1306
+1781	4	1306
+1787	4	1306
+1949	4	1306
+321	4	1306
+2059	4	1306
+2126	4	1306
+435	4	1306
+437	4	1306
+463	4	1306
+483	4	1306
+491	4	1306
+2732	4	1306
+560	4	1306
+583	4	1306
+3073	4	1306
+627	4	1306
+631	4	1306
+632	4	1306
+642	4	1306
+644	4	1306
+653	4	1306
+680	4	1306
+761	4	1306
+762	4	1306
+763	4	1306
+123	4	1306
+140	4	1306
+919	4	1306
+989	4	1306
+196	5	1306
+1306	5	1306
+1306	5	1306
+1306	5	1306
+463	5	1306
+

@@ -1,0 +1,94 @@
+
+
+
+use of tree structures for processing files
+
+in data processing problems files are frequently
+used which must both be searched and altered 
+ binary search techniques are efficient for searching
+large files but the associated file organization 
+is not readily adapted to the file alterations  conversely
+a chained file allocation permits efficient 
+alteration but cannot be searched efficiently a file
+organized into a tree-like structure is discussed 
+and it is shown that such a file may both be searched
+and altered with times proportional to slogsn 
+where n is the number of file items and s is a parameter
+of the tree  it is also shown that optimizing 
+the value of s leads to a search time which is only 25
+per cent slower than the binary search  the tree 
+organization employs two data chains and may be considered
+to be a compromise between the organizations 
+for the binary search and the chained file  the relation
+of the tree organization to multidimensional 
+indexing and to the trie structure is also discussed
+
+cacm may 1963
+
+sussenguth jr e h
+
+ca630518 jb march 14 1978  1049 am
+
+435	4	849
+2846	4	849
+849	4	849
+849	4	849
+944	4	849
+155	5	849
+1050	5	849
+1935	5	849
+1936	5	849
+2017	5	849
+2032	5	849
+2257	5	849
+2360	5	849
+2451	5	849
+2452	5	849
+615	5	849
+849	5	849
+849	5	849
+849	5	849
+849	6	849
+849	6	849
+849	6	849
+849	6	849
+849	6	849
+849	6	849
+849	6	849
+849	6	849
+849	6	849
+850	6	849
+851	6	849
+852	6	849
+853	6	849
+854	6	849
+855	6	849
+856	6	849
+857	6	849
+858	6	849
+859	6	849
+860	6	849
+861	6	849
+862	6	849
+863	6	849
+864	6	849
+865	6	849
+866	6	849
+106	6	849
+944	6	849
+1115	6	849
+1785	6	849
+209	6	849
+1831	6	849
+1831	6	849
+1935	6	849
+1936	6	849
+1936	6	849
+1936	6	849
+1936	6	849
+1976	6	849
+367	6	849
+2198	6	849
+2360	6	849
+627	6	849
+

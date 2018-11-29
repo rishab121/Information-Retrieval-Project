@@ -1,0 +1,31 @@
+
+
+
+recol-a retrieval command language
+
+an interrogation scheme is described for the
+retrieval and manipulation of data file records 
+ the language of the interrogation scheme allows for selecting
+file records with the are of logical condition 
+statements defining record classes associating file
+records editing printed output and summarizing 
+the results of the above operations  some examples of
+a typical file application and the more significant 
+features of a particular machine implementation are given
+
+cacm march 1963
+
+climenson w d
+
+ca630328 jb march 14 1978  1242 pm
+
+1309	4	892
+1324	4	892
+892	4	892
+892	4	892
+653	5	892
+656	5	892
+892	5	892
+892	5	892
+892	5	892
+

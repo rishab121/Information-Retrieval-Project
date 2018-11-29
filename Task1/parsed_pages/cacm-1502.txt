@@ -1,0 +1,42 @@
+
+
+
+an online editor
+
+an online interactive system for test editing
+is described in detail with remarks on the 
+theoretical and experimental justification for its form
+ emphasis throughout the system is on providing 
+maximum convenience and power for the user  notable
+features are its ability to handle any piece of 
+text the content-searching facility and the character-by-character
+editing operations  the editor 
+can be programmed to a limited extent
+
+cacm december 1967
+
+deutsch l p
+lampson b w
+
+ca671206 jb february 26 1978  225 pm
+
+1502	5	1502
+1502	5	1502
+1502	5	1502
+2299	5	1502
+2501	5	1502
+2629	5	1502
+2915	5	1502
+3114	5	1502
+1502	6	1502
+1502	6	1502
+1502	6	1502
+1502	6	1502
+1502	6	1502
+1641	6	1502
+1751	6	1502
+1900	6	1502
+2380	6	1502
+2499	6	1502
+2745	6	1502
+

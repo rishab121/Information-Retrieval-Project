@@ -1,0 +1,86 @@
+
+
+
+analysis and performance of inverted data base structures
+
+the need to envision and architecture data base
+systems in a hierarchical level by level framework 
+is stressed the inverted data base file organization
+is then analyzed considering implementation 
+oriented aspects  the inverted directory is viewed realistically
+as another large data base which itself 
+is subjected to inversion  formulations are derived
+to estimate average access time read only and 
+storage requirements formalizing the interaction of data
+base content characteristics logical complexity 
+of queries and machine timing and blocking specifications
+identified as having a first-order effect 
+on performance  the formulations presented are necessary
+to be used in conjunction with any index selection 
+criteria to determine the optimum set of index keys
+
+cacm may 1975
+
+cardenas a f
+
+data base architecture inverted file organization
+data base performance and measurement secondary 
+index organization information storage and retrieval query answering
+
+3.70 3.71 3.72 3.74 3.79 4.0
+
+ca750502 jb january 9 1978  315 pm
+
+1135	4	2765
+1136	4	2765
+2140	4	2765
+2155	4	2765
+2257	4	2765
+2360	4	2765
+2406	4	2765
+2451	4	2765
+2452	4	2765
+2452	4	2765
+2556	4	2765
+493	4	2765
+2710	4	2765
+2710	4	2765
+2715	4	2765
+2716	4	2765
+2717	4	2765
+2718	4	2765
+2765	4	2765
+2765	4	2765
+2765	4	2765
+2765	4	2765
+2765	4	2765
+2765	4	2765
+2817	4	2765
+2882	4	2765
+2888	4	2765
+2888	4	2765
+2901	4	2765
+2901	4	2765
+2906	4	2765
+2957	4	2765
+2959	4	2765
+2965	4	2765
+2965	4	2765
+3087	4	2765
+3134	4	2765
+3154	4	2765
+729	4	2765
+1936	5	2765
+1976	5	2765
+2046	5	2765
+2451	5	2765
+2452	5	2765
+2765	5	2765
+2765	5	2765
+2765	5	2765
+2976	5	2765
+616	5	2765
+2688	6	2765
+2765	6	2765
+2882	6	2765
+

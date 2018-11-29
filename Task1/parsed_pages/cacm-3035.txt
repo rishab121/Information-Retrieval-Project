@@ -1,0 +1,42 @@
+
+
+
+a strategic planning methodology for the computing
+effort in higher education an empirical evaluation
+
+the findings of a study designed to address
+the pressing problems associated with the strategic 
+planning of the computing effort in higher education
+are presented here  a planning methodology was 
+developed and tested through implementation at a university
+ two years after the methodology was implemented 
+the effectiveness of the planning methodology was assessed
+in terms of the improvement of the delivery 
+of computing services to the major institutional roles
+of instruction research and administration 
+ two control institutions were employed to contrast the
+improvements at the test institution  the results 
+of the research indicate the planning methodology significantly
+enhanced the delivery of computing services 
+
+cacm december 1978
+
+wetherbe j
+dock v
+
+computer management computer budget
+university computing computer planning
+
+2.41 3.51
+
+ca781204 dh january 18 1979  426 pm 
+
+2977	4	3035
+2985	4	3035
+3011	4	3035
+3035	4	3035
+2485	5	3035
+3035	5	3035
+3035	5	3035
+3035	5	3035
+

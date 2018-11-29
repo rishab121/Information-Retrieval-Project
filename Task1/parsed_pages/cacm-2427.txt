@@ -1,0 +1,24 @@
+
+
+
+bivariate normal distribution s15 algorithm a462
+
+cacm october 1973
+
+donnellyt g
+
+bivariate normal gaussian frequency distribution
+
+5.5
+
+ca731013 jb january 20 1978  1103 am
+
+1987	4	2427
+2427	4	2427
+2427	4	2427
+1581	5	2427
+1636	5	2427
+2427	5	2427
+2427	5	2427
+2427	5	2427
+

@@ -1,0 +1,55 @@
+
+
+
+a theory of discrete patterns and their implementation in snobol4
+
+the notion of a discrete pattern is formalized
+and certain properties deduced  a pattern is 
+shown to be a generalization of a formal language 
+algorithms for implementing the kinds of patterns 
+in snobol4 are given  the general approach is to create
+in-so-far as possible a bottom-up parse from 
+a top-down specification
+
+cacm february 1973
+
+gimpel j f
+
+patterns snobol4 pattern theory parsing pattern matching
+string processing pattern implementation
+
+4.29 5.39
+
+ca730203 jb january 24 1978  313 pm
+
+1665	4	2545
+1768	4	2545
+1787	4	2545
+1824	4	2545
+1825	4	2545
+1836	4	2545
+1861	4	2545
+2015	4	2545
+2110	4	2545
+2127	4	2545
+2187	4	2545
+2317	4	2545
+2545	4	2545
+2545	4	2545
+2545	4	2545
+2698	4	2545
+2733	4	2545
+2746	4	2545
+1739	5	2545
+1781	5	2545
+2341	5	2545
+2545	5	2545
+2545	5	2545
+2545	5	2545
+2746	5	2545
+1665	6	2545
+1739	6	2545
+2139	6	2545
+2545	6	2545
+2786	6	2545
+

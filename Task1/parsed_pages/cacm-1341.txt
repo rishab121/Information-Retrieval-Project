@@ -1,0 +1,27 @@
+
+
+
+levels of computer systems
+
+in building current computer systems we tend
+to break them down into levels of control 
+command and communication in using the system we break
+our problems down correspondingly  the continued 
+use of such a structure raises questions about its effects
+on the usefulness of future systems particularly 
+with regard to such trends as time sharing parallel
+programming and eventually systems which learn 
+ in this essay some of these questions are posed and
+the general attitude we must take in pursuing the 
+problem further is discussed
+
+cacm december 1966
+
+bryant p
+
+ca661208 jb march 2 1978  229 pm
+
+1341	5	1341
+1341	5	1341
+1341	5	1341
+

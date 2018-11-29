@@ -1,0 +1,47 @@
+
+
+
+hybrid simulation models of computer systems
+
+this paper describes the structure and operation
+of a hybrid simulation model in which both 
+discrete-event simulation and analytic techniques are
+combined to produce efficient yet accurate system 
+models  in an example based on a simple hypothetical
+computer system discrete-event simulation is used 
+to model the arrival and activation of jobs and a
+central-server queueing network models the use of 
+system processors  the accuracy and efficiency of the
+hybrid technique are demonstrated by comparing 
+the result and computational costs of the hybrid model of
+the example with those of an equivalent simulation-only 
+model  
+
+cacm september 1978
+
+schwetman h
+
+performance evaluation simulation queueing
+network models central server model
+
+4.32 4.35 8.1
+
+ca780902 dh february 5 1979  332 pm
+
+2712	4	3070
+2741	4	3070
+3016	4	3070
+3059	4	3070
+3070	4	3070
+3070	4	3070
+3070	4	3070
+3070	4	3070
+3153	4	3070
+1805	5	3070
+2454	5	3070
+2741	5	3070
+2988	5	3070
+3070	5	3070
+3070	5	3070
+3070	5	3070
+

@@ -1,0 +1,21 @@
+
+
+
+crout with equilibration and iteration algorithm 135 f4
+
+cacm february 1965
+
+meissner l p
+
+ca650205 jb march 7 1978  1115 pm
+
+1319	4	1319
+1319	4	1319
+454	4	1319
+140	4	1319
+152	5	1319
+1128	5	1319
+1319	5	1319
+1319	5	1319
+1319	5	1319
+

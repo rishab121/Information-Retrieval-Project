@@ -1,0 +1,21 @@
+
+
+
+random deviates from the dipole distribution g5 algorithm a441
+
+cacm january 1973
+
+knop r e
+
+random number probability density probability distribution
+dipole distribution cauchy distribution 
+simulation monte carlo
+
+3.17 5.5
+
+ca730112 jb january 24 1978  342 pm
+
+2549	5	2549
+2549	5	2549
+2549	5	2549
+

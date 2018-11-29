@@ -1,0 +1,18 @@
+
+
+
+solution of the transcendental equation wexpxx algorithm r443
+
+cacm april 1974
+
+einarsson b
+
+ca740417 jb january 17 1978  444 pm
+
+2653	4	2653
+2654	4	2653
+1955	5	2653
+2653	5	2653
+2653	5	2653
+2653	5	2653
+

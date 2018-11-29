@@ -1,0 +1,34 @@
+
+
+
+architecture of the ibm system/370
+
+this paper discusses the design considerations
+for the architectural extensions that distinguish 
+system/370 from system/360  it comments on some experiences
+with the original objectives for system/360 
+and on the efforts to achieve them and it describes the
+reasons and objectives for extending the architecture 
+it covers virtual storage program control data-manipulation
+instructions timing facilities multiprocessing 
+debugging and monitoring error handling and input/output
+operations  a final section tabulates some 
+of the important parameters of the various ibm
+machines which implement the architecture
+
+cacm january 1978
+
+case r
+padges a
+
+computer systems architecture instruction
+sets virtual storage error handling
+
+6.0 6.21
+
+ca780107 jb march 28 1978  516 pm
+
+3023	5	3023
+3023	5	3023
+3023	5	3023
+

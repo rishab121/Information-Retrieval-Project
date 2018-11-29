@@ -1,0 +1,24 @@
+
+
+
+integrating square roots
+
+differential equation of the y^2  fy are difficult to integrate 
+numerically because of the singularity at points where fy vanishes  a 
+simple trick removes the singularity
+
+cacm september 1970
+
+moler c b
+solomon l p
+
+quadrature differential equations
+
+5.16 5.17
+
+ca700904 jb february 10 1978  142 pm
+
+2001	5	2001
+2001	5	2001
+2001	5	2001
+

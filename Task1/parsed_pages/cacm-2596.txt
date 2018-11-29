@@ -1,0 +1,80 @@
+
+
+
+a weighted buddy method for dynamic storage allocation
+
+an extension of the buddy method called the weighted
+buddy method for dynamic storage allocation 
+is presented  the weighted buddy method allows block
+sizes of 2^k and 32^k whereas the original buddy 
+method allowed only block sizes of 2^k this extension
+is achieved at an additional cost of only two 
+bits per block  simulation results are presented which
+compare this method with the buddy method  these 
+results indicate that for a uniform request distribution
+the buddy system has less total memory fragmentation 
+than the weighted buddy algorithm  however the total
+fragmentation is smaller for the weighted buddy 
+method when the requests are for exponentially distributed block sizes
+
+cacm october 1974
+
+shen k k
+peterson j l
+
+weighted buddy algorithm buddy systems
+memory allocation dynamic storage allocation
+
+3.89 4.32 4.39
+
+ca741002 jb january 16 1978  107 pm
+
+1389	4	2596
+1552	4	2596
+2095	4	2596
+2162	4	2596
+2218	4	2596
+2435	4	2596
+2498	4	2596
+2596	4	2596
+2596	4	2596
+2596	4	2596
+2734	4	2596
+2747	4	2596
+2768	4	2596
+2768	4	2596
+2845	4	2596
+2845	4	2596
+2902	4	2596
+2902	4	2596
+2902	4	2596
+2911	4	2596
+2911	4	2596
+2955	4	2596
+2955	4	2596
+3000	4	2596
+1184	5	2596
+1879	5	2596
+2435	5	2596
+2596	5	2596
+2596	5	2596
+2596	5	2596
+2902	5	2596
+2955	5	2596
+1051	6	2596
+1062	6	2596
+1184	6	2596
+1184	6	2596
+1211	6	2596
+1552	6	2596
+1879	6	2596
+2435	6	2596
+2435	6	2596
+2596	6	2596
+2596	6	2596
+2734	6	2596
+2747	6	2596
+2747	6	2596
+2768	6	2596
+2773	6	2596
+

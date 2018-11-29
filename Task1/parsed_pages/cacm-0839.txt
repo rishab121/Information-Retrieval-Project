@@ -1,0 +1,15 @@
+
+
+
+least squares solution with constraints algorithm 177
+
+cacm june 1963
+
+synge m j
+
+ca630610 jb march 14 1978  1017 am
+
+839	5	839
+839	5	839
+839	5	839
+

@@ -1,0 +1,24 @@
+
+
+
+automatic error bounds on real zeros of rational functions
+
+a procedure for implementing an interval arithmetic
+version of the newton-raphson method is 
+proposed  the procedure require only a starting interval
+over which the zeros of a given rational function 
+are to be located  the method automatically provides bounds 
+for roundoff error
+
+cacm november 1966
+
+dargel r h
+loscalzo f r
+witt t h
+
+ca661107 jb march 2 1978  331 pm
+
+1351	5	1351
+1351	5	1351
+1351	5	1351
+

@@ -1,0 +1,49 @@
+
+
+
+a comparative evaluation of versions of basic
+
+from its inception the basic language has
+grown in terms of its usage scope of usage and 
+its features  this article compares ten of the current
+versions of basic with each other with two earlier 
+versions and with the proposed standard for minimal
+basic the comparison is arranged by the features 
+of the versions and by computational comparison
+of computation and times and processing costs
+
+cacm april 1976
+
+lientz b p
+
+basic interpretive language summary
+
+4.20 4.6
+
+ca760402 jb january 4 1978  434 pm
+
+2044	4	2874
+2189	4	2874
+2356	4	2874
+2417	4	2874
+2420	4	2874
+2505	4	2874
+2874	4	2874
+2874	4	2874
+2874	4	2874
+2874	4	2874
+2874	4	2874
+2874	4	2874
+2908	4	2874
+3104	4	2874
+3143	4	2874
+1682	5	2874
+2227	5	2874
+2317	5	2874
+2683	5	2874
+2871	5	2874
+2874	5	2874
+2874	5	2874
+2874	5	2874
+521	5	2874
+

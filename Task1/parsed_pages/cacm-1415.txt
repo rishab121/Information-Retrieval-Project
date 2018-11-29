@@ -1,0 +1,38 @@
+
+
+
+automatic derivation of microsentences
+
+the decomposition of long complex english sentences
+into shorter kernel-like constituent sentences 
+microsentenceshas often been suggested as an avenue
+toward conducting automatic retrieval of natural 
+language messages  to explore the prospects of such
+a step the authors attempted in 1963 to prepare 
+a general program for deriving microsentences from longer
+sentences that had been syntactically analyzed 
+by the harvard multipath analysis program  the basic
+idea was to extract the subject verb and object 
+if any of each clause and to reassemble these materials
+into a grammatical microsentence  a program 
+is described in this paper which was designed to operate
+on the tree structure output of the analyzer 
+and the microsentences that were produced are exhibited
+ the authors conclude that while microsentences 
+of the quality achieved do not open up immediate prospects
+for improving the performance of automatic 
+message retrieval systems they may have practical
+value in man-machine systems using human monitors 
+to select the preferred syntactic interpretation of a sentence
+
+cacm june 1966
+
+carmody b t
+jones jr p e
+
+ca660606 jb march 3 1978  847 am
+
+1415	5	1415
+1415	5	1415
+1415	5	1415
+

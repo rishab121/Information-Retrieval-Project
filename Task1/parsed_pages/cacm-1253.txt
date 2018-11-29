@@ -1,0 +1,28 @@
+
+
+
+quikscript-a simscript like language for the g-20
+
+quikscript is a simulation language based on
+simscript and programmed entirely in an algebraic 
+language 20-gate  the quikscript language its internal
+implementation and major differences between 
+quikscript and simscript are presented  this paper is
+not a programming guide to the language but rather 
+an attempt to present its flavor  a brief description of
+simscript is included as is a sufficient description 
+of 20-gate to render this material understandable
+to the reader familiar with algebraic languages
+
+cacm june 1965
+
+tonge f m
+keller p
+newell a
+
+ca650602 jb march 7 1978  1245 pm
+
+1253	5	1253
+1253	5	1253
+1253	5	1253
+

@@ -1,0 +1,21 @@
+
+
+
+minimal spanning tree h algorithm a422
+
+cacm april 1972
+
+whitney v k m
+
+spanning tree minimal spanning tree maximal spanning tree
+
+5.32
+
+ca720410 jb january 31 1978  1236 pm
+
+2363	5	2363
+2363	5	2363
+2363	5	2363
+2641	5	2363
+2363	6	2363
+

@@ -1,0 +1,53 @@
+
+
+
+scan conversion algorithms for a cell organized raster display
+
+raster scan computer graphics with real time
+character generators have previously been limited 
+to alphanumeric characters  a display has been described
+which extends the capabilities of this organization 
+to include general graphics  two fundamentally different
+scan conversion algorithms which have been 
+developed to support this display are presented  one
+is most suitable to non-interactive applications 
+and the other to interactive applications  the algorithms
+were implemented in fortran on the cdc 6400 
+computer  results obtained from the implementations show
+that the noninteractive algorithms can significantly 
+reduce display file storage requirements at little cost
+in execution time over that of a conventional 
+raster display  the interactive algorithm can improve
+response time and reduce storage requirements
+
+cacm march 1974
+
+barrett r c
+fordan b w jr
+
+graphics scan conversion raster display line
+drawing discrete image dot generation matrix
+displays
+
+4.41 6.35 8.2
+
+ca740309 jb january 18 1978  1108 am
+
+1891	4	2674
+2211	4	2674
+2421	4	2674
+2674	4	2674
+2674	4	2674
+2674	4	2674
+2674	4	2674
+2687	4	2674
+2687	4	2674
+2828	4	2674
+1741	5	2674
+2004	5	2674
+2421	5	2674
+2674	5	2674
+2674	5	2674
+2674	5	2674
+2687	5	2674
+

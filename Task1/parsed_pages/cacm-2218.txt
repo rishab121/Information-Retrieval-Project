@@ -1,0 +1,108 @@
+
+
+
+an analysis of some time-sharing techniques
+
+the effectiveness of certain time-sharing techniques
+such as program relocation disk rotational 
+delay minimization and swap volume minimization is
+investigated  summary data is presented and the 
+findings are discussed  the vehicle for this investigation
+was a simula based simulation model reflecting 
+an early framework for a planned burroughs b6500 time-sharing
+system  inasmuch as the b6500 system is 
+based upon the use of variable sized segments and a
+dynamic overlay procedure data is also presented 
+which provides some indication of the effectiveness of this
+type of organization in a time-sharing environment 
+ the design characteristics and operational capabilities
+of the simulation model are also described
+
+cacm february 1971
+
+nielsen n r
+
+b6500 bulk core usage operating system model relocation
+rotational delay minimization simulation 
+swap volume minimization system simulation time-sharing
+
+3.9 4.32
+
+ca710203 jb february 8 1978  940 am
+
+1541	4	2218
+1751	4	2218
+1805	4	2218
+1846	4	2218
+1846	4	2218
+1892	4	2218
+1892	4	2218
+1892	4	2218
+1892	4	2218
+1901	4	2218
+1924	4	2218
+2060	4	2218
+2085	4	2218
+2095	4	2218
+2095	4	2218
+2095	4	2218
+2128	4	2218
+2188	4	2218
+2218	4	2218
+2218	4	2218
+2218	4	2218
+2218	4	2218
+2218	4	2218
+2218	4	2218
+2218	4	2218
+2218	4	2218
+2277	4	2218
+2297	4	2218
+2317	4	2218
+2319	4	2218
+2329	4	2218
+2358	4	2218
+2373	4	2218
+2373	4	2218
+2374	4	2218
+2380	4	2218
+2434	4	2218
+2499	4	2218
+2498	4	2218
+2501	4	2218
+2526	4	2218
+2582	4	2218
+2596	4	2218
+2667	4	2218
+2668	4	2218
+2669	4	2218
+2734	4	2218
+2734	4	2218
+2828	4	2218
+2862	4	2218
+2863	4	2218
+2863	4	2218
+2881	4	2218
+2902	4	2218
+2911	4	2218
+2928	4	2218
+2996	4	2218
+3000	4	2218
+3000	4	2218
+3006	4	2218
+3067	4	2218
+3112	4	2218
+1380	5	2218
+1572	5	2218
+1728	5	2218
+1751	5	2218
+1752	5	2218
+1810	5	2218
+1879	5	2218
+2095	5	2218
+2218	5	2218
+2218	5	2218
+2218	5	2218
+2681	5	2218
+2218	6	2218
+

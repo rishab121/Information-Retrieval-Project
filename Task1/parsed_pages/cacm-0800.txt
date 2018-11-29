@@ -1,0 +1,24 @@
+
+
+
+the linking segment subprogram language and linking loader
+
+cacm july 1963
+
+mccarthy j
+corbato f j
+daggett m m
+
+ca630724 jb march 14 1978  813 am
+
+1471	5	800
+1774	5	800
+800	5	800
+800	5	800
+800	5	800
+800	6	800
+800	6	800
+1173	6	800
+271	6	800
+276	6	800
+

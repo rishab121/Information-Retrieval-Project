@@ -1,0 +1,30 @@
+
+
+
+efficient implementation of a variable projection
+algorithm for nonlinear least squares problems
+
+nonlinear least squares frequently arise for which
+the variables to be solved for can be separated 
+into a linear and a nonlinear part  a variable projection
+algorithm has been developed recently which 
+is designed to take advantage of the structure of a problem
+whose variables separate in this way  this 
+paper gives a slightly more efficient and slightly more
+general version of this algorithm than has appeared 
+earlier
+
+cacm march 1974
+
+krogh f t
+
+nonlinear least squares parameter estimation variable projection
+
+5.14 5.15
+
+ca740313 jb january 18 1978  1049 am
+
+2670	5	2670
+2670	5	2670
+2670	5	2670
+

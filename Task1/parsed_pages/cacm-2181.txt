@@ -1,0 +1,62 @@
+
+
+
+the state of computer oriented curricula in business schools 1970
+
+the acm committee on computer education for management
+supported by a national science foundation 
+grant is established to appraise the state of the art
+and to develop a series of recommendations for 
+improving computer education for management  to provide
+the committee with material for its study of 
+curricular needs five regional meetings in the united
+states were held in 1970 at each of which a broad 
+cross section of invited academicians and practitioners
+considered the state of curricula in business 
+schools  three topics were covered curricula for
+the general manager computer-related material in 
+required and functional courses and curricula for students
+concentrating on computer-based information 
+systems  an analysis of the minutes of the meetings
+revealed a common set of experiences which raised 
+similar pedagogic and economic issues  this presentation
+gives a summary of the discussions a condensation
+of the pedagogic and substantive concerns raised and
+consideration of the resource allocation issues 
+involved  preliminary to the committees recommendations
+for improving computer education for management 
+this report has been prepared to provide the participants
+and the administrators of their institutions 
+with background information for the ongoing task of course
+development  chairman of the ten-man committee 
+is daniel teichroew the university of michigan
+
+cacm july 1971
+
+mckenney j l
+tonge f m
+
+university programs management education curriculum
+design business administration curricula 
+graduate business school resource planning
+
+1.52 3.5
+
+ca710701 jb february 3 1978  947 am
+
+2163	5	2181
+2181	5	2181
+2181	5	2181
+2181	5	2181
+2345	5	2181
+2407	5	2181
+1720	6	2181
+1771	6	2181
+1771	6	2181
+1927	6	2181
+2163	6	2181
+2181	6	2181
+2181	6	2181
+2181	6	2181
+2345	6	2181
+

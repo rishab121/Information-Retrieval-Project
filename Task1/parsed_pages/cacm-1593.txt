@@ -1,0 +1,37 @@
+
+
+
+a simple technique for digital division
+
+a simple and economical method for digital
+division is described  the method is suitable for 
+divisors whose leading character is either radix less
+one or is unity with the next character equal to 
+zero also the method is direct and needs only half the
+number of arithmetic operations needed by a variant 
+of the harvard iterative method described by gilman
+which is suitable for similar divisors
+
+cacm june 1967
+
+nandi s k
+krishnamurthy e v
+
+ca670509 jb february 28 1978  1030 am
+
+214	4	1593
+1497	4	1593
+1593	4	1593
+1593	4	1593
+1975	4	1593
+1292	5	1593
+1497	5	1593
+1593	5	1593
+1593	5	1593
+1593	5	1593
+91	5	1593
+107	6	1593
+1026	6	1593
+1292	6	1593
+1593	6	1593
+

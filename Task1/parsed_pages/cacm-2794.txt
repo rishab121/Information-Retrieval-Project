@@ -1,0 +1,40 @@
+
+
+
+state-space problem-reduction and theorem proving-some relationships
+
+this paper suggests a bidirectional relationship
+between state-space and problem-reduction 
+representations it presents a formalism based on multiple-input
+and multiple-output operators which 
+provides a basis for viewing the two types of representations
+in this manner  a representation of the 
+language recognition problem which is based on the cocke
+parsing algorithm is used as an illustration 
+ a method for representing problems in first-order logic
+in such a way that the inference system employed 
+by a resolution-based theorem prover determines whether
+the set of clauses is interpreted in the state-spacer 
+mode or in the problem-reduction mode is presented
+ the analogous concepts in problem-reduction and 
+theorem proving and the terminology used to refer to them
+are noted  the relationship between problem-reduction 
+input resolution and linear resolution is discussed
+
+cacm february 1975
+
+vanderbrug g j
+minker j
+
+artificial intelligence state-space representation
+problem-reduction representation theorem 
+proving language recognition
+
+3.64
+
+ca750205 jb january 12 1978  827 am
+
+2794	5	2794
+2794	5	2794
+2794	5	2794
+

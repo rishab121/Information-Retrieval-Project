@@ -1,0 +1,58 @@
+
+
+
+an optimal insertion algorithm for one-sided
+height-balanced binary search trees
+
+an algorithm for inserting an element into a one-sided height-balanced
+oshb binary search tree is presented  the algorithm operates in time 
+olog n where n is the number of nodes in
+the tree  this represents an improvement over the best previous
+ly known insertion algorithms of hirschberg and kosaraju which require
+time olog 2n  moreover the olog n complexity is optimal earlier 
+results have shown that deletion in such a structure can
+also be performed in olog n time  thus the result of this paper
+gives a negative answer to the question of whether such trees should
+be the first examples of their kind where deletion has a smaller time 
+complexity than insertion  furthermore it can now be concluded
+that insertion deletion and retrieval in oshb trees can
+be performed in the same time as the corresponding operations for
+the more general avl trees to within a constant factor  however
+the insertion and deletion algorithms for oshb trees appear much
+more complicated than the corresponding algorithms for avl trees
+
+cacm september 1979
+
+raihak
+zweben s
+
+insertion one-sided height-balanced trees height-balanced
+trees binary trees search trees
+
+3.73 3.74 4.34 5.25 5.31
+
+ca790904 db january 14 1980  1147 am
+
+2839	4	3163
+3009	4	3163
+3042	4	3163
+3042	4	3163
+3065	4	3163
+3065	4	3163
+3096	4	3163
+3096	4	3163
+3096	4	3163
+3163	4	3163
+3163	4	3163
+3163	4	3163
+3163	4	3163
+3163	4	3163
+2839	5	3163
+2889	5	3163
+3009	5	3163
+3065	5	3163
+3096	5	3163
+3163	5	3163
+3163	5	3163
+3163	5	3163
+

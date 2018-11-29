@@ -1,0 +1,34 @@
+
+
+
+an academic program providing realistic training in software engineering
+
+an academic program at harvey mudd college called
+the clinic program brings projects from industry on
+ campus to be studied and solved by student teams  the objective of
+the clinic is to provide students working as small teams under
+ careful faculty supervision an opportunity to work on real world
+problems of sufficient magnitude and complexity  under this program
+students can acquire essential skills of software engineering
+such as team work software project management software design
+methodology and communication skills in a realistic environment
+sample software projects undertaken by the clinic are described
+ experience so far has shown that the program is a viable
+transition from an academic to industrial world
+
+cacm june 1979
+
+busenberg s
+tam w
+
+software engineering software engineering education software
+projects student teams software engineering skills
+
+1.52 4.0
+
+ca790602 dh august 21 1979  404 pm
+
+3146	5	3146
+3146	5	3146
+3146	5	3146
+

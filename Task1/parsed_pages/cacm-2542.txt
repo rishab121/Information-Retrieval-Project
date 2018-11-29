@@ -1,0 +1,42 @@
+
+
+
+a software design and evaluation system
+
+a critical failure of current software system
+design and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before it is actually implemented  in this paper 
+the reasons for this failure are explored and a new methodology
+which overcomes many of the difficulties 
+is proposed  a system which integrates performance evaluation
+with design and implementation is described 
+ this system is based on a simple high level language
+which is used to describe the evolving system 
+at all stages of its development  the source language
+description is used as direct input to performance 
+analysis and simulation routines  using the performance
+information obtained from these routines as 
+feedback the problems which adversely affect performance
+are detected early enough so that they can 
+be corrected without costly major reimplementation of the proposed system
+
+cacm february 1973
+
+graham r m
+clancy g j jr
+devaney d b
+
+operating system development language processing
+software evaluation compilers system programming 
+supervisory systems debugging program maintenance
+modeling system integration simulation
+
+4.0 4.12 4.22 4.30 4.42 4.43 8.1
+
+ca730206 jb january 24 1978  207 pm
+
+2542	5	2542
+2542	5	2542
+2542	5	2542
+

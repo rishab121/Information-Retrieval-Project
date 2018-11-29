@@ -1,0 +1,23 @@
+
+
+
+conventions for the use of symbols in the preparation
+of flowcharts for information processing 
+systems a standard working paper
+
+this paper is intended as an outline of the
+various conventions which are being considered 
+for the use of flowcharts for information processing
+systems  the conventions are applied to the use 
+of the symbols appearing in the proposed american standard
+flowchart symbols and not with the symbols 
+per se
+
+cacm july 1965
+
+ca650702 jb march 6 1978  910 pm
+
+1233	5	1233
+1233	5	1233
+1233	5	1233
+

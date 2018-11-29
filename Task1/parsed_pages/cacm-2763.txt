@@ -1,0 +1,24 @@
+
+
+
+basic cycle generation h algorithm 491
+
+cacm may 1975
+
+gibbs n e
+
+graph basic cyclesfundamental cycle
+spanning tree vertex adjacency matrix
+
+5.32 3.24
+
+ca750504 jb january 9 1978  239 pm
+
+1961	4	2763
+2177	4	2763
+2763	4	2763
+1847	5	2763
+2763	5	2763
+2763	5	2763
+2763	5	2763
+

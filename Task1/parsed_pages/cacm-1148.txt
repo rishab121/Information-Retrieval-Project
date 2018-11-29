@@ -1,0 +1,26 @@
+
+
+
+an example in significant-digit arithmetic
+
+different methods of handling the summing process
+for the geometric series are shown to give 
+results indicating widely differing significances when carried
+out in a machine incorporating significant-digit 
+arithmetic
+
+cacm january 1964
+
+miller r h
+
+ca640107 jb march 10 1978  534 am
+
+1148	4	1148
+1148	5	1148
+1148	5	1148
+1148	5	1148
+85	5	1148
+3131	5	1148
+893	6	1148
+1148	6	1148
+

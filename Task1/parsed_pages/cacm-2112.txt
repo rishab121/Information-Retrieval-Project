@@ -1,0 +1,47 @@
+
+
+
+translation equations
+
+input limited transduction expressions or translation equations
+are used to describe the syntax and left-context sensitive semantics for 
+context-free languages  a formal procedure is given for deriving from
+a set of translation equations the specifications for a pushdown translator
+the translator consists of mealy form finite-state automata interacting
+by means of a pushdown stack  within the framework described string 
+recognition and parsing may be treated as special cases of the translation 
+problem
+
+cacm february 1970
+
+vere s
+
+automata turing machines regular expression transduction
+expression context-free languages translation recognizers
+parsing meta-compilers pushdown transducer syntax
+directed compilers finite state automata
+
+4.10 4.12 4.20 5.22
+
+ca700203 jb february 14 1978  1049 am
+
+1323	4	2112
+1358	4	2112
+1380	4	2112
+1665	4	2112
+1781	4	2112
+1787	4	2112
+1989	4	2112
+2112	4	2112
+2534	4	2112
+2541	4	2112
+2698	4	2112
+2733	4	2112
+2820	4	2112
+3073	4	2112
+3155	4	2112
+2112	5	2112
+2112	5	2112
+2112	5	2112
+799	5	2112
+

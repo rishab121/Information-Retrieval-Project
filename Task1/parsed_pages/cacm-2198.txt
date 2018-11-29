@@ -1,0 +1,58 @@
+
+
+
+introduction to feature analysis of
+generalized data base management systems
+
+this paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems  this introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems  after some discussion of the problems 
+of data independence and bindingthe four user levels
+are identified and described  technical problems 
+facing future designers are described  the first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages  the problem of high level interrogation
+and update functions acting on network 
+structures is mentioned followed by a discussion of the
+problem of catering to a high volume of transactions 
+initiated from terminals by parametric users-the lowest
+level of user  the use of cobol as a basis for 
+further development work is considered at some length
+with respect to data structures host language 
+capabilities and self-contained capabilities  this
+section also assesses the effect of the data base 
+task group proposals  the final section outlines the
+ten major topics in the main body of the full report
+
+cacm may 1971
+
+codasyl systems committee
+
+data base management systems programming languages
+data structures storage structures information 
+retrieval transaction processing
+
+3.5 3.70 3.72 3.73 3.74 4.29
+
+ca710501 jb february 3 1978  318 pm
+
+2198	5	2198
+2198	5	2198
+2198	5	2198
+2452	5	2198
+2882	5	2198
+849	6	2198
+1936	6	2198
+1976	6	2198
+2198	6	2198
+2198	6	2198
+2452	6	2198
+627	6	2198
+

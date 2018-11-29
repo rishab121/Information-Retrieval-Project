@@ -1,0 +1,51 @@
+
+
+
+a comparison of tree-balancing algorithms
+
+several algorithms-height-balance ie avl
+and extensions weight-balance ie bb and wb 
+and total restructuring-for building balanced binary search
+trees are compared  the criteria for comparison 
+encompass theoretical aspects eg path lengths and implementation
+independent and machine/algorithm-dependent 
+measures eg run time  a detailed analysis of code is
+also presented at a level believed to be language-and 
+compiler-independent  the quality of the resulting
+trees and the overhead spent on building them are 
+analyzed and some guidelines are given for an efficient
+use of the methods  if insertion and subsequent 
+queries are the only operations of in terest then pure
+avl trees present the overall best qualities
+
+cacm may 1977
+
+baer j l
+schwab b
+
+binary search trees avl trees weight-balanced trees
+path length analysis of algorithms information 
+storage and retrieval
+
+3.7 3.72 3.74 5.31
+
+ca770504 jb december 29 1977  216 am
+
+2455	4	2968
+2493	4	2968
+2889	4	2968
+2889	4	2968
+2968	4	2968
+2968	4	2968
+3042	4	2968
+2388	5	2968
+2455	5	2968
+2968	5	2968
+2968	5	2968
+2968	5	2968
+3042	5	2968
+2455	6	2968
+2839	6	2968
+2889	6	2968
+2968	6	2968
+

@@ -1,0 +1,29 @@
+
+
+
+interpolation with rounded ramp functions
+
+a new interpolation function is introduced
+ it has infinitely many continuous derivatives 
+and is a composition of ramp functions with smoothed bends
+called rounded ramp functions  how the interpolation 
+function can be extended to more than one variable is
+shown  an efficient fortran program is given by 
+which the interpolation function can be obtained for a given point set
+
+cacm august 1974
+
+lagerlof r o e
+
+interpolation approximation smooth interpolation
+multi variable interpolation interpolation 
+function approximation function spline-like function
+
+5.13
+
+ca740815 jb january 17 1978  918 am
+
+2609	5	2609
+2609	5	2609
+2609	5	2609
+

@@ -1,0 +1,34 @@
+
+
+
+programming languages history and future
+
+this paper discusses both the history and future
+of programming languages  higher level languages 
+ some of the difficulties in writing such a history
+are indicated  a key part of the paper is a tree 
+showing the chronological development of languages and their
+interrelationships  reasons for the proliferation 
+of languages are given  the major languages are listed
+with the reasons for their importance  a section 
+on chronology indicates the happenings of the significant
+previous time periods and the major topics 
+of 1972  key concepts other than specific languages are discussed
+
+cacm july 1972
+
+sammet j e
+
+programming languages higher level languages
+languages history future directions language 
+interrelationships programming language tree programming
+language history programming language future
+
+1.2 4.2
+
+ca720712 jb january 30 1978  138 pm
+
+2316	5	2316
+2316	5	2316
+2316	5	2316
+

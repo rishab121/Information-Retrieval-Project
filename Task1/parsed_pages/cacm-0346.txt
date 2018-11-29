@@ -1,0 +1,15 @@
+
+
+
+complete elliptic integral of the first kind algorithm 55
+
+cacm april 1961
+
+herndon j r
+
+ca610422 jb march 16 1978  1144 pm
+
+346	5	346
+346	5	346
+346	5	346
+

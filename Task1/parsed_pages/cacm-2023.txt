@@ -1,0 +1,29 @@
+
+
+
+a note on data base deadlocks
+
+cacm july 1970
+
+baecker h d
+
+data base synchronization locking deadlock reference count
+
+3.73
+
+ca700714 jb february 10 1978  418 pm
+
+1050	4	2023
+1393	4	2023
+1549	4	2023
+2023	4	2023
+2023	4	2023
+2168	4	2023
+3112	4	2023
+627	4	2023
+106	5	2023
+1878	5	2023
+2023	5	2023
+2023	5	2023
+2023	5	2023
+

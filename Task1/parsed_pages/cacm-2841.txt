@@ -1,0 +1,40 @@
+
+
+
+designing surfaces in 3-d
+
+an experimental system for computer-aided
+design of free-form surfaces in three dimensions 
+is described the surfaces are represented in the system
+as parametric basis splines the principal features 
+of the system are 1 the surfaces are rendered as isoparametric
+line drawings on a head-mounted display 
+and they are designed with the aid of a three-dimensional
+wand which allows 3-d movements of the points 
+controlling the shapes of the surfaces 2 all of the
+interactions with the surfaces are in real-time 
+and 3 the mathematical formulations used assume no
+knowledge of them by the user of the system  also 
+examined are some of the features that should be part
+of a practical 3-d system for designing space-forms
+
+cacm august 1976
+
+clark j h
+
+real-time graphics computer-aided design
+picture processing b-splines 3-d displays
+
+3.80 6.22 8.2
+
+ca760803 jb january 4 1978  1025 am
+
+2828	5	2841
+2841	5	2841
+2841	5	2841
+2841	5	2841
+1751	6	2841
+2004	6	2841
+2751	6	2841
+2841	6	2841
+

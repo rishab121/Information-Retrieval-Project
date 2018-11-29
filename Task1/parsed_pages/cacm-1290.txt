@@ -1,0 +1,37 @@
+
+
+
+transparent-mode control procedures for data
+communication using the american standard code 
+for information interchange -a tutorial
+
+this paper gives the considerations of task
+group x3.3.4 in the area of transparent-mode data 
+communication control philosophy  the appearance of this
+paper was forecast underthe name of second-level 
+control in the earlier tutorial paper control procedures
+for data communications task group document 
+x3.3.4.44 dated may 1964  the present paper elaborates
+upon solutions to the problems of transparency 
+to the basic ascii communication control characters
+as outlined in the previous paper mentioned above 
+ moreover it goes on to cover the additional control problems
+of handling material such as off line encrypted 
+data or non-ascii codes by means of systems providing
+complete character transparency  it does not cover 
+concepts of transparency in which the normal character
+structure or modulation rate of a system may be 
+abandoned  in conjunction with the earlier tutorial
+paper this paper is expected to lead to a proposal 
+for stand ardizationof data communication control procedures
+using the american stand ard code for information 
+interchange
+
+cacm april 1965
+
+ca650401 jb march 7 1978  410 pm
+
+1290	5	1290
+1290	5	1290
+1290	5	1290
+

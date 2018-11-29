@@ -1,0 +1,31 @@
+
+
+
+an intelligent analyzer and understander of english
+
+the paper describes a working analysis and generation
+program for natural language which handles 
+paragraph length input  its core is a system of preferential
+choice between deep semantic patterns 
+based on what we call semantic density  the system
+is contrasted 1 with syntax oriented linguistic 
+approaches and 2 with theorem proving
+approaches to the understanding problem
+
+cacm may 1975
+
+wilks y
+
+artificial intelligence computational linguistics
+template paraplate stereotype machine translation 
+understanding natural language processing
+semantic preference semantic density
+
+3.36 3.42 3.63
+
+ca750503 jb january 9 1978  300 pm
+
+2764	5	2764
+2764	5	2764
+2764	5	2764
+

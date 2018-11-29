@@ -1,0 +1,43 @@
+
+
+
+pattern width at a given angle
+
+that the pattern feature width as a function
+of angle possesses several possible interpretations 
+is demonstrated in this paper which is a review of
+the width concept in pattern recognition and the 
+geometrical concept itself  the object of the work
+is to clarify how the word description can be made 
+precise so that computer algorithms for feature extraction
+may be obtained the focus is on the theoretical 
+subject matter  the results consist of a set-theoretic
+definition of width-at-angle a theorem relating 
+it to the pattern boundary radius vector and descriptions
+of alternate widths  all widths are calculated 
+for an illustrative example graphical and tabular comparisons
+are given  substantial variation in width-at-angle 
+magnitude is found  the principal conclusion is that
+the set-theoretic width-at-angle is a useful pattern 
+feature when it can be easily computed  further investigation
+of the information contained in only part 
+of a width function is recommended for cases where
+computation of width-at-angle is difficult
+
+cacm january 1971
+
+klinger a
+
+feature extraction pattern recognitionfigure
+properties picture processing integral geometry 
+width-at-angle extent integral projections
+linear pattern measures width functions
+
+3.60 3.62 3.63 5.12
+
+ca710102 jb february 8 1978  1249 pm
+
+2232	5	2232
+2232	5	2232
+2232	5	2232
+

@@ -1,0 +1,94 @@
+
+
+
+an algorithm for the construction of bounded-context parsers
+
+an algorithm is described which accepts an arbitrary context-free
+grammar and constructs a bounded-context parser for
+it whenever such a parser exists  in the first part of the paper
+the definition of a context-free grammar and the working of a
+bounded-context parser are recalled  the notion of reduction class for
+a context-free grammar is then introduced and its connection with
+the structure of a bounded-context parser is indicated  next
+pushdown automata which generate the different reduction classes
+of a context-free grammar are defined  finally the algorithm is described
+it essentially carries out an exhaustive study of all possible
+runs of the pushdown automata generating the reduction classes
+in the second part the utility of the algorithm is discuss
+ed in the light of the experience gained from its use in compiler design
+the algorithm is claimed to be particularly useful in the
+simultaneous design of a language and a compiler for it
+
+cacm may 1970
+
+loeckx j
+
+bounded-context parsing bounded-context syntactic analysis parser 
+construction syntactical analyzer construction generators compiler 
+compilers compiler writing systems translator writing systems metacompilers
+context-free grammars formal languages pushdown automata
+
+4.12 5.22 5.23
+
+ca700505 jb february 13 1978  158 pm
+
+1379	4	2061
+1491	4	2061
+1496	4	2061
+1542	4	2061
+1683	4	2061
+1683	4	2061
+1693	4	2061
+1693	4	2061
+1768	4	2061
+1781	4	2061
+1781	4	2061
+1781	4	2061
+1787	4	2061
+1787	4	2061
+1836	4	2061
+1836	4	2061
+1945	4	2061
+1945	4	2061
+1945	4	2061
+2015	4	2061
+2060	4	2061
+2060	4	2061
+2061	4	2061
+2061	4	2061
+2061	4	2061
+2061	4	2061
+2061	4	2061
+2061	4	2061
+2082	4	2061
+2091	4	2061
+2091	4	2061
+2152	4	2061
+2179	4	2061
+2179	4	2061
+2179	4	2061
+2340	4	2061
+2356	4	2061
+2546	4	2061
+2546	4	2061
+2603	4	2061
+2698	4	2061
+2698	4	2061
+2708	4	2061
+2708	4	2061
+2824	4	2061
+2982	4	2061
+2986	4	2061
+3045	4	2061
+3045	4	2061
+3093	4	2061
+1140	5	2061
+1141	5	2061
+1477	5	2061
+1491	5	2061
+1825	5	2061
+2061	5	2061
+2061	5	2061
+2061	5	2061
+773	5	2061
+

@@ -1,0 +1,32 @@
+
+
+
+on obtaining correct inputa new approach
+
+most information put into machine readable
+form whether from scientific or business origins 
+is still keypunched  this paper is addressed toward
+the difficulty of obtaining correctly keypunched 
+and key verified data and an alternative method is suggested
+in which the computer itself is used to rule 
+out the possibility of errors in input  this technique
+is explained and illustrated by reference to 
+a working program which involves essentially two phases
+in the first phase errors are detected by the 
+machine and subsequently in the second phase they are corrected by it
+
+cacm july 1969
+
+kennedy m
+
+correct data correct input data correction
+keypunch key verifier verifier
+
+2.40 2.42 2.43 3.10 3.20 3.50 4.41
+
+ca690712 jb february 15 1978  643 pm
+
+1868	5	1868
+1868	5	1868
+1868	5	1868
+

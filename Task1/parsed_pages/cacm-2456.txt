@@ -1,0 +1,53 @@
+
+
+
+on the capabilities of while repeat and exit statements
+
+a well-formed program is defined as a program
+in which loops and if statements are properly 
+nested and can be entered only at their beginning  a
+corresponding definition is given for a well-formed 
+flowchart  it is shown that a program is well formed if
+and only if it can be written with if repeat 
+and multi-level exit statements for sequence control 
+it is also shown that ifwhile and repeat statements 
+with single-level exit do not suffice  it is also shown
+that any flowcharts can be converted to a well-formed 
+flowchart by node splitting  practical implications are discussed
+
+cacm august 1973
+
+peterson w w
+kasami t
+tokura n
+
+well-formed program while statement repeat statement
+exit statement go to statement flowchart 
+node splitting software reliability
+
+4.39 4.49 5.29
+
+ca730818 jb january 23 1978  1020 am
+
+2456	5	2456
+2456	5	2456
+2456	5	2456
+2709	5	2456
+3004	5	2456
+3121	5	2456
+1312	6	2456
+1425	6	2456
+1425	6	2456
+308	6	2456
+309	6	2456
+2138	6	2456
+2204	6	2456
+2247	6	2456
+2356	6	2456
+2456	6	2456
+2456	6	2456
+2456	6	2456
+2477	6	2456
+2709	6	2456
+3186	6	2456
+

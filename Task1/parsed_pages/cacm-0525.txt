@@ -1,0 +1,15 @@
+
+
+
+a computer technique for handling analysis of variance
+
+cacm august 1962
+
+howell j r
+
+ca620803 jb march 17 1978  732 pm
+
+525	5	525
+525	5	525
+525	5	525
+

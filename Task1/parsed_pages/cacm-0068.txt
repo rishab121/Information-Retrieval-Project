@@ -1,0 +1,34 @@
+
+
+
+the role of the university in computers
+data processing and related fields
+
+a study was made of university programs in
+the united states in the fields of computers data 
+processing operations research and other closely related
+fields  university policies organization 
+administration faculties students researches curricula
+equipment and financing were investigated 
+ an integrated university program is recommended reflecting
+the conviction that many present activities 
+related to computers will develop into disciplines and
+as such are the legitimate province of the university 
+scholar  details on a recommended graduate
+school of computer sciences are given
+
+cacm september 1959
+
+fein l
+
+ca590901 jb march 22 1978  605 pm
+
+1205	5	68
+68	5	68
+68	5	68
+68	5	68
+1100	6	68
+1104	6	68
+1107	6	68
+68	6	68
+

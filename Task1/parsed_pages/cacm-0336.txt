@@ -1,0 +1,17 @@
+
+
+
+a practical technique for the determination of
+the optimum relaxation factor of the successive 
+over-relaxation method
+
+cacm april 1961
+
+kulsrud h e
+
+ca610432 jb march 16 1978  1127 pm
+
+336	5	336
+336	5	336
+336	5	336
+

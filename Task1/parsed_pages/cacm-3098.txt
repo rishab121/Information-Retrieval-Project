@@ -1,0 +1,44 @@
+
+
+
+computer generation of gamma random variables
+
+a new method for generating random variables
+from the gamma distribution with nonintegral shape 
+parameter a is proposed  this method is similar to two
+other methods recently given by wallace and fishman 
+ it is compared with fishmans and ahrens and dieters methods
+ the core storage requirements and programming 
+effort for this method are similar to those of fishmans
+method  the proposed method is the same as 
+fishmans method for 1  a  2 and is faster than fishmans
+method for 3  a  19  also the proposed 
+method is much simpler than ahrens and dieters method and is faster for a  8 
+
+cacm may 1978
+
+tadikamalla p
+
+gamma variables rejection method computer methods
+
+5.5 8.1
+
+ca780509 dh february 26 1979  110 pm
+
+2847	4	3098
+2928	4	3098
+3046	4	3098
+3046	4	3098
+3098	4	3098
+3098	4	3098
+3107	4	3098
+2569	5	3098
+2847	5	3098
+3046	5	3098
+3098	5	3098
+3098	5	3098
+3098	5	3098
+2569	6	3098
+2847	6	3098
+3098	6	3098
+

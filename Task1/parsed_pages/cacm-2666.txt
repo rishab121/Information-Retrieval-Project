@@ -1,0 +1,31 @@
+
+
+
+on lions counter example for gotliebs method
+for the construction of school timetables
+
+the timetable problem is an essentially discrete
+problem although the discrete problem may 
+have no feasible solution there may exist a solution
+to the equivalent continuous problem  an example 
+is given for which the nondiscrete solution can be
+interpreted as a set of timetables differing from 
+week to week which together satisfy the long-term
+requirements of the timetable problem
+
+cacm april 1974
+
+smith g
+sefton i m
+
+combinatorial multi-index problem necessary
+conditions schedule school timetable timetable
+
+3.51 5.39
+
+ca740404 jb january 18 1978  1002 am
+
+2666	5	2666
+2666	5	2666
+2666	5	2666
+

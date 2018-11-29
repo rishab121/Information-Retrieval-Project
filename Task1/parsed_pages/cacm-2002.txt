@@ -1,0 +1,54 @@
+
+
+
+amesplot-a higher level data plotting software system
+
+amesplot is an extensible software system designed to make the display of 
+data as simple painless and neat as possible  the system described is 
+hardware-independent and has been implemented on a variety of installations
+of different manufacturers having diverse configurations  the elements 
+common to all types of data plots are outlined and the way in which these 
+elements may be combined into a system based on simple modules is demonstrated
+these modules are specified independently and are independent of the axis
+systems or other attributes of the plot  this enables plots of any
+complexity to be constructed by adding or replacing modules  the
+basic syntax of amesplot is outlined and a brief description is given
+of its current utility software consisting of macros to produce
+self-scaled plots formal tablets of text-interspersed with subplots
+map coastlines and 3-d plots  the system was formulate
+d in a way such that the user could supply the minimum of information
+and it should be fully integrable with users program written
+in most conventional higher languages  the functions of positioning
+locating and scaling in the layout of multiple subplots of
+axes labels and all other elements of the plot are handled automatically
+by the software system unless the user specifies otherwise  the structuring 
+of plots from multiple independent self-contained subplots is described
+transformation projection scaling rotation or shifting of entire plots or 
+subplots by the action of one or more simple modules is possible  the user 
+may interact freely with amesplot at three levels enabling him to construct 
+his own data markers alphabetic characters and transformations and
+to produce a variety of artistic and other effects
+
+cacm september 1970
+
+hirschsoln i
+
+computer graphics data potting data display
+syntax hardware independent software
+display device independent software plot elements self-scaled plots
+user interaction tablet organization map display projection
+
+4.13 4.29 4.49 4.9
+
+ca700903 jb february 10 1978 208 pm
+
+2003	4	2002
+2002	4	2002
+2002	4	2002
+2152	4	2002
+1767	5	2002
+1937	5	2002
+2002	5	2002
+2002	5	2002
+2002	5	2002
+

@@ -1,0 +1,15 @@
+
+
+
+reduction of a matrix containing polynomial elements algorithm 170
+
+cacm august 1963
+
+hennion p e
+
+ca630834 jb march 13 1978  809 pm
+
+764	5	764
+764	5	764
+764	5	764
+

@@ -1,0 +1,29 @@
+
+
+
+an evaluation of statistical software in the social sciences 
+
+several hundred college and university computer
+installations now offer various types of statistical 
+packages for general use  among those most widely available
+are osiris spss bmd data-text and tsar 
+ in order to provide users with a basis for selection
+and use tests were made for each of these systems 
+and the results are summarized as to cost and performance
+
+cacm june 1974
+
+slysz w d
+
+statistical computation statistical software
+descriptive statistics bivariate tables pearson 
+correlation regression factor analysis one-way analysis of variance
+
+1.3 3.30 4.19 4.22 4.49 5.5
+
+ca740612 jb january 17 1978  254 pm
+
+2634	5	2634
+2634	5	2634
+2634	5	2634
+

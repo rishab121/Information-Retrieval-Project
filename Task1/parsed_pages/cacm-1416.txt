@@ -1,0 +1,23 @@
+
+
+
+a fortran technique for simplifying input to report generators
+
+typical report generators allow the production
+of standard forms when tabulating a magnetic 
+tape file the extraction of nonstandard sets of information
+with suitable annotation involves troublesome 
+forms design  a method of information extraction involving
+the calculation of suitable fortran format 
+statements which combats this problem is described
+
+cacm june 1966
+
+cleary j g
+
+ca660605 jb march 3 1978  853 am
+
+1416	5	1416
+1416	5	1416
+1416	5	1416
+

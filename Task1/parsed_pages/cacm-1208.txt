@@ -1,0 +1,21 @@
+
+
+
+simulation of computer logic by fortran arithmetic
+
+cacm august 1965
+
+weingarten f w
+
+ca650816 jb march 6 1978  753 pm
+
+1207	4	1208
+1208	4	1208
+3053	4	1208
+1208	5	1208
+1208	5	1208
+1208	5	1208
+1329	5	1208
+1409	5	1208
+1208	6	1208
+

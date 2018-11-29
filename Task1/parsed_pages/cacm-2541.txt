@@ -1,0 +1,62 @@
+
+
+
+an overview of the ispl computer system design
+
+this paper explores the advantages of the concurrent
+design of the language operating system 
+and machine via microcode to create an interactive programming
+laboratory  it describes the synergistic 
+effect that the freedom to move and alter features from
+one of these domains to another has had on the 
+design of this system which has not been implemented
+ this freedom simplified both incremental compilation 
+and the systems addressing structure and centralized the
+communication mechanisms enabling the construction 
+of hierarchical subsystems  it also suggested an important
+new concept for operating systems separation 
+of the scheduling from the maintenance functions in resource
+allocation this separation enables incorporation 
+of new scheduling algorithms decision of what to do without
+endangering the system integration correctly 
+performing the scheduling decisions
+
+cacm february 1973
+
+balzer r m
+
+concurrent design operating-system scheduling
+interprogram communication incremental compilation 
+virtual addressing debugging hierarchical subsystems
+
+4.0 4.13 4.22 4.30 4.32 4.41 4.42 6.20
+
+ca730207 jb january 24 1978  159 pm
+
+1323	4	2541
+1358	4	2541
+1380	4	2541
+1665	4	2541
+1781	4	2541
+1787	4	2541
+1989	4	2541
+2112	4	2541
+2193	4	2541
+2326	4	2541
+2477	4	2541
+2534	4	2541
+2541	4	2541
+2541	4	2541
+2594	4	2541
+2698	4	2541
+2733	4	2541
+2820	4	2541
+3004	4	2541
+3073	4	2541
+3155	4	2541
+2541	5	2541
+2541	5	2541
+2541	5	2541
+3186	5	2541
+799	5	2541
+

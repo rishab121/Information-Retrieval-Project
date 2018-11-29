@@ -1,0 +1,19 @@
+
+
+
+algol 60 reference language editor algorithm 268 r2
+
+cacm july 1969
+
+sauer g
+
+symbol manipulation
+
+4.49
+
+ca690715 jb february 15 1978  626 pm
+
+1865	5	1865
+1865	5	1865
+1865	5	1865
+

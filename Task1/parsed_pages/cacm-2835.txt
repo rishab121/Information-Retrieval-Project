@@ -1,0 +1,31 @@
+
+
+
+recursion analysis for compiler optimization
+
+a relatively simple method for the detection
+of recursive use of procedures is presented for 
+use in compiler optimization  implementation considerations
+are discussed and a modification of the 
+algorithm is given to further improve optimization
+ this analysis can also be used to determine what 
+possible subset of values could be assumed by variables
+which can only take on a relatively small discrete 
+set of values  the most common are parameters of variables
+assuming values of label procedure or pascals 
+enumerated type
+
+cacm september 1976
+
+walter k g
+
+recursion compiler optimization
+
+4.12
+
+ca760904 jb january 4 1978  936 am
+
+2835	5	2835
+2835	5	2835
+2835	5	2835
+

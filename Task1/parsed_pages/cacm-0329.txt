@@ -1,0 +1,34 @@
+
+
+
+automatic abstracting and indexing survey and recommendations
+
+in preparation for the widespread use of automatic
+scanners which will read documents and transmit 
+their contents to other machines for analysis this report
+presents a new concept in automatic analysis 
+the relative-frequency approach to measuring  the significance
+of words word groups and sentences 
+ the relative-frequency approach is discussed in detail
+as is its application to problems of automatic 
+indexing and automatic abstracting  included in the
+report is a summary of automatic analysis studies 
+published as of the date of writing  conclusions are
+that point toward more sophisticated mathematical 
+and linguistic techniques for the solution of problems of automatic analysis
+
+cacm may 1961
+
+edmundson h p
+wyllys r e
+
+ca610505 jb march 16 1978  1108 pm
+
+1087	5	329
+329	5	329
+329	5	329
+329	5	329
+634	5	329
+329	6	329
+329	6	329
+

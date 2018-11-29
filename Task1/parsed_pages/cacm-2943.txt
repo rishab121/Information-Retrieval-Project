@@ -1,0 +1,62 @@
+
+
+
+lucid a nonprocedural language with iteration
+
+lucid is a formal system in which programs
+can be written and proofs of programs carried out 
+ the proofs are particularly easy to follow and straightforward
+to produce because the statements in 
+a lucid program are simply axioms from which the proof
+proceeds by almost conventional logical reasoning 
+with the help of a few axioms and rules of inference
+for the special lucid functions  as a programming 
+language lucid is unconventional because among other
+things the order of statements is irrelevant 
+and assignment statements are equations  nevertheless
+lucid programs need not look much different than 
+iterative programs in a conventional structured programming
+language using assignment and conditional 
+statements and loops
+
+cacm july 1977
+
+ashcrof e a
+wadge w w
+
+program proving formal systems semantics
+iteration structured programming
+
+5.21 5.24
+
+ca770709 jb december 28 1977  830 am
+
+2021	4	2943
+2222	4	2943
+2227	4	2943
+2315	4	2943
+2326	4	2943
+2470	4	2943
+2732	4	2943
+2865	4	2943
+2896	4	2943
+2943	4	2943
+3014	4	2943
+3068	4	2943
+3077	4	2943
+3143	4	2943
+1834	5	2943
+2943	5	2943
+2943	5	2943
+2943	5	2943
+3150	5	2943
+2060	6	2943
+2704	6	2943
+2842	6	2943
+2939	6	2943
+2940	6	2943
+2941	6	2943
+2943	6	2943
+3073	6	2943
+3148	6	2943
+

@@ -1,0 +1,15 @@
+
+
+
+quick calculation of jacobian elliptic functions corrigendum
+
+cacm september 1962
+
+salzer h e
+
+ca620912 jb march 17 1978  728 pm
+
+480	5	480
+480	5	480
+480	5	480
+

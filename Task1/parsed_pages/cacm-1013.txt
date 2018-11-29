@@ -1,0 +1,32 @@
+
+
+
+final examination scheduling
+
+a method for scheduling final examinations
+to yield a minimal number of student conflicts is 
+described  the minimization is achieved by repetitively
+evaluating a nonlinear set of equations  
+imbeded in the process is a random or monte carlo selection
+of assignments  as in such heuristic techniques 
+the solution may not be optimum and many solutions
+may be found which yield locally minimal results 
+ computer programs are described and empirical results given
+
+cacm august 1964
+
+broder s
+
+ca640817 jb march 9 1978  633 pm
+
+1013	5	1013
+1013	5	1013
+1013	5	1013
+1609	5	1013
+2052	5	1013
+1008	6	1013
+1013	6	1013
+1013	6	1013
+1504	6	1013
+1540	6	1013
+

@@ -1,0 +1,39 @@
+
+
+
+detection of three-dimensional patterns of atoms in chemical structures
+
+an algorithm for detecting occurrences of a three-dimensional pattern of
+objects within a larger structure is presented  the search technique
+presented uses the geometric structure of the pattern to define
+characteristics demanded of candidates for matching this is useful
+in cases where the properties of each atom considered individually
+do not adequately limit the number of sets of possible matchings
+several applications of this technique in the field of chemistry
+are 1 in pharmacology searching for a common constellation
+of atoms in molecules possessing similar biological activities
+2 in x-ray crystallography fitting a structure or a structural fragment
+to a set of peaks in the electron-density distribution of
+a fourier map 3 in chemical documentation retrieving from
+a file the structures containing specified substructures
+
+cacm april 1979
+
+lesk a
+
+three-dimensional pattern recognition chemical
+structure search information retrieval crystal
+-structure analysis drug analysis and design
+
+3.13 3.63 3.74
+
+ca790401 dh may 21 1979  1050 am
+
+2521	5	3135
+3135	5	3135
+3135	5	3135
+3135	5	3135
+2028	6	3135
+2031	6	3135
+3135	6	3135
+

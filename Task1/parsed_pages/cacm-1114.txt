@@ -1,0 +1,26 @@
+
+
+
+generating a canonical prefix encoding
+
+computer programs for generating a minimum-redundancy
+exhaustive prefix encoding are described 
+ one program generates a huffman frequency tree another
+determines the structure functions of an encoding 
+and a third program assigns codes
+
+cacm march 1964
+
+schwartz e s
+kallick b
+
+ca640318 jb march 10 1978  228 am
+
+1114	5	1114
+1114	5	1114
+1114	5	1114
+2346	5	1114
+2459	5	1114
+1114	6	1114
+1114	6	1114
+

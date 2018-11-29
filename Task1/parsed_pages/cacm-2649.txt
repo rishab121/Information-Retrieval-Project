@@ -1,0 +1,28 @@
+
+
+
+on the distributions of significant digits and roundoff errors
+
+generalized logarithmic law is derived for
+the distribution of the first t significant digits 
+of a random digital integer  this result is then used
+to determine the distribution of the roundoff 
+errors in floating-point operations which is a mixture
+of uniform and reciprocal distributions
+
+cacm may 1974
+
+tsao n
+
+significant digits floating-point operations
+roundoff errors uniform distribution reciprocal 
+distribution variance mean valve
+
+5.10 5.11
+
+ca740504 jb january 17 1978  412 pm
+
+2649	5	2649
+2649	5	2649
+2649	5	2649
+

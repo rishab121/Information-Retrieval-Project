@@ -1,0 +1,67 @@
+
+
+
+eliminating monotonous mathematics with formac
+
+the formac formula manipulation compiler
+programming system provides a powerful tool for 
+performing mathematical analysis  it is an extension
+of fortran iv which permits the use of the computer 
+to perform the tedious algebraic computations that arise
+in many different fields  among the areas in 
+which it has been successfully used are differentiation
+of complicated expressions expansion of truncated 
+power series solution of simultaneous equations with
+literal coefficients nonlinear maximum likelihood 
+estimation tensor analysis and generation of the coefficients
+of equations in keplerian motion  these 
+types of analysis-which arose in the solution of specific
+practical problems in physics engineering 
+astronomy statistics and astronautics-are discussed in
+the paper  in addition to its usage for specific 
+problem solutions formac can also be used to automate
+the analysis phase in certain production programming 
+ several such applications are presented
+
+cacm october 1966
+
+tobey r g
+
+ca661002 jb march 2 1978  414 pm
+
+1396	5	1365
+1365	5	1365
+1365	5	1365
+1365	5	1365
+2229	5	1365
+964	6	1365
+1028	6	1365
+1029	6	1365
+1083	6	1365
+1132	6	1365
+1214	6	1365
+1278	6	1365
+1334	6	1365
+1365	6	1365
+1365	6	1365
+1386	6	1365
+1387	6	1365
+1388	6	1365
+1392	6	1365
+1393	6	1365
+1394	6	1365
+1395	6	1365
+1396	6	1365
+1397	6	1365
+1496	6	1365
+284	6	1365
+407	6	1365
+3199	6	1365
+3200	6	1365
+3201	6	1365
+3202	6	1365
+3203	6	1365
+3204	6	1365
+561	6	1365
+730	6	1365
+

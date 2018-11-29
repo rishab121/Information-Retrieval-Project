@@ -1,0 +1,34 @@
+
+
+
+interpolation search -a log logn search
+
+interpolation search is a method of retrieving
+a desired record by key in an ordered file by 
+using the value of the key and the statistical distribution
+of the keys  it is shown that on the average 
+log logn file accesses are required to retrieve a key
+assuming that the n keys are uniformly distributed 
+ the number of extra accesses is also estimated and shown
+to be very low  the same holds if the cumulative 
+distribution function of the keys is known  computational
+experiments confirm these results  
+
+cacm july 1978
+
+perl y
+itai a
+avni h
+
+average number of accesses binary search database
+interpolation search retrieval searching 
+uniform distribution 
+
+4.4 4.6 5.25
+
+ca780704 dh february 7 1979  450 pm
+
+3084	5	3084
+3084	5	3084
+3084	5	3084
+

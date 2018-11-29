@@ -1,0 +1,34 @@
+
+
+
+an event-driven compiling technique
+
+due to the linear structure of source text difficulties may arise in a 
+one-pass compilation process  these difficulties occur when an entity
+cannot be processed because of a forward reference to information
+only obtainable from subsequent entities  classic solutions
+ask for data structures appropriate for each case  a technique is
+presented here which uses instead control structures namely events
+and processes  the work of the compiler-writer becomes easier both
+conceptually and in practice because he can forget these problems
+at the outset and he avoids special processing for each problem
+this technique has been applied to the construction of an algol
+68 compiler  three examples from that implementation
+are described and discussed here
+
+cacm january 1979
+
+banatre j
+routeau j
+trilling l
+
+compiling technique one-pass compilation semantic
+analysis event process parallelism
+categories-4.12
+
+ca790105 dh april 10 1979  1226 pm
+
+3120	5	3120
+3120	5	3120
+3120	5	3120
+

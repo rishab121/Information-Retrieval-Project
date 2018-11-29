@@ -1,0 +1,34 @@
+
+
+
+optimizing bit-time computer simulation
+
+a major component of a bit-time computer simulation
+program is the boolean compiler  the compiler 
+accepts the boolean functions representing the simulated computers
+digital circuits and generates corresponding 
+sets of machine instructions which are subsequently
+executed on the host computer  techniques are 
+discussed for increasing the sophistication of the boolean
+compiler so as to optimize bit-time computer 
+simulation  the techniques are applicable to any general-purpose computer
+
+cacm november 1963
+
+katzj h
+
+ca631114 jb march 13 1978  334 pm
+
+678	4	678
+1030	5	678
+270	5	678
+1886	5	678
+1939	5	678
+678	5	678
+678	5	678
+678	5	678
+1030	6	678
+678	6	678
+678	6	678
+678	6	678
+

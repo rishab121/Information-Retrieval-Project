@@ -1,0 +1,15 @@
+
+
+
+a sparse matrix package algorithm r408
+
+cacm september 1973
+
+lawrence e e
+
+ca730913 jb january 23 1978  837 am
+
+2442	5	2442
+2442	5	2442
+2442	5	2442
+

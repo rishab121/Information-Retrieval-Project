@@ -1,0 +1,89 @@
+
+
+
+an efficient context-free parsing algorithm
+
+a parsing algorithm which seems to be the most efficient general context-free 
+algorithm known is described  it is similar to both knuths lrk algorithm 
+and the familiar top-down algorithm  it has a time bound proportional to 
+n^3 where n is the length of the string being parsed in general it has a 
+n^2 bound for unambiguous grammars and it runs in linear time on a large 
+class of grammars which seems to include most practical context-free
+programming language grammars  in an empirical comparison it appears
+to be superior to the top-down and bottom-up algorithms studied by griffiths 
+and petrick
+
+cacm february 1970
+
+earley j
+
+syntax analysis parsing context-free grammar
+compilers computational complexity
+
+4.12 5.22 5.23
+
+ca700205 jb february 14 1978  1035 am
+
+1350	4	2110
+1399	4	2110
+1659	4	2110
+1665	4	2110
+1768	4	2110
+1768	4	2110
+1781	4	2110
+1787	4	2110
+1824	4	2110
+1825	4	2110
+1836	4	2110
+1861	4	2110
+1945	4	2110
+2015	4	2110
+2110	4	2110
+2110	4	2110
+2127	4	2110
+2187	4	2110
+2317	4	2110
+2545	4	2110
+2698	4	2110
+2733	4	2110
+3094	4	2110
+1265	5	2110
+1781	5	2110
+1989	5	2110
+2060	5	2110
+2110	5	2110
+2110	5	2110
+2110	5	2110
+2179	5	2110
+2698	5	2110
+2921	5	2110
+3154	5	2110
+1380	6	2110
+1421	6	2110
+1469	6	2110
+1477	6	2110
+1477	6	2110
+1477	6	2110
+1491	6	2110
+1491	6	2110
+1491	6	2110
+1781	6	2110
+1825	6	2110
+210	6	2110
+1869	6	2110
+1989	6	2110
+2015	6	2110
+2046	6	2110
+2110	6	2110
+2110	6	2110
+2110	6	2110
+2110	6	2110
+2110	6	2110
+2110	6	2110
+2556	6	2110
+3133	6	2110
+3184	6	2110
+680	6	2110
+799	6	2110
+799	6	2110
+

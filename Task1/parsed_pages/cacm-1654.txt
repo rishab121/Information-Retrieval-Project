@@ -1,0 +1,36 @@
+
+
+
+a universitys educational program in computer science
+
+after a review of the power of contemporary computers
+computer science is defined in several 
+ways  the objectives of computer science education are
+stated and it is asserted that in a north american 
+university these will be achieved only through a computer
+science department  the program at stanford 
+university is reviewed as an example  the appendices
+include syllabic of ph qualifying examinations 
+for stanfords computer science department
+
+cacm january 1967
+
+forsythe g e
+
+ca670101 jb march 1 1978  913 am
+
+1413	4	1654
+1654	4	1654
+1771	4	1654
+2478	4	1654
+1205	5	1654
+1654	5	1654
+1654	5	1654
+1654	5	1654
+1720	5	1654
+1771	5	1654
+1205	6	1654
+1654	6	1654
+1654	6	1654
+1771	6	1654
+

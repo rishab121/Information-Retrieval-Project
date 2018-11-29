@@ -1,0 +1,48 @@
+
+
+
+an alternative to event queues for synchronization in monitors
+
+in the monitor concept as proposed by brinch
+hansen and hoare event are used for synchronization
+  this paper describes another synchronizing primitive
+which is nearly as expressive as the conditional 
+wait but can be implemented more efficiently  an implementation
+of this primitive in terms of p and 
+v operations is given together with a correctness proof
+ two examples are presented the readers and 
+writers problem and the problem of information
+streams sharing a finite buffer pool
+
+cacm july 1977
+
+kessels j l w
+
+monitor operating system mutual exclusion synchronization
+conditional critical region structuring 
+concept
+
+4.31
+
+ca770706 jb december 28 1977  1010 am
+
+2320	4	2946
+2597	4	2946
+2777	4	2946
+2851	4	2946
+2895	4	2946
+2912	4	2946
+2938	4	2946
+2946	4	2946
+2946	4	2946
+3128	4	2946
+3128	4	2946
+2150	5	2946
+2866	5	2946
+2898	5	2946
+2946	5	2946
+2946	5	2946
+2946	5	2946
+2597	6	2946
+2946	6	2946
+

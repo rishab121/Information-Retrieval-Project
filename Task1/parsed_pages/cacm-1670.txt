@@ -1,0 +1,21 @@
+
+
+
+correspondences of 8-bit and hollerith codes for
+computer environments a usasi tutorial standard
+
+cacm november 1968
+
+usa standard card code punched card punched card
+code hole-patterns hole-patterns assignment 
+punched card systems
+
+1.1 1.4 2.0 2.12 2.43 2.44 3.10 3.20 3.30 3.31 3.42 3.50 3.56 3.70 3.72 3.73 
+3.74 3.80 3.81 4.0 4.1 4.2 4.20 4.40 5.0
+
+ca681109 jb february 21 1978  233 pm
+
+1670	5	1670
+1670	5	1670
+1670	5	1670
+

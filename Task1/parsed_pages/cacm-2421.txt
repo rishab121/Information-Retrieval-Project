@@ -1,0 +1,60 @@
+
+
+
+a scan conversion algorithm with reduced storage requirements
+
+most graphics systems using a raster scan output
+device crt or hardcopy maintain a display 
+file in the xy or random scan format  scan converters
+hardware or software must be provided to translate 
+the picture description from the xy format to the raster
+format  published scan conversion algorithms 
+which are fast will reserve a buffer area large enough
+to accommodate the entire screen  on the other 
+hand those which use a small buffer area are slow because
+they require multiple passes through the xy 
+display file  the scan conversion algorithm described
+here uses a linked list data structure to process 
+the lines of the drawing in strips corresponding to
+groups of scan lines  a relatively small primary 
+memory buffer area is used to accumulate the binary image
+for a group of scan lines  when this portion 
+of the drawing has been plotted the buffer is reused for
+the next portion  because of the list processing 
+procedures used only a single pass through the xy display
+file is required when generating the binary 
+image and only a slight increase in execution time over
+the fully buffered core results  results slow 
+that storage requirements can be reduced by more than
+80 percent while causing less than a 10 percent 
+increase in execution time
+
+cacm november 1973
+
+jordan b w jr
+barrett r c
+
+graphics scan conversion raster plotter
+line drawing discrete image dot generation
+
+4.41 6.35 8.2
+
+ca731105 jb january 20 1978  1028 am
+
+1891	4	2421
+2211	4	2421
+2421	4	2421
+2421	4	2421
+2674	4	2421
+2687	4	2421
+1741	5	2421
+2211	5	2421
+2421	5	2421
+2421	5	2421
+2421	5	2421
+2674	5	2421
+1741	6	2421
+2004	6	2421
+2421	6	2421
+2687	6	2421
+

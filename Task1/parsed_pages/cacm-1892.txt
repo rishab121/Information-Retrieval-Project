@@ -1,0 +1,92 @@
+
+
+
+degree of multiprogramming in page-on-demand systems
+
+a simple stochastic model is described which
+offers a base for understanding the relationship 
+between the number of programs permitted to share memory
+the degree of multiprogramming drum traffic 
+rates and central processing unit utilization in page-on-demand
+multiprogrammed time-shared computer 
+systems  the model preserves as a key feature the
+property of page-demand statistics which implies 
+a burst of page demands at the beginning of any job
+or quantum execution  the model a markov chain 
+is analyzed numerically and the results are presented graphically
+for a wide range of key environment-descriptive 
+parameters  implications of the results to time-shared
+system design and programming are discussed 
+and a calculation of the optimal degree of multiprogramming
+for a wide range of parameters is presented 
+graphically 
+
+cacm june 1969
+
+wallace v l
+mason d l
+
+page-on-demand demand paging time-sharing multiprogramming
+markovian computer models scheduling 
+strategies operating systems memory management
+
+2.44 4.32 4.39 6.20 6.21
+
+ca690601 jb february 17 1978  143 pm
+
+1751	4	1892
+1805	4	1892
+1846	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+1901	4	1892
+1924	4	1892
+2068	4	1892
+2085	4	1892
+2095	4	1892
+2095	4	1892
+2128	4	1892
+2188	4	1892
+2218	4	1892
+2218	4	1892
+2218	4	1892
+2218	4	1892
+2277	4	1892
+2297	4	1892
+2317	4	1892
+2319	4	1892
+2329	4	1892
+2358	4	1892
+2373	4	1892
+2374	4	1892
+2380	4	1892
+2434	4	1892
+2499	4	1892
+2501	4	1892
+2526	4	1892
+2582	4	1892
+2667	4	1892
+2668	4	1892
+2669	4	1892
+2741	4	1892
+2828	4	1892
+2862	4	1892
+2863	4	1892
+2863	4	1892
+2881	4	1892
+2928	4	1892
+2996	4	1892
+3006	4	1892
+3067	4	1892
+1526	5	1892
+1572	5	1892
+1728	5	1892
+1751	5	1892
+1752	5	1892
+1892	5	1892
+1892	5	1892
+1892	5	1892
+

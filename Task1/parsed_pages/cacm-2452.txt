@@ -1,0 +1,73 @@
+
+
+
+evaluation and selection of file organization-a model and system
+
+this work first discusses the factors that
+affect file data base organization performance 
+an elusive subject and then presents a methodology a
+model and a programmed system to estimate primarily 
+total storage costs and average access time of several
+file organizations given a specific data base 
+query characterization and device-related specifications
+ based on these estimates an appropriate file 
+structure may be selected for the specific situation
+ the system is a convenient tool to study file 
+structures and to facilitate as much as possible the process
+of data base structure design and evaluation
+
+cacm september 1973
+
+cardenas a f
+
+file organization file structures file management
+file organization performance file organization 
+model file structure design secondary index organization
+simulation data base access time storage 
+requirement data base analysis data management
+
+3.70 3.71 3.72 3.74 3.79 4.0
+
+ca730903 jb january 23 1978  946 am
+
+1050	4	2452
+1935	4	2452
+1936	4	2452
+2017	4	2452
+2032	4	2452
+2140	4	2452
+2257	4	2452
+2257	4	2452
+2360	4	2452
+2360	4	2452
+2451	4	2452
+2451	4	2452
+2452	4	2452
+2452	4	2452
+2452	4	2452
+2452	4	2452
+2556	4	2452
+2765	4	2452
+2765	4	2452
+2882	4	2452
+2901	4	2452
+3134	4	2452
+1936	5	2452
+1976	5	2452
+2198	5	2452
+2452	5	2452
+2452	5	2452
+2452	5	2452
+2765	5	2452
+2882	5	2452
+849	5	2452
+1936	6	2452
+1976	6	2452
+2046	6	2452
+2198	6	2452
+2451	6	2452
+2452	6	2452
+2452	6	2452
+616	6	2452
+627	6	2452
+

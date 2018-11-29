@@ -1,0 +1,28 @@
+
+
+
+tensor calculations on the computer
+
+a formac program has been written which is capable
+of calculating various quantities of interest 
+in tensor calculus  using this code christoffel symbols
+have been calculated for 12 basic orthogonal 
+coordinate systems
+
+cacm december 1966
+
+waltons j j
+
+ca661205 jb march 2 1978  235 pm
+
+1345	5	1345
+1345	5	1345
+1345	5	1345
+1543	5	1345
+1664	5	1345
+1345	6	1345
+1345	6	1345
+1543	6	1345
+1616	6	1345
+1616	6	1345
+

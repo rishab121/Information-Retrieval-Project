@@ -1,0 +1,31 @@
+
+
+
+a design for a number theory package
+with an optimized trial division routine
+
+a number theory package is described which uses
+doubly linked list structures for storing multiprecise 
+integers  the package has been coded in ibms basic
+assembly language and makes heavy use of the macro 
+language and conditional assembly  an optimally coded
+trial division routine is also described which 
+can be used to determine the unique factorization of large integers
+
+cacm may 1974
+
+wunderlich m c
+selfridge j l
+
+number theory package trial division multiprecise
+arithmetic factorization doubly linked lists 
+pseudoprime
+
+3.15
+
+ca740505 jb january 17 1978  409 pm
+
+2648	5	2648
+2648	5	2648
+2648	5	2648
+

@@ -1,0 +1,47 @@
+
+
+
+online programming
+
+when the transition has been made from off line
+to online programming there are a number of 
+changes in the working conditions noted  these changes
+in the environment make necessary corresponding 
+changes in the processes related to producing and checking
+out programs  in the main it it not the 
+programming language itself which must be changed to
+provide a facility for the online user it is the 
+system surrounding the programming language  in this
+paper the online environment and its effect on 
+programming are discussed
+
+cacm march 1966
+
+schwartz j i
+
+ca660314 jb march 3 19781144 am
+
+1458	4	1458
+1523	4	1458
+1603	4	1458
+1698	4	1458
+1747	4	1458
+1748	4	1458
+1854	4	1458
+1877	4	1458
+1960	4	1458
+2377	4	1458
+2378	4	1458
+2497	4	1458
+2558	4	1458
+2625	4	1458
+2632	4	1458
+2840	4	1458
+2941	4	1458
+3105	4	1458
+3144	4	1458
+1458	5	1458
+1458	5	1458
+1458	5	1458
+1471	5	1458
+

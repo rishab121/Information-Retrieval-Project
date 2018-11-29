@@ -1,0 +1,29 @@
+
+
+
+three fonts of computer drawn letters
+
+detailed descriptions are given for three fonts
+of letters  letter shapes are entirely described 
+by numbers  the basic vectors are in a general form
+so the fonts may be easily drawn on a variety of 
+computers and cathode-ray tubes  the fonts include both
+upper and lower case roman letters mathematical 
+signs and upper and lower case greek letters  design
+of the fonts is described  however the principal 
+contribution of this paper concerns the fonts themselves
+
+cacm october 1967
+
+mathews m v
+lochbaum c
+moss j a
+
+ca671005 jb february 27 1978  224 pm
+
+1528	5	1528
+1528	5	1528
+1528	5	1528
+1697	5	1528
+1528	6	1528
+

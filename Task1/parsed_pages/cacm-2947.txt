@@ -1,0 +1,38 @@
+
+
+
+sitar an interactive text processing system for small computers
+
+sitar a low-cost in teractive text handling
+and text analysis system for nontechnical users 
+is in many ways comparable to in teractive bibliographical
+search and retrieval systems but has several 
+additional features it is implemented on a pdp/11 time-sharing
+computer invoked by a crt with microprogrammed 
+editing functions  it uses a simple command language designating
+a function a file and a search template 
+consisting of the textual string desired and strings
+delimiting the context in which the hit is to be 
+delivered  extensive experience with sitar shows that
+the combined powers of simple commands string 
+orientation circular file structure a crt with local
+memory and conversational computing produce a 
+system much more powerful than the sum of its parts
+
+cacm july 1977
+
+schneider b r jr
+watts r m
+
+information retrieval text editing minicomputers
+crtstime sharing bibliographic search and 
+retrieval literary analysis linguistic analysis command languages
+
+3.4 3.7
+
+ca770705 jb december 28 1977  1020 am
+
+2947	5	2947
+2947	5	2947
+2947	5	2947
+

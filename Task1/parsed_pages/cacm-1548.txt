@@ -1,0 +1,65 @@
+
+
+
+parsing of decision tables
+
+reduction in the size of decision tables can be
+accomplished by several techniques  the techniques 
+considered in this paper are on the parsing of decision
+tables with regard to horizontal and vertical 
+data structures job identity hardware and job priorities
+and context relationships  such parsing 
+rests upon some conventions for the linkage of decision tables
+
+cacm august 1967
+
+chapin n
+
+ca670807 jb february 27 1978  414 pm
+
+1548	4	1548
+1548	4	1548
+2220	4	1548
+2726	4	1548
+2726	4	1548
+1488	5	1548
+1489	5	1548
+1548	5	1548
+1548	5	1548
+1548	5	1548
+2220	5	1548
+2492	5	1548
+2518	5	1548
+2598	5	1548
+2616	5	1548
+2726	5	1548
+931	6	1548
+1172	6	1548
+1172	6	1548
+1172	6	1548
+1237	6	1548
+1327	6	1548
+1327	6	1548
+1354	6	1548
+1354	6	1548
+1488	6	1548
+1489	6	1548
+1489	6	1548
+1548	6	1548
+1548	6	1548
+1548	6	1548
+1548	6	1548
+1548	6	1548
+1548	6	1548
+1684	6	1548
+1684	6	1548
+250	6	1548
+2220	6	1548
+2220	6	1548
+2221	6	1548
+2263	6	1548
+2263	6	1548
+2453	6	1548
+2517	6	1548
+2691	6	1548
+

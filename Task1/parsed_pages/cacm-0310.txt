@@ -1,0 +1,20 @@
+
+
+
+a set of associate legendre polynomials
+of the second kind algorithm 62
+
+cacm july 1961
+
+herndon j r
+
+ca610707 jb march 16 1978  1023 pm
+
+1222	5	310
+310	5	310
+310	5	310
+310	5	310
+1130	6	310
+245	6	310
+310	6	310
+

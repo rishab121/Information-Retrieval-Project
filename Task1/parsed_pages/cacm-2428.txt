@@ -1,0 +1,21 @@
+
+
+
+cubic spline solutions to a class of functional
+differential equations d2 algorithm a461
+
+cacm october 1973
+
+burkowski f j
+hoskins w d
+
+differential equation spline approximation
+
+5.17
+
+ca731012 jb january 20 1978  1106 am
+
+2428	5	2428
+2428	5	2428
+2428	5	2428
+

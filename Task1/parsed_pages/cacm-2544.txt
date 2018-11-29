@@ -1,0 +1,39 @@
+
+
+
+automatic error bounds for simple zeros of analytic functions
+
+the cauchy-ostrowski theorem on convergence
+of newton iterates for an analytic function in 
+one variable is extended to include computational errors
+using complex interval arithmetic several numerical 
+examples are given for polynomials with real and complex
+roots and one example for the bessel function 
+of the first kind
+
+cacm february 1973
+
+rokne j
+
+real intervals complex intervals real interval
+arithmetic complex interval arithmetic newtons 
+method cauchy-ostrowski theorem zeros of
+polynomials zeros of bessel functions
+
+5.11 5.12 5.15
+
+ca730204 jb january 24 1978  251 pm
+
+1524	4	2544
+1931	4	2544
+2214	4	2544
+2544	4	2544
+2544	4	2544
+2544	4	2544
+1524	5	2544
+311	5	2544
+2214	5	2544
+2544	5	2544
+2544	5	2544
+2544	5	2544
+

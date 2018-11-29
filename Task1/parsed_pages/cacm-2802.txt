@@ -1,0 +1,41 @@
+
+
+
+the new math of computer programming
+
+structured programming has proved to be an important
+methodology for systematic program design 
+and development  structured programs are identified
+as compound function expressions in the algebra 
+of functions the algebraic properties of these function
+expressions permit the reformulation expansion 
+as well as reduction of a nested subexpression independently
+of its environment thus modeling what 
+is known as stepwise program refinement as well as program
+execution  finally structured programming 
+is characterized in terms of the selection and solution
+of certain elementary equations defined in the 
+algebra of functions  these solutions can be given in
+general formulas each involving a single parameter 
+which display the entire freedom available
+in creating correct structured programs
+
+cacm january 1975
+
+mills h d
+
+structured programming algebra of functions
+stepwise refinement program correctness
+
+4.6 5.21 5.24
+
+ca750109 jb january 12 1978  950 am
+
+2709	4	2802
+2802	4	2802
+3004	4	2802
+1425	5	2802
+2802	5	2802
+2802	5	2802
+2802	5	2802
+

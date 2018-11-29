@@ -1,0 +1,15 @@
+
+
+
+newton interpolation with forward divided differences algorithm 169
+
+cacm september 1963
+
+thacher jr h c
+
+ca630925 jb march 13 1978  713 pm
+
+733	5	733
+733	5	733
+733	5	733
+

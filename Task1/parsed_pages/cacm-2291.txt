@@ -1,0 +1,20 @@
+
+
+
+localization of the roots of a polynomial c2 algorithm a429
+
+cacm august 1972
+
+squire w
+
+polynomials roots of polynomialstheory
+of equations routh-hurwitz criterion
+
+5.15
+
+ca720811 jb january 30 1978  921 am
+
+2291	5	2291
+2291	5	2291
+2291	5	2291
+

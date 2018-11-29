@@ -1,0 +1,20 @@
+
+
+
+zeros of a real polynomial by resultant procedure algorithm 59
+
+cacm may 1961
+
+bareiss e h
+fisherkeller m a
+
+ca610507 jb march 16 1978  1101 pm
+
+1667	5	327
+327	5	327
+327	5	327
+327	5	327
+178	6	327
+1242	6	327
+327	6	327
+

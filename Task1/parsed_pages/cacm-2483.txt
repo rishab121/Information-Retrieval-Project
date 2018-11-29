@@ -1,0 +1,50 @@
+
+
+
+coko iii the cooper-koz chess program
+
+coko iii is a chess player written entirely
+in fortran  on the ibm 360-65 coko iii plays 
+a minimal chess game at the rate of .2 sec cpu time
+per move with a level close to lower chess club 
+play  a selective tree searching procedure controlled
+by tactical chess logistics allows a deployment 
+of multiple minimal game calculations to achieve some optimal
+move selection  the tree searching algorithms 
+are the heart of cokos effectiveness yet they are
+conceptually simple  in addition an interesting 
+phenomenon called a tree searching catastrophe has plagued
+cokos entire development just as it troubles 
+a human player  standard exponential growth is curbed
+to a large extent by the definition and trimming 
+of the fischer set  a clear distinction between tree
+pruning and selective tree searching is also made 
+ representation of the chess environment is described
+along with a strategical preanalysis procedure 
+that maps the lasker regions  specific chess algorithms
+are described which could be used as a command 
+structure by anyone desiring to do some chess program
+experimentation  a comparison is made of some 
+mysterious actions of human players and coko iii
+
+cacm july 1973
+
+kozdrowicki e w
+cooper d w
+
+artificial intelligence selective searching tree
+searching tree searching catastrophe heuristic 
+programmingchess algorithms lasker regions fischer
+set minimal chess game strategical tactical 
+tactical control mode game playing alpha beta machine
+learning concept formation command structure 
+minimax computer chess tournament auxiliary minimal game
+
+3.60 3.66 3.74 4.22
+
+ca730703 jb january 23 1978  107 pm
+
+2483	5	2483
+2483	5	2483
+2483	5	2483
+

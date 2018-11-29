@@ -1,0 +1,94 @@
+
+
+
+natural language question-answering systems 1969
+
+recent experiments in programming natural
+language question-answering systems are reviewed
+to summarize the methods that have been developed for syntactic semantic
+and logical analysis of english strings  it is concluded
+that at least minimally effective techniques have been devised for
+answering questions from natural language subsets in small scale
+experimental systems and that a useful paradigm has evolved to guide
+research efforts in the field  current approaches to semantic
+analysis and logical inference are seen to be effective beginnings
+but of questionable generality with respect either to subtle aspects of 
+meaning or to applications over large subsets of english 
+generalizing from current small-scale experiments to language-processing 
+systems based on dictionaries with thousands of entries-with
+correspondingly large grammars and semantic systems-may entail
+a new order of complexity and require the invention and development
+of entirely different approaches to semantic analysis and questions answering
+
+cacm january 1970
+
+simmons r f
+
+question-answering natural language artificial intelligencelanguage
+processing fact retrieval semantics 
+
+3.6 3.64 3.7 3.74
+
+ca700104 jb february 14 1978  210 pm
+
+1155	4	2127
+1400	4	2127
+1456	4	2127
+1468	4	2127
+1515	4	2127
+1515	4	2127
+1553	4	2127
+1665	4	2127
+1699	4	2127
+1768	4	2127
+1787	4	2127
+1824	4	2127
+1825	4	2127
+1836	4	2127
+1856	4	2127
+1861	4	2127
+1945	4	2127
+2015	4	2127
+2096	4	2127
+2092	4	2127
+2110	4	2127
+2127	4	2127
+2127	4	2127
+2127	4	2127
+2127	4	2127
+2127	4	2127
+2127	4	2127
+2187	4	2127
+2210	4	2127
+2309	4	2127
+2310	4	2127
+2317	4	2127
+2396	4	2127
+2396	4	2127
+2545	4	2127
+2698	4	2127
+2730	4	2127
+2733	4	2127
+1155	5	2127
+1324	5	2127
+1487	5	2127
+1527	5	2127
+1781	5	2127
+1856	5	2127
+2127	5	2127
+2127	5	2127
+2127	5	2127
+2178	5	2127
+2396	5	2127
+2561	5	2127
+1303	6	2127
+1323	6	2127
+1487	6	2127
+1856	6	2127
+2059	6	2127
+2092	6	2127
+2127	6	2127
+2127	6	2127
+2127	6	2127
+3184	6	2127
+

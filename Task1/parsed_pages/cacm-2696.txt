@@ -1,0 +1,39 @@
+
+
+
+a method of bivariate interpolation and smooth
+surface fitting based on local procedures
+
+a method is designed for interpolating values
+given at points of a rectangular grid in a plane 
+by a smooth bivariate function zzxy  the interpolating
+function is a bicubic polynomial in each 
+cell of the rectangular grid  emphasis is an avoiding
+excessive undulation between given grid points 
+the proposed method is an extension of the method of
+univariate interpolation developed earlier by the 
+author and is likewise based on local procedures
+
+cacm january 1974
+
+akima h
+
+bivariate interpolation interpolation partial
+derivative polynomial smooth surface fitting
+
+5.13
+
+ca740103 jb january 18 1978  238 pm
+
+2693	4	2696
+2696	4	2696
+2696	4	2696
+2270	5	2696
+2693	5	2696
+2696	5	2696
+2696	5	2696
+2696	5	2696
+988	6	2696
+2270	6	2696
+2696	6	2696
+

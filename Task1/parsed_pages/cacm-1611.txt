@@ -1,0 +1,27 @@
+
+
+
+scheduling project networks
+
+some of the basic concepts and terminology
+of project networking are developed  the critical 
+path algorithm incorporated in the c-e-i-r proprietary
+scheduling system ramps resource allocation and 
+multi-project scheduling is described  the error detection
+and network analysis features of the algorithm 
+are also described
+
+cacm april 1967
+
+klein m m
+
+ca670404 jb february 28 1978  1131 am
+
+1611	4	1611
+1611	4	1611
+1295	5	1611
+1611	5	1611
+1611	5	1611
+1611	5	1611
+340	5	1611
+

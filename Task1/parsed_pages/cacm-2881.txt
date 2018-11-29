@@ -1,0 +1,51 @@
+
+
+
+a counterintuitive example of computer paging
+
+a counterexample is exhibited to a natural conjecture
+concerning the optimal way to group records 
+into pages in the independent reference model of computer
+paging an organization is said to be optimal 
+if the least recently used miss ratio is minimized
+
+cacm february 1976
+
+fagin r
+
+least recently used most likely together independent
+reference model storage organization record 
+allocation
+
+3.70 3.73 4.0 5.30
+
+ca760206 jb january 5 1978  853 am
+
+1892	4	2881
+1901	4	2881
+2085	4	2881
+2095	4	2881
+2218	4	2881
+2277	4	2881
+2319	4	2881
+2329	4	2881
+2358	4	2881
+2373	4	2881
+2380	4	2881
+2434	4	2881
+2499	4	2881
+2501	4	2881
+2582	4	2881
+2669	4	2881
+2828	4	2881
+2863	4	2881
+2881	4	2881
+2928	4	2881
+2996	4	2881
+3006	4	2881
+3067	4	2881
+1751	5	2881
+2881	5	2881
+2881	5	2881
+2881	5	2881
+

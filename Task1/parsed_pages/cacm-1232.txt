@@ -1,0 +1,14 @@
+
+
+
+representation of the standard ecma 7-bit
+code in punched cards ecma standard
+
+cacm july 1965
+
+ca650703 jb march 6 1978  906 pm
+
+1232	5	1232
+1232	5	1232
+1232	5	1232
+

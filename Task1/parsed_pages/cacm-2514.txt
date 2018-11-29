@@ -1,0 +1,30 @@
+
+
+
+an array grammar programming system
+
+a package of fortran programs has been developed
+that permits a user to interactively design 
+and test array grammars  the user can control the rule
+selection procedure in a derivation or parse 
+using weighted programming matrices he also has a choice
+of instance selection schemes rasterrandom 
+parallel  examples are given involving array languages
+consisting of simple geometrical patterns as 
+well as a language of neuron pictures
+
+cacm may 1973
+
+mercer a
+rosenfeld a
+
+picture grammars array grammars
+
+3.63 5.23 8.2
+
+ca730506 jb january 23 1978  449 pm
+
+2514	5	2514
+2514	5	2514
+2514	5	2514
+

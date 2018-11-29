@@ -1,0 +1,24 @@
+
+
+
+accelerating lp algorithms
+
+it is shown how a novel method for computing
+related inner products can accelerate the pricing 
+phase of lp algorithms  other lp applications are indicated
+
+cacm july 1969
+
+fox b l
+
+linear programming revised simplex
+method multiple pricing inner product
+
+5.19 5.41
+
+ca690707 jb february 17 1978908 am
+
+1873	5	1873
+1873	5	1873
+1873	5	1873
+

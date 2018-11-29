@@ -1,0 +1,39 @@
+
+
+
+a correctness proof of a topology information
+main tenance protocol for a distributed computer 
+network
+
+in order for the nodes of a distributed computer
+network to communicate each node must have 
+information about the networks topology  since nodes
+and links sometimes crash a scheme is needed 
+to update this information  one of the major constrain ts
+on such a topology information scheme is that 
+it may not involve a central controller  the topology
+information protocol that was implemented on the 
+merit computer network is presented and explained this
+protocol is quite general and could be implemented 
+on any computer network  it is based on barans hot
+potato heuristic routing doctrine  a correctness 
+proof of this topology information protocol is also presented
+
+cacm july 1977
+
+tajibnapis w d
+
+distributed computer network correctness proofs
+computer networks distributed control network 
+topology routing problem in networks distributed operating
+system store and forward packet switching 
+store and forward message switching traffic control
+
+3.81 4.32
+
+ca770703 jb december 28 1977  1159 am
+
+2949	5	2949
+2949	5	2949
+2949	5	2949
+

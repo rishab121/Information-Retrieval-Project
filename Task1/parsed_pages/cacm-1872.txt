@@ -1,0 +1,19 @@
+
+
+
+chebyshev interpolation and quadrature
+formulas of very high degree errata
+
+cacm july 1969
+
+salzer h e
+
+ca690708 jb february 17 1978  901 am
+
+1872	5	1872
+1872	5	1872
+1872	5	1872
+2394	5	1872
+1872	6	1872
+1903	6	1872
+

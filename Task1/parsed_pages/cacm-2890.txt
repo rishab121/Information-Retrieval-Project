@@ -1,0 +1,39 @@
+
+
+
+on quadratic adaptive routing algorithms
+
+two analytic models of a store-and-forward communications
+network are constructed one to find 
+the optimal message routing and the other to illustrate
+the equilibrium stationary state maintained 
+by an adaptive routing algorithm  these models show that
+adaptive routing does not satisfy the necessary 
+conditions for an optimal routing  adaptive routing tends
+to overuse the direct path and underuse alternate 
+routes because it does not consider the impact of its
+current routing decision on the future state of 
+the network  the form of the optimality conditions suggests
+that a modification of the adaptive algorithm 
+will result in optimality  the modification requires
+the substitution of a quadratic bias term instead 
+of a linear one in the routing table maintained at each
+network node  simulation results are presented 
+which confirm the theoretical analysis for a simple network
+
+cacm january 1976
+
+agnew c e
+
+routing algorithms adaptive routing quadratic routing
+alternate routing store-and-forward network 
+distributed network computer network message switching
+
+3.81 8.0 8.1 8.3
+
+ca760103 jb january 5 1978  1037 am
+
+2890	5	2890
+2890	5	2890
+2890	5	2890
+

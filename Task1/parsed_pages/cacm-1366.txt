@@ -1,0 +1,123 @@
+
+
+
+computer simulation-discussion of the
+technique and comparison of languages 
+
+the purpose of this paper is to present a comparison
+of some computer simulation languages 
+and of some of the involved in comparing software packages
+for digital computers are discussed in part 
+i  the issue is obvious users of digital computers
+must choose from available languages or write their 
+own  substantial costs can occur particularly in training
+implementation and computer time if an inappropriate 
+language is chosenore and more computer simulation
+languages are being developed comparisons and 
+evaluations of existing languages are useful for designers
+and implementers as well as users  the second 
+part is devoted to computer simulation and simulation
+languages  the computational characteristics of 
+simulation are discussed with  special attention being
+paid to a distinction between continuous and discrete 
+change models  part iii presents a detailed comparison
+of six simulation languages and packages simscript 
+clp csl gasp cpss and sol  the characteristics of
+each are summarized in a series of tables  the 
+implications of this analysis for designers of languages
+for users and for implementers are developed 
+ the conclusion of the paper is that the packages now
+available for computer simulation offer features 
+which none of the more general-purpose packages do and
+that analysis of strengths and weaknesses of each 
+suggests ways in which both current and future simulation
+languages and packages can be improved
+
+cacm october 1966
+
+teichroew d
+lubin j f
+
+ca661001 jb march 2 1978  423 pm
+
+1366	5	1366
+1366	5	1366
+1366	5	1366
+1503	5	1366
+1781	5	1366
+1860	5	1366
+2091	5	1366
+123	6	1366
+196	6	1366
+919	6	1366
+990	6	1366
+1007	6	1366
+1046	6	1366
+1131	6	1366
+1139	6	1366
+1140	6	1366
+1149	6	1366
+1198	6	1366
+1215	6	1366
+1223	6	1366
+1265	6	1366
+1303	6	1366
+1323	6	1366
+1358	6	1366
+1366	6	1366
+1366	6	1366
+1366	6	1366
+1366	6	1366
+1389	6	1366
+1421	6	1366
+1421	6	1366
+1460	6	1366
+1462	6	1366
+1463	6	1366
+1467	6	1366
+1468	6	1366
+1477	6	1366
+1477	6	1366
+1491	6	1366
+1491	6	1366
+1496	6	1366
+1496	6	1366
+1531	6	1366
+1535	6	1366
+1565	6	1366
+1601	6	1366
+1602	6	1366
+1613	6	1366
+1614	6	1366
+1626	6	1366
+1626	6	1366
+1641	6	1366
+1641	6	1366
+1785	6	1366
+1786	6	1366
+1787	6	1366
+1788	6	1366
+205	6	1366
+224	6	1366
+249	6	1366
+288	6	1366
+316	6	1366
+378	6	1366
+381	6	1366
+398	6	1366
+11	6	1366
+404	6	1366
+410	6	1366
+463	6	1366
+464	6	1366
+483	6	1366
+3184	6	1366
+3184	6	1366
+3188	6	1366
+584	6	1366
+600	6	1366
+680	6	1366
+691	6	1366
+763	6	1366
+799	6	1366
+

@@ -1,0 +1,42 @@
+
+
+
+automation of etching-pattern layout
+
+help heuristic etching-pattern layout program
+is an application program developed to computerize 
+the tedious and error-prone although vitally important
+wiring design of printed circuit boards  help 
+helps automate a design stage one step closer to production
+than logical design  it can be used to design 
+wiring patterns of two-layer circuit boards on which
+ics in dual-in-line packages as well as discrete 
+components such as transistors and resistors have been
+placed  help employs two methods of wiring  
+one is the heuristic method which simulates human
+approaches to wiring design and the other is the 
+theoretically interesting but time-consuming method of
+maze-running based on the lees algorithm  help 
+performs more than 90 percent of required wiring by
+the heuristic path with respect to a performance 
+function for each point-to-point and point-to-line
+connection  it can bring the number of successful 
+wiring connections very close to 100 percent
+
+cacm november 1971
+
+aramaki i
+kawabata t
+kazuhiko a
+
+heuristic etching-pattern layout wiring design of
+printed circuit board maze-running lees algorithm
+
+3.24 3.66 4.9 6.9
+
+ca711104 jb february 2 1978  1058 am
+
+2145	5	2145
+2145	5	2145
+2145	5	2145
+

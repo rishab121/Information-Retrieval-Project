@@ -1,0 +1,33 @@
+
+
+
+an analysis of algorithms for the dutch national flag problem
+
+solutions to the dutch national flag problem
+have been given by dijkstra 1 and meyer 3 
+ dijkstra starts with a simple program and arrives at
+an improved program by refinement  both of the 
+algorithms given by dijkstra are shown to have an expected number
+of swaps which is 2/3n + 01 and that 
+these values differ at most by 1/3 of a swap and asymptotically
+by 1/4 of a swap  the algorithm of meyer 
+is shown to have expected swap complexity 5/9n
+
+cacm october 1978
+
+mcmaster c
+
+algorithmic analysis dutch national flag
+problem refinement structured programming
+
+4.0 5.24 5.25 5.3
+
+ca781006 dh january 29 1979  547 pm
+
+3055	5	3055
+3055	5	3055
+3055	5	3055
+3170	5	3055
+3055	6	3055
+3104	6	3055
+

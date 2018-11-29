@@ -1,0 +1,15 @@
+
+
+
+a note on a set of test matrices for inversion
+
+cacm september 1963
+
+rodman r d
+
+ca630907 jb march 13 1978  738 pm
+
+751	5	751
+751	5	751
+751	5	751
+

@@ -1,0 +1,22 @@
+
+
+
+character manipulation in 7090 fortran
+
+cacm august 1963
+
+smith d d
+
+ca630807 jb march 13 1978  841 pm
+
+1084	5	791
+791	5	791
+791	5	791
+791	5	791
+868	6	791
+603	6	791
+644	6	791
+669	6	791
+791	6	791
+797	6	791
+

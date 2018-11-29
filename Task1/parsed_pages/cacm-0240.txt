@@ -1,0 +1,16 @@
+
+
+
+processing magnetic tape files with variable blocks
+
+cacm december 1961
+
+graham j w
+sprott d a
+
+ca611210 jb march 15 1978  1011 pm
+
+240	5	240
+240	5	240
+240	5	240
+

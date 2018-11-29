@@ -1,0 +1,73 @@
+
+
+
+a scheduling philosophy for multiprocessing systems
+
+a collection of basic ideas is presented which
+have been evolved by various workers over the 
+past four years to provide a suitable framework for the
+design and analysis of multiprocessing systems 
+ the notions of process and state vector are discussed
+and the nature of basic operations on processes 
+is considered  some of the connections between processes
+and protection are analyzed  a very general 
+approach to priority-oriented scheduling is described
+and its relationship to conventional interrupt 
+systems is explained  some aspects of time-oriented
+scheduling are considered the implementation of 
+the scheduling mechanism is analyzed in detail and the
+feasibility of embodying it in hardware established 
+ finally several methods for interlocking the execution
+of independent processes are presented and compared
+
+cacm may 1968
+
+lampson b w
+
+time-sharing multiprocessing process scheduling
+interlocks protection priority interrupt 
+systems
+
+4.31 4.32 6.21
+
+ca680508 jb february 23 1978  913 am
+
+1458	4	1748
+1523	4	1748
+1603	4	1748
+1698	4	1748
+1747	4	1748
+1748	4	1748
+1854	4	1748
+1877	4	1748
+1960	4	1748
+2377	4	1748
+2378	4	1748
+2497	4	1748
+2558	4	1748
+2625	4	1748
+2632	4	1748
+2840	4	1748
+2941	4	1748
+3105	4	1748
+3144	4	1748
+1471	5	1748
+1748	5	1748
+1748	5	1748
+1748	5	1748
+1805	5	1748
+1828	5	1748
+1854	5	1748
+2187	5	1748
+1421	6	1748
+1471	6	1748
+1518	6	1748
+1572	6	1748
+1748	6	1748
+1748	6	1748
+1748	6	1748
+1748	6	1748
+1749	6	1748
+1749	6	1748
+1781	6	1748
+

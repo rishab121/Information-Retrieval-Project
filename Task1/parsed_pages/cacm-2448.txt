@@ -1,0 +1,19 @@
+
+
+
+reversible execution
+
+cacm september 1973
+
+zelkowitz m v
+
+debugging pl/i reversible execution backtracking
+
+4.22 4.42
+
+ca730907 jb january 23 1978  854 am
+
+2448	5	2448
+2448	5	2448
+2448	5	2448
+

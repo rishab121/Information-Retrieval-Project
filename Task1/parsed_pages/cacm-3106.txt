@@ -1,0 +1,92 @@
+
+
+
+a fast algorithm for copying list structures
+
+an algorithm is presented for copying an arbitrarily
+linked list structure into a block of 
+contiguous storage locations without destroying  the original
+list  apart from a fixed number of program 
+variables no auxiliary storage such as a stack is used
+ the algorithm needs no mark bits and operates 
+in linear time  it is shown to be significantly faster
+than fishers algorithm the fastest previous 
+linear-time algorithm for the same problem  its speed
+comes mainly from its efficient list-traversal 
+technique which folds the processing stack into the
+structure being built and from its classification 
+of list cells into nine types which enables processing
+operations to be optimized for each type
+
+cacm may 1978
+
+clark d
+
+list copying lisp space complexity constant workspace
+
+4.34 4.49 5.25
+
+ca780501 dh february 26 1979  325 pm
+
+1024	4	3106
+1051	4	3106
+1102	4	3106
+1132	4	3106
+1390	4	3106
+1486	4	3106
+1549	4	3106
+1706	4	3106
+1826	4	3106
+1869	4	3106
+1878	4	3106
+378	4	3106
+2060	4	3106
+2155	4	3106
+2156	4	3106
+2168	4	3106
+2361	4	3106
+2513	4	3106
+2513	4	3106
+2665	4	3106
+2719	4	3106
+2723	4	3106
+2723	4	3106
+2736	4	3106
+2766	4	3106
+2838	4	3106
+2842	4	3106
+2855	4	3106
+2855	4	3106
+2855	4	3106
+2855	4	3106
+2855	4	3106
+2879	4	3106
+2944	4	3106
+2954	4	3106
+2954	4	3106
+3074	4	3106
+3077	4	3106
+3080	4	3106
+3106	4	3106
+3106	4	3106
+3106	4	3106
+3106	4	3106
+3106	4	3106
+3106	4	3106
+3106	4	3106
+3106	4	3106
+3112	4	3106
+627	4	3106
+106	4	3106
+210	5	3106
+1549	5	3106
+1972	5	3106
+2665	5	3106
+2766	5	3106
+2855	5	3106
+2954	5	3106
+2998	5	3106
+3106	5	3106
+3106	5	3106
+3106	5	3106
+

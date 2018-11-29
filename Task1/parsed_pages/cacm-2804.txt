@@ -1,0 +1,26 @@
+
+
+
+elementary divisors of tensor products
+
+the elementary divisors of a tensor product
+of linear transformations have been known for 40 
+years  this paper provides a short easily accessible
+proof of these results and points out an interesting 
+combinatorial consequence of the proof
+
+cacm january 1975
+
+marcus m
+robinson h
+
+elementary divisors tensor products linear transformations
+
+5.14
+
+ca750107 jb january 12 1978  1013 am
+
+2804	5	2804
+2804	5	2804
+2804	5	2804
+

@@ -1,0 +1,27 @@
+
+
+
+random vectors uniform is solid angle algorithm r381
+
+cacm june 1972
+
+schrack g f
+
+random vector generator points uniform on sphere
+spherically symmetric probability distribution
+
+5.5
+
+ca720612 jb january 30 1978  402 pm
+
+2333	4	2333
+2333	4	2333
+2333	4	2333
+87	4	2333
+1793	5	2333
+2333	5	2333
+2333	5	2333
+2333	5	2333
+87	5	2333
+88	5	2333
+

@@ -1,0 +1,22 @@
+
+
+
+procedure for the normal distribution algorithm 272 s15
+
+cacm july 1968
+
+maclaren m d
+
+normal distribution function error function
+normal function normal curve integral
+
+5.5 5.12
+
+ca680715 jb february 22 1978  1121 am
+
+1714	4	1714
+1585	5	1714
+1714	5	1714
+1714	5	1714
+1714	5	1714
+

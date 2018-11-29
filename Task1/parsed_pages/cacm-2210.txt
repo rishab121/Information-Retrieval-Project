@@ -1,0 +1,55 @@
+
+
+
+toward automatic program synthesis
+
+an elementary outline of the theorem-proving
+approach to automatic program synthesis is given 
+without dwelling on technical details  the method is
+illustrated by the automatic construction of both 
+recursive and iterative programs operating on natural
+numberslists and trees  in order to construct 
+a program satisfying certain specifications a theorem
+induced by those specifications is proved and 
+the desired program is extracted from the proof  the
+same technique is applied to transform recursively 
+defined functions into iterative programs frequently
+with a major gain inefficiency  it is emphasized 
+that in order to construct a program with loops or with
+recursion the principle of mathematical induction 
+must be applied the relation between the version of
+the induction rule used and the form of the program 
+constructed is explored in some detail
+
+cacm march 1971
+
+manna z
+waldinger r j
+
+artificial intelligence answer extraction automatic
+program synthesis mathematical induction 
+principle problem solving theorem proving
+
+3.64 5.23 5.24
+
+ca710302 jb february 3 1978  448 pm
+
+1515	4	2210
+2096	4	2210
+2127	4	2210
+2210	4	2210
+1155	5	2210
+2210	5	2210
+2210	5	2210
+2210	5	2210
+2657	5	2210
+2719	5	2210
+1626	6	2210
+210	6	2210
+2151	6	2210
+2167	6	2210
+2210	6	2210
+2210	6	2210
+2645	6	2210
+2657	6	2210
+

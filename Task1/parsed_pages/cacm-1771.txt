@@ -1,0 +1,90 @@
+
+
+
+curriculum 68  recommendations for academic
+programs in computer science  a report of the 
+acm curriculum committee on computer science
+
+this report contains recommendations on academic
+programs in computer science which were developed 
+by the acm curriculum committee on computer science
+ a classification of the subject areas contained 
+in computer science is presented and twenty-two courses
+in these areas are described  prerequisites 
+catalog descriptions detailed outlines and annotated
+bibliographies for these courses are included 
+ specific recommendations which have evolved from the
+committees 1965 preliminary recommendations are 
+given for undergraduate programs  graduate programs in computer
+science are discussed and some recommendations 
+are presented for the development of masters degree programs
+ ways of developing guidelines for doctoral 
+programs are discussed but no specific recommendations
+are made the importance of service courses 
+minors and continuing education in computer science is
+emphasized  attention is given to the organization 
+staff requirements computer resources and other facilities
+needed to implement computer science educational 
+programs
+
+cacm march 1968
+
+computer science courses computer science curriculum
+computer science education computer science 
+academic programs computer science graduate programs
+computer science undergraduate programs computer 
+science course bibliographies
+
+1.52
+
+ca680301 jb february 23 1978  1152 am
+
+1413	4	1771
+1654	4	1771
+1720	4	1771
+1771	4	1771
+1771	4	1771
+2478	4	1771
+1205	5	1771
+1654	5	1771
+1720	5	1771
+1771	5	1771
+1771	5	1771
+1771	5	1771
+1927	5	1771
+2147	5	1771
+2163	5	1771
+2345	5	1771
+2478	5	1771
+2594	5	1771
+2852	5	1771
+2899	5	1771
+3130	5	1771
+1205	6	1771
+1417	6	1771
+1654	6	1771
+1659	6	1771
+1720	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1927	6	1771
+2155	6	1771
+2181	6	1771
+2181	6	1771
+2204	6	1771
+2329	6	1771
+2345	6	1771
+2387	6	1771
+2479	6	1771
+2538	6	1771
+3003	6	1771
+3186	6	1771
+

@@ -1,0 +1,28 @@
+
+
+
+performance of systems used for data transmission
+transfer rate of information bits -an asa tutorial 
+standard
+
+information thruput as a characteristic of
+systems performance is discussed  this discussion 
+includes the pertinent aspects of information transfer
+of determination of transfer rate of information 
+bits trib of residual errors and of standard measurement
+conditions  the paper also presents an 
+orderly arrangement of characteristics and parameters
+that affect information thruput and some examples 
+on procedures for determining a thruput rate in terms of
+trib  it concludes that a performance characteristic 
+involving information rate can best be expressed as the
+trib in conjunction with the residual error rate
+
+cacm may 1965
+
+ca650504 jb march 7 1978  310 pm
+
+1267	5	1267
+1267	5	1267
+1267	5	1267
+

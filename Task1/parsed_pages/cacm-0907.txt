@@ -1,0 +1,23 @@
+
+
+
+combination in lexicographical order algorithm 154
+
+cacm march 1963
+
+mifsud c j
+
+ca630313 jb march 14 1978  134 pm
+
+907	5	907
+907	5	907
+907	5	907
+3115	5	907
+907	6	907
+2045	6	907
+2417	6	907
+2466	6	907
+2884	6	907
+579	6	907
+785	6	907
+

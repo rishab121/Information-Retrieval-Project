@@ -1,0 +1,82 @@
+
+
+
+the design of the venus operating system
+
+the venus operating system is an experimental
+multiprogramming system which supports five or 
+six concurrent users on a small computer  the system was
+produced to test the effect of machine architecture 
+on complexity of software  the system is defined by
+a combination of microprograms and software  the 
+microprogram defines a machine with some unusual architectural
+feature the software exploits these features 
+to define the operating system as simply as possible
+ in this paper the development of the system is 
+described with particular emphasis on the principles which guided the design
+
+cacm march 1972
+
+liskov b h
+
+operating systems system design levels of abstraction
+machine architecture microprogramming 
+segments semaphores multiprogramming virtual machines
+processes process communication virtual devices 
+data sharing resource management deadlock
+
+4.30 4.32 4.41 6.21
+
+ca720302 jb january 31 1978  316 pm
+
+1828	4	2379
+1854	4	2379
+1877	4	2379
+1960	4	2379
+2150	4	2379
+2228	4	2379
+2280	4	2379
+2280	4	2379
+2317	4	2379
+2319	4	2379
+2377	4	2379
+2342	4	2379
+2376	4	2379
+2379	4	2379
+2379	4	2379
+2379	4	2379
+2424	4	2379
+2482	4	2379
+2482	4	2379
+2482	4	2379
+2500	4	2379
+2618	4	2379
+2632	4	2379
+2704	4	2379
+2723	4	2379
+2738	4	2379
+2740	4	2379
+2740	4	2379
+2741	4	2379
+2851	4	2379
+2867	4	2379
+2920	4	2379
+3184	4	2379
+1749	5	2379
+1877	5	2379
+2228	5	2379
+2379	5	2379
+2379	5	2379
+2379	5	2379
+2704	5	2379
+2867	5	2379
+1247	6	2379
+1552	6	2379
+1749	6	2379
+1749	6	2379
+2247	6	2379
+2356	6	2379
+2379	6	2379
+2379	6	2379
+2673	6	2379
+

@@ -1,0 +1,44 @@
+
+
+
+programming languages natural languages and mathematics
+
+some social aspects of programming are illuminated
+through analogies with similar aspects of 
+mathematics and natural languages  the split between
+pure and applied mathematics is found similarly 
+in programming the development of natural languages toward
+flexion less word-order based language types 
+speaks for programming language design based on general
+abstract constructs  by analogy with incidents 
+of the history of artificial auxiliary languages it
+is suggested that fortran and cobol will remain 
+dominant for a long time to come  the most promising
+avenues for further work of wide influence are 
+seen to be high quality program literature ie programs
+of general utility and studies of questions 
+related to program style
+
+cacm december 1975
+
+naur p
+
+analogies related to social aspectspure and applied
+mathematics language quality language development 
+artificial auxiliary languages literature style
+descriptive and prescriptive attitudes
+
+4.20
+
+ca751202 jb january 6 1978  830 am
+
+2705	4	2705
+2705	4	2705
+2984	4	2705
+3101	4	2705
+1908	5	2705
+2705	5	2705
+2705	5	2705
+2705	5	2705
+3185	5	2705
+

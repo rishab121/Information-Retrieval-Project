@@ -1,0 +1,33 @@
+
+
+
+sorting by natural selection
+
+a family of sorting algorithms is proposed
+the members of which make fuller use of the memory 
+space and thus yield longer sorted strings  extensive
+simulation results are presented and various 
+implications and further applications are discussed
+
+cacm october 1972
+
+frazer w d
+wong c k
+
+algorithms sorting by replacement selection expected string length
+
+5.31
+
+ca721006 jb january 27 1978  254 pm
+
+1638	4	2272
+1867	4	2272
+2176	4	2272
+2272	4	2272
+2272	4	2272
+1638	5	2272
+2272	5	2272
+2272	5	2272
+2272	5	2272
+677	5	2272
+

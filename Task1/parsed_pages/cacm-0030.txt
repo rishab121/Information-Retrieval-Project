@@ -1,0 +1,16 @@
+
+
+
+algorithm for analyzing logical statements
+to produce a truth function table
+
+cacm march 1958
+
+wolpe h
+
+ca580302 jb march 22 1978  920 pm
+
+30	5	30
+30	5	30
+30	5	30
+

@@ -1,0 +1,24 @@
+
+
+
+fortran tausworthe pseudorandom number generator
+
+cacm january 1970
+
+payne w h
+
+random numbers pseudorandom numbers shift register sequences
+
+5.5
+
+ca700116 jb february 14 1978  106 pm
+
+2115	4	2115
+2115	4	2115
+2122	4	2115
+1691	5	2115
+1930	5	2115
+2115	5	2115
+2115	5	2115
+2115	5	2115
+

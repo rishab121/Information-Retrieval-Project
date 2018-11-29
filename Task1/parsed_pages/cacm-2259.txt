@@ -1,0 +1,21 @@
+
+
+
+modified incomplete gamma function s14 algorithm a435
+
+cacm november 1972
+
+fullerton w
+
+modified incomplete gamma function incomplete
+gamma function chi-square distribution function 
+poisson distribution function
+
+5.13
+
+ca721110 jb january 27 1978  140 pm
+
+2259	5	2259
+2259	5	2259
+2259	5	2259
+

@@ -1,0 +1,42 @@
+
+
+
+an algorithm for generating permutations
+
+an algorithm is described which under repeated
+application generates all permutations of k 
+elements  only the previously generated permutation
+the constant k and a temporary index are needed 
+ starting with a particular ordering of k elements abcd
+repeated application of the algorithm will 
+generate k-1 additional permutations by k-1 successive
+rotations  from the initial circular ordering 
+of k objects another circular ordering can be obtained
+by rotating the k-1 lowest elements  for each 
+new k-1 circular ordering another k-2 can be obtained
+by rotating the k-2 lowest elements  by continuing 
+in this manner applications of the algorithm will generate
+all k-1 circular orderings or since each 
+circular ordering yields k permutations the
+algorithm generates all k permutations
+
+cacm may 1967
+
+langdon jr g g
+
+ca670508 jb february 28 19781035 am
+
+1594	5	1594
+1594	5	1594
+1594	5	1594
+2087	5	1594
+2189	5	1594
+3188	5	1594
+1594	6	1594
+1594	6	1594
+1594	6	1594
+2087	6	1594
+3191	6	1594
+521	6	1594
+612	6	1594
+

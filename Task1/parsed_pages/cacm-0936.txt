@@ -1,0 +1,15 @@
+
+
+
+a set of test matrices algorithm 52
+
+cacm january 1963
+
+naur p
+
+ca630112 jb march 14 1978  235 pm
+
+936	5	936
+936	5	936
+936	5	936
+

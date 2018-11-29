@@ -1,0 +1,26 @@
+
+
+
+a method of data list processing with application to eeg analysis
+
+a set of subroutines is discussed which is
+designed to aid in the programming of computations 
+on indexed lists of numbers using machine language
+or a symbolic assembly system  the most commonly 
+performed list operations are outlined and logically
+arranged into five groups  as an example the 
+computation of power spectral density from the autocovariance
+function is discussed for a class of eeg 
+signals
+
+cacm may 1965
+
+philpott c m
+lago g v
+
+ca650516 jb march 7 1978  1252 pm
+
+1255	5	1255
+1255	5	1255
+1255	5	1255
+

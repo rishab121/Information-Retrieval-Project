@@ -1,0 +1,17 @@
+
+
+
+interchangcable perforated tape variable block
+formats for positioning and straight cut rs-273 
+and contouring and contouring/positioning rs-274 numerically
+controlled machine tools proposed american 
+standards
+
+cacm august 1964
+
+ca640814 jb march 9 1978  643 pm
+
+1016	5	1016
+1016	5	1016
+1016	5	1016
+

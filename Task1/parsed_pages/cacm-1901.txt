@@ -1,0 +1,95 @@
+
+
+
+dynamic space-sharing in computer systems
+
+a formalization of relationships between space-shading
+program behavior and processor efficiency 
+in computer systems is presented  concepts of value and
+cost of space allocation per task are defined 
+and then value and cost are combined to develop a single
+parameter termed value per unit cost  the intent 
+is to illustrate a possible analytic approach to the
+investigation of the problems of space-sharing and 
+to demonstrate the method on sample problems
+
+cacm may 1969
+
+belady l a
+kuehner c j
+
+space-sharing storage allocation memory allocation
+storage management memory management program 
+behavior multiprogramming computer system design allocation
+strategies replacement strategies demand-paging 
+time-sharing
+
+4.32 6.2 6.20
+
+ca690508 jb february 17 1978  331 pm
+
+1713	4	1901
+1713	4	1901
+1879	4	1901
+1884	4	1901
+1892	4	1901
+1901	4	1901
+1901	4	1901
+1901	4	1901
+1901	4	1901
+2085	4	1901
+2095	4	1901
+2095	4	1901
+2218	4	1901
+2277	4	1901
+2277	4	1901
+2297	4	1901
+2319	4	1901
+2329	4	1901
+2358	4	1901
+2365	4	1901
+2373	4	1901
+2380	4	1901
+2434	4	1901
+2499	4	1901
+2501	4	1901
+2582	4	1901
+491	4	1901
+491	4	1901
+2669	4	1901
+2828	4	1901
+2863	4	1901
+2881	4	1901
+2928	4	1901
+2996	4	1901
+3006	4	1901
+3067	4	1901
+168	5	1901
+185	5	1901
+1751	5	1901
+1754	5	1901
+1901	5	1901
+1901	5	1901
+1901	5	1901
+2374	5	1901
+2481	5	1901
+2669	5	1901
+2863	5	1901
+3016	5	1901
+3052	5	1901
+1728	6	1901
+1728	6	1901
+1751	6	1901
+1751	6	1901
+1901	6	1901
+1901	6	1901
+1901	6	1901
+1901	6	1901
+1901	6	1901
+1901	6	1901
+2017	6	1901
+2358	6	1901
+2373	6	1901
+2741	6	1901
+2863	6	1901
+

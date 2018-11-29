@@ -1,0 +1,75 @@
+
+
+
+a genealogy of control structures
+
+the issue of program control structures has
+had a history of heated controversy  to put this 
+issue on a solid footing this paper reviews numerous theoretical
+results on control structures and explores 
+their practical implications  the classic result of
+bohm and jacopini on the theoretical completeness 
+of if-then-else and while-do is discussed several recent
+ideas on control structures are then explored 
+ these include a review of various other control structures
+results on time/space limitations and theorems 
+relating the relative power of control structures under
+notions of equivalence  in conclusion the impact 
+of theoretical results on the practicing programmer and
+the importance of one-in one-out control structures 
+as operational abstractions are discussed  it is argued
+further that there is insufficient evidence 
+to warrant more than if-then-else while-do and their variants
+
+cacm november 1975
+
+ledgard h f
+marcotty m
+
+structured programming control structures
+goto statements language design pascal
+
+4.2 5.24
+
+ca751103 jb january 6 1978  953 am
+
+2319	4	2709
+2411	4	2709
+2480	4	2709
+2574	4	2709
+2594	4	2709
+2709	4	2709
+2709	4	2709
+2709	4	2709
+2709	4	2709
+2709	4	2709
+2802	4	2709
+2889	4	2709
+2937	4	2709
+2939	4	2709
+2972	4	2709
+2989	4	2709
+3004	4	2709
+3004	4	2709
+3005	4	2709
+3025	4	2709
+3101	4	2709
+3121	4	2709
+3155	4	2709
+1425	5	2709
+2138	5	2709
+2204	5	2709
+2456	5	2709
+2477	5	2709
+2709	5	2709
+2709	5	2709
+2709	5	2709
+2821	5	2709
+3121	5	2709
+1312	6	2709
+308	6	2709
+309	6	2709
+2456	6	2709
+2709	6	2709
+2709	6	2709
+

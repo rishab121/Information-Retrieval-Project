@@ -1,0 +1,19 @@
+
+
+
+remarks on algol and symbol manipulation 
+
+cacm september 1959
+
+green j
+
+ca590905 jb march 22 1978  447 pm
+
+206	5	64
+207	5	64
+64	5	64
+64	5	64
+64	5	64
+64	6	64
+64	6	64
+

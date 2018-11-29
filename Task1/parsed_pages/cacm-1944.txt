@@ -1,0 +1,36 @@
+
+
+
+students t-distribution algorithm 344 s14
+
+cacm january 1969
+
+levine d a
+
+students t-distribution t-test small-sample
+statistics distribution function
+
+5.12 5.5
+
+ca690105 jb february 20 1978  1156 am
+
+1157	4	1944
+1779	4	1944
+1920	4	1944
+1944	4	1944
+1944	4	1944
+1987	4	1944
+1987	4	1944
+2548	4	1944
+1779	5	1944
+1944	5	1944
+1944	5	1944
+1944	5	1944
+1987	5	1944
+714	5	1944
+1561	6	1944
+1581	6	1944
+1779	6	1944
+1944	6	1944
+714	6	1944
+

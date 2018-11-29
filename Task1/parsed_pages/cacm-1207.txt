@@ -1,0 +1,19 @@
+
+
+
+remarks on simulation of boolean functions
+
+cacm august 1965
+
+dodd g g
+
+ca650817 jb march 6 1978  752 pm
+
+1207	4	1207
+1208	4	1207
+3053	4	1207
+1207	5	1207
+1207	5	1207
+1207	5	1207
+1329	5	1207
+

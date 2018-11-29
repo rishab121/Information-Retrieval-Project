@@ -1,0 +1,37 @@
+
+
+
+a simple algorithm for computing the generalized inverse of a matrix
+
+the generalized inverse of a matrix is important
+in analysis because it provides an extension 
+of the concept of an inverse which applies to all matrices
+ it also has many applications in numerical 
+analysis but it is not widely used because the existing
+algorithms are fairly complicated and require 
+considerable storage space  a simple extension has
+been found to the conventional orthogonalization 
+method for inverting non-singular matrices which gives
+the generalized inverse with little extra effort 
+and with no additional storage requirements  the algorithm
+gives the generalized inverse for any m by 
+n matrix a including the special case when m+n and a
+is non-singular and the case when mn and ranka 
+ n  in the first case the algorithm gives the ordinary
+inverse of a  in the second case the algorithm 
+yields the ordinary least squares transformation matrix
+invaaa and has the advantage of avoiding 
+the loss of significance which results in forming the product aa explicitly
+
+cacm may 1966
+
+rust r
+burrus w r
+schneeberger c
+
+ca660514 jb march 3 1978  922 am
+
+1423	5	1423
+1423	5	1423
+1423	5	1423
+

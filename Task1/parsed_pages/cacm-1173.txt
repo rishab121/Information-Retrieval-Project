@@ -1,0 +1,38 @@
+
+
+
+the performance of a system for automatic segmentation
+of programs within an algol compiler gier 
+algol
+
+the gier algol compiler makes use of an automatic
+system for handling the transfers of program 
+segments from the drum store to the core store at program
+execution time  the logic of this system is 
+described the performance of the system is discussed
+primarily on the basis of execution times related 
+to two specific programs  this discussion concludes with
+an assessment of the potential gains of various 
+ways of improving the system
+
+cacm november 1965
+
+naur p
+
+ca651108 jb march 6 1978  500 pm
+
+1173	4	1173
+1188	4	1173
+1173	5	1173
+1173	5	1173
+1173	5	1173
+1774	5	1173
+2343	5	1173
+642	5	1173
+800	6	1173
+1173	6	1173
+1173	6	1173
+1774	6	1173
+1845	6	1173
+271	6	1173
+

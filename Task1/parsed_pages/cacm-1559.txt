@@ -1,0 +1,23 @@
+
+
+
+permutation generator permutation in lexicographical
+order permute generation of permutations 
+in lexicographical order algorithm 87g6 algorithm
+102g6 algorithm 130g6 algorithm 202g6
+
+cacm july 1967
+
+ord-smith r j
+
+ca670711e jb march 23 1978  319 pm
+
+1559	5	1559
+1559	5	1559
+1559	5	1559
+1567	5	1559
+1948	5	1559
+1391	6	1559
+1559	6	1559
+1559	6	1559
+

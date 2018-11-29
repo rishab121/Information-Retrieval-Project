@@ -1,0 +1,25 @@
+
+
+
+complementary error function-large x algorithm 181 s15
+
+cacm june 1967
+
+hill i d
+joyce s a
+
+ca670607i jb march 23 1978  337 pm
+
+1581	5	1581
+1581	5	1581
+1581	5	1581
+1987	5	1581
+2427	5	1581
+1561	6	1581
+1581	6	1581
+1581	6	1581
+1636	6	1581
+1779	6	1581
+1944	6	1581
+714	6	1581
+

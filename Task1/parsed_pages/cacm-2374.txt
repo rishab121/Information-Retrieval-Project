@@ -1,0 +1,81 @@
+
+
+
+a study of storage partitioning using a mathematical model of locality
+
+both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems  the storage requirement of programs is modeled
+as a stationary gaussian process  experiments 
+justifying this model are described  by means of this
+model dynamic storage partitioning is shown to 
+provide substantial increases in storage utilization
+and operating efficiency over fixed partitioning 
+
+cacm march 1972
+
+coffman jr e g
+ryan jr t a
+
+storage partitioning memory management dynamic
+storage allocation space sharing multiprogrammed 
+storage working-sets program behavior models mathematical modeling
+
+4.32 4.39
+
+ca720307 jb january 31 1978  229 pm
+
+1892	4	2374
+1924	4	2374
+2095	4	2374
+2218	4	2374
+2297	4	2374
+2374	4	2374
+2374	4	2374
+2374	4	2374
+2380	4	2374
+2450	4	2374
+2481	4	2374
+2526	4	2374
+2595	4	2374
+2667	4	2374
+2668	4	2374
+2669	4	2374
+2862	4	2374
+2863	4	2374
+2863	4	2374
+2996	4	2374
+3006	4	2374
+3016	4	2374
+3052	4	2374
+3067	4	2374
+1728	5	2374
+1901	5	2374
+2373	5	2374
+2374	5	2374
+2374	5	2374
+2374	5	2374
+2450	5	2374
+3006	5	2374
+3067	5	2374
+1410	6	2374
+1751	6	2374
+1751	6	2374
+1751	6	2374
+1810	6	2374
+1884	6	2374
+1951	6	2374
+2374	6	2374
+2374	6	2374
+2374	6	2374
+2374	6	2374
+2373	6	2374
+2373	6	2374
+2373	6	2374
+2595	6	2374
+2595	6	2374
+2682	6	2374
+2863	6	2374
+2864	6	2374
+3006	6	2374
+

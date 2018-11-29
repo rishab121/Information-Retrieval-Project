@@ -1,0 +1,78 @@
+
+
+
+a practical interprocedural data flow analysis algorithm
+
+a new interprocedural  data flow analysis algorithm
+is presented and analyzed  the algorithm 
+associates with each procedure in a program information
+about which variables may be modified which 
+may be used and which are possibly preserved by a call
+on the procedure and all of its subcalls  the 
+algorithm is sufficiently powerful to be used on recursive
+programs and to deal with the sharing of variables 
+which arises through reference parameters  the algorithm
+is unique in that it can compute all of this 
+information in a single pass not requiring a prepass to
+compute calling relationships or sharing patterns 
+ the algorithm is asymptotically optimal in time complexity
+ it has been implemented and is practical 
+even on programs which are quite large
+
+cacm september 1978
+
+barth j
+
+data flow analysis global flow analysis optimization
+side effects relations reference parameters 
+incarnations
+
+4.12 4.20
+
+ca780903 dh february 5 1979  307 pm
+
+1086	4	3069
+1132	4	3069
+1234	4	3069
+1263	4	3069
+1265	4	3069
+1270	4	3069
+1323	4	3069
+1358	4	3069
+1379	4	3069
+1380	4	3069
+1453	4	3069
+1464	4	3069
+1484	4	3069
+1491	4	3069
+1498	4	3069
+1613	4	3069
+1614	4	3069
+1781	4	3069
+1825	4	3069
+1860	4	3069
+2083	4	3069
+2178	4	3069
+2179	4	3069
+2252	4	3069
+2325	4	3069
+2341	4	3069
+2546	4	3069
+2645	4	3069
+2652	4	3069
+2684	4	3069
+2842	4	3069
+2929	4	3069
+2934	4	3069
+3069	4	3069
+669	4	3069
+679	4	3069
+691	4	3069
+761	4	3069
+949	4	3069
+989	4	3069
+3069	5	3069
+3069	5	3069
+3069	5	3069
+3184	5	3069
+

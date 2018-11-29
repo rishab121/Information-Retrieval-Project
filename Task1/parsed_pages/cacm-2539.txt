@@ -1,0 +1,21 @@
+
+
+
+solution of the transcendental equation wexpwx c5 algorithm a443
+
+cacm february 1973
+
+fritsch f n
+shafer r e
+crowleyw p
+
+transcendental function evaluation solution of transcendental equation
+
+5.12 5.15
+
+ca730209 jb january 24 1978  126 pm
+
+2539	5	2539
+2539	5	2539
+2539	5	2539
+

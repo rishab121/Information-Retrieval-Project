@@ -1,0 +1,63 @@
+
+
+
+a note on the calculation working set size
+
+finite-length reference string of arbitrary
+structure are considered and an exact expression 
+for average working set size in terms of corrected
+interreference interval statistics is derived  
+an example is discussed upper and lower bounds are obtained
+and the average working set size function 
+is shown to be efficiently obtained for a set of page
+sizes in a single pass of the reference string 
+ this work follows the developments of a paper by denning
+and schwartz who consider infinite-length 
+reference strings which satisfy certain statistical
+properties and who derive an expression relating 
+the asymptotic average working set size to the asymptotic
+missing page rate function under working set 
+replacement
+
+cacm october 1974
+
+slutz d r
+traiger i l
+
+working-set model paging program behavior
+
+4.3
+
+ca741003 jb january 16 1978  1256 pm
+
+2374	4	2595
+2380	4	2595
+2450	4	2595
+2595	4	2595
+2996	4	2595
+3006	4	2595
+3067	4	2595
+2373	5	2595
+2595	5	2595
+2595	5	2595
+2595	5	2595
+2996	5	2595
+3006	5	2595
+3067	5	2595
+1751	6	2595
+1751	6	2595
+1751	6	2595
+1884	6	2595
+2374	6	2595
+2374	6	2595
+2373	6	2595
+2373	6	2595
+2373	6	2595
+2595	6	2595
+2595	6	2595
+2595	6	2595
+2682	6	2595
+2863	6	2595
+2864	6	2595
+3006	6	2595
+

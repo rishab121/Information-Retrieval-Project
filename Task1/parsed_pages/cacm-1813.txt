@@ -1,0 +1,27 @@
+
+
+
+generation of permutations in pseudo-lexicographic
+order algorithm 308 g6
+
+cacm november 1969
+
+ord-smith r j
+
+permutations lexicographic order lexicographic
+generation permutation generation
+
+5.39
+
+ca691117 jb february 15 1978  1159 am
+
+1813	4	1813
+1370	5	1813
+1813	5	1813
+1813	5	1813
+1813	5	1813
+1978	5	1813
+1307	6	1813
+1589	6	1813
+1813	6	1813
+

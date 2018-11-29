@@ -1,0 +1,32 @@
+
+
+
+multiple terminals under user program
+control in a time-sharing environment
+
+user-written programs on the dartmouth time-sharing
+system can communicate with many remote 
+terminals simultaneously and can control the interactions
+between these terminals  such programs can 
+be written using standard input and output instructions
+in any language available on the system  this 
+paper describes how this multiple-terminal facility
+was implemented without requiring any changes in 
+the system executive or in any of the systems compilers or interpreters
+
+cacm october 1973
+
+mcgeachie j s
+
+dtss multiple terminals remote terminals remote
+consoles time-sharing on-line interaction 
+on-line games
+
+3.81 4.32
+
+ca731001 jb january 23 1978  833 am
+
+2439	5	2439
+2439	5	2439
+2439	5	2439
+

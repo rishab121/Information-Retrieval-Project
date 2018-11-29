@@ -1,0 +1,21 @@
+
+
+
+on the construction of micro-flowcharts
+
+cacm october 1959
+
+gorn s
+ingerman p z
+crozier j b
+
+ca591008 jb march 22 1978  410 pm
+
+249	5	51
+51	5	51
+51	5	51
+51	5	51
+196	6	51
+303	6	51
+51	6	51
+

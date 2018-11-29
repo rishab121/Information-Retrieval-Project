@@ -1,0 +1,51 @@
+
+
+
+some new upper bounds on the generation of prime numbers
+
+given an integer n what is the computational
+complexity of finding all the primes less than 
+n  a modified sieve of eratosthenes using doubly linked
+lists yields an algorithm of on arithmetic 
+complexity  this upper bound is shown to be equivalent
+to the theoretical lower bound for sieve methods 
+without preprocessing  use of preprocessing techniques
+involving space-time and additive-multiplicative 
+tradeoffs reduces this upper bound to on/log logn
+and the bit complexity to on logn log log logn 
+ a storage requirement is described using on logn/log logn bits as well
+
+cacm september 1977
+
+mairson h g
+
+computational complexity sieve prime number generation
+number theory linked list preprocessing 
+balancing
+
+5.25 5.39
+
+ca770907 jb december 27 1977  1255 pm
+
+1841	4	2927
+1841	4	2927
+1967	4	2927
+2120	4	2927
+2120	4	2927
+2927	4	2927
+2927	4	2927
+2927	4	2927
+2927	4	2927
+2927	4	2927
+1537	5	2927
+1538	5	2927
+1539	5	2927
+1841	5	2927
+1840	5	2927
+2927	5	2927
+2927	5	2927
+2927	5	2927
+3037	5	2927
+2732	6	2927
+2927	6	2927
+

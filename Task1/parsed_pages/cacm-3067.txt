@@ -1,0 +1,90 @@
+
+
+
+generalized working sets for segment reference strings
+
+the working-set concept is extended for programs
+that reference segments of different sizes 
+ the generalized working-set policy gws keeps as its
+resident set those segments whose retention costs 
+do not exceed their retrieval costs  the gws is a model
+for the entire class of demand-fetching memory 
+policies that satisfy a resident-set inclusion property
+ a generalized optimal policy gopt is also 
+defined at its operating points it minimizes aggregated
+retention and swapping costs  special cases 
+of the cost structure allow gws and gopt to simulate
+any known stack algorithm the working set and 
+vmin  efficient procedures for computing demand curves
+showing swapping load as a function of memory 
+usage are developed for gws and gopt policies  empirical
+data from an actual system are included
+
+cacm september 1978
+
+denning p
+slutz d
+
+database referencing memory management optimal
+memory policies paging program behavior program 
+measurement segmentation working sets
+
+4.30 8.10
+
+ca780905 dh february 5 1979  1120 am
+
+1892	4	3067
+1901	4	3067
+2085	4	3067
+2095	4	3067
+2218	4	3067
+2277	4	3067
+2319	4	3067
+2329	4	3067
+2358	4	3067
+2373	4	3067
+2373	4	3067
+2374	4	3067
+2380	4	3067
+2380	4	3067
+2434	4	3067
+2499	4	3067
+2450	4	3067
+2450	4	3067
+2501	4	3067
+2582	4	3067
+2595	4	3067
+2669	4	3067
+2828	4	3067
+2863	4	3067
+2863	4	3067
+2881	4	3067
+2928	4	3067
+2996	4	3067
+2996	4	3067
+2996	4	3067
+3000	4	3067
+3006	4	3067
+3006	4	3067
+3006	4	3067
+3006	4	3067
+3067	4	3067
+3067	4	3067
+3067	4	3067
+3067	4	3067
+3067	4	3067
+3067	4	3067
+3067	4	3067
+3067	4	3067
+1751	5	3067
+2373	5	3067
+2374	5	3067
+2595	5	3067
+2682	5	3067
+2863	5	3067
+2864	5	3067
+3006	5	3067
+3067	5	3067
+3067	5	3067
+3067	5	3067
+

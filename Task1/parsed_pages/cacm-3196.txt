@@ -1,0 +1,24 @@
+
+
+
+   the reactive typewriter program
+
+   84-character keyboard including alphabetical upper and lower case for good
+readability if the machine is restricted to only a single case the lower case
+is preferred the reactive typewriter should be portable the reactive 
+typewriter should operate over any commercially used dial-type telephone
+voice or telegraph telex line or over leased nondial telegraph lines
+interchangeably
+
+cacm january 1963
+
+mooers c n
+
+ca630118 es march 17 1982 1010 am
+
+1071	5	3196
+3196	5	3196
+3196	5	3196
+3196	5	3196
+3196	6	3196
+

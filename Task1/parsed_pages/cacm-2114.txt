@@ -1,0 +1,35 @@
+
+
+
+a formal system for information retrieval from files
+
+a generalized file structure is provided
+by which the concepts of keyword index record file directory
+file structure directory decoding and record retrieval are defined
+and from which some of the frequently used file structures such
+as inverted files index-sequential files and multilist files are
+derived  two algorithms which retrieve records from the generalized file 
+structure are presented
+
+cacm february 1970
+
+hsiao d
+
+attribute-value pair index keyword record record address
+k-pointer k-list file directory generalized file
+structure inverted file index-sequential-file multilist file
+description file search directory search serial processing of
+lists prime keyword parallel processing of lists 
+
+3.70 3.73 3.74
+
+ca700201 jb february 14 1978  104 pm
+
+2114	5	2114
+2114	5	2114
+2114	5	2114
+2160	5	2114
+2688	5	2114
+2114	6	2114
+2114	6	2114
+

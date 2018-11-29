@@ -1,0 +1,42 @@
+
+
+
+peekabit computer offspring of punched
+card peekaboo for natural language searching
+
+the peekaboo idea from punched card information
+retrieval methods has been mated with the 
+idea of superimposed punching to produce a programming
+technique which cuts computer run time in half 
+on a test search of 33,000 subject index entries  a search
+program using the device has been operational 
+since late 1963  as an item is entered in the store
+an 18-byte mask is created from the items meaningful 
+words using the inclusive or operation  if at search
+time the logical product using the and operation 
+of this mask and a similarly constructed question mask
+is not equal to the question mask then one or 
+more question words are not present in the store item
+ an equality is in conclusive the words of the 
+store item must be unpacked and compared with question
+words  the present store is made up of over 600,000 
+subject index entries estimated to average 60 characters
+each  longer texts such as abstracts could 
+be handled by multiple masks
+
+cacm september,1968
+
+hutton f c
+
+peekaboo superimposed coding natural language
+searching text searching information compaction 
+computer search technique
+
+3.74
+
+ca680901 jb february 22 1978  938 am
+
+1700	5	1700
+1700	5	1700
+1700	5	1700
+

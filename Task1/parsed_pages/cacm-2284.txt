@@ -1,0 +1,20 @@
+
+
+
+solution of the matrix equation ax+xbc f4 algorithm a432
+
+cacm september 1972
+
+bartels r h
+stewart g w
+
+linear algebra matrices linear equations
+
+5.14
+
+ca720906 jb january 27 1978  431 pm
+
+2284	5	2284
+2284	5	2284
+2284	5	2284
+

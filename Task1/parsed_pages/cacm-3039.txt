@@ -1,0 +1,53 @@
+
+
+
+on-the-fly garbage collection an exercise in cooperation
+
+as an example of cooperation between sequential
+processes with very little mutual interference 
+despite frequent manipulations of a large shared data
+space  a technique is developed which allows nearly 
+all of the activity needed for garbage detection and collection
+to be performed by an additional processor 
+operating con-currently with the processor devoted to the
+computation proper  exclusion and synchronization 
+constraints have been kept as weak as could be achieved
+the severe complexities engendered by doing 
+so are illustrated 
+
+cacm november 1978
+
+dijkstra e
+lamport l
+martin a
+scholten c
+steffens e
+
+multiprocessing fine-grained interleaving cooperation
+between sequential processes with minimized 
+mutual exclusion program correctness for multiprogramming
+tasks garbage collection 
+
+4.32 4.34 4.35 4.39 5.24
+
+ca781112 dh january 22 1979  324 pm
+
+2838	4	3039
+2896	4	3039
+2896	4	3039
+2972	4	3039
+3037	4	3039
+3039	4	3039
+3039	4	3039
+3039	4	3039
+3043	4	3039
+3073	4	3039
+3074	4	3039
+3112	4	3039
+2723	5	3039
+2732	5	3039
+2896	5	3039
+3039	5	3039
+3039	5	3039
+3039	5	3039
+

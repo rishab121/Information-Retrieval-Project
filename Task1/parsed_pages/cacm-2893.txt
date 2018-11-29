@@ -1,0 +1,47 @@
+
+
+
+computers as an innovation in american local governments
+
+computers and electronic data processing are
+a major technological innovation in the operations 
+of american local government this paper establishes that
+there is substantial variation among the larger 
+local governments in the rate at which they adopt computer
+technology in the level of financial support 
+they provide for edp and in the extensiveness and sophistication
+of their automated applications  the 
+central question addressed is what might explain the
+differences between governments in the extent to 
+which they adopt and use computers  hypotheses are
+tested for several streams of explanatory factors 
+using data from more than 500 city and county governments
+ the findings identify certain local government 
+milieus which are particularly conducive to higher levels
+of computer innovation  somewhat unexpected 
+findings reveal the significant impact of the distribution
+of control over edp decisions and the dominant 
+political values within the government other important
+factors include the measured need for computer 
+applications and the presence of external funding support
+for computing  finally the paper suggests 
+a framework for identifying the key determinants
+of other technological innovations
+
+cacm december 1977
+
+danziger j n
+dutton w h
+
+innovation technological innovation computer utilization
+computer adoption american local government 
+city government computers county government computers
+
+2.0 2.45 2.49 2.9
+
+ca771207 jb december 22 1977  1217 pm
+
+2893	5	2893
+2893	5	2893
+2893	5	2893
+

@@ -1,0 +1,22 @@
+
+
+
+on fosters information storage and retrieval using avl trees
+
+cacm september 1972
+
+tan k c
+
+binary trees search trees information storage information retrieval
+
+3.70 3.73 3.74
+
+ca720912 jb january 27 1978  410 pm
+
+2278	5	2278
+2278	5	2278
+2278	5	2278
+2455	5	2278
+2278	6	2278
+2388	6	2278
+

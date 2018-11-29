@@ -1,0 +1,76 @@
+
+
+
+an algol-like computer design language
+
+the idea of constructing a computer design
+language by making use of an algol-like programming 
+language is presented  a computer designer can benefit
+from using a design language at a higher level 
+just as a computer user can benefit from a higher level
+programming language  the purposes and requirements 
+of the design language are enumerated  to achieve most
+of the purposes a translator is required to translate 
+a design of computer logic into a set of boolean equations
+ the design language is presented in terms 
+of vocabulary statements sequences and microprogram
+ included are examples of identifiers expressions 
+with both unary and binary operators declaration statements
+transfer statements terminal statements 
+exchange statements if statements do statements go
+to statements several sequences and a microprogram
+
+cacm october 1965
+
+chu y
+
+ca651007 jb march 6 1978  648 pm
+
+249	4	1188
+254	4	1188
+272	4	1188
+1102	4	1188
+1109	4	1188
+1140	4	1188
+1173	4	1188
+1188	4	1188
+1188	4	1188
+1306	4	1188
+1464	4	1188
+1491	4	1188
+1767	4	1188
+1781	4	1188
+1787	4	1188
+1949	4	1188
+321	4	1188
+2059	4	1188
+2126	4	1188
+435	4	1188
+437	4	1188
+463	4	1188
+483	4	1188
+491	4	1188
+2732	4	1188
+560	4	1188
+583	4	1188
+3073	4	1188
+627	4	1188
+631	4	1188
+632	4	1188
+642	4	1188
+644	4	1188
+653	4	1188
+680	4	1188
+761	4	1188
+762	4	1188
+763	4	1188
+123	4	1188
+140	4	1188
+919	4	1188
+989	4	1188
+196	5	1188
+1188	5	1188
+1188	5	1188
+1188	5	1188
+642	5	1188
+

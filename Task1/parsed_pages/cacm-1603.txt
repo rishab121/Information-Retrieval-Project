@@ -1,0 +1,47 @@
+
+
+
+a multiprogramming monitor for small machines
+
+int a combination hardware/software monitor
+designed to control a wide variety of real-time 
+input/output devices is described  the simple hardware
+additions provide a uniform device to machine 
+interface for such elements as keyboards graphic input
+devices and interval timers  the software relieves 
+the user program from the details of input/output timing
+buffering and task scheduling and provides 
+parallel processing capability  user programs communicate
+with the monitor through a small set of meta-instruction 
+which consists mostly of machine-language subroutine calls
+
+cacm may 1967
+
+hornbuckle g d
+
+ca670503 jb february 28 1978  1057 am
+
+1458	4	1603
+1523	4	1603
+1603	4	1603
+1698	4	1603
+1747	4	1603
+1748	4	1603
+1854	4	1603
+1877	4	1603
+1960	4	1603
+2377	4	1603
+2378	4	1603
+2497	4	1603
+2558	4	1603
+2625	4	1603
+2632	4	1603
+2840	4	1603
+2941	4	1603
+3105	4	1603
+3144	4	1603
+1471	5	1603
+1603	5	1603
+1603	5	1603
+1603	5	1603
+

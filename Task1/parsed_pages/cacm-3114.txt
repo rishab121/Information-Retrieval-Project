@@ -1,0 +1,51 @@
+
+
+
+a technique for isolating differences between files
+
+a simple algorithm is described for isolating
+the differences between two files  one application 
+is the comparing of two versions of a source program
+or other file in order to display all differences 
+ the algorithm isolates differences in a way that corresponds
+closely to our intuitive notion of difference 
+is easy to implement and is computationally efficient
+with time linear in the file length  for most 
+applications the algorithm isolates differences similar
+to those isolated by the longest common subsequence 
+ another application of this algorithm merges files
+containing independently generated changes into a 
+single file  the algorithm can also be used to generate
+efficient encodings of a file in the form of 
+the differences between itself and a given datum file
+permitting reconstruction of the original file 
+from the difference and datum files   
+
+cacm april 1978
+
+heckel p
+
+difference isolation word processing text editing
+program maintenance hash coding file compression 
+bandwidth compression longest common subsequence
+file comparison molecular evolution
+
+3.63 3.73 3.81 4.43
+
+ca780402 dh february 27 1979  1052 am
+
+2299	4	3114
+2501	4	3114
+2629	4	3114
+2915	4	3114
+2963	4	3114
+3114	4	3114
+3114	4	3114
+3114	4	3114
+1502	5	3114
+2499	5	3114
+2745	5	3114
+3114	5	3114
+3114	5	3114
+3114	5	3114
+

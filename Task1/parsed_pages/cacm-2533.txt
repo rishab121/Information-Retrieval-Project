@@ -1,0 +1,23 @@
+
+
+
+gray code and the + sign sequence when
++-f +-f+-f+-fx is ordered
+
+cacm march 1973
+
+salzer h e
+
+gray code sign sequences ordering positive
+monotonic functions binary system galois sum
+
+5.10
+
+ca730306 jb january 24 1978  1035 am
+
+2533	4	2533
+2394	5	2533
+2533	5	2533
+2533	5	2533
+2533	5	2533
+

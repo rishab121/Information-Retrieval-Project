@@ -1,0 +1,42 @@
+
+
+
+blnsys-a 1401 operating system with braille capabilities
+
+blnsys is an operating system designed for
+a 4k 1401 with common optional features and two 
+attached tape drives  printed output of this system
+or of executing programs may be in either english 
+or braille  even though this system was written for
+a small machine with minimal peripheral equipment 
+jobs may be batched so that card handling and lost
+processing time is at a minimum  this system will 
+perform any or all of the following users specified
+functions assemble sps source decks post list 
+produce condensed or uncondensed object decks execute
+users program list card input to a program 
+list punched output provide a storage dump execute
+a program submitted for execution as an uncondensed 
+object deck under debugging trace control card-to-braille
+conversion brailled listings of 7040 ibsys 
+batch output and update or duplicate the system tape
+itself  input-ouput subroutines are also included 
+in the system
+
+cacm may 1965
+
+landwehr j b
+mclaughlin c
+mueller h
+lichstein m
+pollack s v
+
+ca650507 jb march 7 1978  230 pm
+
+1264	4	1264
+1740	4	1264
+1099	5	1264
+1264	5	1264
+1264	5	1264
+1264	5	1264
+

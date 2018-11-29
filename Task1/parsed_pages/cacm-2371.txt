@@ -1,0 +1,29 @@
+
+
+
+a system for interprocess communication
+in a resource sharing computer network
+
+a system of communication between processes in a
+time-sharing system is described and the communication 
+system is extended so that it may be used between processes
+distributed throughout a computer network 
+ the hypothetical application of the system to an existing network is discussed
+
+cacm april 1972
+
+walden d c
+
+interprocess communication time-sharing
+computer networks resource sharing
+
+3.81 4.39 4.82 4.9
+
+ca720402 jb january 31 1978  151 pm
+
+2371	5	2371
+2371	5	2371
+2371	5	2371
+2849	5	2371
+2371	6	2371
+

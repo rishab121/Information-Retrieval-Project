@@ -1,0 +1,32 @@
+
+
+
+a scheduling algorithm for a computer assisted registration system
+
+this paper presents the scheduling algorithm
+used in the computer assisted registration system 
+at the university of tennessee  notation is defined and
+the logic of the algorithm necessary to implement 
+educational policy is described  results from
+the first terms implementation are presented
+
+cacm march 1971
+
+winters w k
+
+computer assisted registration scheduling algorithm timetable
+
+3.32 5.39
+
+ca710303 jb february 3 1978  440 pm
+
+1540	4	2209
+2052	4	2209
+2209	4	2209
+2209	4	2209
+1434	5	2209
+1540	5	2209
+2209	5	2209
+2209	5	2209
+2209	5	2209
+

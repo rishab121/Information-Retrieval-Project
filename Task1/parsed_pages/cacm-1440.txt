@@ -1,0 +1,34 @@
+
+
+
+starting approximations for square root calculation on ibm system/360
+
+several starting approximations for square
+root calculation by newtons method are presented 
+in a form to facilitate their use in ibm system/360 square
+root routines  these approximations include 
+several for the range 1/16 1 which is the interval
+of primary interest on ibm system/360
+
+cacm april 1966
+
+fike c t
+
+ca660409 jb march 3 1978  1032 am
+
+1015	4	1440
+1346	4	1440
+1440	4	1440
+1440	4	1440
+1645	4	1440
+1932	4	1440
+2159	4	1440
+951	4	1440
+962	5	1440
+1440	5	1440
+1440	5	1440
+1440	5	1440
+1566	5	1440
+532	5	1440
+1440	6	1440
+

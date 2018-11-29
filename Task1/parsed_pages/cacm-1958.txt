@@ -1,0 +1,28 @@
+
+
+
+improving round-off in runge-kutta computations with gills method
+
+a runge-kutta-gill scheme in common use is based on an incomplete
+adaptation for floating point operations of gills method  an
+improved version reduces round-off error significantly  in this note
+the heart of the scheme is presented in fortran language  it is
+then shown how an improved version of the method can be obtained with
+the addition of two fortran statements  the two version is a
+significant improvement  a numerical example comparing the two is included
+
+cacm december 1970
+
+thompson r j
+
+runge-kutta methods ordinary differential
+equations round-off error error analysis
+
+5.11 5.17
+
+ca701205 jb february 9 1978  340 pm
+
+1958	5	1958
+1958	5	1958
+1958	5	1958
+

@@ -1,0 +1,36 @@
+
+
+
+a marovian model of the university of michigan executive system
+
+a mathematical model of a computers executive
+system is postulated and its parameters estimated 
+with the aid of extensive data on the systems operation
+ although simplifying assumptions are made 
+the results predicted by the model agree reasonable well
+with actual results  the model is used to study 
+the effects of changes in the executive system and
+in one of its compilers  further applications of 
+the model are discussed
+
+cacm september 1967
+
+foley j d
+
+ca670911 jb february 27 1978  250 pm
+
+1533	4	1533
+1533	4	1533
+1604	4	1533
+1951	4	1533
+2667	4	1533
+2668	4	1533
+1224	5	1533
+1533	5	1533
+1533	5	1533
+1533	5	1533
+1604	5	1533
+1916	5	1533
+1533	6	1533
+666	6	1533
+

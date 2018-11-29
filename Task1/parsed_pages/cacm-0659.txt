@@ -1,0 +1,19 @@
+
+
+
+reversion of series algorithm 193
+
+cacm december 1963
+
+thacher jr h c
+
+ca631215 jb march 23 1978  808 pm
+
+1121	4	659
+659	4	659
+964	4	659
+659	5	659
+659	5	659
+659	5	659
+759	5	659
+

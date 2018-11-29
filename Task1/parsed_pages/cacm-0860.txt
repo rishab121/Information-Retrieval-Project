@@ -1,0 +1,51 @@
+
+
+
+a comparison between the polyphase and oscillating sort techniques
+
+a comparison between the oscillating and polyphase
+sort techniques is developed for computer 
+systems having from four to ten tape drives  the basis
+for the comparison is the total reading and writing 
+required for various number of input strings
+and tape drives for the two techniques
+
+cacm may 1963
+
+goetz m a
+toth g s
+
+ca630507 jb march 14 1978  1125 am
+
+1117	4	860
+2017	4	860
+2146	4	860
+677	4	860
+860	4	860
+860	4	860
+862	4	860
+2017	5	860
+479	5	860
+860	5	860
+860	5	860
+860	5	860
+861	5	860
+849	6	860
+850	6	860
+851	6	860
+852	6	860
+853	6	860
+854	6	860
+855	6	860
+856	6	860
+857	6	860
+858	6	860
+859	6	860
+860	6	860
+861	6	860
+862	6	860
+863	6	860
+864	6	860
+865	6	860
+866	6	860
+

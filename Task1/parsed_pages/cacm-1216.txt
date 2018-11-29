@@ -1,0 +1,43 @@
+
+
+
+symbolic derivatives without list processing subroutines or recursion
+
+a routine has been developed which computes and
+prints out the symbolic derivative of an absolutely 
+continuous elementary function of one or several variables
+ no use is made of list-processing languages 
+ the chain rule is applied and the result is edited to
+produce results as elegant and efficient as those 
+obtained by hand computation  a subset may be imbeded
+in a formula translator to introduce a differentiation 
+operator into an algebraic programming language
+
+cacm august 1965
+
+smith p j
+
+ca650808 jb march 6 1978  818 pm
+
+1028	4	1216
+1028	4	1216
+1216	4	1216
+1216	4	1216
+1216	4	1216
+1278	4	1216
+1278	4	1216
+1347	4	1216
+1347	4	1216
+1392	4	1216
+1396	4	1216
+1396	4	1216
+1396	4	1216
+1536	4	1216
+964	4	1216
+1028	5	1216
+1029	5	1216
+1216	5	1216
+1216	5	1216
+1216	5	1216
+561	5	1216
+

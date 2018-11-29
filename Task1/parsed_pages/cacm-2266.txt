@@ -1,0 +1,33 @@
+
+
+
+a highly parallel algorithm for approximating
+all zeros of a polynomial with only real zeros
+
+an algorithm is described based on newtons
+method which simultaneously approximates all zeros 
+of a polynomial with only real zeros  the algorithm which
+is conceptually suitable for parallel computation 
+determines its own starting values so that convergence
+to the zeros is guaranteed  multiple zeros and 
+their multiplicity are readily determined  at no
+point in the method is polynomial deflation used
+
+cacm november 1972
+
+patrick m l
+
+parallel numerical algorithms real polynomials
+real zeros newtons method starting values 
+guaranteed convergence
+
+5.15
+
+ca721103 jb january 27 1978  235 pm
+
+2266	5	2266
+2266	5	2266
+2266	5	2266
+2660	5	2266
+2266	6	2266
+

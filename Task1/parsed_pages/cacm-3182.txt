@@ -1,0 +1,49 @@
+
+
+
+vulnerabilities of efts to intentionally caused losses
+
+the hypothesis that consumers
+are provided greater accuracy and freedom from error and fraud with
+electronic funds transfer systems efts is discussed in light
+of the technical capabilities and potential of the computer to protect
+against both accidentally and intentionally caused losses
+although the nomenclature for business crimes remains the same as for
+manual depository and other financial service systems  for example 
+fraud theft embezzlement  the characteristics of the crimes
+are new the changes resulting from the accelerating use of efts and 
+its continual technological advances broaden the scope of security
+issues to be examined  factors such as backup requirements 
+regulatory and legislative actions and economics give rise to
+the urgency for immediate research into solutions for emerging
+efts  related vulnerabilities
+
+cacm december 1979
+
+parker d
+
+efts computer abuse crime security errors
+losses positions of trust legislation
+
+2.11 2.3 3.52 3.80
+
+ca791205 db february 25 1980  156 pm
+
+3142	4	3182
+3179	4	3182
+3178	4	3182
+3182	4	3182
+3183	4	3182
+3076	5	3182
+3178	5	3182
+3182	5	3182
+3182	5	3182
+3182	5	3182
+3076	6	3182
+3140	6	3182
+3142	6	3182
+3179	6	3182
+3180	6	3182
+3181	6	3182
+3182	6	3182
+

@@ -1,0 +1,18 @@
+
+
+
+magic square odd order algorithm 118
+
+cacm august 1962
+
+collison d m
+
+ca620810 jb march 17 1978  945 pm
+
+2082	5	518
+518	5	518
+518	5	518
+518	5	518
+1491	6	518
+518	6	518
+

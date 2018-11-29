@@ -1,0 +1,14 @@
+
+
+
+recorded magnetic tape for information interchange
+800 cpi nrzi proposed american standard
+
+cacm april 1966
+
+ca660407 jb march 3 1978  1039 am
+
+1442	5	1442
+1442	5	1442
+1442	5	1442
+

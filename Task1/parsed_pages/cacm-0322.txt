@@ -1,0 +1,31 @@
+
+
+
+operational compatibility of systems-conventions
+
+the general standards committee of the share
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently in
+view of the growing number of programming systems 
+available  each of these programming systems has been
+coded to utilize a fixed set of hardware components 
+without recognizing the fact that others may be occupying
+a storage medium required by the first  these 
+incompatibilities are currently resolved by manually setting
+up the computer for each system as required 
+ the following set of conventions is being considered
+to minimize computer set-up time  they are of 
+sufficiently broad interest that we feel other computer
+users should be aware of them -george f ryckman 
+chairman
+
+cacm june 1961
+
+bright h s
+
+ca610603 jb march 16 1978  1055 pm
+
+322	5	322
+322	5	322
+322	5	322
+

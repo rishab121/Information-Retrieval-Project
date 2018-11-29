@@ -1,0 +1,35 @@
+
+
+
+characteristic values and associated solutions of
+mathieus differential equation algorithm 352 $s22
+
+cacm december 1970
+
+sale a h j
+
+mathieus differential equation mathieu function characteristic
+value periodic solution radial solution
+
+5.12
+
+ca701208 jb february 9 1978310 pm
+
+1613	4	1955
+1646	4	1955
+1900	4	1955
+1955	4	1955
+2025	4	1955
+2154	4	1955
+2365	4	1955
+2506	4	1955
+3060	4	1955
+987	5	1955
+1955	5	1955
+1955	5	1955
+1955	5	1955
+2653	5	1955
+2654	5	1955
+1955	6	1955
+1955	6	1955
+

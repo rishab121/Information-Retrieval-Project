@@ -1,0 +1,73 @@
+
+
+
+implementing clenshaw-curtis quadrature
+ii computing the cosine transformation
+
+in a companion paper to this i methodology
+and experiences the automatic clenshaw-curtis 
+quadrature scheme was described and how each quadrature
+formula used in the scheme requires a cosine 
+transformation of the integrand values was shown 
+the high cost of these cosine transformations has 
+been a serious drawback in using clenshaw-curtis quadrature
+ two other problems related to the cosine 
+transformation have also been trouble some  first the
+conventional computation of the cosine transformation 
+by recurrence relation is numerically unstable particularly
+at the low frequencies which have the largest 
+effect upon the integral  second in case the automatic
+scheme should require refinement of the sampling 
+storage is required to save the integrand values after
+the cosine transformation is computed  this second 
+part of the paper shows how the cosine transformation can
+be computed by a modification of the fast fourier 
+transform and all three problems overcome  the modification
+is also applicable in other circumstances 
+requiring cosine or sine transformations such as polynomial
+interpolation through the chebyshev points
+
+cacm may 1972
+
+gentleman w m
+
+fast fourier transformation cosine transformation
+clenshaw-curtis quadrature chebyshev series
+
+5.13 5.14 5.16
+
+ca720506 jb january 31 1978  956 am
+
+2355	4	2354
+2355	4	2354
+2355	4	2354
+2355	4	2354
+2350	4	2354
+2350	4	2354
+2354	4	2354
+2354	4	2354
+2354	4	2354
+2354	4	2354
+2354	4	2354
+2354	4	2354
+2640	4	2354
+1418	5	2354
+1521	5	2354
+1597	5	2354
+1679	5	2354
+2350	5	2354
+2354	5	2354
+2354	5	2354
+2354	5	2354
+2355	5	2354
+1418	6	2354
+1418	6	2354
+1521	6	2354
+1597	6	2354
+1883	6	2354
+2040	6	2354
+2350	6	2354
+2354	6	2354
+2354	6	2354
+2355	6	2354
+

@@ -1,0 +1,31 @@
+
+
+
+a note on reflection-free permutation enumeration
+
+cacm november 1977
+
+roy m k
+
+permutations reflection-free generation
+
+5.30
+
+ca771108 jb december 27 1977  717 am
+
+2044	4	2908
+2189	4	2908
+2417	4	2908
+2505	4	2908
+2874	4	2908
+2908	4	2908
+2908	4	2908
+2908	4	2908
+3115	4	2908
+2505	5	2908
+2884	5	2908
+2908	5	2908
+2908	5	2908
+2908	5	2908
+521	5	2908
+

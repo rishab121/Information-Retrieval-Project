@@ -1,0 +1,51 @@
+
+
+
+minimal-total-processing time drum and disk scheduling disciplines
+
+this article investigates the application of
+minimal-total-processing-time mtpt scheduling 
+disciplines to rotating storage units when random arrival
+of requests is allowed  fixed-head drum and 
+moving-head drum and moving-head disk storage units are
+considered and emphasis is placed on the relative 
+merits of the mtpt scheduling discipline with respect
+to the shortest-latency-time-first sltf scheduling 
+discipline  the results of the simulation studies
+presented show that neither scheduling discipline 
+is unconditionally superior to the other  for most
+fixed-head drum applications the sltf discipline 
+is preferable to mtpt but for intra-cylinder disk scheduling
+the mtpt discipline offers a distinct advantage 
+over the sltf discipline  the computational requirements
+of an algorithm that implements the mtpt scheduling 
+discipline are shown to be comparable to sltf algorithms
+in both cases the sorting procedure is the 
+most time-consuming phase of the algorithm
+
+cacm july 1974
+
+fuller s h
+
+drum scheduling disk scheduling shortest-latency-time-first
+sltf minimal-total-processing-time 
+mtpt rotating storage units
+
+4.31 4.41 6.34 6.35
+
+ca740703 jb january 17 1978  107 pm
+
+2628	4	2628
+2628	4	2628
+2891	4	2628
+3072	4	2628
+3097	4	2628
+2375	5	2628
+2496	5	2628
+2628	5	2628
+2628	5	2628
+2628	5	2628
+2891	5	2628
+2375	6	2628
+2628	6	2628
+

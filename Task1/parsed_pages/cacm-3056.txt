@@ -1,0 +1,31 @@
+
+
+
+counting large numbers of events in small registers
+
+it is possible to use a small counter to keep
+approximate counts of large numbers  the resulting 
+expected error can be rather precisely controlled  an
+example is given in which 8-bit counters bytes 
+are used to keep track of as many as 130,000 events with
+a relative error which is substantially independent 
+of the number n of events  this relative error can
+be expected to be 24 percent or less 95 percent of 
+the time ieo  n/8  the techniques could be used
+to advantage in multichannel counting hardware 
+or software used for the monitoring of experiments or processes
+
+cacm october 1978
+
+morris r
+
+counting
+
+5.11
+
+ca781005 dh january 29 1979  552 pm
+
+3056	5	3056
+3056	5	3056
+3056	5	3056
+

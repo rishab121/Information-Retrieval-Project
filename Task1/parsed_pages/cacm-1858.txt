@@ -1,0 +1,35 @@
+
+
+
+an algorithm for filon quadrature
+
+an algorithm for filon quadrature is described
+ considerable attention has been devoted to 
+an analysis of the round-off and truncation errors
+ the algorithm includes an automatic error control 
+feature
+
+cacm august 1969
+
+chase s m
+fosdick l d
+
+quadrature filon quadrature integration filon
+integration fourier coefficients fourier series
+
+5.16
+
+ca690805 jb february 15 1978  555 pm
+
+1858	4	1858
+1858	4	1858
+1268	5	1858
+1858	5	1858
+1858	5	1858
+1858	5	1858
+1857	5	1858
+2393	5	1858
+1858	6	1858
+1858	6	1858
+2071	6	1858
+

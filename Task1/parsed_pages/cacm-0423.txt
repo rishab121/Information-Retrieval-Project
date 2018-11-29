@@ -1,0 +1,15 @@
+
+
+
+matrix inversion algorithm 58
+
+cacm december 1962
+
+behrenz p g
+
+ca621216 jb march 17 1978  457 pm
+
+423	5	423
+423	5	423
+423	5	423
+

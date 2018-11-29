@@ -1,0 +1,42 @@
+
+
+
+an environment for research in microprogramming and emulation
+
+the development of the research project in
+microprogramming and emulation at state university 
+of new york at buffalo consisted of three phases the
+evaluation of various possible machines to support 
+this research the decision to purchase one such machine
+which appears to be superior to the others 
+considered and the organization and definition of goals
+for each group in the project  each of these 
+phases is reported with emphasis placed on the
+early results achieved in this research
+
+cacm august 1972
+
+rosin r f
+frieder g
+eckhouse jr r h
+
+microprogramming emulation computer systems language
+processors input-output systems nano-program 
+project management hardware evaluation
+
+4.1 4.2 4.3 6.2
+
+ca720804 jb january 30 1978  955 am
+
+2298	5	2298
+2298	5	2298
+2298	5	2298
+3144	5	2298
+1471	6	2298
+2298	6	2298
+2491	6	2298
+2597	6	2298
+2624	6	2298
+2625	6	2298
+2632	6	2298
+

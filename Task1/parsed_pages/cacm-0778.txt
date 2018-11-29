@@ -1,0 +1,18 @@
+
+
+
+associated legendre functions of the first kind
+for real or imaginary arguments algorithm 47
+
+cacm august 1963
+
+george r
+
+ca630820 jb march 13 1978  826 pm
+
+1818	5	778
+778	5	778
+778	5	778
+778	5	778
+778	6	778
+

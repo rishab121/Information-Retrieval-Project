@@ -1,0 +1,24 @@
+
+
+
+complex gamma function s14 algorithm 404
+
+cacm january 1971
+
+lucas jr c w
+terrill c w
+
+gamma function poles of gamma function stirlings
+asymptotic series recursion formula reflection 
+formula
+
+5.12
+
+ca710110 jb february 8 1978  1025 am
+
+2224	4	2224
+1547	5	2224
+2224	5	2224
+2224	5	2224
+2224	5	2224
+

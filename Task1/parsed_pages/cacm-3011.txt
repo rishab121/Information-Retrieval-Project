@@ -1,0 +1,54 @@
+
+
+
+management utilization of computers in american local governments
+
+traditional concepts of management information
+systems mis bear little relation to the information 
+systems currently in use by top management in most us local
+governments  what exists is management-oriented 
+computing involving the use of relatively unsophisticated
+applications  despite the unsophisticated 
+nature of these systems management use of computing is
+surprisingly common but also varied in its extent 
+among local governments  management computing is most
+prevalent in those governments with professional 
+management practices where top management is supportive
+of computing and tends to control computing decisions 
+and where department users have less control over design
+and implementation activities  finally management 
+computing clearly has impacts for top managers mostly
+involving improvements in decision information
+
+cacm march 1978
+
+dutton w
+kraemer k
+
+computer utilization management information system
+american local government city government 
+computers county government computers computer impacts management computing
+
+2.0 2.1 2.11 2.19 2.4 2.45 2.9 3.5 3.53
+
+ca780302 jb march 28 1978  146 pm
+
+2407	4	3011
+2852	4	3011
+2977	4	3011
+2985	4	3011
+3003	4	3011
+3011	4	3011
+3011	4	3011
+3011	4	3011
+3011	4	3011
+3035	4	3011
+3050	4	3011
+2075	5	3011
+2302	5	3011
+2345	5	3011
+2485	5	3011
+3011	5	3011
+3011	5	3011
+3011	5	3011
+

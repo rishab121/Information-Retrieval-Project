@@ -1,0 +1,55 @@
+
+
+
+empirical evaluation of some features
+of instruction set processor architectures
+
+this paper presents methods for empirical evaluation
+of features of instruction set processors 
+isps  isp features are evaluated in terms of the time
+used or saved by having or not having the feature 
+ the methods are based on analysis of traces of program
+executions  the concept of a register life is 
+in troduced and used to answer questions like how many
+registers are used simultaneously how many would 
+be sufficient all of the time most of the time what
+would the overhead be if the number of registers 
+were reduced what are registers used for during their
+lives the paper also discusses the problem of 
+detecting desirable but non-existing instructions other
+problems are briefly discussed  experimental 
+results are presented obtained by analyzing 41
+programs running on the dec system 10 isp
+
+cacm march 1977
+
+lunde a
+
+computer architecture program behavior instruction
+sets op code utilization register structures 
+register utilization simultaneous register
+lives instruction tracing execution time
+
+6.20 6.21 6.33
+
+ca770303 jb december 30 1977  100 am
+
+1653	4	2989
+2411	4	2989
+2709	4	2989
+2889	4	2989
+2937	4	2989
+2989	4	2989
+2989	4	2989
+3005	4	2989
+3025	4	2989
+3101	4	2989
+1069	5	2989
+2138	5	2989
+2989	5	2989
+2989	5	2989
+2989	5	2989
+3025	5	2989
+2138	6	2989
+2989	6	2989
+

@@ -1,0 +1,20 @@
+
+
+
+normal distribution function algorithm 226
+
+cacm may 1964
+
+cyvin s j
+
+ca640508 jb march 9 1978  1158 pm
+
+1081	5	1081
+1081	5	1081
+1081	5	1081
+1157	5	1081
+836	6	1081
+1081	6	1081
+485	6	1081
+714	6	1081
+

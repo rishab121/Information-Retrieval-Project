@@ -1,0 +1,23 @@
+
+
+
+multiple-precision arithmetic and the exact
+calculation of the 3-j 6-j and 9-j symbols
+
+described in this paper is a system of general-purpose
+multiple-precision fixed-point routines 
+and their use in subroutines which calculate exactly
+the quantum-mechanical 3-j 6-j and 9-j symbols 
+of large arguments
+
+cacm november 1964
+
+maer r m
+redlich m g
+
+ca641103 jb march 9 1978  413 pm
+
+980	5	980
+980	5	980
+980	5	980
+

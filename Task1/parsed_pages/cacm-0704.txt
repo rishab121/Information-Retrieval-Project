@@ -1,0 +1,16 @@
+
+
+
+combinatorial of m things taken one at a time
+two at a time up to n at a time algorithm 161
+
+cacm october 1963
+
+collins d h
+
+ca631021 jb march 13 1978  534 pm
+
+704	5	704
+704	5	704
+704	5	704
+

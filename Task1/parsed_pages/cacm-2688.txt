@@ -1,0 +1,42 @@
+
+
+
+attribute based file organization in a paged memory environment
+
+the high cost of page accessing implies a need
+for more careful data organization in a paged 
+memory than is typical of most inverted file and similar
+approaches to multi-key retrieval  this article 
+analyses that cost and proposes a method called multiple
+key hashing which attempts to minimize it  
+since this approach is not always preferable to inversion
+a combined method is described  the exact 
+specifications of this combination for a file with given
+data and traffic characteristics is formulated 
+as a mathematical program  the proposed heuristic solution
+to this program can often improve on a simple 
+inversion technique by a factor of 2 or 3
+
+cacm february,1974
+
+rothnie j b jr
+lozano t
+
+file organization paging retrieval algorithm
+inverted file multiple key hashing
+
+3.70 3.73 3.74 3.79
+
+ca740201 jb january 18 1978  137 pm
+
+2160	4	2688
+2688	4	2688
+2114	5	2688
+2688	5	2688
+2688	5	2688
+2688	5	2688
+2976	5	2688
+2688	6	2688
+2765	6	2688
+2882	6	2688
+

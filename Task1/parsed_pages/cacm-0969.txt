@@ -1,0 +1,20 @@
+
+
+
+graycode algorithm 246 z
+
+cacm december 1964
+
+boothroyd j
+
+ca641202 jb march 9 1978  344 pm
+
+969	5	969
+969	5	969
+969	5	969
+2834	5	969
+969	6	969
+2045	6	969
+2417	6	969
+2466	6	969
+

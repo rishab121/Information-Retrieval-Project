@@ -1,0 +1,15 @@
+
+
+
+magic square algorithm 117  118
+
+cacm march 1963
+
+bosworth k m
+
+ca630321 jb march 14 1978  102 pm
+
+899	5	899
+899	5	899
+899	5	899
+

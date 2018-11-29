@@ -1,0 +1,35 @@
+
+
+
+a study of line overhead in the arpanet
+
+the form extent and effect of the communication line
+overhead in the arpanet are considered 
+ the source of this over head is separated into various
+levels of protocol hierarchy and the characteristics 
+of each level are summarized  then the line efficiency
+for various models of system use is studied 
+ some measurements of line efficiency for the arpanet are
+presented and by extrapolation these measurements 
+are used to anticipate overhead in a heavily loaded network
+similar results are derived for a recently 
+proposed network protocol and compared with those for the current system
+
+cacm january 1976
+
+kleinrock l
+naylor w e
+opderbeck h
+
+arpanet computer communication networks interprocess
+communication measurement packet switching 
+performance evaluation and efficiency resource sharing
+
+3.81 4.39 4.6 4.9
+
+ca760101 jb january 5 1978  1049 am
+
+2892	5	2892
+2892	5	2892
+2892	5	2892
+

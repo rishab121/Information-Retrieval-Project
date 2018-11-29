@@ -1,0 +1,26 @@
+
+
+
+   structures of standards-processing organizations in the computer area
+
+   in line with the acms policy statement comm acm 5 nov 1962 547-549
+the following organizational descriptions have been provided in order to
+describe standardization activities pertinent to computers and information
+processing
+
+cacm june 1966
+
+gorn s
+bemer r w
+green j
+
+ca630626 es march 17 1982 1010 am
+
+3197	5	3197
+3197	5	3197
+3197	5	3197
+689	5	3197
+217	6	3197
+323	6	3197
+3197	6	3197
+

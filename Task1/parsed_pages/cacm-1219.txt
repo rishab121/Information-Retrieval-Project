@@ -1,0 +1,20 @@
+
+
+
+number of restricted partitions of n algorithm 262 a1
+
+cacm august 1965
+
+mckayj k s
+
+ca650805 jb march 6 1978  826 pm
+
+1219	5	1219
+1219	5	1219
+1219	5	1219
+2104	5	1219
+2489	5	1219
+1219	6	1219
+1219	6	1219
+2104	6	1219
+

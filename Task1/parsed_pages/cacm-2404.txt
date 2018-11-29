@@ -1,0 +1,22 @@
+
+
+
+exponential integrals s13 algorithm a471
+
+cacm december 1973
+
+gautschi w
+
+exponential integral recurrence relations
+recursive computation continued fractions
+
+5.12
+
+ca731204 jb january 19 1978  248 pm
+
+2404	4	2404
+2119	5	2404
+2404	5	2404
+2404	5	2404
+2404	5	2404
+

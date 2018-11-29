@@ -1,0 +1,19 @@
+
+
+
+simultaneous system of equations and
+matrix inversion routine algorithm 92
+
+cacm may 1962
+
+roek d j
+
+ca620519 jb march 20 1978  131 pm
+
+454	5	586
+586	5	586
+586	5	586
+586	5	586
+152	6	586
+586	6	586
+

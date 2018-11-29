@@ -1,0 +1,16 @@
+
+
+
+testing the understanding of the difference between
+call by name and call by value in algol 60
+
+cacm june 1965
+
+weil r l
+
+ca650612 jb march 6 1978  1011 pm
+
+1243	5	1243
+1243	5	1243
+1243	5	1243
+

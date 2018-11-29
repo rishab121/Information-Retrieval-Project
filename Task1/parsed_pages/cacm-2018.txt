@@ -1,0 +1,91 @@
+
+
+
+full table quadratic searching for scatter storage
+
+the quadratic residue search method for hash tables avoids much
+of the clustering experienced with a linear search method  the simple
+quadratic search only accesses half the table  it has been shown
+that when the length of the table is a prime of the form 4n+3 where n 
+is an integer the whole table may be accessed by two quadratic
+searches plus a separate access for the original entry point a search 
+method is presented which is computationally simple has all the advantages 
+of the quadratic search and yet accesses all the table in one sweep
+
+cacm august 1970
+
+day a c
+
+quadratic residue search method hash tables scatter storage
+dictionary look-up quadratic search searching hashing
+hash code clustering collisions
+
+3.7 3.73 3.74
+
+ca700803 jb february 10 1978  357 pm
+
+1676	4	2018
+1682	4	2018
+1728	4	2018
+1860	4	2018
+1860	4	2018
+1973	4	2018
+1973	4	2018
+1973	4	2018
+1992	4	2018
+2018	4	2018
+2018	4	2018
+2018	4	2018
+2032	4	2018
+2033	4	2018
+2033	4	2018
+2107	4	2018
+2107	4	2018
+2109	4	2018
+2109	4	2018
+2203	4	2018
+2203	4	2018
+2203	4	2018
+2251	4	2018
+2251	4	2018
+2251	4	2018
+2359	4	2018
+2524	4	2018
+2543	4	2018
+2543	4	2018
+2543	4	2018
+2552	4	2018
+2559	4	2018
+2573	4	2018
+2770	4	2018
+2770	4	2018
+2974	4	2018
+2991	4	2018
+3053	4	2018
+3053	4	2018
+1785	5	2018
+1786	5	2018
+2018	5	2018
+2018	5	2018
+2018	5	2018
+2109	5	2018
+2251	5	2018
+2573	5	2018
+2770	5	2018
+1785	6	2018
+1786	6	2018
+1786	6	2018
+1786	6	2018
+1869	6	2018
+1973	6	2018
+1973	6	2018
+1992	6	2018
+2018	6	2018
+2018	6	2018
+2018	6	2018
+2107	6	2018
+2107	6	2018
+2109	6	2018
+2109	6	2018
+2673	6	2018
+

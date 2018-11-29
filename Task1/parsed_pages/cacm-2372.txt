@@ -1,0 +1,44 @@
+
+
+
+on the implementation of security measures in information systems
+
+the security of an information system may be
+represented by a model matrix whose elements are 
+decision rules and whose row and column indices are
+users and data items respectively  a set of four 
+functions is used to access this matrix at translation
+and execution time  distinguishing between data 
+dependent and data independent decision rules enables
+one to perform much of the checking of security 
+only once at translation time rather than repeatedly
+at execution time  the model is used to explain 
+security features of several existing systems and serves
+as a framework for a proposal for general security 
+system implementation within todays languages and operating systems
+
+cacm april 1972
+
+conway r w
+maxwell w l
+morgan h l
+
+security privacy access control confidentiality
+operating systems access management data banks 
+management information systems
+
+3.50 3.73 4.12 4.22 4.39
+
+ca720401 jb january 31 1978  159 pm
+
+1753	4	2372
+2358	4	2372
+2377	4	2372
+2372	4	2372
+2626	4	2372
+2840	4	2372
+1746	5	2372
+2372	5	2372
+2372	5	2372
+2372	5	2372
+

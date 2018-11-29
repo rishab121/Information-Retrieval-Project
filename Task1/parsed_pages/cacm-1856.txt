@@ -1,0 +1,93 @@
+
+
+
+the teachable language comprehender 
+a simulation program and theory of language
+
+the teachable language comprehender tlc is
+a program designed to be capable of being taught 
+to comprehend english text  when text which the program
+has not seen before is input to it it comprehends 
+that text by correctly relating each explicit or implicit
+assertion of the new text to a large memory 
+ this memory is a semantic network representing factual
+assertions about the world  the program also 
+creates copies of the parts of its memory which have
+been found to relate to the new text adapting and 
+combining these copies to represent the meaning of the
+new text  by this means the meaning of all text 
+the program successfully comprehends is encoded into
+the same format as that of the memory  in this 
+form it can be added into the memory  both factual
+assertions for the memory and the capabilities for 
+correctly relating text to the memorys prior content
+are to be taught to the program as they are needed 
+ tlc presently contains a relatively small number of
+examples of such assertions and capabilities but 
+within the system notations for expressing either of these
+are provided  thus the program now corresponds 
+to a general process for comprehending language and
+it provides a methodology for adding the additional 
+information this process requires to actually comprehend
+text of any particular kind  the memory structure 
+and comprehension process of tlc allow new factual assertions
+and capabilities for relating text to such 
+stored assertions to generalize automatically  that
+is once such an assertion or capability is put 
+into the system it becomes available to help comprehend
+a great many other sentences in the future 
+ thus the addition of a single factual assertion or
+linguistic capability will often provide a large 
+increment in tlcs effective knowledge of the world and
+in its overall ability to comprehend text  the 
+programs strategy is presented as a general theory of language comprehension
+
+cacm august,1969
+
+quillian m r
+
+natural language processing natural language comprehension
+teachable computer program psychological 
+simulation human memory simulation computer
+linguistics linguistic performance theory
+
+3.36 3.42 3.62 3.65 3.74
+
+ca690807 jb february 15 1978  546 pm
+
+1155	4	1856
+1350	4	1856
+1456	4	1856
+1468	4	1856
+1515	4	1856
+1659	4	1856
+1699	4	1856
+1856	4	1856
+1856	4	1856
+1856	4	1856
+2050	4	1856
+2127	4	1856
+1225	5	1856
+1324	5	1856
+1553	5	1856
+1856	5	1856
+1856	5	1856
+1856	5	1856
+2127	5	1856
+2309	5	1856
+2310	5	1856
+2396	5	1856
+1155	6	1856
+1324	6	1856
+1487	6	1856
+1487	6	1856
+1527	6	1856
+1781	6	1856
+1856	6	1856
+1856	6	1856
+1856	6	1856
+1856	6	1856
+2092	6	1856
+2127	6	1856
+2398	6	1856
+

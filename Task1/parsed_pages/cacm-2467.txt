@@ -1,0 +1,23 @@
+
+
+
+chi-square quantiles g1 algorithm a451
+
+cacm august 1973
+
+goldstein r b
+
+chi-square asymptotic approximation normal
+deviate chi-square deviate degrees of freedom
+
+5.12 5.5
+
+ca730807 jb january 23 1978  1041 am
+
+2467	4	2467
+2793	4	2467
+1606	5	2467
+2467	5	2467
+2467	5	2467
+2467	5	2467
+

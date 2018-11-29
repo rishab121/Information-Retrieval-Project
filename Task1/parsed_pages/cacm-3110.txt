@@ -1,0 +1,47 @@
+
+
+
+assembling code for machines with span-dependent instructions
+
+many modern computers contain instructions
+whose lengths depend on the distance from a given 
+instance of such an instruction to the operand of that
+instruction  this paper considers the problem 
+of minimizing the lengths of programs for such machines
+ an efficient solution is presented for the 
+case in which the operand of every such span-dependent
+instruction is either a label or an assembly-time 
+expression of a certain restricted formf this restriction
+is relaxed by allowing these operands to 
+be more general assembly-time expressions then
+the problem is shown to be np-complete
+
+cacm april 1978
+
+szymanski t
+
+span-dependent instructions variable-length addressing
+code generation assemblers compilers 
+np-complete computational complexity
+
+4.11 4.12 5.25
+
+ca780406 dh february 26 1979  349 pm
+
+2626	4	3110
+2786	4	3110
+2840	4	3110
+2858	4	3110
+2919	4	3110
+3017	4	3110
+3110	4	3110
+3110	4	3110
+3110	4	3110
+3174	4	3110
+2194	5	3110
+2629	5	3110
+2858	5	3110
+3110	5	3110
+3110	5	3110
+3110	5	3110
+

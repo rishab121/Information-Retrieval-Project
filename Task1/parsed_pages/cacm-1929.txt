@@ -1,0 +1,38 @@
+
+
+
+images from computers and microfilm plotters
+
+digital computers are widely used for the
+processing of information and data of all kinds 
+including the pictorial information contained in photographs
+and other graphical representations  efficient 
+conversion facilities for putting graphical information
+into the computer and retrieving it in graphical 
+form are therefore much needed  one of the most commonly
+employed devices for obtaining permanent graphical 
+output from digital computers is the microfilm plotter
+ regrettably present models have no provision 
+for producing images with a continuous gray scale or half tones
+ in this note several programming techniques 
+are described for obtaining half tone pictures from a
+microfilm plotter under the control of a digital 
+computer  illustrative examples of several methods are given
+
+cacm february 1969
+
+schroeder m r
+
+computer images half tone pictures microfilm plotters processing
+
+3.10 3.15 3.24 4.49
+
+ca690209 jb february 20 1978  1006 am
+
+1929	5	1929
+1929	5	1929
+1929	5	1929
+2142	5	1929
+1929	6	1929
+2231	6	1929
+

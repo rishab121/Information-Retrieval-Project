@@ -1,0 +1,81 @@
+
+
+
+hierarchical geometric models for visible surface algorithms
+
+the geometric structure inherent in the definition
+of the shapes of three-dimensional objects 
+and environments is used not just to define their relative
+motion and placement but also to assist in 
+solving many other problems of systems for producing
+pictures by computer  by using an extension of 
+traditional structure information or a geometric hierarchy
+five significant improvements to current 
+techniques are possible  first the range of complexity
+of an environment is greatly increased while 
+the visible complexity of any given scene is kept within
+a fixed upper limit  second a meaningful way 
+is provided to vary the amount of detail presented in
+a scene  third clipping becomes a very fast 
+logarithmic search for the resolvable parts of the environment
+within the field of view  fourth frame 
+to frame coherence and clipping define a graphical
+working set or fraction of the total structure 
+that should be present in primary store for immediate
+access by the visible surface algorithm  finally 
+the geometric structure suggests a recursive descent
+visible surface algorithm in which the computation 
+time potentially grows linearly with the visible complexity of the scene
+
+cacm october 1976
+
+clark j h
+
+visible surface algorithms hidden surface algorithms
+hierarchical data structures geometric 
+models
+
+5.31 8.2
+
+ca761003 jb january 3 1978  442 pm
+
+1892	4	2828
+1901	4	2828
+2085	4	2828
+2095	4	2828
+2218	4	2828
+2277	4	2828
+2319	4	2828
+2329	4	2828
+2358	4	2828
+2373	4	2828
+2380	4	2828
+2434	4	2828
+2499	4	2828
+2501	4	2828
+2582	4	2828
+2669	4	2828
+2674	4	2828
+2687	4	2828
+2816	4	2828
+2828	4	2828
+2828	4	2828
+2828	4	2828
+2828	4	2828
+2827	4	2828
+2863	4	2828
+2881	4	2828
+2913	4	2828
+2928	4	2828
+2996	4	2828
+3006	4	2828
+3047	4	2828
+3067	4	2828
+1751	5	2828
+2004	5	2828
+2751	5	2828
+2828	5	2828
+2828	5	2828
+2828	5	2828
+2841	5	2828
+

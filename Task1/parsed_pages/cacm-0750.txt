@@ -1,0 +1,19 @@
+
+
+
+pei matrix eigenvectors
+
+cacm september 1963
+
+newbery a c r
+
+ca630908 jb march 13 1978  736 pm
+
+1963	5	750
+750	5	750
+750	5	750
+750	5	750
+909	6	750
+475	6	750
+750	6	750
+

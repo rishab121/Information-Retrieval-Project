@@ -1,0 +1,70 @@
+
+
+
+the unix time-sharing system 
+
+unix is a general-purpose multi-user interactive
+operating system for the digital equipment 
+corporation pdp-11/40 and 11/45 computers  it offers
+a number of features seldom found even in larger 
+operating systems including 1 a hierarchical file system
+incorporating demountable volumes 2 compatible 
+file device and inter-process i/o 3 the ability to
+initiate asynchronous processes 4 system command 
+language selectable on a per-user basis and 5 over
+100 subsystems including a dozen languageshis 
+paper discusses the nature and implementation of the
+file system and of the user command interface
+
+cacm july 1974
+
+ritchie d m
+thompson k
+
+time-sharing operating system file system command language pdp-11
+
+4.30 4.32
+
+ca740702 jb january 17 1978  140 pm
+
+2299	4	2629
+2501	4	2629
+2629	4	2629
+2629	4	2629
+2868	4	2629
+2915	4	2629
+2928	4	2629
+2951	4	2629
+3114	4	2629
+1502	5	2629
+2380	5	2629
+2626	5	2629
+2629	5	2629
+2629	5	2629
+2629	5	2629
+2786	5	2629
+2840	5	2629
+2919	5	2629
+3017	5	2629
+3110	5	2629
+3174	5	2629
+1471	6	2629
+1746	6	2629
+1746	6	2629
+2194	6	2629
+2358	6	2629
+2377	6	2629
+2436	6	2629
+2536	6	2629
+2593	6	2629
+2625	6	2629
+2626	6	2629
+2629	6	2629
+2629	6	2629
+2629	6	2629
+2629	6	2629
+2629	6	2629
+2629	6	2629
+2629	6	2629
+2858	6	2629
+

@@ -1,0 +1,17 @@
+
+
+
+combinatorial of m things taken one at a time
+two at a time up to n at a time algorithm 161
+
+cacm april 1963
+
+wright h v
+wolfson m l
+
+ca630404 jb march 14 1978  1228 pm
+
+887	5	887
+887	5	887
+887	5	887
+

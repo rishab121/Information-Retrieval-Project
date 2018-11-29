@@ -1,0 +1,52 @@
+
+
+
+general performance analysis of key-to-address
+transformation methods using an abstract file 
+concept
+
+this paper presents a new approach to the analysis
+of performance of the various key-to-address 
+transformation methods  in this approach the keys in
+a file are assumed to have been selected from the 
+key space according to a certain probabilistic selection
+algorithm  all files with the same number of 
+keys selected from this key space will be suitably weighted
+in accordance with the algorithm and the 
+average performance of the transformation methods on
+these files will be used as the potential of these 
+methods  using this analysis methods with the same overall
+performance can be classified and key distributions 
+partial to certain transformations can be identified
+ all this can be done analytically  the approach 
+is applied to a group of transformation methods
+using files whose keys are selected randomly
+
+cacm october 1973
+
+lum v y
+
+hashing hashing techniques hashing methods hash coding
+key transformation key-to-address transformation 
+direct addressing randomizing random access scatter
+storage information retrieval hashing analysis 
+randomization performance analysis
+
+3.7 3.72 3.73 3.74 3.79 4.9 5.9
+
+ca731003 jb january 20 1978  1151 am
+
+2258	4	2437
+2319	4	2437
+2313	4	2437
+2359	4	2437
+2437	4	2437
+2552	4	2437
+2781	4	2437
+2860	4	2437
+2991	4	2437
+2203	5	2437
+2437	5	2437
+2437	5	2437
+2437	5	2437
+

@@ -1,0 +1,51 @@
+
+
+
+permutation enumeration four new permutation algorithms
+
+classical permutation enumeration algorithms encounter
+special cases requiring additional computation 
+every nth permutation when generating the n permutations
+on n marks  four new algorithms have the attribute 
+that special cases occur every nn-1permutations 
+two of the algorithms produce the next permutation 
+with a single exchange of two marks  the other two algorithms
+infrequently exchange more than two marks 
+but the rules for generating the next permutation are
+very simple  performance tests which have counted 
+execution of assignment statements comparisons arithmetic
+operations and subscripted array references 
+have shown superiority of the new algorithms compared to
+boothroyds implementation of m b wells algorithm 
+and ehrlichs implementation of the johnson-trotter algorithm
+
+cacm february 1976
+
+ives f m
+
+permutations loop-free algorithms
+
+5.30
+
+ca760203 jb january 5 1978  933 am
+
+2834	4	2884
+2884	4	2884
+3115	4	2884
+2417	5	2884
+2884	5	2884
+2884	5	2884
+2884	5	2884
+2908	5	2884
+3115	5	2884
+907	6	2884
+2045	6	2884
+2417	6	2884
+2466	6	2884
+2505	6	2884
+2884	6	2884
+2884	6	2884
+521	6	2884
+579	6	2884
+785	6	2884
+

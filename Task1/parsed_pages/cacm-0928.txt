@@ -1,0 +1,15 @@
+
+
+
+character manipulation in fortran
+
+cacm february 1963
+
+lewis t s
+
+ca630205 jb march 14 1978  220 pm
+
+928	5	928
+928	5	928
+928	5	928
+

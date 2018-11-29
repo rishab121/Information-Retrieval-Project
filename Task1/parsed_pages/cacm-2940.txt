@@ -1,0 +1,53 @@
+
+
+
+abstraction and verification in alphard defining
+and specifying iteration and generators
+
+the alphard form provides the programmer with
+a great deal of control over the implementation 
+of abstract data types  in this paper the abstraction techniques
+are extended from simple data representation 
+and function definition to the iteration statement the
+most important poin t of interaction between data 
+and the control structure of the language itself  a
+means of specializing alphards loops to operate 
+on abstract entities without explicit dependence on the
+representation of those entities is in troduced 
+ specification and verification techniques that allow
+the properties of the generators for such iterations 
+to be expressed in the form of proof rules are developed
+ results are obtained that for common special 
+cases of these loops are essentially identical to the
+corresponding constructs in other languages  a 
+means of showing that a generator will terminate is also provided
+
+cacm august 1977
+
+shaw m
+wulf w a
+
+abstraction and representation abstract data types
+assertions control specialization correctness 
+generatorsinvariants iteration statements modular
+decomposition program specifications programming 
+languages programming methodology proofs of correctness types verification
+
+4.20 5.24
+
+ca770803 jb december 28 1977  759 am
+
+2940	5	2940
+2940	5	2940
+2940	5	2940
+3150	5	2940
+2060	6	2940
+2704	6	2940
+2842	6	2940
+2939	6	2940
+2940	6	2940
+2941	6	2940
+2943	6	2940
+3073	6	2940
+3148	6	2940
+

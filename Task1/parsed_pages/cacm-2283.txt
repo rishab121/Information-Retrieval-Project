@@ -1,0 +1,34 @@
+
+
+
+thinning algorithms on rectangular hexagonal and triangular arrays
+
+in this report three thinning algorithms are
+developed one each for use with rectangular 
+hexagonal and triangular arrays  the approach to the
+development of each algorithm is the same  pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared  it is found that the algorithm operating
+with the triangular array is the most sensitive 
+to image irregularities and noise yet it will yield
+a thinned image with an overall reduced number of 
+points  it is concluded that the algorithm operating in
+conjunction with the hexagonal array has features 
+which strike a balance between those of the other two arrays
+
+cacm september 1972
+
+deutsch e s
+
+thinning algorithms rectangular hexagonal
+triangular arrays image processing skeleton
+
+3.64
+
+ca720907 jb january 27 1978  425 pm
+
+2283	5	2283
+2283	5	2283
+2283	5	2283
+

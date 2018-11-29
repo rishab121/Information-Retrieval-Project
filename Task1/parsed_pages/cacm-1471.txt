@@ -1,0 +1,106 @@
+
+
+
+programming semantics for multiprogrammed computations
+
+the semantics are defined for a number of meta-instructions
+which perform operation essential 
+to the writing of programs in multiprogrammed computer
+systems  these meta-instructions relate to parallel 
+processing protection of separate computations program
+debugging and the sharing among users of memory 
+segments and other computing objects the names of which
+are hierarchically structured  the language 
+sophistication contemplated is midway between an assembly
+language and an advanced algebraic language
+
+cacm march 1966
+
+dennisj b
+vanhorn e c
+
+ca660301 jb march 3 1978  225 pm
+
+1471	4	1471
+1471	4	1471
+1774	4	1471
+972	4	1471
+276	5	1471
+1458	5	1471
+1471	5	1471
+1471	5	1471
+1471	5	1471
+1523	5	1471
+1603	5	1471
+1698	5	1471
+1747	5	1471
+1748	5	1471
+1854	5	1471
+1877	5	1471
+1960	5	1471
+2377	5	1471
+2378	5	1471
+2497	5	1471
+2558	5	1471
+2625	5	1471
+2632	5	1471
+2840	5	1471
+2941	5	1471
+3105	5	1471
+3144	5	1471
+800	5	1471
+1421	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1471	6	1471
+1746	6	1471
+1746	6	1471
+1748	6	1471
+1749	6	1471
+1749	6	1471
+1749	6	1471
+1749	6	1471
+1749	6	1471
+1753	6	1471
+1854	6	1471
+2060	6	1471
+2080	6	1471
+2080	6	1471
+2182	6	1471
+2298	6	1471
+2356	6	1471
+2358	6	1471
+2358	6	1471
+2436	6	1471
+2438	6	1471
+2491	6	1471
+2558	6	1471
+2597	6	1471
+2624	6	1471
+2625	6	1471
+2625	6	1471
+2626	6	1471
+2629	6	1471
+2632	6	1471
+2632	6	1471
+2651	6	1471
+2868	6	1471
+2939	6	1471
+3068	6	1471
+

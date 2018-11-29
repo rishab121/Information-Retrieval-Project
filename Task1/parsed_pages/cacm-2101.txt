@@ -1,0 +1,22 @@
+
+
+
+least squares fit by fx  acosbx+c algorithm 376 $e2
+
+cacm february 1970
+
+spath h
+
+nonlinear least squares fit
+
+5.15
+
+ca700214 jb february 14 1978  947 am
+
+2101	4	2101
+2102	4	2101
+1639	5	2101
+2101	5	2101
+2101	5	2101
+2101	5	2101
+

@@ -1,0 +1,19 @@
+
+
+
+monitors an operating system structuring concept corrigendum
+
+cacm february 1975
+
+hoare c a r 
+
+ca750203 jb january 12 1978  845 am
+
+2796	5	2796
+2796	5	2796
+2796	5	2796
+2866	5	2796
+2356	6	2796
+2597	6	2796
+2796	6	2796
+

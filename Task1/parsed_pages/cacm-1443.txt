@@ -1,0 +1,25 @@
+
+
+
+a method for finding the least squares estimate
+of the intersection point of two helices in space
+
+when the helical trajectories of two charged
+particles moving away from a common point in a 
+magnetic field are reconstructed from measurements on
+the tracks the reconstructed tracks are perturbed 
+by measurement and other errors and do not in general
+intersect  a method is given for adjusting the 
+reconstructed tracks in a least squares manner so that they do intersect
+
+cacm april 1966
+
+royston r j
+gregory j
+
+ca660406 jb march 3 1978  1042 am
+
+1443	5	1443
+1443	5	1443
+1443	5	1443
+

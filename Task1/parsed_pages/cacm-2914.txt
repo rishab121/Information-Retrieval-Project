@@ -1,0 +1,32 @@
+
+
+
+use of the lru stack depth distribution
+for simulation of paging behavior
+
+two families of probability distributions were
+needed for use by a virtual memory simulation 
+model headway between page fault distributions and
+working set size distributions  all members of 
+both families can be derived from the lru stack depth distribution
+ simple expressions for the computation 
+of both kinds of distributions are given  finally examples
+are given of both families of distributions 
+as computed from a published stack depth distribution
+
+cacm november 1977
+
+turner r
+strecker b
+
+virtual memory paging lru stack working set headway
+between page faults computer system simulation
+
+4.35 4.6 8.1
+
+ca771102 jb december 27 1977  804 am
+
+2914	5	2914
+2914	5	2914
+2914	5	2914
+

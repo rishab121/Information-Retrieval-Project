@@ -1,0 +1,27 @@
+
+
+
+calculation of fourier integrals d1 algorithm a418
+
+cacm january 1972
+
+einarsson b
+
+quadrature filon quadrature integration filon integration
+fourier coefficients fourier integrals 
+fourier series spline spline approximation spline
+quadrature extrapolation richardson extrapolation
+
+5.16
+
+ca720110 jb february 1 1978  900 am
+
+1857	4	2393
+2393	4	2393
+2393	4	2393
+1858	5	2393
+2071	5	2393
+2393	5	2393
+2393	5	2393
+2393	5	2393
+

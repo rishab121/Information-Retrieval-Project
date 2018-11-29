@@ -1,0 +1,15 @@
+
+
+
+inverse of a finite segment of the hilbert matrix algorithm 50
+
+cacm january 1963
+
+naur p
+
+ca630111 jb march 14 1978  236 pm
+
+937	5	937
+937	5	937
+937	5	937
+

@@ -1,0 +1,29 @@
+
+
+
+eigenvalues and eigenvectors of a real
+symmetric matrix $f2 algorithm 384
+
+cacm june 1970
+
+stewart g w
+
+real symmetric matrix eigenvalues eigenvectors qr algorithm
+
+5.14
+
+ca700612 jb february 13 1978  1034 am
+
+2043	5	2043
+2043	5	2043
+2043	5	2043
+2349	5	2043
+1648	6	2043
+1716	6	2043
+1794	6	2043
+1894	6	2043
+2043	6	2043
+501	6	2043
+613	6	2043
+774	6	2043
+

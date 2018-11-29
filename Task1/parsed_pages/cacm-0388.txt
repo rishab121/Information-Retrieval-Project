@@ -1,0 +1,16 @@
+
+
+
+solution of polynomial equations by
+bairstow hitchcock method algorithm 3
+
+cacm february 1961
+
+vandergraft j s
+
+ca610210 jb march 17 1978  1254 am
+
+388	5	388
+388	5	388
+388	5	388
+

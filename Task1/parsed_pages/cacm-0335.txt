@@ -1,0 +1,27 @@
+
+
+
+some numerical experiments using newtons method
+for nonlinear parabolic and ellipticboundary-value 
+problems
+
+using a generalization of newtons method a nonlinear
+parabolic equation of the form ut-uxxgu 
+and a nonlinear elliptic equation uxx+uyyexpu
+are solved numerically comparison of these results 
+with results obtained using the picard iteration procedure
+show that in many cases the quisi linearization 
+method offers substantial advantages in both time and accuracy
+
+cacm april 1961
+
+bellman r
+juncosa m l
+kalaba r
+
+ca610433 jb march 16 1978  1120 pm
+
+335	5	335
+335	5	335
+335	5	335
+

@@ -1,0 +1,80 @@
+
+
+
+early experience with mesa
+
+the experiences of mesas first users-primarily
+its implementers-are discussed and some implications 
+for mesa and similar programming languages are suggested
+the specific topics addressed are module structure 
+and its use in defining abstractions data-structuring
+facilities in mesa an equivalence algorithm for 
+types and type coercions the benefits of the type system
+and why it is breached occasionally and the 
+difficulty of making the treatment of variant records safe
+
+cacm august 1977
+
+geschke c m
+morris j h jr
+satterthwaite e h
+
+programming languages types modules
+data structures systems programming
+
+4.22
+
+ca770802 jb december 28 1977  807 am
+
+1458	4	2941
+1523	4	2941
+1603	4	2941
+1698	4	2941
+1747	4	2941
+1748	4	2941
+1854	4	2941
+1877	4	2941
+1960	4	2941
+2377	4	2941
+2378	4	2941
+2497	4	2941
+2558	4	2941
+2625	4	2941
+2632	4	2941
+2704	4	2941
+2723	4	2941
+2738	4	2941
+2840	4	2941
+2866	4	2941
+2868	4	2941
+2869	4	2941
+2939	4	2941
+2941	4	2941
+2941	4	2941
+2941	4	2941
+2941	4	2941
+2956	4	2941
+2958	4	2941
+3004	4	2941
+3030	4	2941
+3030	4	2941
+3105	4	2941
+3144	4	2941
+1471	5	2941
+2356	5	2941
+2558	5	2941
+2651	5	2941
+2941	5	2941
+2941	5	2941
+2941	5	2941
+3150	5	2941
+2060	6	2941
+2704	6	2941
+2842	6	2941
+2939	6	2941
+2940	6	2941
+2941	6	2941
+2943	6	2941
+3073	6	2941
+3148	6	2941
+

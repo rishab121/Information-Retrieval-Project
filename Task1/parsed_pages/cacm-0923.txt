@@ -1,0 +1,15 @@
+
+
+
+gomory algorithm 153
+
+cacm february 1963
+
+bauer f l
+
+ca630210 jb march 14 1978  212 pm
+
+923	5	923
+923	5	923
+923	5	923
+

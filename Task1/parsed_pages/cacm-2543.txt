@@ -1,0 +1,121 @@
+
+
+
+reducing the retrieval time of scatter storage techniques
+
+a new method for entering and retrieving information
+in a hash table is described  the method 
+is intended to be efficient if most entries are looked
+up several times  the expected number of probes 
+to look up an entry predicted theoretically and verified
+by monte carlo experiments is considerably 
+less than for other comparable methods if the table
+is nearly full  an example of a possible fortran 
+implementation is given
+
+cacm february 1973
+
+brent r p
+
+address calculation content addressing file searching
+hash addressing hash code linear probing 
+linear quotient method scatter storage searching symbol table
+
+3.7 3.73 3.74 4.1 4.9
+
+ca730205 jb january 24 1978  212 pm
+
+1271	4	2543
+1676	4	2543
+1682	4	2543
+1728	4	2543
+1785	4	2543
+1860	4	2543
+1860	4	2543
+1973	4	2543
+1973	4	2543
+1973	4	2543
+1973	4	2543
+1992	4	2543
+1992	4	2543
+2018	4	2543
+2018	4	2543
+2018	4	2543
+2032	4	2543
+2033	4	2543
+2033	4	2543
+2107	4	2543
+2107	4	2543
+2109	4	2543
+2109	4	2543
+2138	4	2543
+2203	4	2543
+2203	4	2543
+2203	4	2543
+2203	4	2543
+2251	4	2543
+2251	4	2543
+2251	4	2543
+2251	4	2543
+2251	4	2543
+2359	4	2543
+2524	4	2543
+2530	4	2543
+2534	4	2543
+2537	4	2543
+2543	4	2543
+2543	4	2543
+2543	4	2543
+2543	4	2543
+2543	4	2543
+2543	4	2543
+2552	4	2543
+2552	4	2543
+2559	4	2543
+2559	4	2543
+2559	4	2543
+2573	4	2543
+2573	4	2543
+2770	4	2543
+2770	4	2543
+2770	4	2543
+2974	4	2543
+2991	4	2543
+2991	4	2543
+3053	4	2543
+3053	4	2543
+3053	4	2543
+3053	4	2543
+3083	4	2543
+3083	4	2543
+911	4	2543
+1785	5	2543
+1786	5	2543
+1973	5	2543
+332	5	2543
+2107	5	2543
+2109	5	2543
+2412	5	2543
+2543	5	2543
+2543	5	2543
+2543	5	2543
+3053	5	2543
+3083	5	2543
+1328	6	2543
+1329	6	2543
+1785	6	2543
+1973	6	2543
+1973	6	2543
+1992	6	2543
+2107	6	2543
+2107	6	2543
+2109	6	2543
+2412	6	2543
+2543	6	2543
+2543	6	2543
+2543	6	2543
+2552	6	2543
+2673	6	2543
+2707	6	2543
+2770	6	2543
+

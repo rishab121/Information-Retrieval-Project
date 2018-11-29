@@ -1,0 +1,31 @@
+
+
+
+further evidence for the analysis of algorithms
+for the zero-one programming problem
+
+the purpose of this note is to report computational
+experience additional to that recently 
+summarized by gue et al with two algorithms for the
+zero-one linear programming problem  an error in 
+gues paper is corrected  the utility of one of
+the algorithms as a suboptimizer is indicated
+
+cacm january 1971
+
+proll l g
+
+operations research integer programming zero-one variables algorithms
+
+5.39 5.41
+
+ca710108 jb february 8 1978  1032 am
+
+2226	4	2226
+2226	4	2226
+1658	5	2226
+1666	5	2226
+2226	5	2226
+2226	5	2226
+2226	5	2226
+

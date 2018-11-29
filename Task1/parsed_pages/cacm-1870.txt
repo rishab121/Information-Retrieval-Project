@@ -1,0 +1,30 @@
+
+
+
+some techniques for using pseudorandom numbers in computer simulation
+
+an algorithm is described by which uniform pseudorandom
+integers may be used to construct binary 
+numbers in which the probability that each bit in the
+word is a 1-bit and can assume any desired parameter 
+value  techniques for making use of such numbers
+in simulation programming are described
+
+cacm july 1969
+
+donnelly t
+
+random numbers  simulation boolean algebra bit manipulation
+
+5.19 5.39
+
+ca690710 jb february 17 1978  854 am
+
+1794	4	1870
+1870	4	1870
+2122	4	1870
+1674	5	1870
+1870	5	1870
+1870	5	1870
+1870	5	1870
+

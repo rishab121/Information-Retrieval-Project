@@ -1,0 +1,51 @@
+
+
+
+an efficient data structure for the simulation event set
+
+recently algorithms have been presented for the
+realization of event scheduling routines suitable 
+for general purpose discrete event simulation systems
+ several exhibited a performance superior to that 
+of commonly used simple linked list algorithms  in this
+paper a new event scheduling algorithm is presented 
+which improves on two aspects of the best of the previously
+published algorithms  first the new algorithms 
+performance is quite insensitive to skewed distributions
+and second its worst-case complexity is o 
+n where n is the number of events in the set  furthermore
+tests conducted to estimate the average 
+complexity showed it to be nearly independent of n
+
+cacm august 1977
+
+franta w r
+maly k
+
+simulation time flow mechanisms event
+scanning mechanisms multilinked lists
+
+3.34 4.22 5.5 8.1
+
+ca770807 jb december 28 1977  715 am
+
+2844	4	2936
+2844	4	2936
+2936	4	2936
+2936	4	2936
+3051	4	2936
+3064	4	2936
+3064	4	2936
+3109	4	2936
+2742	5	2936
+2767	5	2936
+2936	5	2936
+2936	5	2936
+2936	5	2936
+3064	5	2936
+1846	6	2936
+1939	6	2936
+2742	6	2936
+2767	6	2936
+2936	6	2936
+

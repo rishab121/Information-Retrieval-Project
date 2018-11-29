@@ -1,0 +1,35 @@
+
+
+
+stable numerical methods for obtaining the chebyshev
+solution to an overdetermined system of 
+equations
+
+an implementation of stiefels exchange algorithm
+for determining a chebyshev solution to an 
+overdetermined system of linear equations is presented
+that uses gaussian lu decomposition with row 
+interchanges  the implementation is computationally more
+stable than those usually given in the literature 
+ a generalization of stiefels algorithm is developed which
+permits the occasional exchange of two equations 
+simultaneously
+
+cacm june 1968
+
+bartels r h
+golub g h
+
+chebyshev solutions overdetermined linear
+systems linear equationsexchange algorithm
+
+5.13 5.14 5.41
+
+ca680601 jb february 22 1978  450 pm
+
+1744	5	1744
+1744	5	1744
+1744	5	1744
+1905	5	1744
+1744	6	1744
+

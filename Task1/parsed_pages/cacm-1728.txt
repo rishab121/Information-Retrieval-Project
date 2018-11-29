@@ -1,0 +1,116 @@
+
+
+
+further experimental data on the behavior
+of programs in a paging environment
+
+results are summarized from an empirical study
+directed at the measurement of program operating 
+behavior in those multiprogramming systems in which
+programs are organized into fixed length pages  
+the data collected from the interpretive execution of
+a number of paged programs are used to describe 
+the frequency of page faults ie the frequency of those
+instants at which an executing program requires 
+a page of data or instructions not in main core memory
+ these data are used also for the evaluation 
+of page replacement algorithms and for assessing the
+effects on performance of changes in the amount 
+of storage allocated to executing programs
+
+cacm july 1968
+
+coffman e g
+varian l c
+
+paging systems paging dynamic program behavior program
+behavior virtual memory systems single-level 
+storage one-level storage operating system simulation
+operating systems supervisor simulation machine 
+language program interpretation
+
+4.13 4.32 4.39 4.9
+
+ca680701 jb february 22 1978  313 pm
+
+1646	4	1728
+1668	4	1728
+1669	4	1728
+1676	4	1728
+1679	4	1728
+1682	4	1728
+1728	4	1728
+1728	4	1728
+1728	4	1728
+1860	4	1728
+1973	4	1728
+2018	4	1728
+2032	4	1728
+2033	4	1728
+2107	4	1728
+2109	4	1728
+2203	4	1728
+2251	4	1728
+2359	4	1728
+2524	4	1728
+2543	4	1728
+2552	4	1728
+2559	4	1728
+2859	4	1728
+2991	4	1728
+3053	4	1728
+1525	5	1728
+1647	5	1728
+1728	5	1728
+1728	5	1728
+1728	5	1728
+1785	5	1728
+1892	5	1728
+1924	5	1728
+2095	5	1728
+2218	5	1728
+2297	5	1728
+2374	5	1728
+2526	5	1728
+2667	5	1728
+2668	5	1728
+2862	5	1728
+2863	5	1728
+1380	6	1728
+1526	6	1728
+1572	6	1728
+1572	6	1728
+1604	6	1728
+1604	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1728	6	1728
+1751	6	1728
+1751	6	1728
+1751	6	1728
+1751	6	1728
+1754	6	1728
+1754	6	1728
+1752	6	1728
+1752	6	1728
+1761	6	1728
+1810	6	1728
+1827	6	1728
+1827	6	1728
+1879	6	1728
+1879	6	1728
+1901	6	1728
+1901	6	1728
+2095	6	1728
+2373	6	1728
+2677	6	1728
+2863	6	1728
+

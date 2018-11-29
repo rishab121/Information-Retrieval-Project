@@ -1,0 +1,20 @@
+
+
+
+an undergraduate curriculum in numerical analysis
+
+cacm april 1964
+
+forsythe g e
+
+ca640404 jb march 10 1978  151 am
+
+1104	5	1104
+1104	5	1104
+1104	5	1104
+1205	5	1104
+1100	6	1104
+1104	6	1104
+1107	6	1104
+68	6	1104
+

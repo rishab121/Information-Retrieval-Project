@@ -1,0 +1,46 @@
+
+
+
+one-line random number generators and their use in combinations
+
+some one-line random number generators ie
+generators requiring a single fortran instruction 
+are discussed and some short fortran programs which
+mix several such generators are described  the 
+aim is to provide methods for incorporating random number
+generators directly in fortran programs by 
+means of a few in-line instructions  the advantages are
+speed avoiding linkage to and from a subroutine 
+convenience and versatility  anyone wishing to experiment
+with generators either using congruential 
+generators by themselves or mixing several generators
+to provide a composite with potentially better 
+statistical properties than the library generators
+currently available may wish to consider some of 
+the simple fortran program discussed here 
+
+cacm november 1968
+
+marsaglia g
+bray t a
+
+random number generation monte carlo simulation
+
+5.5
+
+ca681105 jb february 21 1978  254 pm
+
+1674	4	1674
+1691	4	1674
+1293	5	1674
+1674	5	1674
+1674	5	1674
+1674	5	1674
+1794	5	1674
+1870	5	1674
+2122	5	1674
+1674	6	1674
+1674	6	1674
+1674	6	1674
+1691	6	1674
+

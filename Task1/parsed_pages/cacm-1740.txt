@@ -1,0 +1,37 @@
+
+
+
+an inexpensive braille terminal device
+
+the active use of time-shared facilities for
+blind programmers requires a braille terminal 
+system  details are given for the construction of a
+brailler from a model 33 teletype by modifying the 
+print head and increasing the resiliency of the platen
+ a description of the programming needed to drive 
+the brailler is presented
+
+cacm june 1968
+
+anderson g b
+rogers d w
+
+blind communication blind programming aid braille
+braille computer communication braille output 
+braille teletype braille terminal braille type head
+embosser tactile computer communication tactile 
+teletype tactile terminal
+
+4.41 6.35
+
+ca680605 jb february 22 1978  423 pm
+
+1264	4	1740
+1740	4	1740
+1099	5	1740
+1740	5	1740
+1740	5	1740
+1740	5	1740
+2279	5	1740
+1740	6	1740
+

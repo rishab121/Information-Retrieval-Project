@@ -1,0 +1,37 @@
+
+
+
+a method for composing simple traditional music by computer
+
+a method is described for composing musical
+rounds by computer  this method uses some music 
+theory plus additional heuristics  fundamental to the
+method is a set of productions together with sets 
+of applicability rules and weight rules which operate
+on the productions deciding when and to what extent 
+they are available for use  several rounds generated
+by the computer implementation of the method are 
+presented  generally the resultant music sounds mediocre
+to the professional although usually pleasing 
+to the layman  it appears that full-blown music theory
+is not needed for rounds-all the hardware required 
+for structural levels is not necessary for these pieces
+ the author has tried to address both musicians 
+and computer scientists
+
+cacm november 1974
+
+rader g m
+
+artificial intelligence heuristic programming
+models of cognitive processes computer music 
+computer composition music theory formal languages probabilistic grammars
+
+3.44 3.65 5.23
+
+ca741104 jb january 16 1978  1035 am
+
+2580	5	2580
+2580	5	2580
+2580	5	2580
+

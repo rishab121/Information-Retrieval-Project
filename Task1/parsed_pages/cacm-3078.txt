@@ -1,0 +1,37 @@
+
+
+
+analysis of the availability of computer
+systems using computer aided algebra
+
+analytical results related to the availability
+of a computer system constructed of unreliable 
+processors are presented in this paper  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques  a major purpose of
+this paper is to demonstrate that the difficulties 
+of obtaining analytical solutions to markov processes
+can be considerably reduced by the application 
+of symbol manipulation programs  since many physical
+systems can be modeled by markov and semi-markov 
+processes the potential range of application of these techniques
+is much wider than the problem of availability 
+analyzed here
+
+cacm july 1978
+
+chattergy r
+pooch u
+
+computer-aided algebra symbol manipulation markov
+process reliability redundant structures 
+on-line computer system
+
+3.82 5.5 5.7 8.1 8.3
+
+ca780710 dh february 7 1979 337 pm
+
+3078	5	3078
+3078	5	3078
+3078	5	3078
+

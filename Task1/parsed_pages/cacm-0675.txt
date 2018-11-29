@@ -1,0 +1,38 @@
+
+
+
+coding clinical laboratory data for automatic storage and retrieval
+
+a series of clinical laboratory codes have been
+developed to accept and store urin analysis blood 
+chemistry and hematology test results for automatic
+data processing  the codes although constructed 
+as part of a computerized hospital simulation have been
+able to handle the results of every laboratory 
+test that they have encountered  the unique feature of
+these codes is that they can accept conventionally 
+recorded qualitative as well as quantitative test results
+ consequently clinical test results need 
+not be arbitrarily stratified standardized or altered
+in any way to be coded  this paper describes 
+how the codes were developed and presents a listing of the
+urin analysis codes  five criteria used in developing 
+the codes are outlined and the problem of multiple-synonymous
+terminology is discussed  a solution to 
+the problem is described  flexible computer-produced
+composite laboratory reports are also discussed 
+along with reproduction of such a report the paper concludes
+that even though many problems remain unsolved 
+the next ten years could witness the emergence of a practical
+automated information system in the laboratory
+
+cacm november 1963
+
+gross l d
+
+ca631117 jb march 13 1978  326 pm
+
+675	5	675
+675	5	675
+675	5	675
+

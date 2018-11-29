@@ -1,0 +1,46 @@
+
+
+
+professional computer work for the blind
+
+developments in computer technology have opened
+new professional opportunities for the intelligent 
+blind  since there are few if any occupations in which the
+blind can participate without serious disadvantage 
+the opportunities offered them to gain entrance into
+various occupations through computer use including 
+that of programmer is important for future rehabilitation
+planning also of immediate interest is the 
+fact that the blind may be especially suited for programming
+work  because of intense training in and 
+constant experience with locating objects in the unseen
+environment and also because of superbly trained 
+memory the blind brings to the work of programming skills
+which the sighted has had little need to acquire 
+ these qualifications should result in fewer debugging
+problems and make the blind a valuable addition 
+to any systems group  before the blind could become a
+serious professional a number of aids and techniques 
+had to be developed that can mediate between machines
+and programmer  this paper describes the techniques 
+and aids which were designed by the staff of the medical
+computing center of the university of cincinnati 
+college of medicine
+
+cacm april 1964
+
+sterling t d
+lichstein m 
+scarpino f
+stuebing d
+
+ca640409 jb march 10 1978  146 am
+
+1099	5	1099
+1099	5	1099
+1099	5	1099
+1264	5	1099
+1740	5	1099
+1099	6	1099
+1099	6	1099
+

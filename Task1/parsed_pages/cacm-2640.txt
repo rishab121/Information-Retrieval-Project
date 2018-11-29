@@ -1,0 +1,19 @@
+
+
+
+modified havie integration algorithm r400
+
+cacm june 1974
+
+piessens r
+
+ca740606 jb january 17 1978  304 pm
+
+2350	4	2640
+2354	4	2640
+2640	4	2640
+2355	5	2640
+2640	5	2640
+2640	5	2640
+2640	5	2640
+

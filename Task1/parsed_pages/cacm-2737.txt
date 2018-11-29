@@ -1,0 +1,38 @@
+
+
+
+determining the minimum-area encasing
+rectangle for an arbitrary closed curve
+
+this paper describes a method for finding the
+rectangle of minimum area in which a given arbitrary 
+plane curve can be contained  the method is of interest
+in certain packing and optimum layout problems 
+ it consists of first determining the minimal-perimeter
+convex polygon that encloses the given curve 
+and then selecting the rectangle of minimum area capable
+of containing this polygon  three theorems 
+are introduced to show that one side of the minimum-area
+rectangle must be colinear with an edge of the 
+enclosed polygon and that the minimum-area encasing rectangle
+for the convex polygon is also the minimum-area 
+rectangle for the curve
+
+cacm july 1975
+
+freeman h
+shapira r
+
+enclosed curve optimum layout optimum
+packing minimum-area encasing rectangle
+
+5.19 5.49
+
+ca750705 jb january 9 1978  1008 am
+
+2737	5	2737
+2737	5	2737
+2737	5	2737
+2997	5	2737
+2737	6	2737
+

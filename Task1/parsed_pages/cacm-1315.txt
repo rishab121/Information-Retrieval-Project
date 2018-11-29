@@ -1,0 +1,37 @@
+
+
+
+automation of the radioisotope accountability system
+
+the radioisotope service of the veterans administration
+hospital omaha nebraska used a manual 
+system of radioisotope accountability for three years  the
+procedure which was satisfactory but time-consuming 
+was converted from manual to a fully automated computer
+system in january 1963  the program for purchased 
+radioisotopes is written in format fortran for the ibm
+1620 computer  a second program for maintaining 
+accountability for reactor-created radioisotopes is written
+ in the forcom programming language  a minimum 
+amount of bookkeeping is required by the reactor operating
+staff  the united states atomic energy commission 
+regulations specify that records be kept  this system
+provides detailed records for each container of 
+radioactive material purchased and/or created in the triga
+reactor indicating the amounts received used 
+and/or transferred to the health physicist for disposal
+ consolidated records contain total amounts 
+received used and/or disposed of for any specified period
+of time  purchased radioisotopes are reported 
+in millicuries reactor-created radioisotopes in microcuries
+
+cacm february 1965
+
+lahners e l
+
+ca650209 jb march 7 1978  1110 pm
+
+1315	5	1315
+1315	5	1315
+1315	5	1315
+

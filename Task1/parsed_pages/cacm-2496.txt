@@ -1,0 +1,40 @@
+
+
+
+on the near-optimality of the shortest-latency-time-first
+drum scheduling discipline
+
+for computer systems in which it is practical
+to determine the instantaneous drum position 
+a popular discipline for determining the sequence in which
+the records are to be accessed is the so-called 
+shortest-latency-time-first sltf discipline  when
+a collection of varying-length records is to be 
+accessed from specified drum positions it is known that
+the sltf discipline does not necessarily minimize 
+the drum latency time  however we show that the total
+time to access the entire collection for any 
+sltf schedule is never as much as a drum revolution
+longer than a minimum latency schedule
+
+cacm june 1973
+
+stone h s
+fuller s  h
+
+drum scheduling shortest-access-time-first minimal
+latency scheduling shortest-latency-time-first
+
+4.31 4.41 6.35
+
+ca730604 jb january 23 1978  312 pm
+
+2496	5	2496
+2496	5	2496
+2496	5	2496
+2628	5	2496
+3097	5	2496
+2375	6	2496
+2496	6	2496
+2496	6	2496
+

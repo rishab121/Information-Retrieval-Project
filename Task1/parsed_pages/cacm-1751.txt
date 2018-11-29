@@ -1,0 +1,152 @@
+
+
+
+the working set model for program behavior
+
+probably the most basic reason behind the absence
+of a general treatment of resource allocation 
+in modern computer systems is an adequate model for
+program behavior  in this paper a new model the 
+working set model is developed the working set
+of pages associated with a process defined to be 
+the collection of its most recently used pages provides
+knowledge vital to the dynamic management of 
+paged memories  process and working set are shown to
+be manifestations of the same ongoing computational 
+activity then processor demand and memory demand
+are defined and resource allocation is formulated 
+as the problem of balancing demands against available equipment
+
+cacm may 1968
+
+denning p j
+
+general operating system concepts multiprocessing
+multiprogramming operating systems program 
+behavior program models resource allocation scheduling storage allocation
+
+4.30 4.32
+
+ca680505 jb february 23 1978  933 am
+
+1751	4	1751
+1892	4	1751
+2128	4	1751
+2218	4	1751
+1751	5	1751
+1751	5	1751
+1751	5	1751
+1752	5	1751
+1892	5	1751
+1901	5	1751
+2085	5	1751
+2095	5	1751
+2218	5	1751
+2277	5	1751
+2319	5	1751
+2329	5	1751
+2358	5	1751
+2373	5	1751
+2380	5	1751
+2434	5	1751
+2499	5	1751
+2501	5	1751
+2582	5	1751
+2669	5	1751
+2828	5	1751
+2863	5	1751
+2881	5	1751
+2928	5	1751
+2996	5	1751
+3006	5	1751
+3067	5	1751
+168	6	1751
+185	6	1751
+1380	6	1751
+1408	6	1751
+1410	6	1751
+1502	6	1751
+1526	6	1751
+1572	6	1751
+1572	6	1751
+1719	6	1751
+1728	6	1751
+1728	6	1751
+1728	6	1751
+1728	6	1751
+1746	6	1751
+1749	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1751	6	1751
+1753	6	1751
+1754	6	1751
+1754	6	1751
+1754	6	1751
+1752	6	1751
+1752	6	1751
+1810	6	1751
+1810	6	1751
+1879	6	1751
+1879	6	1751
+1884	6	1751
+1884	6	1751
+274	6	1751
+1901	6	1751
+1901	6	1751
+1924	6	1751
+1951	6	1751
+2004	6	1751
+2016	6	1751
+2017	6	1751
+2017	6	1751
+2017	6	1751
+2080	6	1751
+2095	6	1751
+2130	6	1751
+2188	6	1751
+2203	6	1751
+2204	6	1751
+2277	6	1751
+2358	6	1751
+2374	6	1751
+2374	6	1751
+2374	6	1751
+2373	6	1751
+2373	6	1751
+2373	6	1751
+2373	6	1751
+2380	6	1751
+2522	6	1751
+2569	6	1751
+2595	6	1751
+2595	6	1751
+2595	6	1751
+2682	6	1751
+2751	6	1751
+2841	6	1751
+2863	6	1751
+2863	6	1751
+2864	6	1751
+3006	6	1751
+

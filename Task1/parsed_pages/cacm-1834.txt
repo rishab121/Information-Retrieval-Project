@@ -1,0 +1,87 @@
+
+
+
+an axiomatic basis for computer programming
+
+in this paper an attempt is made to explore
+the logical foundations of computer programming 
+by use of techniques which were first applied in the
+study of geometry and have later been extended to 
+other branches of mathematics  this involves the elucidation
+of sets of axioms and rules of inference 
+which can be used in proofs of the properties of computer
+programs  examples are given of such axioms 
+and rules and a formal proof of a simple theorem is
+displayed  finally it is argued that important 
+advantages both theoretical and practical may
+follow from a pursuance of these topics
+
+cacm october 1969
+
+hoare c a r
+
+axiomatic method theory of programming proofs of
+programs formal language definition programming 
+language design machine-independent programming program documentation
+
+4.0 4.21 4.22 5.20 5.21 5.23 5.24
+
+ca691012 jb february 15 1978  148 pm
+
+1834	5	1834
+1834	5	1834
+1834	5	1834
+2021	5	1834
+2222	5	1834
+2227	5	1834
+2315	5	1834
+2326	5	1834
+2470	5	1834
+2732	5	1834
+2865	5	1834
+2896	5	1834
+2943	5	1834
+3014	5	1834
+3068	5	1834
+3077	5	1834
+3143	5	1834
+196	6	1834
+970	6	1834
+1303	6	1834
+1303	6	1834
+1323	6	1834
+1348	6	1834
+1469	6	1834
+1800	6	1834
+1818	6	1834
+210	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1987	6	1834
+307	6	1834
+2042	6	1834
+2060	6	1834
+2192	6	1834
+2227	6	1834
+2264	6	1834
+2457	6	1834
+2597	6	1834
+2723	6	1834
+2732	6	1834
+2869	6	1834
+2981	6	1834
+3186	6	1834
+728	6	1834
+

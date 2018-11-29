@@ -1,0 +1,77 @@
+
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains  a 
+system view it taken rather than focusing just on language
+features since algorithms must be not only 
+coded in a language form but debugged modified made
+efficient and run on data  because of this general 
+frameworkthe requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications  three aspects of programming
+systems are highlighted good interactive 
+facilities programmable control structures and sophisticated
+data communication mechanisms  interactive 
+features are described to facilitate program composition
+entry testing debugging editing optimization 
+and packaging  implementation of a generalized environment
+structure model specified would allow programming 
+of various control regimes including multiprocesses
+coroutines and backtracking  alternative methods 
+of procedure invocation required include invocation
+by pattern and by monitoring condition  the  need 
+for extended data forms storage management and extensibility
+are stressed as is the duality of data 
+retrieval and function evaluation  syntax directed
+input and output of data would facilitate use of 
+complex data stores
+
+cacm july 1972
+
+bobrow d g
+
+list processing programming languages design of
+programming languages interactive systems control 
+structures data structures programming primitives
+semantics advanced programming systems
+
+1.3 4.2 4.22 4.3 4.32 5.23 5.24
+
+ca720714 jb january 30 1978  130 pm
+
+1570	4	2314
+1708	4	2314
+1781	4	2314
+1826	4	2314
+1860	4	2314
+1945	4	2314
+2156	4	2314
+2168	4	2314
+2249	4	2314
+2314	4	2314
+2314	4	2314
+2314	4	2314
+2314	4	2314
+2317	4	2314
+2719	4	2314
+2736	4	2314
+2833	4	2314
+2842	4	2314
+1098	5	2314
+1626	5	2314
+2082	5	2314
+2148	5	2314
+2314	5	2314
+2314	5	2314
+2314	5	2314
+2438	5	2314
+1826	6	2314
+2314	6	2314
+

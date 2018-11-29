@@ -1,0 +1,49 @@
+
+
+
+a deductive question-answer for natural language inference
+
+the question-answering aspects of the protosynthex iii pro
+totype language processing system are described and exemplified in
+detail  the system is written in lisp 1.5 and operates on the q-32
+time-sharing system  the systems data structures and their semantic
+organization the deductive question-answering formalism of
+relational properties and complex-relation-forming operators and
+the question-answering procedures which employ these features in
+their operation are all described and illustrated  examples of the
+systems performance and of the limitations of its question-answering 
+capability are presented and discussed  it is shown that the
+use of semantic information in deductive question answering greatly 
+facilitates the process and that a top-down procedure which works
+from question to answer enables effective use to be made of this
+information  it is concluded that the development of protosynthex
+iii into a practically useful system to work with large data
+bases is possible but will require changes in both the data
+structures and the algorithms used for question answering
+
+cacm march 1970
+
+schwarcz r m
+burger j f
+simmons r f
+
+question answering natural language protosynthex iii lisp
+semantics artificial intelligence computational
+linguistics language processing fact retrieval
+
+3.42 3.61
+
+ca700306 jb february 13 1978  430 pm
+
+2092	4	2092
+2127	4	2092
+1527	5	2092
+2092	5	2092
+2092	5	2092
+2092	5	2092
+2396	5	2092
+1487	6	2092
+1856	6	2092
+2092	6	2092
+2127	6	2092
+

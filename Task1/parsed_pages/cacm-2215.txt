@@ -1,0 +1,48 @@
+
+
+
+application of game tree searching techniques
+to sequential pattern recognition
+
+a sequential pattern recognition spr procedure
+does not test all the features of a pattern 
+at once  instead it selects a feature to be tested  after
+receiving the result of that test the procedure 
+either classifies the unknown pattern or selects another
+feature to be tested etc  medical diagnosis 
+is an example of spr  in this paper the authors suggest
+that spr be viewed as a one-person game played 
+against nature chance  virtually all the powerful techniques
+developed for searching two-person strictly 
+competitive game trees can easily be incorporated either
+directly or by analogy into spr procedures 
+ in particular one can incorporate the mini average
+backing-up procedure and the gamma procedure 
+which are the analogues of the minimax backing-up procedure
+and the alpha-beta procedure respectively 
+ some computer simulated experiments in character recognition
+are presented  the results indicate that 
+the approach is promising
+
+cacm february 1971
+
+slagle j r
+lee r c t
+
+sequential pattern recognition game tree searching
+game against nature gamma procedure mini average 
+backing-up procedure dynamic programming branch-and-bound
+approach optimal solution
+
+3.60 3.63 5.42
+
+ca710206 jb february 8 1978  856 am
+
+2215	4	2215
+2096	5	2215
+2215	5	2215
+2215	5	2215
+2215	5	2215
+3132	5	2215
+2215	6	2215
+

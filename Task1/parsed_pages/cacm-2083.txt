@@ -1,0 +1,80 @@
+
+
+
+creation and control of internal data bases
+under a fortran programming environment
+
+a method is described for the definition of a users common structure
+and the automatic generation of the necessary common dimension equivalence
+and type declarations for each of the users routines  the definition
+for the common is contained in an easy to modify form thus
+allowing the control of general communications of data between routines
+the described system has been implemented on the ibm 7094
+cdc 6000 series and the ibm 360  the method has proved to be invaluable
+for the definition and control of common in many large-scale programs
+
+cacm april 1970
+
+desalvio a j
+purdy j g
+rau j
+
+data base fortran common common equivalencing
+subroutine communication data communication
+
+3.73 4.12 4.43
+
+ca700401 jb february 13 1978  334 pm
+
+1086	4	2083
+1132	4	2083
+1234	4	2083
+1263	4	2083
+1265	4	2083
+1270	4	2083
+1323	4	2083
+1358	4	2083
+1379	4	2083
+1380	4	2083
+1453	4	2083
+1464	4	2083
+1484	4	2083
+1491	4	2083
+1498	4	2083
+1613	4	2083
+1614	4	2083
+1781	4	2083
+1825	4	2083
+1845	4	2083
+1860	4	2083
+1900	4	2083
+2083	4	2083
+2083	4	2083
+2154	4	2083
+2178	4	2083
+2179	4	2083
+2252	4	2083
+2270	4	2083
+2325	4	2083
+2341	4	2083
+2546	4	2083
+2645	4	2083
+2652	4	2083
+2684	4	2083
+2693	4	2083
+2842	4	2083
+2929	4	2083
+2934	4	2083
+3069	4	2083
+669	4	2083
+679	4	2083
+691	4	2083
+761	4	2083
+949	4	2083
+989	4	2083
+988	5	2083
+2083	5	2083
+2083	5	2083
+2083	5	2083
+3184	5	2083
+

@@ -1,0 +1,34 @@
+
+
+
+integral equations of immunology
+
+the inversion of a particular integral equation
+of the first fredholm kind is the basic problem 
+considered  the strategy which yielded success consisted
+of three essential points 1 fit the known 
+experimental data by a curve with properties which derive
+from properties of the as yet unknown function 
+2 stabilize the computation for the unknown function
+by using singular value decomposition 3 constrain 
+the unknown function approximation since it represents
+a probability distribution to be nonnegative 
+ a number of test cases are presented one set of actual
+experimental data is analyzed with the procedures 
+presented
+
+cacm october 1972
+
+hanson r j
+
+integral equations of the first kind nonnegative
+constraints singular value analysis
+
+3.10 5.14 5.18 5.41
+
+ca721003 jb january 27 1978  337 pm
+
+2275	5	2275
+2275	5	2275
+2275	5	2275
+

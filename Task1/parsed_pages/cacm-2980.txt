@@ -1,0 +1,34 @@
+
+
+
+the editing  of picture segmentations using local analysis of graphs
+
+a major problem in picture processing is the
+elimination of the large number of spurious regions 
+that result from an initial segmentation by region growing
+techniques  such regions have been eliminated 
+either on the basis of semantic information or on the
+basis of size and contrast  a scheme is presented 
+which performs eliminations on the basis of local properties
+of the region adjacency graph  the scheme 
+is based on definitions of graph properties which are
+satisfied when a spurious region is present then 
+editing is equivalent to fast graph operations  a number of examples are shown
+
+cacm april 1977
+
+tanimoto s l
+pavlidis t
+
+picture processing pattern recognition segmentation region editing 
+
+3.63
+
+ca770402 jb december 29 1977  622 am
+
+2980	4	2980
+2523	5	2980
+2980	5	2980
+2980	5	2980
+2980	5	2980
+

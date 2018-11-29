@@ -1,0 +1,15 @@
+
+
+
+a new method of computation of square roots without using division
+
+cacm february 1960
+
+traub j f
+
+ca600212 jb march 22 1978  208 pm
+
+220	5	220
+220	5	220
+220	5	220
+

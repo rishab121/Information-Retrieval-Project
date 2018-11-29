@@ -1,0 +1,66 @@
+
+
+
+dynamic verification of operating system decisions
+
+dynamic verification of a decision implies
+that every time the decision is made there is a 
+consistency check performed on the decision using independent
+hardware and software  the dynamic verification 
+of operating system decisions is used on the prime system
+being designed and constructed at the university 
+of california berkeley  prime is an experimental time-sharing
+which is to have the properties of continuous 
+availability data privacy and cost effectiveness
+ the technique of dynamic verification allows the 
+construction of an operating system which does not make certain
+decisions improperly even in the presence 
+of a single hardware or software fault  furthermore
+multiple faults lead to unreliable operation only 
+if the faults happen to reinforce each other  on prime
+dynamic verification is used to ensure that 
+one users information cannot become available to another
+user gratuitously even in the presence of a 
+single hardware or software faultthe amount of additional
+hardware and software required for dynamic 
+verification can be modest
+
+cacm november 1973
+
+fabry r s
+
+operating systems data security fault tolerance
+software reliability data privacy program 
+verification modular computer systems
+
+4.32
+
+ca731102 jb january 20 1978  1056 am
+
+1828	4	2424
+1854	4	2424
+1877	4	2424
+1960	4	2424
+2150	4	2424
+2317	4	2424
+2319	4	2424
+2377	4	2424
+2342	4	2424
+2376	4	2424
+2379	4	2424
+2424	4	2424
+2482	4	2424
+2618	4	2424
+2632	4	2424
+2704	4	2424
+2723	4	2424
+2738	4	2424
+2740	4	2424
+2741	4	2424
+2867	4	2424
+3184	4	2424
+1749	5	2424
+2424	5	2424
+2424	5	2424
+2424	5	2424
+

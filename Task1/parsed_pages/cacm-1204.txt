@@ -1,0 +1,15 @@
+
+
+
+character structure and character parity sense for
+serial-by-bit data communication in the american 
+standard code for information interchange proposed american standard
+
+cacm september 1965
+
+ca650902 jb march 6 1978  741 pm
+
+1204	5	1204
+1204	5	1204
+1204	5	1204
+

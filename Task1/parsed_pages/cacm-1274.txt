@@ -1,0 +1,26 @@
+
+
+
+on the numerical solution of an n-point boundary
+value problem for linear ordinary differential 
+equations
+
+a method for the numerical solution of then-point
+boundary value problem for homogeneous linear 
+ordinary differential equations is developed  the
+method requires two runge-kutta integrations over 
+the interval under consideration and the solution of
+a linear system of equations with n-1 unknowns
+
+cacm april 1965
+
+day j t
+
+ca650417 jb march 7 1978  330 pm
+
+1274	4	1274
+1147	5	1274
+1274	5	1274
+1274	5	1274
+1274	5	1274
+

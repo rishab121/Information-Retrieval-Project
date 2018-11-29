@@ -1,0 +1,31 @@
+
+
+
+1401 compatibility feature on the ibm system/360 model 30
+
+the second generation of stored-program computers
+of which ibm 1400 series was a part brought 
+edp into the mass market for the first time on a large
+scale  as this era unfolded rapid changes in 
+technology led to rapid obsolescence of data processing
+equipment  program written for a particular 
+system required tedious conversion as incompatible new
+machines came into use  the ibm system/360 has 
+been designed with the conversion problem specifically
+in mind  one of the conversion aids available 
+on the model 30 is the 1401 compatibility feature  this
+feature in conjunction with other aids permits 
+a smooth and inexpensive transition to optimum use of the new system
+
+cacm december 1965
+
+mccormack m a
+schansman t t
+womack k k
+
+ca651208 jb march 6 1978  355 pm
+
+1161	5	1161
+1161	5	1161
+1161	5	1161
+

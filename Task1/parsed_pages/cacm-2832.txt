@@ -1,0 +1,31 @@
+
+
+
+faster retrieval from context trees corrigendum
+
+context trees provide a convenient way of
+storing data which is to be viewed as a hierarchy 
+of contexts  this note presents an algorithm which improves
+on previous context tree retrieval algorithms 
+it is based on the observation that in typical uses context
+changes are infrequent relative to retrievals 
+so that data can be cached to speed up retrieval  a retrieval
+is started from the position of the previous 
+retrieval and auxiliary structures are built up to make
+the search rapid  algorithms for addition and 
+deletion of data and for garbage collection are outlined
+
+cacm september 1976
+
+wegbreit b
+
+context trees frame problem variable bindings data structures
+
+3.69 3.74 4.10
+
+ca760907 jb january 4 1978  849 am
+
+2832	5	2832
+2832	5	2832
+2832	5	2832
+

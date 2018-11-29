@@ -1,0 +1,23 @@
+
+
+
+neliac-a dialect of algol
+
+cacm august 1960
+
+huskey h d
+halstead m h
+
+ca600801 jb march 20 1978  903 pm
+
+123	5	165
+165	5	165
+165	5	165
+165	5	165
+637	5	165
+1	6	165
+123	6	165
+165	6	165
+165	6	165
+196	6	165
+

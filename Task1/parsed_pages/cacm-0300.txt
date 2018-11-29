@@ -1,0 +1,23 @@
+
+
+
+cobol a sample problem
+
+a simplified merchandise control problem has
+been chosen for presenting cobol to users and 
+potential users of computing systems  a mythical department
+store e language bros inc is programming 
+in the cobol language one of the many runs on its computer
+
+cacm august 1961
+
+mackinson t n
+
+ca610804 jb march 16 1978  1012 pm
+
+300	5	300
+300	5	300
+300	5	300
+638	5	300
+300	6	300
+

@@ -1,0 +1,19 @@
+
+
+
+elementary functions by continued fractions algorithm 229 b1
+
+cacm december 1969
+
+bray t a
+
+continued factions pade table
+
+5.19
+
+ca691213 jb february 15 1978  209 pm
+
+1799	5	1799
+1799	5	1799
+1799	5	1799
+

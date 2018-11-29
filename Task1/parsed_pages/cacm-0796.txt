@@ -1,0 +1,44 @@
+
+
+
+sabrag a time-sharing low-cost computer
+
+the serial sabrac computer designed and built
+in the scientific department of the israel defense 
+ministry has a 5000-location magnetic drum main store
+ to avoid a need to resort to optimum programming 
+techniques and to increase its overall efficiency the
+computer has also been given a 224-word ferrite 
+core store from which the program is obeyed  transfers
+between the core and drum stores and to and from 
+the twin paper-tape input and output channels are all
+available autonomously concurrently time-shared 
+ multiplication and division orders are also autonomous
+so that the machine may be executing up to three 
+orders simultaneously  all functions naturally are interlocked
+ a number of other advanced orders and 
+facilities are also incorporatedn particular an
+execute order permits a temporary jump for up 
+to four orders and a second modifier register permits double
+modification in general and relative addressing 
+of subroutines in particular  thus the overall effective
+speed of the machine is muchhigher than its 
+basic specification would lead one to expect and its
+design indicates one way in which the concepts of 
+time sharing may be incorporated in low-cost computers
+
+cacm august 1963
+
+lehman m
+netter z
+eshed r
+
+ca630802 jb march 13 1978  854 pm
+
+3193	4	796
+796	4	796
+491	5	796
+796	5	796
+796	5	796
+796	5	796
+

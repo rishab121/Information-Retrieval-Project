@@ -1,0 +1,34 @@
+
+
+
+progressive acyclic digraphs-a tool for database integrity
+
+a progressive acyclic digraph pad algorithm accepts are requests and
+maintains a graph in an acyclic state  when a request creates a cycle
+nodes are detached until the new are can be entered acyclically
+this process is important in certain areas of database implementation
+in which there are constraints on the permissible sequences
+of actions two pad algorithms are presented one uses a simple
+path matrix representation and the other uses a list with an
+artificial gradient  experiments suggest that for large n the second
+is considerably faster though both are asymptotically onr
+where n is the number of nodes and r is the expected number
+of nodes reachable along paths from any given node
+
+cacm september 1979
+
+hansen w
+
+list processing data structures topological sort
+acyclic digraph database integrity network deadlock
+
+4.34 5.32 4.33
+
+ca790905 db january 14 1980  1156 am
+
+3164	4	3164
+1712	5	3164
+3164	5	3164
+3164	5	3164
+3164	5	3164
+

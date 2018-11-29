@@ -1,0 +1,36 @@
+
+
+
+global optimization by suppression of partial redundancies
+
+the elimination of redundant computations and the moving of invariant
+computations out of loops are often done separately with invariants 
+moved outward loop by loop  we propose to do both at once and
+to move each expression directly to the entrance of the outermost
+loop in which it is invariant  this is done by solving a more
+general problem ie the elimination of computations performed
+twice on a given execution path  such computations are termed partially
+redundant  moreover the algorithm does not require any graphical
+information or restrictions on the shape of the program graph
+testing this algorithm has shown that its execution cost is nearly
+linear with the size of the program and that it leads
+to a smaller optimizer that requires less execution time
+
+cacm february 1979
+
+morel e
+renvoise c
+
+optimizer optimization compiler compilation
+redundancy elimination invariant
+ computation elimination partial redundancy
+data flow analysis boolean systems
+
+4.12 5.21 5.24
+
+ca790204 dh april 10 1979  419 pm
+
+3125	5	3125
+3125	5	3125
+3125	5	3125
+

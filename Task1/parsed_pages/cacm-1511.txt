@@ -1,0 +1,19 @@
+
+
+
+the damped taylors series method for minimizing
+a sum of squares and for solving systems of 
+nonlinear equations
+
+cacm november 1967
+
+spath h
+
+ca671107b jb march 23 1978  217 pm
+
+1511	5	1511
+1511	5	1511
+1511	5	1511
+1820	5	1511
+1511	6	1511
+

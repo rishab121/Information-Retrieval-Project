@@ -1,0 +1,44 @@
+
+
+
+efficient generation of the binary
+reflected gray code and its applications
+
+algorithms are presented to generate the n-bit
+binary reflected gray code and codewords of 
+fixed weight in that code  both algorithms are efficient
+in that the time required to generate the next 
+element from the current one is constant  applications
+to the generation of the combinations of n things
+taken k at a time the compositions of integers and
+the permutations of a multiset are discussed
+
+cacm september 1976
+
+bitner j r
+ehrlich g
+reingold e m
+
+gray code combinations subsets compositions combinatorial computing
+
+5.39
+
+ca760905 jb january 4 1978  914 am
+
+2466	4	2834
+2834	4	2834
+2834	4	2834
+2834	4	2834
+2834	4	2834
+2884	4	2834
+3115	4	2834
+3115	4	2834
+3115	4	2834
+969	5	2834
+2045	5	2834
+2417	5	2834
+2466	5	2834
+2834	5	2834
+2834	5	2834
+2834	5	2834
+

@@ -1,0 +1,56 @@
+
+
+
+structured multiprogramming
+
+this paper presents a proposal for structured
+representation of multiprogramming in a high 
+level language  the notation used explicitly associates
+a data structure shared by concurrent processes 
+with operations defined on it  this clarifies the meaning
+of programs and permits a large class of time-dependent 
+errors to be caught at compile time  a combination of
+critical regions and event variables enables the 
+programmer to control scheduling of resources among
+competing processes to any degree desired  these 
+concepts are sufficiently safe to use not only within
+operating systems but also within user programs
+
+cacm july 1972
+
+hansen p b
+
+structured multiprogramming programming languages
+operating systems concurrent processes shared 
+data mutual exclusion critical regions process
+communication synchronizing events
+
+4.2 4.3
+
+ca720708 jb january 30 1978  239 pm
+
+2319	4	2320
+2378	4	2320
+2320	4	2320
+2320	4	2320
+2597	4	2320
+2632	4	2320
+2738	4	2320
+2740	4	2320
+2777	4	2320
+2851	4	2320
+2868	4	2320
+2895	4	2320
+2912	4	2320
+2946	4	2320
+3127	4	2320
+3128	4	2320
+2080	5	2320
+2150	5	2320
+2320	5	2320
+2320	5	2320
+2320	5	2320
+2597	5	2320
+2150	6	2320
+2320	6	2320
+

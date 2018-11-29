@@ -1,0 +1,42 @@
+
+
+
+on implementation of label variables
+
+variables of label mode are conventionally
+implemented with a technique which fails to trap 
+certain programming errors  fine-grained calendar clocks
+have recently become available these allow 
+implementation of label variables via a new technique
+which traps all programming errors of this variety
+
+cacm may 1971
+
+fenichel r r
+
+labels compiler interpreter go to transfer
+
+4.22
+
+ca710506 jb february 3 1978  231 pm
+
+2193	4	2193
+2193	4	2193
+2319	4	2193
+2326	4	2193
+2477	4	2193
+2541	4	2193
+2594	4	2193
+2894	4	2193
+3004	4	2193
+2016	5	2193
+2193	5	2193
+2193	5	2193
+2193	5	2193
+3101	5	2193
+3186	5	2193
+2138	6	2193
+2193	6	2193
+2438	6	2193
+3185	6	2193
+

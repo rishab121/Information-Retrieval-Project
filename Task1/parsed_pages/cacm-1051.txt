@@ -1,0 +1,118 @@
+
+
+
+multiword list items
+
+the list concept as originally proposed by
+newell simon and shaw specified single computer 
+words as elements of a list  this report describes the
+use of two or more consecutive words as one element 
+ such use results in a considerable saving in both the
+space required to hold a given amount of data 
+and in the execution time required to perform a given
+process on the data  following a brief description 
+of standard list structures with single-word items the
+multiword items are introduced  then variable-length 
+items are described along with the corresponding space-utilization
+problems  finally several examples 
+are given to illustrate the use of multiword lists this
+paper attempts to draw together various recent 
+papers which have applied some of these concepts in different
+ways and indicate how they relate to the 
+more general problems
+
+cacm june 1964
+
+comfort w t
+
+ca640616 jb march 9 1978  915 pm
+
+1024	4	1051
+1024	4	1051
+1051	4	1051
+1051	4	1051
+1051	4	1051
+1051	4	1051
+1051	4	1051
+1051	4	1051
+1062	4	1051
+1098	4	1051
+1102	4	1051
+1102	4	1051
+1132	4	1051
+1214	4	1051
+1380	4	1051
+1388	4	1051
+1390	4	1051
+1393	4	1051
+1485	4	1051
+1486	4	1051
+1487	4	1051
+1549	4	1051
+1549	4	1051
+1549	4	1051
+1552	4	1051
+1570	4	1051
+1665	4	1051
+1706	4	1051
+1826	4	1051
+1860	4	1051
+1878	4	1051
+1878	4	1051
+1946	4	1051
+1957	4	1051
+378	4	1051
+2060	4	1051
+2155	4	1051
+2155	4	1051
+2168	4	1051
+2168	4	1051
+2719	4	1051
+2723	4	1051
+2723	4	1051
+2838	4	1051
+2842	4	1051
+2855	4	1051
+2857	4	1051
+2879	4	1051
+3077	4	1051
+3080	4	1051
+3106	4	1051
+3112	4	1051
+627	4	1051
+106	4	1051
+1051	5	1051
+1051	5	1051
+1051	5	1051
+1211	5	1051
+210	5	1051
+1549	5	1051
+1906	5	1051
+378	5	1051
+2902	5	1051
+406	5	1051
+731	5	1051
+793	5	1051
+794	5	1051
+106	6	1051
+1051	6	1051
+1051	6	1051
+1051	6	1051
+1051	6	1051
+1062	6	1051
+1062	6	1051
+1184	6	1051
+1211	6	1051
+1552	6	1051
+210	6	1051
+1879	6	1051
+2435	6	1051
+2596	6	1051
+2734	6	1051
+2747	6	1051
+2768	6	1051
+406	6	1051
+627	6	1051
+731	6	1051
+753	6	1051
+

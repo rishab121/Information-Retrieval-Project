@@ -1,0 +1,43 @@
+
+
+
+algorithm and bound for the greatest common divisor of n integers
+
+a new version of the euclidean
+algorithm for finding the greatest common divisor of n integers ai
+and multipliers xi such that gcd  x1a1 +  + xnan
+is presented  the number of arithmetic operations and the number
+of storage locations are linear in n  a theorem of lame that gives a bound 
+for the number of iterations of the euclidean algorithm for two integers 
+is extended to the case of n integers  an algorithm to construct a minimal 
+set of multipliers is presented  a fortran program for the algorithm appears 
+as comm acm algorithm 386
+
+cacm july 1970
+
+bradley g h
+
+greatest common divisor euclidean algorithm
+number theory diophantine equations
+
+3.15 5.10
+
+ca700706 jb february 13 1978  845 am
+
+2031	4	2031
+2031	4	2031
+1022	5	2031
+2028	5	2031
+2031	5	2031
+2031	5	2031
+2031	5	2031
+2521	5	2031
+450	5	2031
+3099	5	2031
+1313	6	2031
+2028	6	2031
+2031	6	2031
+2031	6	2031
+2031	6	2031
+3135	6	2031
+

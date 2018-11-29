@@ -1,0 +1,36 @@
+
+
+
+in-and-out conversions
+
+byan in-and-out conversion we mean that a floating-point
+number in one base is converted into 
+a floating-point number in another base and then converted
+back to a floating-point number in the original 
+base  for all combinations of rounding and truncation
+conversions the question is considered of how 
+many significant digits are needed in the intermediate
+base to allow such in-and-out conversions to return 
+the original number when possible or at least significant digit
+
+cacm january 1968
+
+matula d w
+
+floating-point numbers significance
+base conversion rounding truncation
+
+3.15 5.11
+
+ca680111 jb february 23 1978  214 pm
+
+1783	4	1783
+1843	4	1783
+1634	5	1783
+1783	5	1783
+1783	5	1783
+1783	5	1783
+1843	5	1783
+1634	6	1783
+1783	6	1783
+

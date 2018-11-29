@@ -1,0 +1,19 @@
+
+
+
+transpose vector stored array algorithm 302 k2
+
+cacm june 1969
+
+macleod i d g
+
+matrix transposition array transposition vector stored array
+
+5.39
+
+ca690612 jb february 17 1978  951 am
+
+1881	5	1881
+1881	5	1881
+1881	5	1881
+

@@ -1,0 +1,25 @@
+
+
+
+rapid computation of weights of interpolatory
+quadrature rules d1 algorithm 417
+
+cacm december 1971
+
+gustafson s
+
+divided differences
+
+5.16
+
+ca711212 jb february 2 1978  933 am
+
+2131	4	2131
+2132	4	2131
+2131	5	2131
+2131	5	2131
+2131	5	2131
+2135	5	2131
+2131	6	2131
+2132	6	2131
+

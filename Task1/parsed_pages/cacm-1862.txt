@@ -1,0 +1,48 @@
+
+
+
+computing capabilities at argentine and chilean universities
+
+the author reports on a trip to universities in
+argentina and chile during november 1968 describing 
+university conditions and computing activities  as elsewhere
+these universities are experiencing student 
+discontent with the status quo and the solutions they
+are attempting contrast argentina is excluding 
+students from participating in university government
+chile is allowing such participation  university 
+computing service and academic activities are limited
+ the number of computers is small and so is the 
+capacity none larger than an ibm 360/40 with some
+exception computing science academic programs are 
+rare this situation is by no means attributable to
+those responsible for computing developments who 
+strive for excellence rather the system is hard to
+over-come  universities especially those with 
+strong european traditions adapt slowly to new academic
+resources and disciplines superimposed are 
+the severe technological and economic constraints of the
+developing nation  consequently in the absence 
+of conscious government emphasis on strengthening computing
+capabilities future progress may be retarded
+
+cacm august 1969
+
+finerman a
+
+university education computing science academic
+programs university computing centers surveys 
+of computing centers university computing capabilities university-student
+relationship argentine universities 
+chilean universities south american universities developing nations
+
+1.52 2.0 2.45
+
+ca690801 jb february 15 1978  621 pm
+
+1862	4	1862
+1349	5	1862
+1862	5	1862
+1862	5	1862
+1862	5	1862
+

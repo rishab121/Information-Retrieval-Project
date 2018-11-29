@@ -1,0 +1,19 @@
+
+
+
+the solution of simultaneous ordinary differential
+equations using a general purpose digital 
+computer
+
+cacm june 1960
+
+anderson w h
+
+ca600615 jb march 20 1978  925 pm
+
+120	5	175
+175	5	175
+175	5	175
+175	5	175
+175	6	175
+

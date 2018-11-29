@@ -1,0 +1,15 @@
+
+
+
+rational roots of polynomials with integer coefficients algorithm 78
+
+cacm february 1962
+
+perry c
+
+ca620203 jb march 20 1978  355 pm
+
+640	5	640
+640	5	640
+640	5	640
+

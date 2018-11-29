@@ -1,0 +1,24 @@
+
+
+
+exact solution of linear equations using
+residue arithmetic algorithm r406
+
+cacm may 1973
+
+howell j
+
+residue arithmetic symmetric residue modulus
+mixed-radix representation symmetric mixed-radix 
+representation mixed radix conversion prime number
+linear equations gaussian elimination matrix 
+inversion determinant adjoint matrix ill-condition
+
+3.5 5.14
+
+ca730513 jb january 23 1978  434 pm
+
+2507	5	2507
+2507	5	2507
+2507	5	2507
+

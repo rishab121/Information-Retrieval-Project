@@ -1,0 +1,47 @@
+
+
+
+improved event-scanning mechanisms for discrete event simulation
+
+simulation models of large complex real-world
+applications have occasionally earned the 
+reputation of eating up hours of computer time  this
+problem may be attributed in part to difficulties 
+such as slow stochastic convergence  however an additional
+problem lies in the fact that a significant 
+amount of bookkeeping time is required to keep future events
+in their proper sequence  this paper presents 
+a method for significantly reducing the time spent scanning
+future event lists in discrete event simulations 
+ there models are presented all of which improve in effectiveness
+as the events-list scan problem becomes 
+more burdensome
+
+cacm june 1975
+
+wyman f p
+
+discrete event simulation simulation event scanning mechanisms
+
+4.34 5.5 8.1
+
+ca750611 jb january 9 1978  1243 pm
+
+2742	5	2742
+2742	5	2742
+2742	5	2742
+2844	5	2742
+2936	5	2742
+3064	5	2742
+970	6	2742
+1059	6	2742
+1846	6	2742
+1939	6	2742
+2742	6	2742
+2742	6	2742
+2742	6	2742
+2767	6	2742
+2767	6	2742
+2767	6	2742
+2936	6	2742
+

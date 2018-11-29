@@ -1,0 +1,98 @@
+
+
+
+two languages for estimating program efficiency
+
+two languages enabling their users to estimate
+the efficiency of computer programs are presented 
+ the program whose efficiency one wishes to estimate is written
+in the first language a go-to-less programming 
+language which includes most of the features of algol
+60  the second language consists of interactive 
+commands enabling its users to provide additional information
+about the program written in the first 
+language and to output results estimating its efficiency
+ processors for the two languages are also 
+described  the first processor is a syntax-directed
+translator which compiles a program into a symbolic 
+formula representing the execution time for that program
+ the sound processor is a set of procedures 
+for that program  the second processor is a set of
+procedures for algebraic manipulation which can be 
+called by the user to operate on the formula produced
+by the first processor  examples of the usage 
+of the two languages are included  the limitations of
+the present system its relation to knuths work 
+on the analysis of algorithms and some of the directions
+for further research are also discussed
+
+cacm june 1974
+
+ccohen j
+zuckerman c
+
+programming languages syntax-directed translation
+symbolic manipulation program efficiency 
+analysis of algorithms
+
+4.12 4.20 5.24 5.25
+
+ca740601 jb january 17 1978  348 pm
+
+1086	4	2645
+1132	4	2645
+1234	4	2645
+1263	4	2645
+1265	4	2645
+1270	4	2645
+1323	4	2645
+1358	4	2645
+1379	4	2645
+1380	4	2645
+1453	4	2645
+1464	4	2645
+1484	4	2645
+1491	4	2645
+1498	4	2645
+1613	4	2645
+1614	4	2645
+1781	4	2645
+1825	4	2645
+1860	4	2645
+2083	4	2645
+2178	4	2645
+2179	4	2645
+2252	4	2645
+2325	4	2645
+2341	4	2645
+2546	4	2645
+2645	4	2645
+2652	4	2645
+2684	4	2645
+2842	4	2645
+2929	4	2645
+2934	4	2645
+3069	4	2645
+669	4	2645
+679	4	2645
+691	4	2645
+761	4	2645
+949	4	2645
+989	4	2645
+2645	5	2645
+2645	5	2645
+2645	5	2645
+2719	5	2645
+3094	5	2645
+3184	5	2645
+1265	6	2645
+1626	6	2645
+210	6	2645
+2151	6	2645
+2167	6	2645
+2179	6	2645
+2210	6	2645
+2645	6	2645
+2645	6	2645
+2657	6	2645
+

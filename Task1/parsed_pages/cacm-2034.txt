@@ -1,0 +1,51 @@
+
+
+
+the mobile programming system stage2
+
+stage2 is the second level of a bootstrap sequence which
+is easily implemented on any computer  it is a flexible
+provided by stage2 are summarized and the implementation techniques
+which have made it possible to have stage2 running on a new
+machine with less than one man-week of effort are discussed  the approach
+has been successful on over 15 machines of widely varying
+characteristics
+
+cacm july 1970
+
+waite w m
+
+bootstrapping macro processing machine independence
+programming languages implementation techniques
+
+4.12 4.22
+
+ca700703 jb february 13 1978  924 am
+
+1160	4	2034
+1530	4	2034
+1705	4	2034
+1781	4	2034
+1807	4	2034
+1852	4	2034
+1945	4	2034
+2034	4	2034
+2034	4	2034
+2034	4	2034
+2034	4	2034
+2034	4	2034
+2034	4	2034
+2290	4	2034
+2579	4	2034
+2923	4	2034
+2945	4	2034
+984	5	2034
+1231	5	2034
+1565	5	2034
+1852	5	2034
+1926	5	2034
+1947	5	2034
+2034	5	2034
+2034	5	2034
+2034	5	2034
+

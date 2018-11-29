@@ -1,0 +1,15 @@
+
+
+
+abscissas and weights for romberg quadrature algorithm 281 d1
+
+cacm april 1966
+
+welsch j h
+
+ca660403c jb march 23 1978  717 pm
+
+1448	5	1448
+1448	5	1448
+1448	5	1448
+

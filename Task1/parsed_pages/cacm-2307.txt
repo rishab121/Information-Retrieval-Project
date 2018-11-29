@@ -1,0 +1,38 @@
+
+
+
+dynamic document processing
+
+the current role of computers in automatic
+document processing is briefly outlined and some 
+reasons are given why the early promise of library automation
+and of the mechanization of documentation 
+processes has not been fulfilled  a new dynamic document
+environment is then outlined in which clustered
+files are searched and information is retrieved following
+an interactive user-controlled search process 
+ methods are described for an automatic query modification
+based on user needs and for a continuous 
+reorganization of the stored information as a function of
+earlier file processing and of normal collection 
+growth  the proposed procedures provide powerful tools
+for information retrieval and for the control 
+of dynamic library collections in which new items
+are continually added and old ones are retired
+
+cacm july 1972
+
+salton g
+
+automatic indexing automatic search and retrieval
+iterative searching mechanized library processing 
+collection growth collection retirement feedback search
+
+3.62 3.71 3.73 3.74
+
+ca720721 jb january 30 1978  1059 am
+
+2307	5	2307
+2307	5	2307
+2307	5	2307
+

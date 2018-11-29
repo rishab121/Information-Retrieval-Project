@@ -1,0 +1,34 @@
+
+
+
+cobol under control
+
+a sample set of cobol programming standards
+is offered  these standards constrain code to 
+be developed in a structured form for both data and
+control structures  they do not require syntax 
+beyond the existing cobol language and in fact utilize
+a typical limited subset of the 1974 ans cobol 
+standard  these standards have proved extremely valuable
+in practice and have reduced the cost and time 
+to produce and maintain large software systems that have
+been deployed in live multiple customer environments
+
+cacm november 1976
+
+ledgard h f
+cave w c
+
+cobol structured programmingsoftware development program standards
+
+3.5 4.22 4.43
+
+ca761102 jb january 3 1978  343 pm
+
+2821	4	2821
+3121	4	2821
+2709	5	2821
+2821	5	2821
+2821	5	2821
+2821	5	2821
+

@@ -1,0 +1,15 @@
+
+
+
+bit sequencing of the american standard code for
+information interchange ascii in serial-by-bit 
+data transmission proposed american standard
+
+cacm june 1964
+
+ca640602 jb march 9 1978  947 pm
+
+1065	5	1065
+1065	5	1065
+1065	5	1065
+

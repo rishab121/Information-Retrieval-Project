@@ -1,0 +1,57 @@
+
+
+
+a computer science course program for small colleges
+
+the acm subcommittee on small college programs
+of the committee on curriculum in computer science 
+cccs was appointed in 1969 to consider the unique
+problems of small colleges and universities and 
+to make recommendations regarding computer science programs
+at such schools  this report authorized 
+by both the subcommittee and cccs supplies a set of
+recommendations for courses and necessary resources 
+ implementation problems are discussed specifically
+within the constraints of limited faculty and for 
+the purposes of satisfying a wide variety of objectives
+ detailed description of four courses are given 
+suggestions are made for more advanced work
+and an extensive library list is included
+
+cacm march 1973
+
+austing r h
+engel g l
+
+computer science education course proposals small
+colleges programming course social implications 
+course computer organization course file organization course bibliographies
+
+1.52
+
+ca730301 jb january 24 1978  122 pm
+
+2538	5	2538
+2538	5	2538
+2538	5	2538
+2899	5	2538
+3003	5	2538
+1659	6	2538
+1678	6	2538
+1771	6	2538
+1927	6	2538
+1945	6	2538
+2097	6	2538
+2147	6	2538
+2163	6	2538
+2187	6	2538
+2329	6	2538
+2345	6	2538
+2367	6	2538
+2407	6	2538
+2478	6	2538
+2479	6	2538
+2480	6	2538
+2538	6	2538
+2538	6	2538
+

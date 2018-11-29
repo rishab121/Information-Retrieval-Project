@@ -1,0 +1,39 @@
+
+
+
+the impact of distributions and disciplines
+on multiple processor systems
+
+simple queueing models are used to study the performance tradeoffs of 
+multiple processor systems  issues considered include the impact of cpu
+service disciplines and distributions level of multiprogramming
+multitasking and job priorities 
+
+cacm january 1979
+
+sauer c
+chandy k
+
+multiprogramming multiprocessing scheduling disciplines
+performance evaluation queueing models
+
+4.32 4.6 6.2 8.1
+
+ca790104 dh april 10 1979  1210 pm
+
+2571	4	3119
+2918	4	3119
+3032	4	3119
+3072	4	3119
+3119	4	3119
+3119	4	3119
+3119	4	3119
+3119	4	3119
+2245	5	3119
+2798	5	3119
+2849	5	3119
+2859	5	3119
+3119	5	3119
+3119	5	3119
+3119	5	3119
+

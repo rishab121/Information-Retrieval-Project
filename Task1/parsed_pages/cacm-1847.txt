@@ -1,0 +1,53 @@
+
+
+
+an algorithm for finding a fundamental set of cycles of a graph
+
+a fast method is presented for finding a fundamental
+set of cycles for an undirected finite 
+graph  a spanning tree is grown and the vertices examined
+in turn unexamined vertices being stored 
+in a pushdown list to await examination  one stage
+in the process is to take the top element v of the 
+pushdown list and examine it ie inspect all those
+edges vz of the graph for which z has not yet 
+been examined  if z is already in the tree a fundamental
+cycle is added if not the edge vz is 
+placed in the tree  there is exactly one such stage
+for each of the n vertices of the graph  for large 
+n the store required in creases as n^2 and the time as
+n^g where g depends on the type of graph involved 
+ g is bounded below by 2 and above by 3 and it is shown
+that both bounds are attained  in terms of 
+storage our algorithm is similar to that of gotlieb and
+corneil and superior to that of welch in terms 
+of speed it is similar to that of welch and superior
+to that of gotlieb and corneil  testsshow our 
+algorithm to be remarkably efficient g2 on random graphs
+
+cacm september 1969
+
+paton k
+
+fundamental cycle set graph algorithm cycle spanning tree
+
+5.32
+
+ca690909 jb february 15 1978  429 pm
+
+1847	4	1847
+1961	4	1847
+2052	4	1847
+1504	5	1847
+1847	5	1847
+1847	5	1847
+1847	5	1847
+1961	5	1847
+2177	5	1847
+2763	5	1847
+1369	6	1847
+1504	6	1847
+1847	6	1847
+1847	6	1847
+1847	6	1847
+

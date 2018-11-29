@@ -1,0 +1,26 @@
+
+
+
+applications of differential equations in general problem solving
+
+a large class of problems leading to digital
+computer processing can be formulated in terms 
+of the numerical solution of systems of ordinary differential
+equations  powerful methods are in existence 
+for the solution of such systems  a good general purpose
+routine for the solution of such systems furnishes 
+a powerful tool for processing many problems  this is
+true from the point of view of ease of programming 
+ease of debugging and minimization of computer time
+ a number of examples are discussed in detail
+
+cacm september 1965
+
+klopfenstein r w
+
+ca650910 jb march 6 1978  716 pm
+
+1196	5	1196
+1196	5	1196
+1196	5	1196
+

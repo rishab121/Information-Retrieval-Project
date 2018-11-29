@@ -1,0 +1,40 @@
+
+
+
+sorting by replacement selecting
+
+in sorting by replacement selecting the expected
+length of a sequence beginning with the i-th 
+element i1 is proved to be 2f in accordance with
+a conjecture of e h friend where f is the number 
+of memory cells used  the expected length of the j-th
+sequence is determined to be f times a j-th degree 
+polynomial in e such that the value of this polynomial
+approaches 2 as j approaches infinity  recursive 
+formulas are obtained for both the mean and the standard
+deviation of the length of the j-th sequence 
+ the mathematical proofs of these results are based
+upon the assumption that n the number of items to 
+be sorted is infinite but it is shown that the error
+due to the finiteness of n approaches zero rapidly 
+as n increases
+
+cacm february 1967
+
+gasner b j
+
+ca670204 jb february 28 1978  356 pm
+
+1638	4	1638
+2176	4	1638
+2272	4	1638
+1638	5	1638
+1638	5	1638
+1638	5	1638
+1867	5	1638
+2272	5	1638
+677	5	1638
+1638	6	1638
+1638	6	1638
+677	6	1638
+

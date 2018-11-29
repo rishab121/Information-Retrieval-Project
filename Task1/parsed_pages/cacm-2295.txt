@@ -1,0 +1,21 @@
+
+
+
+comment on the composition of semantics in algol 68
+
+cacm august 1972
+
+van der poel w l
+
+programming primitives programming languages
+algol semantics recursive composition design 
+of programming languages data structures
+
+1.3 4.2 4.22 5.23 5.24
+
+ca720807 jb january 30 1978  929 am
+
+2295	5	2295
+2295	5	2295
+2295	5	2295
+

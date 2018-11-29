@@ -1,0 +1,49 @@
+
+
+
+on a solution to the cigarette smokers
+problem without conditional statements
+
+this report discusses a problem first introduced
+by patil who has claimed that the cigarette 
+smokers problem cannot be solved using the p and v operations
+introduced by dijkstra unless conditional 
+statements are used  an examination of patils proof
+shows that he has established this claim only under 
+strong restrictions on the use of p and v  these restrictions
+eliminate programming techniques used 
+by dijkstra and others since the first introduction
+of the semaphore concept  this paper contains a 
+solution to the problem  it also discusses the need
+for the generalized operators suggested by patil
+
+cacm march 1975
+
+parnas d l
+
+operating systems co-operating processesprocess
+synchronization primitives
+
+4.3
+
+ca750311 jb january 9 1978  424 pm 
+
+2320	4	2777
+2597	4	2777
+2777	4	2777
+2851	4	2777
+2895	4	2777
+2912	4	2777
+2946	4	2777
+3128	4	2777
+2150	5	2777
+2738	5	2777
+2777	5	2777
+2777	5	2777
+2777	5	2777
+1749	6	2777
+2080	6	2777
+2247	6	2777
+2356	6	2777
+2777	6	2777
+

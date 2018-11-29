@@ -1,0 +1,31 @@
+
+
+
+a note on reliable full-duplex transmission over half-duplex links
+
+a simple procedure for achieving reliable full-duplex
+transmission over half-duplex links is 
+proposed the scheme is compared with another of the
+same type which has recently been described in 
+the literature  finally some comments are made on
+another group of related transmission procedures 
+which have been shown to be unreliable under some circumstances
+
+cacm may 1969
+
+bartlett k a
+scantlebury r a
+
+data transmission error correction full-duplex
+half-duplex transmission control communications
+
+3.81
+
+ca690502 jb february 17 1978  401 pm
+
+1907	4	1907
+1743	5	1907
+1907	5	1907
+1907	5	1907
+1907	5	1907
+

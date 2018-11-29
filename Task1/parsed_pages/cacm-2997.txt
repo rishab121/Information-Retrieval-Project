@@ -1,0 +1,36 @@
+
+
+
+convex hulls of finite sets of poin ts in two and three dimensions
+
+the convex hulls of sets of n poin ts in two
+and three dimensions can be determined with on 
+log n operations  the presented algorithms use the divide
+and conquer technique and recursively apply 
+a merge procedure for two nonin tersecting convex hulls
+ since any convex hull algorithm requires at 
+least on log n operations the time complexity of the
+proposed algorithms is optimal within a multiplicative 
+constant
+
+cacm february 1977
+
+preparata f p
+hong s j
+
+computational complexity convex hull optimal algorithms
+planar set of poin ts spatial set of 
+poin ts
+
+4.49 5.25 5.32
+
+ca770203 jb december 30 1977  247 am
+
+2997	4	2997
+2737	5	2997
+2997	5	2997
+2997	5	2997
+2997	5	2997
+3151	5	2997
+2997	6	2997
+

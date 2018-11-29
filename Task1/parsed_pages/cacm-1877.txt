@@ -1,0 +1,104 @@
+
+
+
+prevention of system deadlocks
+
+a well-known problem in the design of operating
+systems is the selection of a resource allocation 
+policy that will prevent deadlock  deadlock is the
+situation in which resources have been allocated 
+to various tasks in such a way that none of the tasks
+can continue  the various published solutions 
+have been somewhat restrictive either they do not handle
+the problem in sufficient generality or they 
+suggest policies which will on occasion refuse a request
+which could have been safely granted  algorithms 
+are presented which examine a request in the light of
+the current allocation of resources and determine 
+whether or not the granting of the request will introduce
+the possibility of a deadlock  proofs given 
+in the appendixes show that the conditions imposed by
+the algorithms are both necessary and sufficient 
+to prevent deadlock  the algorithms have been successfully used in the the system	
+
+cacm july 1969
+
+habermann a n
+
+multiprogramming time-sharing scheduling resource allocation
+
+3.72 4.32 6.20
+
+ca690703 jb february 17 1978  933 am
+
+1458	4	1877
+1523	4	1877
+1603	4	1877
+1698	4	1877
+1747	4	1877
+1748	4	1877
+1828	4	1877
+1854	4	1877
+1854	4	1877
+1877	4	1877
+1877	4	1877
+1960	4	1877
+1960	4	1877
+2150	4	1877
+2317	4	1877
+2319	4	1877
+2377	4	1877
+2377	4	1877
+2378	4	1877
+2342	4	1877
+2376	4	1877
+2379	4	1877
+2424	4	1877
+2482	4	1877
+2497	4	1877
+2558	4	1877
+2618	4	1877
+2625	4	1877
+2632	4	1877
+2632	4	1877
+2704	4	1877
+2723	4	1877
+2738	4	1877
+2740	4	1877
+2741	4	1877
+2840	4	1877
+2867	4	1877
+2941	4	1877
+3105	4	1877
+3144	4	1877
+3184	4	1877
+1471	5	1877
+1749	5	1877
+1877	5	1877
+1877	5	1877
+1877	5	1877
+2228	5	1877
+2280	5	1877
+2379	5	1877
+2482	5	1877
+2740	5	1877
+2851	5	1877
+2920	5	1877
+1198	6	1877
+1338	6	1877
+1749	6	1877
+1749	6	1877
+1749	6	1877
+1877	6	1877
+1877	6	1877
+1877	6	1877
+1877	6	1877
+1877	6	1877
+1877	6	1877
+1877	6	1877
+2080	6	1877
+2150	6	1877
+2228	6	1877
+2228	6	1877
+2228	6	1877
+

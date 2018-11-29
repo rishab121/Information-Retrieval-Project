@@ -1,0 +1,43 @@
+
+
+
+merging with parallel processors
+
+consider two linearly ordered sets a b am
+bn mn and p pm parallel processors 
+working synchronously  the paper presents an algorithm
+for merging a and b with the p parallel processors 
+which requires at most 2log2 2m+1+3m/p + m/plog2
+n/m steps  if n  2^bm b an integer 
+the algorithm requires at most 2log2 m+1 + m/p2+b
+steps  in the case where m and n are of the 
+same order of magnitude ie nkm with k being a constant
+the algorithm requires 2log2 m+1 + m/p3+k 
+steps  these performances compare very favorably with
+the previous best parallel merging algorithm 
+batchers algorithm which requires n/p + m+n/2plog2 m
+steps in the general case and km/p + k+1/2m/plog2 
+m in the special case where nkm
+
+cacm october 1975
+
+gavril f
+
+parallel processing parallel merging parallel binary insertion
+
+5.31
+
+ca751005 jb january 6 1978  1050 am
+
+2714	4	2714
+3075	4	2714
+2664	5	2714
+2714	5	2714
+2714	5	2714
+2714	5	2714
+3075	5	2714
+2289	6	2714
+2557	6	2714
+2664	6	2714
+2714	6	2714
+

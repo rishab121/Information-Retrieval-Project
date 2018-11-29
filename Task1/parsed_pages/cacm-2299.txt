@@ -1,0 +1,45 @@
+
+
+
+an extensible editor for a small machine with disk storage
+
+a design philosophy for developing a sophisticated
+utility program is illustrated by the actual 
+design and implementation of a text editor  a versatile
+data structure is employed so that only a small 
+number of programmed subroutines are necessary for all
+types of data manipulation  such a data structure 
+is described and its merits are illustrated by the ease
+with which powerful extensions can be implemented 
+in terms of a few basic editing function
+
+cacm august 1972
+
+benjamin a j
+
+command processing context searching executive
+program garbage collection interpreter list 
+processing macro language paging parameter substitution
+recursion state table storage allocation 
+string manipulation text editing virtual memory
+
+3.73 3.74 3.75 4.13 4.22 4.43 4.49
+
+ca720803 jb january 30 1978  1000 am
+
+1626	4	2299
+1708	4	2299
+1781	4	2299
+1860	4	2299
+2299	4	2299
+2299	4	2299
+2501	4	2299
+2629	4	2299
+2915	4	2299
+3114	4	2299
+1502	5	2299
+1641	5	2299
+2299	5	2299
+2299	5	2299
+2299	5	2299
+

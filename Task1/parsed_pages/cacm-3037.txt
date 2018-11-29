@@ -1,0 +1,39 @@
+
+
+
+a linear sieve algorithm for finding prime numbers
+
+a new algorithm is presented for finding all
+primes between 2 and n  the algorithm executes 
+in time proportional to n assuming that multiplication
+of integers not larger than n can be performed 
+in unit time  the method has the same arithmetic complexity
+as the algorithm presented by mairson 6 
+however our version is perhaps simpler and more elegant
+ it is also easily extended to find the prime 
+factorization of all integers between 2 and n in time proportional to n   
+
+cacm december 1978
+
+gries d
+misra j
+
+primes algorithms data structures
+
+5.25 5.24 5.29
+
+ca781202 dh january 22 1979  1112 am
+
+2896	4	3037
+2972	4	3037
+3037	4	3037
+3037	4	3037
+3039	4	3037
+3043	4	3037
+3073	4	3037
+2732	5	3037
+2927	5	3037
+3037	5	3037
+3037	5	3037
+3037	5	3037
+

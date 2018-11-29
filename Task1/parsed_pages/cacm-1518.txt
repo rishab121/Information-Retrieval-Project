@@ -1,0 +1,36 @@
+
+
+
+an experimental model of system/360
+
+the problem of predicting the performance of
+modern computer systems is formidable  one general 
+technique which can ease this problem is macroscopic simulation
+ this paper reports on the applicability 
+of that technique to system/360  the paper describes
+an experimental model of system/360-its hardware 
+software and its environment  the measures of system performance
+produced by the model consist of statistics 
+relating to turnaround time throughput hardware utilization
+software utilization and queueing processes 
+ the model is mechanized in simscript and consists of
+some 1750 statements  an auxiliary programs the 
+job generator creates automatically the properties
+of system/360 jobs that get simulated
+
+cacm november 1967
+
+katz j h
+
+ca671102 jb february 26,1978  320 pm
+
+1518	5	1518
+1518	5	1518
+1518	5	1518
+1805	5	1518
+1912	5	1518
+1518	6	1518
+1518	6	1518
+1572	6	1518
+1748	6	1518
+

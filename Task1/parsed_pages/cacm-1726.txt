@@ -1,0 +1,49 @@
+
+
+
+preliminary investigation of techniques
+for automated reading of unformatted text
+
+methods for converting unstructured printed
+material into computer code are experimentally 
+investigated  an operator-controlled mode depending
+on human demarcation of the various regions of 
+the page for guiding the scanner is implemented by
+means of a joystick and a crt display  this mode 
+for which some performance figures are obtained is thought
+to be suitable for processing very complicated 
+material such as technical journals  for simpler material
+for instance the claims sections of patents 
+and in applications where the utmost accuracy is not necessary
+an unsupervised mode is advocated  here 
+the textual portions of the page are located during
+a rapid prescan by a rudimentary form of frequency 
+analysis  these areas are then rescanned at a higher
+resolution suitable for character recognition 
+ error rates of the order of 0.1 percent are obtained in
+a simple problem involving photographs of telephone 
+company meter boards  other matters related to the
+design of a general purpose page reader such as 
+the segmentation of printed text the possibility of
+time-sharing the scanner interactive man-machine 
+operation and the facsimile reproduction of illustrations are discussed
+
+cacm july 1968
+
+nagy g
+
+pattern recognition character recognition text
+reading information retrieval unformatted text 
+operator-controlled reader online reader
+text-image discrimination reading machine
+
+3.63 3.79 3.89 6.29 6.35
+
+ca680703 jb february 22 1978  252 pm
+
+1726	5	1726
+1726	5	1726
+1726	5	1726
+2370	5	1726
+1726	6	1726
+

@@ -1,0 +1,34 @@
+
+
+
+multiple byte processing with full-word instructions
+
+a method is described which allows parallel
+processing of packed data items using only ordinary 
+full-word computer instructions even though the processing
+requires operations whose execution is contingent 
+upon the value of a datum  it provides a useful technique
+for processing small data items such as alphanumeric 
+characters
+
+cacm august 1975
+
+lamport l
+
+byte processing character processing packed data
+
+4.9
+
+ca750808 jb january 6 1978  421 pm
+
+2727	5	2727
+2727	5	2727
+2727	5	2727
+2952	5	2727
+142	6	2727
+162	6	2727
+163	6	2727
+192	6	2727
+2185	6	2727
+2727	6	2727
+

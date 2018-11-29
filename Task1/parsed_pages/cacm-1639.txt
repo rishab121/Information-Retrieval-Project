@@ -1,0 +1,21 @@
+
+
+
+exponential curve fit algorithm 295 e2
+
+cacm february 1967
+
+spath h
+
+ca670203a jb february 28 1978  357 pm
+
+1639	4	1639
+1480	5	1639
+1639	5	1639
+1639	5	1639
+1639	5	1639
+2101	5	1639
+2102	5	1639
+1639	6	1639
+1639	6	1639
+

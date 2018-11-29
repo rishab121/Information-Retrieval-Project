@@ -1,0 +1,19 @@
+
+
+
+permute algorithm 86
+
+cacm april 1962
+
+peck j e l
+schrack g f
+
+ca620405 jb march 20 1978  221 pm
+
+3188	5	612
+612	5	612
+612	5	612
+612	5	612
+1594	6	612
+612	6	612
+

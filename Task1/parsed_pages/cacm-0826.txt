@@ -1,0 +1,22 @@
+
+
+
+remarks on fortran subroutines for time series analysis
+
+cacm june 1963
+
+bennett c m
+
+ca630623 jb march 14 1978  1000 am
+
+1118	4	826
+826	4	826
+948	4	826
+942	5	826
+1118	5	826
+826	5	826
+826	5	826
+826	5	826
+826	6	826
+942	6	826
+

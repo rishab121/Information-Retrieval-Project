@@ -1,0 +1,32 @@
+
+
+
+an approach to multidimensional data array processing by computer
+
+some recent work on the development of general-purpose
+computer-based statistical and data 
+processing capabilities for handling multidimensional
+arrays of data is presented attention is first 
+given to some of the general problems of multidimensional
+table and array processing  this is followed 
+by a summary of some recent developments in array processing
+capabilities at the world bank in particular 
+the system identified as wrapsworld bank
+retrieval and array processing system
+
+cacm february 1977
+
+muller m e
+
+array processing table processing statistical
+analysis data retrieval data processing syntax 
+for data structures computing techniques time series cross tabulation
+
+3.10 3.20 3.30 3.70 4.0
+
+ca770201 jb december 30 1977  312 am
+
+2999	5	2999
+2999	5	2999
+2999	5	2999
+

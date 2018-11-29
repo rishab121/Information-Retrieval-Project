@@ -1,0 +1,30 @@
+
+
+
+design and implementation of a general-purpose input routine
+
+a general-purpose input routine is discussed
+and advocated for fortran  the philosophy of 
+such programs is examined and exemplified
+
+cacm june 1964
+
+hassitt a
+
+ca640614 jb march 9 1978  927 pm
+
+1053	4	1053
+1053	4	1053
+1053	4	1053
+1053	4	1053
+720	4	1053
+1053	5	1053
+1053	5	1053
+1053	5	1053
+1649	5	1053
+435	5	1053
+474	5	1053
+718	5	1053
+720	5	1053
+1053	6	1053
+

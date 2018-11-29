@@ -1,0 +1,49 @@
+
+
+
+a program to teach programming
+
+the teach system was developed at mit to ease the cost and improve the results 
+of elementary instruction in programming  to the student teach offers loosely 
+guided experience with a  conversational language which was designed with
+teaching in mind  faculty involvement is minimal  a term of experience
+with teach is discussed  pedagogically the system appears to be successful 
+straightforward reimplementation will make it economically successful as well 
+similar programs of profound tutorial skill will appear only as the results of
+extended research  the outlines of his research are beginning to become clear
+
+cacm march 1970
+
+fenichel r r
+weizenbaum j
+yochelson j c
+
+elementary programming computer-assisted learning uncl teach
+
+1.52
+
+ca700301 jb february 14 1978  842 am
+
+2097	5	2097
+2097	5	2097
+2097	5	2097
+2153	5	2097
+3003	5	2097
+1659	6	2097
+1678	6	2097
+1927	6	2097
+1945	6	2097
+2097	6	2097
+2097	6	2097
+2147	6	2097
+2163	6	2097
+2187	6	2097
+2329	6	2097
+2345	6	2097
+2367	6	2097
+2407	6	2097
+2478	6	2097
+2479	6	2097
+2480	6	2097
+2538	6	2097
+

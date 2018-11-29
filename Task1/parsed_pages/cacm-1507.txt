@@ -1,0 +1,28 @@
+
+
+
+a multiprogramming environment for online data acquis ition and analysis
+
+an experimental system for acquis ition and analysis
+of large bodies of data derived from scientific 
+experiments is described  its architecture and implementation
+is largely based on certain objectives 
+and characteristics of a general data analysis scheme
+ early applications have been oriented towards 
+the investigation of data obtained in biological research
+ some of the problems encountered by the chosen 
+approach are discussed
+
+cacm december 1967
+
+lockemann p c
+knutsen w d
+
+ca671201 jb february 26 1978  248 pm
+
+1507	5	1507
+1507	5	1507
+1507	5	1507
+1712	5	1507
+1507	6	1507
+

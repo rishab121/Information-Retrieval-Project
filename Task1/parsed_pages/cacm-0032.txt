@@ -1,0 +1,15 @@
+
+
+
+variable-width tables with binary-search facility
+
+cacm february 1958
+
+halpern m
+
+ca580201 jb march 22 1978  922 pm
+
+32	5	32
+32	5	32
+32	5	32
+

@@ -1,0 +1,26 @@
+
+
+
+number of multiply-restricted partitions a1 algorithm a448
+
+cacm june 1973
+
+beyer t
+swinehart d f
+
+partitions enumeration change making energy-level
+degeneracies molecular vibrational energy-levels
+
+3.13 5.30
+
+ca730611 jb january 23 1978  149 pm
+
+2104	4	2489
+2489	4	2489
+2489	4	2489
+1219	5	2489
+2104	5	2489
+2489	5	2489
+2489	5	2489
+2489	5	2489
+

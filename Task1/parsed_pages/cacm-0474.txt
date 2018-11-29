@@ -1,0 +1,24 @@
+
+
+
+input data organization in fortran
+
+cacm october 1962
+
+yarbrough l
+
+ca621006 jb march 17 1978  720 pm
+
+1053	5	474
+474	5	474
+474	5	474
+474	5	474
+720	5	474
+265	6	474
+435	6	474
+464	6	474
+474	6	474
+474	6	474
+718	6	474
+720	6	474
+

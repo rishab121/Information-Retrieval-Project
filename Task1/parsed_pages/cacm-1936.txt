@@ -1,0 +1,91 @@
+
+
+
+variable length tree structures having minimum average search time
+
+sussenguth suggests in a paper 1963 that a
+file should be organized as a doubly-chained tree 
+structure if it is necessary both to search and to update
+frequently  such a structure provides a compromise 
+between the fast search/slow update characteristics of
+binary searching and the slow search/fast update 
+characteristics of serial searching  his method however
+contains the limiting restriction that all 
+terminal nodes lie on the same level of the tree  this paper
+considers the effect of relaxing this restriction 
+ first trees which have the property that a priori the
+filial set of each node is well defined are studied 
+ it is proved that coding the nodes within each filial
+set with respect to the number of terminal nodes 
+reachable from each is necessary and sufficient to guarantee
+minimum average search time  then the more 
+general case that is where the entire structure of
+the tree is changeable is treated  a procedure 
+is developed for constructing a tree with a minimum
+average search time  a simple closed expression 
+for this minimum average search time is obtained as
+a function of the number of terminal nodes  the 
+storage capacity required to implement the doubly-chained
+tree structure on a digital computer is also 
+determined  finally the total cost of the structure
+using sussenguths cost criterion is computed 
+ it is shown that significant improvements in both
+the average search time and the total cost can be 
+obtained by relaxing sussenguths restriction that all
+terminal nodes lie on the same level of the tree
+
+cacm february 1969
+
+patt y n
+
+information retrieval file searching tree structures double chaining
+
+3.70 3.73 3.74
+
+ca690202 jb february 20 1978  1125 am
+
+1050	4	1936
+1935	4	1936
+1936	4	1936
+2017	4	1936
+2032	4	1936
+2257	4	1936
+2360	4	1936
+2451	4	1936
+2452	4	1936
+1936	5	1936
+1936	5	1936
+1936	5	1936
+2257	5	1936
+2360	5	1936
+2451	5	1936
+2452	5	1936
+2556	5	1936
+2765	5	1936
+849	5	1936
+830	6	1936
+849	6	1936
+849	6	1936
+849	6	1936
+849	6	1936
+944	6	1936
+1831	6	1936
+1831	6	1936
+1935	6	1936
+1935	6	1936
+1936	6	1936
+1936	6	1936
+1936	6	1936
+1936	6	1936
+1936	6	1936
+1936	6	1936
+1976	6	1936
+1976	6	1936
+2046	6	1936
+2111	6	1936
+2198	6	1936
+2360	6	1936
+2451	6	1936
+2452	6	1936
+616	6	1936
+

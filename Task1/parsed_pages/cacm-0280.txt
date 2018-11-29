@@ -1,0 +1,15 @@
+
+
+
+a preplanned approach to a storage allocating compiler
+
+cacm october 1961
+
+oneil r w
+
+ca611001 jb march 16 1978  124 pm
+
+280	5	280
+280	5	280
+280	5	280
+

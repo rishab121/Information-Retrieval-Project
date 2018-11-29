@@ -1,0 +1,59 @@
+
+
+
+   a formac program for the solution of linear boundary and initial value 
+problems
+
+  a computer program is described which has been developed for obtaining
+approximate solutions to linear initial and boundary-value problems involving 
+differential equations for each problem input to the program includes
+   1 the equations in symbolic form to be satisfied    the differential
+equations equations describing auxiliary conditions such as boundary 
+conditions etc
+   2 a numerical description of the regions in which each of the equations
+are to be satisfied
+   3 sets of functions in symbolic form to be used in linear combinations
+to approximate the solution functions give the above input the program
+generates an approximation to the solutions of the specified problemm in terms 
+of the specified functions which is optimum in the least-squares sense
+
+cacm august 1966
+
+cuthill e
+
+ca660814 es march 17 1982 1010 am
+
+1396	5	3200
+3200	5	3200
+3200	5	3200
+3200	5	3200
+964	6	3200
+1028	6	3200
+1029	6	3200
+1083	6	3200
+1132	6	3200
+1214	6	3200
+1278	6	3200
+1334	6	3200
+1365	6	3200
+1386	6	3200
+1387	6	3200
+1388	6	3200
+1392	6	3200
+1393	6	3200
+1394	6	3200
+1395	6	3200
+1396	6	3200
+1397	6	3200
+1496	6	3200
+284	6	3200
+407	6	3200
+3199	6	3200
+3200	6	3200
+3201	6	3200
+3202	6	3200
+3203	6	3200
+3204	6	3200
+561	6	3200
+730	6	3200
+

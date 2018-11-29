@@ -1,0 +1,42 @@
+
+
+
+computing capabilities at western european universities
+
+this report on the authors trip to universities
+in western europe in the summer of 1966 gives 
+brief descriptions of computing activities at each institution
+visited  present equipment capabilities 
+vary from moderate to large scale however many institutions
+plan to acquire complex time-shared systems 
+in the near future  in the authors opinion the state
+of the art lags behind that on this continent 
+ this lag is attributed to four principal factors a
+the handicapping organization of academic procedures 
+b the university-government financial relationship
+c the subordinated organization of the computing 
+facility d the paucity of professional interchange
+of knowledge  the effects of these constraints 
+are explicated
+
+cacm december 1966
+
+finerman a
+
+ca661201 jb march 2 1978  255 pm
+
+1349	4	1349
+1349	4	1349
+1349	4	1349
+1349	4	1349
+689	4	1349
+1349	5	1349
+1349	5	1349
+1349	5	1349
+236	5	1349
+1862	5	1349
+323	5	1349
+415	5	1349
+83	5	1349
+1349	6	1349
+

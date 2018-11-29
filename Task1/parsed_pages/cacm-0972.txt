@@ -1,0 +1,47 @@
+
+
+
+an executive system implemented as a finite-state automaton
+
+the 473l command and control system used by
+the air force permits many operators to access 
+large data files through the use of a computer  the man-machine
+interface is satisfied by several communication 
+consoles from which operators may enter queries and
+view replies  a data link permits remote stations 
+to send messages status reports and inventories directly
+to the computer  the information received 
+over the on-line data link is used to update the data files
+which are stored on disk  the 473l programming 
+system is divided into an executive control program and
+five components with different processing priorities 
+ these priorities permit the system to be most sensitive
+to the console inputs and permit the operators 
+at all the consoles to time share the central processor
+ the executive control program provides for 
+the orderly transitions of control among the programming
+system components the major emphasis of the 
+paper is on the technique of using the definition of a
+finite-state automaton for organizing the executive 
+control program
+
+cacm november 1964
+
+heistand r e
+
+ca641111 jb march 9 1978  356 pm
+
+1471	4	972
+1774	4	972
+2911	4	972
+560	4	972
+972	4	972
+972	4	972
+972	4	972
+972	5	972
+972	5	972
+972	5	972
+271	5	972
+273	5	972
+276	5	972
+

@@ -1,0 +1,73 @@
+
+
+
+the simulation of time sharing systems
+
+the development of new large scale time-sharing
+systems has raised a number of problems for 
+computation center management  not only is it necessary
+to develop an appropriate hardware configuration 
+for these systems but appropriate software adjustments
+must be made  unfortunately these systems often 
+do not respond to changes in the manner that intuition
+would suggest and there are few guides to assist 
+in the analysis of performance characteristics  the
+development of a comprehensive simulation model 
+to assist in the investigation of these questions is
+described in this paper  the resulting model has 
+a general purpose design and can be used to study a
+variety of time-sharing systems  it can also be 
+used to assist in the design and development of new time-sharing
+algorithms or techniques  for the sake 
+of efficiency and greater applicability the model was
+implemented in a limited fortran subset that is 
+compatible with most fortran iv compilers the use of
+the simulation is demonstrated by a study of the 
+ibm 360/67 time-sharing system
+
+cacm july 1967
+
+nielsen n r
+
+ca670701 jb february 28 1978  915 am
+
+1572	5	1572
+1572	5	1572
+1572	5	1572
+1805	5	1572
+1846	5	1572
+1892	5	1572
+2188	5	1572
+2218	5	1572
+2317	5	1572
+1198	6	1572
+1380	6	1572
+1380	6	1572
+1424	6	1572
+1484	6	1572
+1518	6	1572
+1526	6	1572
+1572	6	1572
+1572	6	1572
+1572	6	1572
+1572	6	1572
+1572	6	1572
+1572	6	1572
+1693	6	1572
+1728	6	1572
+1728	6	1572
+1748	6	1572
+1749	6	1572
+1751	6	1572
+1751	6	1572
+1753	6	1572
+1752	6	1572
+1752	6	1572
+1781	6	1572
+1810	6	1572
+1879	6	1572
+2095	6	1572
+2126	6	1572
+2148	6	1572
+576	6	1572
+

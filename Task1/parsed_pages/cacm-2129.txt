@@ -1,0 +1,32 @@
+
+
+
+recursive computation of certain derivatives-a
+study of error propagation
+
+a brief study is made of the propagation of errors
+in linear first-order difference equations  the
+recursive computation of successive derivatives of e^x/x
+and cos x/x is considered as an illustration
+
+cacm january 1970
+
+gautschi w
+
+recursive computation successive derivatives error propagation
+
+5.11 5.12
+
+ca700102 jb february 14 1978  218 pm
+
+2129	4	2129
+1449	5	2129
+2119	5	2129
+2129	5	2129
+2129	5	2129
+2129	5	2129
+2149	5	2129
+1023	6	2129
+2129	6	2129
+2129	6	2129
+

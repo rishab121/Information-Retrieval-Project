@@ -1,0 +1,47 @@
+
+
+
+analysis of design alternatives for virtual memory indexes
+
+a class of index structures for use in a virtual
+memory environment is described  design alternatives 
+within this class of index structures are analyzed  these
+alternatives include a choice of search strategy 
+whether or not pages in the index are structured and
+whether or not keys are compressed  the average 
+cost of retrieving entries from these indexes is expressed
+as a wieghted sum of the cost of a basic key 
+comparison and the cost of crossing a page boundary in
+the index structure  formulas for the retrieval 
+costs for possible combinations of design alternatives
+are given  these are used in numerical case studies 
+which compare the retrieval costs of the alternatives
+ qualitative comparisons of the main tenance costs 
+insertion deletion reorganization of the
+design alternatives are also included
+
+cacm april 1977
+
+maruyama k
+smith s e
+
+index index structure pages virtual memory
+files retrieval main tenance search strategy 
+key compression
+
+3.50 3.51 3.02 3.73 3.74
+
+ca770404 jb december 29 1977  522 am
+
+2451	4	2978
+2556	4	2978
+2978	4	2978
+1935	5	2978
+2978	5	2978
+2978	5	2978
+2978	5	2978
+3058	5	2978
+3063	5	2978
+2978	6	2978
+2978	6	2978
+

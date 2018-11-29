@@ -1,0 +1,44 @@
+
+
+
+generating english discourse from semantic networks
+
+a system is described for generating english
+sentences from a form of semantic nets in which 
+the nodes are word-sense meanings and the paths are
+primarily deep case relations  the grammar used 
+by the system is in the form of a network that imposes
+an ordering on a set of syntactic transformations 
+that are expressed as lisp functions  the generation
+algorithm uses the information in the semantic 
+network to select appropriate generation paths through
+the grammar  the system is designed for use as 
+a computational tool that allows a linguist to develop
+and study methods for generating surface strings 
+from an underlying semantic structure  initial finding
+with regard to form determiners such as voice 
+form tense and mood some rules for embedding sentences
+and some attention to pronominal substitution 
+are reported  the system is programmed in lisp
+1.5 and is available from the authors
+
+cacm october 1972
+
+simmons r
+slocum j
+
+semantic nets grammars deep case relations
+semantic generation discourse generation
+
+3.42 3.65
+
+ca721004 jb january 27 1978  310 pm
+
+2274	5	2274
+2274	5	2274
+2274	5	2274
+2795	5	2274
+1928	6	2274
+1989	6	2274
+2274	6	2274
+

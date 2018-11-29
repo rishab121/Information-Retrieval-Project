@@ -1,0 +1,23 @@
+
+
+
+note on an anomaly in paging
+
+cacm july 1970
+
+pomeranzj e
+
+paging machines demand paging replacement algorithm
+
+4.30
+
+ca700715 jb february 10 1978  417 pm
+
+2022	4	2022
+2085	4	2022
+3006	4	2022
+1884	5	2022
+2022	5	2022
+2022	5	2022
+2022	5	2022
+

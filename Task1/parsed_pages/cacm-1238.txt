@@ -1,0 +1,31 @@
+
+
+
+a technique for integrated reports from a multi-run system
+
+the requirements of a requisition accounting
+system for the san francisco overseas supply agency 
+osa included exception reporting to osa itself  the simultaneous
+satisfaction of the reporting requirement 
+and the accounting requirements posed definite problems
+in system design particularly the handling of 
+the reporting function  a practical and satisfactory
+solution was developed by expanding the basic system 
+with two tailored service runs for report production
+ these two runs permitted a final system that was 
+easier to debug easy to maintain efficient in production
+and responsive to the changing requirements
+of osa
+
+cacm june 1965
+
+budea n
+kamena j g
+kamena r m
+
+ca650617 jb march 6 1978  949 pm
+
+1238	5	1238
+1238	5	1238
+1238	5	1238
+

@@ -1,0 +1,27 @@
+
+
+
+high-level binding with low-level linkers
+
+an easy to implement scheme is described by
+which a compiler can enforce agreement between 
+complex data types in separately compiled modules
+ the scheme is designed to work with any existing 
+link editor or linking loader no matter how deficient
+ obscure run-time errors caused by inconsistent 
+usages are forestalled by static errors detected at linking time
+
+cacm november 1976
+
+hamlet r g
+
+separate compilation binding linking strong typing
+
+4.10 4.22
+
+ca761108 jb january 3 1978  244 pm
+
+2815	5	2815
+2815	5	2815
+2815	5	2815
+

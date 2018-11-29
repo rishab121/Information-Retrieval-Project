@@ -1,0 +1,20 @@
+
+
+
+permutations of a set with repetitions algorithm 242 g6
+
+cacm october 1964
+
+sag t w
+
+ca641006 jb march 9 1978  449 pm
+
+996	5	996
+996	5	996
+996	5	996
+2044	5	996
+996	6	996
+1558	6	996
+2230	6	996
+521	6	996
+

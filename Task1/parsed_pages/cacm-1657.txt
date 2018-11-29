@@ -1,0 +1,32 @@
+
+
+
+implementation of the sharer2 time-sharing system
+
+a simple mechanism is described for the execution
+of part of a program with its own memory 
+protection  this allows such a program to act as a
+suboperating system  an improved version of the 
+sharer time-sharing system using this feature is described
+
+cacm december 1968
+
+harrison m c
+
+operating system memory protection time-sharing
+multiprogramming monitor submonitor suboperating 
+system
+
+4.32 4.31 4.32
+
+ca681209 jb february 21 1978  127 pm
+
+1657	4	1657
+2080	4	1657
+2357	4	1657
+2536	4	1657
+1523	5	1657
+1657	5	1657
+1657	5	1657
+1657	5	1657
+

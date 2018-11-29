@@ -1,0 +1,58 @@
+
+
+
+directed random generation of sentences
+
+the problem of producing sentences of a transformational
+grammar by using a random generator 
+to create phrase structure trees for input to the lexical
+insertion and transformational phases is discussed 
+ a purely random generator will produce base trees
+which will be blocked by the transformations and 
+which are frequently too long to be of practical interest
+ a solution is offered in the form of a computer 
+program which allows the user to constrain and direct
+the generation by the simple but powerful device 
+of restricted subtrees  the program is a directed
+random generator which accepts as input a subtree 
+with restrictions and produces around it a tree which
+satisfies the restrictions and is ready for the 
+next phase of the grammar  the underlying linguistic
+model is that at noam chomsky as presented in 
+aspects of the theory of syntax  the program is written
+in fortran iv for the ibm 360/67 and is part
+of a unified computer system for transformational grammar
+ it is currently being used with several partial 
+grammars of english
+
+cacm january 1969
+
+friedman j
+
+transformational grammar natural language syntax language
+processing sentence generation computational 
+linguistics syntax
+
+3.42
+
+ca690110 jb february 20 1978  1144 am
+
+1030	4	1939
+1261	4	1939
+1886	4	1939
+1939	4	1939
+1939	4	1939
+1030	5	1939
+1939	5	1939
+1939	5	1939
+1939	5	1939
+2767	5	1939
+3064	5	1939
+678	5	1939
+1846	6	1939
+1939	6	1939
+1939	6	1939
+2742	6	1939
+2767	6	1939
+2936	6	1939
+

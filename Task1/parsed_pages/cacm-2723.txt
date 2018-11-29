@@ -1,0 +1,166 @@
+
+
+
+multiprocessing compactifying garbage collection
+
+algorithms for a multiprocessing compactifying
+garbage collector are presented and discussed 
+ the simple case of two processors one performing lisp-like
+list operations and the other performing 
+garbage collection continuously is thoroughly examined
+the necessary capabilities of each processor 
+are defined as well as interprocessor communication
+and interlocks complete procedures for garbage 
+collection and for standard list processing primitives
+are presented and thoroughly explained  particular 
+attention is given to the problems of marking and relocating
+list cells while another processor may be 
+operating on them  the primary aim throughout is to
+allow the list processor to run unimpeded while 
+the other processor reclaims list storage  the more
+complex cases involving several list processors 
+and one or more garbage collection processors are also briefly discussed
+
+cacm september 1975
+
+steele g l jr
+
+garbage collection storage reclamation reclaimer
+storage allocation multiprocessing synchronization 
+semaphores parallel processing compactification relocation
+lisp list processing free storage pointers 
+data structures gc processor
+
+4.19 4.32 4.40 4.49 4.9
+
+ca750901 jb january 6 1978  339 pm
+
+1024	4	2723
+1024	4	2723
+1050	4	2723
+1051	4	2723
+1051	4	2723
+1098	4	2723
+1102	4	2723
+1132	4	2723
+1214	4	2723
+1380	4	2723
+1388	4	2723
+1390	4	2723
+1393	4	2723
+1485	4	2723
+1486	4	2723
+1487	4	2723
+1549	4	2723
+1549	4	2723
+1549	4	2723
+1570	4	2723
+1706	4	2723
+1826	4	2723
+1828	4	2723
+1854	4	2723
+1869	4	2723
+1877	4	2723
+1878	4	2723
+1878	4	2723
+1946	4	2723
+1957	4	2723
+1960	4	2723
+1972	4	2723
+378	4	2723
+2060	4	2723
+2150	4	2723
+2155	4	2723
+2156	4	2723
+2168	4	2723
+2168	4	2723
+2168	4	2723
+2317	4	2723
+2319	4	2723
+2377	4	2723
+2342	4	2723
+2376	4	2723
+2379	4	2723
+2424	4	2723
+2438	4	2723
+2482	4	2723
+2513	4	2723
+2618	4	2723
+2632	4	2723
+2665	4	2723
+2704	4	2723
+2719	4	2723
+2723	4	2723
+2723	4	2723
+2723	4	2723
+2723	4	2723
+2723	4	2723
+2723	4	2723
+2723	4	2723
+2736	4	2723
+2738	4	2723
+2740	4	2723
+2741	4	2723
+2833	4	2723
+2838	4	2723
+2842	4	2723
+2855	4	2723
+2855	4	2723
+2855	4	2723
+2857	4	2723
+2867	4	2723
+2879	4	2723
+2882	4	2723
+2941	4	2723
+2956	4	2723
+3030	4	2723
+3074	4	2723
+3077	4	2723
+3080	4	2723
+3106	4	2723
+3106	4	2723
+3112	4	2723
+3112	4	2723
+3184	4	2723
+627	4	2723
+731	4	2723
+793	4	2723
+106	4	2723
+210	5	2723
+1549	5	2723
+1749	5	2723
+1826	5	2723
+2651	5	2723
+2723	5	2723
+2723	5	2723
+2723	5	2723
+2838	5	2723
+2896	5	2723
+3039	5	2723
+3074	5	2723
+3112	5	2723
+627	5	2723
+731	5	2723
+106	6	2723
+1380	6	2723
+1826	6	2723
+1826	6	2723
+210	6	2723
+1834	6	2723
+1853	6	2723
+1972	6	2723
+1972	6	2723
+2438	6	2723
+2723	6	2723
+2723	6	2723
+2723	6	2723
+2723	6	2723
+2723	6	2723
+2732	6	2723
+2732	6	2723
+2736	6	2723
+2833	6	2723
+2838	6	2723
+2896	6	2723
+731	6	2723
+

@@ -1,0 +1,72 @@
+
+
+
+computational linguistics in a ph computer science program
+
+this report contains recommendations for a
+course curriculum on computational linguistics in 
+a ph computer science program  a classification of the
+subject areas contained in computational linguistics 
+is presented and ten courses in these areas are described
+ a basic bibliography in computational linguistics 
+is appended
+
+cacm december 1968
+
+kuno s
+oettinger a g
+
+computational linguistics mathematical linguistics
+language and computer language data processing 
+computational linguistics course curriculum computational
+linguistics graduate program computational 
+linguistics bibliography computer science curriculum
+
+1.52 3.42 3.43
+
+ca681207 jb february 21 1978  137 pm
+
+1350	4	1659
+1350	4	1659
+1399	4	1659
+1659	4	1659
+1659	4	1659
+1659	4	1659
+1659	4	1659
+1659	4	1659
+1768	4	1659
+1781	4	1659
+1856	4	1659
+1945	4	1659
+2050	4	1659
+2110	4	1659
+3094	4	1659
+1225	5	1659
+1265	5	1659
+1350	5	1659
+1659	5	1659
+1659	5	1659
+1659	5	1659
+1671	5	1659
+1697	5	1659
+1927	5	1659
+3003	5	1659
+1659	6	1659
+1659	6	1659
+1678	6	1659
+1771	6	1659
+1927	6	1659
+1945	6	1659
+2097	6	1659
+2147	6	1659
+2163	6	1659
+2187	6	1659
+2329	6	1659
+2345	6	1659
+2367	6	1659
+2407	6	1659
+2478	6	1659
+2479	6	1659
+2480	6	1659
+2538	6	1659
+

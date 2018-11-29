@@ -1,0 +1,20 @@
+
+
+
+computation of fourier coefficients algorithm 255 c6
+
+cacm november 1969
+
+hall g
+ray v a
+
+numerical integration fourier coefficients filons method
+
+5.16
+
+ca691113 jb february 15 1978  1208 pm
+
+1817	5	1817
+1817	5	1817
+1817	5	1817
+

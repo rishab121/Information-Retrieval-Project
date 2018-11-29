@@ -1,0 +1,44 @@
+
+
+
+accommodating standards and identification of programming languages
+
+the user public wants standardization and
+reliable identification of programming languages 
+and related services  one way of achieving these goals
+illustrated by the methods adopted for trac t-64 
+interactive language and its related family of languages
+ oppressive rigidity usually associated with 
+standardization is avoided by a new accommodation technique
+accessible to the user to allow local variations 
+with the language  explicit standardization of the language
+is undertaken at the organizational source 
+of the language  use of the organizational trademark
+trac on the published standards and services 
+relying upon them provides a reliable public identification
+ these methods can be usefully applied 
+to other programming languages and computer services
+
+cacm august 1968
+
+mooers c n
+
+standardization programming languages trac t-64
+language tranemark public identification of 
+programming languages standards which accommodate
+
+2.12 4.2 2.9
+
+ca680811 jb february 22 1978  950 am
+
+1530	4	1703
+1531	4	1703
+1565	4	1703
+1703	4	1703
+1945	4	1703
+2036	4	1703
+1455	5	1703
+1703	5	1703
+1703	5	1703
+1703	5	1703
+

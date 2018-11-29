@@ -1,0 +1,36 @@
+
+
+
+synthesizing constraint expressions
+
+a constraint network representation is presented
+for a combinatorial search problem finding 
+values for a set of variables subject to a set of constraints
+ a theory of consistency levels in such 
+networks is formulated which is related to problems
+of backtrack tree search efficiency  an algorithm 
+is developed that can achieve any level of consistency
+desired in order to preprocess the problem for 
+subsequent backtrack search or to function as an alternative
+to backtrack search by explicitly determining 
+all solutions
+
+cacm november 1978
+
+freuder e
+
+backtrack combinatorial algorithms constraint
+networks constraint satisfaction graph coloring 
+network consistency relaxation scene labeling search
+
+3.63 3.64 5.25 5.30 5.32
+
+ca781111 dh january 22 1979  343 pm
+
+1504	4	3040
+3040	4	3040
+1145	5	3040
+3040	5	3040
+3040	5	3040
+3040	5	3040
+

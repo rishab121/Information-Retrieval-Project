@@ -1,0 +1,35 @@
+
+
+
+on computing sets of shortest paths in a graph
+
+two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph  these algorithms generalize the floyd
+algorithm and the dantzig algorithm for finding 
+the shortest path between every pair of vertices in a directed graph
+
+cacm june 1974
+
+minieka e
+
+graph network shortest path algorithm
+
+5.32
+
+ca740616 jb january 17 1978  155 pm
+
+1846	4	2630
+2630	4	2630
+2650	4	2630
+2630	5	2630
+2630	5	2630
+2630	5	2630
+2757	5	2630
+2933	5	2630
+576	5	2630
+1059	6	2630
+2630	6	2630
+2630	6	2630
+2757	6	2630
+

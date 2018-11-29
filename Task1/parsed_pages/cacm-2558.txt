@@ -1,0 +1,69 @@
+
+
+
+protection in programming languages
+
+linguistic mechanisms which can be used to protect
+one subprogram from anothers malfunctioning 
+are described  function-producing functions and various
+type-tagging schemes are considered  an attempt 
+is made to distinguish between access limitation and authentication
+
+cacm january 1973
+
+morris j h jr
+
+protection types environmentstrademarks seals
+access keys access control authentication 
+secrecy
+
+4.2 4.3
+
+ca730103jb january 24 1978  445 pm
+
+1458	4	2558
+1523	4	2558
+1603	4	2558
+1698	4	2558
+1747	4	2558
+1748	4	2558
+1854	4	2558
+1877	4	2558
+1960	4	2558
+2155	4	2558
+2294	4	2558
+2377	4	2558
+2378	4	2558
+2497	4	2558
+2558	4	2558
+2558	4	2558
+2625	4	2558
+2632	4	2558
+2840	4	2558
+2842	4	2558
+2941	4	2558
+3077	4	2558
+3105	4	2558
+3144	4	2558
+3150	4	2558
+1471	5	2558
+2060	5	2558
+2558	5	2558
+2558	5	2558
+2558	5	2558
+2868	5	2558
+2939	5	2558
+2941	5	2558
+1471	6	2558
+2080	6	2558
+2204	6	2558
+2356	6	2558
+2377	6	2558
+2380	6	2558
+2558	6	2558
+2558	6	2558
+2558	6	2558
+2625	6	2558
+2632	6	2558
+2651	6	2558
+

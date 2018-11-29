@@ -1,0 +1,27 @@
+
+
+
+real time plotting of approximate contour maps
+
+none
+
+cacm september 1978
+
+ward s
+
+contour map digital plotting graphical characters
+
+3.10 3.20 4.41 8.2
+
+ca780910 dh january 29 1979  633 pm
+
+2287	4	3062
+2547	4	3062
+3062	4	3062
+3062	4	3062
+1871	5	3062
+1925	5	3062
+3062	5	3062
+3062	5	3062
+3062	5	3062
+

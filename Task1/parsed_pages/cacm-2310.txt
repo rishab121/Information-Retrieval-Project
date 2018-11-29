@@ -1,0 +1,41 @@
+
+
+
+language analysis in the humanities
+
+the use of the computer in the language-oriented
+humanities for exhaustive listing of detail 
+as in indices and concordances is widespread and accepted
+as desirable  the implications of the computer 
+for a science of the humanities-a science entailing
+gathering data for the construction and testing 
+of models-are neither widely recognized nor accepted
+ this paper argues that the computers  major role 
+as to language analysis in the humanities will be the
+establishing of such a sciencehus for those 
+areas of the humanities for which rigor and precision
+are necessary eg analyzing literature or teaching 
+a student to write a composition the computer
+can be a critically important facilitator
+
+cacm july 1972
+
+sedelow s y
+
+language analysis humanities science of the humanities
+pattern recognition pattern generation 
+interdisciplinary cooperation
+
+1.3 2.19 3.42 3.43
+
+ca720718 jb january 30 1978  1119 am
+
+2127	4	2310
+2309	4	2310
+2310	4	2310
+2396	4	2310
+1856	5	2310
+2310	5	2310
+2310	5	2310
+2310	5	2310
+

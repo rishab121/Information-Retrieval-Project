@@ -1,0 +1,38 @@
+
+
+
+the banking information system concept
+
+most large commercial banks have progressed to
+the  point where their major accounting applications 
+have been automated and more sophisticated usage of
+data processing equipment is being sought  this 
+coupled with the availability of equipment well suited
+to real-time direct access processinghas led 
+to development within some banks of the central file
+of data base approach toward a banking information 
+system  the banking information system now serves the
+two-fold purpose of providing real-time responses 
+to inquires about individual account stasus and providing
+more complex combinations of information for 
+management use  both kinds of processing draw upon a
+common store of data contained in the direct access 
+central file  this data base includes indexes which
+facilitate cross referencing of account information 
+so that all relationships between bank and customer may
+be discerned  in introducing the banking information 
+system concept a gradual approach to account cross-referencing
+and file conversion is most prudent 
+ generally this system must interface with other computer
+applications already existing within the bank
+
+cacm july 1966
+
+head r v
+
+ca660702 jb march 2 1978  953 pm
+
+1412	5	1412
+1412	5	1412
+1412	5	1412
+

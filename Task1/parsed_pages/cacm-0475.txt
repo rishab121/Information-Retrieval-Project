@@ -1,0 +1,19 @@
+
+
+
+a test matrix for inversion procedures
+
+cacm october 1962
+
+pei m l
+
+ca621005 jb march 17 1978  721 pm
+
+1963	5	475
+475	5	475
+475	5	475
+475	5	475
+909	6	475
+475	6	475
+750	6	475
+

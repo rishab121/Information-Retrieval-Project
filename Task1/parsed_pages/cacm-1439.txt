@@ -1,0 +1,25 @@
+
+
+
+mechanization of the curve fitting process datan
+
+a process for fitting a curve to approximate data
+and the problem it creates for the engineer-programmer 
+is defined  an approach has also been defined and a system
+has been written for the sru 1107 to mechanize 
+a major portion of this process  the techniques developed
+to accomplish the mechanization are largely 
+empirical and are dependent for their information
+only on the actual data points
+
+cacm april 1966
+
+simonsen r h
+anketell d l
+
+ca660410 jb march 3 1978  1026 am
+
+1439	5	1439
+1439	5	1439
+1439	5	1439
+

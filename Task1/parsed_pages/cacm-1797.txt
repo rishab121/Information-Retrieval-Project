@@ -1,0 +1,19 @@
+
+
+
+solution of linear programs in 0-1 algorithm 341 h
+
+cacm december 1969
+
+proll l g
+
+linear programming zero-one variables partial enumeration
+
+5.41
+
+ca691215 jb february 15 1978  206 pm
+
+1797	5	1797
+1797	5	1797
+1797	5	1797
+

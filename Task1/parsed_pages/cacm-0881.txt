@@ -1,0 +1,16 @@
+
+
+
+calculation of confluent divided differences algorithm 167
+
+cacm april 1963
+
+kahan w
+farkas i
+
+ca630410 jb march 14 1978  1221 pm
+
+881	5	881
+881	5	881
+881	5	881
+

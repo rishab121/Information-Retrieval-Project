@@ -1,0 +1,67 @@
+
+
+
+protection and the control of information sharing in multics
+
+the design of mechanisms to control the sharing
+of information in the multics system is described 
+ five design principles help provide insight into the
+tradeoffs among different possible designs  the 
+key mechanisms described include access control lists
+hierarchical control of access specifications 
+identification and authentication of users and primary
+memory protection  the paper ends with a discussion 
+of several known weaknesses in the current protection mechanism design
+
+cacm july 1974
+
+saltzer j h
+
+multics protection security privacy access control
+authentication computer utilities time-sharing 
+systems proprietary programs protected subsystems virtual memory descriptors
+
+3.70 4.30 6.2
+
+ca740705 jb january 17 1978  1249 pm
+
+1753	4	2626
+2358	4	2626
+2377	4	2626
+2377	4	2626
+2372	4	2626
+2436	4	2626
+2625	4	2626
+2626	4	2626
+2626	4	2626
+2626	4	2626
+2626	4	2626
+2626	4	2626
+2669	4	2626
+2786	4	2626
+2840	4	2626
+2840	4	2626
+2868	4	2626
+2868	4	2626
+2870	4	2626
+2919	4	2626
+3017	4	2626
+3105	4	2626
+3110	4	2626
+3144	4	2626
+3174	4	2626
+1746	5	2626
+2358	5	2626
+2377	5	2626
+2625	5	2626
+2626	5	2626
+2626	5	2626
+2626	5	2626
+2629	5	2626
+2840	5	2626
+1471	6	2626
+1746	6	2626
+2436	6	2626
+2626	6	2626
+2629	6	2626
+

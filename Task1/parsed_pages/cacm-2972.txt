@@ -1,0 +1,73 @@
+
+
+
+proof techniques for hierarchically structured programs
+
+a method for describing and structuring programs
+that simplifies proofs of their correctness 
+is presented  the method formally represents a program
+in terms of levels of abstraction each level 
+of which can be described by a self-contained nonprocedural
+specification  the proofs like the programs 
+are structured by levels  although only manual proofs
+are described in the paper the method is also 
+applicable to semi-automatic and automatic proofs  preliminary
+results are encouraging indicating that 
+the method can be applied to large programs such as operating systems
+
+cacm april 1977
+
+robinson l
+levitt k n
+
+hierarchical structure program verification structured
+programming formal specification abstraction 
+and programming methodology
+
+4.0 4.29 4.9 5.24
+
+ca770410 jb december 29 1977  453 am
+
+2042	4	2972
+2222	4	2972
+2319	4	2972
+2356	4	2972
+2480	4	2972
+2594	4	2972
+2679	4	2972
+2709	4	2972
+2844	4	2972
+2865	4	2972
+2866	4	2972
+2896	4	2972
+2898	4	2972
+2939	4	2972
+2972	4	2972
+2972	4	2972
+2972	4	2972
+2972	4	2972
+2972	4	2972
+3037	4	2972
+3039	4	2972
+3043	4	2972
+3043	4	2972
+3073	4	2972
+3128	4	2972
+3144	4	2972
+3155	4	2972
+970	5	2972
+2204	5	2972
+2597	5	2972
+2732	5	2972
+2738	5	2972
+2972	5	2972
+2972	5	2972
+2972	5	2972
+3030	5	2972
+2247	6	2972
+2356	6	2972
+2457	6	2972
+2651	6	2972
+2958	6	2972
+2972	6	2972
+

@@ -1,0 +1,108 @@
+
+
+
+a final solution to the dangling else of algol 60 and related languages
+
+the dangling else problem consists of a class
+of potential ambiguities in algol-like conditional 
+statements whose basic form is if b1 then if b2 then
+s1 else s2 where b1 and b2 are boolean expressions 
+and s1 and s2 are basic statements  the difficulty
+lies in whether to attach the else to the first if 
+or to the second one  existing solutions to the problem
+are either ambiguous or unnecessarily restrictive 
+ let sand s1 be statements  we define s to be closed
+if s else s1 is not a statement and to be open 
+if s else s1 is a statement  thus an unconditional
+statement is  a closed statement  open and closed 
+conditional statements are defined by syntax equations
+in such a way as to preserve openness and closure 
+ in each case an else must always be preceded by a closed
+statement  it is shown that the syntax equations 
+are unambiguous and that may change in the statement
+types required within the syntax equations would 
+lead to either ambiguity or unnecessary restriction
+
+cacm september 1966
+
+abrahams p w
+
+ca660908 jb march 2 1978  618 pm
+
+1084	4	1379
+1086	4	1379
+1132	4	1379
+1234	4	1379
+1263	4	1379
+1265	4	1379
+1270	4	1379
+1323	4	1379
+1358	4	1379
+1379	4	1379
+1379	4	1379
+1379	4	1379
+1379	4	1379
+1379	4	1379
+1380	4	1379
+1453	4	1379
+1464	4	1379
+1484	4	1379
+1491	4	1379
+1498	4	1379
+1613	4	1379
+1614	4	1379
+1625	4	1379
+1693	4	1379
+1781	4	1379
+1781	4	1379
+1825	4	1379
+1836	4	1379
+1860	4	1379
+1945	4	1379
+1945	4	1379
+2015	4	1379
+2060	4	1379
+2061	4	1379
+2083	4	1379
+2091	4	1379
+2178	4	1379
+2179	4	1379
+2179	4	1379
+2252	4	1379
+2325	4	1379
+2341	4	1379
+2546	4	1379
+2546	4	1379
+2645	4	1379
+2652	4	1379
+2684	4	1379
+2698	4	1379
+2708	4	1379
+2842	4	1379
+2929	4	1379
+2934	4	1379
+3045	4	1379
+3069	4	1379
+669	4	1379
+679	4	1379
+691	4	1379
+761	4	1379
+949	4	1379
+989	4	1379
+1263	5	1379
+1379	5	1379
+1379	5	1379
+1379	5	1379
+1477	5	1379
+2167	5	1379
+2956	5	1379
+3184	5	1379
+669	5	1379
+761	5	1379
+1379	6	1379
+1379	6	1379
+1392	6	1379
+1393	6	1379
+2169	6	1379
+2651	6	1379
+

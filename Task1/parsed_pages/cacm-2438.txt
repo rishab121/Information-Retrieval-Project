@@ -1,0 +1,84 @@
+
+
+
+a model and stack implementation of multiple environments
+
+many control and access environment structures
+require that storage for a procedure activation 
+exist at times when control is not nested within the
+procedure activated  this is straightforward to 
+implement by dynamic storage allocation with linked
+blocks for each activation but rather expensive 
+in both time and space  this paper presents an implementation
+technique using a single stack to hold 
+procedure activation storage which allows retention
+of that storage for durations not necessarily tied 
+to control flow  the technique has the property that
+in the simple caseit runs identically to the 
+usual automatic stack allocation and deallocation procedure
+ applications of this technique to multitasking 
+coroutines backtracking label-valued variables and
+functional arguments are discussed  in the initial 
+model a single real processor is assumed and the implementation
+assumes multiple-processes coordinate 
+by passing control explicitly to one another  a multiprocessor
+implementation requires only a few changes 
+to the basic technique as described
+
+cacm october 1973
+
+bobrow d g
+wegbreit b
+
+control structures environments stack allocation
+dendrarchy retention dynamic storage allocation 
+access environments funarg problem multitasking
+coroutines backtracking label-valued variables 
+functional arguments multiprocessor systems extensible control structures
+
+4.1 4.2 4.22 4.3 4.32 5.24
+
+ca731002 jb january 23 1978  827 am
+
+1972	4	2438
+2156	4	2438
+2168	4	2438
+2438	4	2438
+2438	4	2438
+2723	4	2438
+2736	4	2438
+2833	4	2438
+2855	4	2438
+3074	4	2438
+3112	4	2438
+1826	5	2438
+2314	5	2438
+2438	5	2438
+2438	5	2438
+2438	5	2438
+2625	5	2438
+2922	5	2438
+3081	5	2438
+3101	5	2438
+3112	5	2438
+106	6	2438
+1380	6	2438
+1471	6	2438
+1753	6	2438
+1826	6	2438
+1972	6	2438
+2138	6	2438
+2193	6	2438
+2358	6	2438
+2438	6	2438
+2438	6	2438
+2438	6	2438
+2438	6	2438
+2438	6	2438
+2723	6	2438
+2736	6	2438
+2833	6	2438
+2838	6	2438
+3185	6	2438
+731	6	2438
+

@@ -1,0 +1,58 @@
+
+
+
+sharer a time sharing system for the cdc 6600
+
+a time sharing system embedded within the
+standard batch processing system for the cdc 6600 
+is described  the system is general purpose and file-based
+providing facilities for file input manipulation 
+editing compilation and conversational execution
+ it uses a simple scheme for system extension for 
+a machine with only one relocation and memory bound register
+ no attempt was made to use reentrant code 
+or to simulate segmentation or paging  implementation
+time was approximately six man-years with the 
+majority of the code being written in fortran
+
+cacm october 1967
+
+harrison m c
+schwartz j t
+
+ca671011 jb february 27 1978 153 pm
+
+1458	4	1523
+1523	4	1523
+1603	4	1523
+1698	4	1523
+1747	4	1523
+1748	4	1523
+1854	4	1523
+1877	4	1523
+1960	4	1523
+2377	4	1523
+2378	4	1523
+2497	4	1523
+2558	4	1523
+2625	4	1523
+2632	4	1523
+2840	4	1523
+2941	4	1523
+3105	4	1523
+3144	4	1523
+1471	5	1523
+1523	5	1523
+1523	5	1523
+1523	5	1523
+1657	5	1523
+2080	5	1523
+2357	5	1523
+2536	5	1523
+1523	6	1523
+1523	6	1523
+1523	6	1523
+1523	6	1523
+1829	6	1523
+2035	6	1523
+

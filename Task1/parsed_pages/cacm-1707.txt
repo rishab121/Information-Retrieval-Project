@@ -1,0 +1,36 @@
+
+
+
+generation of positive test matrices with known positive spectra
+
+sufficient conditions are given for a real
+matrix to be similar to a positive matrix  this 
+result is used to construct a similarity transformation
+which when applied to a particular upper triangular 
+matrix yields a positive matrix with a preassigned positive spectrum
+
+cacm august 1968
+
+hall c a
+porsching t a
+
+test matrices positive matrices similarity
+transformation positive eigenvalues
+
+5.1 5.14
+
+ca680807 jb february 22 1978  1042 am
+
+1707	4	1707
+1707	4	1707
+1047	5	1707
+1707	5	1707
+1707	5	1707
+1707	5	1707
+1876	5	1707
+2099	5	1707
+511	5	1707
+1662	6	1707
+1707	6	1707
+1707	6	1707
+

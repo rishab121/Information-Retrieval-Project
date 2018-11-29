@@ -1,0 +1,18 @@
+
+
+
+a numerical method for the determination of moving
+field isodose curves for treatment planning 
+in radiotherapy
+
+cacm october 1963
+
+dalrymple g v
+perez-tamayo r
+
+ca631028 jb march 13 1978  519 pm
+
+697	5	697
+697	5	697
+697	5	697
+

@@ -1,0 +1,23 @@
+
+
+
+a suggested method of making fuller use of strings in algol 60
+
+cacm april 1963
+
+shoffner m g
+brown p j
+
+ca630423 jb march 14 1978  1145 am
+
+1084	5	868
+868	5	868
+868	5	868
+868	5	868
+868	6	868
+603	6	868
+644	6	868
+669	6	868
+791	6	868
+797	6	868
+

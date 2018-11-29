@@ -1,0 +1,45 @@
+
+
+
+automated printed circuit routing with a stepping aperture
+
+a computer program for routing interconnections
+on a two-sided printed circuit board with a 
+regular pattern of lines pins terminals and vias
+feed-through holes is described  in this program 
+each interconnection is given a planned routing-typically
+down from the upper pin through a via and 
+horizontally to the lower pin  from the top a virtual
+aperture ie a long horizontal slit is stepped 
+down the board  the planned routing is the basis for
+rerouting interconnections within the aperture 
+to resolve conflicts for lines and vias below the aperture
+and to maximize the effective line usage 
+ if a conflict has not been resolved before the aperture
+arrives at the lower pininterconnections are 
+deleted to resolve the conflict  extensions of this technique
+to the control of crosstalk between routed 
+interconnections and to the problem of obtaining
+100 percent interconnect are also discussed
+
+cacm may 1969
+
+lass s
+
+routing printed circuit interconnections aperture
+stepping aperture computer program circuit 
+board lines vias pins
+
+3.24 6.30
+
+ca690503 jb february 17 1978  357 pm 
+
+1211	4	1906
+1549	4	1906
+1906	4	1906
+2902	4	1906
+1051	5	1906
+1906	5	1906
+1906	5	1906
+1906	5	1906
+

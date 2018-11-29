@@ -1,0 +1,57 @@
+
+
+
+the mad definition facility
+
+one of the first definition facilities for
+higher level languages is described  users of the 
+language can define new operators and/or data types
+into the mad language so that their use appears 
+as if they were predefined  information is given on
+how one writes definitions as well as on much of 
+the motivation behind the form in which definitions are
+written some conclusions are drawn about future 
+definitional facilities
+
+cacm august 1969
+
+arden b w
+galler b a
+graham r m
+
+mad definitions operators macros higher level language
+
+4.12 4.22
+
+ca690802 jb february 15 1978  607 pm
+
+1134	4	1861
+1179	4	1861
+1665	4	1861
+1693	4	1861
+1768	4	1861
+1781	4	1861
+1787	4	1861
+1824	4	1861
+1824	4	1861
+1825	4	1861
+1836	4	1861
+1861	4	1861
+1861	4	1861
+1861	4	1861
+2015	4	1861
+2110	4	1861
+2126	4	1861
+2127	4	1861
+2187	4	1861
+2317	4	1861
+2545	4	1861
+2698	4	1861
+2733	4	1861
+1614	5	1861
+1781	5	1861
+1861	5	1861
+1861	5	1861
+1861	5	1861
+408	5	1861
+

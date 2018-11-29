@@ -1,0 +1,48 @@
+
+
+
+exclusive simulation of activity in digital networks
+
+a technique for simulating the detailed logic
+networks of large and active digital systems 
+is described  essential objectives sought are improved
+ease and economy in model generation economy 
+in execution time and space and a facility for handling
+simultaneous activities  the main results obtained 
+are a clear and useful separation of structural and behavioral
+model description a reduction of manual 
+tasks in converting boolean logic into a structural model
+the elimination of manual processes in achieving 
+exclusive simulation of activity an event-scheduling
+technique which does not deteriorate in economy
+as the event queue grows in length and a simulation
+procedure which deals effectively with any mixture 
+of serial and simultaneous activities  the passage of
+time is simulated in a precise quantitative fashion 
+and systems to be simulated may be combinations of synchronous
+and asynchronous logic  certain aspects 
+of the techniques described may be used for the simulation
+of network structures other than digital networks
+
+cacm february 1969
+
+ulrich e g
+
+simulation logical simulation digital simulation
+large systems simulation network structures 
+scheduling queuing simultaneous activities parallel events
+
+4.22 4.29 6.9
+
+ca690210 jb february 20 1978  958 am
+
+1885	5	1928
+1928	5	1928
+1928	5	1928
+1928	5	1928
+2795	5	1928
+1928	6	1928
+1928	6	1928
+1989	6	1928
+2274	6	1928
+

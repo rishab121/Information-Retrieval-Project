@@ -1,0 +1,83 @@
+
+
+
+operations on sparse relations
+
+various computations on relations boolean matrices
+or directed graphs such as the computation 
+of precedence relations for a context-free grammar can be
+done by a practical algorithm that is asymptotically 
+faster than those in common use  for example how to compute
+operator precedence or wirth-weber precedence 
+relations in on^2 steps is shown as well as how to
+compute linear precedence functions in on^2 steps 
+is shown as well as how to compute linear precedence
+functions in on steps where n is the size of 
+a grammer  the heart of the algorithms is a general
+theorem giving sufficient conditions under which 
+an expression whose operands are sparse relations and
+whose operators are composition transitive closure 
+union and inverse can be computed efficiently
+
+cacm march 1977
+
+hunt h b iii
+szymanski t g
+ullman j d
+
+computational complexity sparse relation boolean
+matrix directed graph wirth-weber precedence 
+relation linear precedence function slr
+grammar t-canonical precedence relation
+
+4.12 5.23 5.25
+
+ca770306 jb december 29 1977  805 am
+
+1542	4	2986
+1683	4	2986
+1693	4	2986
+1781	4	2986
+1787	4	2986
+1836	4	2986
+1945	4	2986
+2060	4	2986
+2061	4	2986
+2082	4	2986
+2091	4	2986
+2152	4	2986
+2179	4	2986
+2221	4	2986
+2340	4	2986
+2340	4	2986
+2340	4	2986
+2356	4	2986
+2546	4	2986
+2603	4	2986
+2698	4	2986
+2708	4	2986
+2733	4	2986
+2824	4	2986
+2824	4	2986
+2824	4	2986
+2982	4	2986
+2982	4	2986
+2982	4	2986
+2986	4	2986
+2986	4	2986
+2986	4	2986
+2986	4	2986
+2986	4	2986
+3045	4	2986
+3093	4	2986
+3093	4	2986
+3094	4	2986
+1491	5	2986
+1683	5	2986
+1836	5	2986
+2179	5	2986
+2340	5	2986
+2986	5	2986
+2986	5	2986
+2986	5	2986
+

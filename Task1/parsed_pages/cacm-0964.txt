@@ -1,0 +1,78 @@
+
+
+
+mechanization of tedious algebra-the
+e coefficients of theoretical chemistry
+
+a table of formulas for certain integrals
+involving legendre functions has been constructed 
+mechanically by a program which performed algebraic operations
+ the formulas are all rational algebraic 
+expressions in a single variable and were constructed
+by a recurrence procedure  they are of interest 
+in molecular quantum chemistry  trivial coding techniques
+were used to write the relevant programs in 
+fortran  the results were photo composed on a photon
+s-560 system that was controlled by tapes which 
+were punched directly from the computer output so
+avoiding manual keyboarding transcription errors 
+and keyboarded correction
+
+cacm december 1964
+
+wactlar h d
+barnett m p
+
+ca641207 jb march 9 1978  338 pm
+
+1028	4	964
+1121	4	964
+1216	4	964
+1392	4	964
+1396	4	964
+1396	4	964
+659	4	964
+964	4	964
+964	4	964
+964	4	964
+964	5	964
+964	5	964
+964	5	964
+1334	5	964
+1396	5	964
+284	5	964
+1444	5	964
+561	5	964
+759	5	964
+964	6	964
+964	6	964
+964	6	964
+1028	6	964
+1029	6	964
+1083	6	964
+1132	6	964
+1214	6	964
+1278	6	964
+1334	6	964
+1365	6	964
+1386	6	964
+1387	6	964
+1388	6	964
+1392	6	964
+1393	6	964
+1394	6	964
+1395	6	964
+1396	6	964
+1397	6	964
+1496	6	964
+284	6	964
+407	6	964
+3199	6	964
+3200	6	964
+3201	6	964
+3202	6	964
+3203	6	964
+3204	6	964
+561	6	964
+730	6	964
+

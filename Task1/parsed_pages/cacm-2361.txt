@@ -1,0 +1,28 @@
+
+
+
+a note on cheneys nonrecursive list-compacting algorithm
+
+cacm april 1972
+
+walden d c
+
+list compacting garbage collection
+
+4.19 4.49
+
+ca720412 jb january 31 1978  1232 pm
+
+2156	4	2361
+2361	4	2361
+2513	4	2361
+2736	4	2361
+2855	4	2361
+3074	4	2361
+3106	4	2361
+3112	4	2361
+1972	5	2361
+2361	5	2361
+2361	5	2361
+2361	5	2361
+

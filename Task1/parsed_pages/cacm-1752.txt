@@ -1,0 +1,55 @@
+
+
+
+resource management for a medium scale time-sharing operating system
+
+task scheduling and resource balancing for
+a medium size virtual memory paging machine are 
+discussed in relation to a combined batch processing
+and time-sharing environment  a synopsis is given 
+of the task scheduling and paging algorithms that were implemented
+and the results of comparative simulation 
+are given by tracing the development of the algorithms
+through six predecessor versions  throughout 
+the discussion particular emphasis is placed on balancing
+the system performance relative to the characteristics 
+of all the system resources  simulation results relative
+to alternate hardware characteristics and the 
+effects of program mix and loading variations are also presented
+
+cacm may 1968
+
+oppenheimer g
+weizer n
+
+time-sharing operating systems resource management
+task scheduling paging system simulation 
+memory management virtual memories
+
+4.30 4.31 4.32
+
+ca680504 jb february 23 1978  939 am
+
+1751	5	1752
+1752	5	1752
+1752	5	1752
+1752	5	1752
+1892	5	1752
+2128	5	1752
+2218	5	1752
+1380	6	1752
+1526	6	1752
+1572	6	1752
+1572	6	1752
+1728	6	1752
+1728	6	1752
+1751	6	1752
+1751	6	1752
+1752	6	1752
+1752	6	1752
+1752	6	1752
+1752	6	1752
+1810	6	1752
+1879	6	1752
+2095	6	1752
+

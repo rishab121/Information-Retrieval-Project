@@ -1,0 +1,149 @@
+
+
+
+simple lrk grammars
+
+a class of context-free grammars called the
+simple lrk or slrk grammars is defined 
+ this class has been shown to include weak precedence
+and simple precedence grammars as proper subsets 
+ how to construct parsers for the slrk grammars is
+also shown  these parser-construction techniques 
+are extendible to cover all of the lrk grammars of
+knuth they have been implemented and by direct 
+comparison proved to be superior to precedence techniques
+not only in the range of grammars covered 
+but also in the speed of parser construction and
+in the size and speed of the resulting parsers
+
+cacm july 1971
+
+deremer f l
+
+context-free grammar lrk grammar precedence
+grammar syntactic analysis parsing algorithm 
+parser finite-state machine deterministic pushdown automaton
+
+4.12 5.22 5.23
+
+ca710703 jb february 3 1978  931 am
+
+1086	4	2179
+1132	4	2179
+1234	4	2179
+1263	4	2179
+1265	4	2179
+1270	4	2179
+1323	4	2179
+1358	4	2179
+1379	4	2179
+1379	4	2179
+1380	4	2179
+1453	4	2179
+1464	4	2179
+1484	4	2179
+1491	4	2179
+1498	4	2179
+1542	4	2179
+1613	4	2179
+1614	4	2179
+1683	4	2179
+1693	4	2179
+1693	4	2179
+1781	4	2179
+1781	4	2179
+1781	4	2179
+1787	4	2179
+1825	4	2179
+1836	4	2179
+1836	4	2179
+1860	4	2179
+1945	4	2179
+1945	4	2179
+1989	4	2179
+2015	4	2179
+2060	4	2179
+2060	4	2179
+2060	4	2179
+2061	4	2179
+2061	4	2179
+2061	4	2179
+2083	4	2179
+2082	4	2179
+2091	4	2179
+2091	4	2179
+2152	4	2179
+2178	4	2179
+2179	4	2179
+2179	4	2179
+2179	4	2179
+2179	4	2179
+2179	4	2179
+2179	4	2179
+2252	4	2179
+2325	4	2179
+2341	4	2179
+2340	4	2179
+2356	4	2179
+2423	4	2179
+2546	4	2179
+2546	4	2179
+2546	4	2179
+2603	4	2179
+2645	4	2179
+2652	4	2179
+2684	4	2179
+2698	4	2179
+2698	4	2179
+2698	4	2179
+2708	4	2179
+2708	4	2179
+2824	4	2179
+2842	4	2179
+2921	4	2179
+2929	4	2179
+2934	4	2179
+2982	4	2179
+2986	4	2179
+3045	4	2179
+3045	4	2179
+3069	4	2179
+3093	4	2179
+3154	4	2179
+669	4	2179
+679	4	2179
+691	4	2179
+761	4	2179
+949	4	2179
+989	4	2179
+1477	5	2179
+1491	5	2179
+1825	5	2179
+2015	5	2179
+2110	5	2179
+2179	5	2179
+2179	5	2179
+2179	5	2179
+2733	5	2179
+2986	5	2179
+3093	5	2179
+3094	5	2179
+3184	5	2179
+1265	6	2179
+1491	6	2179
+1491	6	2179
+1683	6	2179
+1781	6	2179
+1836	6	2179
+2179	6	2179
+2179	6	2179
+2179	6	2179
+2179	6	2179
+2340	6	2179
+2423	6	2179
+2645	6	2179
+2708	6	2179
+2786	6	2179
+680	6	2179
+799	6	2179
+

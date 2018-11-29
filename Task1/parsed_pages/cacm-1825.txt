@@ -1,0 +1,110 @@
+
+
+
+a practical method for constructing lrk processors
+
+a practical method for constructing lrk processors
+is developed  these processors are capable 
+of recognizing and parsing an input during a single
+no-backup scan in a number of steps equal to the 
+length of the input plus the number of steps in its
+derivation  the technique presented here is based 
+on the original method described by knuth but decreases
+both the effort required to construct the processor 
+and the size of the processor produced  this procedure
+involves partitioning the given grammar into 
+a number of smaller parts  if an lrk processor can be
+constructed for each part using knuths algorithm 
+and if certain conditions relating these individual
+processors are satisfied then an lrk processor 
+for the entire grammar can be constructed for them
+ using this procedure an lr1 parser for algol 
+has been obtained
+
+cacm november 1969
+
+korenjak a j
+
+lrk grammar syntactic analysis parser deterministic
+language syntax-directed compiler language
+processor context-free language algol
+
+4.12 5.2 5.23
+
+ca691105 jb february 15 1978  1252 pm
+
+1086	4	1825
+1132	4	1825
+1234	4	1825
+1263	4	1825
+1265	4	1825
+1270	4	1825
+1323	4	1825
+1358	4	1825
+1379	4	1825
+1380	4	1825
+1453	4	1825
+1464	4	1825
+1484	4	1825
+1491	4	1825
+1498	4	1825
+1613	4	1825
+1614	4	1825
+1665	4	1825
+1768	4	1825
+1781	4	1825
+1787	4	1825
+1824	4	1825
+1825	4	1825
+1825	4	1825
+1836	4	1825
+1860	4	1825
+1861	4	1825
+2015	4	1825
+2083	4	1825
+2110	4	1825
+2127	4	1825
+2178	4	1825
+2179	4	1825
+2187	4	1825
+2252	4	1825
+2317	4	1825
+2325	4	1825
+2341	4	1825
+2545	4	1825
+2546	4	1825
+2645	4	1825
+2652	4	1825
+2684	4	1825
+2698	4	1825
+2733	4	1825
+2842	4	1825
+2929	4	1825
+2934	4	1825
+3069	4	1825
+669	4	1825
+679	4	1825
+691	4	1825
+761	4	1825
+949	4	1825
+989	4	1825
+1781	5	1825
+1825	5	1825
+1825	5	1825
+1825	5	1825
+2061	5	1825
+2179	5	1825
+3184	5	1825
+1140	6	1825
+1141	6	1825
+1477	6	1825
+1477	6	1825
+1491	6	1825
+1491	6	1825
+1825	6	1825
+1825	6	1825
+2015	6	1825
+2110	6	1825
+3184	6	1825
+773	6	1825
+

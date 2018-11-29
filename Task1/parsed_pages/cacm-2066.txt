@@ -1,0 +1,23 @@
+
+
+
+an algol construction for procedures as parameters of procedures
+
+cacm april 1970
+
+knight k r
+
+algol procedures parameters side effects
+
+4.22
+
+ca700418 jb february 13 1978  230 pm
+
+2066	4	2066
+2066	4	2066
+1833	5	2066
+1842	5	2066
+2066	5	2066
+2066	5	2066
+2066	5	2066
+

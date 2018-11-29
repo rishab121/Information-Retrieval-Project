@@ -1,0 +1,76 @@
+
+
+
+adaptive correction of program statements
+
+a method of analyzing statements in a programming
+language which can tolerate a considerable 
+inaccuracy in their specification is proposed this method
+involves principles at present mainly confined 
+to studies in the area of artificial intelligence such
+as feature extraction approximate tree matching 
+and strategy improvement by feedback from the matching process
+ a pilot program incorporating the principles 
+is described and preliminary operating results are presented
+ a final section surveys further principles 
+which are currently being investigated
+
+cacm january 1973
+
+james e b
+partridge d p
+
+adaptive linguistic pattern matching automatic
+parsing approximate match compiler program 
+statement analysis syntax analysis
+
+3.62 3.63 3.65
+
+ca730105 jb january 24 1978  438 pm
+
+1179	4	2556
+1288	4	2556
+1544	4	2556
+1646	4	2556
+2111	4	2556
+2257	4	2556
+2360	4	2556
+2451	4	2556
+2451	4	2556
+2452	4	2556
+2534	4	2556
+2534	4	2556
+2556	4	2556
+2556	4	2556
+2556	4	2556
+2556	4	2556
+2650	4	2556
+2650	4	2556
+2708	4	2556
+2765	4	2556
+2887	4	2556
+2978	4	2556
+1935	5	2556
+1936	5	2556
+2111	5	2556
+2556	5	2556
+2556	5	2556
+2556	5	2556
+2698	5	2556
+2708	5	2556
+830	5	2556
+1477	6	2556
+1477	6	2556
+1491	6	2556
+1491	6	2556
+1781	6	2556
+1787	6	2556
+2110	6	2556
+2111	6	2556
+2534	6	2556
+2556	6	2556
+2556	6	2556
+680	6	2556
+680	6	2556
+799	6	2556
+

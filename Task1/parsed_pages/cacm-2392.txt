@@ -1,0 +1,27 @@
+
+
+
+in-situ transposition of a rectangular matrix f1 algorithm c380
+
+cacm january 1972
+
+macleod i d g
+
+rectangular matrix transpose
+
+5.14
+
+ca720111 jb february 1 1978  857 am
+
+2057	4	2392
+2057	4	2392
+2058	4	2392
+2392	4	2392
+2392	4	2392
+2416	4	2392
+1600	5	2392
+2055	5	2392
+2392	5	2392
+2392	5	2392
+2392	5	2392
+

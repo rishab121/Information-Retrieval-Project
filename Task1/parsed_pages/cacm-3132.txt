@@ -1,0 +1,38 @@
+
+
+
+experiments with some algorithms that find
+central solutions for pattern classification
+
+in two-class pattern recognition it is a standard
+technique to have an algorithm finding hyperplanes
+which separates the two classes in a linearly separable training
+set  the traditional methods find a hyperplane which separates all
+points in the other but such a hyperplane is not necessarily centered
+in the empty space between the two classes  since a central
+hyperplane does not favor one class or the other it should have
+a lower error rate in classifying new points and is therefore better
+than a noncentral hyperplane  six algorithms for finding central
+hyperplanes are tested on three data sets  although frequently
+used practice the modified relaxation algorithm is very poor 
+three algorithms which are defined in the paper are found to be
+quite good
+
+cacm march 1979
+
+slagle j
+
+pattern recognition pattern classification linear discriminants central
+hyperplanes centering centrality criteria dead zone hyperplane
+linearly separable relaxation algorithm accelerated relaxation
+
+3.62 3.63
+
+ca790303 dh april 12 1979  320 pm
+
+3132	4	3132
+2215	5	3132
+3132	5	3132
+3132	5	3132
+3132	5	3132
+

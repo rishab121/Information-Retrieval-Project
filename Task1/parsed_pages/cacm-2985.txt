@@ -1,0 +1,46 @@
+
+
+
+effects of chargeout on user/manager attitudes
+
+the relationship of in ternal pricing systems
+for computer services chargeout systems and 
+user management attitudes about their computer-based
+information systems is investigated evidence is 
+provided that the relationship conforms to a general
+pattern that would be expected from the hypothesis 
+of the four stages of edp growth 15  the results also
+indicate that the chargeout systems characteristic 
+of advanced edp stage environments are associated with
+relatively high levels of positive user attitudes 
+and marked increases in edp training for users both factors
+are important to the user/manager involvement 
+necessary for effective control of computer-based systems
+ development and main tenance of computer-based 
+systems is asserted to be a category of organizational
+change  a felt need for the change on the part 
+of the user/manager is prerequisite to any change taking
+place  the research methods of behavioral science 
+are applied to investigate the user/manager
+environment and the effects of chargeout
+
+cacm march 1977
+
+nolan r l
+
+computer management computer budget
+chargeout stage hypothesis control
+
+2.41 2.43 3.50
+
+ca770307 jb december 29 1977  643 am
+
+2977	4	2985
+2985	4	2985
+3011	4	2985
+3035	4	2985
+2485	5	2985
+2985	5	2985
+2985	5	2985
+2985	5	2985
+

@@ -1,0 +1,50 @@
+
+
+
+right brother trees
+
+insertion and deletion are provided for the
+class of right or one-sided brother trees which 
+have o log n performance  the importance of these
+results stems from the close relationship of right 
+brother trees which have an insertion algorithm operating
+in o log2 n  further although both insertion 
+and deletion can be  carried out in o log n time for
+right brother trees it appears that the insertion 
+algorithm is inherently much more difficult than the
+deletion algorithm-the reverse of what one usually 
+obtains  
+
+cacm september 1978
+
+ottmann t
+six h
+wood d
+
+dictionary problem search trees avl trees brother
+trees right-balanced treesone-sided height-balanced 
+trees insertion and deletion algorithms
+
+3.73 3.74 5.31
+
+ca780807 dh january 29 1979 708 pm
+
+3009	4	3065
+3042	4	3065
+3065	4	3065
+3065	4	3065
+3096	4	3065
+3163	4	3065
+3163	4	3065
+2839	5	3065
+3065	5	3065
+3065	5	3065
+3065	5	3065
+3096	5	3065
+3163	5	3065
+2839	6	3065
+2889	6	3065
+3009	6	3065
+3065	6	3065
+3096	6	3065
+

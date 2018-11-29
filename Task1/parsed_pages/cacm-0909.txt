@@ -1,0 +1,20 @@
+
+
+
+arithmetizing declarations corrigendum
+
+cacm march 1963
+
+conway m e
+speroni j
+
+ca630312b jb march 14 1978  140 pm
+
+909	5	909
+909	5	909
+909	5	909
+1963	5	909
+909	6	909
+475	6	909
+750	6	909
+

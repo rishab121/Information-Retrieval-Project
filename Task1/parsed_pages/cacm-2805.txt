@@ -1,0 +1,28 @@
+
+
+
+perturbations of eigenvalues of non-normal matrices
+
+the problem considered is to give bounds for finite
+perturbations of simple and multiple eigenvalues 
+of nonnormal matrices where these bounds are in terms
+of the eigenvalues the departure from normality 
+and the frobenius norm of the perturbation matrix but
+not in terms of the eigen system  the bounds which 
+are derived are shown to be almost attainable for any set of matrices 
+
+cacm january 1975
+
+van der sluis a
+
+perturbation of eigenvalues non-normal matrices
+departure from normality gershgorin circles
+
+5.14
+
+ca750106 jb january 12 1978  1031 am
+
+2805	5	2805
+2805	5	2805
+2805	5	2805
+

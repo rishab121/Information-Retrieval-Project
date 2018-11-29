@@ -1,0 +1,25 @@
+
+
+
+
+   work is in progress on a formula coding technique allowing direct entry
+into the computer of formulae typed on an 84 character flexo-writer this
+flexo-writer will be modified for automatic half-line advance and retract
+without carriage return to permit completely general sub and superscripting
+
+cacm july 1958
+
+ca580703 es march 17 1982 1010 am
+
+3193	4	3193
+796	4	3193
+1083	5	3193
+491	5	3193
+3193	5	3193
+3193	5	3193
+3193	5	3193
+407	6	3193
+3192	6	3193
+3193	6	3193
+730	6	3193
+

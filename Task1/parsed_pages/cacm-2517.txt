@@ -1,0 +1,54 @@
+
+
+
+some comments on the use of ambiguous decision
+tables and their conversion to computer programs
+
+this paper comments upon recently published
+work on decision table translation using methods 
+similar to the rule-mask technique  the applicability
+of these methods under various possible conventions 
+on overall table meaning is discussed and it is argued
+that there is a place both for the multi-rule 
+and the single-rule or action set convention in decision tale usage
+
+cacm may 1973
+
+king p j h
+johnson r g
+
+decision tables systems analysis programming
+
+3.50 3.59 4.19 4.29 4.49
+
+ca730503 jb january 24 1978  856 am
+
+2053	4	2517
+2221	4	2517
+2273	4	2517
+2453	4	2517
+2517	4	2517
+2517	4	2517
+2517	4	2517
+2518	4	2517
+2616	4	2517
+2726	4	2517
+2856	4	2517
+3034	4	2517
+3034	4	2517
+1684	5	2517
+2053	5	2517
+2221	5	2517
+2517	5	2517
+2517	5	2517
+2517	5	2517
+2616	5	2517
+3034	5	2517
+931	6	2517
+1548	6	2517
+1684	6	2517
+1684	6	2517
+2053	6	2517
+2517	6	2517
+2517	6	2517
+

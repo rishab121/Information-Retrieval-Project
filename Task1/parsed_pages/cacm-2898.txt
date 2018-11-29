@@ -1,0 +1,45 @@
+
+
+
+a conceptual framework for a nonprocedural programming language
+
+a sequential programming language forces the
+programmer to prescribe explicitly the order in 
+which the operations in his program have to be executed
+even if the order is not relevant to the solution 
+of his problem  the requirement to indicate irrelevant
+sequencing can be removed if the language provides 
+facilities for specifying a task in a nonprocedural
+manner  in general a program specified in this 
+way will allow concurrent evaluation  this paper describes
+a conceptual framework for a high level programming 
+language providing both nonprocedural and sequential
+facilities  within a program nonprocedural and 
+sequential program modules may be nested freely
+
+cacm december 1977
+
+kessels j l w
+
+parallel programming descriptive programming
+nonprocedural programming definitional language 
+data flow programming applicative programming
+
+4.20
+
+ca771202 jb february 1 1980  405 am
+
+2865	4	2898
+2866	4	2898
+2898	4	2898
+2898	4	2898
+2972	4	2898
+3043	4	2898
+3128	4	2898
+3144	4	2898
+2597	5	2898
+2898	5	2898
+2898	5	2898
+2898	5	2898
+2946	5	2898
+

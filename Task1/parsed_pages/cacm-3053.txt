@@ -1,0 +1,108 @@
+
+
+
+packed scatter tables
+
+scatter tables for open addressing benefit
+from recursive entry displacements cutoffs for 
+unsuccessful searches and auxiliary cost functions  compared
+with conventional methods the new techniques 
+provide substantially improved tables that resemble exact-solution
+optimal packings  the displacements 
+are depth-limited approximations to an enumerative
+exhaustive optimization although packing costs 
+remain linear-on-with table size n  the techniques are
+primarily suited for important fixed but possibly 
+quite large tables for which reference frequencies may
+be known op-code tablesspelling dictionaries 
+access arrays  introduction of frequency weights further
+improves retrievals but the enhancement may 
+degrade cutoffs  
+
+cacm october 1978
+
+lyon g
+
+assignment problem backtrack programming hashing open
+addressing recursion scatter table rearrangements 
+
+3.74 4.0
+
+ca781008 dh january 29 1979  530 pm
+
+1207	4	3053
+1208	4	3053
+1676	4	3053
+1682	4	3053
+1728	4	3053
+1860	4	3053
+1973	4	3053
+1973	4	3053
+1973	4	3053
+1992	4	3053
+2018	4	3053
+2018	4	3053
+2032	4	3053
+2033	4	3053
+2107	4	3053
+2109	4	3053
+2138	4	3053
+2203	4	3053
+2203	4	3053
+2203	4	3053
+2251	4	3053
+2251	4	3053
+2251	4	3053
+2251	4	3053
+2359	4	3053
+2412	4	3053
+2524	4	3053
+2530	4	3053
+2534	4	3053
+2537	4	3053
+2543	4	3053
+2543	4	3053
+2543	4	3053
+2543	4	3053
+2552	4	3053
+2559	4	3053
+2559	4	3053
+2559	4	3053
+2573	4	3053
+2704	4	3053
+2770	4	3053
+2770	4	3053
+2770	4	3053
+2770	4	3053
+2974	4	3053
+2991	4	3053
+2991	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3053	4	3053
+3083	4	3053
+3083	4	3053
+3083	4	3053
+1329	5	3053
+1785	5	3053
+1973	5	3053
+1992	5	3053
+2107	5	3053
+2109	5	3053
+2412	5	3053
+2543	5	3053
+2673	5	3053
+2707	5	3053
+2770	5	3053
+3053	5	3053
+3053	5	3053
+3053	5	3053
+

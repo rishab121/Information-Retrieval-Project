@@ -1,0 +1,34 @@
+
+
+
+operations on generalized arrays with the genie compiler
+
+operations on vectors matrices and higher dimensional storage arrays are 
+standard features of most compilers today  the elements of such structures are
+usually restricted to be scalars  for many sophisticated applications
+this restriction can impose cumbersome data representations
+an efficient system has been devised and implemented which allows
+the elements of multidimensional arrays to themselves be multidimensional
+arrays  this system was developed from a storage structure
+in which the location length and content of each array is described
+by a codeword which can be interpreted by the system  code words may describe 
+arrays containing more codewords thus providing
+all needed descriptive information for hyperstructures of any form
+
+cacm may 1970
+
+sitton g a
+
+multidimensional arrays matrix operations
+storage control subscripting compilers
+
+4.12 4.29
+
+ca700502 jb february 13 1978  218 pm
+
+2064	4	2064
+1677	5	2064
+2064	5	2064
+2064	5	2064
+2064	5	2064
+

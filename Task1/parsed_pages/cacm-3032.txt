@@ -1,0 +1,44 @@
+
+
+
+reverse path forwarding of broadcast packets
+
+a broadcast packet is for delivery to all
+nodes of a network  algorithms for accomplishing 
+this delivery through a store-and-forward packet switching
+ computer network include 1 transmission 
+of separately addressed packets 2 multidestination
+addressing 3 hot potato forwarding4 spanning 
+tree forwarding and 5 source based forwarding  to
+this list of algorithms we add 6 reverse path 
+forwarding a broadcast routing method which exploits
+routing procedures and data structures already 
+available for packet switching  reverse path forwarding
+is a practical algorithm for broadcast routing 
+ in store-and-forward packet switching computer networks
+ the algorithm is described as being practical 
+ because it is not optimal according to metrics developed
+for its analysis in this paper and also because 
+it can be implemented in existing networks with less complexity
+than that required for the known alternatives 
+
+cacm december 1978
+
+dalal y
+metcalfe r
+
+reverse path forwarding broadcast packets routing
+computer networks store-and-forward packet 
+switching broadcast protocols
+
+3.81 4.32 5.32
+
+ca781207 dh  january 18 1979  310 pm
+
+3032	4	3032
+3119	4	3032
+2849	5	3032
+3032	5	3032
+3032	5	3032
+3032	5	3032
+

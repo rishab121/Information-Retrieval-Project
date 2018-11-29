@@ -1,0 +1,79 @@
+
+
+
+investigation of a new analytical method
+for numerical derivative evaluation
+
+a recently proposed analytical approach to
+numerical derivative evaluation is discussed  the 
+technique is shown to be both accurate and easy to
+apply though certain indicated modifications are 
+required  its use should greatly facilitate the writing
+and debugging of programs requiring derivatives 
+of highly complex functions
+
+cacm august 1964
+
+wilkins r d
+
+ca640802 jb march 9 1978  731 pm
+
+1028	4	1028
+1028	4	1028
+1216	4	1028
+1216	4	1028
+1278	4	1028
+1347	4	1028
+1392	4	1028
+1396	4	1028
+1396	4	1028
+1536	4	1028
+964	4	1028
+1028	5	1028
+1028	5	1028
+1028	5	1028
+1029	5	1028
+1216	5	1028
+1278	5	1028
+1347	5	1028
+1396	5	1028
+561	5	1028
+964	6	1028
+973	6	1028
+1028	6	1028
+1028	6	1028
+1028	6	1028
+1028	6	1028
+1029	6	1028
+1029	6	1028
+1029	6	1028
+1029	6	1028
+1083	6	1028
+1132	6	1028
+1214	6	1028
+1278	6	1028
+1278	6	1028
+1334	6	1028
+1365	6	1028
+1386	6	1028
+1387	6	1028
+1388	6	1028
+1392	6	1028
+1393	6	1028
+1394	6	1028
+1395	6	1028
+1396	6	1028
+1397	6	1028
+1496	6	1028
+284	6	1028
+407	6	1028
+3199	6	1028
+3200	6	1028
+3201	6	1028
+3202	6	1028
+3203	6	1028
+3204	6	1028
+561	6	1028
+561	6	1028
+730	6	1028
+

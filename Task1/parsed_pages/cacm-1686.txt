@@ -1,0 +1,35 @@
+
+
+
+computer synthesis of holograms for 3-d display
+
+optical and digital holography are reviewed
+ the mathematical model and computational techniques 
+of the authors digital holographic process are discussed
+and applications of computer holography are 
+suggested  computer holograms have been made of three-dimensional
+objects which give faithful reconstructions 
+even in white light  a new approach based on point
+apertures for the image is discussed  photographs 
+of the images reconstructed from digital holograms are presented
+
+cacm october 1968
+
+lesem l b
+hirsch p m
+
+holography optics fourier transforms computer
+applications display device photography physics 
+mathematics image processing
+
+3.17 3.19 5.19
+
+ca681001 jb february 21 1978  427 pm
+
+1686	5	1686
+1686	5	1686
+1686	5	1686
+2004	5	1686
+1686	6	1686
+1915	6	1686
+

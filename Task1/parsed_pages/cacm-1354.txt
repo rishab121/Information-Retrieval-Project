@@ -1,0 +1,106 @@
+
+
+
+conversion of decision tables to computer
+programs by rule mark techniques
+
+the rule mask technique is one method of converting
+limited entry decision tables to computer 
+programs  recent discussion suggest that in many circumstances
+it is to be preferred to the technique 
+of constructing networks or trees  a drawback of the
+technique as hitherto presented is its liability 
+to produce object programs of longer run time than necessary
+ in this paper a modification of the technique 
+is discussed which takes into account both rule frequencies
+and the relative times for evaluating conditions 
+ this can materially improve object program run time
+
+cacm november 1966
+
+king p j h
+
+ca661104 jb march 2 1978  341 pm
+
+1354	4	1354
+1354	4	1354
+1354	4	1354
+1488	4	1354
+1488	4	1354
+1994	4	1354
+2053	4	1354
+2053	4	1354
+2053	4	1354
+2220	4	1354
+2220	4	1354
+2220	4	1354
+2273	4	1354
+2273	4	1354
+2273	4	1354
+2453	4	1354
+2598	4	1354
+2726	4	1354
+2726	4	1354
+2856	4	1354
+2856	4	1354
+1172	5	1354
+1237	5	1354
+1327	5	1354
+1354	5	1354
+1354	5	1354
+1354	5	1354
+1684	5	1354
+2053	5	1354
+2220	5	1354
+2273	5	1354
+2453	5	1354
+2726	5	1354
+2856	5	1354
+3113	5	1354
+1172	6	1354
+1172	6	1354
+1172	6	1354
+1172	6	1354
+1172	6	1354
+1172	6	1354
+1237	6	1354
+1237	6	1354
+1237	6	1354
+1327	6	1354
+1327	6	1354
+1327	6	1354
+1327	6	1354
+1327	6	1354
+1354	6	1354
+1354	6	1354
+1354	6	1354
+1354	6	1354
+1354	6	1354
+1354	6	1354
+1354	6	1354
+1354	6	1354
+1488	6	1354
+1489	6	1354
+1489	6	1354
+1548	6	1354
+1548	6	1354
+1564	6	1354
+1684	6	1354
+250	6	1354
+2053	6	1354
+2053	6	1354
+2053	6	1354
+2220	6	1354
+2220	6	1354
+2220	6	1354
+2220	6	1354
+2221	6	1354
+2263	6	1354
+2263	6	1354
+2453	6	1354
+2598	6	1354
+2598	6	1354
+2691	6	1354
+2856	6	1354
+753	6	1354
+

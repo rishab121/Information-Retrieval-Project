@@ -1,0 +1,25 @@
+
+
+
+a general method of systematic interval computation
+for numerical integration of initial value 
+problems
+
+a procedure is given for continuously computing
+and monitoring the step size to be used by 
+a self-starting p-th order numerical integration method
+to solve an initial value problem  the procedure 
+uses an estimate of the truncation error to calculate the step size
+
+cacm october 1966
+
+martin w c
+paulson k c
+sashkin l
+
+ca661004 jb march 2 1978  405 pm
+
+1363	5	1363
+1363	5	1363
+1363	5	1363
+

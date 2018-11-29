@@ -1,0 +1,28 @@
+
+
+
+a simulation of hospital admission policy
+
+a study is described which simulates different
+admission policies of a large specialized hospital 
+ the objective is to determine better policies for
+stabilization of admission and census rates while 
+maintaining a reasonably full hospital  there types of
+policies were examined admission based on percentages 
+of discharge rates discharge rates plus or minus a
+constant and fixed authorizations independent of 
+discharge rates  the last type policy produced more stable
+simulated results and when put into practice 
+improvements were realized
+
+cacm may 1966
+
+smith w g
+solomon jr m b
+
+ca660511 jb march 3 1978  942 am
+
+1426	5	1426
+1426	5	1426
+1426	5	1426
+

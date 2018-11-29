@@ -1,0 +1,15 @@
+
+
+
+crout with pivoting ii algorithm 43
+
+cacm april 1961
+
+thacher jr h c
+
+ca610410 jb march 17 1978  1202 am
+
+358	5	358
+358	5	358
+358	5	358
+

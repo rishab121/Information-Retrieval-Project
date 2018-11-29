@@ -1,0 +1,27 @@
+
+
+
+coding isomorphisms
+
+the coding of external symbols into symbols
+internal to a compute can sometimes be carried 
+out in such a way that relevant informational properties
+are preserved but in a form much more easily 
+dealt with  a case in point is presented
+
+cacm february 1960
+
+lynch w c
+
+ca600210 jb march 22 1978  212 pm
+
+222	4	222
+222	4	222
+364	4	222
+799	4	222
+222	5	222
+222	5	222
+222	5	222
+44	5	222
+82	5	222
+

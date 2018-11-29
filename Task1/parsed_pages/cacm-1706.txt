@@ -1,0 +1,66 @@
+
+
+
+champ-character manipulation procedures
+
+a new programming language facility for symbol
+manipulation is described  string procedures 
+may be declared and called in a standard algol context
+ algol procedures can in turn be called by string 
+procedures so that numeric and symbolic processes may
+conveniently be programmed together  concatenation 
+and a variant of snobols pattern matching make up
+a set of primitive commands  these are assembled 
+together into conditional expressions which are to be
+used to provide alternative computational patterns 
+ arrays of strings are processed using quantifiers
+ the class of things which may be assigned to an 
+identifier can be restricted by a procedure expressed
+in the notation  the language facilities have 
+been implemented in the algol compiler for the burroughs b5500
+
+cacm august 1968
+
+storm e f
+
+symbol manipulation string handling character
+manipulation conditional expressions procedures 
+structure matching recursive programming quantifiers
+
+4.22 4.13
+
+ca680808 jb february 22 1978  1039 am
+
+1024	4	1706
+1051	4	1706
+1102	4	1706
+1132	4	1706
+1390	4	1706
+1395	4	1706
+1486	4	1706
+1549	4	1706
+1706	4	1706
+1706	4	1706
+1826	4	1706
+1878	4	1706
+378	4	1706
+2060	4	1706
+2155	4	1706
+2168	4	1706
+2719	4	1706
+2723	4	1706
+2838	4	1706
+2842	4	1706
+2855	4	1706
+2879	4	1706
+3077	4	1706
+3080	4	1706
+3106	4	1706
+627	4	1706
+106	4	1706
+1180	5	1706
+210	5	1706
+1706	5	1706
+1706	5	1706
+1706	5	1706
+

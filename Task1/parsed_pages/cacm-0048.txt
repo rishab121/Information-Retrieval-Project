@@ -1,0 +1,37 @@
+
+
+
+shift-register code for indexing applications
+
+in this communication the use of a shift-register
+code with n  10 is described for calling 
+64 wireless telemetering stations in a fixed cyclical order
+ a high degree of redundancy is used permitting 
+a single-error correcting code minimum-distance-three
+code with 64 10-bit code words to be employed 
+as the station identification code  embedding this in
+the shift-register code with period 1023 permits 
+the code to be employed without punctuation each of
+the telemetering station receivers simply putting 
+received ones and zeros into a shift register  each
+time the given code combination arises identifying 
+the particular station barring for tuitous error combinations
+of very low probability it has been called 
+ the communication describes the properties and application
+of the code in some detail and the finding 
+of the particular example to be employed on ural the
+soviet-built drum computer donated to the indian 
+statistical institute by the united nations
+technical aid administration untaa
+
+cacm october 1959
+
+nadler m
+sengupta a
+
+ca591011 jb march 22 1978  407 pm
+
+48	5	48
+48	5	48
+48	5	48
+

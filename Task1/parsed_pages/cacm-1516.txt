@@ -1,0 +1,32 @@
+
+
+
+automatic data compression
+
+the information explosion noted in recent
+years makes it essential that storage requirements 
+for all information be kept to a minimum  a fully automatic
+and rapid three-part compressor which can 
+be used with any body of information to greatly reduce
+slow external storage requirements and to increase 
+the rate of information transmission through a computer
+is described in this paper  the system will 
+also automatically decode the compressed information
+on an item-by-item basis when it is required  the 
+three component compressors which can be used separately
+to accomplish their specific tasks are discussed 
+nupak for the automatic compression of numerical data anpak
+for the automatic compression of any information 
+and iopak for further compression of information to be stored on tape or cards
+
+cacm november 1967
+
+marron b a
+demaine p a d
+
+ca671104 jb february 26 1978  308 pm
+
+1516	5	1516
+1516	5	1516
+1516	5	1516
+

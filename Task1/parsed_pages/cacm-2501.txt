@@ -1,0 +1,69 @@
+
+
+
+wylbur an interactive text editing and remote job entry system
+
+wylbur is a comprehensive system for manipulating
+all kinds of text such as computer programs 
+letters and manuscripts using typewriter terminals
+connected to a computer  it has facilities for 
+remote job entry and retrieval as well as facilities
+for text alignment and justification  a powerful 
+method for addressing text by content is provided  this
+paper describes the external appearance of wylbur 
+as well as its internal structure  a short description
+of the major features of orvyl a general purpose 
+time-sharing system which operates in conjunction with wylbur is also included
+
+cacm may 1973
+
+fajman r
+borgelt j
+
+text editing time-sharing on-line text editing
+interactive text editing terminal remote terminal 
+terminal system interactive terminal remote job entry
+remote job retrieval program preparation document 
+preparation data entry content addressing
+
+3.70 3.79 4.10 4.19 4.41 4.43 4.49
+
+ca730519 jb january 23 1978  411 pm
+
+1892	4	2501
+1901	4	2501
+2085	4	2501
+2095	4	2501
+2218	4	2501
+2277	4	2501
+2299	4	2501
+2319	4	2501
+2329	4	2501
+2358	4	2501
+2373	4	2501
+2380	4	2501
+2434	4	2501
+2499	4	2501
+2501	4	2501
+2501	4	2501
+2582	4	2501
+2629	4	2501
+2669	4	2501
+2828	4	2501
+2863	4	2501
+2881	4	2501
+2915	4	2501
+2928	4	2501
+2996	4	2501
+3006	4	2501
+3067	4	2501
+3114	4	2501
+1502	5	2501
+1751	5	2501
+2501	5	2501
+2501	5	2501
+2501	5	2501
+2623	5	2501
+2501	6	2501
+2537	6	2501
+

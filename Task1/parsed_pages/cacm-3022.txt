@@ -1,0 +1,40 @@
+
+
+
+computer science faculties the current status of minorities and women
+
+the results of a survey conducted in the fall
+of 1975 to determine the status of women and 
+minority faculty members in academic computer science
+are presented  faculty members were compared with 
+respect to professional background salaries teaching
+load publication records and research grants 
+ analysis of the data indicated that the over-all verdict
+is one of general equality among women minorities 
+and men
+
+cacm february 1978
+
+mamrak s
+montanelli rr
+
+discrimination against women discrimination against
+minorities faculty computer science degree 
+programs affirmative action teaching loads salaries publications
+
+1.52 1.53 2.2 2.3
+
+ca780201 jb march 28 1978  511 pm
+
+3022	4	3022
+3123	4	3022
+2823	5	3022
+3022	5	3022
+3022	5	3022
+3022	5	3022
+3123	5	3022
+2823	6	3022
+2861	6	3022
+2962	6	3022
+3022	6	3022
+

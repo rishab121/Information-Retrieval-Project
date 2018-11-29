@@ -1,0 +1,33 @@
+
+
+
+jump searching a fast sequential search technique
+
+when sequential file structures must be used
+and binary searching is not feasible jump searching 
+becomes an appealing alternative  this paper explores
+variants of the classic jump searching scheme 
+where the optimum jump size is the square root of the
+number of records  multiple level and variable 
+size jump strategies are explored appropriate applications
+are discussed and performance is evaluated
+
+cacm october 1978
+
+shneiderman b
+
+jump searching sequential files file management
+search strategies database structures index 
+searching
+
+3.74 4.34
+
+ca781003 dh january 29 1979  615 pm
+
+3058	4	3058
+3063	4	3058
+2978	5	3058
+3058	5	3058
+3058	5	3058
+3058	5	3058
+

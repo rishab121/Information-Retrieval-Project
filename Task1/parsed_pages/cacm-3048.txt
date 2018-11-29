@@ -1,0 +1,44 @@
+
+
+
+performance evaluation of highly concurrent
+computers by deterministic simulation
+
+simulation is presented as a practical technique
+for performance evaluation of alternative 
+configurations of highly concurrent computers  a technique
+is described for constructing a detailed 
+deterministic simulation model of a system  in the model
+a control stream replaces the instruction and 
+data streams of the real system  simulation of the
+system model yields the timing and resource usage 
+statistics needed for performance evaluation without
+the necessity of emulating the system  as a case 
+study the implementation of a simulator of a model
+of the cpu-memory subsystem of the ibm 360/91 is 
+described  the results of evaluating some alternative
+system designs are discussed  the experiments 
+reveal that for the case study the major bottlenecks
+in the system are the memory unit and the fixed 
+point unit  further it appears that many of the sophisticated
+pipelining and buffering technique simplemented 
+in the architecture of the ibm 360/91 are of little
+value when high-speed cache memory is used as 
+in the ibm 360/195
+
+cacm november 1978
+
+kumar b
+davidson e
+
+performance evaluation deterministic simulation
+control stream concurrent computers
+
+6.20 8.1
+
+ca781103 dh january 26 1979  1126 am
+
+3048	5	3048
+3048	5	3048
+3048	5	3048
+

@@ -1,0 +1,19 @@
+
+
+
+rootfinder algorithm
+
+cacm june 1960
+
+thacher jr h c
+
+ca600612 jb march 20 1978  932 pm
+
+178	5	178
+178	5	178
+178	5	178
+1667	5	178
+178	6	178
+1242	6	178
+327	6	178
+

@@ -1,0 +1,45 @@
+
+
+
+a tape file merge pattern generator
+
+a routine is presented which specifies the
+sequence of merge cycles to effect the merging of 
+sorted tape files  the routine is designed to minimize
+elapsed computer time by varying the power of 
+the merge cycles so as to use all the available tape
+drives with its characteristic of assigning one 
+drive to a single-reel file and two drives to each multiple-reel file
+
+cacm may 1963
+
+cooke w s
+
+ca630509 jb march 14 1978  1121 am
+
+2017	5	858
+851	5	858
+858	5	858
+858	5	858
+858	5	858
+849	6	858
+850	6	858
+851	6	858
+852	6	858
+853	6	858
+854	6	858
+855	6	858
+856	6	858
+857	6	858
+858	6	858
+858	6	858
+859	6	858
+860	6	858
+861	6	858
+862	6	858
+863	6	858
+864	6	858
+865	6	858
+865	6	858
+866	6	858
+

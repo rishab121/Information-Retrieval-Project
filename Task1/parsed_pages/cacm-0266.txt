@@ -1,0 +1,15 @@
+
+
+
+fitting spheres by the method of least squares
+
+cacm november 1961
+
+robinson s m
+
+ca611102 jb march 15 1978  1100 pm
+
+266	5	266
+266	5	266
+266	5	266
+

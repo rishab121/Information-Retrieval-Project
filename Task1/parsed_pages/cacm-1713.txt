@@ -1,0 +1,43 @@
+
+
+
+on overcoming high-priority paralysis
+in multiprogramming systems a case his tory
+
+high-priority paralysis is the degradation
+that can occur in multiprogramming systems when 
+scheduling is based primarily on preassigned priorities
+ it can be alleviated by modifying the scheduling 
+algorithm to maximize the number of programs active
+at one time  the case his tory given in this paper 
+indicates two general methods by which simultaneity can
+be increased  possible refinements in the scheduling 
+algorithm for future improvements are considered briefly
+
+cacm august 1968
+
+stevens d f
+
+multiprogram scheduling dynamic priority assignment scheduling
+
+4.30 4.32 4.39
+
+ca680801 jb february 22 1978  1119 am
+
+1713	4	1713
+1713	4	1713
+1901	4	1713
+1901	4	1713
+491	4	1713
+491	4	1713
+168	5	1713
+185	5	1713
+1713	5	1713
+1713	5	1713
+1713	5	1713
+3072	5	1713
+1713	6	1713
+2219	6	1713
+2245	6	1713
+2375	6	1713
+

@@ -1,0 +1,36 @@
+
+
+
+complex gamma function with error control
+
+an algorithm to compute the gamma function and
+log gamma function of a complex variable is presented 
+ the standard algorithm is modified in several respects
+to insure the continuity of the function value 
+and to reduce accumulation of round-off errors  in
+addition to computation of function values this 
+algorithm includes an object-time estimation of round-off
+errors  experimental data with regard to the 
+effectiveness of this error control are presented 
+a fortran program for the algorithm appears in the 
+algorithms section of this issue
+
+cacm april 1972
+
+kuki h
+
+complex gamma function gamma function complex
+log gamma function loggamma function round-off 
+error control inherent error control run-time error estimates error estimates
+
+5.11 5.12
+
+ca720407 jb january 31 1978  1259 pm
+
+2366	4	2366
+2364	5	2366
+2366	5	2366
+2366	5	2366
+2366	5	2366
+2366	6	2366
+

@@ -1,0 +1,46 @@
+
+
+
+index ranges for matrix calculi
+
+the paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix calculi described by the authors 
+in a previous paper  this scheme attempts program optimization
+by transforming the original algorithm 
+rather than the machine code  the goal is to automatically
+generate code for handling the tedious address 
+calculations necessitated by complicated data structures
+ the paper is therefore preoccupied with indexing 
+by position  the relationship of indexing by
+name and indexing by position is discussed
+
+cacm december 1972
+
+bayer r
+witzgall c
+
+address calculations algorithm transformation
+compilation data structures indexing by name 
+indexing by position index domain index map index
+range matrix expressions normal form programming 
+languages program optimization range operations symbolic
+manipulation syntactic analysis well-formed 
+expressions
+
+4.12 4.22 5.14
+
+ca721202 jb january 27 1978  112 pm
+
+1614	4	2253
+2253	4	2253
+2253	4	2253
+2254	4	2253
+2557	4	2253
+2081	5	2253
+2253	5	2253
+2253	5	2253
+2253	5	2253
+437	5	2253
+

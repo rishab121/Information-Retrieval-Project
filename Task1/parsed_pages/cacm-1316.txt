@@ -1,0 +1,20 @@
+
+
+
+bessel functions of the first kind algorithm 236 s17
+
+cacm february 1965
+
+gautschi w
+
+ca650208 jb march 7,1978  1111 pm
+
+1316	5	1316
+1316	5	1316
+1316	5	1316
+1909	5	1316
+134	6	1316
+1023	6	1316
+1284	6	1316
+1316	6	1316
+

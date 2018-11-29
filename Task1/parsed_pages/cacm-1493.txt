@@ -1,0 +1,15 @@
+
+
+
+generation of hilbert derived test matrix algorithm 274 f1
+
+cacm january 1966
+
+boothroyd j
+
+ca660103b jb march 23 1978  732 pm
+
+1493	5	1493
+1493	5	1493
+1493	5	1493
+

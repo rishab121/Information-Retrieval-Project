@@ -1,0 +1,21 @@
+
+
+
+self-stabilizing systems in spite of distributed control
+
+cacm november 1974
+
+dijkstra e w
+
+multiprocessing networks self-stabilization synchronization
+mutual exclusion robustness sharing 
+error recovery distributed control harmonious cooperation self-repair
+
+4.32
+
+ca741106 jb january 16,1978  1018 am
+
+2578	5	2578
+2578	5	2578
+2578	5	2578
+

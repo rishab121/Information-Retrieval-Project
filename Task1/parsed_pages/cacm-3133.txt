@@ -1,0 +1,36 @@
+
+
+
+logic and semantic networks
+
+an extended form of semantic network is defined which can
+be regarded as a syntactic variant of the clausal form of logic
+by virtue of its relationship with logic the extended
+semantic network is provided with a precise semantics
+inference rules and a procedural interpretation  on
+the other hand by regarding semantic networks as an 
+abstract data structure for the representation of clauses we provide a
+theorem-prover with a potentially useful indexing scheme and path-following
+strategy for guiding the search for a proof
+
+cacm march 1979
+
+deliyanni a
+kowalski r
+
+logic semantic networks theorem-proving indexing resolution deduction 
+logic programming
+
+3.42 3.64 5.21
+
+ca790304 dh april 12 1979  353 pm
+
+3133	4	3133
+3133	5	3133
+3133	5	3133
+3133	5	3133
+3154	5	3133
+2046	6	3133
+2110	6	3133
+3133	6	3133
+

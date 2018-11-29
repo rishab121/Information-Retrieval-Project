@@ -1,0 +1,85 @@
+
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax 
+in particular of algol is described in this paper 
+a fortran ii computer program for carrying out the 
+elimination algorithm of gornsimilar to gaussian elimination
+for linear systems of algebraic equations 
+is described  this was applied to numerous smaller
+languages including some sublanguage of algol  
+a hand calculation result of the application of the algorithm
+to all of algol is given thus expressing 
+the revised algol 1960 syntax in completely nonrecursive
+terms as far as its context-free portion is 
+concerned  this description in many ways is far more
+intuitively understood than the previous recursive 
+description it is suggested  the paper also includes
+results of the machine program which does not 
+include a simplification algorithm
+
+cacm april 1966
+
+carr iii j w
+weiland j
+
+ca660402 jb march 3 1978  1102 am
+
+1086	4	1453
+1132	4	1453
+1234	4	1453
+1263	4	1453
+1263	4	1453
+1265	4	1453
+1270	4	1453
+1323	4	1453
+1358	4	1453
+1379	4	1453
+1380	4	1453
+1453	4	1453
+1453	4	1453
+1464	4	1453
+1484	4	1453
+1491	4	1453
+1498	4	1453
+1613	4	1453
+1614	4	1453
+1781	4	1453
+1825	4	1453
+1860	4	1453
+1945	4	1453
+2083	4	1453
+2178	4	1453
+2179	4	1453
+2252	4	1453
+2325	4	1453
+2341	4	1453
+2546	4	1453
+2645	4	1453
+2652	4	1453
+2684	4	1453
+2842	4	1453
+2929	4	1453
+2934	4	1453
+3069	4	1453
+669	4	1453
+679	4	1453
+691	4	1453
+761	4	1453
+949	4	1453
+989	4	1453
+989	5	1453
+1453	5	1453
+1453	5	1453
+1453	5	1453
+1613	5	1453
+3184	5	1453
+987	6	1453
+1086	6	1453
+1134	6	1453
+1453	6	1453
+3184	6	1453
+

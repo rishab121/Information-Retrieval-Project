@@ -1,0 +1,61 @@
+
+
+
+representation of many-sided polygons
+and polygonal lines for rapid processing
+
+a representation for polygons and polygonal
+lines is described which allows sets of consecutive 
+sides to be collectively examined  the set of sides are
+arranged in a binary tree hierarchy by inclusion 
+ a fast algorithm for testing the inclusion of a poin t
+in a many-sided polygon is given  the speed of 
+the algorithm is discussed for both ideal and practical
+examples  it is shown that the poin ts of intersection 
+of two polygonal lines can be located by what is essentially
+a binary tree search  the algorithm and 
+a practical example are discussed  the representation
+overcomes many of the disadvantages associated 
+with the various fixed-grid methods for representing curves and regions
+
+cacm march 1977
+
+burton w
+
+boundary line representation cartography computer
+graphics computer-searchable structures contour 
+representation geographic information processing graphic
+data retrieval in tersection of curves line-drawing 
+processing poin ts in polygons regional boundary
+representation spatial information
+
+3.14 3.23 3.30 3.79 8.2
+
+ca770305 jb december 30 1977  1244 am
+
+1630	4	2987
+1804	4	2987
+1804	4	2987
+2547	4	2987
+2987	4	2987
+2987	4	2987
+2987	4	2987
+2987	4	2987
+2987	4	2987
+2987	4	2987
+2987	4	2987
+3165	4	2987
+1326	5	2987
+1630	5	2987
+2125	5	2987
+2547	5	2987
+2633	5	2987
+2987	5	2987
+2987	5	2987
+2987	5	2987
+421	5	2987
+524	5	2987
+3165	5	2987
+1326	6	2987
+2987	6	2987
+

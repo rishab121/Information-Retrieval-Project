@@ -1,0 +1,36 @@
+
+
+
+computer networks in higher education socio-economic-political factors
+
+this study presents the results of a nationwide
+survey of computer networks in higher education 
+conducted during 1971-73  five major and 18 minor networks
+were identified  the five major networks 
+included the arpa net the california state college network
+the university of iowa/iowa state university 
+network the michigan educational research information triad
+inc and the triangle universities computation 
+center network in north carolina in-depth studies were
+conducted of the latter two nets  based on the 
+experiences of these operating networks a number of factors
+are identified for consideration in developing 
+networks  finally recommendations are advanced regarding
+the development of networks in higher education 
+in the future
+
+cacm april 1975
+
+chambers j a
+poore r v
+
+networks higher education
+
+1.3 2.45
+
+ca750401 jb january 9 1978  417 pm
+
+2776	5	2776
+2776	5	2776
+2776	5	2776
+

@@ -1,0 +1,32 @@
+
+
+
+optimal starting values for newton-raphson calculation of sqrtx
+
+the problem of obtaining starting values for
+the newton-raphson calculation of sqrtx on a 
+digital computer is considered  it is shown that the
+conventionally used best uniform approximations 
+to sqrtx do not provide optimal starting values 
+the problem of obtaining optimal starting values 
+ the problem of obtaining optimal starting values is
+stated and several basic results are proved  a 
+table of optimal polynomial starting values is given
+
+cacm july 1967
+
+moursund d g
+
+ca670707 jb february 28 1978  853 am
+
+1566	4	1566
+1440	5	1566
+1566	5	1566
+1566	5	1566
+1566	5	1566
+1932	5	1566
+2094	5	1566
+962	6	1566
+1566	6	1566
+1566	6	1566
+

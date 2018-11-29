@@ -1,0 +1,44 @@
+
+
+
+sorting with large volume random access drum storage
+
+an approach to sorting records is described
+using random access drum memory  the sort program 
+described is designed to be a generalized self-generating
+sort applicable to a variety of record statements 
+ this description is divided into three parts  the
+first part presents the operating environment the 
+second defines the general solution the third part
+describes the internal sort-merge technique
+
+cacm may 1963
+
+falkin j
+savastano jr s
+
+ca630511 jb march 14 1978  1114 am
+
+2017	5	856
+856	5	856
+856	5	856
+856	5	856
+849	6	856
+850	6	856
+851	6	856
+852	6	856
+853	6	856
+854	6	856
+855	6	856
+856	6	856
+857	6	856
+858	6	856
+859	6	856
+860	6	856
+861	6	856
+862	6	856
+863	6	856
+864	6	856
+865	6	856
+866	6	856
+

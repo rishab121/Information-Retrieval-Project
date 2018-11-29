@@ -1,0 +1,28 @@
+
+
+
+derivatives algorithm 282 $s22
+
+cacm january 1970
+
+gautschi w
+klein b j
+
+recursive computation successive derivatives error control
+
+5.11 5.12
+
+ca700112 jb february 14 1978  145 pm
+
+1909	4	2119
+2119	4	2119
+2119	4	2119
+2149	4	2119
+1023	5	2119
+2119	5	2119
+2119	5	2119
+2119	5	2119
+2129	5	2119
+2404	5	2119
+2119	6	2119
+

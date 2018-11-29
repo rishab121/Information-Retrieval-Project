@@ -1,0 +1,32 @@
+
+
+
+performance of rollback recovery systems under intermittent failures
+
+a mathematical model of a transaction-oriented
+system under intermittent failures is proposed 
+ the system is assumed to operate with a checkpointing
+and rollback/recovery method to ensure reliable 
+information processing  the model is used to derive the
+principal performance measures including availability 
+response time and the system saturation point   
+
+cacm june 1978
+
+gelenbe e
+derochette d
+
+database reliability file systems checkpoints recovery
+procedures checking techniques reliability 
+and system performance evaluation
+
+3.72 3.73 4.33 4.35 4.6 5.5 8.1
+
+ca780608 dh february 9 1979  1026 am
+
+3089	4	3089
+2599	5	3089
+3089	5	3089
+3089	5	3089
+3089	5	3089
+

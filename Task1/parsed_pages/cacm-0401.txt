@@ -1,0 +1,20 @@
+
+
+
+allocation of storage for arrays in algol 60
+
+cacm january 1961
+
+sattley k
+
+ca610113 jb march 17 1978  114 am
+
+321	5	401
+401	5	401
+401	5	401
+401	5	401
+196	6	401
+400	6	401
+401	6	401
+402	6	401
+

@@ -1,0 +1,45 @@
+
+
+
+fortran 77
+
+there is a new standard fortran  the official
+title is american national standard programming 
+language fortran x3.9-1978 but it is more commonly
+referred to as fortran 77 since its development 
+was completed in 1977  it replaces the fortran standard
+designated x3.9-1966  this paper describes 
+many of the features of fortran 77 and also provides
+some information about how and why the standard 
+was developed 
+
+cacm october 1978
+
+brainerd w
+
+none
+
+none
+
+ca781001 dh january 29 1979  628 pm
+
+1613	4	3060
+1646	4	3060
+1900	4	3060
+1955	4	3060
+2025	4	3060
+2154	4	3060
+2154	4	3060
+2365	4	3060
+2506	4	3060
+2915	4	3060
+3060	4	3060
+3060	4	3060
+3060	4	3060
+987	5	3060
+1900	5	3060
+2154	5	3060
+3060	5	3060
+3060	5	3060
+3060	5	3060
+

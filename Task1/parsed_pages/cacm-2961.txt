@@ -1,0 +1,37 @@
+
+
+
+experimental investigations of the utility
+of detailed flowcharts in programming
+
+this paper describes previous research on
+flowcharts and a series of controlled experiments 
+to test the utility of detailed flowcharts as an aid
+to program composition comprehension debugging 
+and modification  no statistically significant difference
+between flowchart and nonflowchart groups 
+has been shown thereby calling into question the utility
+of detailed flowcharting  a program of further 
+research is suggested
+
+cacm june 1977
+
+shneiderman b
+mayer r
+mckay d
+heller p
+
+flowcharts program composition program comprehension
+debugging modification experimental testing 
+human factors
+
+1.5 4.0
+
+ca770602 jb december 29 1977  133 am
+
+2961	4	2961
+2961	5	2961
+2961	5	2961
+2961	5	2961
+721	5	2961
+

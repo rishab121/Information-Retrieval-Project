@@ -1,0 +1,44 @@
+
+
+
+thoth a portable real-time operating system 
+
+thoth isa real-time operating system which is designed to be portable
+over a large set of machines  it is currently running on two minicomputers
+with quite different architectures  both the system and application
+programs which use it are written in a high-level language
+because the system is implemented by the same software on different
+hardware it has the same interface to user programs  hence
+application programs which use thoth are  highly portable  thoth
+encourages structuring programs as networks of communicating processes 
+by providing efficient interprocess communication primitives
+
+cacm february 1979
+
+cheriton d
+malcolm m
+melen l
+sager g
+
+portability real time operating systems minicomputer
+
+3.80 4.30 4.35
+
+ca790206 dh april 12 1979  910 am
+
+2319	4	3127
+2378	4	3127
+2320	4	3127
+2632	4	3127
+2738	4	3127
+2740	4	3127
+2868	4	3127
+2928	4	3127
+3127	4	3127
+3127	4	3127
+2080	5	3127
+2277	5	3127
+3127	5	3127
+3127	5	3127
+3127	5	3127
+

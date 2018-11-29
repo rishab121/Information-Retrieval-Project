@@ -1,0 +1,20 @@
+
+
+
+determination of the square root of a positive
+definite matrix algorithm 298 f1
+
+cacm june 1969
+
+duke b j
+
+matrix symmetric matrix positive definite matrix matrix square root
+
+5.14
+
+ca690611 jb february 17 1978  953 am
+
+1882	5	1882
+1882	5	1882
+1882	5	1882
+

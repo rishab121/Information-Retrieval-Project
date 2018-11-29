@@ -1,0 +1,26 @@
+
+
+
+shellsort algorithm 201 $m1
+
+cacm june 1970
+
+chandler j p
+harrison w c
+
+sorting minimal storage sorting digital computer sorting
+
+5.31
+
+ca700614 jb february 13 1978  1029 am
+
+1175	4	2041
+1919	4	2041
+2017	4	2041
+2041	4	2041
+2216	4	2041
+2041	5	2041
+2041	5	2041
+2041	5	2041
+864	5	2041
+

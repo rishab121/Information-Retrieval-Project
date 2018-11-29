@@ -1,0 +1,36 @@
+
+
+
+additional results on key-to-address transform
+techniques a fundamental performance study on 
+large existing formatted files
+
+cacm november 1972
+
+lum v y
+yuen p s t
+
+hashing hashing techniques hashing methods hash
+coding keys key transformation key-to-address 
+transformation direct addressing direct access method
+randomizing random access file organization 
+file search scatter storage information retrieval
+
+3.7 3.72 3.73 3.74 3.79 4.9
+
+ca721111 jb january 27 1978  131 pm  
+
+2258	4	2258
+2319	4	2258
+2313	4	2258
+2359	4	2258
+2437	4	2258
+2552	4	2258
+2781	4	2258
+2860	4	2258
+2991	4	2258
+2203	5	2258
+2258	5	2258
+2258	5	2258
+2258	5	2258
+

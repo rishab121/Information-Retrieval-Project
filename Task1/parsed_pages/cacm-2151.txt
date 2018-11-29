@@ -1,0 +1,53 @@
+
+
+
+user program measurement in a time-shared environment
+
+a general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment  the tx-2 computer 
+at mit lincoln laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported  a scenario showing
+the system in use is presented  finally it is 
+shown how other time-sharing systems may provide similar measuring facilities
+
+cacm october 1971
+
+nemeth a g
+rovner p d
+
+operating systems multiprogramming systems time-sharing
+systems software measurement user program 
+measurement measurement technology tx-2 computer
+virtual computers performance improvement
+
+4.30 4.32 4.42 4.43
+
+ca711005 jb february 2 1978  105 pm
+
+1957	4	2151
+2151	4	2151
+2151	4	2151
+2151	4	2151
+2318	4	2151
+3103	4	2151
+3148	4	2151
+1653	5	2151
+1747	5	2151
+1860	5	2151
+2151	5	2151
+2151	5	2151
+2151	5	2151
+2719	5	2151
+2967	5	2151
+1626	6	2151
+210	6	2151
+2151	6	2151
+2151	6	2151
+2167	6	2151
+2210	6	2151
+2645	6	2151
+2657	6	2151
+

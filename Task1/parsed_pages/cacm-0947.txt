@@ -1,0 +1,19 @@
+
+
+
+supplement to the algol 60 report
+
+cacm january 1963
+
+woodger m
+
+ca630101 jb march 14 1978  305 pm
+
+947	5	947
+947	5	947
+947	5	947
+761	5	947
+196	6	947
+947	6	947
+3184	6	947
+

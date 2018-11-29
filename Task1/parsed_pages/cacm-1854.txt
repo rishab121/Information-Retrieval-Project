@@ -1,0 +1,100 @@
+
+
+
+on multiprogramming machine coding and computer organization
+
+the author feels that the interrupt feature
+which is available in most modern computers is 
+a potent source of programming pitfalls and errors and
+that it therefore may heavily contribute to the 
+unreliability of programs making use of it  a programming
+scheme is presented which avoids the concept 
+of the interrupt and permits the specification of concurrent
+or pseudoconcurrent activities in a supposedly 
+more perspicuous manner  it is intended to serve as
+a basis for the construction of operating systems 
+which are prime examples of programs with concurrent
+activities  the scheme includes a set of basic 
+instructions for the generation termination and synchronization
+of parallel processes  a set of routines 
+representing these instructions and thereby simulating a
+hypothetical machine organization has been implemented 
+and test on the ibm system/360  two programs using these
+instructions written in pl360 are presented 
+
+cacm september 1969
+
+wirth n
+
+multiprogramming parallelism interrupt input-output
+computer organization file handling pl360
+
+4.21 4.22 4.32 4.41 6.21
+
+ca690901 jb february 15 1978  514 pm
+
+1380	4	1854
+1458	4	1854
+1523	4	1854
+1552	4	1854
+1603	4	1854
+1693	4	1854
+1698	4	1854
+1747	4	1854
+1748	4	1854
+1781	4	1854
+1805	4	1854
+1828	4	1854
+1828	4	1854
+1854	4	1854
+1854	4	1854
+1854	4	1854
+1854	4	1854
+1860	4	1854
+1877	4	1854
+1877	4	1854
+1960	4	1854
+1960	4	1854
+2060	4	1854
+2150	4	1854
+2187	4	1854
+2317	4	1854
+2319	4	1854
+2377	4	1854
+2377	4	1854
+2378	4	1854
+2342	4	1854
+2376	4	1854
+2379	4	1854
+2424	4	1854
+2482	4	1854
+2497	4	1854
+2558	4	1854
+2618	4	1854
+2625	4	1854
+2632	4	1854
+2632	4	1854
+2704	4	1854
+2723	4	1854
+2738	4	1854
+2740	4	1854
+2741	4	1854
+2840	4	1854
+2867	4	1854
+2941	4	1854
+557	4	1854
+3105	4	1854
+3144	4	1854
+3184	4	1854
+1421	5	1854
+1471	5	1854
+1748	5	1854
+1749	5	1854
+1854	5	1854
+1854	5	1854
+1854	5	1854
+1960	5	1854
+1471	6	1854
+1749	6	1854
+1854	6	1854
+

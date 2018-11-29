@@ -1,0 +1,29 @@
+
+
+
+computer-made perspective movies as a scientific and communication tool
+
+it is easy to program the basic transformation
+required for a perspective drawing  this fact 
+plus the advent of high speed microfilm printers such
+as the general dynamics electronics s-c 4020 makes 
+possible perspective movies as the direct output from
+a computer  the programming of such a movie is 
+briefly described for studying the angular motions of
+a satellite containing an attitude control system 
+ in the movie a domino-shaped box represents the satellite
+and a sphere with circles of latitude and 
+longitude represents the earth  the cost was approximately
+three to eight minutes of ibm 7090 time per 
+one minute of movie
+
+cacm march 1964
+
+zajac e e
+
+ca640319 jb march 10 1978  226 am
+
+1113	5	1113
+1113	5	1113
+1113	5	1113
+

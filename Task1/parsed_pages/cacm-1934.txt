@@ -1,0 +1,34 @@
+
+
+
+on arithmetic expressions and trees
+
+a description is given of how a tree representing the
+evaluation of an arithmetic expression 
+can be drawn in such a way that the number of accumulators
+needed for the computation can be represented 
+in a straightforward manner  this representation reduces
+the choice of the best order of computation 
+to a specific problem under the theory of graphs
+ an algorithm to solve this problem is presented
+
+cacm february 1969
+
+redziejowski r r
+
+arithmetic expression compiler design graph theory
+programming storage minimization topological 
+orderingtree
+
+4.12 5.32
+
+ca690204 jb february 20 1978  1111 am
+
+1807	4	1934
+1934	4	1934
+2175	4	1934
+1551	5	1934
+1934	5	1934
+1934	5	1934
+1934	5	1934
+

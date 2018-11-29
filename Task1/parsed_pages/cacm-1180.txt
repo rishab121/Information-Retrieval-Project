@@ -1,0 +1,36 @@
+
+
+
+axle an axiomatic language for string transformations
+
+axle is a language designed for data manipulation
+ data arranged in a linear form in a workspace 
+is transformed according to a table of axioms called imperatives
+ a transformation consists of a matching 
+procedure which decides where an imperative is applicable
+and a replacement procedure that modifies 
+that part of the workspace  imperatives are applied
+in accordance with definitions of symbolic terms 
+presented systematically in an assertion table  the
+process of definition includes the special case 
+of recursive assertions  several complete programs
+of imperatives are given to show a few applications
+of the language
+
+cacm november 1965
+
+cohen i
+wegstein j h
+
+ca651101 jb march 6 1978  622 pm
+
+1180	5	1180
+1180	5	1180
+1180	5	1180
+1395	5	1180
+1706	5	1180
+1180	6	1180
+1180	6	1180
+1395	6	1180
+210	6	1180
+

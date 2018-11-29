@@ -1,0 +1,50 @@
+
+
+
+the system for business automation sba programming language
+
+the system for business automation sba is a system
+within which application experts-nonprogrammers-can 
+describe and execute their applications on a computer 
+the user of sba views his application as manipulation 
+of information in two-dimensional pictures of tables
+business forms and reports on a display terminal 
+ he can gradually automate this application by giving examples
+to the system of how he manually manipulates 
+the information  the query-by-example database language
+is a subset of the sba programming language
+
+cacm june 1977
+
+zloof m m
+de jong s p
+
+programming language graphics user in terface
+data flow forms flow data abstraction database 
+query data processing business system specification application programming
+
+3.73 3.74 4.22 4.33 4.34
+
+ca770604 jb december 29 1977  125 am
+
+2155	4	2959
+2406	4	2959
+2710	4	2959
+2715	4	2959
+2716	4	2959
+2717	4	2959
+2718	4	2959
+2765	4	2959
+2817	4	2959
+2888	4	2959
+2901	4	2959
+2957	4	2959
+2959	4	2959
+2965	4	2959
+3087	4	2959
+3154	4	2959
+2046	5	2959
+2959	5	2959
+2959	5	2959
+2959	5	2959
+

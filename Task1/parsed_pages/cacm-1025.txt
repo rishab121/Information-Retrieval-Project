@@ -1,0 +1,35 @@
+
+
+
+a method of syntax-checking algol 60
+
+a syntax checker was designed based on the syntax
+of algol as described in the algol 60 report 
+communications of the acm may 1960  since the definition
+of the elements of the language is recursive 
+it seemed most desirable to design the syntax checker
+as a set of mutually recursive processors tied 
+together by subroutines which perform certain bookkeeping
+functions  because of the recursive nature 
+of the language and of the syntax checker the problem
+of recovery after an error required much attention 
+ a method was devised which permits most programs
+to be checked completely despite errors
+
+cacm august 1964
+
+lietzke m p
+
+ca640805 jb march 9 1978  724 pm
+
+1025	5	1025
+1025	5	1025
+1025	5	1025
+1215	5	1025
+1682	5	1025
+1025	6	1025
+1025	6	1025
+1785	6	1025
+224	6	1025
+763	6	1025
+

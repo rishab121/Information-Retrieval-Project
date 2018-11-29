@@ -1,0 +1,100 @@
+
+
+
+extending the information theory approach to converting
+limited-entry decision tables to computer 
+programs
+
+this paper modifies an earlier algorithm for
+converting decision tables into flowcharts which 
+minimize subsequent execution time when compiled into
+a computer program  the algorithms considered 
+in this paper perform limited search and accordingly
+do not necessarily result in globally optimal 
+solutions  however the greater search effort needed
+to obtain a globally optimal solution for complex 
+decision tables is usually not justified by sufficient
+savings in execution time  there is an analogy 
+between the problem of converting decision tables into
+efficient flowcharts and the well-understood problem 
+in information theory of noiseless coding  the results
+of the noiseless coding literature are used to 
+explore the limitations of algorithms used to solve
+the decision table problem  the analogy between 
+the two problems is also used to develop improvements
+to the information algorithm in extending the depth 
+of search under certain conditions and in proposing
+additional conditions to be added to the decision 
+table  finally the information algorithm is compared
+with an algorithm proposed in a recent paper by 
+verhelst
+
+cacm september 1974
+
+shwayder k
+
+coding decision tables flowcharting information
+theory noiseless channel sorting
+
+3.50 5.31
+
+ca740910 jb january 17 1978  840 am
+
+1354	4	2598
+2053	4	2598
+2220	4	2598
+2220	4	2598
+2273	4	2598
+2273	4	2598
+2453	4	2598
+2453	4	2598
+2492	4	2598
+2518	4	2598
+2598	4	2598
+2598	4	2598
+2598	4	2598
+2598	4	2598
+2598	4	2598
+2598	4	2598
+2616	4	2598
+2691	4	2598
+2726	4	2598
+2726	4	2598
+2726	4	2598
+2726	4	2598
+2856	4	2598
+2856	4	2598
+2856	4	2598
+3113	4	2598
+3113	4	2598
+1172	5	2598
+1548	5	2598
+2220	5	2598
+2263	5	2598
+2453	5	2598
+2598	5	2598
+2598	5	2598
+2598	5	2598
+2691	5	2598
+2845	5	2598
+2856	5	2598
+3113	5	2598
+1172	6	2598
+1184	6	2598
+1327	6	2598
+1354	6	2598
+1354	6	2598
+2053	6	2598
+2220	6	2598
+2263	6	2598
+2435	6	2598
+2453	6	2598
+2598	6	2598
+2598	6	2598
+2598	6	2598
+2691	6	2598
+2736	6	2598
+2747	6	2598
+2768	6	2598
+2856	6	2598
+

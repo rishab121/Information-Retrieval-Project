@@ -1,0 +1,44 @@
+
+
+
+general time-varying systems error sensitivities program
+
+the evaluation by the propagation of variance
+technique of the sensitivity of time-varying 
+systems to initial condition and parameter errors involves
+the determination of several system-dependent 
+partial derivative matrices  this requirement has led to
+separate programs for each system under investigation 
+ a new program through utilization of the wengert differentiation
+technique automatically determines 
+the required matrices from specific system equations supplied
+in subroutine form at execution time eliminating 
+the need for individualized programs and presaging the
+further development of extremely general computer 
+programs
+
+cacm december 1966
+
+wilkins r d
+
+ca661203 jb march 2 1978  244 pm
+
+1028	4	1347
+1216	4	1347
+1216	4	1347
+1278	4	1347
+1278	4	1347
+1347	4	1347
+1347	4	1347
+1347	4	1347
+1396	4	1347
+1396	4	1347
+1396	4	1347
+1536	4	1347
+1028	5	1347
+1029	5	1347
+1278	5	1347
+1347	5	1347
+1347	5	1347
+1347	5	1347
+

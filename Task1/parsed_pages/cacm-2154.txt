@@ -1,0 +1,62 @@
+
+
+
+clarification of fortran standards-second report
+
+in 1966 after four years of effort fortran
+became the first programming language standardized 
+in the united states  since that initial achievement
+study and application of the standard specifications 
+have revealed the need for maintenance of the standards
+ as the result of work initiated in 1967 an 
+initial set of clarifying interpretations was prepared and
+this clarification was published in communications 
+of the acm in may 1969  that work has continued and
+has resulted in the preparation of this second set 
+of clarifying interpretations  the nature of the maintenance
+and the new set of corrections to and interpretations 
+of the standard specifications are reported
+
+cacm october 1971
+
+ansi subcommittee x3j3
+
+american national standard fortran basic fortran
+programming language standardization language 
+standard specification language standard maintenance
+language standard clarification language standard 
+interpretation standardization committee
+
+1.2 2.0 2.19 2.2 2.3 4.0 4.12 4.19 4.20 4.22 4.29 4.43 5.23 5.9 6.9
+
+ca711002 jb february 2 1978  130 pm
+
+1613	4	2154
+1646	4	2154
+1845	4	2154
+1900	4	2154
+1900	4	2154
+1955	4	2154
+2025	4	2154
+2083	4	2154
+2154	4	2154
+2154	4	2154
+2154	4	2154
+2270	4	2154
+2365	4	2154
+2506	4	2154
+2693	4	2154
+2915	4	2154
+3060	4	2154
+3060	4	2154
+987	5	2154
+988	5	2154
+1900	5	2154
+2154	5	2154
+2154	5	2154
+2154	5	2154
+3060	5	2154
+987	6	2154
+1900	6	2154
+2154	6	2154
+

@@ -1,0 +1,38 @@
+
+
+
+the algorithm select-for finding the ith
+smallest of n elements m1 algorithm 489
+
+cacm march 1975
+
+floyd r w
+rivest r l
+
+selection medians quantiles
+
+5.30 5.39
+
+ca750305 jb january 9 1978  443 pm
+
+1919	4	2783
+2191	4	2783
+2227	4	2783
+2388	4	2783
+2783	4	2783
+2783	4	2783
+2784	4	2783
+3054	4	2783
+3054	4	2783
+3121	4	2783
+864	4	2783
+307	5	2783
+309	5	2783
+2783	5	2783
+2783	5	2783
+2783	5	2783
+2784	5	2783
+1729	6	2783
+309	6	2783
+2783	6	2783
+

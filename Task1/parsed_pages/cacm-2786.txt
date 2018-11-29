@@ -1,0 +1,63 @@
+
+
+
+a system for typesetting mathematics
+
+this paper describes the design and implementation
+of a system for typesetting mathematics 
+ the language has been designed to be easy to learn
+and to use by people for example secretaries and 
+mathematical typists who know neither mathematics nor
+typesetting  experience indicates that the language 
+can be learned in an hour or so for it has few rules
+and fewer exceptions  for typical expressions 
+the size and font changes positioning line drawing and
+the like necessary to print according to mathematical 
+conventions are all done automatically  for example
+the input sum from io to infinity x sub ipi over 
+2 produces formula  the syntax of the language is specified
+by a small context-free grammar a compiler-compiler 
+is used to make a compiler that translates this language
+into typesetting commands  output maybe produced 
+on either a phototypesetter or on a terminal with forward
+and reverse half-line motions  the system 
+interfaces directly with text formatting programs so
+mixtures of text and mathematics may be handled 
+simply  this paper was typeset by the authors using the system described 
+
+cacm march 1975
+
+kernighan b w
+cherry l l
+
+typesetting photocompositioncompiler-compiler
+graphics printing text processing
+
+4.12 4.22 8.2
+
+ca750302 jb january 10 1978  856 am
+
+2626	4	2786
+2786	4	2786
+2840	4	2786
+2919	4	2786
+3017	4	2786
+3110	4	2786
+3174	4	2786
+2629	5	2786
+2733	5	2786
+2746	5	2786
+2786	5	2786
+2786	5	2786
+2786	5	2786
+1665	6	2786
+1739	6	2786
+1781	6	2786
+2139	6	2786
+2179	6	2786
+2423	6	2786
+2545	6	2786
+2786	6	2786
+2786	6	2786
+799	6	2786
+

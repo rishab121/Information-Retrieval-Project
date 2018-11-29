@@ -1,0 +1,116 @@
+
+
+
+the use of quadratic residue research
+
+a quadratic residue search method has previously been suggested
+to avoid the clustering usually encountered when hash address collisions
+occur and linear search methods are used  the search size because
+of the property of quadratic residues is limited to one half of
+the storage table  it is shown that for some classes of prime numbers
+the complement of the set of quadratic residues can easily be determined and 
+hence the entire table of size p where p is that prime number can be searched
+
+cacm february 1970
+
+radke c e
+
+quadratic residue search method hash addressing address
+clustering scatter storage file searching file
+addressing hash coding quadratic search
+random search storage layout searching
+
+3.7 3.73 3.74
+
+ca700206 jb february 14 1978  1030 am
+
+1676	4	2109
+1682	4	2109
+1728	4	2109
+1860	4	2109
+1860	4	2109
+1973	4	2109
+1973	4	2109
+1992	4	2109
+2018	4	2109
+2018	4	2109
+2032	4	2109
+2033	4	2109
+2033	4	2109
+2107	4	2109
+2107	4	2109
+2109	4	2109
+2109	4	2109
+2203	4	2109
+2203	4	2109
+2251	4	2109
+2251	4	2109
+2359	4	2109
+2524	4	2109
+2543	4	2109
+2543	4	2109
+2552	4	2109
+2559	4	2109
+2573	4	2109
+2770	4	2109
+2991	4	2109
+3053	4	2109
+1785	5	2109
+1786	5	2109
+1973	5	2109
+2018	5	2109
+2109	5	2109
+2109	5	2109
+2109	5	2109
+2203	5	2109
+2251	5	2109
+2543	5	2109
+2770	5	2109
+2974	5	2109
+3053	5	2109
+911	6	2109
+1329	6	2109
+1785	6	2109
+1785	6	2109
+1785	6	2109
+1785	6	2109
+1785	6	2109
+1785	6	2109
+1786	6	2109
+1786	6	2109
+1786	6	2109
+1786	6	2109
+1786	6	2109
+1786	6	2109
+1869	6	2109
+1973	6	2109
+1973	6	2109
+1973	6	2109
+1973	6	2109
+1992	6	2109
+1992	6	2109
+332	6	2109
+2018	6	2109
+2018	6	2109
+2107	6	2109
+2107	6	2109
+2107	6	2109
+2107	6	2109
+2107	6	2109
+2109	6	2109
+2109	6	2109
+2109	6	2109
+2109	6	2109
+2109	6	2109
+2109	6	2109
+2109	6	2109
+2109	6	2109
+2251	6	2109
+2412	6	2109
+2543	6	2109
+2673	6	2109
+2673	6	2109
+2707	6	2109
+2770	6	2109
+492	6	2109
+

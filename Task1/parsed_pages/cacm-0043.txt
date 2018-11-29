@@ -1,0 +1,18 @@
+
+
+
+a technique for handling macro instructions
+
+cacm november 1959
+
+greenwald i d
+
+ca591105 jb march 22 1978  351 pm
+
+205	5	43
+43	5	43
+43	5	43
+43	5	43
+1	6	43
+43	6	43
+

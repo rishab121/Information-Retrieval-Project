@@ -1,0 +1,20 @@
+
+
+
+on the number of automorphisms of a singly generated automaton
+
+cacm september 1970
+
+bavel z
+
+automata finite automata singly generated automata automorphisms
+generators length of state minimal-length generators orbit
+
+5.22
+
+ca700914 jb february 10 1978  954 am
+
+1991	5	1991
+1991	5	1991
+1991	5	1991
+

@@ -1,0 +1,17 @@
+
+
+
+polynomial transformer algorithm 29
+
+cacm november 1960
+
+mackinney j g
+
+ca601110 jb march 20 1978  706 pm
+
+125	5	125
+125	5	125
+125	5	125
+1816	5	125
+125	6	125
+

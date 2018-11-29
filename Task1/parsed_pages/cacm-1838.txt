@@ -1,0 +1,21 @@
+
+
+
+normal curve integral algorithm 304 s15
+
+cacm october 1969
+
+adams a g
+
+normal curve integral probability special functions
+
+5.5 5.12
+
+ca691008 jb february 15 1978  319 pm
+
+1838	4	1838
+1760	5	1838
+1838	5	1838
+1838	5	1838
+1838	5	1838
+

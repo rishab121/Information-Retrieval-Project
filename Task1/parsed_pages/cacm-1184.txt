@@ -1,0 +1,70 @@
+
+
+
+a fast storage allocator
+
+a fast storage bookkeeping method is described
+which is particularly appropriate for list-structure 
+operations and other situations involving many sizes
+of blocks that are fixed in size and location  
+ this scheme used in the llllll or l6 bell telephone laboratories
+low-level list language makes available 
+blocks of computer registers in several different sizes
+the smaller blocks are obtained by successively 
+splitting larger ones in half and the larger blocks are reconstituted
+if and when their parts are simultaneously 
+free
+
+cacm october 1965
+
+knowlton k
+
+ca651011 jb march 6 1978  635 pm
+
+1184	5	1184
+1184	5	1184
+1184	5	1184
+1389	5	1184
+1552	5	1184
+2162	5	1184
+2435	5	1184
+2596	5	1184
+2768	5	1184
+2845	5	1184
+2902	5	1184
+2955	5	1184
+1051	6	1184
+1062	6	1184
+1184	6	1184
+1184	6	1184
+1184	6	1184
+1184	6	1184
+1184	6	1184
+1184	6	1184
+1184	6	1184
+1184	6	1184
+1184	6	1184
+1211	6	1184
+1389	6	1184
+1421	6	1184
+1552	6	1184
+1879	6	1184
+1879	6	1184
+378	6	1184
+2435	6	1184
+2435	6	1184
+2435	6	1184
+2435	6	1184
+2435	6	1184
+2596	6	1184
+2596	6	1184
+2598	6	1184
+2734	6	1184
+2736	6	1184
+2747	6	1184
+2747	6	1184
+2747	6	1184
+2768	6	1184
+2768	6	1184
+2773	6	1184
+

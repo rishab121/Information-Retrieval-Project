@@ -1,0 +1,22 @@
+
+
+
+legendre functions for arguments larger than one algorithm 259 s16
+
+cacm august 1965
+
+gautschi w
+
+ca650802 jb march 6 1978  830 pm 
+
+1023	4	1222
+1222	4	1222
+1222	4	1222
+1222	4	1222
+1130	5	1222
+1222	5	1222
+1222	5	1222
+1222	5	1222
+245	5	1222
+310	5	1222
+

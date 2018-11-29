@@ -1,0 +1,70 @@
+
+
+
+ambiguity in limited entry decision tables
+
+the use of decision tables as a tool in systems
+analysis and for program specification is now 
+becoming accepted  rules on redundancy contradiction
+and completeness for limited entry tables were 
+published in 1963  these are usually used for checking
+preceded if necessary by a conversion from extended 
+to limited entry form  processors which automatically
+translate tables to more conventional program 
+usually base their diagnostic facilities on these rules
+ in this paper it is suggested that these rules 
+are unsatisfactory and that the important aspect of
+checking is to eliminate ambiguity from tables  
+ambiguity is defined and discussed and a procedure for
+producing checked-out decision tables is proposed 
+ the theoretical basis of the algorithm used is established
+the importance of well-designed diagnostic 
+facilities in decision table processors is emphasized
+
+cacm october 1968
+
+king p j h
+
+decision tables detab-65 systems analysis 
+
+3.50 4.19 4.49
+
+ca681003 jb february 21 1978  417 pm
+
+1684	4	1684
+1684	4	1684
+2053	4	1684
+2220	4	1684
+2273	4	1684
+2453	4	1684
+2726	4	1684
+2856	4	1684
+3113	4	1684
+1354	5	1684
+1564	5	1684
+1684	5	1684
+1684	5	1684
+1684	5	1684
+2053	5	1684
+2517	5	1684
+2518	5	1684
+2616	5	1684
+3034	5	1684
+931	6	1684
+1172	6	1684
+1237	6	1684
+1327	6	1684
+1354	6	1684
+1548	6	1684
+1548	6	1684
+1684	6	1684
+1684	6	1684
+1684	6	1684
+1684	6	1684
+1684	6	1684
+2053	6	1684
+2053	6	1684
+2221	6	1684
+2517	6	1684
+2517	6	1684
+

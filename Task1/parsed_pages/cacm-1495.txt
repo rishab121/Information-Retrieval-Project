@@ -1,0 +1,24 @@
+
+
+
+solution of transcendental equations by series reversion
+
+an algorithm is developed for expressing the
+solution y of the equation fy  gx as a power 
+series in x  x0 when f and g are given as power seriesand
+the root y0 is known at yx0  the algorithm 
+is illustrated for the equation y^y  x ie 1+yln1+y  ln1+x
+
+cacm january 1966
+
+thacher jr h c
+
+ca660102 jb march 3 1978  427 pm
+
+1495	4	1495
+1494	5	1495
+1495	5	1495
+1495	5	1495
+1495	5	1495
+1495	6	1495
+

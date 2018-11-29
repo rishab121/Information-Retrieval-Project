@@ -1,0 +1,21 @@
+
+
+
+reduction of a matrix containing polynomial
+elements algorithm 170 f3
+
+cacm july 1964
+
+priebe k b
+
+ca640710 jb march 9 1978  813 pm
+
+1037	4	1037
+1234	4	1037
+1358	4	1037
+1491	4	1037
+1037	5	1037
+1037	5	1037
+1037	5	1037
+729	5	1037
+

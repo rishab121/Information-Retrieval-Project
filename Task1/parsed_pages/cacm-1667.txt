@@ -1,0 +1,29 @@
+
+
+
+roots of polynomials by a root-squaring
+and resultant routine algorithm 340 c2
+
+cacm november 1968
+
+noltemeier a
+
+root finders roots of polynomial equations polynomial
+zeros root-squaring operations graeffe 
+method resultant procedure subresultant procedure
+testing of roots acceptance criteria
+
+5.15
+
+ca681112 jb february 21 1978  224 pm
+
+1667	4	1667
+1667	4	1667
+1667	4	1667
+178	5	1667
+1242	5	1667
+1667	5	1667
+1667	5	1667
+1667	5	1667
+327	5	1667
+

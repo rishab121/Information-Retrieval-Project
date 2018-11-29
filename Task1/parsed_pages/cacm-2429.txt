@@ -1,0 +1,24 @@
+
+
+
+calculation of optimum parameters for alternating
+direction implicit procedures d3 algorithm 
+a460
+
+cacm october 1973
+
+saylor p e
+sebastian j d
+
+elliptic difference equations peaceman-rachford
+douglas-rachford w b jordan optimum parameters 
+alternating-direction-implicit adi
+
+5.14 5.17
+
+ca731011 jb january 20 1978  1109 am
+
+2429	5	2429
+2429	5	2429
+2429	5	2429
+

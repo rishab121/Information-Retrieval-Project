@@ -1,0 +1,107 @@
+
+
+
+pm a system for polynomial manipulation
+
+pm is an ibm 7094 program system for formal manipulation
+of polynomials in any number of variables 
+with integral coefficients unrestricted in size  some
+of the formal operations which can be performed 
+by the system are sums differences products quotients
+derivatives substitutions and greater common 
+divisors  pm is based on the refco iii list processing
+system which is described and compared with 
+the lisp and slip systems  the pm subroutines for arithmetic
+of large integers are described as constituting 
+an independently useful subsystem  pm is compared with
+the alpak system in several respects including 
+the choice of canonical forms for polynomials  a new
+algorithm for polynomial greatest common divisor 
+calculation is mentioned and exaples are
+included to illustrate its superiority
+
+cacm august 1966
+
+collins g e
+
+ca660805 jb march 2 1978  751 pm
+
+1024	4	1393
+1050	4	1393
+1051	4	1393
+1098	4	1393
+1214	4	1393
+1380	4	1393
+1388	4	1393
+1393	4	1393
+1393	4	1393
+1393	4	1393
+1485	4	1393
+1487	4	1393
+1549	4	1393
+1549	4	1393
+1570	4	1393
+1878	4	1393
+1946	4	1393
+1957	4	1393
+2023	4	1393
+2168	4	1393
+2723	4	1393
+2857	4	1393
+3112	4	1393
+3112	4	1393
+627	4	1393
+106	5	1393
+1393	5	1393
+1393	5	1393
+1393	5	1393
+1396	5	1393
+296	5	1393
+1946	5	1393
+2167	5	1393
+2857	5	1393
+731	5	1393
+878	6	1393
+902	6	1393
+964	6	1393
+1028	6	1393
+1029	6	1393
+1083	6	1393
+1093	6	1393
+1132	6	1393
+1177	6	1393
+1214	6	1393
+1278	6	1393
+1334	6	1393
+1365	6	1393
+1379	6	1393
+1386	6	1393
+1387	6	1393
+1387	6	1393
+1388	6	1393
+1392	6	1393
+1392	6	1393
+1393	6	1393
+1393	6	1393
+1393	6	1393
+1393	6	1393
+1394	6	1393
+1395	6	1393
+1396	6	1393
+1397	6	1393
+1496	6	1393
+284	6	1393
+360	6	1393
+2169	6	1393
+407	6	1393
+3199	6	1393
+3200	6	1393
+3201	6	1393
+3202	6	1393
+3203	6	1393
+3204	6	1393
+561	6	1393
+730	6	1393
+731	6	1393
+731	6	1393
+

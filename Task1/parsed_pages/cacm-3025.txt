@@ -1,0 +1,49 @@
+
+
+
+the evolution of the dec system 10
+
+the dec system 10 also known as the pdp-10 evolved
+from the pdp-6 circa 1963 over five generations 
+of implementations to presently include systems covering
+a price range of five to one  the origin and 
+evolution of the hardware operating system and languages
+are described in terms of technological change 
+user requirements and user developments the pdp-10s
+contributions to computing technology include 
+accelerating the transition from batch oriented to time
+sharing computing systems transferring hardware 
+technology within dec and elsewhere to minicomputer
+design and manufacturing supporting minicomputer 
+hardware and software development and serving as a
+model for single user and timeshared interactive 
+minicomputer/microcomputer systems
+
+cacm january 1978
+
+bell c
+kotok a
+hastings t
+hill r
+
+computer structures architecture operating system timesharing
+
+4.32 6.21 6.3
+
+ca780105 jb march 28 1978  531 pm
+
+2411	4	3025
+2709	4	3025
+2889	4	3025
+2937	4	3025
+2989	4	3025
+3005	4	3025
+3025	4	3025
+3025	4	3025
+3101	4	3025
+2138	5	3025
+2989	5	3025
+3025	5	3025
+3025	5	3025
+3025	5	3025
+

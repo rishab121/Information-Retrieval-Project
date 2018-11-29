@@ -1,0 +1,58 @@
+
+
+
+a stochastic evaluation model for database
+organization in data retrieval systems
+
+experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and prohibitive cost this paper
+discusses a simulation model of a data retrieval 
+system which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before  the model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems  these data retrieval systems can
+be organized under several database organizations 
+including inverted list threaded list and cellular
+list organizations and hybrid combinations of these 
+systems  effectiveness of the methodology is demonstrated
+by using the model to study the effect of 
+database organizations in data retrieval systems  in particular
+the impact of query complexity is analyzed
+
+cacm february 1976
+
+siler k f
+
+database architecture database performance and
+evaluation invented list threaded list cellular 
+list information retrieval database organizations
+query complexity stochastic model monte carlo 
+simulation
+
+3.70 3.71 3.72 3.73 3.74 3.79
+
+ca760205 jb january 5 1978  920 am
+
+1050	4	2882
+1549	4	2882
+2452	4	2882
+2723	4	2882
+2765	4	2882
+2882	4	2882
+2882	4	2882
+2882	4	2882
+731	4	2882
+793	4	2882
+2198	5	2882
+2452	5	2882
+2882	5	2882
+2882	5	2882
+2882	5	2882
+2976	5	2882
+627	5	2882
+2688	6	2882
+2765	6	2882
+2882	6	2882
+

@@ -1,0 +1,28 @@
+
+
+
+a method for finding the m smallest values of
+a monotonic function defined on ordered sets of 
+positive integers
+
+the minimum value of a monotonic increasing
+function defined on a partially ordered set s is 
+assumed on the set of minimal points of s  this observation
+is used to devise an efficient method for 
+finding the m smallest functional values of monotonic
+functions defined on ordered pairs of positive 
+integers  the method is easily extended to include
+monotonic functions defined on ordered n-tuples 
+ included is a fortran program which was written to implement
+the procedure for a certain important case
+
+cacm july 1966
+
+sigillito v g
+
+ca660709 jb march 2 1978  913 pm
+
+1403	5	1403
+1403	5	1403
+1403	5	1403
+

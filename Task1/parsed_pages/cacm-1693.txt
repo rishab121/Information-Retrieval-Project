@@ -1,0 +1,104 @@
+
+
+
+gpl a truly general purpose language
+
+a truly general purpose programming language
+gpl is described which contains facilities for 
+constructing within the language new data types as
+well as facilities for operations performed upon 
+them  the basic language is minimal in the sense that
+no basic element can be derived from the others 
+with high efficiency in the object programs  constructs
+like the algol 60 for-statementsand if-statements 
+are not basic they are special types of procedures
+ new symbols underlined words in algol 60 are 
+implicitly defined by usage in other declarations  as
+part words are definable packed words are handled 
+as easily as full words  address variables
+pointers are included in full generality
+
+cacm september 1968
+
+garwick j v
+
+programming language general purpose self-extending macro algol
+
+4.20
+
+ca680908 jb february 22 1978  840 am
+
+1379	4	1693
+1380	4	1693
+1542	4	1693
+1552	4	1693
+1683	4	1693
+1693	4	1693
+1693	4	1693
+1693	4	1693
+1693	4	1693
+1781	4	1693
+1781	4	1693
+1781	4	1693
+1781	4	1693
+1787	4	1693
+1824	4	1693
+1836	4	1693
+1836	4	1693
+1854	4	1693
+1860	4	1693
+1861	4	1693
+1945	4	1693
+1945	4	1693
+2015	4	1693
+2060	4	1693
+2060	4	1693
+2060	4	1693
+2061	4	1693
+2061	4	1693
+2082	4	1693
+2091	4	1693
+2091	4	1693
+2126	4	1693
+2152	4	1693
+2179	4	1693
+2179	4	1693
+2340	4	1693
+2356	4	1693
+2546	4	1693
+2546	4	1693
+2603	4	1693
+2698	4	1693
+2698	4	1693
+2708	4	1693
+2708	4	1693
+2824	4	1693
+2982	4	1693
+2986	4	1693
+557	4	1693
+3045	4	1693
+3045	4	1693
+3093	4	1693
+1421	5	1693
+1477	5	1693
+1491	5	1693
+1614	5	1693
+1693	5	1693
+1693	5	1693
+1693	5	1693
+2126	5	1693
+2317	5	1693
+823	6	1693
+196	6	1693
+1198	6	1693
+1572	6	1693
+1614	6	1693
+1693	6	1693
+1693	6	1693
+1749	6	1693
+1753	6	1693
+1781	6	1693
+2126	6	1693
+2148	6	1693
+404	6	1693
+

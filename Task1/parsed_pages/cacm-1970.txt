@@ -1,0 +1,19 @@
+
+
+
+unrecorded magnetic tape for information interchange 9 track-200 and
+800 cpi nrzi and 1600 cpi pe proposed american national standard
+
+cacm november 1970
+
+input-output magnetic tape information interchange
+measurement instrumentation phase encoded recording 
+
+2.49 6.35
+
+ca701108 jb february 9 1978  442 pm
+
+1970	5	1970
+1970	5	1970
+1970	5	1970
+

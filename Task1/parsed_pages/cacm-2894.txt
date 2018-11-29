@@ -1,0 +1,39 @@
+
+
+
+a methodology for interactive computer service measurement
+
+a measurement methodology applicable to in teractive
+computer service is described  its primary 
+purpose is to enable external user-oriented assessment
+of computer performance instead of the more 
+frequently used in ternal system measurement techniques
+ the nbs network measurement system is employed 
+as the external measurement tool  example data have
+been collected and analyzed  a demonstration of 
+the methodology leading to a pragmatic figure-of-merit
+evaluation of results is included
+
+cacm december 1977
+
+adrams m d
+
+in teractive system computer service measurement
+performance external measurement methodology 
+measurement modelnetwork measurement system measures figure-of-merit
+
+2.4 4.6 6.2
+
+ca771206 jb december 22 1977  1232 pm
+
+2193	4	2894
+2319	4	2894
+2373	4	2894
+2894	4	2894
+2894	4	2894
+1951	5	2894
+2016	5	2894
+2894	5	2894
+2894	5	2894
+2894	5	2894
+

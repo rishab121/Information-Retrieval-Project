@@ -1,0 +1,37 @@
+
+
+
+dynamic memory repacking
+
+a probabilistic model of a multiprogramming system
+is exercised in order to determine the conditions 
+under which the dynamic repacking of main memory is beneficial
+ an expression is derived for the maximum 
+interference that a repacking process may introduce
+before the original performance of the system is 
+degraded  alternative approaches to repacking are discussed
+and the operating conditions that lead 
+to improved system throughput through repacking are delineated
+
+cacm march 1974
+
+balkovich e
+chiu w
+presser l
+wood r
+
+dynamic memory repacking memory compactionstorage
+fragmentation multiprogramming system model 
+probabilistic model central processor productivity
+resource utilization system throughput
+
+4.32 5.5 6.20
+
+ca740302 jb january 18 1978  1237 pm
+
+2681	4	2681
+2218	5	2681
+2681	5	2681
+2681	5	2681
+2681	5	2681
+

@@ -1,0 +1,15 @@
+
+
+
+a sap-like assembly program for the ibm 650
+
+cacm january 1960
+
+speckhard a e
+
+ca600102jb march 22 1978  230 pm
+
+234	5	234
+234	5	234
+234	5	234
+

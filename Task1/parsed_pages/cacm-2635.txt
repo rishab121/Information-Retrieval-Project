@@ -1,0 +1,15 @@
+
+
+
+exact probabilities for r x c contingency tables algorithm r434
+
+cacm june 1974
+
+boulton d m
+
+ca740611 jb january 17 1978  256 pm
+
+2635	5	2635
+2635	5	2635
+2635	5	2635
+

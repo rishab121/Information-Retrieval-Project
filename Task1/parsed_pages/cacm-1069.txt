@@ -1,0 +1,23 @@
+
+
+
+a method for comparing the internal operating speeds of computers
+
+cacm may 1964
+
+raichelson e
+collins g
+
+ca640520 jb march 9 1978  1135 pm
+
+1069	5	1069
+1069	5	1069
+1069	5	1069
+1653	5	1069
+2989	5	1069
+963	6	1069
+1069	6	1069
+1069	6	1069
+1417	6	1069
+2138	6	1069
+

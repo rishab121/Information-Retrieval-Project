@@ -1,0 +1,29 @@
+
+
+
+a sparse matrix package algorithm r408
+
+cacm may 1973
+
+sale r h j
+
+matrix sparse matrix matrix manipulation fortran standards
+
+5.14
+
+ca730514 jb january 23 1978  430 pm
+
+1613	4	2506
+1646	4	2506
+1900	4	2506
+1955	4	2506
+2025	4	2506
+2154	4	2506
+2365	4	2506
+2506	4	2506
+3060	4	2506
+987	5	2506
+2506	5	2506
+2506	5	2506
+2506	5	2506
+

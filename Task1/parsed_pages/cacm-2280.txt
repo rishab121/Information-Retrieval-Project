@@ -1,0 +1,35 @@
+
+
+
+comment on deadlock prevention method
+
+cacm september 1972
+
+parnas d l
+habermann a n
+
+multiprogramming time-sharing scheduling resource
+allocation deadlock interlock lockout 
+deadly embrace knotting
+
+3.72 4.32 6.20
+
+ca720910 jb january 27 1978  416 pm
+
+2228	4	2280
+2280	4	2280
+2280	4	2280
+2379	4	2280
+2379	4	2280
+2482	4	2280
+2482	4	2280
+2500	4	2280
+2740	4	2280
+2851	4	2280
+2920	4	2280
+1877	5	2280
+2228	5	2280
+2280	5	2280
+2280	5	2280
+2280	5	2280
+

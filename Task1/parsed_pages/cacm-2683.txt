@@ -1,0 +1,45 @@
+
+
+
+the synthesis of loop predicates
+
+current methods for mechanical program verification
+require a complete predicate specification 
+on each loop  because this is tedious and error prone
+producing a program with complete correct predicates 
+is reasonably difficult and would be facilitated by machine
+assistance  this paper discusses techniques 
+for mechanically synthesizing loop predicates  two classes
+of techniques are considered 1 heuristic 
+methods which derive loop predicates from boundary conditions
+and/or partially specified inductive assertions 
+2 extraction methods which use input predicates and
+appropriate weak interpretations to obtain certain 
+classes of loop predicates by an evaluation on the weak interpretation
+
+cacm march 1974
+
+wegbreit b
+
+program verification loop predicates inductive
+assertions synthesis of loop predicates weak 
+interpretations well-founded sets property extraction theorem proving
+
+3.64 4.19 4.22 5.24
+
+ca740206 jb january 18 1978  1255 pm 
+
+2683	5	2683
+2683	5	2683
+2683	5	2683
+2874	5	2683
+3104	5	2683
+1682	6	2683
+2227	6	2683
+2317	6	2683
+2457	6	2683
+2683	6	2683
+2683	6	2683
+2871	6	2683
+521	6	2683
+

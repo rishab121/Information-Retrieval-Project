@@ -1,0 +1,27 @@
+
+
+
+a note on range transformations for square root and logarithm
+
+there was the germ of an idea in two previous
+papers 1,2 which no one seems to have picked 
+up in almost five years  for certain functions it seems
+desirable to transform the argument to a short 
+range symmetric about 10.1 will give examples of this
+usage for the square root and logarithm function 
+for both binary and decimal machines
+
+cacm june 1963
+
+bemer r w
+
+ca630601 jb march 14 1978  1041 am
+
+848	4	848
+848	4	848
+26	5	848
+35	5	848
+848	5	848
+848	5	848
+848	5	848
+

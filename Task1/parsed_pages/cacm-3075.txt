@@ -1,0 +1,46 @@
+
+
+
+fast parallel sorting algorithms
+
+a parallel bucket-sort algorithm is presented
+that requires time olog n and the use of n 
+processors  the algorithm makes use of a technique that
+requires more space than the product of processors 
+and time  a realistic model is used model is used in which
+no memory contention is permitted  a procedure 
+is also presented to sort n numbers in time ok log
+n using n 1 + 1/k processors for k an arbitrary 
+integer  the model of computation for this procedure
+permits simultaneous fetches from the same memory 
+location
+
+cacm august 1978
+
+hirschberg d
+
+parallel processing sorting algorithms bucket sort
+
+3.74 4.34 5.25 5.31
+
+ca780803 dh february 7 1979  1025 am
+
+2714	4	3075
+3075	4	3075
+3075	4	3075
+3075	4	3075
+3075	4	3075
+3085	4	3075
+3156	4	3075
+2289	5	3075
+2557	5	3075
+2664	5	3075
+2714	5	3075
+3075	5	3075
+3075	5	3075
+3075	5	3075
+3156	5	3075
+2289	6	3075
+2973	6	3075
+3075	6	3075
+

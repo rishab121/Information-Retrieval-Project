@@ -1,0 +1,58 @@
+
+
+
+high level programming for distributed computing
+
+programming for distributed and other loosely coupled systems
+is a problem of growing interest  this paper describes an approach
+to distributed computing at the level of general purpose programming
+languages  based on primitive notions of module message
+and transaction key the methodology is shown to be independent
+of particular languages and machines  it appears to be useful for
+programming a wide range of tasks  this is part of an ambitious
+program of development in advanced programming languages and relations
+with other aspects of the project are also discussed
+
+cacm june 1979
+
+feldman j
+
+distributed computing modules messages assertions
+
+4.22 4.32
+
+ca790604 dh august 21 1979  431 pm
+
+1957	4	3148
+2151	4	3148
+3031	4	3148
+3103	4	3148
+3105	4	3148
+3128	4	3148
+3148	4	3148
+3148	4	3148
+3148	4	3148
+3148	4	3148
+3148	4	3148
+3150	4	3148
+3150	4	3148
+3155	4	3148
+1860	5	3148
+2817	5	3148
+2865	5	3148
+2939	5	3148
+3073	5	3148
+3148	5	3148
+3148	5	3148
+3148	5	3148
+3150	5	3148
+2060	6	3148
+2704	6	3148
+2842	6	3148
+2939	6	3148
+2940	6	3148
+2941	6	3148
+2943	6	3148
+3073	6	3148
+3148	6	3148
+

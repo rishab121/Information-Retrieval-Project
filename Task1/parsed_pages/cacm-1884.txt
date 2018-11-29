@@ -1,0 +1,51 @@
+
+
+
+an anomaly in space-time characteristics of
+certain programs running in a paging machine
+
+the running time of programs in a paging machine
+generally increases as the store in which 
+programs are constrained to run decreases  experiments
+however have revealed cases in which the reverse 
+is true a decrease in the size of the store is accompanied
+by a decrease in running time  an informal 
+discussion of the anomalous behavior is given and for
+the case of the fifo replacement algorithm a formal 
+treatment is presented
+
+cacm june 1969
+
+belady l a
+nelson r a
+shedler g s
+
+paging machines demand paging replacement algorithm
+
+4.30
+
+ca690609 jb february 17 1978  959 am
+
+1879	4	1884
+1884	4	1884
+1901	4	1884
+2095	4	1884
+2277	4	1884
+2297	4	1884
+2365	4	1884
+1754	5	1884
+1884	5	1884
+1884	5	1884
+1884	5	1884
+2022	5	1884
+2085	5	1884
+3006	5	1884
+1751	6	1884
+1751	6	1884
+1884	6	1884
+1884	6	1884
+1884	6	1884
+2374	6	1884
+2373	6	1884
+2595	6	1884
+

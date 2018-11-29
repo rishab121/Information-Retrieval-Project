@@ -1,0 +1,62 @@
+
+
+
+implementation of a structured english query language
+
+the relational model of data the xrm relational
+memory system and the sequel language have 
+been covered in previous papers and are reviewed 
+sequel is a relational data sublanguages intended 
+for the ad hoc interactive problem solving by non-computer
+specialists  a version of sequel that has 
+been implemented in a prototype interpreter is described
+ the interpreter is designed to minimize the 
+data accessing operations required to respond to an arbitrary
+query  the optimization algorithms designed 
+for this purpose are described
+
+cacm october 1975
+
+astrahan m m
+chamberlind d
+
+relational model query language nonprocedural language
+database data structure data organization
+
+3.74 3.75 4.22 4.33 4.34
+
+ca751004 jb january 6 1978  1102 am
+
+2155	4	2715
+2406	4	2715
+2710	4	2715
+2715	4	2715
+2716	4	2715
+2717	4	2715
+2718	4	2715
+2765	4	2715
+2817	4	2715
+2888	4	2715
+2901	4	2715
+2957	4	2715
+2959	4	2715
+2965	4	2715
+3087	4	2715
+3154	4	2715
+2046	5	2715
+2710	5	2715
+2715	5	2715
+2715	5	2715
+2715	5	2715
+2716	5	2715
+2901	5	2715
+1515	6	2715
+1976	6	2715
+2046	6	2715
+2046	6	2715
+2046	6	2715
+2715	6	2715
+2715	6	2715
+2715	6	2715
+616	6	2715
+

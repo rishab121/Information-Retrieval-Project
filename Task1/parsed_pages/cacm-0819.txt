@@ -1,0 +1,21 @@
+
+
+
+polynomial evaluation revised
+
+cacm july 1963 
+
+eisman s h
+
+ca630705 jb march 14 1978  846 am
+
+1620	4	819
+819	4	819
+1620	5	819
+436	5	819
+819	5	819
+819	5	819
+819	5	819
+819	6	819
+436	6	819
+

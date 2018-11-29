@@ -1,0 +1,56 @@
+
+
+
+abstract data types and the development of data structures
+
+abstract data types can play a significant role
+in the development of software that is reliable 
+efficient and flexible  this paper presents and discusses
+the application of an algebraic technique 
+for the specification of abstract data types  among
+the examples presented is a top-down development 
+of a symbol table for a block structured language a discussion
+of the proof of its correctness is given 
+ the paper also contains a brief discussion of the problems
+involved in constructing algebraic specifications 
+that are both consistent and complete
+
+cacm june 1977
+
+guttag j
+
+abstract data type correctness proof data type
+data structure specification software specification
+
+4.34 5.24
+
+ca770605 jb december 29 1977  117 am
+
+2704	4	2958
+2738	4	2958
+2866	4	2958
+2869	4	2958
+2941	4	2958
+2958	4	2958
+3004	4	2958
+3030	4	2958
+2356	5	2958
+2958	5	2958
+2958	5	2958
+2958	5	2958
+3030	5	2958
+3031	5	2958
+3049	5	2958
+2247	6	2958
+2356	6	2958
+2457	6	2958
+2651	6	2958
+2939	6	2958
+2956	6	2958
+2958	6	2958
+2958	6	2958
+2958	6	2958
+2957	6	2958
+2960	6	2958
+2972	6	2958
+

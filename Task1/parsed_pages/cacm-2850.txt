@@ -1,0 +1,42 @@
+
+
+
+symbolic execution and program testing
+
+this paper describes the symbolic execution of
+programs  instead of supplying the normal inputs 
+to a program eg numbers one supplies symbols representing
+arbitrary values  the execution proceeds 
+as in a normal execution except that values may be symbolic
+formulas over the input symbols  the difficult 
+yet interesting issues arise during the symbolic execution
+of conditional branch type statements  a 
+particular system called effigy which provides symbolic
+execution for program testing and debugging is 
+also described  it interpretively executes programs written
+in a simple pl/i style programming language 
+ it includes many standard debugging features the ability
+to manage and to prove things about symbolic 
+expressions a simple program testing manager and a program
+verifier  a brief discussion of the relationship 
+between symbolic execution and program proving is also included
+
+cacm july 1976
+
+king j c
+
+symbolic execution program testing program debugging
+program proving program verification 
+symbolic interpretation
+
+4.13 5.21 5.24
+
+ca760703 jb january 4 1978  1259 pm
+
+2850	5	2850
+2850	5	2850
+2850	5	2850
+3080	5	2850
+210	6	2850
+2850	6	2850
+

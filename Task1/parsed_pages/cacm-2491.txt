@@ -1,0 +1,37 @@
+
+
+
+threaded code
+
+the concept of threaded code is presented as
+an alternative to machine language code  hardware 
+and software realizations of it are given  in software
+it is realized as interpretive code not needing 
+an interpreter  extensions and optimizations are mentioned
+
+cacm june 1973
+
+bell j r
+
+interpreter machine code time tradeoff space
+tradeoff compiled code subroutine calls threaded 
+code
+
+4.12 4.13 6.33
+
+ca730609 jb january 23 1978  205 pm
+
+2491	5	2491
+2491	5	2491
+2491	5	2491
+2748	5	2491
+3144	5	2491
+1471	6	2491
+2298	6	2491
+2491	6	2491
+2491	6	2491
+2597	6	2491
+2624	6	2491
+2625	6	2491
+2632	6	2491
+

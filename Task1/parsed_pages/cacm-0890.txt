@@ -1,0 +1,23 @@
+
+
+
+selected definitions 
+
+a selection of the definitions prepared by the
+acm standards committees subcommittee on programming 
+terminology is presented for review by the acm membership
+
+cacm april 1963
+
+fritz w b
+
+ca630401 jb march 14 1978  1232 pm
+
+690	5	890
+890	5	890
+890	5	890
+890	5	890
+890	6	890
+929	6	890
+3195	6	890
+

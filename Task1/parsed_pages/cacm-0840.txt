@@ -1,0 +1,15 @@
+
+
+
+least squares surface fit algorithm 176
+
+cacm june 1963
+
+arthurs t d
+
+ca630609 jb march 14 1978  1018 am
+
+840	5	840
+840	5	840
+840	5	840
+

@@ -1,0 +1,39 @@
+
+
+
+generating pseudorandom numbers on a twos
+complement machine such as the ibm 360
+
+the familiar multiplicative congruential generator
+is examined in the context of the type of 
+twos complement arithmetic used in the ibm 360 series
+ different sequences of residues are considered 
+and relationships established among them  it is shown
+that a sequence of positive and negative residues 
+may be produced more simply and economically than with
+the conventional approach and yet have twice the 
+period of the latter without loss of desirable statistical
+properties  another easily generated sequence 
+involving absolute values is also shown to have twice
+the period but with less attractive statistical 
+properties  the statistical properties of these sequences
+are given and related to previously established 
+criteria
+
+cacm july 1969
+
+hemmerle w j
+
+random number uniform distribution pseudo-random
+number random number generator multiplicative 
+congruential generator power residue twos
+complement arithmetic ibm 360 arithmetic
+
+3.15 5.5 6.32
+
+ca690706 jb february 17 1978  917 am
+
+1874	5	1874
+1874	5	1874
+1874	5	1874
+

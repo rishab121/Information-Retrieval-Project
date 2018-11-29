@@ -1,0 +1,43 @@
+
+
+
+a lightpen-controlled program for on-line data analysis
+
+this paper describes a technique designed
+to ease the use of a data processing system by a 
+person in particular a scientist who is intimately and
+primarily concerned with interpreting the significance 
+of data handled by the system  since such a person is
+often unable to spend the time necessary to master 
+a programming language it is essential that he be aided
+in composing commands to the computer  in the 
+system described the user is not required to learn
+or remember the vocabulary of the language because 
+the vocabulary is displayed before him onmenus by
+means of a computer-drive scope  he selects the 
+various vocabulary elements required by pointing with
+the light pen  by use of a small unordered set 
+of rewriting rules applied as a result of light pen
+selections the user generates only syntactically
+correct commands to the system  he does not have to learn
+or remember the grammar  the program restricts 
+the user severely in the particular language he can use
+but the method for communicating with the program 
+makes these restrictions seem quite natural and unconstraining
+ the program has been used successfully 
+for over ten months
+
+cacm february 1965
+
+goodenough j b
+
+ca650217 jb march 7 1978  1040 pm
+
+1307	5	1307
+1307	5	1307
+1307	5	1307
+1978	5	1307
+1307	6	1307
+1589	6	1307
+1813	6	1307
+

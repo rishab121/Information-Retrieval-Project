@@ -1,0 +1,47 @@
+
+
+
+implications of structured programming for machine architecture
+
+based on an empirical study of more than 10,000
+lines of program text written in a goto-less 
+language a machine architecture specifically designed for
+structured programs is proposed  since assignment 
+call return and if statements together account for
+93 percent of all executable statements special 
+care is given to ensure that these statements can be implemented
+efficiently  a highly compact instruction 
+encoding scheme is presented which can reduce program
+size by a factor of 3  unlike a huffman code 
+which utilizes variable length fields this method uses
+only fixed length 1-byte op code and address 
+fields  the most frequent instructions consist of a
+single 1-byte field  as a consequence instruction 
+decoding time is minimized and the machine is
+efficient with respect to both space and time
+
+cacm march 1978
+
+tanenbaum a
+
+machine architecture computer architecture computer
+organization instruction set design program 
+characteristics
+
+4.12 4.22 4.9 6.21
+
+ca780308 jb march 28 1978  1255 pm
+
+2411	4	3005
+2709	4	3005
+2889	4	3005
+2937	4	3005
+2989	4	3005
+3005	4	3005
+3025	4	3005
+3101	4	3005
+2138	5	3005
+3005	5	3005
+3005	5	3005
+3005	5	3005
+

@@ -1,0 +1,15 @@
+
+
+
+matrix inversion algorithm 58
+
+cacm august 1962
+
+struble g
+
+ca620819 jb march 17 1978  933 pm
+
+509	5	509
+509	5	509
+509	5	509
+

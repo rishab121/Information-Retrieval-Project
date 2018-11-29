@@ -1,0 +1,24 @@
+
+
+
+an algorithm for reasoning about equality
+
+a simple technique for reasoning about equalities
+that is fast and complete for ground formulas 
+with function symbols and equality is presented
+ a proof of correctness is given as well 
+
+cacm july 1978
+
+shostak r
+
+theorem proving deduction program verification equality
+
+3.64 3.66 5.21
+
+ca780709 dh february 7 1979  341 pm
+
+3079	5	3079
+3079	5	3079
+3079	5	3079
+

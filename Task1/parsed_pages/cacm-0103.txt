@@ -1,0 +1,30 @@
+
+
+
+cope console operator proficiency examination
+
+each year electronic computers become more
+sophisticated and the programs they must process 
+become more complex  because of thisdependence of
+those in computing on the skill and experience of 
+operators is increasing  at the same time selection
+and training of qualified operators grows more 
+difficult  to meet the need for a quick accurate uniform
+operator test and training aid the authors 
+have developed cope console operator proficiency examination
+outlined below  while this examination 
+is programmed specifically for the ibm 705 model ii with
+two tape record coordinators similar programs 
+could be developed for other computers
+
+cacm december 1960
+
+farbman d
+ketover r
+
+ca601213 jb march 20 1978  623 pm
+
+103	5	103
+103	5	103
+103	5	103
+

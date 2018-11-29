@@ -1,0 +1,28 @@
+
+
+
+toward an automata theory of brains
+
+a source of ideas for automata theory-the study
+of the brain-has been pushed aside in mathematical 
+development of the theory  this paper suggests the ways
+in which automata theory might evolve over the 
+next 25 years if it is to contribute to an understanding
+of how the brain processes information
+
+cacm july 1972
+
+arbib m a
+
+automata theory brain theory network complexity
+resolution of redundancy of potential command 
+frog visual system reticular formation mode selection
+
+3.36 3.65 5.22
+
+ca720701 jb january 30 1978  346 pm
+
+2327	5	2327
+2327	5	2327
+2327	5	2327
+

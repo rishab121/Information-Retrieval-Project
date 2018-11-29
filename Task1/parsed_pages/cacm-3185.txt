@@ -1,0 +1,36 @@
+
+
+
+   the humble programmer
+
+   we shall do a much better programming job provided that we approach the
+task with a full appreciation if its tremendous difficulty provided that we 
+stick to modest and elegant programming languages provided that we respect
+the intrinsic limitations of the human mind and approach the task as very
+humble programmers
+
+cacm october 1972
+
+dijkstra e w
+
+ca721010 es march 18 1982 1000 am
+
+249	4	3185
+1139	4	3185
+438	4	3185
+3185	4	3185
+3185	4	3185
+303	5	3185
+2705	5	3185
+438	5	3185
+3101	5	3185
+3185	5	3185
+3185	5	3185
+3185	5	3185
+1908	6	3185
+2138	6	3185
+2193	6	3185
+2438	6	3185
+3185	6	3185
+3185	6	3185
+

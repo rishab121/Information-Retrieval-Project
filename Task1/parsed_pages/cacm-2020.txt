@@ -1,0 +1,43 @@
+
+
+
+the allocation of computer resources-is pricing the answer
+
+the widespread use of complex third generation computing systems has led to a 
+much broader concern about the means by which the resources of these systems
+are allocated among the user community  one means that is suggested
+more and more frequently is a pricing procedure  in this
+paper the manner in which one would like to allocate computing resources
+is considered and then the extent to which a pricing mechanism fits this mold 
+is discussed  inasmuch as pricing must serve as a rationing mechanism at 
+times consideration is given to the means by which prices can be adjusted 
+flexibly in order to make a dynamic allocation of resources  consideration is 
+also given to the means by which users can be insulated from the harmful 
+effects of frequent price fluctuations  although the subject of pricing has
+been given a lot of attention recently a number of misconceptions
+persist about its purpose and its operation  an attempt is made to clarify 
+some of these misunderstandings and to highlight the advantages and 
+disadvantages and to highlight the advantages and disadvantages of pricing two
+illustrative pricing systems are also discussed in order to demonstrate the 
+applicability of pricing in quite different environments
+
+cacm august 1970
+
+nielsen n r
+
+allocation mechanisms charging computer pricing
+costing flexible pricing pricing priority charges
+resource allocation user motivation
+
+1.3 2.4
+
+ca700801 jb february 10 1978  413 pm
+
+2020	4	2020
+1735	5	2020
+2020	5	2020
+2020	5	2020
+2020	5	2020
+2479	5	2020
+2020	6	2020
+

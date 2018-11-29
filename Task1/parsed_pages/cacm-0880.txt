@@ -1,0 +1,16 @@
+
+
+
+newton interpolation with backward divided differences
+
+cacm april 1963
+
+kahan w
+farkas i
+
+ca630411 jb march 14 1978  1220 pm
+
+880	5	880
+880	5	880
+880	5	880
+

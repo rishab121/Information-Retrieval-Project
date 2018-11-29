@@ -1,0 +1,22 @@
+
+
+
+minimax nonlinear approximation by approximation on subsets
+
+cacm may 1972
+
+dunham c b
+
+minimax approximation nonlinear approximation subset
+
+5.13
+
+ca720508 jb january 31 1978  940 am
+
+2352	4	2352
+2353	4	2352
+2094	5	2352
+2352	5	2352
+2352	5	2352
+2352	5	2352
+

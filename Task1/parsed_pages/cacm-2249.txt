@@ -1,0 +1,53 @@
+
+
+
+a comparison of multivariate normal generators
+
+three methods for generating outcomes on multivariate
+normal random vectors with a specified 
+variance-covariance matrix are presented  a comparison
+is made to determine which method requires the 
+least computer execution time and memory space when utilizing
+the ibm 360/67  all methods use as a basis 
+a standard gaussian random number generator  results
+of the comparison indicate that the method based 
+on triangular factorization of the covariance matrix
+generally requires less memory space and computer 
+time than the other two methods 
+
+cacm december 1972
+
+barr d r
+sezak n l
+
+random number generator normal distribution multivariate
+normal distribution multivariate normal 
+generator
+
+3.65 5.5
+
+ca721206 jb january 27 1978  1119 am
+
+1708	4	2249
+1781	4	2249
+1826	4	2249
+1860	4	2249
+1972	4	2249
+2156	4	2249
+2168	4	2249
+2249	4	2249
+2249	4	2249
+2249	4	2249
+2314	4	2249
+2719	4	2249
+2736	4	2249
+2736	4	2249
+2833	4	2249
+3074	4	2249
+1626	5	2249
+1708	5	2249
+1853	5	2249
+2249	5	2249
+2249	5	2249
+2249	5	2249
+

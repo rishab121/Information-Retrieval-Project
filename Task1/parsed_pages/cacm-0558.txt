@@ -1,0 +1,28 @@
+
+
+
+a modified inversion procedure for product
+form of the inverse linear programming codes
+
+this paper describes a new algorithm for the
+selection of the pivot row in matrix inversion 
+when using the product form of the inverse  this algorithm
+has been developed for linear programming 
+codes however it would be valuable for the inversion
+of any non-dense matrix  the procedures described 
+in this paper have been thoroughly tested and have been
+in operation on the esso research and engineering 
+ibm 7090 computer for nine months  substantial computer
+cost savings have been realized because of this 
+procedure
+
+cacm july,1962
+
+larsen l j
+
+ca620703 jb march 17 1978  907 pm
+
+558	5	558
+558	5	558
+558	5	558
+

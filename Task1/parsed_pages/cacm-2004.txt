@@ -1,0 +1,52 @@
+
+
+
+a procedure for generation of three-dimensional
+half-toned computer graphics presentations
+
+a description is given of an algorithm for producing computer generated 
+half-tone presentations of three-dimensional polygonal surface structures  
+this algorithm achieves a significant increase in speed of computation over 
+the warnock algorithm developed at the university of utah and implemented
+also on the coordinated science laboratory cdc 1604 computer
+system at the university of illinois  the history leading to the algorithm
+development and then the algorithm itself are described
+results are presented and are compared with computer runs achieved
+by the warnock approach  an extension of the procedure to variable position
+illumination sources is also given
+
+cacm september 1970
+
+bouknight w j
+
+half-tone computer graphics line-scan image processing
+hidden surface polygonal surface structure presentations
+
+4.9
+
+ca700901 jb february 10 1978  227 pm
+
+2004	4	2004
+2004	4	2004
+2687	4	2004
+2692	4	2004
+1686	5	2004
+1915	5	2004
+2004	5	2004
+2004	5	2004
+2004	5	2004
+2674	5	2004
+2687	5	2004
+2828	5	2004
+1741	6	2004
+1741	6	2004
+1751	6	2004
+1915	6	2004
+2004	6	2004
+2004	6	2004
+2004	6	2004
+2421	6	2004
+2687	6	2004
+2751	6	2004
+2841	6	2004
+

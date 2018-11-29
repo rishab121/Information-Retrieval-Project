@@ -1,0 +1,46 @@
+
+
+
+a survey of computer science offerings in small liberal arts colleges
+
+recent curricular development in computer science
+together with student in terest in pursuing 
+topics in computer science beyond the usual programming
+courses have encouraged small liberal arts colleges 
+to expand their offerings  this paper summarizes the
+results of a survey taken to determine the type 
+of computer science programs being offered in these
+colleges  the results indicate that over half of 
+these colleges either have no computer science
+program or offer only programming courses
+
+cacm december 1977
+
+lopez a a
+raymond r
+tardiff r
+
+computer science education curricula small colleges
+
+1.5
+
+ca771201 jb december 22 1977  553 pm
+
+1720	4	2899
+1927	4	2899
+2147	4	2899
+2163	4	2899
+2345	4	2899
+2478	4	2899
+2594	4	2899
+2852	4	2899
+2899	4	2899
+2899	4	2899
+3003	4	2899
+3130	4	2899
+1771	5	2899
+2538	5	2899
+2899	5	2899
+2899	5	2899
+2899	5	2899
+

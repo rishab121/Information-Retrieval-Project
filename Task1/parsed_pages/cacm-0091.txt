@@ -1,0 +1,22 @@
+
+
+
+a mathematical procedure for machine division
+
+cacm april 1959
+
+gilman r e
+
+ca590401 jb march 22 1978  714 pm
+
+214	5	91
+1593	5	91
+91	5	91
+91	5	91
+91	5	91
+1	6	91
+1292	6	91
+53	6	91
+91	6	91
+91	6	91
+

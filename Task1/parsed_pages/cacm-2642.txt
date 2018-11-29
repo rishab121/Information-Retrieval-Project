@@ -1,0 +1,24 @@
+
+
+
+solution of an overdetermined system of equations
+in the l1 norm f4 algorithm a478
+
+cacm june 1974
+
+barrodale i
+roberts f d k
+
+l1 approximation l1 norm overdetermined system
+of equations linear programming simplex method 
+
+5.13 5.41
+
+ca740604 jb january 17 1978  325 pm
+
+2642	5	2642
+2642	5	2642
+2642	5	2642
+2759	5	2642
+2642	6	2642
+

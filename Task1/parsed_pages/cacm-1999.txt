@@ -1,0 +1,30 @@
+
+
+
+optimal starting approximations for generating
+square root for slow or no divide
+
+on machine with slow or no division it is preferable to
+use an iterative scheme for the square root different from
+the classical heron scheme  the problem of optimal initial 
+approximants is considered and some optimal polynomial initial 
+approximations are tabulated
+
+cacm september 1970
+
+wilson m w
+
+square root newton-raphson iteration optimal approximants
+
+5.13
+
+ca700906 jb february 10 1978  133 pm
+
+1832	4	1999
+1999	4	1999
+2159	4	1999
+1932	5	1999
+1999	5	1999
+1999	5	1999
+1999	5	1999
+

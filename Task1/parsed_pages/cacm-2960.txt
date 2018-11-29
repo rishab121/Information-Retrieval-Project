@@ -1,0 +1,21 @@
+
+
+
+two views of data abstraction
+
+cacm june 1977
+
+ledgard h f
+taylor r w
+
+ca770603 jb december 29 1977  128 am
+
+2960	5	2960
+2960	5	2960
+2960	5	2960
+3049	5	2960
+2956	6	2960
+2958	6	2960
+2957	6	2960
+2960	6	2960
+

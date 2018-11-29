@@ -1,0 +1,38 @@
+
+
+
+theoretical considerations in information retrieval systems
+
+information storage and retrieval systems are composed
+of three major components a identification 
+of information and tagging it for effective retrieval
+b searching strategy how to enter the file 
+to circumvent the scanning of nonrelevant material and
+c file organization to make access to information 
+efficient  for identification of information the paper
+suggests that a metalanguage recently discussed 
+in a paper by goffman verhoeff and belzer associated
+with an object language be used  for searching 
+strategy a linear model for an evaluation function
+of relevancy is developed which rewards the system 
+for retrieving relevant documents and not retrieving
+the nonrelevant and penalizes the system for the 
+escaped relevant documents and false drops  the inadequacies
+of a linear model are indicated  two approaches 
+to file organization are discussed  one is self-organization
+of the file based on its history and past 
+performance and the second is a self-generating subset
+of the file with a high probability of being 
+relevant
+
+cacm july 1964
+
+belzer j
+goffman w
+
+ca640715 jb march 9 1978  755 pm
+
+1032	5	1032
+1032	5	1032
+1032	5	1032
+

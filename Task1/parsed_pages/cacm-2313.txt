@@ -1,0 +1,47 @@
+
+
+
+the evolution of storage structures
+
+data base management systems have grown rapidly
+in their power and complexity over the 15-year 
+history of data processing on commercially available
+computers  the original concepts have split and 
+new terms have been adopted to name and refer to these
+concepts  the data structure diagram graphic 
+technique is used to illustrate the splitting of the
+concepts and the structural relations which exist 
+between these concepts at each point in the evolution
+
+cacm july 1972
+
+bachman c w
+
+block cylinder device field extent file page
+record physical record logical record track 
+volume entity set entity class set class data structure
+diagram storage structure physical storage 
+structure logical storage structure storage allocation
+structure integrated data store index sequential 
+hash randomize item
+
+1.4 4.41 4.9
+
+ca720715 jb january 30 1978  116 pm
+
+2258	4	2313
+2319	4	2313
+2313	4	2313
+2359	4	2313
+2437	4	2313
+2552	4	2313
+2781	4	2313
+2860	4	2313
+2991	4	2313
+2203	5	2313
+2313	5	2313
+2313	5	2313
+2313	5	2313
+2425	5	2313
+2313	6	2313
+

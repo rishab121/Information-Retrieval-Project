@@ -1,0 +1,37 @@
+
+
+
+file organization the consecutive retrieval property
+
+the consecutive retrieval property is an important
+relation between a query set and record 
+set  its existence enables the design of an information
+retrieval system with a minimal search time 
+and no redundant storage  some important theorems on
+the consecutive retrieval property are proved in 
+this paper  conditions under which the consecutive retrieval
+property exists and remain invariant have 
+been established  an outline for designing an information
+retrieval system based on the consecutive 
+retrieval property is also discussed
+
+cacm september 1972
+
+ghosh s p
+
+file organization consecutive storage consecutive
+retrieval information retrieval record organization 
+query structure record structure storage on
+tapes storage space minimum access time
+
+3.70 3.73 3.74
+
+ca720902 jb january 27,1978  452 pm
+
+2288	5	2288
+2288	5	2288
+2288	5	2288
+2729	5	2288
+2288	6	2288
+2801	6	2288
+

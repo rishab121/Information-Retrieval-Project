@@ -1,0 +1,26 @@
+
+
+
+coloring polygonal regions algorithm 364 z
+
+cacm december 1969
+
+herriot r g
+
+coloring polygonal regions coloring planar surfaces
+drawing pictures shading enclosed regions
+
+4.9
+
+ca691208 jb february 15 1978  227 pm
+
+1804	4	1804
+1804	4	1804
+2987	4	1804
+2987	4	1804
+1804	5	1804
+1804	5	1804
+1804	5	1804
+421	5	1804
+524	5	1804
+

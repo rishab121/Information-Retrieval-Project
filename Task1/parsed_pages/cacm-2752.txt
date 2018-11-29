@@ -1,0 +1,20 @@
+
+
+
+generation of all the cycles of a graph from
+a set of basic cycles h algorithm 492 
+
+cacm june 1975
+
+gibbs n e
+
+basic cycle cycle graph
+
+5.32 3.24
+
+ca750601 jb january 9 1978  155 pm
+
+2752	5	2752
+2752	5	2752
+2752	5	2752
+

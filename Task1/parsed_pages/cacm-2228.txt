@@ -1,0 +1,70 @@
+
+
+
+comments on prevention of system deadlocks
+
+habermanns method of deadlock prevention is
+discussed where deadlock is defined as a system 
+state from which resource allocations to certain processes
+are not possible  it is shown that the scheduler 
+may introduce artificial deadlocks which habermanns
+method does not prevent  permanent blocking is 
+the situation where certain processes never receive their
+resource requests  it is shown that deadlock 
+prevention does not necessarily eliminate permanent blocking
+ a method of preventing permanent blocking 
+is given
+
+cacm january 1971
+
+holt r c
+
+multiprogramming time-sharing scheduling resource
+allocation deadlock lockout deadly embrace 
+knotting 
+
+3.72 4.32 6.20
+
+ca710106 jb february 8 1978  1045 am
+
+1781	4	2228
+2150	4	2228
+2150	4	2228
+2228	4	2228
+2228	4	2228
+2228	4	2228
+2256	4	2228
+2256	4	2228
+2280	4	2228
+2317	4	2228
+2342	4	2228
+2342	4	2228
+2376	4	2228
+2379	4	2228
+2482	4	2228
+2618	4	2228
+2618	4	2228
+2740	4	2228
+2851	4	2228
+2920	4	2228
+3184	4	2228
+1198	5	2228
+1338	5	2228
+1877	5	2228
+2228	5	2228
+2228	5	2228
+2228	5	2228
+2280	5	2228
+2379	5	2228
+2482	5	2228
+2500	5	2228
+1749	6	2228
+1749	6	2228
+1877	6	2228
+1877	6	2228
+1877	6	2228
+2228	6	2228
+2228	6	2228
+2228	6	2228
+2228	6	2228
+

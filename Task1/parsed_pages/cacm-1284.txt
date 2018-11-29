@@ -1,0 +1,20 @@
+
+
+
+bessel function for a set of integer orders
+
+cacm april,1965
+
+stafford j
+
+ca650407 jb march 7 1978  354 pm
+
+1284	5	1284
+1284	5	1284
+1284	5	1284
+1909	5	1284
+134	6	1284
+1023	6	1284
+1284	6	1284
+1316	6	1284
+

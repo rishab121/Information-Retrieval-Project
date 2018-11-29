@@ -1,0 +1,73 @@
+
+
+
+the reallocation of hash-coded tables
+
+when the space allocation for a hash-coded table
+is altered the table entries must be rescattered 
+over the new space  a technique for accomplishing
+this rescattering is presented  the technique is 
+independent of both the length of the table and the hashing
+function used and can be utilized in conjunction 
+with a linear reallocation of the table being rescattered
+ moreover it can be used to eliminate previously 
+flagged deletions from any hash-coded table or to change
+from one hashing method to another  the efficiency 
+of the technique is discussed and theoretical statistics are given
+
+cacm january 1973
+
+bays c
+
+reallocation dynamic storage hash code scatter storage deletions
+
+3.7 3.73 3.74 4.9
+
+ca730102 jb january 24 1978  450 pm
+
+1676	4	2559
+1682	4	2559
+1728	4	2559
+1860	4	2559
+1973	4	2559
+1973	4	2559
+1992	4	2559
+2018	4	2559
+2032	4	2559
+2033	4	2559
+2107	4	2559
+2109	4	2559
+2138	4	2559
+2203	4	2559
+2203	4	2559
+2251	4	2559
+2251	4	2559
+2251	4	2559
+2359	4	2559
+2524	4	2559
+2530	4	2559
+2534	4	2559
+2537	4	2559
+2543	4	2559
+2543	4	2559
+2543	4	2559
+2552	4	2559
+2559	4	2559
+2559	4	2559
+2559	4	2559
+2573	4	2559
+2770	4	2559
+2991	4	2559
+2991	4	2559
+3053	4	2559
+3053	4	2559
+3053	4	2559
+3083	4	2559
+3083	4	2559
+1785	5	2559
+1973	5	2559
+2107	5	2559
+2559	5	2559
+2559	5	2559
+2559	5	2559
+

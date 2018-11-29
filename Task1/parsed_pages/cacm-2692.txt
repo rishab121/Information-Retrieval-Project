@@ -1,0 +1,60 @@
+
+
+
+reentrant polygon clipping
+
+a new family of clipping algorithms is described
+ these algorithms are able to clip polygons 
+against irregular convex plane-faced volumes in three
+dimensions removing the parts of the polygon which 
+lie outside the volume  in two dimensions the algorithms
+permit clipping against irregular convex windows 
+ polygons to be clipped are represented as an ordered
+sequence of vertices without repetition of first 
+and last in marked contrast to representation as a
+collection of edges as was heretofore the common 
+procedure  output polygons have an identical format
+with new vertices introduced in sequence to describe 
+any newly-cut edge or edges  the algorithms easily handle
+the particularly difficult problem of detecting 
+that a new vertex may be required at a corner of the
+clipping window  the algorithms described achieve 
+considerable simplicity by clipping separately against
+each clipping plane or window boundary  code 
+capable of clipping the polygon against a single boundary
+is reentered to clip against subsequent boundaries 
+ each such reentrant stage of clipping need store only
+two vertex values and may begin its processing 
+as soon as the first output vertex from the proceeding
+stage is ready  because the same code is reentered 
+for clipping against subsequent boundaries clipping
+against very complex window shapes is practical 
+ for perspective applications in three dimentions a six-plane
+truncated pyramid is chosen as the clipping 
+volume  the two additional planes parallel to the projection
+screen serve to limit the range of depth 
+preserved through the projection  a perspective projection
+method which provides for arbitrary view 
+angles and depth of field in spite of simple fixed clipping
+planes is described  this method is ideal 
+for subsequent hidden-surface computations
+
+cacm january 1974
+
+sutherland i e
+hodgman g w
+
+computer graphics hidden-surface clipping
+
+5.31 6.32 6.35
+
+ca740107 jb january 18 1978  204 pm
+
+2004	4	2692
+2687	4	2692
+2692	4	2692
+1915	5	2692
+2692	5	2692
+2692	5	2692
+2692	5	2692
+

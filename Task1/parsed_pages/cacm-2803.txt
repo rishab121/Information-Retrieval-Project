@@ -1,0 +1,23 @@
+
+
+
+pseudoinverses and conjugate gradients
+
+this paper is devoted to the study of connections
+between pseudoinverses of matrices and conjugate 
+gradients and conjugate direction routines
+
+cacm january 1975
+
+hestenes m r
+
+pseudoinverse conjugate gradients hermitian matrix minimization
+
+5.14
+
+ca750108 jb january 12 1978  1008 am
+
+2803	5	2803
+2803	5	2803
+2803	5	2803
+

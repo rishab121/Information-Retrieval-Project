@@ -1,0 +1,34 @@
+
+
+
+proposed usa standard data communication control
+procedures for the usa standarad code for information 
+interchange
+
+cacm march 1969
+
+data communication data communication control procedures
+data communication establishment/termination 
+procedures data communication message transfer procedures
+data communication error control procedures 
+data communication polling/selection procedures communication
+communication control procedures communication 
+establishment/termination procedures communication
+message transfer procedures communication error 
+control procedures communication polling/selection procedures
+link link control procedures link establishment/termination 
+procedures link message transfer procedures link error
+control procedures link polling/selection procedures 
+data link data link control procedures data link  establishment/termination
+procedures data link message 
+transfer procedures data link error control procedures
+data link polling/selection procedures
+
+3.81 4.49 6.39
+
+ca690305 jb february 20 1978  909 am
+
+1922	5	1922
+1922	5	1922
+1922	5	1922
+

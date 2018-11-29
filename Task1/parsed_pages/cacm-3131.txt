@@ -1,0 +1,36 @@
+
+
+
+focus microcomputer number system
+
+focus is a number system and supporting computational
+algorithms especially useful for microcomputer control and other
+signal processing applications  focus has the wide-ranging
+character of floating-point numbers with a uniformity of state distributions
+that give focus better than a twofold accuracy advantage
+over an equal word length floating-point system  focus computations
+are typically five times faster than single precision fixed-point
+or integer arithmetic for a mixture of operations comparable in
+speed with hardware arithmetic for many applications  algorithms
+for 8-bit and 16-bit implementations of focus are included
+
+cacm march 1979
+
+edgar a
+lee s
+
+number representation logarithmic arithmetic computational
+speed computational accuracy microcomputer applications  
+
+3.24 3.80 4.0 4.22 5.11
+
+ca790302 dh april 12 1979  1112 am
+
+3131	4	3131
+3131	4	3131
+1148	5	3131
+3131	5	3131
+3131	5	3131
+3131	5	3131
+893	5	3131
+

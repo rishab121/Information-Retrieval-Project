@@ -1,0 +1,127 @@
+
+
+
+sorting in a paging environment
+
+this sorting study was part of an extensive measurement project
+undertaken on the m44/44x an experimental paging system which was
+conceived and implemented at ibm research in order to explore the
+virtual machine concept  the study was concerned with the implementation 
+of sorting procedures in the context of the dynamic paging
+environment characteristic of virtual memory machines  descriptions of 
+the experimental sort programs and analysis of the performance
+measurement results obtained for them are presented the insight gained 
+from the experimental effort is used to arrive at a set of
+broad guidelines for writing sort programs for a paging environment
+
+cacm august 1970
+
+brawn b s
+gustavson g
+mankin e s
+
+sorting merging virtual machines paging systems dynamic
+storage allocation measurement of systems program behavior
+performance evaluation memory management
+
+4.32 4.49 4.9 5.31
+
+ca700804 jb february 10 1978  351 pm
+
+1050	4	2017
+1117	4	2017
+1117	4	2017
+1175	4	2017
+1919	4	2017
+1935	4	2017
+1936	4	2017
+1956	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2032	4	2017
+2041	4	2017
+2146	4	2017
+2146	4	2017
+2146	4	2017
+2216	4	2017
+2257	4	2017
+2360	4	2017
+2451	4	2017
+2452	4	2017
+677	4	2017
+851	4	2017
+851	4	2017
+860	4	2017
+861	4	2017
+2017	5	2017
+2017	5	2017
+2017	5	2017
+2319	5	2017
+2582	5	2017
+2669	5	2017
+3054	5	2017
+849	5	2017
+850	5	2017
+851	5	2017
+852	5	2017
+853	5	2017
+854	5	2017
+855	5	2017
+856	5	2017
+858	5	2017
+857	5	2017
+859	5	2017
+860	5	2017
+862	5	2017
+863	5	2017
+864	5	2017
+865	5	2017
+861	5	2017
+866	5	2017
+1175	6	2017
+1408	6	2017
+1719	6	2017
+1749	6	2017
+1751	6	2017
+1751	6	2017
+1751	6	2017
+1880	6	2017
+1901	6	2017
+1919	6	2017
+1924	6	2017
+1969	6	2017
+1980	6	2017
+1997	6	2017
+307	6	2017
+308	6	2017
+309	6	2017
+2016	6	2017
+2017	6	2017
+2017	6	2017
+2017	6	2017
+2017	6	2017
+2080	6	2017
+2130	6	2017
+2188	6	2017
+2203	6	2017
+2204	6	2017
+2358	6	2017
+2679	6	2017
+776	6	2017
+

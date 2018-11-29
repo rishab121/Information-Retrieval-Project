@@ -1,0 +1,21 @@
+
+
+
+automatic graders for programming classes
+
+cacm october 1960
+
+hollingsworth j
+
+ca601003 jb march 20 1978  828 pm
+
+145	5	145
+145	5	145
+145	5	145
+1270	5	145
+1902	5	145
+145	6	145
+145	6	145
+1270	6	145
+3184	6	145
+

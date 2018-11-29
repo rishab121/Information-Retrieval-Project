@@ -1,0 +1,22 @@
+
+
+
+gaussian quadrature formulas for bromwichs
+integral d1 algorithm a453
+
+cacm august 1973
+
+piessens r
+
+gaussian quadrature bromwichs integral complex
+integration numerical inversion of the laplace 
+transform
+
+5.16 5.13
+
+ca730809 jb january 23 1978  1037 am
+
+2465	5	2465
+2465	5	2465
+2465	5	2465
+

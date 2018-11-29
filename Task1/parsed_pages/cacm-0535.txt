@@ -1,0 +1,18 @@
+
+
+
+triangular walk pattern for the down-hill
+method of solving a transcendental equation
+
+cacm july 1962
+
+onoe m
+
+ca620726 jb march 17 1978  802 pm
+
+1806	5	535
+535	5	535
+535	5	535
+535	5	535
+535	6	535
+

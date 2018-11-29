@@ -1,0 +1,24 @@
+
+
+
+a class of iterative techniques for the factorization of polynomials
+
+a method of iteration is developed in terms
+of a function of somewhat arbitrary character 
+ sufficient conditions are given for convergence of
+the process yielding factors of arbitrary degree 
+for polynomials in one variable  both lins method
+and newtons method occur as special cases
+
+cacm march 1964
+
+luther h a
+
+ca640321 jb march 10 1978  210 am
+
+1111	4	1111
+1111	5	1111
+1111	5	1111
+1111	5	1111
+894	5	1111
+

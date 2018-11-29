@@ -1,0 +1,38 @@
+
+
+
+minimal event-node network of project precedence relations
+
+a procedure for constructing a minimal event-node
+network to represent a set of precedence 
+relations without parallel activities is presented  a
+minimal event-node network is an event-node network 
+in which both the number of nodes and the number of arcs
+are the minima to preserve the given precedence 
+relations counterexamples are given to show that the
+algorithm presented by a c fisher j s liebman 
+and g l nemhauser 1968 produces event-node networks
+which are not minimal  since our procedure includes 
+the set-covering problem the time required may grow
+exponentially with the number of given activities
+
+cacm may 1973
+
+corneil d g
+gotlieb c c
+lee y m
+
+network project event-node network activity-node
+network minimal event-node network dummy 
+activity project precedence relations
+
+3.57 5.32 8.3
+
+ca730505 jb january 24 1978  842 am
+
+2515	4	2515
+1723	5	2515
+2515	5	2515
+2515	5	2515
+2515	5	2515
+

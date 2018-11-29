@@ -1,0 +1,33 @@
+
+
+
+a fast random number generator for ibm 360
+
+cacm december 1969
+
+seraphin d s
+
+pseudorandom number modulus period float
+normalization characteristic chi-square test
+
+4.49 5.19 5.5
+
+ca691218 jb february 15 1978  158 pm
+
+1794	4	1794
+1870	4	1794
+2122	4	1794
+1674	5	1794
+1794	5	1794
+1794	5	1794
+1794	5	1794
+2349	5	1794
+1648	6	1794
+1716	6	1794
+1794	6	1794
+1894	6	1794
+2043	6	1794
+501	6	1794
+613	6	1794
+774	6	1794
+

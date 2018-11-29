@@ -1,0 +1,20 @@
+
+
+
+ricatti-bessel functions of first and second kind algorithm 22 $s17
+
+cacm july 1970
+
+bray t
+
+ricatti-bessel functions bessel functions
+of fractional order spherical bessel functions
+
+5.12
+
+ca700710 jb february 10 1978  429 pm
+
+2027	5	2027
+2027	5	2027
+2027	5	2027
+

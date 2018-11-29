@@ -1,0 +1,71 @@
+
+
+
+specifying queries as relational expressions
+the square data sublanguage
+
+this paper presents a data sublanguage called
+square intended for use in ad hoc interactive 
+problem solving by non-computer specialists square
+is based on the relational model of data and is 
+shown to be relationally complete however it avoids
+the quantifiers and bound variables required by 
+languages based on the relational calculus  facilities
+for query insertion deletion and update on 
+tabular data bases are described  a syntax is given
+and suggestions are made for alternative syntaxes 
+including a syntax based on english key words for
+users with limited mathematical background
+
+cacm november 1975
+
+boyce r f
+chamberlin d d
+king w f iii
+
+database data sublanguages relations query languages
+casual user relational data model tabular 
+data interactive problem solving nonprocedural
+languages relational completeness
+
+3.50 3.70 4.20
+
+ca751102 jb january 6 1978  1004 am
+
+1135	4	2710
+1136	4	2710
+2046	4	2710
+2155	4	2710
+2406	4	2710
+493	4	2710
+2710	4	2710
+2710	4	2710
+2710	4	2710
+2710	4	2710
+2715	4	2710
+2716	4	2710
+2716	4	2710
+2717	4	2710
+2718	4	2710
+2765	4	2710
+2765	4	2710
+2817	4	2710
+2888	4	2710
+2888	4	2710
+2901	4	2710
+2901	4	2710
+2906	4	2710
+2957	4	2710
+2959	4	2710
+2965	4	2710
+3087	4	2710
+3154	4	2710
+729	4	2710
+1515	5	2710
+2046	5	2710
+2710	5	2710
+2710	5	2710
+2710	5	2710
+2715	5	2710
+616	5	2710
+

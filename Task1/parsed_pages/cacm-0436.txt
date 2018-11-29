@@ -1,0 +1,24 @@
+
+
+
+evaluation of polynomials by computer
+
+cacm december 1962
+
+knuth d e
+
+ca621203 jb march 17 1978  516 pm
+
+1223	4	436
+1388	4	436
+436	4	436
+1620	5	436
+405	5	436
+436	5	436
+436	5	436
+436	5	436
+819	5	436
+819	6	436
+436	6	436
+436	6	436
+

@@ -1,0 +1,45 @@
+
+
+
+optimizing decision trees through heuristically guided search
+
+optimal decision table conversion has been
+tackled in the literature using two approaches 
+dynamic programming and branch-and-bound  the former
+technique is quite effective but its time and 
+space requirements are independent of how easy the
+given table is  furthermore it cannot be used 
+to produce good quasi optimal solutions  the branch-and-bound
+technique uses a good heuristic to direct 
+the search but is cluttered up by an enormous search
+space since the number of solutions increases 
+with the number of test variables according to a double 
+exponential  in this paper we suggest a heuristically 
+guided top-down search algorithm which like dynamic
+programming recognizes identical subproblems but 
+which can be used to find both optimal and quasi optimal
+solutions  the heuristic search method introduced 
+in this paper combines the positive aspects of the above
+two techniques  compressed tables with a large 
+number of variables can be handled without deriving expanded tables first 
+
+cacm december 1978
+
+martelli a
+montanari u
+
+decision table optimal decision table conversion
+decision tree heuristic search and/or graphs 
+dynamic programming branch-and-bound
+
+3.59 3.66 5.42 8.3
+
+ca781206 dh january 18 1979  356 pm
+
+3033	4	3033
+3113	4	3033
+2856	5	3033
+3033	5	3033
+3033	5	3033
+3033	5	3033
+

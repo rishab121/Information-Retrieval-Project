@@ -1,0 +1,41 @@
+
+
+
+insertions and deletions in one-sided height-balanced trees
+
+recently hirschberg has established that insertions
+into one-sided height-balanced trees can 
+be done in 0log^2n steps  it is proved here that deletions
+can also be performed in 0log^2n steps 
+which answers the open problem posed by hirschberg
+
+cacm march 1978
+
+kosaraju s
+
+avl trees balanced trees binary search dynamic balancing
+
+3.73 3.74 4.34 5.25 5.31
+
+ca780304 jb march 28 1978  112 pm
+
+3009	4	3009
+3042	4	3009
+3065	4	3009
+3096	4	3009
+3163	4	3009
+2839	5	3009
+3009	5	3009
+3009	5	3009
+3009	5	3009
+3096	5	3009
+3163	5	3009
+2839	6	3009
+2839	6	3009
+2889	6	3009
+2889	6	3009
+3009	6	3009
+3009	6	3009
+3065	6	3009
+3096	6	3009
+

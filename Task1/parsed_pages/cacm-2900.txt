@@ -1,0 +1,30 @@
+
+
+
+some theorems to aid in solving the file allocation problem
+
+the file allocation problem-ie the problem
+of finding the optimal set of network sites at 
+which to locate copies of a file-is known to be in general
+polynomial complete  heuristics and other 
+aids to finding optimal or near-optimal solutions are
+therefore much needed  in this paper we present 
+three theorems which can be applied a priori to indicate
+that certain sites should or should not be 
+included in an optimal allocation
+
+cacm november 1977
+
+grapa e
+belford g g
+
+file allocation computer networks distributed data management
+
+4.33
+
+ca771116 jb december 27 1977  845 am
+
+2900	5	2900
+2900	5	2900
+2900	5	2900
+

@@ -1,0 +1,41 @@
+
+
+
+derived semantics for some programming language constructs
+
+the constructs of a simple programming language
+are introduced and described informally in 
+terms of values and side-effects  a translator is defined
+which translates the language into flowcharts 
+for a simple machine  the action of the machine in executing
+a flowchart is defined  a proof is constructed 
+that the effect of translating and executing any program
+can be expressed solely in terms of the value 
+and side-effect of the program  during the course of
+constructing the proof formal definitions of the 
+concepts of value and side-effect are derived in order
+to make the proof rigorous  correctness of the 
+implementation involves checking that the definitions derived
+in the step above are an acceptable formalization 
+of the informal description given in the first step
+
+cacm november 1972
+
+henderson p
+
+lambda calculus formal description program
+correctness programming languages semantics
+
+4.22 5.23 5.24
+
+ca721105 jb january 27 1978  219 pm
+
+2264	5	2264
+2264	5	2264
+2264	5	2264
+2470	5	2264
+1303	6	2264
+1469	6	2264
+1834	6	2264
+2264	6	2264
+

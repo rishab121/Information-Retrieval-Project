@@ -1,0 +1,34 @@
+
+
+
+a theorem-proving language for experimentation
+
+because of the large number of strategies
+and inference rules presently under consideration 
+in automated theorem proving there is a need for developing
+a language especially oriented toward automated 
+theorem proving  this paper discusses some of the features
+and instructions of this language  the use 
+of this language permits easy extension of automated
+theorem-proving programs to include new strategies 
+and/or new inference rules  such extend ability will
+permit general experimentation with the various 
+alternative systems
+
+cacm june 1974
+
+henschen l
+overbeek r
+wos l
+
+theorem proving resolution factoring
+paramodulation programming languages
+
+3.60 4.22 5.21
+
+ca740602 jb january 17 1978  337 pm
+
+2644	5	2644
+2644	5	2644
+2644	5	2644
+

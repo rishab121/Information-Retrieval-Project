@@ -1,0 +1,50 @@
+
+
+
+generation of optimal code for expressions via factorization
+
+given a set of expressions which are to be
+compiled methods are presented for increasing the 
+efficiency of the object code produced by first factoring
+the expressions ie finding a set of subexpressions 
+each of which occurs in two or more other expressions
+or subexpressions  once all the factors have been 
+ascertained a sequencing procedure is applied which
+orders the factors and expressions such that all 
+information is computed in the correct sequence and factors
+need be retained in memory a minimal amount 
+of time  an assignment algorithm is then executed in
+order to minimize the total number of temporary 
+storage cells required to hold the results of evaluating
+the factors  in order to make these techniques 
+computationally feasible heuristic procedures are
+applied and hence global optimal results are not 
+necessarily generated  the factorization algorithms
+are also applicable to the problem of factoring 
+boolean switching expressions and of factoring polynomials
+encountered in symbol manipulating systems
+
+cacm june 1969
+
+breuer m a
+
+factorization algorithms code optimization sequencing
+of operations detection of common subexpressions 
+factorization of boolean expressions
+
+4.12 6.1
+
+ca690607jb february 17 1978  1057 am
+
+1030	4	1886
+1886	4	1886
+1939	4	1886
+1886	5	1886
+1886	5	1886
+1886	5	1886
+2175	5	1886
+678	5	1886
+1551	6	1886
+1613	6	1886
+1886	6	1886
+

@@ -1,0 +1,77 @@
+
+
+
+trac a procedure-describing language for the reactive typewriter
+
+a description of the trac text reckoning
+and compiling language and processing algorithm 
+is given  the trac language was developed as the basis
+of a software package for the reactive typewriter 
+ in the trac language one can write procedures for
+accepting naming and storing any character string 
+from the typewriter for modifying any string in any way
+for treating any string at any time as an executable 
+procedure or as a name or as text and for printing
+out any string  the trac language is based upon 
+an extension and generalization to character strings
+of the programming concept of the macro  through 
+the ability of trac to accept and store definitions of
+procedures the capabilities of the language can 
+be indefinitely extended and can deal with character
+strings integers and boolean vector variables
+
+cacm march 1966
+
+mooers c n
+
+ca660317 jb march 3 1978  1118 am
+
+1455	5	1455
+1455	5	1455
+1455	5	1455
+1530	5	1455
+1531	5	1455
+1565	5	1455
+1703	5	1455
+1945	5	1455
+2036	5	1455
+823	6	1455
+914	6	1455
+915	6	1455
+917	6	1455
+984	6	1455
+989	6	1455
+990	6	1455
+1012	6	1455
+1084	6	1455
+1098	6	1455
+1122	6	1455
+1138	6	1455
+1139	6	1455
+1141	6	1455
+1162	6	1455
+1185	6	1455
+1200	6	1455
+1223	6	1455
+1265	6	1455
+1336	6	1455
+1358	6	1455
+1396	6	1455
+1455	6	1455
+1455	6	1455
+1455	6	1455
+1455	6	1455
+1455	6	1455
+1455	6	1455
+1477	6	1455
+1487	6	1455
+1491	6	1455
+1496	6	1455
+1565	6	1455
+205	6	1455
+483	6	1455
+584	6	1455
+669	6	1455
+680	6	1455
+763	6	1455
+

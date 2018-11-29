@@ -1,0 +1,38 @@
+
+
+
+determination of the intersection points of two
+plane curves by means of differential equations
+
+a new method is proposed to calculate the intersection
+points of two plane curves  the theory 
+of singular points off a system of two differential equations
+is used in developing the method the intersection 
+point to be determined is identified with such a singular
+point and appropriate modifications are applied 
+to the system to ensure that the singular point be stable
+ie all integrals which start in the neighborhood 
+of the singular point will always approach this point
+if the integral parameter tends to infinity  in 
+addition a method is described for systematically searching
+for all intersection points in a prescribed 
+rectangular area
+
+cacm july 1968
+
+kuiken h k
+
+plane curves intersection points intersections
+plane curves integration differential equations 
+matrix iteration singular points nonlinear differential
+equations eigenvalues complex roots roots 
+stationary points runge kutta stable singularity unstable singularity
+
+2.0 3.10 3.20 3.50 5.10
+
+ca680708 jb february 22 1978  1151 am
+
+1721	5	1721
+1721	5	1721
+1721	5	1721
+

@@ -1,0 +1,28 @@
+
+
+
+a view of computer architecture
+
+an attempt is made to predict the developments
+of the next 25 years in the field of computer 
+architecture  standardized inexpensive microcomputers
+on a single chip are predicted  these will be 
+used extensively to provide logical functions for noncomputational
+devices and incidentally for the design 
+of superscale computers 
+
+cacm july 1972
+
+foster c c
+
+computer architecture projection microcomputers
+computer design computer organization
+
+1.2 2.1 6.0 6.2
+
+ca720706 jb january 30 1978  300 pm
+
+2322	5	2322
+2322	5	2322
+2322	5	2322
+

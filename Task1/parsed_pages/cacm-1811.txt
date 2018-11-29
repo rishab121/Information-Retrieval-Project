@@ -1,0 +1,48 @@
+
+
+
+a case study in programming for parallel-processors
+
+an affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently decrease
+execution time for useful problems  parallel-processor 
+systems are multiprocessor systems in which several of
+the processors can simultaneously execute separate 
+tasks of a single job thus cooperating to decrease
+the solution time of a computational problem the 
+processors have independent instruction counters meaning
+that each processor executes its own task program 
+relatively independently of the other processors  communication
+between cooperating processors is by 
+means of data in storage shared by all processors  a
+program for the determination of the distribution 
+of current in an electrical network was written for a
+parallel-processor computing system and execution 
+of this program was simulated  the data gathered from
+simulation runs demonstrate the efficient solution 
+of this problem typical of a large class of important
+problems  it is shown that with proper programming 
+solution time when n processors are applied approaches
+1/n times the solution time for a single processor 
+while improper programming can actually lead to an increase
+of solution time with the number of processors 
+ stability of the method of solution was also investigated
+
+cacm december 1969
+
+rosenfeld j l
+
+parallel-processor parallelism parallel programming
+multiprocessor multiprogramming tasking 
+storage interference electrical network simulation
+relaxation jacobi gauss-seidel convergence
+
+3.24 4.9 5.14 5.17 6.21
+
+ca691201 jb february 15 1978  445 pm
+
+1811	5	1811
+1811	5	1811
+1811	5	1811
+

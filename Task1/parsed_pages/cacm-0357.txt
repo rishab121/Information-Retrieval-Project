@@ -1,0 +1,15 @@
+
+
+
+bessel functions computed recursively algorithm 44
+
+cacm april 1961
+
+wojcicki m e
+
+ca610411 jb march 17 1978  1201 am
+
+357	5	357
+357	5	357
+357	5	357
+

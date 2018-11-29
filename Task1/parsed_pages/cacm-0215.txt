@@ -1,0 +1,17 @@
+
+
+
+the execute operations-a fourth mode of instruction sequencing
+
+cacm march 1960
+
+brooks f p
+
+ca600303 jb march 22 1978  202 pm
+
+215	4	215
+215	5	215
+215	5	215
+215	5	215
+58	5	215
+

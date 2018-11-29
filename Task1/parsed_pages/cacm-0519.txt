@@ -1,0 +1,15 @@
+
+
+
+magic square even order algorithm 117
+
+cacm august 1962
+
+collison d m
+
+ca620809 jb march 17 1978  946 pm
+
+519	5	519
+519	5	519
+519	5	519
+

@@ -1,0 +1,26 @@
+
+
+
+a numerical integration formula useful in fourier analysis
+
+a numerical integration formula is presented which
+uses unequal sampling intervals  the intervals 
+are equally spaced on a log scale  such a formulation
+is useful in fourier analysis to improve accuracy 
+and ease of usage  a complete set of formulas
+for numerical fourier analysis is given
+
+cacm january 1968
+
+meisel w s
+
+numerical integration fourier analysis integration
+
+5.16
+
+ca680112 jb february 23 1978  205 pm
+
+1782	5	1782
+1782	5	1782
+1782	5	1782
+

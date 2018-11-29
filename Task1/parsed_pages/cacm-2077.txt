@@ -1,0 +1,24 @@
+
+
+
+the cyclical majority problem
+
+the problem of the cyclical majority is presented and some new simulated
+results for 3 4 5  40 issues ad 3 5 7  37 judges are reported
+
+cacm april 1970
+
+pomeranz j e
+weil jr r l
+
+arrows paradox cyclical majority simulation
+voters paradox voting paradox
+
+3.31 3.35
+
+ca700407 jb february 13 1978  258 pm
+
+2077	5	2077
+2077	5	2077
+2077	5	2077
+

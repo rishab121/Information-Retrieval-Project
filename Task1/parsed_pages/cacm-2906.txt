@@ -1,0 +1,46 @@
+
+
+
+a very high level programming language for data processing applications
+
+application development today is too labor-in tensive
+ in recent years very high-level languages 
+have been increasingly explored as a solution to this
+problem  the business definition language bdl 
+is such a language one aimed at business data processing
+problems  the concepts in bdl mimic those 
+which have evolved through the years in businesses using
+manual methods  this results in three different 
+sublanguages or components one for defining the business
+forms one for describing the business organization 
+and one for writing calculations
+
+cacm november 1977
+
+hammer m
+owe w g
+kruskal v j
+wladawsky i
+
+very high level language nonprocedural language
+data flow language business application business 
+data processing structured programming modular programming
+format specification and design methodology
+
+3.50 4.22 4.32
+
+ca771110 jb december 27 1977  706 am
+
+1135	4	2906
+1136	4	2906
+493	4	2906
+2710	4	2906
+2765	4	2906
+2888	4	2906
+2906	4	2906
+729	4	2906
+2906	5	2906
+2906	5	2906
+2906	5	2906
+616	5	2906
+

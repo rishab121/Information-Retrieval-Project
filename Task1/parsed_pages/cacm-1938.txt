@@ -1,0 +1,36 @@
+
+
+
+some criteria for time-sharing system performance
+
+time-sharing systems as defined in this article
+are those multiaccess systems which permit 
+a terminal user to utilize essentially the full resources
+of the system while sharing its time with other 
+terminal users  it is each terminal users ability
+to utilize the full resources of the system that 
+makes quantitative evaluation of time-sharing systems
+particularly difficult  six criteria are described 
+which have been successfully used to perform first-level
+quantitative time-sharing system performance 
+evaluation
+
+cacm january 1969
+
+stimler s
+
+time-sharing performance criteria time-sharing
+system operation time-sharing performance analysis
+
+2.40 4.30 4.32 6.20
+
+ca690111 jb february 20 1978  1137 am
+
+1938	5	1938
+1938	5	1938
+1938	5	1938
+2219	5	1938
+2344	5	1938
+1938	6	1938
+1938	6	1938
+

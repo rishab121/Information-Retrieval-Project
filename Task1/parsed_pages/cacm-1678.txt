@@ -1,0 +1,48 @@
+
+
+
+automata formal languages abstract switching
+and computability in a ph computer science 
+program
+
+a number of courses are listed in the area
+describe as automata formal languages abstract 
+switching and computability that might be available
+to a ph student in computer science  a brief 
+catalog description of each course is applied and the
+role of each of the courses in the graduate program 
+is discussed
+
+cacm november 1968
+
+mcnaughton r
+
+ph computer-science curriculum ph computer
+science program automata formal languages 
+switching theory theory of computability
+
+1.5 5.2 6.1
+
+ca681101 jb february 21 1978  316 pm
+
+1678	5	1678
+1678	5	1678
+1678	5	1678
+3003	5	1678
+1659	6	1678
+1678	6	1678
+1927	6	1678
+1945	6	1678
+2097	6	1678
+2147	6	1678
+2163	6	1678
+2187	6	1678
+2329	6	1678
+2345	6	1678
+2367	6	1678
+2407	6	1678
+2478	6	1678
+2479	6	1678
+2480	6	1678
+2538	6	1678
+

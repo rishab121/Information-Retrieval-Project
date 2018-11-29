@@ -1,0 +1,55 @@
+
+
+
+a model for verification of data security in operating systems
+
+program verification applied to kernel architectures
+forms a promising method for providing 
+uncircumventably secure shared computer systems  a
+precise definition of data security is developed 
+here in terms of a general model for operating systems
+ this model is suitable as a basis for verifying 
+many of those properties of an operating system which
+are necessary to assure reliable enforcement of 
+security  the application of this approach to the
+ucla secure operating system is also discussed 
+
+cacm september 1978
+
+popek g
+farber d
+
+operating systems security protection program verification
+
+4.35 5.24
+
+ca780904 dh february 5 1979  240 pm
+
+2021	4	3068
+2222	4	3068
+2227	4	3068
+2315	4	3068
+2326	4	3068
+2470	4	3068
+2732	4	3068
+2865	4	3068
+2896	4	3068
+2943	4	3068
+3014	4	3068
+3068	4	3068
+3068	4	3068
+3077	4	3068
+3143	4	3068
+1834	5	3068
+2869	5	3068
+3068	5	3068
+3068	5	3068
+3068	5	3068
+3105	5	3068
+1471	6	3068
+2625	6	3068
+2632	6	3068
+2868	6	3068
+2939	6	3068
+3068	6	3068
+

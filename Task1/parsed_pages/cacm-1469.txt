@@ -1,0 +1,64 @@
+
+
+
+the next 700 programming languages 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework  this framework
+dictates the rules about the uses of user-coined 
+names and the conventions about characterizing functional
+relationships  within this framework the 
+design of a specific language splits into two independent
+parts  one is the choice of written appearances 
+of programs or more generally their physical representation
+ the other is the choice of the abstract 
+entities such as numbers character-strings lists
+of them functional relations among them that can 
+be referred to in the language  the system is biased
+towards expressions rather than statements 
+ it includes a nonproceduralpurely functional subsystem
+that aims to expand the class of users needs 
+that can be met by a single print-instruction without sacrificing
+the important properties that make 
+conventional right-hand-side expressions easy to construct and understand
+
+cacm march 1966
+
+landin p j
+
+ca660303 jb march 3 1978  205 pm
+
+1469	4	1469
+1486	4	1469
+1491	4	1469
+1781	4	1469
+2178	4	1469
+2326	4	1469
+2470	4	1469
+2684	4	1469
+3044	4	1469
+1303	5	1469
+1469	5	1469
+1469	5	1469
+1469	5	1469
+2060	5	1469
+2294	5	1469
+2470	5	1469
+3124	5	1469
+1303	6	1469
+1380	6	1469
+1421	6	1469
+1469	6	1469
+1469	6	1469
+1469	6	1469
+1469	6	1469
+1477	6	1469
+1491	6	1469
+210	6	1469
+1834	6	1469
+1869	6	1469
+2060	6	1469
+2110	6	1469
+2264	6	1469
+

@@ -1,0 +1,66 @@
+
+
+
+a time and space efficient garbage compaction algorithm
+
+given an area of storage containing scattered
+marked nodes of differing sizes one may wish 
+to rearrange them into a compact mass at one end of the
+area while revising all pointers to marked nodes 
+to show their new locations  an algorithm is described
+here which accomplishes this task in linear time 
+relative to the size of the storage area and in a space
+of the order of one bit for each pointer  the 
+algorithm operates by reversibly encoding the situation
+that a collection of locations point to a single 
+location by a linear list emanating from the pointed-to
+location passing through the pointing locations 
+and terminating with the pointed-to locations transplanted contents
+
+cacm august 1978
+
+morris f
+
+garbage collection compaction compact ification
+storage reclamation storage allocation record 
+structures relocation list processing free storage pointers data structures
+
+4.34 4.49 5.32
+
+ca780804 dh february 7 1979  1016 am
+
+1972	4	3074
+1972	4	3074
+2156	4	3074
+2156	4	3074
+2168	4	3074
+2249	4	3074
+2361	4	3074
+2438	4	3074
+2513	4	3074
+2723	4	3074
+2736	4	3074
+2736	4	3074
+2736	4	3074
+2833	4	3074
+2838	4	3074
+2855	4	3074
+2855	4	3074
+2896	4	3074
+3039	4	3074
+3074	4	3074
+3074	4	3074
+3074	4	3074
+3074	4	3074
+3106	4	3074
+3112	4	3074
+3112	4	3074
+3112	4	3074
+1826	5	3074
+1853	5	3074
+1972	5	3074
+2723	5	3074
+3074	5	3074
+3074	5	3074
+3074	5	3074
+

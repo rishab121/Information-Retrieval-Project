@@ -1,0 +1,25 @@
+
+
+
+emulation of large systems
+
+the conversion problem and a new technique
+called emulation are discussed  the technique of 
+emulation is developed and includes sections on both the
+central processing unit cpu and the input/output 
+unit i/o  this general treatment is followed by three
+sections that describe in greater detail the 
+implementation of compatibility features using the emulation
+techniques for the ibm 7074 7080 and 7090 
+systems on ibm system/360
+
+cacm december 1965
+
+tucker s g
+
+ca651205 jb march 6 1978  409 pm
+
+1164	5	1164
+1164	5	1164
+1164	5	1164
+

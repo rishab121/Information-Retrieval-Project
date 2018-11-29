@@ -1,0 +1,30 @@
+
+
+
+a fast procedure for generating exponential random variables
+
+a very fast method for generating exponential
+random variables in a digital computer is outlined
+
+cacm may 1964
+
+maclaren m d
+marsaglia g
+bray t a
+
+ca640516 jb march 9 1978  1150 pm
+
+1073	4	1073
+1073	4	1073
+1153	4	1073
+2137	4	1073
+2276	4	1073
+940	5	1073
+1073	5	1073
+1073	5	1073
+1073	5	1073
+1153	5	1073
+2276	5	1073
+1073	6	1073
+1153	6	1073
+

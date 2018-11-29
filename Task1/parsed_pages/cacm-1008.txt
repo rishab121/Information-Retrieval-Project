@@ -1,0 +1,30 @@
+
+
+
+scheduling meetings with a computer
+
+computer scheduling of papers as it was developed
+for the 1960 meeting of the federation of 
+american societies for experimental biology faseb is described
+ the faseb meeting is the largest scientific 
+meeting held in the united states each year  the technique
+developed for faseb can be applied to schedule 
+any meeting with parallel sessions
+
+cacm september 1964
+
+schultz c k
+brooks a
+schwartz p
+
+ca640903 jb march 9 1978  616 pm
+
+1008	5	1008
+1008	5	1008
+1008	5	1008
+2052	5	1008
+1008	6	1008
+1013	6	1008
+1504	6	1008
+1540	6	1008
+

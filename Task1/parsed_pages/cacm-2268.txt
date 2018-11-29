@@ -1,0 +1,37 @@
+
+
+
+a comparative study of computer programs
+for integrating differential equations
+
+a study comparing the performance of several computer
+programs for integrating systems of ordinary 
+differential equations is reported  the integration methods represented
+include multistep methods predictor-correctors 
+single-step methods runge-kutta and extrapolation methods
+both polynomial and rational  the testing 
+procedure is described together with the evaluation
+criteria applied  a set of test problems on which 
+the programs were tested is included in an appendix
+ for the particular problems and criteria used in 
+the investigation it was found that a program based on
+rational extrapolation showed the best performance
+
+cacm november 1972
+
+fox p
+
+ordinary differential equations integration
+program comparison certification validation
+
+5.10 5.17
+
+ca721101 jb january 27 1978  245 pm
+
+2268	5	2268
+2268	5	2268
+2268	5	2268
+2567	5	2268
+2268	6	2268
+755	6	2268
+

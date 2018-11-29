@@ -1,0 +1,34 @@
+
+
+
+chebyshev solution to an overdetermined
+linear system algorithm 328 f4
+
+cacm june 1969
+
+golub g h
+
+chebyshev solutions over-determined linear
+systems linear equations exchange algorithm 
+
+5.13 5.14 5.41
+
+ca690613 jb february 17 1978  949 am
+
+1880	5	1880
+1880	5	1880
+1880	5	1880
+3054	5	1880
+1175	6	1880
+1880	6	1880
+1919	6	1880
+1969	6	1880
+1980	6	1880
+1997	6	1880
+307	6	1880
+308	6	1880
+309	6	1880
+2017	6	1880
+2679	6	1880
+776	6	1880
+

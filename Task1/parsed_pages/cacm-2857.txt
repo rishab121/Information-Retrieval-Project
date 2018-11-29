@@ -1,0 +1,55 @@
+
+
+
+referencing lists by an edge
+
+an edge reference into a list structure is a pair
+of pointers to adjacent nodes  such a reference 
+often requires little additional space but its use can
+yield efficient algorithms for instance a circular 
+link between the ends of a list is redundant if the list
+is always referenced by that edge and list traversal 
+is easier when that link is null  edge references also
+allow threading of nonrecursive lists can replace 
+some header cells and enhance the famous
+exclusive-or-trick to double-link lists
+
+cacm june 1976
+
+wise d s
+
+list processing circular doubly linked overlapping
+sublist header cell pointer cursor
+
+3.73 4.10 4.22
+
+ca760605 jb january 4 1978  200 pm
+
+1024	4	2857
+1051	4	2857
+1098	4	2857
+1214	4	2857
+1380	4	2857
+1388	4	2857
+1393	4	2857
+1396	4	2857
+1485	4	2857
+1487	4	2857
+1549	4	2857
+1570	4	2857
+1878	4	2857
+1946	4	2857
+1946	4	2857
+1957	4	2857
+2167	4	2857
+2168	4	2857
+2723	4	2857
+2857	4	2857
+2857	4	2857
+3112	4	2857
+1393	5	2857
+2857	5	2857
+2857	5	2857
+2857	5	2857
+731	5	2857
+

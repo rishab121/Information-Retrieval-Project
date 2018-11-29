@@ -1,0 +1,54 @@
+
+
+
+   an on-line program for non-numerical algebra
+
+   the goal of this program is to make a step toward te design of an automated
+mathematical assistant some requirements for such a program are it must be
+easy to access and that the result must be obtained in a reasonably short
+time accordingly the program is written for a time-shared computer the q-32
+computer as system development corporation santa monica california was 
+chosen because it also had a lisp 1.5 compiler programming and debugging was
+done from a remote teletype console at stanford university
+
+cacm august 1966
+
+korsvold k
+
+ca660818 es march 17 1982 1010 am
+
+1396	5	3204
+3204	5	3204
+3204	5	3204
+3204	5	3204
+964	6	3204
+1028	6	3204
+1029	6	3204
+1083	6	3204
+1132	6	3204
+1214	6	3204
+1278	6	3204
+1334	6	3204
+1365	6	3204
+1386	6	3204
+1387	6	3204
+1388	6	3204
+1392	6	3204
+1393	6	3204
+1394	6	3204
+1395	6	3204
+1396	6	3204
+1397	6	3204
+1496	6	3204
+284	6	3204
+407	6	3204
+3199	6	3204
+3200	6	3204
+3201	6	3204
+3202	6	3204
+3203	6	3204
+3204	6	3204
+561	6	3204
+730	6	3204
+
+

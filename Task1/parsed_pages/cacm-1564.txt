@@ -1,0 +1,38 @@
+
+
+
+description of basic algorithm in detab/65 preprocessor
+
+the basic algorithm for the conversion of decision
+tables into cobol code is contained in the
+generator portion of the detab/65 preprocessor  the
+generator analyzes a decision table and produces 
+simple cobol conditional statements  core storage is
+saved by using queueing techniques and extensive 
+indexing and also by outputting the code as it is generated
+a line at a time  the only optimization 
+attempted is the elimination of obviously unnecessary
+tests on certain conditions in the decision table 
+ since the preprocessor and this language associated with
+it were developed for cobol users the preprocessor 
+was written in a modular form in required cobol-61
+
+cacm july 1967
+
+callahan m d
+chapman a e
+
+ca670709 jb february 28 1978  833 am
+
+1237	4	1564
+1549	4	1564
+1564	4	1564
+2453	4	1564
+1564	5	1564
+1564	5	1564
+1564	5	1564
+1684	5	1564
+753	5	1564
+1354	6	1564
+1564	6	1564
+

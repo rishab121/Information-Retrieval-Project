@@ -1,0 +1,51 @@
+
+
+
+using page residency to select the working set parameter
+
+dennings method for selecting the working set
+parameter which uses interreference intervals 
+is examined  several omissions in his model are noted
+and new assumptions are introduced to overcome 
+these omissions  using this modified model denings results
+on page residency are rederived and reconsidered 
+for selecting the working set parameter
+
+cacm october 1973
+
+prieve b g
+
+working set model paging program behaviorprogram modeling
+
+4.3
+
+ca731006 jb january 20 1978  1134 am
+
+1892	4	2434
+1901	4	2434
+2085	4	2434
+2095	4	2434
+2218	4	2434
+2277	4	2434
+2319	4	2434
+2329	4	2434
+2358	4	2434
+2373	4	2434
+2380	4	2434
+2434	4	2434
+2499	4	2434
+2501	4	2434
+2582	4	2434
+2669	4	2434
+2828	4	2434
+2863	4	2434
+2881	4	2434
+2928	4	2434
+2996	4	2434
+3006	4	2434
+3067	4	2434
+1751	5	2434
+2434	5	2434
+2434	5	2434
+2434	5	2434
+

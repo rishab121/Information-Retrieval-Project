@@ -1,0 +1,32 @@
+
+
+
+coding the lehmer pseudo-random number generator
+
+an algorithm and coding technique is presented
+for quick evaluation of the lehmer pseudo-random 
+number generator modulo 231  1 a prime mersenne
+number with produces 231  2 numbers on a p-bit 
+greater than 31 computer  the computation method is
+extendible to limited problems in modular arithmetic 
+ prime factorization for 261  2 and a primitive root
+for 261  1 the next largest prime mersenne 
+number are given for possible construction of a pseudo-random
+number generator of increased cycle length
+
+cacm february 1969
+
+payne w h
+rabung j r
+bogyo t p
+
+pseudo-random number random number modular arithmetic
+uniform probability density uniform frequency 
+function simulation prime factorization primitive roots
+
+ca690205 jb february 20 1978  1107 am
+
+1933	5	1933
+1933	5	1933
+1933	5	1933
+

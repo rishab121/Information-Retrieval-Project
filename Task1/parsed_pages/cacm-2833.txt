@@ -1,0 +1,88 @@
+
+
+
+an efficient incremental automatic garbage collector
+
+this paper describes a new way of solving
+the storage reclamation problem for a system such 
+as lisp that allocates storage automatically from a
+heap and does not require the programmer to give 
+any indication that particular items are no longer useful
+or accessible  a reference count scheme for 
+reclaiming non-self-referential structures and a linearizing
+compacting copying scheme to reorganize 
+all storage at the users discretion are proposed  the
+algorithms are designed to work well in systems 
+which use multiple levels of storage and large virtual
+address space  they depend on the fact that 
+most cells are referenced exactly once and that reference
+counts need only be accurate when storage 
+is about to be reclaimed  a transaction file stores changes
+to reference counts and a multiple reference 
+table stores the count for items which are referenced more than once
+
+cacm september 1976
+
+deutsch l p
+bobrow d g
+
+storage management garbage collection lisp
+
+4.19
+
+ca760906 jb january 4 1978  858 am
+
+1708	4	2833
+1781	4	2833
+1826	4	2833
+1860	4	2833
+1972	4	2833
+2156	4	2833
+2156	4	2833
+2168	4	2833
+2168	4	2833
+2249	4	2833
+2314	4	2833
+2438	4	2833
+2719	4	2833
+2723	4	2833
+2736	4	2833
+2736	4	2833
+2833	4	2833
+2833	4	2833
+2833	4	2833
+2845	4	2833
+2855	4	2833
+3074	4	2833
+3112	4	2833
+3112	4	2833
+1626	5	2833
+1826	5	2833
+2736	5	2833
+2833	5	2833
+2833	5	2833
+2833	5	2833
+2855	5	2833
+2944	5	2833
+3112	5	2833
+106	6	2833
+1380	6	2833
+1549	6	2833
+1826	6	2833
+1826	6	2833
+210	6	2833
+1972	6	2833
+1972	6	2833
+2438	6	2833
+2513	6	2833
+2723	6	2833
+2736	6	2833
+2766	6	2833
+2833	6	2833
+2833	6	2833
+2833	6	2833
+2838	6	2833
+2998	6	2833
+2998	6	2833
+731	6	2833
+

@@ -1,0 +1,15 @@
+
+
+
+solution of simultaneous non-linear equations algorithm 316c5
+
+cacm november 1967
+
+brown k m
+
+ca671107c jb march 23 1978  219 pm
+
+1512	5	1512
+1512	5	1512
+1512	5	1512
+

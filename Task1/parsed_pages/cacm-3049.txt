@@ -1,0 +1,56 @@
+
+
+
+a simply extended and modified batch
+environment graphical system sembegs
+
+sembegs is a complete batch environment graphical
+system containing components for handling 
+graphical data files for displaying the contents of
+these files on a variety of graphical hardware 
+and for performing graphical batch input operations
+ sembegs is easy to extend and modify to meet the 
+growing needs of a large batch environment and is even
+extendable to a fully interactive system  the 
+paper presents the conceptual view of graphics leading
+to the design of sembegs and outlines the major 
+components of the system  the design of sembegs is founded
+upon the basic assumption that the true aim 
+of computer graphics is to describe graphical entities
+rather than as commonly held to provide graphical 
+input and output functional capabilities  sembegs
+is built around a basic graphical data management 
+system bagdams which provides a common means of communicating
+the descriptions of graphical entities 
+ between the various components of sembegs  bagdams
+provides facilities for storing retrieving and 
+manipulating the descriptions of graphical entities
+provided by and received by application programs
+graphics packages and graphical devices 
+
+cacm november 1978
+
+wendorf j
+
+computer graphics data structures graphic display
+graphic input graphical database device 
+independent graphics
+
+4.33 4.34 8.2
+
+ca781102 dh january 26 1979  130 pm
+
+3030	4	3049
+3031	4	3049
+3049	4	3049
+3049	4	3049
+3049	4	3049
+3049	4	3049
+2956	5	3049
+2957	5	3049
+2958	5	3049
+2960	5	3049
+3049	5	3049
+3049	5	3049
+3049	5	3049
+

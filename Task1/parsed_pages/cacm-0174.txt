@@ -1,0 +1,16 @@
+
+
+
+interval estimation of the time in one state
+to total time ratio in a doubleexponential process
+
+cacm june 1960
+
+neal w r
+
+ca600616 jb march 20 1978  924 pm
+
+174	5	174
+174	5	174
+174	5	174
+

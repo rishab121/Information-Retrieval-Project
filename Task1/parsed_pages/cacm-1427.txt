@@ -1,0 +1,29 @@
+
+
+
+simulation of radioisotope scans by computer
+
+in radioisotope scanning a field which is assuming
+increasing importance in medical diagnosis 
+the scan is a two-dimensional pattern made up of dots
+ areas of increased source activity are represented 
+on the scan by areas of increased dot density  to study
+the output of scanners with various characteristics 
+a program which simulates radioisotope scans has been
+written  for a pdp-1 computer with auxiliary disk 
+storage and cathode ray tube display  past and present
+research using the output of the simulator has 
+shown the flexibility of the system to be important
+ the structure of this program can be useful in 
+the simulation of the output of any quantum-limited system
+
+cacm may 1966
+
+pizer s m
+
+ca660510 jb march 3 1978  947 am
+
+1427	5	1427
+1427	5	1427
+1427	5	1427
+

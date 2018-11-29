@@ -1,0 +1,52 @@
+
+
+
+a comparative analysis of disk scheduling policies
+
+five well-known scheduling policies for movable
+head disks are compared using the performance 
+criteria of expected seek time system orientedand expected
+waiting time individual i/o request oriented 
+ both analytical and simulation results are obtained
+ the variance of waiting time is introduced as 
+another meaningful measure of performance showing possible
+discrimination against individual requests 
+ then the choice of a utility function to measure total
+performance including system oriented and individual 
+request oriented measures is described  such a function
+allows one to differentiate among the scheduling 
+policies over a wide range of input loading conditions
+ the selection and implementation of a maximum 
+performance two-policy algorithm are discussed
+
+cacm march 1972
+
+teorey t j
+pinkerton t b
+
+access time analytical models auxiliary storage
+direct access storage disk analysis disk scheduling 
+performance criteria peripheral memory devices real-time
+systems response time rotational delay 
+scheduling policies seek time simulation storage
+units time-sharing systems waiting time
+
+3.72 4.32 6.34
+
+ca720306jb january 31 1978  238 pm
+
+2375	5	2375
+2375	5	2375
+2375	5	2375
+2628	5	2375
+2891	5	2375
+3072	5	2375
+1713	6	2375
+2219	6	2375
+2245	6	2375
+2375	6	2375
+2375	6	2375
+2375	6	2375
+2496	6	2375
+2628	6	2375
+

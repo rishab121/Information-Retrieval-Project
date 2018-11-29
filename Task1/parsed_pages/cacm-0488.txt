@@ -1,0 +1,19 @@
+
+
+
+a heuristic for page turning in a multiprogrammed computer
+
+cacm september 1962
+
+weil j w
+
+ca620904 jb march 17 1978  740 pm
+
+1754	4	488
+2358	4	488
+488	4	488
+274	5	488
+488	5	488
+488	5	488
+488	5	488
+

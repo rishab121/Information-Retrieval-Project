@@ -1,0 +1,37 @@
+
+
+
+an extension of the munkres algorithm for
+the assignment problem to rectangular matrices
+
+the assignment problem together with munkres
+proposed algorithm for its solution in square 
+matrices is presented first  then the authors develop
+an extension of this algorithm which permits 
+a solution for rectangular matrices  timing results
+obtained by using an adapted version of silvers 
+algol procedure are discussed and a relation between
+solution time and problem size is given
+
+cacm december 1971
+
+bourgeois f
+lassalle j
+
+operations research optimization theory assignment
+problem rectangular matrices algorithm
+
+5.39 5.40
+
+ca711209 jb february 2 1978  946 am
+
+2133	4	2134
+2134	4	2134
+124	5	2134
+2133	5	2134
+2134	5	2134
+2134	5	2134
+2134	5	2134
+124	6	2134
+2134	6	2134
+

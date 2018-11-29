@@ -1,0 +1,19 @@
+
+
+
+generator of spanning trees algorithms 354 h
+
+cacm september 1969
+
+mcilroy m d
+
+spanning trees trees graphs
+
+5.32
+
+ca690904 jb february 15 1978  450 pm
+
+1851	5	1851
+1851	5	1851
+1851	5	1851
+

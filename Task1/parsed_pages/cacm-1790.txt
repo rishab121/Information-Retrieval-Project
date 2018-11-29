@@ -1,0 +1,20 @@
+
+
+
+mullers method for finding roots of an
+arbitrary function  algorithm 196 c5
+
+cacm january 1968
+
+whitley v w
+
+equation roots function zeros 
+
+5.15
+
+ca680103 jb february 23 1978  247 pm
+
+1790	5	1790
+1790	5	1790
+1790	5	1790
+

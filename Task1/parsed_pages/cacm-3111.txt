@@ -1,0 +1,45 @@
+
+
+
+secure communications over insecure channels
+
+according to traditional conceptions of cryptographic
+security it is necessary to transmit 
+a key by secret means before encrypted messages can
+be sent securely  this paper shows that it is 
+possible to select a key over open communications channels
+in such a fashion that communications security 
+can be maintained  a method is described which forces
+any enemy to expend an amount of work which increases 
+as the square of the work required of the two communicants
+to select the key  the method provides a 
+logically new kind of protection against the passive
+eaves dropper  it suggests that further research 
+on this topic will be highly rewarding both
+in a theoretical and a practical sense
+
+cacm april 1978
+
+merkle r
+
+security cryptography cryptology communications
+security wiretap computer network security 
+passive eavesdropping key distribution public key cryptosystem
+
+3.56 3.81
+
+ca780405 dh february 26 1979  418 pm
+
+3038	4	3111
+3111	4	3111
+3177	4	3111
+3021	5	3111
+3111	5	3111
+3111	5	3111
+3111	5	3111
+3158	5	3111
+2436	6	3111
+3038	6	3111
+3111	6	3111
+3111	6	3111
+

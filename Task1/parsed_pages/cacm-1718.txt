@@ -1,0 +1,31 @@
+
+
+
+logical arithmetic on computers
+with twos complement binary arithmetic
+
+algorithms are presented for multiplication
+and division of unsigned integer operands in which 
+the digits normally reserved for signs participate as
+significant arithmetic digits with positive weight
+
+cacm july 1968
+
+ehrman j r
+
+binary arithmetic unsigned operand arithmetic
+maximum significance arithmetic full-precision 
+arithmetic
+
+3.15 5.11
+
+ca680711 jb february 22 1978  1134 am
+
+1718	5	1718
+1718	5	1718
+1718	5	1718
+1965	5	1718
+2200	5	1718
+1718	6	1718
+1718	6	1718
+

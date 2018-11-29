@@ -1,0 +1,67 @@
+
+
+
+implementing clenshaw-curtis quadrature i methodology and experience
+
+clenshaw-curtis quadrature is a particularly
+important automatic quadrature scheme for a variety 
+of reasons especially the high accuracy obtained from
+relatively few integrand values  however it 
+has received little use because it requires the computation
+of a cosine transformation and the arithmetic 
+cost of this has been prohibitive  this paper is in
+two parts a companion paper ii computing the 
+cosine transformation shows that this objection can
+be overcome by computing the cosine transformation 
+by a modification of the fast fourier transform algorithm
+ this first part discusses the strategy and 
+various error estimates and summarizes experience
+with a particular implementation of the scheme
+
+cacm may 1972
+
+gentleman w m
+
+clenshaw curtis numerical integration automatic
+quadrature error estimates chebyshev series
+
+5.16
+
+ca720505 jb january 31 1978  1005 am
+
+1982	4	2355
+2355	4	2355
+2355	4	2355
+2355	4	2355
+2355	4	2355
+2355	4	2355
+2355	4	2355
+2355	4	2355
+2350	4	2355
+2350	4	2355
+2354	4	2355
+2354	4	2355
+2354	4	2355
+2354	4	2355
+1418	5	2355
+1521	5	2355
+1597	5	2355
+1883	5	2355
+2040	5	2355
+2350	5	2355
+2354	5	2355
+2355	5	2355
+2355	5	2355
+2355	5	2355
+2640	5	2355
+1418	6	2355
+1418	6	2355
+1521	6	2355
+1597	6	2355
+1679	6	2355
+2350	6	2355
+2354	6	2355
+2355	6	2355
+2355	6	2355
+2355	6	2355
+

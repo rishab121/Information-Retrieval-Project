@@ -1,0 +1,26 @@
+
+
+
+decision table translation $h algorithm 394
+
+cacm september 1970
+
+dial r b
+
+decision table decision table translation
+
+4.19
+
+ca700911 jb february 10 1978  1005 am
+
+1354	4	1994
+1488	4	1994
+1994	4	1994
+2053	4	1994
+2220	4	1994
+2273	4	1994
+1237	5	1994
+1994	5	1994
+1994	5	1994
+1994	5	1994
+

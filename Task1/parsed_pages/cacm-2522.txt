@@ -1,0 +1,43 @@
+
+
+
+the design implementation and evaluation of a working set dispatcher
+
+the behavior of a computer system is largely
+dependent upon the algorithms employed to allocate 
+the system resources to the processes competing for them
+ recent research in time-sharing paging systems 
+has developed the working set model for program behavior
+and are source allocation strategy based on 
+this model has been proposed  two implementations
+along these principles have been reported but it 
+seems that in neither case have further results been
+announced  this report discusses the design and 
+implementation of a dispatcher based on the working set
+principle presents data to permit analysis of 
+its behavior and indicates future directions of research
+on methods of controlling a computer system
+
+cacm april 1973
+
+rodriguez-rosell j
+dupuy j p
+
+working set dispatcher scheduler time-sharing
+systems resource allocation software evaluation 
+operating systems supervisory systems
+
+4.31 4.32
+
+ca730406 jb january 24 1978  936 am
+
+2522	5	2522
+2522	5	2522
+2522	5	2522
+2928	5	2522
+1751	6	2522
+2277	6	2522
+2380	6	2522
+2522	6	2522
+2569	6	2522
+

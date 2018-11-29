@@ -1,0 +1,46 @@
+
+
+
+computer-assigned codes from verbal responses
+
+it is often desirable to convert verbal responses
+to multidigit codes this conversion is generally 
+accomplished by clerk-coders  a study was conducted to test
+the feasibility of translating verbal descriptions 
+to numerical codes in a computer program  primary emphasis
+was placed on computerized construction of 
+a reference file of verbal descriptions for use by the
+program  the results of the study clearly show 
+that such procedures are feasible
+
+cacm june 1972
+
+oreagan r t
+
+verbal responses computer coding reference list
+historical response patterns word strings 
+concept translation word coding
+
+3.30 3.42 3.63 3.66 3.71 3.74 3.75 5.6
+
+ca720606 jb january 30 1978  423 pm
+
+1112	4	2339
+1592	4	2339
+1592	4	2339
+2111	4	2339
+2111	4	2339
+2111	4	2339
+2339	4	2339
+2339	4	2339
+2339	4	2339
+2339	4	2339
+440	4	2339
+1112	5	2339
+1592	5	2339
+2339	5	2339
+2339	5	2339
+2339	5	2339
+440	5	2339
+619	5	2339
+

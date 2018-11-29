@@ -1,0 +1,27 @@
+
+
+
+ordering +-f+-f+-f+-fx when fx is positive monotonic
+
+cacm january 1972
+
+salzer h e
+
+ordering storage retrieval positive functions
+monotonic functions increasing functions decreasing 
+function binary system chebyshev zeros square rots continued fractions
+
+5.40
+
+ca720109 jb february 1 1978  905 am
+
+2394	4	2394
+2394	4	2394
+1872	5	2394
+1903	5	2394
+2394	5	2394
+2394	5	2394
+2394	5	2394
+2533	5	2394
+2394	6	2394
+

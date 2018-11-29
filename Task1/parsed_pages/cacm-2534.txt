@@ -1,0 +1,112 @@
+
+
+
+design and implementation of a diagnostic compiler for pl/i
+
+pl/c is a compiler for a dialect for pl/i  the
+design objective was to provide a maximum degree 
+of diagnostic assistance in a batch processing environment
+ for the most part this assistance is implicit 
+and is provided automatically by the compiler the most remarkable
+characteristic of pl/c is its perseverance-it 
+completes translation of every program submitted and
+continues execution until a user-established error 
+limit is reached this requires that the compiler repair
+errors encountered during both translation 
+and execution and the design of pl/c is dominated by
+this consideration  pl/c also introduces several 
+explicit user-controlled facilities for program testing
+ to accommodate these extensions to pl/i without 
+abandoning compatibility with ibm compiler pl/c permits
+pseudo comments-constructions whose contents 
+can optionally be considered either source test or comment
+ in spite of the diagnostic effort pl/c is 
+a fast and efficient processor  it effectively demonstrates
+that compilers can provide better diagnostic 
+assistance than is customarily offered even when a sophisticated
+source language is employed and that 
+this assistance need not be prohibitively costly
+
+cacm march 1973
+
+conway r w
+wilcox t r
+
+compilers debugging pl/i programming languages
+
+1.5 4.12 4.42
+
+ca730305 jb january 24 1978  1045 am
+
+1179	4	2534
+1288	4	2534
+1323	4	2534
+1358	4	2534
+1380	4	2534
+1544	4	2534
+1646	4	2534
+1665	4	2534
+1781	4	2534
+1781	4	2534
+1787	4	2534
+1989	4	2534
+2111	4	2534
+2112	4	2534
+2182	4	2534
+2251	4	2534
+2497	4	2534
+2534	4	2534
+2534	4	2534
+2534	4	2534
+2534	4	2534
+2534	4	2534
+2534	4	2534
+2534	4	2534
+2541	4	2534
+2543	4	2534
+2556	4	2534
+2556	4	2534
+2559	4	2534
+2650	4	2534
+2650	4	2534
+2698	4	2534
+2708	4	2534
+2708	4	2534
+2733	4	2534
+2770	4	2534
+2820	4	2534
+2887	4	2534
+3053	4	2534
+3073	4	2534
+3083	4	2534
+3155	4	2534
+1787	5	2534
+1959	5	2534
+1973	5	2534
+2111	5	2534
+2182	5	2534
+2534	5	2534
+2534	5	2534
+2534	5	2534
+2708	5	2534
+2820	5	2534
+2971	5	2534
+3045	5	2534
+799	5	2534
+830	5	2534
+1477	6	2534
+1477	6	2534
+1491	6	2534
+1491	6	2534
+1787	6	2534
+1835	6	2534
+1974	6	2534
+2111	6	2534
+2534	6	2534
+2534	6	2534
+2534	6	2534
+2534	6	2534
+2556	6	2534
+680	6	2534
+799	6	2534
+

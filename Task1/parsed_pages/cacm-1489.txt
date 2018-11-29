@@ -1,0 +1,48 @@
+
+
+
+data documentation and decision tables
+
+in business data processing systems it is
+necessary to be able to define and document data 
+files programs and decision rules in a way that adequately
+represents both 1 their changing information 
+content and 2 their continuous interaction  tabular
+description makes this possible being notably 
+objective through and economical in cost and time when
+systems must be analyzed and programs prepared 
+or modified  to show how quickly tabular techniques
+make an unfamiliar system manageable a detailed 
+example and a self-test are provided
+
+cacm january 1966
+
+fisher d l
+
+ca660106 jb march 3 1978  413 pm
+
+1489	5	1489
+1489	5	1489
+1489	5	1489
+1548	5	1489
+2220	5	1489
+2726	5	1489
+1172	6	1489
+1172	6	1489
+1237	6	1489
+1327	6	1489
+1327	6	1489
+1354	6	1489
+1354	6	1489
+1488	6	1489
+1488	6	1489
+1489	6	1489
+1489	6	1489
+1489	6	1489
+1548	6	1489
+1548	6	1489
+250	6	1489
+2220	6	1489
+2221	6	1489
+2263	6	1489
+

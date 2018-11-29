@@ -1,0 +1,33 @@
+
+
+
+an implemented graph algorithm for winning shannon switching games
+
+in this tutorial paper a computer program
+which wins shannon switching games is described
+ since these games are played on graphs the program
+is a good example of the implementation of graph 
+algorithms  the two players in a shannon switching game
+connect and cut have nonsimilar goals  either 
+connect cut or the player moving first is guaranteed
+the existence of a winning strategy  the simple 
+strategy explained in this paper is valid in all three
+cases  in fact the major routines never need 
+to know whether the computer is connect or cut
+
+cacm april 1972
+
+chase s m
+
+graph algorithms graph processing shannon switching
+games game playing graph theory positional 
+games demonstration programs game theory spinning trees
+
+3.69 5.32
+
+ca720405 jb january 31 1978  134 pm
+
+2368	5	2368
+2368	5	2368
+2368	5	2368
+

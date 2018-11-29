@@ -1,0 +1,33 @@
+
+
+
+the optimal approach to recursive programs
+
+the classical fixed poin t approach toward recursive
+programs suggests choosing the least defined 
+fixed poin t as the most appropriate solution to a recursive
+program  a new approach is described which 
+in troduction an  optimal fixed point which in contrast
+to the least defined fixed poin t embodies the 
+maximal amount of valuable information embedded in the
+program  the practical implications of this approach 
+are discussed and techniques for proving properties
+of optimal fixed poin t are given  the presentation 
+is informal with emphasis on examples
+
+cacm november 1977
+
+manna z
+shamir a
+
+recursive programs fixed poin ts least fixedpoints
+optimal fixed poin ts proof techniques
+
+5.24
+
+ca771109 jb december 27 1977  713 am
+
+2907	5	2907
+2907	5	2907
+2907	5	2907
+

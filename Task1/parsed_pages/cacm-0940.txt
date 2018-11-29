@@ -1,0 +1,28 @@
+
+
+
+generating discrete random variables in a computer
+
+this note is concerned with details of how to
+instruct a computer to choose one from many things 
+with assigned probabilities  the method uses a uniform
+variable to direct the computer to a memory location 
+if this is done by a sequence of appropriately chosen
+conditional probabilities efficient use of memory 
+space and quite fast programs will result
+
+cacm january 1963
+
+marsaglia g
+
+ca630108 jb march 14 1978  240 pm
+
+940	5	940
+940	5	940
+940	5	940
+1073	5	940
+1153	5	940
+940	6	940
+940	6	940
+1153	6	940
+

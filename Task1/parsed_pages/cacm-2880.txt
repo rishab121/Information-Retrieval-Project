@@ -1,0 +1,29 @@
+
+
+
+a fast division technique for constant divisors
+
+a fast algorithm for division by constant divisors
+is presented  the method has proved very 
+useful implemented as microcode ona binary machine
+and can be adapted directly into hardware  the 
+mathematical foundations of the algorithm are presented
+as well as some performance measures
+
+cacm february 1976
+
+artzy e
+hinds j a
+saal h j
+
+constant divisors division algorithms
+bit addressable memory microprogram
+
+4.13 4.49 6.32
+
+ca760207 jb january 5 1978  848 am
+
+2880	5	2880
+2880	5	2880
+2880	5	2880
+

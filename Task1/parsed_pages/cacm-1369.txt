@@ -1,0 +1,25 @@
+
+
+
+half rotations in n-dimensional euclidean space
+
+an iterative procedure is described for determining
+half rotations in n-dimensional euclidean 
+space the method is a variant of the cyclic jacobi
+procedure and utilizers elementary plane rotations 
+to obtain the half rotation matrix  numerical examples are given
+
+cacm september 1966
+
+mccamon r b
+
+ca660910 jb march 2 1978  432 pm
+
+1369	5	1369
+1369	5	1369
+1369	5	1369
+1961	5	1369
+1369	6	1369
+1504	6	1369
+1847	6	1369
+

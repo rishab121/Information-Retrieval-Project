@@ -1,0 +1,68 @@
+
+
+
+an improved index sequential access method using hashed overflow
+
+the index sequential access method isam is
+one of the most important file management systems 
+used with moveable head disk devices  this study investigates
+the use of an unconventional method of 
+treating overflow records  the method is to use hashing
+techniques to allocate space for such records 
+ if certain conditions are satisfied this is superior
+to the conventional isam method of chaining the 
+overflow records via linked list techniques  these conditions are
+long overflow chains with significant 
+overflow lack of tight disk space constraints record
+keys which are small compared to the total record 
+size and significant use of the file in the index as opposed
+to the sequential mode  using hashed overflow 
+the time to locate a record is dependent not on the total
+volume of overflow records as in conventional 
+isam but on the percentage use of space dedicated to overflow records
+
+cacm may 1972
+
+mullin j k
+
+isam index sequential hashing scatter
+storage disk cylinder overflow
+
+3.72 3.73 3.74
+
+ca720501 jb january 31 1978  1229 pm
+
+1676	4	2359
+1682	4	2359
+1728	4	2359
+1860	4	2359
+1973	4	2359
+2018	4	2359
+2032	4	2359
+2033	4	2359
+2107	4	2359
+2109	4	2359
+2203	4	2359
+2251	4	2359
+2258	4	2359
+2319	4	2359
+2313	4	2359
+2359	4	2359
+2359	4	2359
+2437	4	2359
+2524	4	2359
+2543	4	2359
+2552	4	2359
+2552	4	2359
+2559	4	2359
+2781	4	2359
+2860	4	2359
+2991	4	2359
+2991	4	2359
+3053	4	2359
+1785	5	2359
+2203	5	2359
+2359	5	2359
+2359	5	2359
+2359	5	2359
+

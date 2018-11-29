@@ -1,0 +1,33 @@
+
+
+
+algorithms to reveal properties of floating-point arithmetic
+
+two algorithms are presented in the form of
+fortran subroutines  each subroutine computes 
+the radix and number of digits of the floating-point
+numbers and whether rounding or chopping is done 
+by the machine on which it is run  the methods are
+shown to work on any reasonable floating-point 
+computer
+
+cacm november 1972
+
+malcolm m a
+
+floating-point arithmetic high-level
+languages philosophy of language design
+
+4.9 5.19
+
+ca721102 jb january 27 1978  239 pm
+
+2267	5	2267
+2267	5	2267
+2267	5	2267
+2647	5	2267
+2792	5	2267
+2267	6	2267
+2267	6	2267
+2647	6	2267
+

@@ -1,0 +1,21 @@
+
+
+
+computation of g-splines via a factorization
+method e2 algorithm a485
+
+cacm september 1974
+
+eidson h d
+schumaker l l
+
+approximation spline approximation
+
+5.13
+
+ca740908 jb january 17 1978  844 am
+
+2600	5	2600
+2600	5	2600
+2600	5	2600
+

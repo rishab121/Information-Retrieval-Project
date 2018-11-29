@@ -1,0 +1,17 @@
+
+
+
+over-all computation control and labelling
+
+cacm november 1960
+
+holt a
+
+ca601114 jb march 20 1978  658 pm
+
+121	4	121
+121	5	121
+121	5	121
+121	5	121
+221	5	121
+

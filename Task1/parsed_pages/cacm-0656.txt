@@ -1,0 +1,20 @@
+
+
+
+an information system with the ability to extract intelligence from data
+
+cacm january 1962
+
+wang t l
+
+ca620103 jb march 20 1978  447 pm
+
+1309	5	656
+656	5	656
+656	5	656
+656	5	656
+892	5	656
+653	6	656
+656	6	656
+656	6	656
+

@@ -1,0 +1,42 @@
+
+
+
+a comparison of hardware and software associative
+memories in the context of computer graphics
+
+the associative processing of line drawings apld
+system utilizes a hardware associative memory 
+and creates modifies deletes stores and retrieves
+two-dimensional line drawings consisting of poin ts
+lines rectangles and triangles the apld functions
+were duplicated on the tx-2 computer at ms 
+lincoln laboratory under the leap language and data
+structure  a comparison of the hardware approach 
+with the software simulation illustrates the advantages
+of the hardware associative memory in three areas 
+1 processing speed 2 storage requirements and 3
+flexibility  the major problem areas of hardware 
+associative memory technology namely input/output
+and cost effectiveness are also addressed
+
+cacm may 1977
+
+stillman n j
+berra p b
+
+associative memory associative processor content-addressable
+memory graphics information retrieval 
+data structures software evaluation hardware evaluation
+parallel processing database management
+
+3.71 3.72 3.73 3.74 4.34 4.6 6.22 8.2
+
+ca770505 jb december 29 1977  207 am
+
+2719	4	2967
+2967	4	2967
+2151	5	2967
+2967	5	2967
+2967	5	2967
+2967	5	2967
+

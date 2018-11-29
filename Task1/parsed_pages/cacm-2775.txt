@@ -1,0 +1,20 @@
+
+
+
+the dilogarithm function of a real argument s22 algorithm 490
+
+cacm april 1975
+
+ginsberg e s
+zaborowski d
+
+dilogarithm
+
+5.12
+
+ca750402 jb january 9 1978  409 pm
+
+2775	5	2775
+2775	5	2775
+2775	5	2775
+

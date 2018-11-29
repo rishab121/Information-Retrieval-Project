@@ -1,0 +1,15 @@
+
+
+
+permutations with repetitions algorithm 306 g6
+
+cacm july 1967
+
+bratley p
+
+ca670711b jb march 23 1978  314 pm
+
+1556	5	1556
+1556	5	1556
+1556	5	1556
+

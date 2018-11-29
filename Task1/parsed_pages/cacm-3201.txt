@@ -1,0 +1,55 @@
+
+
+
+   symbolic manipulation of poisson series
+
+   poisson series of three variables are manageable symbolically through as a 
+set of formal subroutines written partially in the ibm 7094 machine language
+but to be called in the fortran language for use in fortran  programs an 
+effort has been made to supply those operations which are most required by
+celestial mechanics the routines are entirely self-contained subroutines
+and require only standard fortran input/output units 5 and 6 they are design
+to avoid waste and overflow of core storage space
+
+cacm august 1966
+
+danby j
+deprit a
+rom a
+
+ca660815 es march 17 1982 1010 am
+
+1396	5	3201
+3201	5	3201
+3201	5	3201
+3201	5	3201
+964	6	3201
+1028	6	3201
+1029	6	3201
+1083	6	3201
+1132	6	3201
+1214	6	3201
+1278	6	3201
+1334	6	3201
+1365	6	3201
+1386	6	3201
+1387	6	3201
+1388	6	3201
+1392	6	3201
+1393	6	3201
+1394	6	3201
+1395	6	3201
+1396	6	3201
+1397	6	3201
+1496	6	3201
+284	6	3201
+407	6	3201
+3199	6	3201
+3200	6	3201
+3201	6	3201
+3202	6	3201
+3203	6	3201
+3204	6	3201
+561	6	3201
+730	6	3201
+

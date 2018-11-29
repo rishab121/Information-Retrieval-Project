@@ -1,0 +1,38 @@
+
+
+
+experiments with an automated instructional system for numerical methods
+
+a computer system was developed at purdue
+university to teach portions of an undergraduate 
+course in numerical methods  each instructional unit
+or lesson is divided into three modes of instruction 
+which allow the student to press from a computer-controlled
+presentation to a student-controlled investigation 
+the system is designed as a classroom-independent course
+of study and has been used for two semesters 
+by students in lieu of conventional classroom instruction
+ initial measures of effectiveness student 
+acceptance and operational cost are the result of testing
+the system independent of instructor intervention 
+ the system is operational on a cdc 6500 with teletype terminals 
+
+cacm october 1971
+
+oldehoeft a e
+conte s d
+
+computer-assisted instruction numerical
+methods cai instructional systems
+
+1.52 3.62 5.10
+
+ca711003 jb february 2 1978  122 pm
+
+2153	4	2153
+3003	4	2153
+2097	5	2153
+2153	5	2153
+2153	5	2153
+2153	5	2153
+

@@ -1,0 +1,28 @@
+
+
+
+a problem-list of issues concerning computers and public policy
+
+cacm september 1974
+
+acm committee
+
+economic and sociological effects the public and computers
+
+2.11 2.12
+
+ca740901 jb january 17 1978  908 am
+
+2607	5	2607
+2607	5	2607
+2607	5	2607
+2756	5	2607
+3076	5	2607
+3179	5	2607
+2572	6	2607
+2607	6	2607
+2607	6	2607
+2607	6	2607
+2840	6	2607
+3076	6	2607
+

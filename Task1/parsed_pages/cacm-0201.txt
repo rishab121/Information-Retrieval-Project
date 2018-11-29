@@ -1,0 +1,15 @@
+
+
+
+bessel funtion i series expansion algorithm 5
+
+cacm april 1960
+
+clarke d s
+
+ca600410 jb march 22 1978  140 pm
+
+201	5	201
+201	5	201
+201	5	201
+

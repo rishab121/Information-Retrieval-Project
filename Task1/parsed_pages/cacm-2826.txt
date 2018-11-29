@@ -1,0 +1,37 @@
+
+
+
+interactive skeleton techniques for enhancing
+motion dynamics in key frame animation
+
+a significant increase in the capability for
+controlling motion dynamics in key frame animation 
+is achieved through skeleton control  this technique
+allows an animator to develop a complex motion 
+sequence by animating a stick figure representation
+of an image  this control sequence is then used 
+to drive an image sequence through the same movement
+ the simplicity of the stick figure image encourages 
+a high level of interaction during the design stage 
+its compatibility with the basic key frame animation 
+technique permits skeleton control to be applied selectively
+to only those components of a composite 
+image sequence that require enhancement
+
+cacm october 1976
+
+burtnyk n
+wein m
+
+interactive graphics computer generated animation
+key frame animation interactive skeleton control 
+stick figure animation
+
+3.41 3.49 4.9 8.2
+
+ca761005 jb january 3 1978  424 pm
+
+2826	5	2826
+2826	5	2826
+2826	5	2826
+

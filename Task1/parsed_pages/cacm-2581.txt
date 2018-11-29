@@ -1,0 +1,37 @@
+
+
+
+a locally-organized parser for spoken input
+
+this paper describes lpars a locally-organized
+parsing system designed for use in a continuous 
+speech recognizer  lpars processes a string of phonemes
+which contains ambiguity and error the system 
+is locally-organized in the sense that it builds local
+parse structures from reliable word candidates 
+recognized anywhere in an input utterance  these local
+structures are used as islands of reliability 
+to guide the search for more highly garbled
+words which might complete the utterance  
+
+cacm november 1974
+
+miller p l
+
+parsing speech recognition speech understanding
+augmented transition network local parsing
+
+3.42 3.65 3.69
+
+ca741103 jb january 16 1978  1041 am
+
+2581	4	2581
+2739	4	2581
+2795	4	2581
+2921	4	2581
+3087	4	2581
+1989	5	2581
+2581	5	2581
+2581	5	2581
+2581	5	2581
+

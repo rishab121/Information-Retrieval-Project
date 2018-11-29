@@ -1,0 +1,22 @@
+
+
+
+syntactic and semantic augments to algol
+
+cacm april 1960
+
+smith j w
+
+ca600404 jb march 22 1978  154 pm
+
+206	4	207
+207	4	207
+207	5	207
+207	5	207
+207	5	207
+64	5	207
+644	5	207
+196	6	207
+206	6	207
+207	6	207
+

@@ -1,0 +1,43 @@
+
+
+
+storage reorganization techniques for
+matrix computation in a paging environment
+
+in order to multiply matrices while minimizing
+the number of page fetches required it is often more efficient to
+reorganize the data into submatrix form and to use block multiplication 
+rather than to use the best known algorithms which leave the
+matrices stored in row-or column-oriented form  an efficient
+method for accomplishing this reorganization is given  this also
+makes possible the derivation of an asymptotically better bound
+for multiplication of matrices given in row-oriented form by adapting
+the technique of strassen to the reorganized data  the reorganization/block 
+multiplication scheme is shown to be advantageous for
+matrices and pages of realistic size the strassen adaptation is
+not  the former scheme is also shown to be advantageous even if
+the transpose of one of the matrices is available at no additional cost
+
+cacm july 1979
+
+fischer p
+probert r
+
+matrix multiplication paging virtual memory
+data reorganization pagination transpose
+
+4.34 5.14 5.25
+
+ca790703 dh august 22 1979  229 pm
+
+2365	4	3152
+2362	4	3152
+2582	4	3152
+3152	4	3152
+3152	4	3152
+1924	5	3152
+2365	5	3152
+3152	5	3152
+3152	5	3152
+3152	5	3152
+

@@ -1,0 +1,19 @@
+
+
+
+a penny-matching program
+
+the logic of a penny-matching program
+written for the csx-1 is described
+
+cacm june 1963
+
+wall e
+brown r m
+
+ca630602 jb march 14 1978  1027 am
+
+847	5	847
+847	5	847
+847	5	847
+

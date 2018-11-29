@@ -1,0 +1,28 @@
+
+
+
+a comment on optimal tree structures
+
+cacm october 1969
+
+stanfel l e
+
+information retrieval file searching tree structures double chaining
+
+3.70 3.73 3.74
+
+ca691015 jb february 15 1978  131 pm
+
+1831	5	1831
+1831	5	1831
+1831	5	1831
+2257	5	1831
+2360	5	1831
+849	6	1831
+849	6	1831
+1831	6	1831
+1831	6	1831
+1936	6	1831
+1936	6	1831
+2360	6	1831
+

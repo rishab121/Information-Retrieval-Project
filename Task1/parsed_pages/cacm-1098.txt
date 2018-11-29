@@ -1,0 +1,99 @@
+
+
+
+a comparison of list-processing computer languages
+including a detailed comparison of comit 
+ipl-v lisp 1.5 and slip
+
+a detailed comparison is presented of comit
+ipl-v lisp 1.5 and slip  four well-known computer 
+programming languages which among them exhibit all the
+principal characteristics of existing list-processing 
+languages  important common features of list-processing
+languages are reviewed forms of data structures 
+which are manipulated necessity for dynamic allocation
+of storage use of pushdown stores and use of 
+recursive operations  principal differences between the
+four languages under consideration are detailed 
+representations of data both by the programmer and within
+the machine methods for storage allocation 
+programming formalisms and special processes available
+including arithmetic facilities and usability 
+in terms of availability documentation learning aids
+and debugging facilities  a rough comparison 
+shows that all the languages discussed have approximately
+the same speed  finally the authors give 
+some heuristics to aid in the selection of one of these
+languages for use in particular problem applications 
+concluding that no one of the languages considered is
+distinctly superior in all possible list-processing 
+applications
+
+cacm april 1964
+
+bobrow d g
+raphael b
+
+ca640410 jb march 10 1978  137 am
+
+1024	4	1098
+1051	4	1098
+1098	4	1098
+1214	4	1098
+1380	4	1098
+1388	4	1098
+1393	4	1098
+1485	4	1098
+1487	4	1098
+1549	4	1098
+1570	4	1098
+1878	4	1098
+1946	4	1098
+1957	4	1098
+2168	4	1098
+2723	4	1098
+2857	4	1098
+3112	4	1098
+1098	5	1098
+1098	5	1098
+1098	5	1098
+1570	5	1098
+1945	5	1098
+2314	5	1098
+731	5	1098
+823	6	1098
+914	6	1098
+915	6	1098
+917	6	1098
+984	6	1098
+989	6	1098
+990	6	1098
+1012	6	1098
+1084	6	1098
+1098	6	1098
+1098	6	1098
+1098	6	1098
+1122	6	1098
+1138	6	1098
+1139	6	1098
+1141	6	1098
+1200	6	1098
+1223	6	1098
+1265	6	1098
+1336	6	1098
+1396	6	1098
+1455	6	1098
+1477	6	1098
+1487	6	1098
+1491	6	1098
+1496	6	1098
+1626	6	1098
+2082	6	1098
+2148	6	1098
+483	6	1098
+584	6	1098
+669	6	1098
+680	6	1098
+731	6	1098
+763	6	1098
+

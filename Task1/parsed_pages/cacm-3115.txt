@@ -1,0 +1,64 @@
+
+
+
+orderly enumeration of nonsingular binary
+matrices applied to text encryption
+
+nonsingular binary matrices of order n ie
+nonsingular over the field 0 1 and an initial 
+segment of the natural numbers are placed in one-to-one
+correspondence  each natural number corresponds 
+to two intermediate vectors  these vectors are mapped into
+a nonsingular binary matrix  examples of 
+complete enumeration of all 2 x 2 and 3 x 3 nonsingular
+binary matrices were produced by mapping the 
+intermediate vectors to the matrices  the mapping
+has application to the vernam encipherment method 
+using pseudorandom number sequences  a bit string formed
+form bytes of text of a data encryption key 
+can be used as a representation of a natural number 
+this natural number is transformed to a nonsingular 
+binary matrix  key leverage is obtained by using the
+matrix as aseed in a shift register sequence 
+pseudorandom number generator  
+
+cacm april 1978
+
+payne w
+mcmillen k
+
+binary matrices combinatorics combinations nonsingular
+matrices encryption vernam pseudorandom 
+numbers feedback shiftregister sequences random numbers
+
+3.7 5.3
+
+ca780401 dh february 27 1979  1105 am
+
+2269	4	3115
+2466	4	3115
+2690	4	3115
+2834	4	3115
+2834	4	3115
+2834	4	3115
+2853	4	3115
+2884	4	3115
+2908	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+907	5	3115
+2045	5	3115
+2417	5	3115
+2466	5	3115
+2884	5	3115
+579	5	3115
+3115	5	3115
+3115	5	3115
+3115	5	3115
+785	5	3115
+

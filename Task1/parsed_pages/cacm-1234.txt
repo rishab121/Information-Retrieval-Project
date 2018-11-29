@@ -1,0 +1,115 @@
+
+
+
+the structure of yet another algol compiler
+
+a high-speed top down method of syntax analysis
+which completely eliminates back-up of 
+the source string has been implemented in a convenient
+macro-language  a technique of  simulation at 
+compile time of the use of a conventional run-time stack
+enables the generation of code for expressions 
+which minimizes stores fetches and stack-pointer motion
+at run time while properly trating recursion 
+and side effects of procedures  block structure and
+recursion are handled without need for interpretive 
+methods at run times  the context problem in the transmission
+to recursive procedures of parameters 
+called by name is solved in a manner which permits the
+handling of the common cases of simple expressions 
+and array identifiers with particular efficiency
+
+cacm july 1965
+
+kanner h
+kosinski p
+robinson c l
+
+ca650701 jb march 6 1978  929 pm
+
+254	4	1234
+1037	4	1234
+1046	4	1234
+1086	4	1234
+1105	4	1234
+1132	4	1234
+1139	4	1234
+1140	4	1234
+1234	4	1234
+1234	4	1234
+1234	4	1234
+1234	4	1234
+1234	4	1234
+1234	4	1234
+1234	4	1234
+1234	4	1234
+1263	4	1234
+1263	4	1234
+1265	4	1234
+1265	4	1234
+1270	4	1234
+1323	4	1234
+1358	4	1234
+1358	4	1234
+1379	4	1234
+1380	4	1234
+1453	4	1234
+1464	4	1234
+1484	4	1234
+1491	4	1234
+1491	4	1234
+1496	4	1234
+1498	4	1234
+1613	4	1234
+1614	4	1234
+1781	4	1234
+1781	4	1234
+1824	4	1234
+1825	4	1234
+1860	4	1234
+321	4	1234
+321	4	1234
+2083	4	1234
+2126	4	1234
+2178	4	1234
+2179	4	1234
+2252	4	1234
+2325	4	1234
+2341	4	1234
+2451	4	1234
+2546	4	1234
+2546	4	1234
+464	4	1234
+2645	4	1234
+2652	4	1234
+2684	4	1234
+2842	4	1234
+2929	4	1234
+2934	4	1234
+584	4	1234
+3069	4	1234
+631	4	1234
+653	4	1234
+669	4	1234
+679	4	1234
+680	4	1234
+691	4	1234
+761	4	1234
+763	4	1234
+795	4	1234
+799	4	1234
+945	4	1234
+949	4	1234
+989	4	1234
+944	5	1234
+1234	5	1234
+1234	5	1234
+1234	5	1234
+321	5	1234
+385	5	1234
+400	5	1234
+402	5	1234
+404	5	1234
+3184	5	1234
+729	5	1234
+

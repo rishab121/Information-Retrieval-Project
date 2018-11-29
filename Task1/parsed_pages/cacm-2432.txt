@@ -1,0 +1,22 @@
+
+
+
+addendum to a multiple-precision division algorithm
+
+cacm october 1973
+
+mifsud c j
+bohlen m j
+
+multiple-precision division overflow
+
+3.15 4.0 5.1
+
+ca731008 jb january 20 1978  1115 am
+
+2432	4	2432
+1975	5	2432
+2432	5	2432
+2432	5	2432
+2432	5	2432
+

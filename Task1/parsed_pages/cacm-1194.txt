@@ -1,0 +1,47 @@
+
+
+
+establishment of the acm repository and principles
+of the ir system applied to its operation
+
+the history of the establishment of the acm repository
+at the moore school university of pennsylvania 
+is reviewed briefly  two principles are presented as
+paramount in the provision of information services 
+1 easy accessibility to the information files by users
+unfamiliar with file organization and 2 value 
+of service exceeding user costs  these principles serve
+as guides in mechanizing the acm repository 
+ the main features of the information system are direct
+user access via on-line teletypewriter console 
+direct user access to all details of the system organization
+unrestricted and expandable search vocabulary 
+user access through many facets of document indexing
+and stochastic search through linked index terms 
+and other file relationships  the first contribution
+to the acm repository consisted of 315 documents 
+relating primarily to early research on compilers  these
+documents have been cataloged and indexed and 
+the catalog is scheduled to appear in computing reviews
+ the indexing system is described in detail 
+ the main catalog is used to describe the documents
+and inverted lists are provided by the repository 
+system for retrieval by concept coordination
+
+cacm october 1965
+
+rubinoff m
+white jr j f
+
+ca651001 jb march 6 1978  703 pm
+
+1194	5	1194
+1194	5	1194
+1194	5	1194
+1681	5	1194
+1699	5	1194
+1194	6	1194
+1194	6	1194
+1324	6	1194
+1681	6	1194
+

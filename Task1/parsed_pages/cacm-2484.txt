@@ -1,0 +1,40 @@
+
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph 
+ a general method for constructing such a tree or a graph
+is provided  there are three important elements 
+in this general construction method namely a set of
+binary relations an algorithm for constructing 
+subsets of a set and an algorithm for selecting an
+element from the given set of objects  the use of 
+different relations and algorithms results in different
+information structures as list tree ring 
+etc  thus the problem of information organization and
+storage is reduced to that of defining relations 
+and formulating algorithms under a given set of constraints
+ the results presented may be valuable to 
+designers as useful design concepts and may serve as
+a basis for developing a formal theory on the subject
+
+cacm july 1973
+
+huang j c
+
+data base data-base management information retrieval
+information structure file organization 
+storage allocation tree graph
+
+3.70 3.73 3.74 5.32
+
+ca730702 jb january 23 1978  114 pm
+
+2484	5	2484
+2484	5	2484
+2484	5	2484
+

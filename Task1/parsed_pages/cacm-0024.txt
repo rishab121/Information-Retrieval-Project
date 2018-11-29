@@ -1,0 +1,15 @@
+
+
+
+an improved decimal redundancy check
+
+cacm may 1958
+
+sisson r l
+
+ca580504 jb march 22 1978  913 pm
+
+24	5	24
+24	5	24
+24	5	24
+

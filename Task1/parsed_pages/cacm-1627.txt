@@ -1,0 +1,27 @@
+
+
+
+application of level changing to a multilevel storage organization
+
+a technique for organizing the devices of a computer
+storage system is described  this technique 
+called the multilevel store provides a means for economically
+satisfying the requirements for very large 
+storage capacities of certain data management and information
+retrieval systems  the concept of level 
+changing is introduced and its application to the multilevel
+store is discussed  a possible means for 
+physically organizing the information for efficient
+use of the multilevel store is presented
+
+cacm march 1967
+
+morenoff e
+mclean j b
+
+ca670302 jb february 28 1978  143 pm
+
+1627	5	1627
+1627	5	1627
+1627	5	1627
+

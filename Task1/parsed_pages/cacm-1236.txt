@@ -1,0 +1,35 @@
+
+
+
+the smart automatic document retrieval system-an illustration
+
+a fully automatic document retrieval system
+operating on the ibm 7094 is described  the system 
+is characterized by the fact that several hundred different
+methods are available to analyze documents 
+and search requests  this feature is used in the retrieval
+process by leaving the exact sequence of 
+operations initially unspecified and adapting the
+search strategy to the needs of individual users 
+ the system is used not only to simulate an actual operating
+environment but also to test the effectiveness 
+of the various available processing methods  results obtained
+so far seem to indicate that some combination 
+of analysis procedures can in general be relied upon to
+retrieve the wanted information  a typical search 
+request is used as an example in the present report to illustrate
+systems operations and evaluation procedures
+
+cacm june 1965
+
+salton g
+lesk m e
+
+ca650619 jb march 6 1978  941 pm
+
+1236	5	1236
+1236	5	1236
+1236	5	1236
+1457	5	1236
+1236	6	1236
+

@@ -1,0 +1,59 @@
+
+
+
+clarification of fortran standards-initial progress
+
+in 1966 after four years of effort fortran
+became the first programming language standardized 
+in the united states  since that initial achievement
+study and application of the standard specifications 
+have revealed the need for maintenance of the standards
+ as the result of work initiated in 1967 an 
+initial set of clarifying interpretations has been prepared
+ the nature of the maintenance corrections 
+to the standard specifications and completed interpretations are reported
+
+cacm may 1969
+
+usa standard fortran basic fortran programming
+language standardization language standard 
+specification language standard maintenance language standard
+clarification language standard interpretation 
+standardization committee
+
+1.2 2.0 2.19 2.2 2.3 4.0 4.12 4.19 4.20 4.22 4.29 4.43 5.23 5.9 6.9
+
+ca690509 jb february 17 1978  326 pm
+
+1613	4	1900
+1646	4	1900
+1845	4	1900
+1900	4	1900
+1900	4	1900
+1955	4	1900
+2025	4	1900
+2083	4	1900
+2154	4	1900
+2154	4	1900
+2270	4	1900
+2365	4	1900
+2506	4	1900
+2693	4	1900
+3060	4	1900
+987	5	1900
+988	5	1900
+1900	5	1900
+1900	5	1900
+1900	5	1900
+2154	5	1900
+2915	5	1900
+3060	5	1900
+987	6	1900
+987	6	1900
+988	6	1900
+1502	6	1900
+1900	6	1900
+1900	6	1900
+1900	6	1900
+2154	6	1900
+

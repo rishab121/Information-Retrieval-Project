@@ -1,0 +1,34 @@
+
+
+
+optimal space allocation on disk storage devices
+
+when the amount of space required for file storage
+exceeds the amount which can be kept on-line 
+decisions must be made as to which files are to be permanently
+resident and which mountable  these decisions 
+will affect the number of mount requests issued to the
+operators  this is often a bottleneck in a computing 
+facility and reducing the number of mounts thus decreases
+turnaround time  an optimization model for 
+the assignment of files to disk packs and packs to either
+resident or nonresident status is presented 
+ heuristics are suggested for those cases in which
+it is inefficient to compute the actual optimum
+
+cacm march 1974
+
+morgan h l
+
+disk analysis disk optimization disk filesfile
+systems file scheduling space allocation 
+memory hierarchy
+
+3.72 3.73 4.39
+
+ca740303 jb january 18 1978  1232 pm
+
+2680	5	2680
+2680	5	2680
+2680	5	2680
+

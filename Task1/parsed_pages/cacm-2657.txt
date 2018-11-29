@@ -1,0 +1,46 @@
+
+
+
+an improved program-synthesizing algorithm and its correctness
+
+an improved program-synthesizing algorithm
+based on the algorithm proposed by waldinger and 
+lee in 1969 is given  in the old algorithm the program-synthesizing
+problem is translated into a theorem-proving 
+problem and a program is obtained by analyzing a proof
+ for the improved algorithm the analysis is 
+not necessary and a program is obtained as soon as
+the proof is completed  this is achieved by using 
+a modified variable tracing mechanism invented by green
+in 1969  the correctness of the improved algorithm 
+is also proved ie the program thus obtained
+always satisfies the specification
+
+cacm april 1974
+
+lee r c t
+chang c l
+waldinger r j
+
+program-synthesizing algorithms theorem proving
+consequence finding primitive resolutions
+
+3.60 3.64 4.20 4.42 5.21 5.22 5.24
+
+ca740413 jb january 18 1978  932 am
+
+2657	4	2657
+2719	4	2657
+2210	5	2657
+2657	5	2657
+2657	5	2657
+2657	5	2657
+2719	5	2657
+1626	6	2657
+210	6	2657
+2151	6	2657
+2167	6	2657
+2210	6	2657
+2645	6	2657
+2657	6	2657
+

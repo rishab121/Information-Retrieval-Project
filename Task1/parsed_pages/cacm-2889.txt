@@ -1,0 +1,81 @@
+
+
+
+performance of height-balanced trees
+
+this paper presents the results of simulations
+that investigate the performance of height-balanced 
+hbk trees  it is shown that the only statistic
+of hb1 trees avl trees that is a function of 
+the size of the tree is the time to search for an item
+in the tree  for sufficiently large trees the 
+execution times of all procedures for maintaining hb1
+trees are independent of the size of the tree 
+ in particular an average of .465 restructures are required
+per insertion with an average of 2.78 nodes 
+revisited to restore the hb1 property an average of
+ .214 restructures are required per deletion with 
+an average of 1.91 nodes revisited to restore the hb1
+property  moreoverthe execution times of procedures 
+for maintaining hbk trees for k1 are also independent
+of the size of the tree except for the average 
+number of nodes revisited on a delete operation in
+order to restore the hbk property on trace back 
+ the cost of maintaining hbk trees drops sharply as the
+allowable imbalance k increases  both analytical 
+and experimental results that show the cost of maintaining
+hbk trees as a function of k are discussed
+
+cacm january 1976
+
+karlton p l
+fuller s h
+scroggs r e
+kaehler e b
+
+hbk trees balanced trees avl trees
+information storage and retrieval searching
+
+3.7 3.72 3.74 4.49 5.39
+
+ca760104 jb january 5 1978  1027 am
+
+2411	4	2889
+2455	4	2889
+2493	4	2889
+2709	4	2889
+2889	4	2889
+2889	4	2889
+2889	4	2889
+2937	4	2889
+2968	4	2889
+2968	4	2889
+2989	4	2889
+3005	4	2889
+3025	4	2889
+3042	4	2889
+3101	4	2889
+2138	5	2889
+2388	5	2889
+2455	5	2889
+2839	5	2889
+2889	5	2889
+2889	5	2889
+2889	5	2889
+3042	5	2889
+3096	5	2889
+3163	5	2889
+2455	6	2889
+2839	6	2889
+2839	6	2889
+2839	6	2889
+2889	6	2889
+2889	6	2889
+2889	6	2889
+2889	6	2889
+2968	6	2889
+3009	6	2889
+3009	6	2889
+3065	6	2889
+3096	6	2889
+

@@ -1,0 +1,77 @@
+
+
+
+use of decision tables in computer programming
+
+a decision table is a tabular form for displaying
+decision logic  decision tables have many 
+inherent advantages  the technique to be illustrated
+puts these advantages to use in that it enables 
+one to program directly from a decision table  the technique
+is based on the creation of a binary image 
+of a limited entry decision table in computer memory
+ a binary image of a given set of input conditions 
+can also be created  this data image is used to scan
+the decision table image to arrive at the proper 
+course of action  there are several advantages gained
+from the programming point view 1 amount of 
+computer memory used is drastically reduced 2 programming
+is simplified and 3 documentation is 
+brief and clear
+
+cacm january 1965
+
+kirk h w
+
+ca650110 jb march 8 1978  236 pm
+
+1327	5	1327
+1327	5	1327
+1327	5	1327
+1354	5	1327
+1488	5	1327
+2053	5	1327
+2220	5	1327
+2273	5	1327
+2726	5	1327
+2856	5	1327
+1172	6	1327
+1172	6	1327
+1172	6	1327
+1172	6	1327
+1172	6	1327
+1172	6	1327
+1237	6	1327
+1237	6	1327
+1237	6	1327
+1237	6	1327
+1237	6	1327
+1327	6	1327
+1327	6	1327
+1327	6	1327
+1327	6	1327
+1327	6	1327
+1327	6	1327
+1327	6	1327
+1354	6	1327
+1354	6	1327
+1354	6	1327
+1354	6	1327
+1354	6	1327
+1488	6	1327
+1489	6	1327
+1489	6	1327
+1548	6	1327
+1548	6	1327
+1684	6	1327
+250	6	1327
+2053	6	1327
+2053	6	1327
+2220	6	1327
+2220	6	1327
+2220	6	1327
+2221	6	1327
+2263	6	1327
+2453	6	1327
+2598	6	1327
+

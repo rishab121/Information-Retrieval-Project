@@ -1,0 +1,37 @@
+
+
+
+on maintenance of the opportunity list
+for class-teacher timetable problems
+
+one of the principal components of procedures
+for the solution of class-teacher timetable problems 
+is that for maintenance of the opportunity list  opportunity
+list maintenance methods are based on necessary 
+conditions for the existence of a solution a general
+framework for necessary conditions together with 
+four specific sets of necessary conditions is given
+
+cacm april 1975
+
+smith g
+
+combinatorial necessary conditions opportunity
+list scheduleschool timetable timetable
+
+3.51 5.39
+
+ca750405 jb january 9 1978  403 pm
+
+1367	4	2772
+2619	4	2772
+2772	4	2772
+2772	4	2772
+2787	4	2772
+2787	4	2772
+1116	5	2772
+1429	5	2772
+2772	5	2772
+2772	5	2772
+2772	5	2772
+
