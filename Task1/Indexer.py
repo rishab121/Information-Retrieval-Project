@@ -60,14 +60,12 @@ class SimpleIndexer:
                 f.write(word)
                 f.write(': ')
                 sorted_inverted_list = sorted_inverted_index[word]
-                f.write(str(len(sorted_inverted_list)))
-                f.write(", ")
                 for doc_id in sorted_inverted_list.keys():
                     f.write("(")
                     f.write(doc_id)
-                    f.write(", ")
+                    f.write(":")
                     f.write(str(sorted_inverted_list[doc_id]))
-                    f.write("), ")
+                    f.write(") ")
                 f.write("\n")
 
     def save_number_of_words(self, file_name, number_of_terms):
