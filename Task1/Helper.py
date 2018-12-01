@@ -65,7 +65,7 @@ class Helper:
             docs = bs.find_all('doc')
             for doc in docs:
                 doc_text = doc.get_text()
-                lines = doc_text.replace("\n", '')
+                lines = doc_text.replace("\n", ' ')
                 lines = lines.split("\n")
                 for line in lines:
                     line_list = line.split()
