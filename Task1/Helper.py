@@ -4,7 +4,7 @@ import re
 import operator
 
 
-class Retreiver:
+class Helper:
     def __init__(self):
         self.unigram_inverted_index = defaultdict(dict)
         self.number_of_terms_doc = defaultdict(int)
@@ -39,11 +39,11 @@ class Retreiver:
         print self.number_of_terms_doc
 
     def corpus_frequency(unigram_inverted_index):
-        corpus_term_count_dictionary = {};
+        corpus_term_count_dictionary = {}
         for key1 in unigram_inverted_index.keys():
-            corpus_term_count_dictionary[key1] = 0;
+            corpus_term_count_dictionary[key1] = 0
             for key2 in unigram_inverted_index[key1].keys():
-                corpus_term_count_dictionary[key1] += unigram_inverted_index[key1][key2];
+                corpus_term_count_dictionary[key1] += unigram_inverted_index[key1][key2]
 
         return corpus_term_count_dictionary
 
