@@ -38,7 +38,7 @@ class Helper:
                 self.total_number_of_terms_corpus += number_of_terms
         print self.number_of_terms_doc
 
-    def corpus_frequency(unigram_inverted_index):
+    def corpus_frequency(self,unigram_inverted_index):
         corpus_term_count_dictionary = {}
         for key1 in unigram_inverted_index.keys():
             corpus_term_count_dictionary[key1] = 0
@@ -47,6 +47,12 @@ class Helper:
 
         return corpus_term_count_dictionary
 
-
-
-r = Retreiver()
+    def parse_query(self,query):
+        query = query.lower() 
+        regex = r"(?!\d)[.,;](?!\d)"
+        regex2 = r"[(){}\"#~\[\]<>=:?!@&'|*]"
+        regex3 = r"(?!\d|\w)[-/$](?!\d|\w)"
+        query = re.sub(regex, "", query, 0)
+        query = re.sub(regex2, "", query, 0)
+        query = re.sub(regex3, "", query, 0)
+        return query
