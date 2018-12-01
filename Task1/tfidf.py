@@ -1,4 +1,4 @@
-from Retriever import Retreiver
+from Helper import Helper
 import math
 from collections import defaultdict
 import re
@@ -57,5 +57,5 @@ class TfIdf:
 				count+=1
 		f.close()
 
-r = Retreiver()
+r = Helper()
 t = TfIdf()
