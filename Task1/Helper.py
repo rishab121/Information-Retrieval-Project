@@ -2,7 +2,7 @@ import math
 from collections import defaultdict
 import re
 import operator
-
+from bs4 import BeautifulSoup
 
 class Helper:
     def __init__(self):
@@ -36,7 +36,7 @@ class Helper:
                 number_of_terms = int(line.split(':')[1].strip())
                 self.number_of_terms_doc[doc_id] = number_of_terms
                 self.total_number_of_terms_corpus += number_of_terms
-        print self.number_of_terms_doc
+        #print self.number_of_terms_doc
 
     def corpus_frequency(self,unigram_inverted_index):
         corpus_term_count_dictionary = {}
@@ -56,3 +56,21 @@ class Helper:
         query = re.sub(regex2, "", query, 0)
         query = re.sub(regex3, "", query, 0)
         return query
+
+    def get_queries(self):
+        queries = {}
+        with open('../test-collection/cacm.query.txt', 'r') as f:
+            raw_data = f.read()
+            bs = BeautifulSoup(raw_data, 'html.parser') 
+            docs = bs.find_all('doc')
+            for doc in docs:
+                doc_text = doc.get_text()
+                lines = doc_text.replace("\n", '')
+                lines = lines.split("\n")
+                for line in lines:
+                    line_list = line.split()
+                    query_id  = int(line_list.pop(0))
+                    query = ' '.join(line_list)
+                    queries[query_id] = query
+        return queries                
+                
