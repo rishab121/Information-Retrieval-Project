@@ -13,6 +13,8 @@ class BM25:
         self.calcAVDL()
         self.queryFrequencyDict = defaultdict(int)
         self.docScoreDict = defaultdict(int)
+        self.relevanceDict = defaultdict()
+        self.fetchRelevanceInfo()
         self.main()
 
 
@@ -31,16 +33,40 @@ class BM25:
             self.avdl = sum/len(self.helper.number_of_terms_doc.keys())
 
 
+    def fetchRelevanceInfo(self):
+        with open('../test-collection/cacm.rel.txt', 'r') as f:
+            lines = f.readlines()
+            for line in lines:
+                ar = line.split()
+                if int(ar[0]) in self.relevanceDict.keys():
+                    self.relevanceDict[int(ar[0])].append(ar[2])
+                else:
+                    self.relevanceDict[int(ar[0])] = [ar[2]]
 
-    def calculateDocumentScore(self,term, doc_id):
-        r = 0
-        R = 0
-        n = 0
+    def calculateR(self, term, qId):
+        r = 0;
+        if qId not in self.relevanceDict.keys():
+            return 0
+        for doc_id in self.relevanceDict[qId]:
+            if doc_id in self.helper.unigram_inverted_index[term].keys():
+                r += 1;
+        return r;
+
+    def calculateDocumentScore(self,term, doc_id, qId):
+        r = self.calculateR(term, qId)
+        if qId in self.relevanceDict.keys():
+            R = len(self.relevanceDict[qId])
+        else:
+            R = 0
+        n = len(self.helper.unigram_inverted_index[term].keys())
+        N = len(self.helper.number_of_terms_doc.keys())
         K = self.calculateK(doc_id)
+        f = self.helper.unigram_inverted_index[term][doc_id]
+        qf = self.queryFrequencyDict[term]
         docScore = \
-            math.log(((r + 0.5)/(R - r + 0.5))/((n-r+0.5)/(len(self.helper.number_of_terms_doc.keys()) - n - R + r +0.5))
-                     *(((self.k1+1)*self.helper.unigram_inverted_index[term][doc_id])/(K + self.helper.unigram_inverted_index[term][doc_id]))
-                     *(((self.k2 + 1)*self.queryFrequencyDict[term])/(self.k2 + self.queryFrequencyDict[term])))
+            math.log(((r + 0.5)/(R - r + 0.5))/((n-r+0.5)/(N - n - R + r +0.5))
+                     *(((self.k1+1)*f)/(K + f))
+                     *(((self.k2 + 1)*qf)/(self.k2 + qf)))
 
         self.docScoreDict[doc_id] += docScore
 
@@ -53,11 +79,9 @@ class BM25:
                 self.queryFrequencyDict[term] = 1
 
 
-    def calculateTermScore(self, term):
-        for key1 in self.helper.unigram_inverted_index.keys():
-            if key1 == term:
-                for doc_id in self.helper.unigram_inverted_index[key1].keys():
-                    self.calculateDocumentScore(term, doc_id)
+    def calculateTermScore(self, term, qId):
+        for doc_id in self.helper.unigram_inverted_index[term]:
+            self.calculateDocumentScore(term, doc_id, qId)
 
 
     def score(self):
@@ -84,4 +108,3 @@ class BM25:
             self.createQueryFrequencyDict()
             self.score()
             self.printScores(q)
-b= BM25(1.2,100, 0.75)
