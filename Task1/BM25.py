@@ -44,13 +44,13 @@ class BM25:
                     self.relevanceDict[int(ar[0])] = [ar[2]]
 
     def calculateR(self, term, qId):
-        r = 0;
+        r = 0
         if qId not in self.relevanceDict.keys():
             return 0
         for doc_id in self.relevanceDict[qId]:
             if doc_id in self.helper.unigram_inverted_index[term].keys():
-                r += 1;
-        return r;
+                r += 1
+        return r
 
     def calculateDocumentScore(self,term, doc_id, qId):
         r = self.calculateR(term, qId)
