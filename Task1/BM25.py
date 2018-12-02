@@ -84,9 +84,9 @@ class BM25:
             self.calculateDocumentScore(term, doc_id, qId)
 
 
-    def score(self):
+    def score(self, qId):
         for term in self.query.split():
-            self.calculateTermScore(term)
+            self.calculateTermScore(term, qId)
 
     def printScores(self, qId):
         sortedDict = sorted(self.docScoreDict.items(), key=operator.itemgetter(1), reverse=True)
@@ -106,5 +106,5 @@ class BM25:
             self.queryFrequencyDict = defaultdict(int)
             self.docScoreDict = defaultdict(int)
             self.createQueryFrequencyDict()
-            self.score()
+            self.score(q)
             self.printScores(q)
