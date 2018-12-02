@@ -13,8 +13,6 @@ class BM25:
         self.calcAVDL()
         self.queryFrequencyDict = defaultdict(int)
         self.docScoreDict = defaultdict(int)
-        self.relevanceDict = defaultdict()
-        self.fetchRelevanceInfo()
         self.main()
 
 
@@ -32,32 +30,9 @@ class BM25:
             sum += self.helper.number_of_terms_doc[key]
             self.avdl = sum/len(self.helper.number_of_terms_doc.keys())
 
-
-    def fetchRelevanceInfo(self):
-        with open('../test-collection/cacm.rel.txt', 'r') as f:
-            lines = f.readlines()
-            for line in lines:
-                ar = line.split()
-                if int(ar[0]) in self.relevanceDict.keys():
-                    self.relevanceDict[int(ar[0])].append(ar[2])
-                else:
-                    self.relevanceDict[int(ar[0])] = [ar[2]]
-
-    def calculateR(self, term, qId):
-        r = 0
-        if qId not in self.relevanceDict.keys():
-            return 0
-        for doc_id in self.relevanceDict[qId]:
-            if doc_id in self.helper.unigram_inverted_index[term].keys():
-                r += 1
-        return r
-
     def calculateDocumentScore(self,term, doc_id, qId):
-        r = self.calculateR(term, qId)
-        if qId in self.relevanceDict.keys():
-            R = len(self.relevanceDict[qId])
-        else:
-            R = 0
+        r = 0
+        R = 0
         n = len(self.helper.unigram_inverted_index[term].keys())
         N = len(self.helper.number_of_terms_doc.keys())
         K = self.calculateK(doc_id)
