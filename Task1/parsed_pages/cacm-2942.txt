@@ -12,9 +12,4 @@ pattern implementation algorithms in pascal
 
 4.29
 
-ca770710 jb december 28 1977  815 am
-
-2942	5	2942
-2942	5	2942
-2942	5	2942
-
+ca770710 jb december 28 1977  8:15 am

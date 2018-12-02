@@ -9,9 +9,4 @@ conway r w
 johnson b m
 maxwell w l
 
-ca591206 jb march 22 1978  335 pm
-
-36	5	36
-36	5	36
-36	5	36
-
+ca591206 jb march 22 1978  3:35 pm

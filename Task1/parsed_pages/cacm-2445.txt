@@ -12,9 +12,4 @@ salesman problem hamiltonian circuit
 
 5.40
 
-ca730910 jb january 23 1978  847 am
-
-2445	5	2445
-2445	5	2445
-2445	5	2445
-
+ca730910 jb january 23 1978  8:47 am

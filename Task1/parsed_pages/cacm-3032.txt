@@ -33,12 +33,4 @@ switching broadcast protocols
 
 3.81 4.32 5.32
 
-ca781207 dh  january 18 1979  310 pm
-
-3032	4	3032
-3119	4	3032
-2849	5	3032
-3032	5	3032
-3032	5	3032
-3032	5	3032
-
+ca781207 dh  january 18 1979  3:10 pm

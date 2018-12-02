@@ -35,11 +35,4 @@ cacm june 1967
 engvold k j
 hughes j l
 
-ca670601 jb february 28 1978  1024 am
-
-1591	5	1591
-1591	5	1591
-1591	5	1591
-1680	5	1591
-1591	6	1591
-
+ca670601 jb february 28 1978  10:24 am

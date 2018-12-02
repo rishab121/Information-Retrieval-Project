@@ -25,13 +25,4 @@ cacm september 1965
 henrich p
 watkins b o
 
-ca650908 jb march 6 1978  721 pm
-
-1197	5	1197
-1197	5	1197
-1197	5	1197
-1524	5	1197
-879	6	1197
-1197	6	1197
-311	6	1197
-
+ca650908 jb march 6 1978  7:21 pm

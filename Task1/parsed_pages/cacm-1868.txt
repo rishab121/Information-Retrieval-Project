@@ -24,9 +24,4 @@ keypunch key verifier verifier
 
 2.40 2.42 2.43 3.10 3.20 3.50 4.41
 
-ca690712 jb february 15 1978  643 pm
-
-1868	5	1868
-1868	5	1868
-1868	5	1868
-
+ca690712 jb february 15 1978  6:43 pm

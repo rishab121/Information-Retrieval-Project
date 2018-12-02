@@ -8,9 +8,4 @@ cacm october 1960
 
 romberg a
 
-ca601005 jb march 20 1978  821 pm
-
-143	5	143
-143	5	143
-143	5	143
-
+ca601005 jb march 20 1978  8:21 pm

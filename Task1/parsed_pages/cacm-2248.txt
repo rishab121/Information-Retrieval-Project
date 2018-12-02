@@ -24,9 +24,4 @@ method of successive approximations
 
 5.17
 
-ca721207 jb january 27 1978  1113 am
-
-2248	5	2248
-2248	5	2248
-2248	5	2248
-
+ca721207 jb january 27 1978  11:13 am

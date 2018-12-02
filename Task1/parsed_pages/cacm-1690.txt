@@ -13,11 +13,4 @@ flow network flow out-of-kilter
 
 5.32 5.41
 
-ca680911 jb february 21 1978  435 pm
-
-1690	4	1690
-1322	5	1690
-1690	5	1690
-1690	5	1690
-1690	5	1690
-
+ca680911 jb february 21 1978  4:35 pm

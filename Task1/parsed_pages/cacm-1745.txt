@@ -29,9 +29,4 @@ program leasing
 
 2.3 2.40 3.80 4.30
 
-ca680511 jb february 23 1978  849 am
-
-1745	5	1745
-1745	5	1745
-1745	5	1745
-
+ca680511 jb february 23 1978  8:49 am

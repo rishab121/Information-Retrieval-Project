@@ -45,9 +45,4 @@ cacm march 1966
 
 raphael b
 
-ca660302 jb march 3 1978  220 pm
-
-1470	5	1470
-1470	5	1470
-1470	5	1470
-
+ca660302 jb march 3 1978  2:20 pm

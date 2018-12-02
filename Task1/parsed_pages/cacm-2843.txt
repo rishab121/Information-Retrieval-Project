@@ -19,9 +19,4 @@ software education simulators grading programs student assignments
 
 1.5 4.0
 
-ca760801 jb january 4 1978  1039 am
-
-2843	5	2843
-2843	5	2843
-2843	5	2843
-
+ca760801 jb january 4 1978  10:39 am

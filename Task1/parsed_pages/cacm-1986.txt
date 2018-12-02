@@ -11,12 +11,4 @@ students t-statistic quantile asymptotic approximation
 
 5.12 5.5
 
-ca701004 jb february 10 1978  929 am
-
-1986	4	1986
-2315	4	1986
-1986	5	1986
-1986	5	1986
-1986	5	1986
-1987	5	1986
-
+ca701004 jb february 10 1978  9:29 am

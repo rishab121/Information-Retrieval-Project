@@ -23,9 +23,4 @@ mccormack m a
 schansman t t
 womack k k
 
-ca651208 jb march 6 1978  355 pm
-
-1161	5	1161
-1161	5	1161
-1161	5	1161
-
+ca651208 jb march 6 1978  3:55 pm

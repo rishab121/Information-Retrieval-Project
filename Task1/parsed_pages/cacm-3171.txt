@@ -16,9 +16,4 @@ line number administration diagnostic messages abstract machine code
 
 4.12 4.13 4.20 4.42
 
-ca791004 db january 17 1980  957 am
-
-3171	5	3171
-3171	5	3171
-3171	5	3171
-
+ca791004 db january 17 1980  9:57 am

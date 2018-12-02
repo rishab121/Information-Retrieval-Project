@@ -7,9 +7,4 @@ cacm march 1960
 
 gorns
 
-ca600306 jb march 22 1978  159 pm
-
-212	5	212
-212	5	212
-212	5	212
-
+ca600306 jb march 22 1978  1:59 pm

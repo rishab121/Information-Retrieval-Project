@@ -18,9 +18,4 @@ editing text cathode-ray tube entry display time-sharing
 
 3.7 4.3
 
-ca720104 jb february 1 1978  931 am
-
-2399	5	2399
-2399	5	2399
-2399	5	2399
-
+ca720104 jb february 1 1978  9:31 am

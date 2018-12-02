@@ -25,9 +25,4 @@ games demonstration programs game theory spinning trees
 
 3.69 5.32
 
-ca720405 jb january 31 1978  134 pm
-
-2368	5	2368
-2368	5	2368
-2368	5	2368
-
+ca720405 jb january 31 1978  1:34 pm

@@ -18,9 +18,4 @@ polynomial eigenvalues
 
 5.14
 
-ca690606 jb february 17 1978  1100 am
-
-1887	5	1887
-1887	5	1887
-1887	5	1887
-
+ca690606 jb february 17 1978  11:00 am

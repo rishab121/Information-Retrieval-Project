@@ -13,9 +13,4 @@ matrix permanent determinant
 
 5.30
 
-ca700616 jb february 13 1978  1001 am
-
-2039	5	2039
-2039	5	2039
-2039	5	2039
-
+ca700616 jb february 13 1978  10:01 am

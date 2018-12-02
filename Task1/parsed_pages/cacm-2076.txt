@@ -17,9 +17,4 @@ simple spline representation cardinal splines uniform mesh splines
 
 5.13
 
-ca700408 jb february 13 1978  251 pm
-
-2076	5	2076
-2076	5	2076
-2076	5	2076
-
+ca700408 jb february 13 1978  2:51 pm

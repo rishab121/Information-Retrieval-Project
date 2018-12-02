@@ -21,12 +21,4 @@ biharmonic equation boundary value problem
 
 5.17
 
-ca720507 jb january 31 1978  943 am
-
-2352	4	2353
-2353	4	2353
-2094	5	2353
-2353	5	2353
-2353	5	2353
-2353	5	2353
-
+ca720507 jb january 31 1978  9:43 am

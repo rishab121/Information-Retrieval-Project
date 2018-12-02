@@ -15,9 +15,4 @@ method gragg-stetter modification
 
 5.11 5.16 5.17
 
-ca711207 jb february 2 1978  952 am
-
-2136	5	2136
-2136	5	2136
-2136	5	2136
-
+ca711207 jb february 2 1978  9:52 am

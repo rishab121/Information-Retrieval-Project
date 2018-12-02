@@ -11,9 +11,4 @@ dilogarithm function special functions
 
 5.12
 
-ca680408 jb february 23 1978  1025 am
-
-1762	5	1762
-1762	5	1762
-1762	5	1762
-
+ca680408 jb february 23 1978  10:25 am

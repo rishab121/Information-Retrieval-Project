@@ -19,16 +19,4 @@ byte processing character processing packed data
 
 4.9
 
-ca750808 jb january 6 1978  421 pm
-
-2727	5	2727
-2727	5	2727
-2727	5	2727
-2952	5	2727
-142	6	2727
-162	6	2727
-163	6	2727
-192	6	2727
-2185	6	2727
-2727	6	2727
-
+ca750808 jb january 6 1978  4:21 pm

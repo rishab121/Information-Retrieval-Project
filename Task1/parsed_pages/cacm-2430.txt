@@ -12,11 +12,4 @@ algorithm path search algorithm searching
 
 3.74 4.22 5.32
 
-ca731010 jb january 20 1978  1111 am
-
-2430	4	2430
-1961	5	2430
-2430	5	2430
-2430	5	2430
-2430	5	2430
-
+ca731010 jb january 20 1978  11:11 am

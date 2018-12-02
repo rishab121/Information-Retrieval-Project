@@ -43,13 +43,4 @@ space planning spatial representations
 
 3.20 3.25 3.64 3.66
 
-ca750514 jb january 9 1978  210 pm
-
-1531	4	2753
-2707	4	2753
-2753	4	2753
-1185	5	2753
-2753	5	2753
-2753	5	2753
-2753	5	2753
-
+ca750514 jb january 9 1978  2:10 pm

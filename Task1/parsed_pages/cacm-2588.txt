@@ -8,12 +8,4 @@ cacm october 1974
 klemes j
 klemsa j
 
-ca741010 jb january 16 1978  1109 am
-
-2587	4	2588
-2588	4	2588
-2588	5	2588
-2588	5	2588
-2588	5	2588
-2612	5	2588
-
+ca741010 jb january 16 1978  11:09 am

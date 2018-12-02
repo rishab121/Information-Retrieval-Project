@@ -12,12 +12,4 @@ multiple exists from loops exit statement
 
 4.20 4.22
 
-ca741110 jb january 16 1978  1007 am
-
-2574	4	2574
-2709	4	2574
-2477	5	2574
-2574	5	2574
-2574	5	2574
-2574	5	2574
-
+ca741110 jb january 16 1978  10:07 am

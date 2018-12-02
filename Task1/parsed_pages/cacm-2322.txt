@@ -20,9 +20,4 @@ computer design computer organization
 
 1.2 2.1 6.0 6.2
 
-ca720706 jb january 30 1978  300 pm
-
-2322	5	2322
-2322	5	2322
-2322	5	2322
-
+ca720706 jb january 30 1978  3:00 pm

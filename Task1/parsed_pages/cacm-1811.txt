@@ -40,9 +40,4 @@ relaxation jacobi gauss-seidel convergence
 
 3.24 4.9 5.14 5.17 6.21
 
-ca691201 jb february 15 1978  445 pm
-
-1811	5	1811
-1811	5	1811
-1811	5	1811
-
+ca691201 jb february 15 1978  4:45 pm

@@ -16,9 +16,4 @@ theorem proving deduction program verification equality
 
 3.64 3.66 5.21
 
-ca780709 dh february 7 1979  341 pm
-
-3079	5	3079
-3079	5	3079
-3079	5	3079
-
+ca780709 dh february 7 1979  3:41 pm

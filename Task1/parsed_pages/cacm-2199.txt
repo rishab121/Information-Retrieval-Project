@@ -11,9 +11,4 @@ matrix sparse matrix matrix manipulation
 
 5.14
 
-ca710406 jb february 3 1978  320 pm
-
-2199	5	2199
-2199	5	2199
-2199	5	2199
-
+ca710406 jb february 3 1978  3:20 pm

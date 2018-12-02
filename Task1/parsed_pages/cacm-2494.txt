@@ -28,9 +28,4 @@ taxonomy hierarchical clustering factor analysis
 
 3.10 3.30 3.36 4.49
 
-ca730606 jb january 23 1978  220 pm
-
-2494	5	2494
-2494	5	2494
-2494	5	2494
-
+ca730606 jb january 23 1978  2:20 pm

@@ -30,9 +30,4 @@ collection growth collection retirement feedback search
 
 3.62 3.71 3.73 3.74
 
-ca720721 jb january 30 1978  1059 am
-
-2307	5	2307
-2307	5	2307
-2307	5	2307
-
+ca720721 jb january 30 1978  10:59 am

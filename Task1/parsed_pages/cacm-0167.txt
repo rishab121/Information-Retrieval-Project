@@ -7,9 +7,4 @@ cacm july 1960
 
 mcisaac p
 
-ca600706 jb march 20 1978  915 pm
-
-167	5	167
-167	5	167
-167	5	167
-
+ca600706 jb march 20 1978  9:15 pm

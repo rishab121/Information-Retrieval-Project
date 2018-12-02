@@ -42,9 +42,4 @@ minimax computer chess tournament auxiliary minimal game
 
 3.60 3.66 3.74 4.22
 
-ca730703 jb january 23 1978  107 pm
-
-2483	5	2483
-2483	5	2483
-2483	5	2483
-
+ca730703 jb january 23 1978  1:07 pm

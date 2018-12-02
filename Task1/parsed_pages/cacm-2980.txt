@@ -24,11 +24,4 @@ picture processing pattern recognition segmentation region editing
 
 3.63
 
-ca770402 jb december 29 1977  622 am
-
-2980	4	2980
-2523	5	2980
-2980	5	2980
-2980	5	2980
-2980	5	2980
-
+ca770402 jb december 29 1977  6:22 am

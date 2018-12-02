@@ -20,9 +20,4 @@ b-tree index database tree storage structure searching
 
 3.73 4.33 4.34
 
-ca770908 jb december 27 1977  1246 pm
-
-2926	5	2926
-2926	5	2926
-2926	5	2926
-
+ca770908 jb december 27 1977  12:46 pm

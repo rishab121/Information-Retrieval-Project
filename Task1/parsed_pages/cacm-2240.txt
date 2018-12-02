@@ -11,9 +11,4 @@ pseudo-random numbers testing random number generators
 
 5.5
 
-ca721215 jb january 27 1978  904 am
-
-2240	5	2240
-2240	5	2240
-2240	5	2240
-
+ca721215 jb january 27 1978  9:04 am

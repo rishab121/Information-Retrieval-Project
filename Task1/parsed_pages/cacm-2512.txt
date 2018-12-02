@@ -12,9 +12,4 @@ special functions function evaluation
 
 5.12
 
-ca730508 jb january 23 1978  441 pm
-
-2512	5	2512
-2512	5	2512
-2512	5	2512
-
+ca730508 jb january 23 1978  4:41 pm

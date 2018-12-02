@@ -19,9 +19,4 @@ hansen r c
 bailin l l
 rutishauser r w
 
-ca590205 jb march 22 1978  816 pm
-
-96	5	96
-96	5	96
-96	5	96
-
+ca590205 jb march 22 1978  8:16 pm

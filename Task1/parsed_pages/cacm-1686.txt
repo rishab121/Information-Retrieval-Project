@@ -24,12 +24,4 @@ mathematics image processing
 
 3.17 3.19 5.19
 
-ca681001 jb february 21 1978  427 pm
-
-1686	5	1686
-1686	5	1686
-1686	5	1686
-2004	5	1686
-1686	6	1686
-1915	6	1686
-
+ca681001 jb february 21 1978  4:27 pm

@@ -12,9 +12,4 @@ weight function orthogonal polynomials
 
 5.16
 
-ca680614 jb february 22 1978  320 pm
-
-1731	5	1731
-1731	5	1731
-1731	5	1731
-
+ca680614 jb february 22 1978  3:20 pm

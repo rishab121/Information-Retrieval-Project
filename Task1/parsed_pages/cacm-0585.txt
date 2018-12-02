@@ -32,9 +32,4 @@ landis n
 manos a
 turner l r
 
-ca620520 jb march 17 1978  945 pm
-
-585	5	585
-585	5	585
-585	5	585
-
+ca620520 jb march 17 1978  9:45 pm

@@ -19,9 +19,4 @@ compromise set union mutually exclusive events
 
 5.12 5.5 5.6
 
-ca680907 jb february 22 1978  845 am
-
-1694	5	1694
-1694	5	1694
-1694	5	1694
-
+ca680907 jb february 22 1978  8:45 am

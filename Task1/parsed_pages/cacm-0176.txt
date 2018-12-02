@@ -8,9 +8,4 @@ cacm june 1960
 perlis a j
 thornton c
 
-ca600614 jb march 20 1978  926 pm
-
-176	5	176
-176	5	176
-176	5	176
-
+ca600614 jb march 20 1978  9:26 pm

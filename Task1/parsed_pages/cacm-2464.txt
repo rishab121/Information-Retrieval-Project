@@ -12,9 +12,4 @@ optimization constrained optimization boxs algorithm
 
 5.41
 
-ca730810 jb january 23 1978  1034 am
-
-2464	5	2464
-2464	5	2464
-2464	5	2464
-
+ca730810 jb january 23 1978  10:34 am

@@ -20,9 +20,4 @@ tonge f m
 keller p
 newell a
 
-ca650602 jb march 7 1978  1245 pm
-
-1253	5	1253
-1253	5	1253
-1253	5	1253
-
+ca650602 jb march 7 1978  12:45 pm

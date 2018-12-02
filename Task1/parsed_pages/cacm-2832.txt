@@ -23,9 +23,4 @@ context trees frame problem variable bindings data structures
 
 3.69 3.74 4.10
 
-ca760907 jb january 4 1978  849 am
-
-2832	5	2832
-2832	5	2832
-2832	5	2832
-
+ca760907 jb january 4 1978  8:49 am

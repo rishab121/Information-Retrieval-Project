@@ -32,9 +32,4 @@ scheduling algorithms operating systems
 
 3.80 3.81 6.20
 
-ca730304 jb january 24 1978  1113 am
-
-2535	5	2535
-2535	5	2535
-2535	5	2535
-
+ca730304 jb january 24 1978  11:13 am

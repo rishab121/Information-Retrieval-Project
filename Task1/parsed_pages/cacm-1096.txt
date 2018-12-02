@@ -8,9 +8,4 @@ cacm april 1964
 stevens d
 benson b
 
-ca640412 jb march 10 1978  128 am
-
-1096	5	1096
-1096	5	1096
-1096	5	1096
-
+ca640412 jb march 10 1978  1:28 am

@@ -18,11 +18,4 @@ symbol table organization pl/i and cobol structured variables
 
 4.12
 
-ca730906 jb january 23 1978  917 am
-
-2449	5	2449
-2449	5	2449
-2449	5	2449
-2659	5	2449
-2449	6	2449
-
+ca730906 jb january 23 1978  9:17 am

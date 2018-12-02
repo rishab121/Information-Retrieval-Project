@@ -14,14 +14,4 @@ quadrature extrapolation richardson extrapolation
 
 5.16
 
-ca720110 jb february 1 1978  900 am
-
-1857	4	2393
-2393	4	2393
-2393	4	2393
-1858	5	2393
-2071	5	2393
-2393	5	2393
-2393	5	2393
-2393	5	2393
-
+ca720110 jb february 1 1978  9:00 am

@@ -27,9 +27,4 @@ karyotyping karyotyping list processing picture processing
 
 3.12 3.34 3.63 4.39 6.29
 
-ca700501 jb february 13 1978  227 pm
-
-2065	5	2065
-2065	5	2065
-2065	5	2065
-
+ca700501 jb february 13 1978  2:27 pm

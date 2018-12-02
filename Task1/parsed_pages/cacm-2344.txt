@@ -44,12 +44,4 @@ measure of performance scheduling algorithms
 
 3.80 4.30 4.32
 
-ca720601 jb january 31 1978  919 am
-
-2219	4	2344
-2344	4	2344
-1938	5	2344
-2344	5	2344
-2344	5	2344
-2344	5	2344
-
+ca720601 jb january 31 1978  9:19 am

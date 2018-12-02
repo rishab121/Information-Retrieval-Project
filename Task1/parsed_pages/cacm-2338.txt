@@ -16,9 +16,4 @@ algorithm volterra integral equations starting method
 
 5.18
 
-ca720607 jb january 30 1978  417 pm
-
-2338	5	2338
-2338	5	2338
-2338	5	2338
-
+ca720607 jb january 30 1978  4:17 pm

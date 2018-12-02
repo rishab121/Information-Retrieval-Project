@@ -26,9 +26,4 @@ local echoing communication system network
 
 3.81 4.31
 
-ca770704 jb december 28 1977  1149 am
-
-2948	5	2948
-2948	5	2948
-2948	5	2948
-
+ca770704 jb december 28 1977  11:49 am

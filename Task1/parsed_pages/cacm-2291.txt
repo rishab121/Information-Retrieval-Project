@@ -12,9 +12,4 @@ of equations routh-hurwitz criterion
 
 5.15
 
-ca720811 jb january 30 1978  921 am
-
-2291	5	2291
-2291	5	2291
-2291	5	2291
-
+ca720811 jb january 30 1978  9:21 am

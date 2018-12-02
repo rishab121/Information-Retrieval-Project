@@ -13,9 +13,4 @@ matrix permanent determinant
 
 5.30
 
-ca691109 jb february 15 19781218 pm
-
-1821	5	1821
-1821	5	1821
-1821	5	1821
-
+ca691109 jb february 15 197812:18 pm

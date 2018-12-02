@@ -32,16 +32,4 @@ computer graphics graphic display shading hidden surface removal
 
 3.41 5.12 5.15 8.2
 
-ca761002 jb january 4 1978  836 am
-
-2816	5	2829
-2829	5	2829
-2829	5	2829
-2829	5	2829
-3047	5	2829
-2493	6	2829
-2751	6	2829
-2751	6	2829
-2829	6	2829
-2829	6	2829
-
+ca761002 jb january 4 1978  8:36 am

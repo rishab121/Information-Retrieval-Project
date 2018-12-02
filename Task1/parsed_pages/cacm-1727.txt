@@ -43,9 +43,4 @@ jump frequencies program segmentation problem
 
 4.11 4.19 4.39 4.49
 
-ca680702 jb february 22 1978  305 pm
-
-1727	5	1727
-1727	5	1727
-1727	5	1727
-
+ca680702 jb february 22 1978  3:05 pm

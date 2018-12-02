@@ -21,9 +21,4 @@ minimization cubical complexes ternary encoding
 
 3.24 6.1
 
-ca680712 jb february 22 1978  1130 am
-
-1717	5	1717
-1717	5	1717
-1717	5	1717
-
+ca680712 jb february 22 1978  11:30 am

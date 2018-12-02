@@ -10,9 +10,4 @@ horty j f
 bacon c r t
 mitchell d s
 
-ca610902 jb march 16 1978  951 pm
-
-292	5	292
-292	5	292
-292	5	292
-
+ca610902 jb march 16 1978  9:51 pm

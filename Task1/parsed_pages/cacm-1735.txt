@@ -19,11 +19,4 @@ computer scheduling auction time allocation operating efficiency
 
 2.40
 
-ca680610 jb february 22 1978  404 pm
-
-1735	5	1735
-1735	5	1735
-1735	5	1735
-2020	5	1735
-1735	6	1735
-
+ca680610 jb february 22 1978  4:04 pm

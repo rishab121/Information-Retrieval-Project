@@ -25,9 +25,4 @@ information retrieval hierarchical storage
 
 3.70 3.72 3.73 3.74 3.79 3.90 6.20 6.34
 
-ca730504 jb january 24 1978  848 am
-
-2516	5	2516
-2516	5	2516
-2516	5	2516
-
+ca730504 jb january 24 1978  8:48 am

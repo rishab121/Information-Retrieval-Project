@@ -12,9 +12,4 @@ partitions combinatorics statistical design of experiments
 
 5.39 5.5
 
-ca710109 jb february 8 1978  1027 am
-
-2225	5	2225
-2225	5	2225
-2225	5	2225
-
+ca710109 jb february 8 1978  10:27 am

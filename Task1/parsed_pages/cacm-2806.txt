@@ -18,9 +18,4 @@ error analysis gram-schmidt orthogonalization
 
 5.11 5.14
 
-ca750105 jb january 12 1978  1037 am
-
-2806	5	2806
-2806	5	2806
-2806	5	2806
-
+ca750105 jb january 12 1978  10:37 am

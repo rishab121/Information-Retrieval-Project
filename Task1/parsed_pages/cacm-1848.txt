@@ -13,9 +13,4 @@ solution of equations least squares approximation newtons method
 
 5.13 5.14 5.15
 
-ca690907 jb february 15 1978  432 pm
-
-1848	5	1848
-1848	5	1848
-1848	5	1848
-
+ca690907 jb february 15 1978  4:32 pm

@@ -19,9 +19,4 @@ problem lemkes algorithm simplex method
 
 5.41
 
-ca720905 jb january 27 1978  434 pm
-
-2285	5	2285
-2285	5	2285
-2285	5	2285
-
+ca720905 jb january 27 1978  4:34 pm

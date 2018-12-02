@@ -36,16 +36,4 @@ mode information retrieval language symbolic command language
 
 3.74 3.81 4.19
 
-ca681006 jb february 21 1978  359 pm
-
-1681	4	1681
-1699	4	1681
-1194	5	1681
-1681	5	1681
-1681	5	1681
-1681	5	1681
-1699	5	1681
-1194	6	1681
-1324	6	1681
-1681	6	1681
-
+ca681006 jb february 21 1978  3:59 pm

@@ -29,9 +29,4 @@ coordination of input/output
 
 3.81 6.0 6.35
 
-ca720707 jb january 30 1978  246 pm
-
-2321	5	2321
-2321	5	2321
-2321	5	2321
-
+ca720707 jb january 30 1978  2:46 pm

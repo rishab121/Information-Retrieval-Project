@@ -26,12 +26,4 @@ error analysis interval arithmetic
 
 5.11
 
-ca730106 jb january 24 1978  432 pm
-
-2555	4	2555
-2605	4	2555
-2286	5	2555
-2555	5	2555
-2555	5	2555
-2555	5	2555
-
+ca730106 jb january 24 1978  4:32 pm

@@ -11,9 +11,4 @@ spanning trees trees graphs
 
 5.32
 
-ca690904 jb february 15 1978  450 pm
-
-1851	5	1851
-1851	5	1851
-1851	5	1851
-
+ca690904 jb february 15 1978  4:50 pm

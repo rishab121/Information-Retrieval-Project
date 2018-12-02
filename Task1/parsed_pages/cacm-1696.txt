@@ -23,9 +23,4 @@ stochastic matrix ergodic chain identification
 
 5.39 5.5
 
-ca680905 jb february 22 1978  904 am
-
-1696	5	1696
-1696	5	1696
-1696	5	1696
-
+ca680905 jb february 22 1978  9:04 am

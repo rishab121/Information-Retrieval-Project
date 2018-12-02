@@ -33,9 +33,4 @@ storage hierarchy storage utilization
 
 3.74 4.3
 
-ca710304 jb february 3 1978  437 pm
-
-2208	5	2208
-2208	5	2208
-2208	5	2208
-
+ca710304 jb february 3 1978  4:37 pm

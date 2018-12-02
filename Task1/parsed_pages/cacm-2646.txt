@@ -29,9 +29,4 @@ rotational latency staging storage allocation
 
 4.41 6.20
 
-ca740507 jb january 17 1978  359 pm
-
-2646	5	2646
-2646	5	2646
-2646	5	2646
-
+ca740507 jb january 17 1978  3:59 pm

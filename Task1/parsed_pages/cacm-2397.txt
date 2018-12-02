@@ -7,9 +7,4 @@ cacm january 1972
 
 shell d l
 
-ca720106 jb february 1 1978  921 am
-
-2397	5	2397
-2397	5	2397
-2397	5	2397
-
+ca720106 jb february 1 1978  9:21 am

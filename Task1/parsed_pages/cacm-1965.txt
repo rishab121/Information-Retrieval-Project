@@ -13,12 +13,4 @@ significance arithmetic full-precision arithmetic
 
 3.15 5.11
 
-ca701114 jb february 9 1978  425 pm
-
-1965	4	1965
-2200	4	1965
-1718	5	1965
-1965	5	1965
-1965	5	1965
-1965	5	1965
-
+ca701114 jb february 9 1978  4:25 pm

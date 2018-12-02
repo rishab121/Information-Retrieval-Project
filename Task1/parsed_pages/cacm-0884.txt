@@ -9,9 +9,4 @@ clark r e
 kubik r n
 phillips l p
 
-ca630407 jb march 14 1978  1225 pm
-
-884	5	884
-884	5	884
-884	5	884
-
+ca630407 jb march 14 1978  12:25 pm

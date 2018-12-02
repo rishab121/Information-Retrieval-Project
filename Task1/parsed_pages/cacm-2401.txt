@@ -30,9 +30,4 @@ processing multiple connected pictures
 
 3.63
 
-ca720102 jb february 1 1978  943 am
-
-2401	5	2401
-2401	5	2401
-2401	5	2401
-
+ca720102 jb february 1 1978  9:43 am

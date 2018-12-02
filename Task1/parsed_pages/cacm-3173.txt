@@ -19,9 +19,4 @@ basic learning instruction
 
 1.50 3.36 4.22
 
-ca791101 db january 17 1980  1038 am
-
-3173	5	3173
-3173	5	3173
-3173	5	3173
-
+ca791101 db january 17 1980  10:38 am

@@ -11,9 +11,4 @@ report generation automated systems design data processing management
 
 3.50 4.12 4.22
 
-ca740110 jb january 18 1978  140 pm
-
-2689	5	2689
-2689	5	2689
-2689	5	2689
-
+ca740110 jb january 18 1978  1:40 pm

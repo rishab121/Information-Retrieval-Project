@@ -7,11 +7,4 @@ cacm october 1962
 
 muller m e
 
-ca621003 jb march 17 1978  723 pm
-
-477	4	477
-6	5	477
-477	5	477
-477	5	477
-477	5	477
-
+ca621003 jb march 17 1978  7:23 pm

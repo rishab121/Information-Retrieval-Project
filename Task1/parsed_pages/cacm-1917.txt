@@ -16,9 +16,4 @@ memory permutation
 
 3.15 3.83 5.12 5.14
 
-ca690310 jb february 20 1978  843 am
-
-1917	5	1917
-1917	5	1917
-1917	5	1917
-
+ca690310 jb february 20 1978  8:43 am

@@ -9,11 +9,4 @@ morrison d d
 riley j d
 zancanaro j f
 
-ca621223 jb march 17 1978  433 pm
-
-1049	5	416
-416	5	416
-416	5	416
-416	5	416
-416	6	416
-
+ca621223 jb march 17 1978  4:33 pm

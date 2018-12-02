@@ -21,11 +21,4 @@ half-duplex transmission control communications
 
 3.81
 
-ca690502 jb february 17 1978  401 pm
-
-1907	4	1907
-1743	5	1907
-1907	5	1907
-1907	5	1907
-1907	5	1907
-
+ca690502 jb february 17 1978  4:01 pm

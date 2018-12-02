@@ -13,12 +13,4 @@ query boolean expression optimal evaluation information retrieval
 
 3.50 3.70 3.74
 
-ca791002 db january 16 1980  452 pm
-
-3168	4	3169
-3169	4	3169
-2965	5	3169
-3169	5	3169
-3169	5	3169
-3169	5	3169
-
+ca791002 db january 16 1980  4:52 pm

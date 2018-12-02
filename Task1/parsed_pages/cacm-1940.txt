@@ -13,9 +13,4 @@ algol procedure horners scheme
 
 4.22 5.12
 
-ca690109 jb february 20 1978  1146 am
-
-1940	5	1940
-1940	5	1940
-1940	5	1940
-
+ca690109 jb february 20 1978  11:46 am

@@ -11,9 +11,4 @@ system of linear equations almost tridiagonal matrix sparse matrix
 
 5.14
 
-ca731203 jb january 19 1978  250 pm
-
-2405	5	2405
-2405	5	2405
-2405	5	2405
-
+ca731203 jb january 19 1978  2:50 pm

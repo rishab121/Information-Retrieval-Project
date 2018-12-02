@@ -16,9 +16,4 @@ cacm march 1962
 
 ellis p v
 
-ca620302 jb march 20 1978  315 pm
-
-630	5	630
-630	5	630
-630	5	630
-
+ca620302 jb march 20 1978  3:15 pm

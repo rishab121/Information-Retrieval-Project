@@ -13,9 +13,4 @@ kolmogorov-smirnov test k-s statistic goodness-of-fit testing
 
 8.1 5.5
 
-ca741208 jb january 13 1978  408 pm
-
-2566	5	2566
-2566	5	2566
-2566	5	2566
-
+ca741208 jb january 13 1978  4:08 pm

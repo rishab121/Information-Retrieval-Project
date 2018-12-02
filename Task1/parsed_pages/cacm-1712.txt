@@ -17,13 +17,4 @@ error recovery file organization
 
 3.73
 
-ca680802 jb february 22 1978  1114 am
-
-1712	4	1712
-1507	5	1712
-1712	5	1712
-1712	5	1712
-1712	5	1712
-3164	5	1712
-1712	6	1712
-
+ca680802 jb february 22 1978  11:14 am

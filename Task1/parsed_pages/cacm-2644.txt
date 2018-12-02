@@ -26,9 +26,4 @@ paramodulation programming languages
 
 3.60 4.22 5.21
 
-ca740602 jb january 17 1978  337 pm
-
-2644	5	2644
-2644	5	2644
-2644	5	2644
-
+ca740602 jb january 17 1978  3:37 pm

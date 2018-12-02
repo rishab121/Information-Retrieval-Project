@@ -11,9 +11,4 @@ high-level languages philosophy of language design
 
 4.22 5.19
 
-ca750306 jb january 9 1978  438 pm
-
-2782	5	2782
-2782	5	2782
-2782	5	2782
-
+ca750306 jb january 9 1978  4:38 pm

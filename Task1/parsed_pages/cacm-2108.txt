@@ -15,9 +15,4 @@ sorting address calculation merging order sequence creation
 
 4.49 5.31
 
-ca700207 jb february 14 1978  1024 am
-
-2108	5	2108
-2108	5	2108
-2108	5	2108
-
+ca700207 jb february 14 1978  10:24 am

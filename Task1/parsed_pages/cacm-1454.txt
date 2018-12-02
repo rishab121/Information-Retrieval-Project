@@ -28,9 +28,4 @@ cacm april 1966
 
 scheff b h
 
-ca660401 jb march 3 1978  1109 am
-
-1454	5	1454
-1454	5	1454
-1454	5	1454
-
+ca660401 jb march 3 1978  11:09 am

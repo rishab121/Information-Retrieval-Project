@@ -21,11 +21,4 @@ truncation error integration algorithm
 
 5.11 5.16
 
-ca681107 jb february 21 1978  245 pm
-
-1672	4	1672
-1672	5	1672
-1672	5	1672
-1672	5	1672
-1784	5	1672
-
+ca681107 jb february 21 1978  2:45 pm

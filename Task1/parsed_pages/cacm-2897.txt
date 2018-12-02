@@ -35,9 +35,4 @@ optimization optimization techniques data flow analysis
 
 4.12 4.13 4.22
 
-ca771203 jb february 1 1980  354 am
-
-2897	5	2897
-2897	5	2897
-2897	5	2897
-
+ca771203 jb february 1 1980  3:54 am

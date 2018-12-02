@@ -29,9 +29,4 @@ cacm january 1967
 
 aigner d j
 
-ca670104 jb march 1 1978  858 am
-
-1651	5	1651
-1651	5	1651
-1651	5	1651
-
+ca670104 jb march 1 1978  8:58 am

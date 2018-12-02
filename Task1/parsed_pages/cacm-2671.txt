@@ -11,9 +11,4 @@ memories interleaving derangements rencontres combinatorial analysis
 
 5.39 6.34
 
-ca740312 jb january 18 1978  1054 am
-
-2671	5	2671
-2671	5	2671
-2671	5	2671
-
+ca740312 jb january 18 1978  10:54 am

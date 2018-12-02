@@ -25,12 +25,4 @@ error control inherent error control run-time error estimates error estimates
 
 5.11 5.12
 
-ca720407 jb january 31 1978  1259 pm
-
-2366	4	2366
-2364	5	2366
-2366	5	2366
-2366	5	2366
-2366	5	2366
-2366	6	2366
-
+ca720407 jb january 31 1978  12:59 pm

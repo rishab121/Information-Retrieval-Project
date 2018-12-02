@@ -22,13 +22,4 @@ processor in terconnection pattern
 
 4.32 5.25 5.31
 
-ca770409 jb december 29 1977  458 am
-
-2973	5	2973
-2973	5	2973
-2973	5	2973
-3156	5	2973
-2289	6	2973
-2973	6	2973
-3075	6	2973
-
+ca770409 jb december 29 1977  4:58 am

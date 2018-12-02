@@ -13,13 +13,4 @@ and computing medicine and health care
 
 2.11 2.12 3.34
 
-ca750511 jb january 9 1978  222 pm
-
-2756	4	2756
-3076	4	2756
-3179	4	2756
-2607	5	2756
-2756	5	2756
-2756	5	2756
-2756	5	2756
-
+ca750511 jb january 9 1978  2:22 pm

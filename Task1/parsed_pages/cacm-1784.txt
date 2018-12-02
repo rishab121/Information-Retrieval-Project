@@ -25,11 +25,4 @@ error coefficients integration analytical functions roundoff error
 
 5.11 5.16
 
-ca680110 jb february 23 1978  222 pm
-
-1672	5	1784
-1784	5	1784
-1784	5	1784
-1784	5	1784
-1784	6	1784
-
+ca680110 jb february 23 1978  2:22 pm

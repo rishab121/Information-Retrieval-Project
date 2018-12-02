@@ -33,9 +33,4 @@ and certification
 
 1.50 2.10 2.2
 
-ca750101 jb january 12 1978  1105 am
-
-2810	5	2810
-2810	5	2810
-2810	5	2810
-
+ca750101 jb january 12 1978  11:05 am

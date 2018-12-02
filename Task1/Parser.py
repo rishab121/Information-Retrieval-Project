@@ -31,14 +31,20 @@ class Parser:
             pre = bs.find('pre')
             pre_text = pre.get_text()
             self.text_data.append(pre_text)
-
+         
             # convert list to string
             self.text_data = u' '.join(self.text_data).encode('utf-8')
 
             # transformations
             if self.remove_punctuation:
                 self.remove_punctuation_in_data()
-
+            
+            if ' PM' in self.text_data:
+                pm_split = self.text_data.split(' PM')
+                self.text_data = pm_split[0] + ' PM'
+            elif ' AM' in self.text_data:
+                self.text_data = self.text_data.split(' AM')[0]
+                self.text_data += ' AM'
             if self.perform_casefolding:
                 self.text_data = self.text_data.lower()
 
@@ -46,12 +52,13 @@ class Parser:
             self.save_to_file(file)
 
     def remove_punctuation_in_data(self):
-        regex = r"(?!\d)[.,;](?!\d)"
-        regex2 = r"[(){}\"#~\[\]<>=:?!@&'|*]"
+        regex = r"(?!\d)[.,:;](?!\d)"
+        regex2 = r"[(){}\"#~\[\]<>=?!@&'|*]"
         regex3 = r"(?!\d|\w)[-/$](?!\d|\w)"
         self.text_data = re.sub(regex, "", self.text_data, 0)
         self.text_data = re.sub(regex2, "", self.text_data, 0)
         self.text_data = re.sub(regex3, "", self.text_data, 0)
+
 
     def save_to_file(self, file_name):
         file_name = file_name.replace('html', 'txt')

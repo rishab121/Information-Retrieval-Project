@@ -18,9 +18,4 @@ string transmission delimiters commas encoding of the integers
 
 3.57 3.81 5.6
 
-ca780408 dh february 26 1979  336 pm
-
-3108	5	3108
-3108	5	3108
-3108	5	3108
-
+ca780408 dh february 26 1979  3:36 pm

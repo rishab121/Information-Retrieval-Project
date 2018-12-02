@@ -28,11 +28,4 @@ activity project precedence relations
 
 3.57 5.32 8.3
 
-ca730505 jb january 24 1978  842 am
-
-2515	4	2515
-1723	5	2515
-2515	5	2515
-2515	5	2515
-2515	5	2515
-
+ca730505 jb january 24 1978  8:42 am

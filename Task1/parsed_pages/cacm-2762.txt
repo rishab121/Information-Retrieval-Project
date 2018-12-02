@@ -9,11 +9,4 @@ cacm may 1975
 piessens r
 mertens i
 
-ca750505 jb january 9 1978  237 pm
-
-2762	4	2762
-2521	5	2762
-2762	5	2762
-2762	5	2762
-2762	5	2762
-
+ca750505 jb january 9 1978  2:37 pm

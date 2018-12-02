@@ -16,9 +16,4 @@ cacm january 1964
 robbins d
 taylor w e
 
-ca640111 jb march 10 1978  514 am 
-
-1144	5	1144
-1144	5	1144
-1144	5	1144
-
+ca640111 jb march 10 1978  5:14 am

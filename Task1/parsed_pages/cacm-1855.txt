@@ -32,9 +32,4 @@ predictive analysis
 
 3.42 3.36
 
-ca690808 jb february 15 1978  524 pm
-
-1855	5	1855
-1855	5	1855
-1855	5	1855
-
+ca690808 jb february 15 1978  5:24 pm

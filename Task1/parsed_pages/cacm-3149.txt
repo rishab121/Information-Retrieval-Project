@@ -21,9 +21,4 @@ three-dimensional reconstruction
 
 3.2 3.6 8.2
 
-ca790605 dh august 22 1979  136 pm
-
-3149	5	3149
-3149	5	3149
-3149	5	3149
-
+ca790605 dh august 22 1979  1:36 pm

@@ -23,12 +23,4 @@ flow graphs algorithms compilers
 
 4.12 5.24
 
-ca760303 jb january 5 1978  833 am
-
-2877	5	2877
-2877	5	2877
-2877	5	2877
-3103	5	2877
-1860	6	2877
-2877	6	2877
-
+ca760303 jb january 5 1978  8:33 am

@@ -29,9 +29,4 @@ computer composition music theory formal languages probabilistic grammars
 
 3.44 3.65 5.23
 
-ca741104 jb january 16 1978  1035 am
-
-2580	5	2580
-2580	5	2580
-2580	5	2580
-
+ca741104 jb january 16 1978  10:35 am

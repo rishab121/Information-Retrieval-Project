@@ -12,9 +12,4 @@ integer programming change-making problem
 
 5.41
 
-ca720614 jb january 30 1978  355 pm
-
-2331	5	2331
-2331	5	2331
-2331	5	2331
-
+ca720614 jb january 30 1978  3:55 pm

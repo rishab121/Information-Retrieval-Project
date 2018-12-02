@@ -30,9 +30,4 @@ cacm july 1964
 belzer j
 goffman w
 
-ca640715 jb march 9 1978  755 pm
-
-1032	5	1032
-1032	5	1032
-1032	5	1032
-
+ca640715 jb march 9 1978  7:55 pm

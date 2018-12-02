@@ -7,9 +7,4 @@ cacm march 1960
 
 kanner h
 
-ca600302 jb march 22 1978  203 pm
-
-216	5	216
-216	5	216
-216	5	216
-
+ca600302 jb march 22 1978  2:03 pm

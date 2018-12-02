@@ -48,9 +48,4 @@ computer problem computer roll-in roll-out
 
 6.21
 
-ca691002 jb february 15 1978  352 pm
-
-1844	5	1844
-1844	5	1844
-1844	5	1844
-
+ca691002 jb february 15 1978  3:52 pm

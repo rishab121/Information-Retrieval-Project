@@ -13,9 +13,4 @@ cacm june 1958
 
 wegstein j h
 
-ca580602 jb march 22 1978  909 pm
-
-20	5	20
-20	5	20
-20	5	20
-
+ca580602 jb march 22 1978  9:09 pm

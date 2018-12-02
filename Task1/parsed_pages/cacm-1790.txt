@@ -12,9 +12,4 @@ equation roots function zeros
 
 5.15
 
-ca680103 jb february 23 1978  247 pm
-
-1790	5	1790
-1790	5	1790
-1790	5	1790
-
+ca680103 jb february 23 1978  2:47 pm

@@ -24,13 +24,4 @@ system operation time-sharing performance analysis
 
 2.40 4.30 4.32 6.20
 
-ca690111 jb february 20 1978  1137 am
-
-1938	5	1938
-1938	5	1938
-1938	5	1938
-2219	5	1938
-2344	5	1938
-1938	6	1938
-1938	6	1938
-
+ca690111 jb february 20 1978  11:37 am

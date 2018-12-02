@@ -11,9 +11,4 @@ date calendar
 
 5.9
 
-ca701006 jb february 10 1978  925 am
-
-1984	5	1984
-1984	5	1984
-1984	5	1984
-
+ca701006 jb february 10 1978  9:25 am

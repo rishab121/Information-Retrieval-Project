@@ -11,12 +11,4 @@ ising problem zero-one sequences
 
 5.39
 
-ca691013 jb february 15 1978  140 pm
-
-1833	5	1833
-1833	5	1833
-1833	5	1833
-2066	5	1833
-1833	6	1833
-1842	6	1833
-
+ca691013 jb february 15 1978  1:40 pm

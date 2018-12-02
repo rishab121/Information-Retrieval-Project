@@ -31,9 +31,4 @@ rule testing
 
 3.42
 
-ca690406 jb february 17 1978  425 pm
-
-1911	5	1911
-1911	5	1911
-1911	5	1911
-
+ca690406 jb february 17 1978  4:25 pm

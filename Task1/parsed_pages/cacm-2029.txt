@@ -11,9 +11,4 @@ exponential integral special functions rational chebyshev approximation
 
 5.12
 
-ca700708 jb february 10 1978  434 pm
-
-2029	5	2029
-2029	5	2029
-2029	5	2029
-
+ca700708 jb february 10 1978  4:34 pm

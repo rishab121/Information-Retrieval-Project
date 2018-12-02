@@ -7,9 +7,4 @@ cacm march 1964
 
 naur p
 
-ca640304 jb march 10 1978  339 am
-
-1127	5	1127
-1127	5	1127
-1127	5	1127
-
+ca640304 jb march 10 1978  3:39 am

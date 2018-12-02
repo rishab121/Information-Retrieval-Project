@@ -23,9 +23,4 @@ cacm june 1961
 
 bright h s
 
-ca610603 jb march 16 1978  1055 pm
-
-322	5	322
-322	5	322
-322	5	322
-
+ca610603 jb march 16 1978  10:55 pm

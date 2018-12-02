@@ -20,12 +20,4 @@ computer system performance evaluation cost/utilization system balance
 
 2.44
 
-ca770308 jb december 29 1977  641 am
-
-2705	4	2984
-2984	4	2984
-1908	5	2984
-2984	5	2984
-2984	5	2984
-2984	5	2984
-
+ca770308 jb december 29 1977  6:41 am

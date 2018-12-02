@@ -19,9 +19,4 @@ speed independent asynchronous petri net
 
 6.1 6.33
 
-ca730805 jb january 23 1978  1046 am
-
-2469	5	2469
-2469	5	2469
-2469	5	2469
-
+ca730805 jb january 23 1978  10:46 am

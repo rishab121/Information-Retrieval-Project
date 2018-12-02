@@ -36,9 +36,4 @@ control stream concurrent computers
 
 6.20 8.1
 
-ca781103 dh january 26 1979  1126 am
-
-3048	5	3048
-3048	5	3048
-3048	5	3048
-
+ca781103 dh january 26 1979  11:26 am

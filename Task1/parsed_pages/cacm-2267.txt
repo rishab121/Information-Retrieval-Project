@@ -20,14 +20,4 @@ languages philosophy of language design
 
 4.9 5.19
 
-ca721102 jb january 27 1978  239 pm
-
-2267	5	2267
-2267	5	2267
-2267	5	2267
-2647	5	2267
-2792	5	2267
-2267	6	2267
-2267	6	2267
-2647	6	2267
-
+ca721102 jb january 27 1978  2:39 pm

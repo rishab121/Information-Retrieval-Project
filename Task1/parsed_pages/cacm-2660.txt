@@ -11,11 +11,4 @@ parallelism polynomial root finding real zeros
 
 5.15
 
-ca740410 jb february 1 1978  1036 am
-
-2660	4	2660
-2266	5	2660
-2660	5	2660
-2660	5	2660
-2660	5	2660
-
+ca740410 jb february 1 1978  10:36 am

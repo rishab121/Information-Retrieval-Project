@@ -15,9 +15,4 @@ integral formula chebyshev polynomials
 
 5.11 5.16
 
-ca690505 jb february 17 1978  344 pm
-
-1904	5	1904
-1904	5	1904
-1904	5	1904
-
+ca690505 jb february 17 1978  3:44 pm

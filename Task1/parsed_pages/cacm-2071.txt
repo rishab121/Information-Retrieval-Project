@@ -13,12 +13,4 @@ integration fourier coefficients fourier series
 
 5.16
 
-ca700413 jb february 13 1978  240 pm
-
-2071	5	2071
-2071	5	2071
-2071	5	2071
-2393	5	2071
-1858	6	2071
-2071	6	2071
-
+ca700413 jb february 13 1978  2:40 pm

@@ -11,9 +11,4 @@ binary variables dummy variables bit strings cross-tabulations
 
 4.9
 
-ca701214 jb february 9 1978  240 pm
-
-1950	5	1950
-1950	5	1950
-1950	5	1950
-
+ca701214 jb february 9 1978  2:40 pm

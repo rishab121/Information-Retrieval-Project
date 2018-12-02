@@ -22,9 +22,4 @@ cacm december 1960
 moore c j
 lewis t s
 
-ca601212 jb march 20 1978  627 pm
-
-104	5	104
-104	5	104
-104	5	104
-
+ca601212 jb march 20 1978  6:27 pm

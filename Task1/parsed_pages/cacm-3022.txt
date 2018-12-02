@@ -24,17 +24,4 @@ programs affirmative action teaching loads salaries publications
 
 1.52 1.53 2.2 2.3
 
-ca780201 jb march 28 1978  511 pm
-
-3022	4	3022
-3123	4	3022
-2823	5	3022
-3022	5	3022
-3022	5	3022
-3022	5	3022
-3123	5	3022
-2823	6	3022
-2861	6	3022
-2962	6	3022
-3022	6	3022
-
+ca780201 jb march 28 1978  5:11 pm

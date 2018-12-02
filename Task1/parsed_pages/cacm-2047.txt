@@ -22,9 +22,4 @@ shifts symmetric tridiagonal matrix
 
 5.14
 
-ca700608 jb february 13 1978  1102 am
-
-2047	5	2047
-2047	5	2047
-2047	5	2047
-
+ca700608 jb february 13 1978  11:02 am

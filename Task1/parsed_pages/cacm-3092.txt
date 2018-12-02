@@ -36,9 +36,4 @@ aids management and technical issues
 
 3.50 4.6
 
-ca780605 dh february 26 1979  1159 am
-
-3092	5	3092
-3092	5	3092
-3092	5	3092
-
+ca780605 dh february 26 1979  11:59 am

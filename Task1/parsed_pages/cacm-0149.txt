@@ -10,9 +10,4 @@ cacm september 1960
 dickson j c
 frederick f p
 
-ca600908 jb march 20 1978  843 pm
-
-149	5	149
-149	5	149
-149	5	149
-
+ca600908 jb march 20 1978  8:43 pm

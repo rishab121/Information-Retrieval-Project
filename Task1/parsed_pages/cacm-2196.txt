@@ -40,9 +40,4 @@ salesman problem
 
 3.57 3.66 5.30
 
-ca710503 jb february 3 1978  300 pm
-
-2196	5	2196
-2196	5	2196
-2196	5	2196
-
+ca710503 jb february 3 1978  3:00 pm

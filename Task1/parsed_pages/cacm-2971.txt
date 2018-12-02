@@ -33,18 +33,4 @@ programming language design teaching programming in troductory computing
 
 1.5 4.2 4.12 4.13
 
-ca770501 jb december 29 1977  440 am
-
-2708	4	2971
-2820	4	2971
-2971	4	2971
-2971	4	2971
-2971	4	2971
-3045	4	2971
-1835	5	2971
-1974	5	2971
-2534	5	2971
-2971	5	2971
-2971	5	2971
-2971	5	2971
-
+ca770501 jb december 29 1977  4:40 am

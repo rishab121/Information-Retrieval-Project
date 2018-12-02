@@ -6,9 +6,4 @@ recorded magnetic tape for information interchange
 
 cacm april 1966
 
-ca660407 jb march 3 1978  1039 am
-
-1442	5	1442
-1442	5	1442
-1442	5	1442
-
+ca660407 jb march 3 1978  10:39 am

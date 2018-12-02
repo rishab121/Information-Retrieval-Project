@@ -26,9 +26,4 @@ image processing pattern recognition edge detection
 
 3.63
 
-ca780210 jb march 28 1978  156 pm
-
-3013	5	3013
-3013	5	3013
-3013	5	3013
-
+ca780210 jb march 28 1978  1:56 pm

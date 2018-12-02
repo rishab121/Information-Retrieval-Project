@@ -26,12 +26,4 @@ program comparison certification validation
 
 5.10 5.17
 
-ca721101 jb january 27 1978  245 pm
-
-2268	5	2268
-2268	5	2268
-2268	5	2268
-2567	5	2268
-2268	6	2268
-755	6	2268
-
+ca721101 jb january 27 1978  2:45 pm

@@ -14,11 +14,4 @@ cacm february 1967
 
 ehrlich l w
 
-ca670209 jb february 28 1978  233 pm
-
-1633	4	1633
-1452	5	1633
-1633	5	1633
-1633	5	1633
-1633	5	1633
-
+ca670209 jb february 28 1978  2:33 pm

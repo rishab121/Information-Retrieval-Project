@@ -7,9 +7,4 @@ cacm may 1961
 
 baker f b
 
-ca610504 jb march 16 1978  1109 pm
-
-330	5	330
-330	5	330
-330	5	330
-
+ca610504 jb march 16 1978  11:09 pm

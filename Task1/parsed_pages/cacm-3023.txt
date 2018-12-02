@@ -26,9 +26,4 @@ sets virtual storage error handling
 
 6.0 6.21
 
-ca780107 jb march 28 1978  516 pm
-
-3023	5	3023
-3023	5	3023
-3023	5	3023
-
+ca780107 jb march 28 1978  5:16 pm

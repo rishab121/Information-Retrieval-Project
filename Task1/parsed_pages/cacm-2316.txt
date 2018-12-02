@@ -26,9 +26,4 @@ language history programming language future
 
 1.2 4.2
 
-ca720712 jb january 30 1978  138 pm
-
-2316	5	2316
-2316	5	2316
-2316	5	2316
-
+ca720712 jb january 30 1978  1:38 pm

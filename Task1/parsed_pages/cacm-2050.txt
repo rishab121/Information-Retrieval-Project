@@ -23,14 +23,4 @@ information retrieval language analysis text processing
 
 3.42 3.71
 
-ca700605 jb february 13 1978  1143 am
-
-1350	4	2050
-1659	4	2050
-1856	4	2050
-2050	4	2050
-1225	5	2050
-2050	5	2050
-2050	5	2050
-2050	5	2050
-
+ca700605 jb february 13 1978  11:43 am

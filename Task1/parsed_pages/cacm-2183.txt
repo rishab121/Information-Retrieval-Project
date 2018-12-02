@@ -11,12 +11,4 @@ summation binary summation floating-point addition round-off errors
 
 5.11
 
-ca710607 jb february 3 1978  950 am
-
-2183	4	2183
-2282	4	2183
-2049	5	2183
-2183	5	2183
-2183	5	2183
-2183	5	2183
-
+ca710607 jb february 3 1978  9:50 am

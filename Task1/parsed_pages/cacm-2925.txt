@@ -35,9 +35,4 @@ cost paths continuous tone displays
 
 5.25 5.32 8.2
 
-ca771001 jb december 27 1977  1240 pm
-
-2925	5	2925
-2925	5	2925
-2925	5	2925
-
+ca771001 jb december 27 1977  12:40 pm

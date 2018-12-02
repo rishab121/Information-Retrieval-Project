@@ -12,11 +12,4 @@ cacm december 1959
 
 wolfe p
 
-ca591203 jb march 22 1978  339 pm
-
-39	4	39
-16	5	39
-39	5	39
-39	5	39
-39	5	39
-
+ca591203 jb march 22 1978  3:39 pm

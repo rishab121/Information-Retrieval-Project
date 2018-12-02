@@ -13,9 +13,4 @@ simulation monte carlo
 
 3.17 5.5
 
-ca730112 jb january 24 1978  342 pm
-
-2549	5	2549
-2549	5	2549
-2549	5	2549
-
+ca730112 jb january 24 1978  3:42 pm

@@ -12,14 +12,4 @@ cacm october 1963
 weinberg g m
 gressett g l
 
-ca631007 jb march 13 1978  559 pm
-
-1053	5	718
-718	5	718
-718	5	718
-718	5	718
-435	6	718
-474	6	718
-718	6	718
-720	6	718
-
+ca631007 jb march 13 1978  5:59 pm

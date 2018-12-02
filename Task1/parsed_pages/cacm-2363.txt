@@ -11,11 +11,4 @@ spanning tree minimal spanning tree maximal spanning tree
 
 5.32
 
-ca720410 jb january 31 1978  1236 pm
-
-2363	5	2363
-2363	5	2363
-2363	5	2363
-2641	5	2363
-2363	6	2363
-
+ca720410 jb january 31 1978  12:36 pm

@@ -7,9 +7,4 @@ cacm june 1960
 
 galler g m
 
-ca600611 jb march 20 1978  935 pm
-
-179	5	179
-179	5	179
-179	5	179
-
+ca600611 jb march 20 1978  9:35 pm

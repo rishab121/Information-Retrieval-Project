@@ -25,13 +25,4 @@ codes n-gram encoding comparison of algorithms
 
 3.7 3.73 4.33
 
-ca761104 jb january 3 1978  326 pm
-
-2530	4	2819
-2623	4	2819
-2819	4	2819
-2537	5	2819
-2819	5	2819
-2819	5	2819
-2819	5	2819
-
+ca761104 jb january 3 1978  3:26 pm

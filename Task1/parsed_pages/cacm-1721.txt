@@ -30,9 +30,4 @@ stationary points runge kutta stable singularity unstable singularity
 
 2.0 3.10 3.20 3.50 5.10
 
-ca680708 jb february 22 1978  1151 am
-
-1721	5	1721
-1721	5	1721
-1721	5	1721
-
+ca680708 jb february 22 1978  11:51 am

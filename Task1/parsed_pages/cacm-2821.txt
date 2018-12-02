@@ -23,12 +23,4 @@ cobol structured programmingsoftware development program standards
 
 3.5 4.22 4.43
 
-ca761102 jb january 3 1978  343 pm
-
-2821	4	2821
-3121	4	2821
-2709	5	2821
-2821	5	2821
-2821	5	2821
-2821	5	2821
-
+ca761102 jb january 3 1978  3:43 pm

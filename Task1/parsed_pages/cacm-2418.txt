@@ -11,9 +11,4 @@ students t statistic density function series approximation
 
 5.12 5.5
 
-ca731108 jb january 20 1978  1001 am
-
-2418	5	2418
-2418	5	2418
-2418	5	2418
-
+ca731108 jb january 20 1978  10:01 am

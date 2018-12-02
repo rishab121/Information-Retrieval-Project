@@ -39,9 +39,4 @@ models on-line simulation simulation
 
 3.12 3.19 3.29 3.65
 
-ca680906 jb february 22 1978  856 am
-
-1695	5	1695
-1695	5	1695
-1695	5	1695
-
+ca680906 jb february 22 1978  8:56 am

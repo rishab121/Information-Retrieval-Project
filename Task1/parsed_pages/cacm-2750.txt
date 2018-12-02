@@ -34,9 +34,4 @@ storage allocation analysis
 
 3.5 3.9 6.2
 
-ca750603 jb january 9 1978  131 pm
-
-2750	5	2750
-2750	5	2750
-2750	5	2750
-
+ca750603 jb january 9 1978  1:31 pm

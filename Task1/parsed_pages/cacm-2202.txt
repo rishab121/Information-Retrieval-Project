@@ -37,12 +37,4 @@ subroutine linkage execution speed
 
 6.2
 
-ca710403 jb february 3 1978  358 pm
-
-2202	4	2202
-2527	4	2202
-1542	5	2202
-2202	5	2202
-2202	5	2202
-2202	5	2202
-
+ca710403 jb february 3 1978  3:58 pm

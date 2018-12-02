@@ -7,11 +7,4 @@ cacm august 1958
 
 jeeves t a
 
-ca580802 jb march 22 1978  903 pm
-
-16	5	16
-16	5	16
-16	5	16
-39	5	16
-16	6	16
-
+ca580802 jb march 22 1978  9:03 pm

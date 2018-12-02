@@ -21,16 +21,4 @@ minimax approximation nonlinear approximation linear programming
 
 5.13 5.41
 
-ca700304 jb february 13 1978  452 pm
-
-1932	4	2094
-2094	4	2094
-1566	5	2094
-2094	5	2094
-2094	5	2094
-2094	5	2094
-2352	5	2094
-2353	5	2094
-2094	6	2094
-2094	6	2094
-
+ca700304 jb february 13 1978  4:52 pm

@@ -12,12 +12,4 @@ data compression picture processing
 
 3.63 5.30
 
-ca730310 jb january 24 1978  1025 am
-
-2142	4	2529
-2529	4	2529
-2231	5	2529
-2529	5	2529
-2529	5	2529
-2529	5	2529
-
+ca730310 jb january 24 1978  10:25 am

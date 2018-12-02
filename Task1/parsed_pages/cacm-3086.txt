@@ -25,9 +25,4 @@ decision tree programs lower bounds
 
 5.25 5.26 5.30 5.39
 
-ca780702 dh february 8 1979  346 pm
-
-3086	5	3086
-3086	5	3086
-3086	5	3086
-
+ca780702 dh february 8 1979  3:46 pm

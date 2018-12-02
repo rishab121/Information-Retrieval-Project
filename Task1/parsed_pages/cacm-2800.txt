@@ -30,9 +30,4 @@ strict stability
 
 5.17
 
-ca750111 jb january 12 1978  926 am
-
-2800	5	2800
-2800	5	2800
-2800	5	2800
-
+ca750111 jb january 12 1978  9:26 am

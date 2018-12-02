@@ -11,9 +11,4 @@ fishers f-distribution studentss t-distribution
 
 5.5
 
-ca690108 jb february 20 1978  1148 am
-
-1941	5	1941
-1941	5	1941
-1941	5	1941
-
+ca690108 jb february 20 1978  11:48 am

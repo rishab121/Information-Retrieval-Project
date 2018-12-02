@@ -25,14 +25,4 @@ synthesis three-dimensional modeling
 
 3.2 8.2
 
-ca750406 jb january 9 1978  359 pm
-
-2771	5	2771
-2771	5	2771
-2771	5	2771
-2827	5	2771
-3116	5	2771
-2751	6	2771
-2771	6	2771
-2771	6	2771
-
+ca750406 jb january 9 1978  3:59 pm

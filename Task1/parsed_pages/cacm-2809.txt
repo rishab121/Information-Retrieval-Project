@@ -22,9 +22,4 @@ cones vector latticeabsolute monotonic
 
 5.11 5.14
 
-ca750102 jb january 12 1978  1056 am
-
-2809	5	2809
-2809	5	2809
-2809	5	2809
-
+ca750102 jb january 12 1978  10:56 am

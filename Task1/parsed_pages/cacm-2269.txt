@@ -11,12 +11,4 @@ date calendar fortran statement function arithmetic statement function
 
 3.15 4.9 5.9
 
-ca721009 jb january 27 1978  247 pm
-
-2269	4	2269
-3115	4	2269
-2269	5	2269
-2269	5	2269
-2269	5	2269
-785	5	2269
-
+ca721009 jb january 27 1978  2:47 pm

@@ -32,9 +32,4 @@ eigenvalues graph bandwidth sparse matrix
 
 5.14 5.32
 
-ca740104 jb january 18 1978  231 pm
-
-2695	5	2695
-2695	5	2695
-2695	5	2695
-
+ca740104 jb january 18 1978  2:31 pm

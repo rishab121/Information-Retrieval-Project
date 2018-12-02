@@ -34,15 +34,4 @@ balanced trees zipfs law information retrieval
 
 3.74 5.25 5.39
 
-ca781110 dh january 25 1979  949 am
-
-3041	4	3041
-3041	4	3041
-3126	4	3041
-3176	4	3041
-2846	5	3041
-2905	5	3041
-3041	5	3041
-3041	5	3041
-3041	5	3041
-
+ca781110 dh january 25 1979  9:49 am

@@ -26,9 +26,4 @@ for error in solution bound for residual
 
 5.11 5.14
 
-ca750104 jb january 12 1978  1044 am
-
-2807	5	2807
-2807	5	2807
-2807	5	2807
-
+ca750104 jb january 12 1978  10:44 am

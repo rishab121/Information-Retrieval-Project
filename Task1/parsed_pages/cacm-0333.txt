@@ -9,11 +9,4 @@ bemer r w
 smith jr h j
 williams jr f a
 
-ca610501 jb march 16 1978  1114 pm
-
-333	4	333
-230	5	333
-333	5	333
-333	5	333
-333	5	333
-
+ca610501 jb march 16 1978  11:14 pm

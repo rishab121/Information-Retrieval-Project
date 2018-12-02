@@ -14,12 +14,4 @@ estimates error estimates special functions
 
 4.9 5.11 5.12
 
-ca720409 jb january 31 1978  1250 pm
-
-2364	4	2364
-2364	5	2364
-2364	5	2364
-2364	5	2364
-2366	5	2364
-2364	6	2364
-
+ca720409 jb january 31 1978  12:50 pm

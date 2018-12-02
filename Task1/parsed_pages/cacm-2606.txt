@@ -32,9 +32,4 @@ continued fractions program comparison
 
 5.17
 
-ca740902 jb january 17 1978  906 am
-
-2606	5	2606
-2606	5	2606
-2606	5	2606
-
+ca740902 jb january 17 1978  9:06 am

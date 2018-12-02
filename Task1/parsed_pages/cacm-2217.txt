@@ -45,9 +45,4 @@ intelligence problem-solving adaptive lisp multiple regression resolution
 
 3.62 3.64
 
-ca710204 jb february 8 1978  933 am
-
-2217	5	2217
-2217	5	2217
-2217	5	2217
-
+ca710204 jb february 8 1978  9:33 am

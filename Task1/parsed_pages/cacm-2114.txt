@@ -23,13 +23,4 @@ lists prime keyword parallel processing of lists
 
 3.70 3.73 3.74
 
-ca700201 jb february 14 1978  104 pm
-
-2114	5	2114
-2114	5	2114
-2114	5	2114
-2160	5	2114
-2688	5	2114
-2114	6	2114
-2114	6	2114
-
+ca700201 jb february 14 1978  1:04 pm

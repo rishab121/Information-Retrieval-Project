@@ -23,14 +23,4 @@ ordering network construction by computer
 
 5.32
 
-ca680706 jb february 22 1978  1207 pm
-
-1723	4	1723
-758	4	1723
-1723	5	1723
-1723	5	1723
-1723	5	1723
-2515	5	1723
-441	5	1723
-1723	6	1723
-
+ca680706 jb february 22 1978  12:07 pm

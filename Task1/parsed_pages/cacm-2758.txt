@@ -13,9 +13,4 @@ matrix inversion separable systems
 
 5.14
 
-ca750509 jb january 9 1978  226 pm
-
-2758	5	2758
-2758	5	2758
-2758	5	2758
-
+ca750509 jb january 9 1978  2:26 pm

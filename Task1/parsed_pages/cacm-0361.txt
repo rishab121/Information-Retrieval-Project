@@ -7,11 +7,4 @@ cacm april 1961
 
 weinberg g m
 
-ca610407 jb march 17 1978  1205 am
-
-361	4	361
-108	5	361
-361	5	361
-361	5	361
-361	5	361
-
+ca610407 jb march 17 1978  12:05 am

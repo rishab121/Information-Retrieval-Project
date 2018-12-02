@@ -29,9 +29,4 @@ interchange
 
 cacm april 1965
 
-ca650401 jb march 7 1978  410 pm
-
-1290	5	1290
-1290	5	1290
-1290	5	1290
-
+ca650401 jb march 7 1978  4:10 pm

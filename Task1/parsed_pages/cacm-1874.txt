@@ -31,9 +31,4 @@ complement arithmetic ibm 360 arithmetic
 
 3.15 5.5 6.32
 
-ca690706 jb february 17 1978  917 am
-
-1874	5	1874
-1874	5	1874
-1874	5	1874
-
+ca690706 jb february 17 1978  9:17 am

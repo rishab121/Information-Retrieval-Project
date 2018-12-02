@@ -28,11 +28,4 @@ debugging utility program programming languages
 
 4.42
 
-ca680607 jb february 22 1978  414 pm
-
-1738	4	1738
-1257	5	1738
-1738	5	1738
-1738	5	1738
-1738	5	1738
-
+ca680607 jb february 22 1978  4:14 pm

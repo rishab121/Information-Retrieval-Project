@@ -32,9 +32,4 @@ regional center consortium remote computing
 
 1.50 1.52 1.59 2.49
 
-ca690604 jb february 17 1978  1121 am
-
-1889	5	1889
-1889	5	1889
-1889	5	1889
-
+ca690604 jb february 17 1978  11:21 am

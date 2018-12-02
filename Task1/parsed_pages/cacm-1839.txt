@@ -14,9 +14,4 @@ least squares solution pseudoinverse
 
 5.14
 
-ca691007 jb february 15 1978  322 pm
-
-1839	5	1839
-1839	5	1839
-1839	5	1839
-
+ca691007 jb february 15 1978  3:22 pm

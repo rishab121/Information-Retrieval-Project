@@ -7,9 +7,4 @@ cacm october 1963
 
 gray m d
 
-ca631014 jb march 13 1978  550 pm
-
-711	5	711
-711	5	711
-711	5	711
-
+ca631014 jb march 13 1978  5:50 pm

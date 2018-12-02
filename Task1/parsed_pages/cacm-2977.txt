@@ -24,14 +24,4 @@ budgets stage theories stage hypothesis
 
 3.50 3.59
 
-ca770405 jb december 29 1977  512 am
-
-2977	4	2977
-2985	4	2977
-3011	4	2977
-3035	4	2977
-2485	5	2977
-2977	5	2977
-2977	5	2977
-2977	5	2977
-
+ca770405 jb december 29 1977  5:12 am

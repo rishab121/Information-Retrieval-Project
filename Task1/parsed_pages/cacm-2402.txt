@@ -39,9 +39,4 @@ x-ray crystallography interactive graphics
 
 3.13 3.17 3.63
 
-ca720101 jb february 1 1978  953 am
-
-2402	5	2402
-2402	5	2402
-2402	5	2402
-
+ca720101 jb february 1 1978  9:53 am

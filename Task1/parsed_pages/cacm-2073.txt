@@ -12,9 +12,4 @@ linear programming zero-one variables partial enumeration
 
 5.41
 
-ca700411 jb february 13 1978  243 pm
-
-2073	5	2073
-2073	5	2073
-2073	5	2073
-
+ca700411 jb february 13 1978  2:43 pm

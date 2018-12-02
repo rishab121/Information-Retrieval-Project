@@ -14,16 +14,4 @@ connectivity program optimization optimizing compiler
 
 4.12 5.32
 
-ca720812 jb january 30 1978  919 am
-
-1807	4	2290
-2034	4	2290
-2290	4	2290
-2579	4	2290
-2923	4	2290
-2945	4	2290
-1947	5	2290
-2290	5	2290
-2290	5	2290
-2290	5	2290
-
+ca720812 jb january 30 1978  9:19 am

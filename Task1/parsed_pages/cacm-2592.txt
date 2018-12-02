@@ -31,9 +31,4 @@ lp program evaluation lp program validation
 
 5.41
 
-ca741006 jb january 16 1978  1228 pm
-
-2592	5	2592
-2592	5	2592
-2592	5	2592
-
+ca741006 jb january 16 1978  12:28 pm

@@ -7,9 +7,4 @@ cacm july 1965
 
 bayer g
 
-ca650708 jb march 6 1978  858 pm
-
-1227	5	1227
-1227	5	1227
-1227	5	1227
-
+ca650708 jb march 6 1978  8:58 pm

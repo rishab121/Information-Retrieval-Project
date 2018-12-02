@@ -35,9 +35,4 @@ phillips jr w
 bahn a k
 miyasaki m
 
-ca620730 jb march 17 1978  751 pm
-
-531	5	531
-531	5	531
-531	5	531
-
+ca620730 jb march 17 1978  7:51 pm

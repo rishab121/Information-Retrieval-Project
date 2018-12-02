@@ -26,12 +26,4 @@ tapes storage space minimum access time
 
 3.70 3.73 3.74
 
-ca720902 jb january 27,1978  452 pm
-
-2288	5	2288
-2288	5	2288
-2288	5	2288
-2729	5	2288
-2288	6	2288
-2801	6	2288
-
+ca720902 jb january 27,1978  4:52 pm

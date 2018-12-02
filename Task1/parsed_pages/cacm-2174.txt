@@ -22,11 +22,4 @@ stable marriage problem university entrance
 
 5.30
 
-ca710708 jb february 2 1978  440 pm
-
-2174	4	2174
-2173	5	2174
-2174	5	2174
-2174	5	2174
-2174	5	2174
-
+ca710708 jb february 2 1978  4:40 pm

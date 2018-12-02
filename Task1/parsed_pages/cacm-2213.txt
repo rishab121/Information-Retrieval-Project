@@ -14,9 +14,4 @@ eigenvalues matrix roots pencil roots
 
 5.1 5.3
 
-ca710208 jb february 8 1978  837 am
-
-2213	5	2213
-2213	5	2213
-2213	5	2213
-
+ca710208 jb february 8 1978  8:37 am

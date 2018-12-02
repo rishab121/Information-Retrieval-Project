@@ -31,9 +31,4 @@ interpretation machine translation automatic abstracting
 
 3.42 3.49 3.63 3.70 3.71
 
-ca700202 jb february 14 1978  1257 pm 
-
-2113	5	2113
-2113	5	2113
-2113	5	2113
-
+ca700202 jb february 14 1978  12:57 pm

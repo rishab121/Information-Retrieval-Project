@@ -23,9 +23,4 @@ consecutive retrieval storage file records query redundancy key
 
 3.70 3.73 3.74
 
-ca750807 jb january 6 1978  434 pm
-
-2728	5	2728
-2728	5	2728
-2728	5	2728
-
+ca750807 jb january 6 1978  4:34 pm

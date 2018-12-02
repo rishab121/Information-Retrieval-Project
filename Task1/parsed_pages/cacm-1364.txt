@@ -15,11 +15,4 @@ bellman r
 buell j
 kalaba r
 
-ca661003 jb march 2 1978  408 pm
-
-1364	4	1364
-1280	5	1364
-1364	5	1364
-1364	5	1364
-1364	5	1364
-
+ca661003 jb march 2 1978  4:08 pm

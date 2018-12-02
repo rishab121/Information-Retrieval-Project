@@ -27,9 +27,4 @@ complexity predicate discovery
 
 3.36 3.61 3.62 3.66 3.70 5.32
 
-ca780507 dh february 26 1979  126 pm
-
-3100	5	3100
-3100	5	3100
-3100	5	3100
-
+ca780507 dh february 26 1979  1:26 pm

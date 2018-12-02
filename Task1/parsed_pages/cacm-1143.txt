@@ -31,9 +31,4 @@ cacm january 1964
 
 worsley b h
 
-ca640112 jb march 10 1978 511 am
-
-1143	5	1143
-1143	5	1143
-1143	5	1143
-
+ca640112 jb march 10 1978 5:11 am

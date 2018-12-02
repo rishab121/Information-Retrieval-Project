@@ -13,11 +13,4 @@ cacm october 1963
 
 dayhoff m o
 
-ca631026 jb march 13 1978  526 pm
-
-2633	5	699
-699	5	699
-699	5	699
-699	5	699
-699	6	699
-
+ca631026 jb march 13 1978  5:26 pm

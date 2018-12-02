@@ -14,9 +14,4 @@ perturbation matrix modification
 
 5.14
 
-ca680207 jb february 23 1978  1201 pm
-
-1775	5	1775
-1775	5	1775
-1775	5	1775
-
+ca680207 jb february 23 1978  12:01 pm

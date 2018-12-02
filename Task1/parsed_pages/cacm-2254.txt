@@ -31,12 +31,4 @@ language design array control blocks partition control blocks
 
 4.12 4.2 4.22
 
-ca721201 jb january 27 1978  120 pm
-
-2253	4	2254
-2254	4	2254
-2081	5	2254
-2254	5	2254
-2254	5	2254
-2254	5	2254
-
+ca721201 jb january 27 1978  1:20 pm

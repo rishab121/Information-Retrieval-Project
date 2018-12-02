@@ -20,15 +20,4 @@ linear functionals divided differences newtons interpolation formula
 
 5.13 5.16
 
-ca711208 jb february 2 1978  949 am
-
-2135	4	2135
-2135	4	2135
-2131	5	2135
-2135	5	2135
-2135	5	2135
-2135	5	2135
-2132	5	2135
-2135	6	2135
-2135	6	2135
-
+ca711208 jb february 2 1978  9:49 am

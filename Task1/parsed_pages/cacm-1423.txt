@@ -29,9 +29,4 @@ rust r
 burrus w r
 schneeberger c
 
-ca660514 jb march 3 1978  922 am
-
-1423	5	1423
-1423	5	1423
-1423	5	1423
-
+ca660514 jb march 3 1978  9:22 am

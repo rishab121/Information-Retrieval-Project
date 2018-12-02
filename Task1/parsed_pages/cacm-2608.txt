@@ -11,9 +11,4 @@ recurrence relations fresnel integral exponential integral
 
 5.12
 
-ca740816 jb january 17 1978  914 am
-
-2608	5	2608
-2608	5	2608
-2608	5	2608
-
+ca740816 jb january 17 1978  9:14 am

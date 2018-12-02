@@ -32,15 +32,4 @@ programming interaction graph secondary optimization problem
 
 3.63 3.66 5.42
 
-ca710504 jb february 3 1978  249 pm
-
-1663	4	2195
-2195	4	2195
-2679	4	2195
-1190	5	2195
-2195	5	2195
-2195	5	2195
-2195	5	2195
-2883	5	2195
-2195	6	2195
-
+ca710504 jb february 3 1978  2:49 pm

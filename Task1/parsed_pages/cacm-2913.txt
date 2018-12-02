@@ -26,15 +26,4 @@ filtering hidden-surface removal sampling
 
 8.2
 
-ca771103 jb december 27 1977  756 am
-
-2816	4	2913
-2828	4	2913
-2827	4	2913
-2913	4	2913
-3047	4	2913
-2751	5	2913
-2913	5	2913
-2913	5	2913
-2913	5	2913
-
+ca771103 jb december 27 1977  7:56 am

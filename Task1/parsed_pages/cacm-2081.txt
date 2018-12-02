@@ -28,14 +28,4 @@ sequence operations symbol manipulation
 
 4.12 4.22 5.14 5.41
 
-ca700403 jb february 13 1978  318 pm
-
-2081	5	2081
-2081	5	2081
-2081	5	2081
-2253	5	2081
-2254	5	2081
-2081	6	2081
-2081	6	2081
-437	6	2081
-
+ca700403 jb february 13 1978  3:18 pm

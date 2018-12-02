@@ -20,9 +20,4 @@ recurrence three-term recurrence five-term recurrence chebyshev series
 
 5.12
 
-ca731116 jb january 19 1978  416 pm
-
-2410	5	2410
-2410	5	2410
-2410	5	2410
-
+ca731116 jb january 19 1978  4:16 pm

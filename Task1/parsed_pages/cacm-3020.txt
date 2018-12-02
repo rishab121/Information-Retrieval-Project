@@ -28,11 +28,4 @@ procedure linkage procedure integration
 
 4.19 4.49 4.9 5.24
 
-ca780203 jb march 28 1978  426 pm
-
-3020	4	3020
-2953	5	3020
-3020	5	3020
-3020	5	3020
-3020	5	3020
-
+ca780203 jb march 28 1978  4:26 pm

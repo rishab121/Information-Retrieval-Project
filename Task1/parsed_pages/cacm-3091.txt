@@ -36,11 +36,4 @@ programmer productivity programming management cobol programming
 
 2.40 4.20
 
-ca780606 dh february 26 1979  1142 am
-
-3091	4	3091
-1792	5	3091
-3091	5	3091
-3091	5	3091
-3091	5	3091
-
+ca780606 dh february 26 1979  11:42 am

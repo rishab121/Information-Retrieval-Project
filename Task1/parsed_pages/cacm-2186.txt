@@ -32,9 +32,4 @@ splines regulator problem control theory numerical analysis
 
 5.1
 
-ca710604 jb february 3 1978  1012 am
-
-2186	5	2186
-2186	5	2186
-2186	5	2186
-
+ca710604 jb february 3 1978  10:12 am

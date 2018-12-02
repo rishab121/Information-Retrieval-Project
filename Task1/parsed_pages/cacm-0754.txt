@@ -7,11 +7,4 @@ cacm september 1963
 
 blatt j m
 
-ca630904 jb march 13 1978  741 pm
-
-754	4	754
-153	5	754
-754	5	754
-754	5	754
-754	5	754
-
+ca630904 jb march 13 1978  7:41 pm

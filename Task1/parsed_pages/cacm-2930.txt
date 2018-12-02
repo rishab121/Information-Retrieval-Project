@@ -20,9 +20,4 @@ admissions test development examinations
 
 1.5
 
-ca770903 jb december 27 1977  132 pm
-
-2930	5	2930
-2930	5	2930
-2930	5	2930
-
+ca770903 jb december 27 1977  1:32 pm

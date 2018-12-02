@@ -21,14 +21,4 @@ serial files storage allocation reorganization partitioned dataset
 
 3.5 3.7 4.33 4.6
 
-ca790208 dh april 12 1979  1034 am
-
-2816	4	3129
-3129	4	3129
-3129	4	3129
-2493	5	3129
-2816	5	3129
-3129	5	3129
-3129	5	3129
-3129	5	3129
-
+ca790208 dh april 12 1979  10:34 am

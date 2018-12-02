@@ -22,9 +22,4 @@ file allocation computer networks distributed data management
 
 4.33
 
-ca771116 jb december 27 1977  845 am
-
-2900	5	2900
-2900	5	2900
-2900	5	2900
-
+ca771116 jb december 27 1977  8:45 am

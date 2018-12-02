@@ -26,9 +26,4 @@ uniform distribution
 
 4.4 4.6 5.25
 
-ca780704 dh february 7 1979  450 pm
-
-3084	5	3084
-3084	5	3084
-3084	5	3084
-
+ca780704 dh february 7 1979  4:50 pm

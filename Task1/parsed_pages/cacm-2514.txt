@@ -22,9 +22,4 @@ picture grammars array grammars
 
 3.63 5.23 8.2
 
-ca730506 jb january 23 1978  449 pm
-
-2514	5	2514
-2514	5	2514
-2514	5	2514
-
+ca730506 jb january 23 1978  4:49 pm

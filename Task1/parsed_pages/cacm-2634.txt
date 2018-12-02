@@ -21,9 +21,4 @@ correlation regression factor analysis one-way analysis of variance
 
 1.3 3.30 4.19 4.22 4.49 5.5
 
-ca740612 jb january 17 1978  254 pm
-
-2634	5	2634
-2634	5	2634
-2634	5	2634
-
+ca740612 jb january 17 1978  2:54 pm

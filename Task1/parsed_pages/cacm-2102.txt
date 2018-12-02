@@ -11,12 +11,4 @@ nonlinear least squares fit
 
 5.15
 
-ca700213 jb february 14 1978 949 pm
-
-2101	4	2102
-2102	4	2102
-1639	5	2102
-2102	5	2102
-2102	5	2102
-2102	5	2102
-
+ca700213 jb february 14 1978 9:49 pm

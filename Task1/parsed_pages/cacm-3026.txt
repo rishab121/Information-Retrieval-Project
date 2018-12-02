@@ -30,9 +30,4 @@ end user facilities executive control software
 
 1.3 4.0 4.20 4.30 4.32 4.33 4.35 6.0 6.21 6.30
 
-ca780104 jb march 28 1978  538 pm
-
-3026	5	3026
-3026	5	3026
-3026	5	3026
-
+ca780104 jb march 28 1978  5:38 pm

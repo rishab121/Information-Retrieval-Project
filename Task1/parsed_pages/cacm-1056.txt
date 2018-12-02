@@ -7,9 +7,4 @@ cacm june 1964
 
 batty m a
 
-ca640611 jb march 9 1978  930 pm
-
-1056	5	1056
-1056	5	1056
-1056	5	1056
-
+ca640611 jb march 9 1978  9:30 pm

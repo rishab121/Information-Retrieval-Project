@@ -14,11 +14,4 @@ systems linear equations exchange algorithm
 
 5.13 5.14 5.41
 
-ca680611 jb february 22 1978  401 pm
-
-1734	5	1734
-1734	5	1734
-1734	5	1734
-2143	5	1734
-1734	6	1734
-
+ca680611 jb february 22 1978  4:01 pm

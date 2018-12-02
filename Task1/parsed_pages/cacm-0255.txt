@@ -7,9 +7,4 @@ cacm november 1961
 
 breed l m
 
-ca611113 jb march 15 1978  1045 pm
-
-255	5	255
-255	5	255
-255	5	255
-
+ca611113 jb march 15 1978  10:45 pm

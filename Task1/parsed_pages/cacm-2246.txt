@@ -24,9 +24,4 @@ independent macro processor efficiency
 
 4.12 4.21 4.22
 
-ca721209 jb january 27 1978  1102 am
-
-2246	5	2246
-2246	5	2246
-2246	5	2246
-
+ca721209 jb january 27 1978  11:02 am

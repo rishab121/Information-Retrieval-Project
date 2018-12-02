@@ -5,9 +5,4 @@ glossary of computer engineering and programming terminology
 
 cacm august 1958
 
-ca580805 jb march 22 1978  857 pm
-
-13	5	13
-13	5	13
-13	5	13
-
+ca580805 jb march 22 1978  8:57 pm

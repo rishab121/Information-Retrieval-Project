@@ -24,12 +24,4 @@ longest common subsequence efficient algorithms
 
 3.73 3.63 5.25
 
-ca770509 jb december 29 1977  146 am
-
-2963	4	2963
-3114	4	2963
-2745	5	2963
-2963	5	2963
-2963	5	2963
-2963	5	2963
-
+ca770509 jb december 29 1977  1:46 am

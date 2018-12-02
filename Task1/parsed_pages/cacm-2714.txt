@@ -27,17 +27,4 @@ parallel processing parallel merging parallel binary insertion
 
 5.31
 
-ca751005 jb january 6 1978  1050 am
-
-2714	4	2714
-3075	4	2714
-2664	5	2714
-2714	5	2714
-2714	5	2714
-2714	5	2714
-3075	5	2714
-2289	6	2714
-2557	6	2714
-2664	6	2714
-2714	6	2714
-
+ca751005 jb january 6 1978  10:50 am

@@ -29,16 +29,4 @@ mini-max backing-up procedure backing-up procedures
 
 3.60 3.64 3.66
 
-ca700302 jb february 14 1978  834 am
-
-1515	4	2096
-2096	4	2096
-2127	4	2096
-2210	4	2096
-1155	5	2096
-2096	5	2096
-2096	5	2096
-2096	5	2096
-2215	5	2096
-2096	6	2096
-
+ca700302 jb february 14 1978  8:34 am

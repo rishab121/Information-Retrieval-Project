@@ -35,9 +35,4 @@ education computer science forecast survey introduction
 
 1.0 1.3 2.1 3.24 4.0 6.20 6.30
 
-ca680401 jb february 23 1978  1136 am
-
-1769	5	1769
-1769	5	1769
-1769	5	1769
-
+ca680401 jb february 23 1978  11:36 am

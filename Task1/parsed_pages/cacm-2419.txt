@@ -12,11 +12,4 @@ eigenvalues qr algorithm
 
 5.14
 
-ca731107 jb january 20 1978  1003 am
-
-2419	5	2419
-2419	5	2419
-2419	5	2419
-2825	5	2419
-2419	6	2419
-
+ca731107 jb january 20 1978  10:03 am

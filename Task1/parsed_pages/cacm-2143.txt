@@ -13,11 +13,4 @@ approximation chebyshev approximation remex algorithm
 
 5.13
 
-ca711106 jb february 2 1978  1035 am
-
-2143	4	2143
-1734	5	2143
-2143	5	2143
-2143	5	2143
-2143	5	2143
-
+ca711106 jb february 2 1978  10:35 am

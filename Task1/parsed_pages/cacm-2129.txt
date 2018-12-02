@@ -17,16 +17,4 @@ recursive computation successive derivatives error propagation
 
 5.11 5.12
 
-ca700102 jb february 14 1978  218 pm
-
-2129	4	2129
-1449	5	2129
-2119	5	2129
-2129	5	2129
-2129	5	2129
-2129	5	2129
-2149	5	2129
-1023	6	2129
-2129	6	2129
-2129	6	2129
-
+ca700102 jb february 14 1978  2:18 pm

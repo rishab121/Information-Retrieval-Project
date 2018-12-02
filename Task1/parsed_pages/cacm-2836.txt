@@ -22,9 +22,4 @@ structural ambiguity combinatorial optimization
 
 5.23 5.49
 
-ca760903 jb january 4 1978  941 am
-
-2836	5	2836
-2836	5	2836
-2836	5	2836
-
+ca760903 jb january 4 1978  9:41 am

@@ -12,11 +12,4 @@ checkpoint random failure operations programming
 
 2.43 4.0
 
-ca740909 jb january 17 1978  842 am
-
-2599	5	2599
-2599	5	2599
-2599	5	2599
-3089	5	2599
-2599	6	2599
-
+ca740909 jb january 17 1978  8:42 am

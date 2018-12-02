@@ -12,13 +12,4 @@ linear programming dual simplex method primal problem dual problem
 
 5.41
 
-ca680616 jb february 22 1978315 pm
-
-1729	5	1729
-1729	5	1729
-1729	5	1729
-2784	5	1729
-1729	6	1729
-309	6	1729
-2783	6	1729
-
+ca680616 jb february 22 19783:15 pm

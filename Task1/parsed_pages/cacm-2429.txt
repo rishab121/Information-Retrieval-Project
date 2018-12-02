@@ -16,9 +16,4 @@ alternating-direction-implicit adi
 
 5.14 5.17
 
-ca731011 jb january 20 1978  1109 am
-
-2429	5	2429
-2429	5	2429
-2429	5	2429
-
+ca731011 jb january 20 1978  11:09 am

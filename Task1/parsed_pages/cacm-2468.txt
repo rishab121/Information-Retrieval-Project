@@ -12,9 +12,4 @@ function minimization rosenbrocks method
 
 5.19
 
-ca730806 jb january 23 1978  1043 am
-
-2468	5	2468
-2468	5	2468
-2468	5	2468
-
+ca730806 jb january 23 1978  10:43 am

@@ -18,11 +18,4 @@ points real-time algorithms on-line algorithms
 
 4.49 5.25 5.32
 
-ca790702 dh august 22 1979  207 pm
-
-3151	4	3151
-2997	5	3151
-3151	5	3151
-3151	5	3151
-3151	5	3151
-
+ca790702 dh august 22 1979  2:07 pm

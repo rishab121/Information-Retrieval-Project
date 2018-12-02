@@ -19,9 +19,4 @@ separate compilation binding linking strong typing
 
 4.10 4.22
 
-ca761108 jb january 3 1978  244 pm
-
-2815	5	2815
-2815	5	2815
-2815	5	2815
-
+ca761108 jb january 3 1978  2:44 pm

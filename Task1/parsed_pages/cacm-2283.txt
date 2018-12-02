@@ -26,9 +26,4 @@ triangular arrays image processing skeleton
 
 3.64
 
-ca720907 jb january 27 1978  425 pm
-
-2283	5	2283
-2283	5	2283
-2283	5	2283
-
+ca720907 jb january 27 1978  4:25 pm

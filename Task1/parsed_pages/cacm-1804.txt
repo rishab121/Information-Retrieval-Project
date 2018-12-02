@@ -12,15 +12,4 @@ drawing pictures shading enclosed regions
 
 4.9
 
-ca691208 jb february 15 1978  227 pm
-
-1804	4	1804
-1804	4	1804
-2987	4	1804
-2987	4	1804
-1804	5	1804
-1804	5	1804
-1804	5	1804
-421	5	1804
-524	5	1804
-
+ca691208 jb february 15 1978  2:27 pm

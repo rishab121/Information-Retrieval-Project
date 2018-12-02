@@ -31,11 +31,4 @@ operating systems control data corporation 6600 operating system with ecs
 
 4.30 4.32
 
-ca680506 jb february 23 1978  927 am
-
-1750	5	1750
-1750	5	1750
-1750	5	1750
-2988	5	1750
-1750	6	1750
-
+ca680506 jb february 23 1978  9:27 am

@@ -18,9 +18,4 @@ initial-boundary-value problem wave equation boundary-value technique
 
 5.15 5.17
 
-ca681106 jb february 21 1978  248 pm
-
-1673	5	1673
-1673	5	1673
-1673	5	1673
-
+ca681106 jb february 21 1978  2:48 pm

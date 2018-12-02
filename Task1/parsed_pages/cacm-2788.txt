@@ -13,15 +13,4 @@ picture processing pattern recognition curve detectionline fitting
 
 3.63
 
-ca750211 jb january 10 1978  915 am
-
-2788	4	2788
-2910	4	2788
-2400	5	2788
-2788	5	2788
-2788	5	2788
-2788	5	2788
-2910	5	2788
-2400	6	2788
-2788	6	2788
-
+ca750211 jb january 10 1978  9:15 am

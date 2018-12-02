@@ -13,11 +13,4 @@ direct product protection operator orthogonal matrix
 
 5.14 5.5
 
-ca691210 jb february 15 1978  223 pm
-
-1801	5	1802
-1802	5	1802
-1802	5	1802
-1802	5	1802
-1802	6	1802
-
+ca691210 jb february 15 1978  2:23 pm

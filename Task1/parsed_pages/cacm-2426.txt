@@ -13,9 +13,4 @@ plotting scaling for plotting
 
 4.41
 
-ca731014 jb january 20 1978  1101 am
-
-2426	5	2426
-2426	5	2426
-2426	5	2426
-
+ca731014 jb january 20 1978  11:01 am

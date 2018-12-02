@@ -17,15 +17,4 @@ subsequence longest common subsequence string correction editing
 
 3.63 3.73 3.79 4.22 5.25
 
-ca750608 jb january 9 1978  1256 pm
-
-2745	5	2745
-2745	5	2745
-2745	5	2745
-2963	5	2745
-3114	5	2745
-1502	6	2745
-2499	6	2745
-2745	6	2745
-2745	6	2745
-
+ca750608 jb january 9 1978  12:56 pm

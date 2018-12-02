@@ -12,14 +12,4 @@ query boolean expression information retrieval file organization
 
 3.53.70 3.73 3.74
 
-ca791001 db january 16 1980  450 pm
-
-3168	4	3168
-3168	4	3168
-3169	4	3168
-2965	5	3168
-3002	5	3168
-3168	5	3168
-3168	5	3168
-3168	5	3168
-
+ca791001 db january 16 1980  4:50 pm

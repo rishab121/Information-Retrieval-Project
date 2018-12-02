@@ -19,9 +19,4 @@ bellman r
 juncosa m l
 kalaba r
 
-ca610433 jb march 16 1978  1120 pm
-
-335	5	335
-335	5	335
-335	5	335
-
+ca610433 jb march 16 1978  11:20 pm

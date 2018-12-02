@@ -6,9 +6,4 @@ interchange proposed american standard
 
 cacm june 1966
 
-ca660607 jb march 3 1978  839 am
-
-1414	5	1414
-1414	5	1414
-1414	5	1414
-
+ca660607 jb march 3 1978  8:39 am

@@ -24,14 +24,4 @@ compression pattern recognition integral geometry
 
 3.63 5.30
 
-ca710103 jb february 8 1978  1233 pm
-
-2142	5	2231
-2231	5	2231
-2231	5	2231
-2231	5	2231
-2529	5	2231
-1929	6	2231
-2231	6	2231
-2231	6	2231
-
+ca710103 jb february 8 1978  12:33 pm

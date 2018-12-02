@@ -11,9 +11,4 @@ mapping function decision hierarchy table look-up
 
 4.9 5.39
 
-ca701113 jb february 9 1978  426 pm
-
-1966	5	1966
-1966	5	1966
-1966	5	1966
-
+ca701113 jb february 9 1978  4:26 pm

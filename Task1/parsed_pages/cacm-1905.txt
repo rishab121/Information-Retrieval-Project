@@ -25,11 +25,4 @@ round-off errors computational stability
 
 5.41
 
-ca690504 jb february 17 1978  349 pm
-
-1905	4	1905
-1744	5	1905
-1905	5	1905
-1905	5	1905
-1905	5	1905
-
+ca690504 jb february 17 1978  3:49 pm

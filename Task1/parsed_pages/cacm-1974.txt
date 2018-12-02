@@ -27,13 +27,4 @@ source documentation aid execution time usage data
 
 1.52 4.12 4.19 4.42
 
-ca701104 jb february 10 1978  840 am
-
-1974	5	1974
-1974	5	1974
-1974	5	1974
-2971	5	1974
-1835	6	1974
-1974	6	1974
-2534	6	1974
-
+ca701104 jb february 10 1978  8:40 am

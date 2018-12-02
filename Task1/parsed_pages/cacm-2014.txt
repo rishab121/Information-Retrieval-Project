@@ -11,9 +11,4 @@ function minimization relative minimum quasi-newton method
 
 5.15
 
-ca700807 jb february 10 1978  330 pm
-
-2014	5	2014
-2014	5	2014
-2014	5	2014
-
+ca700807 jb february 10 1978  3:30 pm

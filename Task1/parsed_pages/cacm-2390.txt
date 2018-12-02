@@ -31,11 +31,4 @@ utility information retrieval trees data structures
 
 1.0 1.1 1.59 2.10 3.15 3.32 3.50 3.51 3.70 3.71 3.74 3.9
 
-ca720201 jb february 1 1978  851 am
-
-2390	5	2390
-2390	5	2390
-2390	5	2390
-2519	5	2390
-2390	6	2390
-
+ca720201 jb february 1 1978  8:51 am

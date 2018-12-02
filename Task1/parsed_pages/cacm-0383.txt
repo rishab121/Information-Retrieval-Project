@@ -7,9 +7,4 @@ cacm february 1961
 
 caldwell t
 
-ca610215 jb march 17 1978  1249 am
-
-383	5	383
-383	5	383
-383	5	383
-
+ca610215 jb march 17 1978  12:49 am

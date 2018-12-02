@@ -7,9 +7,4 @@ cacm september 1960
 
 floyd r w
 
-ca600907 jb march 20 1978  844 pm
-
-150	5	150
-150	5	150
-150	5	150
-
+ca600907 jb march 20 1978  8:44 pm

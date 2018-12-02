@@ -7,9 +7,4 @@ standard code for information interchange proposed american standard
 
 cacm september 1965
 
-ca650902 jb march 6 1978  741 pm
-
-1204	5	1204
-1204	5	1204
-1204	5	1204
-
+ca650902 jb march 6 1978  7:41 pm

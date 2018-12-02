@@ -33,13 +33,4 @@ community information utilities social implications public policy
 
 2.1 2.3
 
-ca741202 jb january 16 1978  1002 am
-
-2572	5	2572
-2572	5	2572
-2572	5	2572
-3179	5	2572
-2572	6	2572
-2607	6	2572
-3076	6	2572
-
+ca741202 jb january 16 1978  10:02 am

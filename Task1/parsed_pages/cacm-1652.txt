@@ -29,9 +29,4 @@ cacm january 1967
 morenoff e
 mclean j b
 
-ca670103 jb march 1 1978  905 am
-
-1652	5	1652
-1652	5	1652
-1652	5	1652
-
+ca670103 jb march 1 1978  9:05 am

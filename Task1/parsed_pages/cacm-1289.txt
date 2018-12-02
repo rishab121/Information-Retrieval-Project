@@ -5,9 +5,4 @@ proposed revised american standard code for information interchange
 
 cacm april 1965
 
-ca650402 jb march 7 1978  403 pm
-
-1289	5	1289
-1289	5	1289
-1289	5	1289
-
+ca650402 jb march 7 1978  4:03 pm

@@ -29,9 +29,4 @@ cacm june 1964
 
 aronofsky j s
 
-ca640601 jb march 9 1978  955 pm
-
-1066	5	1066
-1066	5	1066
-1066	5	1066
-
+ca640601 jb march 9 1978  9:55 pm

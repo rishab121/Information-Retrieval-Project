@@ -11,11 +11,4 @@ graduate education ph production accreditation
 
 1.5 2.2 2.3
 
-ca730308 jb january 24 1978  1028 am
-
-2531	5	2531
-2531	5	2531
-2531	5	2531
-2662	5	2531
-2531	6	2531
-
+ca730308 jb january 24 1978  10:28 am

@@ -23,9 +23,4 @@ budea n
 kamena j g
 kamena r m
 
-ca650617 jb march 6 1978  949 pm
-
-1238	5	1238
-1238	5	1238
-1238	5	1238
-
+ca650617 jb march 6 1978  9:49 pm

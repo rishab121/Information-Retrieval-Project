@@ -13,9 +13,4 @@ software legal protection of software
 
 2.3 4.5
 
-ca760401 jb january 4 1978  442 pm
-
-2875	5	2875
-2875	5	2875
-2875	5	2875
-
+ca760401 jb january 4 1978  4:42 pm

@@ -28,11 +28,4 @@ packing minimum-area encasing rectangle
 
 5.19 5.49
 
-ca750705 jb january 9 1978  1008 am
-
-2737	5	2737
-2737	5	2737
-2737	5	2737
-2997	5	2737
-2737	6	2737
-
+ca750705 jb january 9 1978  10:08 am

@@ -31,9 +31,4 @@ store and forward message switching traffic control
 
 3.81 4.32
 
-ca770703 jb december 28 1977  1159 am
-
-2949	5	2949
-2949	5	2949
-2949	5	2949
-
+ca770703 jb december 28 1977  11:59 am

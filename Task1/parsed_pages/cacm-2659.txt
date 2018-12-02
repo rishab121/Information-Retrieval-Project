@@ -12,11 +12,4 @@ qualified references compilers
 
 4.12 4.22
 
-ca740411 jb february 1 1978  1034 am
-
-2659	4	2659
-2449	5	2659
-2659	5	2659
-2659	5	2659
-2659	5	2659
-
+ca740411 jb february 1 1978  10:34 am

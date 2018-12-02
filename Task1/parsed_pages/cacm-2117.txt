@@ -12,9 +12,4 @@ month year day representation coded
 
 3.70 3.73 3.74 3.9
 
-ca700114 jb february 14 1978  142 pm
-
-2117	5	2117
-2117	5	2117
-2117	5	2117
-
+ca700114 jb february 14 1978  1:42 pm

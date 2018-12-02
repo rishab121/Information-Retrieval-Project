@@ -29,11 +29,4 @@ service integration urban information systems
 
 2.11 3.53
 
-ca780607 dh february 12 1979  1101 am
-
-3090	5	3090
-3090	5	3090
-3090	5	3090
-3117	5	3090
-3090	6	3090
-
+ca780607 dh february 12 1979  11:01 am

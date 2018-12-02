@@ -7,9 +7,4 @@ cacm june 1964
 
 boothroyd j
 
-ca640607 jb march 9 1978  935 pm
-
-1060	5	1060
-1060	5	1060
-1060	5	1060
-
+ca640607 jb march 9 1978  9:35 pm

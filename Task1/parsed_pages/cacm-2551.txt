@@ -11,11 +11,4 @@ algol 60 mutual recursion compiler restrictions
 
 4.12 4.22
 
-ca730110 jb january 24 1978  346 pm
-
-2551	5	2551
-2551	5	2551
-2551	5	2551
-2658	5	2551
-2551	6	2551
-
+ca730110 jb january 24 1978  3:46 pm

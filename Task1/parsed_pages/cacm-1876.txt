@@ -17,12 +17,4 @@ orthogonal transformations positive eigenvalues
 
 5.1 5.14
 
-ca690704 jb february 17 1978  926 am
-
-1876	4	1876
-2099	4	1876
-1707	5	1876
-1876	5	1876
-1876	5	1876
-1876	5	1876
-
+ca690704 jb february 17 1978  9:26 am

@@ -12,9 +12,4 @@ generators length of state minimal-length generators orbit
 
 5.22
 
-ca700914 jb february 10 1978  954 am
-
-1991	5	1991
-1991	5	1991
-1991	5	1991
-
+ca700914 jb february 10 1978  9:54 am

@@ -11,11 +11,4 @@ data structures directed graphs uniform insertion
 
 4.34
 
-ca770407 jb december 29 1977  504 am
-
-2975	4	2975
-2594	5	2975
-2975	5	2975
-2975	5	2975
-2975	5	2975
-
+ca770407 jb december 29 1977  5:04 am

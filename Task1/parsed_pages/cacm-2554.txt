@@ -29,9 +29,4 @@ generalized eigenvalues symmetric band matrices
 
 5.14
 
-ca730107 jb january 24 1978  426 pm
-
-2554	5	2554
-2554	5	2554
-2554	5	2554
-
+ca730107 jb january 24 1978  4:26 pm

@@ -36,9 +36,4 @@ protection cryptography cryptology
 
 2.12 2.43 3.70 3.81 4.32 4.39
 
-ca740804 jb january 17 1978  1005 am
-
-2620	5	2620
-2620	5	2620
-2620	5	2620
-
+ca740804 jb january 17 1978  10:05 am

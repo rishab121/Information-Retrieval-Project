@@ -11,12 +11,4 @@ kuss g
 thompson h
 smith a o
 
-ca591005 jb march 22 1978  414 pm
-
-405	4	54
-54	4	54
-54	5	54
-54	5	54
-54	5	54
-93	5	54
-
+ca591005 jb march 22 1978  4:14 pm

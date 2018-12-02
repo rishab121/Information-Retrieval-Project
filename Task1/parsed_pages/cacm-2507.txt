@@ -16,9 +16,4 @@ inversion determinant adjoint matrix ill-condition
 
 3.5 5.14
 
-ca730513 jb january 23 1978  434 pm
-
-2507	5	2507
-2507	5	2507
-2507	5	2507
-
+ca730513 jb january 23 1978  4:34 pm

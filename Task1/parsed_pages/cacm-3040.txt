@@ -25,12 +25,4 @@ network consistency relaxation scene labeling search
 
 3.63 3.64 5.25 5.30 5.32
 
-ca781111 dh january 22 1979  343 pm
-
-1504	4	3040
-3040	4	3040
-1145	5	3040
-3040	5	3040
-3040	5	3040
-3040	5	3040
-
+ca781111 dh january 22 1979  3:43 pm

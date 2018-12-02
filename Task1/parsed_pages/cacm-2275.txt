@@ -26,9 +26,4 @@ constraints singular value analysis
 
 3.10 5.14 5.18 5.41
 
-ca721003 jb january 27 1978  337 pm
-
-2275	5	2275
-2275	5	2275
-2275	5	2275
-
+ca721003 jb january 27 1978  3:37 pm

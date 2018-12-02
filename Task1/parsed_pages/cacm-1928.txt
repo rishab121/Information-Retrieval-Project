@@ -34,15 +34,4 @@ scheduling queuing simultaneous activities parallel events
 
 4.22 4.29 6.9
 
-ca690210 jb february 20 1978  958 am
-
-1885	5	1928
-1928	5	1928
-1928	5	1928
-1928	5	1928
-2795	5	1928
-1928	6	1928
-1928	6	1928
-1989	6	1928
-2274	6	1928
-
+ca690210 jb february 20 1978  9:58 am

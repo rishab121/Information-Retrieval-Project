@@ -8,9 +8,4 @@ cacm december 1960
 price r a
 jardins p d
 
-ca601211 jb march 20 1978  628 pm
-
-105	5	105
-105	5	105
-105	5	105
-
+ca601211 jb march 20 1978  6:28 pm

@@ -22,15 +22,4 @@ automatic grading program programming exercises
 
 1.5 2.43 4.39
 
-ca690507 jb february 17 1978  335 pm
-
-1270	4	1902
-1413	4	1902
-1902	4	1902
-1902	4	1902
-145	5	1902
-1270	5	1902
-1902	5	1902
-1902	5	1902
-1902	5	1902
-
+ca690507 jb february 17 1978  3:35 pm

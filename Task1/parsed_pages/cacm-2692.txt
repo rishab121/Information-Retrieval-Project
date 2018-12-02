@@ -48,13 +48,4 @@ computer graphics hidden-surface clipping
 
 5.31 6.32 6.35
 
-ca740107 jb january 18 1978  204 pm
-
-2004	4	2692
-2687	4	2692
-2692	4	2692
-1915	5	2692
-2692	5	2692
-2692	5	2692
-2692	5	2692
-
+ca740107 jb january 18 1978  2:04 pm

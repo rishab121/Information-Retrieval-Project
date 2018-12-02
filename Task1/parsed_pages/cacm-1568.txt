@@ -16,9 +16,4 @@ cacm july,1967
 
 stineman r w
 
-ca670705 jb february 28 1978  859 am
-
-1568	5	1568
-1568	5	1568
-1568	5	1568
-
+ca670705 jb february 28 1978  8:59 am

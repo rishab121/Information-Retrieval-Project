@@ -7,11 +7,4 @@ cacm august 1962
 
 brenner j l
 
-ca620832 jb march 17 1978  910 pm
-
-1047	5	496
-496	5	496
-496	5	496
-496	5	496
-496	6	496
-
+ca620832 jb march 17 1978  9:10 pm

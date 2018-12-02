@@ -12,9 +12,4 @@ of fractional order spherical bessel functions
 
 5.12
 
-ca700710 jb february 10 1978  429 pm
-
-2027	5	2027
-2027	5	2027
-2027	5	2027
-
+ca700710 jb february 10 1978  4:29 pm

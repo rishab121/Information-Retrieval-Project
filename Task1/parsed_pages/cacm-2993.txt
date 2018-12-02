@@ -31,9 +31,4 @@ linear programming cycling queueing models
 
 5.41 5.9
 
-ca770208 jb december 30 1977  211 am
-
-2993	5	2993
-2993	5	2993
-2993	5	2993
-
+ca770208 jb december 30 1977  2:11 am

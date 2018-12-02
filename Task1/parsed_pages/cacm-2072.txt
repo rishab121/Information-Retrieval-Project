@@ -12,9 +12,4 @@ trapezoid values rectangle values error bound
 
 5.16
 
-ca700412 jb february 13 1978  242 pm
-
-2072	5	2072
-2072	5	2072
-2072	5	2072
-
+ca700412 jb february 13 1978  2:42 pm

@@ -11,9 +11,4 @@ hidden line problem computer graphics contour surface
 
 3.65 4.41 8.2
 
-ca740305 jb january 18 1978  1118 am
-
-2678	5	2678
-2678	5	2678
-2678	5	2678
-
+ca740305 jb january 18 1978  11:18 am

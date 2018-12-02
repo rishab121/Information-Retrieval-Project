@@ -27,13 +27,4 @@ cameron s h
 ewing d
 liveright m
 
-ca670603 jb february 28 1978  936 am
-
-1589	5	1589
-1589	5	1589
-1589	5	1589
-1978	5	1589
-1307	6	1589
-1589	6	1589
-1813	6	1589
-
+ca670603 jb february 28 1978  9:36 am

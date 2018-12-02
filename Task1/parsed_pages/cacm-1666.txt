@@ -13,12 +13,4 @@ linear programming zero-one variables partial enumeration
 
 5.41
 
-ca681113 jb february 21 1978  221 pm
-
-1666	5	1666
-1666	5	1666
-1666	5	1666
-2226	5	1666
-1658	6	1666
-1666	6	1666
-
+ca681113 jb february 21 1978  2:21 pm

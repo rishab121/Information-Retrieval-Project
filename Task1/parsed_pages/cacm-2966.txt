@@ -23,13 +23,4 @@ matching file searching best match nearest-neighbor classification
 
 3.73 3.74
 
-ca770506 jb december 29 1977  157 am
-
-2575	4	2966
-2966	4	2966
-3134	4	2966
-2524	5	2966
-2966	5	2966
-2966	5	2966
-2966	5	2966
-
+ca770506 jb december 29 1977  1:57 am

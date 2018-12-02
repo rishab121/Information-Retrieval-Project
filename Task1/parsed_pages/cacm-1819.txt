@@ -13,9 +13,4 @@ quadrature recursive computation
 
 5.12
 
-ca691111 jb february 15 1978  1213 pm
-
-1819	5	1819
-1819	5	1819
-1819	5	1819
-
+ca691111 jb february 15 1978  12:13 pm

@@ -12,9 +12,4 @@ three-term recurrences special functions
 
 5.12
 
-ca680615 jb february 22 1978  317 pm
-
-1730	5	1730
-1730	5	1730
-1730	5	1730
-
+ca680615 jb february 22 1978  3:17 pm

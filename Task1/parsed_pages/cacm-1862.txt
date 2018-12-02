@@ -38,11 +38,4 @@ chilean universities south american universities developing nations
 
 1.52 2.0 2.45
 
-ca690801 jb february 15 1978  621 pm
-
-1862	4	1862
-1349	5	1862
-1862	5	1862
-1862	5	1862
-1862	5	1862
-
+ca690801 jb february 15 1978  6:21 pm

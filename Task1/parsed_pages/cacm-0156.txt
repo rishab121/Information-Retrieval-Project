@@ -7,9 +7,4 @@ cacm september 1960
 
 rosin r f
 
-ca600901 jb march 20 1978  851 pm
-
-156	5	156
-156	5	156
-156	5	156
-
+ca600901 jb march 20 1978  8:51 pm

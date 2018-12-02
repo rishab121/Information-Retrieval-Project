@@ -28,11 +28,4 @@ boles j a
 rux p t
 weingarten jr f w
 
-ca660705 jb march 2 1978  935 pm
-
-1409	4	1409
-1208	5	1409
-1409	5	1409
-1409	5	1409
-1409	5	1409
-
+ca660705 jb march 2 1978  9:35 pm

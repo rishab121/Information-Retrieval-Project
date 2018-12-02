@@ -11,17 +11,4 @@ gamma function logarithmic derivative factorial function psi function
 
 5.12
 
-ca691212 jb february 15 1978  211 pm
-
-1800	4	1800
-1800	5	1800
-1800	5	1800
-1800	5	1800
-2222	5	1800
-871	5	1800
-970	6	1800
-1800	6	1800
-1818	6	1800
-1834	6	1800
-2042	6	1800
-
+ca691212 jb february 15 1978  2:11 pm

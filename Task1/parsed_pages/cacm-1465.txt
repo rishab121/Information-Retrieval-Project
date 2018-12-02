@@ -18,9 +18,4 @@ cacm march 1966
 
 naur p
 
-ca660307 jb march 3 1978  145 pm
-
-1465	5	1465
-1465	5	1465
-1465	5	1465
-
+ca660307 jb march 3 1978  1:45 pm

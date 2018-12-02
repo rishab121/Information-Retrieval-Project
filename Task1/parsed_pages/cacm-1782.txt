@@ -18,9 +18,4 @@ numerical integration fourier analysis integration
 
 5.16
 
-ca680112 jb february 23 1978  205 pm
-
-1782	5	1782
-1782	5	1782
-1782	5	1782
-
+ca680112 jb february 23 1978  2:05 pm

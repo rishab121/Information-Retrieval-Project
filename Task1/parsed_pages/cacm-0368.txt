@@ -7,9 +7,4 @@ cacm march 1961
 
 collinge r m
 
-ca610314 jb march 17 1978  1231 am
-
-368	5	368
-368	5	368
-368	5	368
-
+ca610314 jb march 17 1978  12:31 am

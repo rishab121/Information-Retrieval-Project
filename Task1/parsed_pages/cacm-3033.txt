@@ -34,12 +34,4 @@ dynamic programming branch-and-bound
 
 3.59 3.66 5.42 8.3
 
-ca781206 dh january 18 1979  356 pm
-
-3033	4	3033
-3113	4	3033
-2856	5	3033
-3033	5	3033
-3033	5	3033
-3033	5	3033
-
+ca781206 dh january 18 1979  3:56 pm

@@ -16,9 +16,4 @@ cacm march 1964
 
 forrington c v d
 
-ca640322 jb march 10 1978  208 am
-
-1110	5	1110
-1110	5	1110
-1110	5	1110
-
+ca640322 jb march 10 1978  2:08 am

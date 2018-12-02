@@ -23,9 +23,4 @@ conditions schedule school timetable timetable
 
 3.51 5.39
 
-ca740404 jb january 18 1978  1002 am
-
-2666	5	2666
-2666	5	2666
-2666	5	2666
-
+ca740404 jb january 18 1978  10:02 am

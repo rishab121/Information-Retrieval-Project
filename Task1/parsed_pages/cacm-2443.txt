@@ -7,11 +7,4 @@ cacm september 1973
 
 roy m k
 
-ca730912 jb january 23 1978  839 am
-
-2443	4	2443
-2443	5	2443
-2443	5	2443
-2443	5	2443
-747	5	2443
-
+ca730912 jb january 23 1978  8:39 am

@@ -20,9 +20,4 @@ cacm may 1966
 smith w g
 solomon jr m b
 
-ca660511 jb march 3 1978  942 am
-
-1426	5	1426
-1426	5	1426
-1426	5	1426
-
+ca660511 jb march 3 1978  9:42 am

@@ -16,9 +16,4 @@ cacm july 1964
 
 versteeg r l
 
-ca640704 jb march 9 1978  824 pm
-
-1043	5	1043
-1043	5	1043
-1043	5	1043
-
+ca640704 jb march 9 1978  8:24 pm

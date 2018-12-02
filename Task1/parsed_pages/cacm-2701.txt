@@ -32,9 +32,4 @@ path compression
 
 4.12 5.24 5.25 5.32
 
-ca751206 jb january 5 1978  408 pm
-
-2701	5	2701
-2701	5	2701
-2701	5	2701
-
+ca751206 jb january 5 1978  4:08 pm

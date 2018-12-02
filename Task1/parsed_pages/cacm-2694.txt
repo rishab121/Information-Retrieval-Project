@@ -11,11 +11,4 @@ legendre series chebyshev series
 
 5.13
 
-ca740105 jb january 18 1978  221 pm
-
-2694	4	2694
-1478	5	2694
-2694	5	2694
-2694	5	2694
-2694	5	2694
-
+ca740105 jb january 18 1978  2:21 pm

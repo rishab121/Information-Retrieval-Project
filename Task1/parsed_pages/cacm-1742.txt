@@ -26,9 +26,4 @@ graphical interaction remote displays
 
 2.44 6.22 6.29 6.35
 
-ca680603 jb february 22 1978  441 pm
-
-1742	5	1742
-1742	5	1742
-1742	5	1742
-
+ca680603 jb february 22 1978  4:41 pm

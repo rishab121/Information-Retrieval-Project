@@ -25,11 +25,4 @@ systems linear equationsexchange algorithm
 
 5.13 5.14 5.41
 
-ca680601 jb february 22 1978  450 pm
-
-1744	5	1744
-1744	5	1744
-1744	5	1744
-1905	5	1744
-1744	6	1744
-
+ca680601 jb february 22 1978  4:50 pm

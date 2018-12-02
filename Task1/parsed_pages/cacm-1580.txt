@@ -8,11 +8,4 @@ cacm june 1967
 hill i d
 joyce s a
 
-ca670607h jb march 23 1978  335 pm
-
-1580	5	1580
-1580	5	1580
-1580	5	1580
-2334	5	1580
-1580	6	1580
-
+ca670607h jb march 23 1978  3:35 pm

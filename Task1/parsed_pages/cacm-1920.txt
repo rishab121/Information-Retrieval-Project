@@ -11,18 +11,4 @@ f-test snedecor f-statistic fisher test distribution function
 
 5.5
 
-ca690307 jb february 20 1978  850 am
-
-1157	4	1920
-1779	4	1920
-1920	4	1920
-1920	4	1920
-1944	4	1920
-1987	4	1920
-2548	4	1920
-1778	5	1920
-1920	5	1920
-1920	5	1920
-1920	5	1920
-714	5	1920
-
+ca690307 jb february 20 1978  8:50 am

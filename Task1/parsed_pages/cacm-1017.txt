@@ -9,9 +9,4 @@ cacm august 1964
 bemer r w
 booth j
 
-ca640813 jb march 9 1978  645 pm
-
-1017	5	1017
-1017	5	1017
-1017	5	1017
-
+ca640813 jb march 9 1978  6:45 pm

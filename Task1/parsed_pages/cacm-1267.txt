@@ -20,9 +20,4 @@ trib in conjunction with the residual error rate
 
 cacm may 1965
 
-ca650504 jb march 7 1978  310 pm
-
-1267	5	1267
-1267	5	1267
-1267	5	1267
-
+ca650504 jb march 7 1978  3:10 pm

@@ -29,11 +29,4 @@ computers man-machine interaction
 
 3.63 3.81 4.32 4.41 6.35
 
-ca700601 jb february 13 1978  1212 pm
-
-2054	4	2054
-1544	5	2054
-2054	5	2054
-2054	5	2054
-2054	5	2054
-
+ca700601 jb february 13 1978  12:12 pm

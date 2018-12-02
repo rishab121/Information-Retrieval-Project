@@ -62,9 +62,4 @@ magna carta pseudotext signature simulation
 
 3.42 3.63 3.65 3.71
 
-ca710101 jb february 8 1978  115 pm
-
-2233	5	2233
-2233	5	2233
-2233	5	2233
-
+ca710101 jb february 8 1978  1:15 pm

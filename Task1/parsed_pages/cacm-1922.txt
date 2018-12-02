@@ -26,9 +26,4 @@ data link polling/selection procedures
 
 3.81 4.49 6.39
 
-ca690305 jb february 20 1978  909 am
-
-1922	5	1922
-1922	5	1922
-1922	5	1922
-
+ca690305 jb february 20 1978  9:09 am

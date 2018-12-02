@@ -13,12 +13,4 @@ zeros interpolation quadrature definite integrals
 
 5.13 5.16
 
-ca690506 jb february 17 1978  342 pm
-
-1903	5	1903
-1903	5	1903
-1903	5	1903
-2394	5	1903
-1872	6	1903
-1903	6	1903
-
+ca690506 jb february 17 1978  3:42 pm

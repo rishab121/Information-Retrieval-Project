@@ -14,9 +14,4 @@ formulas newton-raphson method stopping criterion
 
 5.11 5.15 5.17
 
-ca710906 jb february 2 1978  213 pm
-
-2158	5	2158
-2158	5	2158
-2158	5	2158
-
+ca710906 jb february 2 1978  2:13 pm

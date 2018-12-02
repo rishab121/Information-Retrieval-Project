@@ -22,9 +22,4 @@ lemniscate acceleration elliptic functions euler transformation
 
 1.2 5.0
 
-ca750103 jb january 12 1978  1051 am
-
-2808	5	2808
-2808	5	2808
-2808	5	2808
-
+ca750103 jb january 12 1978  10:51 am

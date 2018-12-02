@@ -12,9 +12,4 @@ numerical integration fourier coefficients filons method
 
 5.16
 
-ca691113 jb february 15 1978  1208 pm
-
-1817	5	1817
-1817	5	1817
-1817	5	1817
-
+ca691113 jb february 15 1978  12:08 pm

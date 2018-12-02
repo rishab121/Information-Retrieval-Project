@@ -14,12 +14,4 @@ linked representation maintenance costs
 
 3.02 3.50 3.51 3.73 3.74
 
-ca780909 dh january 29 1979  636 pm
-
-3058	4	3063
-3063	4	3063
-2978	5	3063
-3063	5	3063
-3063	5	3063
-3063	5	3063
-
+ca780909 dh january 29 1979  6:36 pm

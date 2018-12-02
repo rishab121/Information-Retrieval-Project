@@ -21,9 +21,4 @@ decentralized algorithms distributed systems operating systems
 
 4.32 4.35 5.25 5.32
 
-ca790502 dh june 5 1979  235 pm
-
-3141	5	3141
-3141	5	3141
-3141	5	3141
-
+ca790502 dh june 5 1979  2:35 pm

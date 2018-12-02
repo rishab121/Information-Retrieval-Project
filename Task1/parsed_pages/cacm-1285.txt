@@ -8,9 +8,4 @@ cacm april 1965
 
 businger p a
 
-ca650406 jb march 7 1978  355 pm
-
-1285	5	1285
-1285	5	1285
-1285	5	1285
-
+ca650406 jb march 7 1978  3:55 pm

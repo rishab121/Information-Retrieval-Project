@@ -28,9 +28,4 @@ scheduling device assignment
 
 2.44 4.35 5.15 5.5 6.35 8.1 8.3
 
-ca750904 jb january 6 1978  242 pm
-
-2720	5	2720
-2720	5	2720
-2720	5	2720
-
+ca750904 jb january 6 1978  2:42 pm

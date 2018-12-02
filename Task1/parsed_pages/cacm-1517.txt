@@ -31,11 +31,4 @@ naylor t h
 wertz k
 wonnacott t h
 
-ca671103 jb february 26 1978  315 pm
-
-1517	4	1517
-1435	5	1517
-1517	5	1517
-1517	5	1517
-1517	5	1517
-
+ca671103 jb february 26 1978  3:15 pm

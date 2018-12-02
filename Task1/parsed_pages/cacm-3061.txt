@@ -14,11 +14,4 @@ searching dynamic reordering simulation
 
 3.74 8.1
 
-ca780911 dh january 29 1979  630 pm
-
-3061	4	3061
-2885	5	3061
-3061	5	3061
-3061	5	3061
-3061	5	3061
-
+ca780911 dh january 29 1979  6:30 pm

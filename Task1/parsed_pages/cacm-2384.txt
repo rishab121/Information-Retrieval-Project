@@ -11,9 +11,4 @@ hidden-line plot surface plot
 
 4.9
 
-ca720207 jb january 31 1978  412 pm
-
-2384	5	2384
-2384	5	2384
-2384	5	2384
-
+ca720207 jb january 31 1978  4:12 pm

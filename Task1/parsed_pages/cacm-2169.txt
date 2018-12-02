@@ -24,14 +24,4 @@ polynomial manipulation interpreters translators
 
 4.13 4.29
 
-ca710803 jb february 2 1978  417 pm
-
-2167	5	2169
-2169	5	2169
-2169	5	2169
-2169	5	2169
-1379	6	2169
-1392	6	2169
-1393	6	2169
-2169	6	2169
-
+ca710803 jb february 2 1978  4:17 pm

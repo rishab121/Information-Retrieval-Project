@@ -30,11 +30,4 @@ signal setting vehicle road network list structure computer simulation
 
 3.57 3.23
 
-ca690603 jb february 17 1978  126 pm
-
-1890	4	1890
-1890	5	1890
-1890	5	1890
-1890	5	1890
-757	5	1890
-
+ca690603 jb february 17 1978  1:26 pm

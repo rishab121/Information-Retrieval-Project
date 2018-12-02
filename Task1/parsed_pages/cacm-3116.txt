@@ -26,14 +26,4 @@ representation polyhedral representation graphics polygons surfaces
 
 3.2 8.2
 
-ca790101 dh april 10 1979  1050 am
-
-2827	4	3116
-3116	4	3116
-2771	5	3116
-3116	5	3116
-3116	5	3116
-3116	5	3116
-3172	5	3116
-3116	6	3116
-
+ca790101 dh april 10 1979  10:50 am

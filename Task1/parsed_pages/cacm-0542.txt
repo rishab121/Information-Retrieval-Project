@@ -7,9 +7,4 @@ cacm july 1962
 
 relph a p
 
-ca620719 jb march 17 1978  818 pm
-
-542	5	542
-542	5	542
-542	5	542
-
+ca620719 jb march 17 1978  8:18 pm

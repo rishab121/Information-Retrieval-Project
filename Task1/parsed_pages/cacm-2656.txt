@@ -23,12 +23,4 @@ interpolation splines contouring curve fitting
 
 5.13 8.2
 
-ca740414 jb january 18 1978  923 am
-
-2656	4	2656
-2655	5	2656
-2656	5	2656
-2656	5	2656
-2656	5	2656
-2656	6	2656
-
+ca740414 jb january 18 1978  9:23 am

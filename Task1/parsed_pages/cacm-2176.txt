@@ -33,13 +33,4 @@ file item string merge sort seek time gamma distribution function
 
 4.41 5.31
 
-ca710706 jb february 3 1978  841 am
-
-1638	4	2176
-2176	4	2176
-2272	4	2176
-2176	5	2176
-2176	5	2176
-2176	5	2176
-677	5	2176
-
+ca710706 jb february 3 1978  8:41 am

@@ -12,11 +12,4 @@ selection minimal spanning trees
 
 3.63 5.39 5.5
 
-ca740605 jb january 17 1978  306 pm
-
-2641	4	2641
-2363	5	2641
-2641	5	2641
-2641	5	2641
-2641	5	2641
-
+ca740605 jb january 17 1978  3:06 pm

@@ -8,13 +8,4 @@ cacm may 1961
 bareiss e h
 fisherkeller m a
 
-ca610507 jb march 16 1978  1101 pm
-
-1667	5	327
-327	5	327
-327	5	327
-327	5	327
-178	6	327
-1242	6	327
-327	6	327
-
+ca610507 jb march 16 1978  11:01 pm

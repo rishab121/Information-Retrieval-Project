@@ -12,9 +12,4 @@ detection of common subexpressions
 
 4.12
 
-ca691217 jb february 15 1978  159 pm
-
-1795	5	1795
-1795	5	1795
-1795	5	1795
-
+ca691217 jb february 15 1978  1:59 pm

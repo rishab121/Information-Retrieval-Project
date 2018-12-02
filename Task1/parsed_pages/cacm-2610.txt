@@ -23,9 +23,4 @@ harmonic quadrature dirichlet problem
 
 5.13 5.16 5.17
 
-ca740814 jb january 17 1978  923 am
-
-2610	5	2610
-2610	5	2610
-2610	5	2610
-
+ca740814 jb january 17 1978  9:23 am

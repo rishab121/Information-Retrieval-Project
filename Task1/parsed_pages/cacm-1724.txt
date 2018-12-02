@@ -23,9 +23,4 @@ sort amphisbaenic
 
 5.31
 
-ca680705 jb february 22 1978  1212 pm
-
-1724	5	1724
-1724	5	1724
-1724	5	1724
-
+ca680705 jb february 22 1978  12:12 pm

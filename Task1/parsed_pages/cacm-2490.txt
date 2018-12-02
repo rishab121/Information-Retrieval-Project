@@ -23,11 +23,4 @@ graphsanalysis of algorithms graph manipulation
 
 5.32
 
-ca730610 jb january 23 1978  155 pm
-
-2490	4	2490
-2177	5	2490
-2490	5	2490
-2490	5	2490
-2490	5	2490
-
+ca730610 jb january 23 1978  1:55 pm

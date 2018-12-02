@@ -24,11 +24,4 @@ acyclic digraph database integrity network deadlock
 
 4.34 5.32 4.33
 
-ca790905 db january 14 1980  1156 am
-
-3164	4	3164
-1712	5	3164
-3164	5	3164
-3164	5	3164
-3164	5	3164
-
+ca790905 db january 14 1980  11:56 am

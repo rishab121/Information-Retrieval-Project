@@ -11,9 +11,4 @@ test matrix hilbert matrix
 
 5.14
 
-ca690716 jb february 15 1978  625 pm
-
-1864	5	1864
-1864	5	1864
-1864	5	1864
-
+ca690716 jb february 15 1978  6:25 pm

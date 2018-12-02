@@ -13,9 +13,4 @@ cacm july 1965
 rich r p
 stone a g
 
-ca650705 jb march 6 1978  903 pm
-
-1230	5	1230
-1230	5	1230
-1230	5	1230
-
+ca650705 jb march 6 1978  9:03 pm

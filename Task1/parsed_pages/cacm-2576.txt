@@ -12,9 +12,4 @@ programming data structures
 
 3.70 4.0 4.19 4.9
 
-ca741108 jb january 16 1978  1012 am
-
-2576	5	2576
-2576	5	2576
-2576	5	2576
-
+ca741108 jb january 16 1978  10:12 am

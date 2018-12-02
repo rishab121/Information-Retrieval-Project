@@ -25,11 +25,4 @@ terminal image processing pattern recognition
 
 4.41 6.35
 
-ca720403 jb january 31 1978  147 pm
-
-2370	4	2370
-1726	5	2370
-2370	5	2370
-2370	5	2370
-2370	5	2370
-
+ca720403 jb january 31 1978  1:47 pm

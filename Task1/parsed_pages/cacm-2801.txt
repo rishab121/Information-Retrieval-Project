@@ -26,12 +26,4 @@ binary-coded decimal digits decimal data storage
 
 6.32 6.34
 
-ca750110 jb january 12 1978  942 am
-
-2729	5	2801
-2801	5	2801
-2801	5	2801
-2801	5	2801
-2288	6	2801
-2801	6	2801
-
+ca750110 jb january 12 1978  9:42 am

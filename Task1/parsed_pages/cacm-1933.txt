@@ -24,9 +24,4 @@ pseudo-random number random number modular arithmetic
 uniform probability density uniform frequency 
 function simulation prime factorization primitive roots
 
-ca690205 jb february 20 1978  1107 am
-
-1933	5	1933
-1933	5	1933
-1933	5	1933
-
+ca690205 jb february 20 1978  11:07 am

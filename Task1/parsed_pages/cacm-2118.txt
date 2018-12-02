@@ -13,16 +13,4 @@ sortingminimal storage sorting digital computer sorting
 
 5.31
 
-ca700113 jb february 14 1978  143 pm
-
-1919	4	2118
-1969	4	2118
-2118	4	2118
-2348	4	2118
-2679	4	2118
-3054	4	2118
-1175	5	2118
-2118	5	2118
-2118	5	2118
-2118	5	2118
-
+ca700113 jb february 14 1978  1:43 pm

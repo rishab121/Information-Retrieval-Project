@@ -17,9 +17,4 @@ cacm october 1965
 rubenstein h
 goodenough j b
 
-ca651013 jb march 6 1978  629 pm
-
-1182	5	1182
-1182	5	1182
-1182	5	1182
-
+ca651013 jb march 6 1978  6:29 pm

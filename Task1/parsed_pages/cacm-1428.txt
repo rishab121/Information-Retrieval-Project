@@ -15,9 +15,4 @@ shubin h
 weil m h
 meagher p f
 
-ca660509 jb march 3 1978  949 am
-
-1428	5	1428
-1428	5	1428
-1428	5	1428
-
+ca660509 jb march 3 1978  9:49 am

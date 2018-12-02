@@ -27,9 +27,4 @@ statistical computer programs curve fitting
 
 4.0 4.40 5.0 5.5 5.10 5.13
 
-ca680805 jb february 22 1978  1052 am
-
-1709	5	1709
-1709	5	1709
-1709	5	1709
-
+ca680805 jb february 22 1978  10:52 am

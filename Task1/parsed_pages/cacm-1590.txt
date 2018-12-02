@@ -22,9 +22,4 @@ cacm june,1967
 
 reddy d r
 
-ca670602 jb february 28 1978  942 am
-
-1590	5	1590
-1590	5	1590
-1590	5	1590
-
+ca670602 jb february 28 1978  9:42 am

@@ -23,13 +23,4 @@ hasp os/360 dispatching scheduling modeling performance evaluation
 
 4.32 8.1
 
-ca741203 jb january 16 1978  951 am
-
-2571	4	2571
-3072	4	2571
-3119	4	2571
-2245	5	2571
-2571	5	2571
-2571	5	2571
-2571	5	2571
-
+ca741203 jb january 16 1978  9:51 am

@@ -27,14 +27,4 @@ latency scheduling shortest-latency-time-first
 
 4.31 4.41 6.35
 
-ca730604 jb january 23 1978  312 pm
-
-2496	5	2496
-2496	5	2496
-2496	5	2496
-2628	5	2496
-3097	5	2496
-2375	6	2496
-2496	6	2496
-2496	6	2496
-
+ca730604 jb january 23 1978  3:12 pm

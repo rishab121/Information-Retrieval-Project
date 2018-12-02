@@ -9,9 +9,4 @@ kailas m v
 
 binary-decimal conversion computer arithmetic categories
 
-ca700312 jb february 13 1978  341 pm
-
-2086	5	2086
-2086	5	2086
-2086	5	2086
-
+ca700312 jb february 13 1978  3:41 pm

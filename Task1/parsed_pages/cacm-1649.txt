@@ -19,11 +19,4 @@ cacm january 1967
 
 hassitt a
 
-ca670106 jb february 28 1978  441 pm
-
-1649	4	1649
-1053	5	1649
-1649	5	1649
-1649	5	1649
-1649	5	1649
-
+ca670106 jb february 28 1978  4:41 pm

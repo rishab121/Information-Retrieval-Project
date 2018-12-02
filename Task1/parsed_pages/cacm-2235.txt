@@ -11,9 +11,4 @@ decision table decision table translation
 
 4.19
 
-ca721220 jb january 27 1978  853 am
-
-2235	5	2235
-2235	5	2235
-2235	5	2235
-
+ca721220 jb january 27 1978  8:53 am

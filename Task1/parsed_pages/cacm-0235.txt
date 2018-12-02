@@ -7,9 +7,4 @@ cacm january 1960
 
 bagley p r
 
-ca600101 jb march 22 1978  230 pm
-
-235	5	235
-235	5	235
-235	5	235
-
+ca600101 jb march 22 1978  2:30 pm

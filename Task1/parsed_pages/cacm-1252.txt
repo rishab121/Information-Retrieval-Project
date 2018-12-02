@@ -18,9 +18,4 @@ cacm june 1965
 
 smith b w
 
-ca650603 jb march 7 1978  1241 pm
-
-1252	5	1252
-1252	5	1252
-1252	5	1252
-
+ca650603 jb march 7 1978  12:41 pm

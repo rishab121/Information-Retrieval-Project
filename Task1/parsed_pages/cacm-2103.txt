@@ -11,11 +11,4 @@ partitions restricted partitions sums of integers restricted sums
 
 5.39
 
-ca700212 jb february 14 1978  949 am
-
-2103	4	2103
-1218	5	2103
-2103	5	2103
-2103	5	2103
-2103	5	2103
-
+ca700212 jb february 14 1978  9:49 am

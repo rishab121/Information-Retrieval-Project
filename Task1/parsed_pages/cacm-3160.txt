@@ -29,9 +29,4 @@ cacm september 1979
 feldman j
 sutherland w
 
-ca790901 db january 14 1980  1005 am
-
-3160	5	3160
-3160	5	3160
-3160	5	3160
-
+ca790901 db january 14 1980  10:05 am

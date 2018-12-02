@@ -7,11 +7,4 @@ cacm november 1958
 
 muller m e
 
-ca581101 jb march 22 1978  833 pm
-
-6	5	6
-6	5	6
-6	5	6
-477	5	6
-6	6	6
-
+ca581101 jb march 22 1978  8:33 pm

@@ -12,9 +12,4 @@ plotting three-dimensional plotting
 
 4.41
 
-ca740906 jb january 17 1978  849 am
-
-2602	5	2602
-2602	5	2602
-2602	5	2602
-
+ca740906 jb january 17 1978  8:49 am

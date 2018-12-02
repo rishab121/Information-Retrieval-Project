@@ -20,9 +20,4 @@ tridiagonal gaussian elimination central difference
 
 5.14 5.17
 
-ca690407 jb february 17 1978  418 pm
-
-1910	5	1910
-1910	5	1910
-1910	5	1910
-
+ca690407 jb february 17 1978  4:18 pm

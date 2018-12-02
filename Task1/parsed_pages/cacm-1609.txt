@@ -28,12 +28,4 @@ cacm april 1967
 hall jr a d
 acton f s
 
-ca670406 jb february 28 1978  1122 am
-
-1609	4	1609
-2052	4	1609
-1013	5	1609
-1609	5	1609
-1609	5	1609
-1609	5	1609
-
+ca670406 jb february 28 1978  11:22 am

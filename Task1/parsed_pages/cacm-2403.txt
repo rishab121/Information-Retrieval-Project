@@ -12,9 +12,4 @@ spline spline approximation cubic natural spline
 
 5.13
 
-ca731205 jb january 19 1978  247 pm
-
-2403	5	2403
-2403	5	2403
-2403	5	2403
-
+ca731205 jb january 19 1978  2:47 pm

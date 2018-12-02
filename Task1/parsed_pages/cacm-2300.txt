@@ -28,9 +28,4 @@ algorithm legislative districts population units
 
 2.12 3.35 5.41
 
-ca720802 jb january 30 1978  1014 am
-
-2300	5	2300
-2300	5	2300
-2300	5	2300
-
+ca720802 jb january 30 1978  10:14 am

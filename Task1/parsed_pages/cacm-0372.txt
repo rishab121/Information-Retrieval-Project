@@ -7,9 +7,4 @@ cacm march 1961
 
 leavenworth b
 
-ca610310 jb march 17 1978  1236 am
-
-372	5	372
-372	5	372
-372	5	372
-
+ca610310 jb march 17 1978  12:36 am

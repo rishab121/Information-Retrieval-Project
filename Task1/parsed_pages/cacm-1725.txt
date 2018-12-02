@@ -40,9 +40,4 @@ access frequency proof retrieval theorem proof
 
 3.74 3.79 5.29 5.31 6.31 6.36
 
-ca680704 jb february 22 1978  1224 pm
-
-1725	5	1725
-1725	5	1725
-1725	5	1725
-
+ca680704 jb february 22 1978  12:24 pm

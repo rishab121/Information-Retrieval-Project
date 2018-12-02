@@ -14,11 +14,4 @@ cacm october 1963
 
  rossheim r j
 
-ca631004 jb march 13 1978  633 pm
-
-2961	5	721
-721	5	721
-721	5	721
-721	5	721
-721	6	721
-
+ca631004 jb march 13 1978  6:33 pm

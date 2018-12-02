@@ -12,9 +12,4 @@ orthogonal polynomials newtons method successive deflation
 
 5.16
 
-ca700813 jb february 10 1978  315 pm
-
-2008	5	2008
-2008	5	2008
-2008	5	2008
-
+ca700813 jb february 10 1978  3:15 pm

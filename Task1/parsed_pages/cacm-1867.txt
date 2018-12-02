@@ -22,12 +22,4 @@ generating function meromorphic function
 
 3.74 5.31
 
-ca690713 jb february 15 1978  637 pm
-
-1867	4	1867
-2272	4	1867
-1638	5	1867
-1867	5	1867
-1867	5	1867
-1867	5	1867
-
+ca690713 jb february 15 1978  6:37 pm

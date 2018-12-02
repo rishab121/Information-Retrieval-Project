@@ -14,9 +14,4 @@ cacm april 1965
 
 brown r m
 
-ca650412 jb march 7 1978  342 pm
-
-1279	5	1279
-1279	5	1279
-1279	5	1279
-
+ca650412 jb march 7 1978  3:42 pm

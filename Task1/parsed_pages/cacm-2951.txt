@@ -32,14 +32,4 @@ network anlytic modeling simulation benchmark jobs system measurement
 
 4.6 6.20 8.1
 
-ca770701 jb december 28 1977  1242 pm
-
-2629	4	2951
-2868	4	2951
-2928	4	2951
-2951	4	2951
-2380	5	2951
-2951	5	2951
-2951	5	2951
-2951	5	2951
-
+ca770701 jb december 28 1977  12:42 pm

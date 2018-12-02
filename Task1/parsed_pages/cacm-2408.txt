@@ -19,9 +19,4 @@ eigenvector-eigenvalue decomposition
 
 5.14 5.17
 
-ca731118 jb january 19 1978  328 pm
-
-2408	5	2408
-2408	5	2408
-2408	5	2408
-
+ca731118 jb january 19 1978  3:28 pm

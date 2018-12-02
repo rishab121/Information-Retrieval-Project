@@ -25,14 +25,4 @@ parallel computation parallel architecture
 
 4.2 4.21 4.22
 
-ca750303jb january 9 1978  457 pm
-
-2785	4	2785
-2785	4	2785
-2876	4	2785
-2433	5	2785
-2685	5	2785
-2785	5	2785
-2785	5	2785
-2785	5	2785
-
+ca750303jb january 9 1978  4:57 pm

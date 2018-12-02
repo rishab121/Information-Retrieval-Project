@@ -32,9 +32,4 @@ storage allocation tree graph
 
 3.70 3.73 3.74 5.32
 
-ca730702 jb january 23 1978  114 pm
-
-2484	5	2484
-2484	5	2484
-2484	5	2484
-
+ca730702 jb january 23 1978  1:14 pm

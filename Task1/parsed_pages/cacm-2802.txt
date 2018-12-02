@@ -29,13 +29,4 @@ stepwise refinement program correctness
 
 4.6 5.21 5.24
 
-ca750109 jb january 12 1978  950 am
-
-2709	4	2802
-2802	4	2802
-3004	4	2802
-1425	5	2802
-2802	5	2802
-2802	5	2802
-2802	5	2802
-
+ca750109 jb january 12 1978  9:50 am

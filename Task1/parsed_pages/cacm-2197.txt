@@ -34,9 +34,4 @@ remote computing shared computing
 
 1.52 2.11
 
-ca710502 jb february 3 1978  317 pm
-
-2197	5	2197
-2197	5	2197
-2197	5	2197
-
+ca710502 jb february 3 1978  3:17 pm

@@ -31,13 +31,4 @@ floating-point summation error analysis
 
 5.11 5.19
 
-ca711105 jb february 2 1978  1048 am
-
-1328	4	2144
-1333	4	2144
-2144	4	2144
-1052	5	2144
-2144	5	2144
-2144	5	2144
-2144	5	2144
-
+ca711105 jb february 2 1978  10:48 am

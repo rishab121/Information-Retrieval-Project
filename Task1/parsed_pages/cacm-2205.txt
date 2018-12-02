@@ -12,15 +12,4 @@ differential equations stiff differential equations
 
 5.17
 
-ca710307 jb february 3 1978  416 pm
-
-2205	4	2205
-2474	4	2205
-2205	5	2205
-2205	5	2205
-2205	5	2205
-2207	5	2205
-2474	5	2205
-2205	6	2205
-2207	6	2205
-
+ca710307 jb february 3 1978  4:16 pm

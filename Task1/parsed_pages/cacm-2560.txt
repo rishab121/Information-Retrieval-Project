@@ -22,9 +22,4 @@ multiprogrammed computer system storage system hierarchical index sets
 
 4.32
 
-ca730101 jb january 24 1978  455 pm
-
-2560	5	2560
-2560	5	2560
-2560	5	2560
-
+ca730101 jb january 24 1978  4:55 pm

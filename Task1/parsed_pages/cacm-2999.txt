@@ -24,9 +24,4 @@ for data structures computing techniques time series cross tabulation
 
 3.10 3.20 3.30 3.70 4.0
 
-ca770201 jb december 30 1977  312 am
-
-2999	5	2999
-2999	5	2999
-2999	5	2999
-
+ca770201 jb december 30 1977  3:12 am

@@ -8,11 +8,4 @@ cacm april 1963
 wolfson m l
 wright h v
 
-ca630403 jb march 14 1978  1229 pm
-
-2590	5	888
-888	5	888
-888	5	888
-888	5	888
-888	6	888
-
+ca630403 jb march 14 1978  12:29 pm

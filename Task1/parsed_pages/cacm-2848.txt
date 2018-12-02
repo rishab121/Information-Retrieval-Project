@@ -22,9 +22,4 @@ logical design system design specification language
 
 3.50 4.33
 
-ca760705 jb january 4 1978  1239 pm
-
-2848	5	2848
-2848	5	2848
-2848	5	2848
-
+ca760705 jb january 4 1978  12:39 pm

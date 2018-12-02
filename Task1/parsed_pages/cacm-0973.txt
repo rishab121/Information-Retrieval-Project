@@ -23,13 +23,4 @@ kagiwada h
 kalaba r
 selvester r
 
-ca641110 jb march 9 1978  400 pm
-
-973	5	973
-973	5	973
-973	5	973
-1278	5	973
-973	6	973
-1028	6	973
-1029	6	973
-
+ca641110 jb march 9 1978  4:00 pm

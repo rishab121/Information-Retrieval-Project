@@ -5,9 +5,4 @@ bendix g-20 system
 
 cacm may 1960
 
-ca600507 jb march 22 1978  128 pm
-
-190	5	190
-190	5	190
-190	5	190
-
+ca600507 jb march 22 1978  1:28 pm

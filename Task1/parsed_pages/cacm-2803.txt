@@ -15,9 +15,4 @@ pseudoinverse conjugate gradients hermitian matrix minimization
 
 5.14
 
-ca750108 jb january 12 1978  1008 am
-
-2803	5	2803
-2803	5	2803
-2803	5	2803
-
+ca750108 jb january 12 1978  10:08 am

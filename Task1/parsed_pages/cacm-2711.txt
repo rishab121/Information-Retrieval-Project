@@ -29,9 +29,4 @@ indexing content analysis document space
 
 3.71 3.73 3.74 3.75
 
-ca751101 jb january 6 1978  1014 am
-
-2711	5	2711
-2711	5	2711
-2711	5	2711
-
+ca751101 jb january 6 1978  10:14 am

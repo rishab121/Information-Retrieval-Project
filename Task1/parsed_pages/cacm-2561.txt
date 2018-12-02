@@ -25,13 +25,4 @@ inference inductive inference clustering fact retrieval heuristics
 
 3.61 3.71 3.79
 
-ca741213 jb january 13 1978  340 pm
-
-2178	4	2561
-2396	4	2561
-2561	4	2561
-2127	5	2561
-2561	5	2561
-2561	5	2561
-2561	5	2561
-
+ca741213 jb january 13 1978  3:40 pm

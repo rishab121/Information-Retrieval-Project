@@ -14,9 +14,4 @@ ansi fortran standard
 
 4.0 4.22
 
-ca721219 jb january 27 1978  856 am
-
-2236	5	2236
-2236	5	2236
-2236	5	2236
-
+ca721219 jb january 27 1978  8:56 am

@@ -6,9 +6,4 @@ and analysis-a standards working paper
 
 cacm june 1965
 
-ca650605 jb march 7 1978  1235 pm
-
-1250	5	1250
-1250	5	1250
-1250	5	1250
-
+ca650605 jb march 7 1978  12:35 pm

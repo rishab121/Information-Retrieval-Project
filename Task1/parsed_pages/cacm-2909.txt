@@ -12,9 +12,4 @@ syntactic description language extended bnf
 
 4.20
 
-ca771107 jb december 27 1977  720 am
-
-2909	5	2909
-2909	5	2909
-2909	5	2909
-
+ca771107 jb december 27 1977  7:20 am

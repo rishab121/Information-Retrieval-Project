@@ -12,9 +12,4 @@ object distributions combinations distribution numbers
 
 5.39
 
-ca680612 jb february 22 1978  358 pm
-
-1733	5	1733
-1733	5	1733
-1733	5	1733
-
+ca680612 jb february 22 1978  3:58 pm

@@ -7,9 +7,4 @@ cacm july 1962
 
 counts j w
 
-ca620709 jb march 17 1978  833 pm
-
-552	5	552
-552	5	552
-552	5	552
-
+ca620709 jb march 17 1978  8:33 pm

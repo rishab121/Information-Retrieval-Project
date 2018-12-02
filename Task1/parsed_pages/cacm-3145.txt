@@ -25,11 +25,4 @@ of programming testing programming proficiency
 
 3.51 1.52 2.42 4.22
 
-ca790601 dh august 21 1979 319 pm
-
-3145	4	3145
-2887	5	3145
-3145	5	3145
-3145	5	3145
-3145	5	3145
-
+ca790601 dh august 21 1979 3:19 pm

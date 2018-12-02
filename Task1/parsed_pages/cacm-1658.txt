@@ -24,14 +24,4 @@ programming zero-one variables algorithms
 
 5.39 5.41
 
-ca681208 jb february 21 1978  131 pm
-
-1658	4	1658
-1088	5	1658
-1658	5	1658
-1658	5	1658
-1658	5	1658
-2226	5	1658
-1658	6	1658
-1666	6	1658
-
+ca681208 jb february 21 1978  1:31 pm

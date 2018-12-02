@@ -13,11 +13,4 @@ cacm august 1961
 
 mackinson t n
 
-ca610804 jb march 16 1978  1012 pm
-
-300	5	300
-300	5	300
-300	5	300
-638	5	300
-300	6	300
-
+ca610804 jb march 16 1978  10:12 pm

@@ -11,9 +11,4 @@ partitionsnumber theory
 
 5.39
 
-ca700110 jb february 14 1978  148 pm
-
-2121	5	2121
-2121	5	2121
-2121	5	2121
-
+ca700110 jb february 14 1978  1:48 pm

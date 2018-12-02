@@ -8,11 +8,4 @@ cacm june 1959
 
 schecher h
 
-ca590605 jb march 22 1978  631 pm
-
-67	5	79
-79	5	79
-79	5	79
-79	5	79
-79	6	79
-
+ca590605 jb march 22 1978  6:31 pm

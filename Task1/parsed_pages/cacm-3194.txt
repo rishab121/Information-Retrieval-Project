@@ -14,11 +14,4 @@ dunham b
 fridshal r
 sward g l
 
-ca590102 es march 17 1982 1010 am
-
-204	5	3194
-3194	5	3194
-3194	5	3194
-3194	5	3194
-3194	6	3194
-
+ca590102 es march 17 1982 10:10 am

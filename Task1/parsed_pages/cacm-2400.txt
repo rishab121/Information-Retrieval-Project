@@ -23,14 +23,4 @@ transformation hough transformation
 
 3.63
 
-ca720103 jb february 1 1978  936 am
-
-2400	5	2400
-2400	5	2400
-2400	5	2400
-2788	5	2400
-2910	5	2400
-2400	6	2400
-2400	6	2400
-2788	6	2400
-
+ca720103 jb february 1 1978  9:36 am

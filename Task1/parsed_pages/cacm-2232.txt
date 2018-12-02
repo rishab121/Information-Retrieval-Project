@@ -35,9 +35,4 @@ linear pattern measures width functions
 
 3.60 3.62 3.63 5.12
 
-ca710102 jb february 8 1978  1249 pm
-
-2232	5	2232
-2232	5	2232
-2232	5	2232
-
+ca710102 jb february 8 1978  12:49 pm

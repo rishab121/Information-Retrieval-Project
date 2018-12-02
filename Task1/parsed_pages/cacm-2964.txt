@@ -12,9 +12,4 @@ optimization resident overflow storage
 
 3.73 3.74
 
-ca770508 jb december 29 1977  148 am
-
-2964	5	2964
-2964	5	2964
-2964	5	2964
-
+ca770508 jb december 29 1977  1:48 am

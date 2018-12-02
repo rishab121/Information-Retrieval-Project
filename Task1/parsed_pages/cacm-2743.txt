@@ -15,9 +15,4 @@ modeling computing models binary comparisons
 
 5.25 5.31
 
-ca750610 jb january 9 1978  1245 pm
-
-2743	5	2743
-2743	5	2743
-2743	5	2743
-
+ca750610 jb january 9 1978  12:45 pm

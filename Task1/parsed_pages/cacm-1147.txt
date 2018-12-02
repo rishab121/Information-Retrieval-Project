@@ -20,11 +20,4 @@ cacm january 1964
 day j t
 collins ii g w
 
-ca640108 jb march 10 1978  532 am
-
-1147	5	1147
-1147	5	1147
-1147	5	1147
-1274	5	1147
-1147	6	1147
-
+ca640108 jb march 10 1978  5:32 am

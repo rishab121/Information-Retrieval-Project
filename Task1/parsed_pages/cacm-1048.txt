@@ -17,9 +17,4 @@ cacm june 1964
 
 greenspan d
 
-ca640619 jb march 9 1978  855 pm
-
-1048	5	1048
-1048	5	1048
-1048	5	1048
-
+ca640619 jb march 9 1978  8:55 pm

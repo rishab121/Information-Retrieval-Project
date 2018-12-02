@@ -28,18 +28,4 @@ man/machine interaction man/machine communication computer-aided design
 
 4.40 4.41 4.49
 
-ca690402 jb february 17 1978  444 pm
-
-1915	5	1915
-1915	5	1915
-1915	5	1915
-2004	5	1915
-2687	5	1915
-2692	5	1915
-1686	6	1915
-1741	6	1915
-1915	6	1915
-1915	6	1915
-1915	6	1915
-2004	6	1915
-
+ca690402 jb february 17 1978  4:44 pm

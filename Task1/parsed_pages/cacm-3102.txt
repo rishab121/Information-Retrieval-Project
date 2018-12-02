@@ -20,9 +20,4 @@ units language design compiler construction language syntax
 
 4.12 4.22
 
-ca780505 dh february 26 1979  143 pm
-
-3102	5	3102
-3102	5	3102
-3102	5	3102
-
+ca780505 dh february 26 1979  1:43 pm

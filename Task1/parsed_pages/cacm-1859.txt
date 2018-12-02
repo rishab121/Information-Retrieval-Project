@@ -17,9 +17,4 @@ spline interpolation error bounds
 
 5.1 5.13
 
-ca690804 jb february 15 1978  558 pm
-
-1859	5	1859
-1859	5	1859
-1859	5	1859
-
+ca690804 jb february 15 1978  5:58 pm

@@ -25,11 +25,4 @@ area specification linear programming
 
 5.41 8.2 8.3
 
-ca740904 jb january 17 1978  856 am
-
-2604	4	2604
-1977	5	2604
-2604	5	2604
-2604	5	2604
-2604	5	2604
-
+ca740904 jb january 17 1978  8:56 am

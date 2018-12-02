@@ -12,9 +12,4 @@ linear programming zero-one variable
 
 5.41
 
-ca730711 jb january 23 1978  1119 am
-
-2475	5	2475
-2475	5	2475
-2475	5	2475
-
+ca730711 jb january 23 1978  11:19 am

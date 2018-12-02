@@ -25,12 +25,4 @@ matrix multiplication matrix chain product
 
 5.14
 
-ca780703 dh february 8 1979  246 pm
-
-3075	4	3085
-3085	4	3085
-2557	5	3085
-3085	5	3085
-3085	5	3085
-3085	5	3085
-
+ca780703 dh february 8 1979  2:46 pm

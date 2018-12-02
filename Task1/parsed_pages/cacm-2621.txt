@@ -21,9 +21,4 @@ operating systems time sharing systems security cryptography
 
 4.35
 
-ca740803 jb january 17 1978  1010 am
-
-2621	5	2621
-2621	5	2621
-2621	5	2621
-
+ca740803 jb january 17 1978  10:10 am

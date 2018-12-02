@@ -16,9 +16,4 @@ real street to carry loads expected in the future
 
 cacm april 1962
 
-ca620412 jb march 20 1978  200 pm
-
-605	5	605
-605	5	605
-605	5	605
-
+ca620412 jb march 20 1978  2:00 pm

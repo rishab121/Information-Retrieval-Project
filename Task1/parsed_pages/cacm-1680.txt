@@ -39,11 +39,4 @@ interface on-line computing graphic programming
 
 1.5 3.3 3.5 3.8 4.0 4.3
 
-ca681007 jb february 21 1978  336 pm
-
-1680	4	1680
-1591	5	1680
-1680	5	1680
-1680	5	1680
-1680	5	1680
-
+ca681007 jb february 21 1978  3:36 pm

@@ -12,9 +12,4 @@ basic cycle cycle graph
 
 5.32 3.24
 
-ca750601 jb january 9 1978  155 pm
-
-2752	5	2752
-2752	5	2752
-2752	5	2752
-
+ca750601 jb january 9 1978  1:55 pm

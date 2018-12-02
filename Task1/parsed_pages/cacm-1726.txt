@@ -39,11 +39,4 @@ text-image discrimination reading machine
 
 3.63 3.79 3.89 6.29 6.35
 
-ca680703 jb february 22 1978  252 pm
-
-1726	5	1726
-1726	5	1726
-1726	5	1726
-2370	5	1726
-1726	6	1726
-
+ca680703 jb february 22 1978  2:52 pm

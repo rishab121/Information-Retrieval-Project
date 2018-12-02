@@ -27,13 +27,4 @@ complex equation algebraic complex equation
 
 5.15
 
-ca691206 jb february 15 1978  254 pm
-
-1806	4	1806
-1806	5	1806
-1806	5	1806
-1806	5	1806
-1803	5	1806
-535	5	1806
-1806	6	1806
-
+ca691206 jb february 15 1978  2:54 pm

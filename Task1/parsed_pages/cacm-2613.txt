@@ -12,9 +12,4 @@ transitivity sets
 
 5.39
 
-ca740811 jb january 17 1978  935 am
-
-2613	5	2613
-2613	5	2613
-2613	5	2613
-
+ca740811 jb january 17 1978  9:35 am

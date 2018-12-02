@@ -13,9 +13,4 @@ t-test students t-statistic distribution function approximation
 
 5.12 5.5
 
-ca700217 jb february 14 1978  845 am
-
-2098	5	2098
-2098	5	2098
-2098	5	2098
-
+ca700217 jb february 14 1978  8:45 am

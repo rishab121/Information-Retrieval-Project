@@ -9,17 +9,4 @@ without carriage return to permit completely general sub and superscripting
 
 cacm july 1958
 
-ca580703 es march 17 1982 1010 am
-
-3193	4	3193
-796	4	3193
-1083	5	3193
-491	5	3193
-3193	5	3193
-3193	5	3193
-3193	5	3193
-407	6	3193
-3192	6	3193
-3193	6	3193
-730	6	3193
-
+ca580703 es march 17 1982 10:10 am

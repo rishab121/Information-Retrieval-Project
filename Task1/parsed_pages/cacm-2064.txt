@@ -24,11 +24,4 @@ storage control subscripting compilers
 
 4.12 4.29
 
-ca700502 jb february 13 1978  218 pm
-
-2064	4	2064
-1677	5	2064
-2064	5	2064
-2064	5	2064
-2064	5	2064
-
+ca700502 jb february 13 1978  2:18 pm

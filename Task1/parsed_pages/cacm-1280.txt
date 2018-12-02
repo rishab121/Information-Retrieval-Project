@@ -22,11 +22,4 @@ bellman r e
 buell j d
 kalaba r e
 
-ca650411 jb march 7 1978  346 pm
-
-1280	5	1280
-1280	5	1280
-1280	5	1280
-1364	5	1280
-1280	6	1280
-
+ca650411 jb march 7 1978  3:46 pm

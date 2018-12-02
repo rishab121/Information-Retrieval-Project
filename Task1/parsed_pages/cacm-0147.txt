@@ -5,9 +5,4 @@ report on a conference of university computing center directors
 
 cacm october 1960
 
-ca601001 jb march 20 1978  838 pm
-
-147	5	147
-147	5	147
-147	5	147
-
+ca601001 jb march 20 1978  8:38 pm

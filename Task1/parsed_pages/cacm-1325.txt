@@ -27,11 +27,4 @@ dickson j f
 horibe h
 stark l
 
-ca650112 jb march 8 1978  227 pm
-
-1325	4	1325
-1325	5	1325
-1325	5	1325
-1325	5	1325
-462	5	1325
-
+ca650112 jb march 8 1978  2:27 pm

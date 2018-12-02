@@ -12,13 +12,4 @@ nonsymmetric matrices general matrices
 
 5.14
 
-ca720610 jb january 30 1978  411 pm
-
-1968	4	2335
-2099	4	2335
-2335	4	2335
-1662	5	2335
-2335	5	2335
-2335	5	2335
-2335	5	2335
-
+ca720610 jb january 30 1978  4:11 pm

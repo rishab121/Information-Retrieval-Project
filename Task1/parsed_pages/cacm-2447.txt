@@ -17,9 +17,4 @@ cubatures sard kernels numerical integration remainder formulas
 
 5.13 5.16
 
-ca730908 jb january 23 1978  852 am
-
-2447	5	2447
-2447	5	2447
-2447	5	2447
-
+ca730908 jb january 23 1978  8:52 am

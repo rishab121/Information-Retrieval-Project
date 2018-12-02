@@ -7,11 +7,4 @@ cacm may 1959
 
 carr iii j w
 
-ca590501 jb march 22 1978  643 pm
-
-1148	5	85
-85	5	85
-85	5	85
-85	5	85
-85	6	85
-
+ca590501 jb march 22 1978  6:43 pm

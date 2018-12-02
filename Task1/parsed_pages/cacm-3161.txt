@@ -10,9 +10,4 @@ mccracken d ccp
 denning p
 brandin d
 
-ca790902 db january 14 1980  1019 am
-
-3161	5	3161
-3161	5	3161
-3161	5	3161
-
+ca790902 db january 14 1980  10:19 am

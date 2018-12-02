@@ -19,9 +19,4 @@ bubble memory memory loops permutation algorithm data block shift
 
 4.34 5.30 6.34
 
-ca790103 dh april 10 1979  1204 pm
-
-3118	5	3118
-3118	5	3118
-3118	5	3118
-
+ca790103 dh april 10 1979  12:04 pm

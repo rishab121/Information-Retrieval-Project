@@ -15,9 +15,4 @@ algorithm polynomial distribution polynomial expansion
 
 3.10 3.17 3.20 4.13 4.90
 
-ca700308 jb february 13 1978  349 pm
-
-2090	5	2090
-2090	5	2090
-2090	5	2090
-
+ca700308 jb february 13 1978  3:49 pm

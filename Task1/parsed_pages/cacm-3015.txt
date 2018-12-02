@@ -42,9 +42,4 @@ linear inequalities relaxation techniques
 
 3.12 3.17 3.34 3.63 5.14 5.18 5.41
 
-ca780208 jb march 28 1978  213 pm
-
-3015	5	3015
-3015	5	3015
-3015	5	3015
-
+ca780208 jb march 28 1978  2:13 pm

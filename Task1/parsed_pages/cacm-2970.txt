@@ -31,9 +31,4 @@ stopping rule variance reduction
 
 5.5 8.1
 
-ca770502 jb december 29 1977  243 am
-
-2970	5	2970
-2970	5	2970
-2970	5	2970
-
+ca770502 jb december 29 1977  2:43 am

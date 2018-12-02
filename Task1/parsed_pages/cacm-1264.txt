@@ -31,12 +31,4 @@ mueller h
 lichstein m
 pollack s v
 
-ca650507 jb march 7 1978  230 pm
-
-1264	4	1264
-1740	4	1264
-1099	5	1264
-1264	5	1264
-1264	5	1264
-1264	5	1264
-
+ca650507 jb march 7 1978  2:30 pm

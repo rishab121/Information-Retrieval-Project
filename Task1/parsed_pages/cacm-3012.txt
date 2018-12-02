@@ -22,9 +22,4 @@ implementation system use information storage and retrieval system
 
 2.10 3.50 3.72
 
-ca780301 jb march 28 1978  151 pm
-
-3012	5	3012
-3012	5	3012
-3012	5	3012
-
+ca780301 jb march 28 1978  1:51 pm

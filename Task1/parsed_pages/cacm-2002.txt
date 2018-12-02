@@ -40,15 +40,4 @@ user interaction tablet organization map display projection
 
 4.13 4.29 4.49 4.9
 
-ca700903 jb february 10 1978 208 pm
-
-2003	4	2002
-2002	4	2002
-2002	4	2002
-2152	4	2002
-1767	5	2002
-1937	5	2002
-2002	5	2002
-2002	5	2002
-2002	5	2002
-
+ca700903 jb february 10 1978 2:08 pm

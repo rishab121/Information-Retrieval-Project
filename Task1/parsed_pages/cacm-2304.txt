@@ -19,9 +19,4 @@ history computer history
 
 1.2 6.0
 
-ca720724 jb january 30 1978  1040 am
-
-2304	5	2304
-2304	5	2304
-2304	5	2304
-
+ca720724 jb january 30 1978  10:40 am

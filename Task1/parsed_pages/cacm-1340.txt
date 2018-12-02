@@ -12,9 +12,4 @@ abraham c
 lance g n
 pearcey t
 
-ca661209 jb march 2 1978  225 pm
-
-1340	5	1340
-1340	5	1340
-1340	5	1340
-
+ca661209 jb march 2 1978  2:25 pm

@@ -23,9 +23,4 @@ oestreicher m d
 bailey m j
 strauss j i
 
-ca671101 jb february 27 1978  147 pm
-
-1519	5	1519
-1519	5	1519
-1519	5	1519
-
+ca671101 jb february 27 1978  1:47 pm

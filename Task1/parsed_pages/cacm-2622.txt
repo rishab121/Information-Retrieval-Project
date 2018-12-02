@@ -40,9 +40,4 @@ passwords one-way encryption cryptology
 
 4.39 5.39
 
-ca740802 jb january 17 1978  1019 am
-
-2622	5	2622
-2622	5	2622
-2622	5	2622
-
+ca740802 jb january 17 1978  10:19 am

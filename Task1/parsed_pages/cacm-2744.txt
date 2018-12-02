@@ -22,9 +22,4 @@ cobol display arithmetic mixed radix arithmetic
 
 4.49 4.9 5.9
 
-ca750609 jb january 9 1978  1252 pm
-
-2744	5	2744
-2744	5	2744
-2744	5	2744
-
+ca750609 jb january 9 1978  12:52 pm

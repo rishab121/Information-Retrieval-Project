@@ -24,9 +24,4 @@ databases optimal file location
 
 3.81 3.51 4.33
 
-ca770503 jb december 29 1977  222 am
-
-2969	5	2969
-2969	5	2969
-2969	5	2969
-
+ca770503 jb december 29 1977  2:22 am

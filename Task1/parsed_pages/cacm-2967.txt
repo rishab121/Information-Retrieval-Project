@@ -31,12 +31,4 @@ parallel processing database management
 
 3.71 3.72 3.73 3.74 4.34 4.6 6.22 8.2
 
-ca770505 jb december 29 1977  207 am
-
-2719	4	2967
-2967	4	2967
-2151	5	2967
-2967	5	2967
-2967	5	2967
-2967	5	2967
-
+ca770505 jb december 29 1977  2:07 am

@@ -30,9 +30,4 @@ cacm june 1966
 carmody b t
 jones jr p e
 
-ca660606 jb march 3 1978  847 am
-
-1415	5	1415
-1415	5	1415
-1415	5	1415
-
+ca660606 jb march 3 1978  8:47 am

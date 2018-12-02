@@ -12,9 +12,4 @@ hidden-line plot surface plot
 
 4.9
 
-ca730713 jb january 23 1978  1114 am
-
-2473	5	2473
-2473	5	2473
-2473	5	2473
-
+ca730713 jb january 23 1978  11:14 am

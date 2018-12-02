@@ -13,9 +13,4 @@ cacm july 1963
 
 head r v
 
-ca630702 jb march 14 1978  850 am
-
-822	5	822
-822	5	822
-822	5	822
-
+ca630702 jb march 14 1978  8:50 am

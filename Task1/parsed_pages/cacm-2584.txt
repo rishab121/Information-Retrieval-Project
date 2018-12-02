@@ -22,9 +22,4 @@ programmer employment 1970 census area wage survey
 
 1.50 2.2 2.42
 
-ca741014 jb january 16 1978  1100 am
-
-2584	5	2584
-2584	5	2584
-2584	5	2584
-
+ca741014 jb january 16 1978  11:00 am

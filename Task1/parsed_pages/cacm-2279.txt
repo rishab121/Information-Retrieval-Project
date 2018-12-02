@@ -15,11 +15,4 @@ tactile computer communication tactile terminal
 
 1.59 4.41 6.35
 
-ca720911 jb january 27 1978  414 pm
-
-2279	4	2279
-1740	5	2279
-2279	5	2279
-2279	5	2279
-2279	5	2279
-
+ca720911 jb january 27 1978  4:14 pm

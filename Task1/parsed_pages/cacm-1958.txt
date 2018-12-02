@@ -20,9 +20,4 @@ equations round-off error error analysis
 
 5.11 5.17
 
-ca701205 jb february 9 1978  340 pm
-
-1958	5	1958
-1958	5	1958
-1958	5	1958
-
+ca701205 jb february 9 1978  3:40 pm

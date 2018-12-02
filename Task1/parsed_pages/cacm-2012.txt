@@ -11,13 +11,4 @@ walsh functions binary ordered walsh functions
 
 5.12 5.13
 
-ca700809 jb february 10 1978  322 pm
-
-2012	4	2012
-2011	5	2012
-2012	5	2012
-2012	5	2012
-2012	5	2012
-2013	5	2012
-2012	6	2012
-
+ca700809 jb february 10 1978  3:22 pm

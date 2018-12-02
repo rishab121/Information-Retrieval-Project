@@ -10,9 +10,4 @@ tabulating-card hollerith card keypunch information processing
 
 6.35
 
-ca700816 jb february 10 1978  248 pm
-
-2005	5	2005
-2005	5	2005
-2005	5	2005
-
+ca700816 jb february 10 1978  2:48 pm

@@ -29,9 +29,4 @@ structure choice
 
 4.12 4.20 4.22
 
-ca751208 jb january 5 1978  353 pm
-
-2699	5	2699
-2699	5	2699
-2699	5	2699
-
+ca751208 jb january 5 1978  3:53 pm

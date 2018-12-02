@@ -31,12 +31,4 @@ generation lexical insertion computational linguistics syntax
 
 3.42
 
-ca690608 jb february 17 1978  1036 am
-
-1885	4	1885
-2795	4	1885
-1885	5	1885
-1885	5	1885
-1885	5	1885
-1928	5	1885
-
+ca690608 jb february 17 1978  10:36 am

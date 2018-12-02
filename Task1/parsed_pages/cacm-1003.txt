@@ -37,9 +37,4 @@ cacm september 1964
 davids n
 berger r l
 
-ca640908 jb march 9 1978  513 pm
-
-1003	5	1003
-1003	5	1003
-1003	5	1003
-
+ca640908 jb march 9 1978  5:13 pm

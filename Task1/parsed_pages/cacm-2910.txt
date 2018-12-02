@@ -12,14 +12,4 @@ detection hough transformation template matching
 
 3.63 6.9
 
-ca771106 jb december 27 1977  723 am
-
-2788	4	2910
-2910	4	2910
-2910	4	2910
-2400	5	2910
-2788	5	2910
-2910	5	2910
-2910	5	2910
-2910	5	2910
-
+ca771106 jb december 27 1977  7:23 am

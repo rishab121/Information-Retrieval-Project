@@ -39,9 +39,4 @@ and design algorithm
 
 2.44 3.50 4.33 4.9 8.1
 
-ca761203 jb january 3 1978  231 pm
-
-2812	5	2812
-2812	5	2812
-2812	5	2812
-
+ca761203 jb january 3 1978  2:31 pm

@@ -7,13 +7,4 @@ cacm september 1959
 
 blachman n m
 
-ca590902 jb march 22 1978  452 pm
-
-67	4	67
-41	5	67
-67	5	67
-67	5	67
-67	5	67
-79	5	67
-67	6	67
-
+ca590902 jb march 22 1978  4:52 pm

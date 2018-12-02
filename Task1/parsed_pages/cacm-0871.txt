@@ -7,11 +7,4 @@ cacm april 1963
 
 thacher jr h c
 
-ca630420 jb march 14 1978  1148 am
-
-1800	5	871
-871	5	871
-871	5	871
-871	5	871
-871	6	871
-
+ca630420 jb march 14 1978  11:48 am

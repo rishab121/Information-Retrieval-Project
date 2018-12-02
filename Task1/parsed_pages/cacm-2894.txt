@@ -24,16 +24,4 @@ measurement modelnetwork measurement system measures figure-of-merit
 
 2.4 4.6 6.2
 
-ca771206 jb december 22 1977  1232 pm
-
-2193	4	2894
-2319	4	2894
-2373	4	2894
-2894	4	2894
-2894	4	2894
-1951	5	2894
-2016	5	2894
-2894	5	2894
-2894	5	2894
-2894	5	2894
-
+ca771206 jb december 22 1977  12:32 pm

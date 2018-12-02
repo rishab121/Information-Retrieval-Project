@@ -9,9 +9,4 @@ holmgren b
 obradovic d
 kolm a
 
-ca730510 jb january 23 1978  438 pm
-
-2510	5	2510
-2510	5	2510
-2510	5	2510
-
+ca730510 jb january 23 1978  4:38 pm

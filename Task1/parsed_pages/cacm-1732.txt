@@ -11,9 +11,4 @@ factorial variance analysis variance statistical analysis
 
 5.5
 
-ca680613 jb february 22 1978  321 pm
-
-1732	5	1732
-1732	5	1732
-1732	5	1732
-
+ca680613 jb february 22 1978  3:21 pm

@@ -18,9 +18,4 @@ squares inequality constraints iteration
 
 5.15 5.41
 
-ca720108 jb february 1 1978  909 am
-
-2395	5	2395
-2395	5	2395
-2395	5	2395
-
+ca720108 jb february 1 1978  9:09 am

@@ -8,12 +8,4 @@ cacm october 1974
 sreenivarsan k
 kleinman a j
 
-ca741011 jb january 16 1978  1107 am
-
-2587	4	2587
-2588	4	2587
-2587	5	2587
-2587	5	2587
-2587	5	2587
-2612	5	2587
-
+ca741011 jb january 16 1978  11:07 am

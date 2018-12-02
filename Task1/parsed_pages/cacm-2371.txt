@@ -19,11 +19,4 @@ computer networks resource sharing
 
 3.81 4.39 4.82 4.9
 
-ca720402 jb january 31 1978  151 pm
-
-2371	5	2371
-2371	5	2371
-2371	5	2371
-2849	5	2371
-2371	6	2371
-
+ca720402 jb january 31 1978  1:51 pm

@@ -31,9 +31,4 @@ lambda calculus theory of programming
 
 3.73 4.22 4.39 5.23 5.24
 
-ca710606 jb february 3 1978  958 am
-
-2184	5	2184
-2184	5	2184
-2184	5	2184
-
+ca710606 jb february 3 1978  9:58 am

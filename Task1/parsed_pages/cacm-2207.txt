@@ -22,14 +22,4 @@ integration step control order control
 
 5.17
 
-ca710305 jb february 3 1978  428 pm
-
-2205	5	2207
-2207	5	2207
-2207	5	2207
-2207	5	2207
-2474	5	2207
-2205	6	2207
-2207	6	2207
-2207	6	2207
-
+ca710305 jb february 3 1978  4:28 pm

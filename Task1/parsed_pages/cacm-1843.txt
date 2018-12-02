@@ -19,14 +19,4 @@ floating-point accuracy base choice number representations
 
 5.11 6.32
 
-ca691003 jb february 15 1978  333 pm
-
-1783	4	1843
-1843	4	1843
-1843	4	1843
-1634	5	1843
-1783	5	1843
-1843	5	1843
-1843	5	1843
-1843	5	1843
-
+ca691003 jb february 15 1978  3:33 pm

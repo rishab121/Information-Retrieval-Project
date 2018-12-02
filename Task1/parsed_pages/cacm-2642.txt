@@ -14,11 +14,4 @@ of equations linear programming simplex method
 
 5.13 5.41
 
-ca740604 jb january 17 1978  325 pm
-
-2642	5	2642
-2642	5	2642
-2642	5	2642
-2759	5	2642
-2642	6	2642
-
+ca740604 jb january 17 1978  3:25 pm

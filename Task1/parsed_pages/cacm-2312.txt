@@ -15,9 +15,4 @@ scientific computation
 
 3.1 5.0
 
-ca720716 jb january 30 1978  1124 am
-
-2312	5	2312
-2312	5	2312
-2312	5	2312
-
+ca720716 jb january 30 1978  11:24 am

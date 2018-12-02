@@ -12,9 +12,4 @@ matrix symmetric matrix positive definite matrix matrix square root
 
 5.14
 
-ca690611 jb february 17 1978  953 am
-
-1882	5	1882
-1882	5	1882
-1882	5	1882
-
+ca690611 jb february 17 1978  9:53 am

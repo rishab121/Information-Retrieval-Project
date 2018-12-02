@@ -27,12 +27,4 @@ computer images half tone pictures microfilm plotters processing
 
 3.10 3.15 3.24 4.49
 
-ca690209 jb february 20 1978  1006 am
-
-1929	5	1929
-1929	5	1929
-1929	5	1929
-2142	5	1929
-1929	6	1929
-2231	6	1929
-
+ca690209 jb february 20 1978  10:06 am

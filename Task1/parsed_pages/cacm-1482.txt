@@ -18,9 +18,4 @@ ledley r s
 jacobsen j
 belson m
 
-ca660205 jb march 3 1978  316 pm
-
-1482	5	1482
-1482	5	1482
-1482	5	1482
-
+ca660205 jb march 3 1978  3:16 pm

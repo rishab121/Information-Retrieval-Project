@@ -27,11 +27,4 @@ resource utilization system throughput
 
 4.32 5.5 6.20
 
-ca740302 jb january 18 1978  1237 pm
-
-2681	4	2681
-2218	5	2681
-2681	5	2681
-2681	5	2681
-2681	5	2681
-
+ca740302 jb january 18 1978  12:37 pm

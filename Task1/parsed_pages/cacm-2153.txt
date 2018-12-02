@@ -27,12 +27,4 @@ methods cai instructional systems
 
 1.52 3.62 5.10
 
-ca711003 jb february 2 1978  122 pm
-
-2153	4	2153
-3003	4	2153
-2097	5	2153
-2153	5	2153
-2153	5	2153
-2153	5	2153
-
+ca711003 jb february 2 1978  1:22 pm

@@ -34,15 +34,4 @@ deep binding multiprogramming algol display
 
 4.13 4.22 4.32
 
-ca780707 dh february 7 1979  414 pm
-
-2625	4	3081
-2922	4	3081
-3081	4	3081
-3101	4	3081
-3112	4	3081
-2438	5	3081
-3081	5	3081
-3081	5	3081
-3081	5	3081
-
+ca780707 dh february 7 1979  4:14 pm

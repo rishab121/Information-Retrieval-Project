@@ -37,18 +37,4 @@ perfect hashing functions perfect hash coding reduction scatter storage
 
 3.7 3.74 4.34
 
-ca771111 jb december 27 1977  645 am
-
-2905	4	2905
-2905	5	2905
-2905	5	2905
-2905	5	2905
-3041	5	2905
-3126	5	2905
-3176	5	2905
-829	5	2905
-2846	6	2905
-2905	6	2905
-2905	6	2905
-2905	6	2905
-
+ca771111 jb december 27 1977  6:45 am

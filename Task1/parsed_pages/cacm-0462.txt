@@ -25,11 +25,4 @@ starkl
 okajima m
 whipple g h
 
-ca621018 jb march 17 1978  704 pm
-
-1325	5	462
-462	5	462
-462	5	462
-462	5	462
-462	6	462
-
+ca621018 jb march 17 1978  7:04 pm

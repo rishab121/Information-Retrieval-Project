@@ -11,9 +11,4 @@ function evaluation series summation approximation
 
 5.12 5.13
 
-ca720613 jb january 30 1978  400 pm
-
-2332	5	2332
-2332	5	2332
-2332	5	2332
-
+ca720613 jb january 30 1978  4:00 pm

@@ -34,9 +34,4 @@ modeling system integration simulation
 
 4.0 4.12 4.22 4.30 4.42 4.43 8.1
 
-ca730206 jb january 24 1978  207 pm
-
-2542	5	2542
-2542	5	2542
-2542	5	2542
-
+ca730206 jb january 24 1978  2:07 pm

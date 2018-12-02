@@ -18,11 +18,4 @@ marill t
 edwards d
 feurzeig w
 
-ca631027 jb march 13 1978  523 pm
-
-1181	5	698
-698	5	698
-698	5	698
-698	5	698
-698	6	698
-
+ca631027 jb march 13 1978  5:23 pm

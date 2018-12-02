@@ -12,9 +12,4 @@ language theory context-free grammars
 
 3.60 3.64 5.23
 
-ca730710 jb january 23 1978  1121 am
-
-2476	5	2476
-2476	5	2476
-2476	5	2476
-
+ca730710 jb january 23 1978  11:21 am

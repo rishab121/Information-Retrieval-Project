@@ -25,9 +25,4 @@ iterative methods nonlinear equations spline functions
 
 5.13 5.15 5.17
 
-ca690605 jb february 17 1978  1107 am
-
-1888	5	1888
-1888	5	1888
-1888	5	1888
-
+ca690605 jb february 17 1978  11:07 am

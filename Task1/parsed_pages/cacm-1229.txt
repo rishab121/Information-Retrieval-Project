@@ -7,9 +7,4 @@ cacm july 1965
 
 pike m c
 
-ca650706 jb march 6 1978  900 pm
-
-1229	5	1229
-1229	5	1229
-1229	5	1229
-
+ca650706 jb march 6 1978  9:00 pm

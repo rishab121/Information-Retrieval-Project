@@ -17,9 +17,4 @@ martin w c
 paulson k c
 sashkin l
 
-ca661004 jb march 2 1978  405 pm
-
-1363	5	1363
-1363	5	1363
-1363	5	1363
-
+ca661004 jb march 2 1978  4:05 pm

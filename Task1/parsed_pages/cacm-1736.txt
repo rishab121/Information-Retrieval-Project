@@ -10,9 +10,4 @@ message format data transmission message headings
 
 3.57 3.81 6.39
 
-ca680609 jb february 22 1978  407 pm
-
-1736	5	1736
-1736	5	1736
-1736	5	1736
-
+ca680609 jb february 22 1978  4:07 pm

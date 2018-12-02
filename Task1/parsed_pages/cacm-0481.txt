@@ -10,9 +10,4 @@ gruenberger f j
 marks s l
 parkin t r
 
-ca620911 jb march 17 1978  730 pm
-
-481	5	481
-481	5	481
-481	5	481
-
+ca620911 jb march 17 1978  7:30 pm

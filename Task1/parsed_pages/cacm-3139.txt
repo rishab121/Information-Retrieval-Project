@@ -22,9 +22,4 @@ coloring scheduling comparison of the methods
 
 5.25 5.32
 
-ca790405 dh june 5 1979  205 pm
-
-3139	5	3139
-3139	5	3139
-3139	5	3139
-
+ca790405 dh june 5 1979  2:05 pm

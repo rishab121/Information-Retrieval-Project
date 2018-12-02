@@ -12,9 +12,4 @@ cacm september 1964
 
 weinberg g m
 
-ca640902 jb march 9 1978  617 pm
-
-1009	5	1009
-1009	5	1009
-1009	5	1009
-
+ca640902 jb march 9 1978  6:17 pm

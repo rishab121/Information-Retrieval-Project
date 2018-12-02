@@ -30,9 +30,4 @@ correspondence regular correspondence list processing
 
 3.42
 
-ca700604 jb february 13 1978  1151 am
-
-2051	5	2051
-2051	5	2051
-2051	5	2051
-
+ca700604 jb february 13 1978  11:51 am

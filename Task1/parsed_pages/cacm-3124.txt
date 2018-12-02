@@ -24,14 +24,4 @@ trees data-driven algorithms theory of arrays
 
 4.22 5.29
 
-ca790203 dh april 10 1979  341 pm
-
-2060	4	3124
-2294	4	3124
-2470	4	3124
-3124	4	3124
-1469	5	3124
-3124	5	3124
-3124	5	3124
-3124	5	3124
-
+ca790203 dh april 10 1979  3:41 pm

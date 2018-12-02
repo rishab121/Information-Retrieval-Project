@@ -28,9 +28,4 @@ polynomials truncation
 
 3.15 5.13 5.16 5.19
 
-ca680707 jb february 22 1978  1158 am
-
-1722	5	1722
-1722	5	1722
-1722	5	1722
-
+ca680707 jb february 22 1978  11:58 am

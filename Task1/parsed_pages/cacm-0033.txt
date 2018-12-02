@@ -8,9 +8,4 @@ cacm january 1958
 kenny b c
 hunter j a
 
-ca580103 jb march 22 1978  925 pm
-
-33	5	33
-33	5	33
-33	5	33
-
+ca580103 jb march 22 1978  9:25 pm

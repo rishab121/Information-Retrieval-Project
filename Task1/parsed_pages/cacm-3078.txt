@@ -29,9 +29,4 @@ on-line computer system
 
 3.82 5.5 5.7 8.1 8.3
 
-ca780710 dh february 7 1979 337 pm
-
-3078	5	3078
-3078	5	3078
-3078	5	3078
-
+ca780710 dh february 7 1979 3:37 pm

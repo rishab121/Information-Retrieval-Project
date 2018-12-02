@@ -22,13 +22,4 @@ simulation program graphical input-output sampled data systems
 
 3.20 3.24
 
-ca700210 jb february 14 1978  957 am
-
-2003	5	2105
-2105	5	2105
-2105	5	2105
-2105	5	2105
-1710	6	2105
-1767	6	2105
-2105	6	2105
-
+ca700210 jb february 14 1978  9:57 am

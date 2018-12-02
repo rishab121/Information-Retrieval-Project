@@ -28,12 +28,4 @@ associative storage function queue computer complex
 
 4.10 4.12 6.21 6.33
 
-ca780103 jb march 28 1978  544 pm
-
-3027	4	3027
-3027	5	3027
-3027	5	3027
-3027	5	3027
-3028	5	3027
-3027	6	3027
-
+ca780103 jb march 28 1978  5:44 pm

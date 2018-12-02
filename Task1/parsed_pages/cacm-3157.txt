@@ -31,11 +31,4 @@ term rewriting systems tree replacement systems reduction rules
 
 5.24 5.7
 
-ca790803 db january 4 1980  344 pm
-
-3157	4	3157
-3014	5	3157
-3157	5	3157
-3157	5	3157
-3157	5	3157
-
+ca790803 db january 4 1980  3:44 pm

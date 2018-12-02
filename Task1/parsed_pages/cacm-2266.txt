@@ -23,11 +23,4 @@ guaranteed convergence
 
 5.15
 
-ca721103 jb january 27 1978  235 pm
-
-2266	5	2266
-2266	5	2266
-2266	5	2266
-2660	5	2266
-2266	6	2266
-
+ca721103 jb january 27 1978  2:35 pm

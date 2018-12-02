@@ -21,9 +21,4 @@ function approximation function spline-like function
 
 5.13
 
-ca740815 jb january 17 1978  918 am
-
-2609	5	2609
-2609	5	2609
-2609	5	2609
-
+ca740815 jb january 17 1978  9:18 am

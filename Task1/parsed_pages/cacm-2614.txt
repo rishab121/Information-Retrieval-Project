@@ -11,9 +11,4 @@ critical path networks precedence networks
 
 3.23 5.40
 
-ca740810 jb january 17 1978  937 am
-
-2614	5	2614
-2614	5	2614
-2614	5	2614
-
+ca740810 jb january 17 1978  9:37 am

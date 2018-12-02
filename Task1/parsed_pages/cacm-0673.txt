@@ -7,9 +7,4 @@ cacm december 1963
 
 eckert j b
 
-ca631201 jb march 13 1978  315 pm
-
-673	5	673
-673	5	673
-673	5	673
-
+ca631201 jb march 13 1978  3:15 pm

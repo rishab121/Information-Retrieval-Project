@@ -30,9 +30,4 @@ cacm july 1966
 
 head r v
 
-ca660702 jb march 2 1978  953 pm
-
-1412	5	1412
-1412	5	1412
-1412	5	1412
-
+ca660702 jb march 2 1978  9:53 pm

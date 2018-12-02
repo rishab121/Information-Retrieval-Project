@@ -16,12 +16,4 @@ threaded code snobol4 interpretors code generation
 
 4.12 4.13
 
-ca750605 jb january 9 1978  111 pm
-
-2748	4	2748
-3144	4	2748
-2491	5	2748
-2748	5	2748
-2748	5	2748
-2748	5	2748
-
+ca750605 jb january 9 1978  1:11 pm

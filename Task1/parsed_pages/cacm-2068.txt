@@ -11,13 +11,4 @@ multiprogramming paging modeling
 
 4.32
 
-ca700416 jb february 13 1978  234 pm
-
-1892	4	2068
-2068	4	2068
-2741	4	2068
-1526	5	2068
-2068	5	2068
-2068	5	2068
-2068	5	2068
-
+ca700416 jb february 13 1978  2:34 pm

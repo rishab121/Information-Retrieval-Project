@@ -20,9 +20,4 @@ display integer arithmetic circle algorithm
 
 4.41 8.2
 
-ca770207 jb december 30 1977  216 am
-
-2994	5	2994
-2994	5	2994
-2994	5	2994
-
+ca770207 jb december 30 1977  2:16 am

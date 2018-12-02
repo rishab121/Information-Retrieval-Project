@@ -25,9 +25,4 @@ austin b j
 holden t s
 hudson r h
 
-ca670910 jb february 27 1978  258 pm
-
-1534	5	1534
-1534	5	1534
-1534	5	1534
-
+ca670910 jb february 27 1978  2:58 pm

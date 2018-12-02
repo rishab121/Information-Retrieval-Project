@@ -11,11 +11,4 @@ searching binary searching record retrieval
 
 3.74
 
-ca720809 jb january 30 1978  926 am
-
-2293	4	2293
-2157	5	2293
-2293	5	2293
-2293	5	2293
-2293	5	2293
-
+ca720809 jb january 30 1978  9:26 am

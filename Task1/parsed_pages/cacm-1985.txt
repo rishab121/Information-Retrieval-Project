@@ -12,9 +12,4 @@ integer programming change making problem
 
 5.41
 
-ca701005 jb february 10 1978  928 am
-
-1985	5	1985
-1985	5	1985
-1985	5	1985
-
+ca701005 jb february 10 1978  9:28 am

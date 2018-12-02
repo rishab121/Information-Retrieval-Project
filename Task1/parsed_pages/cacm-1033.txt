@@ -25,9 +25,4 @@ cacm july 1964
 
 hellerman h
 
-ca640714 jb march 9 1978  802 pm
-
-1033	5	1033
-1033	5	1033
-1033	5	1033
-
+ca640714 jb march 9 1978  8:02 pm

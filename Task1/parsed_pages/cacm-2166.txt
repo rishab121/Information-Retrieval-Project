@@ -24,13 +24,4 @@ series manipulation automated algebra celestial mechanics
 
 5.10 5.13 5.17
 
-ca710806 jb february 2 1978  331 pm
-
-2166	5	2166
-2166	5	2166
-2166	5	2166
-2170	5	2166
-2165	6	2166
-2167	6	2166
-2166	6	2166
-
+ca710806 jb february 2 1978  3:31 pm

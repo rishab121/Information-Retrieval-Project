@@ -17,9 +17,4 @@ marshall s w
 nelson j a
 wilenzick r m
 
-ca650511 jb march 7 1978  110 pm
-
-1260	5	1260
-1260	5	1260
-1260	5	1260
-
+ca650511 jb march 7 1978  1:10 pm

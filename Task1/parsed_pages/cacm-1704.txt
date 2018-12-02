@@ -11,9 +11,4 @@ critical path scheduling pert cost/time tradeoffs network flows
 
 3.59 5.41
 
-ca680810 jb february 22 1978  952 am
-
-1704	5	1704
-1704	5	1704
-1704	5	1704
-
+ca680810 jb february 22 1978  9:52 am

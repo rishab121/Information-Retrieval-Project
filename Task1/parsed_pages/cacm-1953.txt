@@ -11,9 +11,4 @@ ansi fortran standard
 
 4.0 4.22
 
-ca701210 jb february 9 1978  304 pm
-
-1953	5	1953
-1953	5	1953
-1953	5	1953
-
+ca701210 jb february 9 1978  3:04 pm

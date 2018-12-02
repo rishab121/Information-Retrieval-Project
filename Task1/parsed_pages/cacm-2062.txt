@@ -25,9 +25,4 @@ sampling models experimental design
 
 3.31 3.50 3.54 5.5
 
-ca700504 jb february 13 1978  211 pm
-
-2062	5	2062
-2062	5	2062
-2062	5	2062
-
+ca700504 jb february 13 1978  2:11 pm

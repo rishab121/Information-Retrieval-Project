@@ -25,11 +25,4 @@ picture processing scene analysis edge detection
 
 3.63 8.2
 
-ca730405 jb january 24 1978  948 am
-
-2523	5	2523
-2523	5	2523
-2523	5	2523
-2980	5	2523
-2523	6	2523
-
+ca730405 jb january 24 1978  9:48 am

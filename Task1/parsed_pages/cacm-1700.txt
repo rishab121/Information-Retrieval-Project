@@ -34,9 +34,4 @@ computer search technique
 
 3.74
 
-ca680901 jb february 22 1978  938 am
-
-1700	5	1700
-1700	5	1700
-1700	5	1700
-
+ca680901 jb february 22 1978  9:38 am

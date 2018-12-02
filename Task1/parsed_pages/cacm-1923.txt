@@ -19,9 +19,4 @@ high level languages command language
 
 4.22 4.30 4.31 4.41
 
-ca690304 jb february 20 1978  912 am
-
-1923	5	1923
-1923	5	1923
-1923	5	1923
-
+ca690304 jb february 20 1978  9:12 am

@@ -14,9 +14,4 @@ bellman r
 kagiada h
 kalba r
 
-ca650812 jb march 6 1978  805 pm
-
-1212	5	1212
-1212	5	1212
-1212	5	1212
-
+ca650812 jb march 6 1978  8:05 pm

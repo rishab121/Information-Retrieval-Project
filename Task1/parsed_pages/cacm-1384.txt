@@ -20,9 +20,4 @@ cacm september,1966
 
 atchison w f
 
-ca660902 jb march 2 1978  646 pm
-
-1384	5	1384
-1384	5	1384
-1384	5	1384
-
+ca660902 jb march 2 1978  6:46 pm

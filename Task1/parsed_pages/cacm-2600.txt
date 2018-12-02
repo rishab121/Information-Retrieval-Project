@@ -13,9 +13,4 @@ approximation spline approximation
 
 5.13
 
-ca740908 jb january 17 1978  844 am
-
-2600	5	2600
-2600	5	2600
-2600	5	2600
-
+ca740908 jb january 17 1978  8:44 am

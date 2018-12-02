@@ -35,9 +35,4 @@ toeplitz matrices tridiagonal matrices
 
 5 5.1 5.11 5.14 5.17
 
-ca740102 jb january 18 1978  250 pm
-
-2697	5	2697
-2697	5	2697
-2697	5	2697
-
+ca740102 jb january 18 1978  2:50 pm

@@ -23,11 +23,4 @@ cacm may 1966
 burdick d s
 naylor t h
 
-ca660502 jb march 3 1978  1020 am
-
-1435	5	1435
-1435	5	1435
-1435	5	1435
-1517	5	1435
-1435	6	1435
-
+ca660502 jb march 3 1978  10:20 am

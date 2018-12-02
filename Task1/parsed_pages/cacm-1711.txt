@@ -32,13 +32,4 @@ credit crime criminals record keeping records evidence copying
 
 1.3 2.11 2.12 2.2 3.33
 
-ca680803 jb february 22 1978  1112 am
-
-1711	4	1711
-1711	4	1711
-997	5	1711
-1001	5	1711
-1711	5	1711
-1711	5	1711
-1711	5	1711
-
+ca680803 jb february 22 1978  11:12 am

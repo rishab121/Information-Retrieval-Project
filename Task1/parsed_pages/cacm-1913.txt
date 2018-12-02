@@ -13,9 +13,4 @@ function special functions
 
 5.12
 
-ca690404 jb february 17 1978  436 pm
-
-1913	5	1913
-1913	5	1913
-1913	5	1913
-
+ca690404 jb february 17 1978  4:36 pm

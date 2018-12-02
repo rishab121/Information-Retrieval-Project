@@ -21,12 +21,4 @@ science operations research
 
 3.34 3.59
 
-ca690405 jb february 17 1978  432 pm
-
-1805	4	1912
-1912	4	1912
-1518	5	1912
-1912	5	1912
-1912	5	1912
-1912	5	1912
-
+ca690405 jb february 17 1978  4:32 pm

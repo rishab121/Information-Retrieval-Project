@@ -24,9 +24,4 @@ size normalization mapping pattern preprocessor
 
 3.63 5.14
 
-ca700802 jb february 10 1978  403 pm
-
-2019	5	2019
-2019	5	2019
-2019	5	2019
-
+ca700802 jb february 10 1978  4:03 pm

@@ -11,9 +11,4 @@ measurement instrumentation phase encoded recording
 
 2.49 6.35
 
-ca701108 jb february 9 1978  442 pm
-
-1970	5	1970
-1970	5	1970
-1970	5	1970
-
+ca701108 jb february 9 1978  4:42 pm

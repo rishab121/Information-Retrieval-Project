@@ -12,9 +12,4 @@ roots roots of a polynomial zeros of a polynomial
 
 5.15
 
-ca720206 jb january 31 1978  414 pm
-
-2385	5	2385
-2385	5	2385
-2385	5	2385
-
+ca720206 jb january 31 1978  4:14 pm

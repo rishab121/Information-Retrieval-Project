@@ -24,9 +24,4 @@ secant method interpolative solution orthogonal matrices
 
 3.21 5.15 5.17
 
-ca700905 jb february 10 1978  139 pm
-
-2000	5	2000
-2000	5	2000
-2000	5	2000
-
+ca700905 jb february 10 1978  1:39 pm

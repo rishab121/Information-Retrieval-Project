@@ -20,9 +20,4 @@ database interactive computing economic modeling transaction processing
 
 4.32 4.33 6.2 8.1
 
-ca790403 dh may 21 1979  125 pm
-
-3137	5	3137
-3137	5	3137
-3137	5	3137
-
+ca790403 dh may 21 1979  1:25 pm

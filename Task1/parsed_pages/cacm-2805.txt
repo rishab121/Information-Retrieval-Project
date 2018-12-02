@@ -20,9 +20,4 @@ departure from normality gershgorin circles
 
 5.14
 
-ca750106 jb january 12 1978  1031 am
-
-2805	5	2805
-2805	5	2805
-2805	5	2805
-
+ca750106 jb january 12 1978  10:31 am

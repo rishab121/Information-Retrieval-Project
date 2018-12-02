@@ -11,9 +11,4 @@ binary trees permutations binary search trees ranking function
 
 3.79 5.39
 
-ca770209 jb december 30 1977 204 am
-
-2992	5	2992
-2992	5	2992
-2992	5	2992
-
+ca770209 jb december 30 1977 2:04 am

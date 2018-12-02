@@ -13,9 +13,4 @@ discrete approximation l1 approximation
 
 5.13 5.41
 
-ca731009 jb january 20 1978  1113 am
-
-2431	5	2431
-2431	5	2431
-2431	5	2431
-
+ca731009 jb january 20 1978  11:13 am

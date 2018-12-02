@@ -26,9 +26,4 @@ memory hierarchy
 
 3.72 3.73 4.39
 
-ca740303 jb january 18 1978  1232 pm
-
-2680	5	2680
-2680	5	2680
-2680	5	2680
-
+ca740303 jb january 18 1978  12:32 pm

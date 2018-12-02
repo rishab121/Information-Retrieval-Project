@@ -29,16 +29,4 @@ programming languages standards which accommodate
 
 2.12 4.2 2.9
 
-ca680811 jb february 22 1978  950 am
-
-1530	4	1703
-1531	4	1703
-1565	4	1703
-1703	4	1703
-1945	4	1703
-2036	4	1703
-1455	5	1703
-1703	5	1703
-1703	5	1703
-1703	5	1703
-
+ca680811 jb february 22 1978  9:50 am

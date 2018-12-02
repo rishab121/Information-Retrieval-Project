@@ -32,13 +32,4 @@ semantic generation discourse generation
 
 3.42 3.65
 
-ca721004 jb january 27 1978  310 pm
-
-2274	5	2274
-2274	5	2274
-2274	5	2274
-2795	5	2274
-1928	6	2274
-1989	6	2274
-2274	6	2274
-
+ca721004 jb january 27 1978  3:10 pm

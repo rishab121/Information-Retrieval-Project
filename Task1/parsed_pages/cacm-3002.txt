@@ -35,12 +35,4 @@ file system file design file partitioning record partitioning
 
 3.73
 
-ca770103 jb january 3 1978  1228 am
-
-3002	5	3002
-3002	5	3002
-3002	5	3002
-3168	5	3002
-2965	6	3002
-3002	6	3002
-
+ca770103 jb january 3 1978  12:28 am

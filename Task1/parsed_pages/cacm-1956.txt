@@ -28,12 +28,4 @@ sort timing drum-merging access time
 
 3.37 4.49 5.31
 
-ca701207 jb february 9 1978  318 pm
-
-1956	4	1956
-2017	4	1956
-1956	5	1956
-1956	5	1956
-1956	5	1956
-854	5	1956
-
+ca701207 jb february 9 1978  3:18 pm

@@ -31,15 +31,4 @@ queueing networks paging virtual memory performance control
 
 4.32 8.1
 
-ca790704 dh august 22 1979  332 pm
-
-3016	4	3153
-3070	4	3153
-3153	4	3153
-3153	4	3153
-2741	5	3153
-2891	5	3153
-3153	5	3153
-3153	5	3153
-3153	5	3153
-
+ca790704 dh august 22 1979  3:32 pm

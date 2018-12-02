@@ -22,9 +22,4 @@ sor block sor
 
 3.20 5.17
 
-ca680909 jb february 21 1978  448 pm
-
-1692	5	1692
-1692	5	1692
-1692	5	1692
-
+ca680909 jb february 21 1978  4:48 pm

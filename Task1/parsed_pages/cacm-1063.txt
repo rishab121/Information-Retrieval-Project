@@ -6,9 +6,4 @@ interchange proposed american standard
 
 cacm june 1964
 
-ca640604 jb march 9 1978  944 pm
-
-1063	5	1063
-1063	5	1063
-1063	5	1063
-
+ca640604 jb march 9 1978  9:44 pm

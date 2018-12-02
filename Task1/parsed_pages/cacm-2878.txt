@@ -28,9 +28,4 @@ priority queues semi-markov process price scheduling operating system
 
 4.39 8.3
 
-ca760302 dmm january 9 1978  214 pm
-
-2878	5	2878
-2878	5	2878
-2878	5	2878
-
+ca760302 dmm january 9 1978  2:14 pm

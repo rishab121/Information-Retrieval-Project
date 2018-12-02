@@ -22,9 +22,4 @@ nonlinear least squares parameter estimation variable projection
 
 5.14 5.15
 
-ca740313 jb january 18 1978  1049 am
-
-2670	5	2670
-2670	5	2670
-2670	5	2670
-
+ca740313 jb january 18 1978  10:49 am

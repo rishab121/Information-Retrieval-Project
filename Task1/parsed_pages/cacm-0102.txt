@@ -9,9 +9,4 @@ curtz t b
 riordan j f
 spohnm
 
-ca601214 jb march 20 1978  618 pm
-
-102	5	102
-102	5	102
-102	5	102
-
+ca601214 jb march 20 1978  6:18 pm

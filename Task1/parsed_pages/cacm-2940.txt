@@ -35,19 +35,4 @@ languages programming methodology proofs of correctness types verification
 
 4.20 5.24
 
-ca770803 jb december 28 1977  759 am
-
-2940	5	2940
-2940	5	2940
-2940	5	2940
-3150	5	2940
-2060	6	2940
-2704	6	2940
-2842	6	2940
-2939	6	2940
-2940	6	2940
-2941	6	2940
-2943	6	2940
-3073	6	2940
-3148	6	2940
-
+ca770803 jb december 28 1977  7:59 am

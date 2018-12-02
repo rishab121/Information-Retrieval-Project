@@ -11,11 +11,4 @@ laplace transform inversion
 
 5.16
 
-ca741007 jb january 16 1978 1117 am
-
-2591	4	2591
-2124	5	2591
-2591	5	2591
-2591	5	2591
-2591	5	2591
-
+ca741007 jb january 16 1978 11:17 am

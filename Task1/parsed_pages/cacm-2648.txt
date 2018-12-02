@@ -23,9 +23,4 @@ pseudoprime
 
 3.15
 
-ca740505 jb january 17 1978  409 pm
-
-2648	5	2648
-2648	5	2648
-2648	5	2648
-
+ca740505 jb january 17 1978  4:09 pm

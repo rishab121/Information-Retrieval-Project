@@ -19,9 +19,4 @@ rounding error bound error bounds complex rounding error bounds
 
 5.14 5.11 5.10
 
-ca700907 jb february 10 1978  1019 am
-
-1998	5	1998
-1998	5	1998
-1998	5	1998
-
+ca700907 jb february 10 1978  10:19 am

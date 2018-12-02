@@ -6,9 +6,4 @@ paper tape proposed american standard
 
 cacm may 1966
 
-ca660515 jb march 3 1978  909 am
-
-1422	5	1422
-1422	5	1422
-1422	5	1422
-
+ca660515 jb march 3 1978  9:09 am

@@ -14,11 +14,4 @@ approximation forsythes method
 
 5.13 5.5
 
-ca691114 jb february 15 1978  1206 pm
-
-1816	4	1816
-125	5	1816
-1816	5	1816
-1816	5	1816
-1816	5	1816
-
+ca691114 jb february 15 1978  12:06 pm

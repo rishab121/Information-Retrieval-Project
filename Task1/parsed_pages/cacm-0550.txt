@@ -8,9 +8,4 @@ cacm july 1962
 kruglyak y a
 whitman d r
 
-ca620711 jb march 17 1978  830 pm
-
-550	5	550
-550	5	550
-550	5	550
-
+ca620711 jb march 17 1978  8:30 pm

@@ -19,11 +19,4 @@ string processing spatial multiplexing
 
 4.9
 
-ca740603 jb january 17 1978  331 pm
-
-2643	5	2643
-2643	5	2643
-2643	5	2643
-2706	5	2643
-2643	6	2643
-
+ca740603 jb january 17 1978  3:31 pm

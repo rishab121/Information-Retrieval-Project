@@ -20,11 +20,4 @@ cacm february 1966
 hull t e
 swenson j r
 
-ca660210 jb march 3 1978  237 pm
-
-1474	5	1474
-1474	5	1474
-1474	5	1474
-2525	5	1474
-1474	6	1474
-
+ca660210 jb march 3 1978  2:37 pm

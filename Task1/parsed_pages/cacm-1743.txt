@@ -20,11 +20,4 @@ error correction full duplex telephone errors
 
 3.81 4.41 6.35
 
-ca680602 jb february 22 1978  445 pm
-
-1743	5	1743
-1743	5	1743
-1743	5	1743
-1907	5	1743
-1743	6	1743
-
+ca680602 jb february 22 1978  4:45 pm

@@ -7,14 +7,4 @@ for information processing
 
 cacm october 1964
 
-ca641016 jb march 9 1978  435 pm
-
-986	5	986
-986	5	986
-986	5	986
-1705	5	986
-984	6	986
-986	6	986
-1020	6	986
-1321	6	986
-
+ca641016 jb march 9 1978  4:35 pm

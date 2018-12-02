@@ -31,9 +31,4 @@ programs strategy learning
 
 3.62 3.64 3.66 3.69
 
-ca730803 jb january 23 1978  1109 am
-
-2471	5	2471
-2471	5	2471
-2471	5	2471
-
+ca730803 jb january 23 1978  11:09 am

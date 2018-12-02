@@ -12,9 +12,4 @@ symmetric functions schur functions
 
 5.39
 
-ca680412 jb february 23 1978  1019 am
-
-1758	5	1758
-1758	5	1758
-1758	5	1758
-
+ca680412 jb february 23 1978  10:19 am

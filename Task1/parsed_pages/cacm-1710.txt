@@ -26,15 +26,4 @@ list structure set languages modeling graphics
 
 4.20 4.22
 
-ca680804 jb february 22 1978  1102 am
-
-1710	5	1710
-1710	5	1710
-1710	5	1710
-1853	5	1710
-2003	5	1710
-1710	6	1710
-1710	6	1710
-1767	6	1710
-2105	6	1710
-
+ca680804 jb february 22 1978  11:02 am

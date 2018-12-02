@@ -7,12 +7,4 @@ cacm august 1958
 
 giblin j
 
-ca580803 jb march 22 1978  902 pm
-
-15	5	15
-15	5	15
-15	5	15
-75	5	15
-15	6	15
-94	6	15
-
+ca580803 jb march 22 1978  9:02 pm

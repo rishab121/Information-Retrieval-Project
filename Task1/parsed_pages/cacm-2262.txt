@@ -20,9 +20,4 @@ processing paging segmentation page tables
 
 4.32
 
-ca721107 jb january 27 1978  150 pm
-
-2262	5	2262
-2262	5	2262
-2262	5	2262
-
+ca721107 jb january 27 1978  1:50 pm

@@ -34,9 +34,4 @@ parsing lrk grammars np-complete problems
 
 4.12 5.23 5.25
 
-ca751205 jb january 5 1978  428 pm
-
-2702	5	2702
-2702	5	2702
-2702	5	2702
-
+ca751205 jb january 5 1978  4:28 pm

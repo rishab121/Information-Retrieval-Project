@@ -28,14 +28,4 @@ correctness programming languages semantics
 
 4.22 5.23 5.24
 
-ca721105 jb january 27 1978  219 pm
-
-2264	5	2264
-2264	5	2264
-2264	5	2264
-2470	5	2264
-1303	6	2264
-1469	6	2264
-1834	6	2264
-2264	6	2264
-
+ca721105 jb january 27 1978  2:19 pm

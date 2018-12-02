@@ -20,12 +20,4 @@ belman r e
 kagiwada h h
 kalaba r e
 
-ca670206 jb february 28 1978  328 pm
-
-1636	5	1636
-1636	5	1636
-1636	5	1636
-2427	5	1636
-1581	6	1636
-1636	6	1636
-
+ca670206 jb february 28 1978  3:28 pm

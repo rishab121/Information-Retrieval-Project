@@ -26,13 +26,4 @@ contour lines topology detection and recognition
 
 3.14 3.19 6.35 6.36
 
-ca720903 jb january 27 1978  446 pm
-
-2287	4	2287
-2547	4	2287
-3062	4	2287
-1925	5	2287
-2287	5	2287
-2287	5	2287
-2287	5	2287
-
+ca720903 jb january 27 1978  4:46 pm

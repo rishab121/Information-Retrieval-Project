@@ -11,9 +11,4 @@ numerical integration product type quadrature trapezoidal integration
 
 5.16
 
-ca721211 jb january 27 1978  911 am
-
-2244	5	2244
-2244	5	2244
-2244	5	2244
-
+ca721211 jb january 27 1978  9:11 am

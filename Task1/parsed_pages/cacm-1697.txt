@@ -29,17 +29,4 @@ communication computer graphics graphical input on-line editing
 
 3.40 4.41
 
-ca680904 jb february 22 1978  913 am
-
-1697	4	1697
-1528	5	1697
-1659	5	1697
-1697	5	1697
-1697	5	1697
-1697	5	1697
-1225	6	1697
-1265	6	1697
-1350	6	1697
-1671	6	1697
-1697	6	1697
-
+ca680904 jb february 22 1978  9:13 am

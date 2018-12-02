@@ -20,9 +20,4 @@ cacm april 1966
 
 waters j
 
-ca660408 jb march 3 1978  1037 am
-
-1441	5	1441
-1441	5	1441
-1441	5	1441
-
+ca660408 jb march 3 1978  10:37 am

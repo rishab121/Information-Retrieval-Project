@@ -26,9 +26,4 @@ list scheduling optimization dynamic programming
 
 4.3 4.32 4.34 4.35 5.3 5.32 5.4 5.42 8.1
 
-ca741204 jb january 16 1978  942 am
-
-2570	5	2570
-2570	5	2570
-2570	5	2570
-
+ca741204 jb january 16 1978  9:42 am

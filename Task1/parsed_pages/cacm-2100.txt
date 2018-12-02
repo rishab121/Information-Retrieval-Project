@@ -11,9 +11,4 @@ orthogonalization approximation
 
 5.13 5.17 5.5
 
-ca700215 jb february 14 1978  945 am
-
-2100	5	2100
-2100	5	2100
-2100	5	2100
-
+ca700215 jb february 14 1978  9:45 am

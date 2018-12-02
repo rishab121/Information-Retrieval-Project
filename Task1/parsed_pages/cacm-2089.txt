@@ -12,9 +12,4 @@ prime numbers generator
 
 5.0
 
-ca700309 jb february 13 1978  345 pm
-
-2089	5	2089
-2089	5	2089
-2089	5	2089
-
+ca700309 jb february 13 1978  3:45 pm

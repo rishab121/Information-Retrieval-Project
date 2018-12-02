@@ -31,12 +31,4 @@ generators random number program pseudo random numbers
 
 4.49 5.19 5.5
 
-ca690208 jb february 20 1978  1043 am
-
-1930	5	1930
-1930	5	1930
-1930	5	1930
-2115	5	1930
-1691	6	1930
-1930	6	1930
-
+ca690208 jb february 20 1978  10:43 am

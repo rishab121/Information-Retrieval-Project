@@ -15,9 +15,4 @@ testing of roots acceptance criteria
 
 5.15
 
-ca690517 jb february 17 1978  229 pm
-
-1893	5	1893
-1893	5	1893
-1893	5	1893
-
+ca690517 jb february 17 1978  2:29 pm

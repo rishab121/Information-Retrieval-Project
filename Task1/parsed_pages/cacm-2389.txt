@@ -22,11 +22,4 @@ automated design architecture heuristic programs space planning
 
 3.20 3.40 3.64 3.66
 
-ca720202 jb january 31 1978  435 pm
-
-2389	4	2389
-2078	5	2389
-2389	5	2389
-2389	5	2389
-2389	5	2389
-
+ca720202 jb january 31 1978  4:35 pm

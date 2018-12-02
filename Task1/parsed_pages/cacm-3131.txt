@@ -24,13 +24,4 @@ speed computational accuracy microcomputer applications
 
 3.24 3.80 4.0 4.22 5.11
 
-ca790302 dh april 12 1979  1112 am
-
-3131	4	3131
-3131	4	3131
-1148	5	3131
-3131	5	3131
-3131	5	3131
-3131	5	3131
-893	5	3131
-
+ca790302 dh april 12 1979  11:12 am

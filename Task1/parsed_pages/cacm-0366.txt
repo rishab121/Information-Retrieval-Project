@@ -7,9 +7,4 @@ cacm april 1961
 
 smith o k
 
-ca610402 jb march 17 1978  1214 am
-
-366	5	366
-366	5	366
-366	5	366
-
+ca610402 jb march 17 1978  12:14 am

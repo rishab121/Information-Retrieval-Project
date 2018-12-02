@@ -13,11 +13,4 @@ experiment missing data interblock estimate intra block estimate
 
 5.14 5.5
 
-ca691211 jb february 15 1978  214 pm
-
-1801	4	1801
-1801	5	1801
-1801	5	1801
-1801	5	1801
-1802	5	1801
-
+ca691211 jb february 15 1978  2:14 pm

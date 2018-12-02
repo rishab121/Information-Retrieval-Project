@@ -23,9 +23,4 @@ recursion compiler optimization
 
 4.12
 
-ca760904 jb january 4 1978  936 am
-
-2835	5	2835
-2835	5	2835
-2835	5	2835
-
+ca760904 jb january 4 1978  9:36 am

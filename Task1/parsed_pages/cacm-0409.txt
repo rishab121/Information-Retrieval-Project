@@ -23,12 +23,4 @@ cheatham jr t e
 collins jr g o
 leonard g f
 
-ca610105 jb march 17 1978  126 am
-
-409	5	409
-409	5	409
-409	5	409
-657	5	409
-279	6	409
-409	6	409
-
+ca610105 jb march 17 1978  1:26 am

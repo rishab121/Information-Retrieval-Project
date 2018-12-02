@@ -10,9 +10,4 @@ heise w
 perlis j a
 samelson k
 
-ca590904 jb march 22 1978  449 pm
-
-65	5	65
-65	5	65
-65	5	65
-
+ca590904 jb march 22 1978  4:49 pm

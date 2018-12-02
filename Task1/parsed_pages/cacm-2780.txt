@@ -21,9 +21,4 @@ of inverse tridiagonal matrix sensitivities
 
 3.24 5.14
 
-ca750308 jb january 9 1978  434 pm 
-
-2780	5	2780
-2780	5	2780
-2780	5	2780
-
+ca750308 jb january 9 1978  4:34 pm

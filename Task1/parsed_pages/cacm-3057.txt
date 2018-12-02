@@ -35,9 +35,4 @@ picture processing
 
 3.24 5.25 5.42
 
-ca781004 dh january 29 1979  608 pm
-
-3057	5	3057
-3057	5	3057
-3057	5	3057
-
+ca781004 dh january 29 1979  6:08 pm

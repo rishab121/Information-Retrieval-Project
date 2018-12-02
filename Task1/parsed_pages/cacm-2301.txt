@@ -29,11 +29,4 @@ directed compiling translator writing systems two-level grammars
 
 3.42 4.12 4.13 4.20 5.23
 
-ca720801 jb january 30 1978  1021 am
-
-2301	5	2301
-2301	5	2301
-2301	5	2301
-2886	5	2301
-2301	6	2301
-
+ca720801 jb january 30 1978  10:21 am

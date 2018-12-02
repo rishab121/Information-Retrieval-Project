@@ -27,13 +27,4 @@ structure search information retrieval crystal
 
 3.13 3.63 3.74
 
-ca790401 dh may 21 1979  1050 am
-
-2521	5	3135
-3135	5	3135
-3135	5	3135
-3135	5	3135
-2028	6	3135
-2031	6	3135
-3135	6	3135
-
+ca790401 dh may 21 1979  10:50 am

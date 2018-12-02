@@ -31,9 +31,4 @@ architecture computer systems
 
 1.2 6.2 6.3
 
-ca780106 jb march 28 1978  524 pm
-
-3024	5	3024
-3024	5	3024
-3024	5	3024
-
+ca780106 jb march 28 1978  5:24 pm

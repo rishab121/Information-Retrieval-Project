@@ -7,11 +7,4 @@ cacm september 1963
 
 shen m k
 
-ca630911 jb march 13 1978  731 pm
-
-2443	5	747
-747	5	747
-747	5	747
-747	5	747
-747	6	747
-
+ca630911 jb march 13 1978  7:31 pm

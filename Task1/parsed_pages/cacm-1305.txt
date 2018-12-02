@@ -16,11 +16,4 @@ cacm march 1965
 mancino o g
 cecchi m m
 
-ca650302 jb march 7 1978  623 pm
-
-1305	4	1305
-1035	5	1305
-1305	5	1305
-1305	5	1305
-1305	5	1305
-
+ca650302 jb march 7 1978  6:23 pm

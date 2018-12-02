@@ -28,9 +28,4 @@ algorithms deterministic scheduling models
 
 4.32 5.39
 
-ca740704 jb january 17 1978  1256 pm
-
-2627	5	2627
-2627	5	2627
-2627	5	2627
-
+ca740704 jb january 17 1978  12:56 pm

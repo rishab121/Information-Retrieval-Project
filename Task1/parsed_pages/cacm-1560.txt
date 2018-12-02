@@ -7,9 +7,4 @@ cacm july 1967
 
 sims l s
 
-ca670711f jb march 23 1978  320 pm
-
-1560	5	1560
-1560	5	1560
-1560	5	1560
-
+ca670711f jb march 23 1978  3:20 pm

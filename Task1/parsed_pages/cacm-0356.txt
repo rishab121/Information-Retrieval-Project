@@ -7,9 +7,4 @@ cacm april 1961
 
 ingerman p z
 
-ca610412 jb march 17 1978  1200 am
-
-356	5	356
-356	5	356
-356	5	356
-
+ca610412 jb march 17 1978  12:00 am

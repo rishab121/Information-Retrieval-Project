@@ -18,9 +18,4 @@ cacm may 1965
 philpott c m
 lago g v
 
-ca650516 jb march 7 1978  1252 pm
-
-1255	5	1255
-1255	5	1255
-1255	5	1255
-
+ca650516 jb march 7 1978  12:52 pm

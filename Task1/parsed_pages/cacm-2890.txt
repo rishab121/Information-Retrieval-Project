@@ -31,9 +31,4 @@ distributed network computer network message switching
 
 3.81 8.0 8.1 8.3
 
-ca760103 jb january 5 1978  1037 am
-
-2890	5	2890
-2890	5	2890
-2890	5	2890
-
+ca760103 jb january 5 1978  10:37 am

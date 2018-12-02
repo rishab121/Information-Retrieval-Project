@@ -19,9 +19,4 @@ cacm april 1966
 sterling t d
 pollack s v
 
-ca660404 jb march 3 1978  1048 am
-
-1445	5	1445
-1445	5	1445
-1445	5	1445
-
+ca660404 jb march 3 1978  10:48 am

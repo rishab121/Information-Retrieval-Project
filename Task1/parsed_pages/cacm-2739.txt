@@ -32,15 +32,4 @@ natural language parsing grammar programming languages
 
 3.42 3.79 4.22
 
-ca750703 jb january 9 1978  1017 am
-
-2581	4	2739
-2739	4	2739
-2795	4	2739
-2921	4	2739
-3087	4	2739
-1989	5	2739
-2739	5	2739
-2739	5	2739
-2739	5	2739
-
+ca750703 jb january 9 1978  10:17 am

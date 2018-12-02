@@ -19,9 +19,4 @@ cubic spline differential equations boundary value problem
 
 5.13 5.17
 
-ca730613 jb january 23 1978  144 pm
-
-2487	5	2487
-2487	5	2487
-2487	5	2487
-
+ca730613 jb january 23 1978  1:44 pm

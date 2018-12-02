@@ -27,9 +27,4 @@ structural pattern recognition parsing waveform analysis pulse waves
 
 3.12 3.34 3.63 4.12
 
-ca761204 jb january 3 1978  143 pm
-
-2811	5	2811
-2811	5	2811
-2811	5	2811
-
+ca761204 jb january 3 1978  1:43 pm

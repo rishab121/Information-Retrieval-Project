@@ -27,9 +27,4 @@ performance evaluation and efficiency resource sharing
 
 3.81 4.39 4.6 4.9
 
-ca760101 jb january 5 1978  1049 am
-
-2892	5	2892
-2892	5	2892
-2892	5	2892
-
+ca760101 jb january 5 1978  10:49 am

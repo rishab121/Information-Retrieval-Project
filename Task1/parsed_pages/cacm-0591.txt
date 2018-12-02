@@ -8,9 +8,4 @@ cacm may 1962
 
 cundiff j l
 
-ca620514 jb march 20 1978  137 pm
-
-591	5	591
-591	5	591
-591	5	591
-
+ca620514 jb march 20 1978  1:37 pm

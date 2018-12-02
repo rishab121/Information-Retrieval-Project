@@ -7,9 +7,4 @@ american standard
 
 cacm june 1965
 
-ca650606 jb march 6 1978  1026 pm
-
-1249	5	1249
-1249	5	1249
-1249	5	1249
-
+ca650606 jb march 6 1978  10:26 pm

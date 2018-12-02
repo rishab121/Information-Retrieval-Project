@@ -26,12 +26,4 @@ formac symbolic manipulation tensors
 
 3.11 3.15 3.17
 
-ca780901 dh february 5 1979  343 pm
-
-2170	4	3071
-3071	4	3071
-2165	5	3071
-3071	5	3071
-3071	5	3071
-3071	5	3071
-
+ca780901 dh february 5 1979  3:43 pm

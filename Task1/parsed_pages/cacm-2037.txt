@@ -11,9 +11,4 @@ permutations and combinations permutations
 
 5.39
 
-ca700618 jb february 13 1978  945 am
-
-2037	5	2037
-2037	5	2037
-2037	5	2037
-
+ca700618 jb february 13 1978  9:45 am

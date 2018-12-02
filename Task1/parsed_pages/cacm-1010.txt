@@ -19,9 +19,4 @@ cacm september 1964
 
 dennis j b
 
-ca640901 jb march 9 1978  622 pm
-
-1010	5	1010
-1010	5	1010
-1010	5	1010
-
+ca640901 jb march 9 1978  6:22 pm
