@@ -1,0 +1,1 @@
+algorithm produce complex primes csieve algorithm 372 $a1 cacm january 1970 dunham primes complex numbers 5.39 ca700111 jb february 14 1978 1:47 pm

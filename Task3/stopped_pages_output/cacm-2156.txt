@@ -1,0 +1,1 @@
+comment cheneys list-compaction algorithm cacm september 1971 fenichel lisp garbage collector virtual memory list processing storage allocation 4.19 4.49 ca710908 jb february 2 1978 1:36 pm

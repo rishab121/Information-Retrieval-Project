@@ -1,0 +1,1 @@
+chi-squared integral algorithm 299 s15 cacm april 1968 obrien wood chi-squared integral probability special functions 5.5 5.12 ca680409 jb february 23 1978 10:24

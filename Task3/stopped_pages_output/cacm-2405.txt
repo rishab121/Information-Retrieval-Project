@@ -1,0 +1,1 @@
+linear systems tridiagonal matrix f4 algorithm a470 cacm december 1973 kubicek system linear equations tridiagonal matrix sparse matrix 5.14 ca731203 jb january 19 1978 2:50 pm

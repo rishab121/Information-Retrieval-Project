@@ -1,0 +1,1 @@
+systems hyperbolic pde $d3 algorithm 392 cacm september 1970 smith mccall hyperbolic pde characteristic extrapolation order pde quasilinear 5.17 ca700909 jb february 10 1978 10:08

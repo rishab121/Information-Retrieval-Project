@@ -1,0 +1,1 @@
+linear quotient hash code method hash coding presented shown possess desirable attributes specifically algorithm simple efficient exhaustive needing time probe probes lookup performance data implementation hints cacm november 1970 bell kaman hashing hash code scatter storage calculated address search table lookup symbol table keys 3.74 4.9 ca701105 jb february 10 1978 8:33

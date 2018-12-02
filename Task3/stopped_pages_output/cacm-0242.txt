@@ -1,0 +1,1 @@
+notes geometric weighted check digit verification note describes method utilizing geometric weight modulus 11 checking digits computer multiplication division addition attempt made show limitations system cacm december 1961 wilson ca611208 jb march 15 1978 10:17 pm

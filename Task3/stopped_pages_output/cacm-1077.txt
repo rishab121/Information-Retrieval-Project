@@ -1,0 +1,1 @@
+chebyshev curve fit algorithm 91 cacm 1964 naur ca640512 jb march 9 1978 11:53 pm

@@ -1,0 +1,1 @@
+floating-point arithmetic 84-bit numbers classic straightforward technique presented limited size type number representation multiple precision arithmetic cacm january 1964 gregory raney ca640102 jb march 10 1978 5:41

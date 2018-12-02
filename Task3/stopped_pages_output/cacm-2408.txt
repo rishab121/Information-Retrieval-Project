@@ -1,0 +1,1 @@
+solving biharmonic equation square direct versus semidirect method methods solving biharmonic equation compared method direct eigenvalue-eigenvector decomposition method iterative solving poisson equation directly iteration cacm november 1973 ehrlich biharmonic direct method block iterative eigenvector-eigenvalue decomposition 5.14 5.17 ca731118 jb january 19 1978 3:28 pm

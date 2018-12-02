@@ -1,0 +1,1 @@
+gauss-seidel algorithm 220 cacm june 1964 batson ca640613 jb march 9 1978 9:28 pm

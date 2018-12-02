@@ -1,0 +1,1 @@
+gauss-seidel algorithm 220 cacm december 1963 shantz ca631209 jb march 13 1978 2:55 pm

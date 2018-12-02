@@ -1,0 +1,1 @@
+simultaneous system equations matrix inversion routine algorithm 92 cacm 1962 roek ca620519 jb march 20 1978 1:31 pm

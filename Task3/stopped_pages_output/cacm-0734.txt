@@ -1,0 +1,1 @@
+newton interpolation backward divided differences algorithm 168 cacm september 1963 thacher jr ca630924 jb march 13 1978 7:15 pm

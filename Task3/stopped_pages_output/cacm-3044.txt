@@ -1,0 +1,1 @@
+note conditional expressions evaluation conditional expression succeed deciding predicate diverges alternatives records nodes fields content cacm november 1978 friedman wise parallel evaluation suspending cons lisp conditional forms if-then-else ambiguous function infinite structures 4.2 4.13 4.32 5.24 ca781107 dh january 26 1979 10:44

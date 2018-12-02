@@ -1,0 +1,1 @@
+threaded code concept threaded code presented alternative machine language code hardware software realizations software realized interpretive code needing interpreter extensions optimizations mentioned cacm june 1973 bell interpreter machine code time tradeoff space tradeoff compiled code subroutine calls threaded code 4.12 4.13 6.33 ca730609 jb january 23 1978 2:05 pm

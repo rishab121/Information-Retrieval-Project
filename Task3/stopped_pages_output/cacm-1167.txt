@@ -1,0 +1,1 @@
+translation machine language programs automatic translation machine language programs highly desirable goal advent large-scale computers pitfalls make difficult achieve completely automatic translations analyzed shown primarily semantic nature semi-automatic procedure resolving semantic problems suggested cacm december 1965 gaines ca651202 jb march 6 1978 4:23 pm

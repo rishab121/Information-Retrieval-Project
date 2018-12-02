@@ -1,0 +1,1 @@
+simplified recombination scheme fibonacci buddy system simplified recombination scheme fibonacci buddy system requires tables repetitive calculations additional bits buffer presented cacm june 1975 cranston thomas fibonacci buddy system dynamic storage allocation buddy system 3.89 4.32 4.39 ca750606 jb january 9 1978 1:07 pm

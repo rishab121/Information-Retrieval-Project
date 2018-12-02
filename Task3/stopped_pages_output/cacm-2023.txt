@@ -1,0 +1,1 @@
+note data base deadlocks cacm july 1970 baecker data base synchronization locking deadlock reference count 3.73 ca700714 jb february 10 1978 4:18 pm

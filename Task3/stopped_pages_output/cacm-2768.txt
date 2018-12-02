@@ -1,0 +1,1 @@
+algorithm locating adjacent storage blocks buddy system simple scheme determination location block storage relative blocks scheme applicable buddy type storage allocation systems cacm april 1975 hinds dynamic storage allocation buddy system generalized fibonacci sequences 3.89 4.32 4.39 ca750409 jb january 9 1978 3:46 pm

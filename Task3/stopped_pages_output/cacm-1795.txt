@@ -1,0 +1,1 @@
+optimal code serial parallel computation cacm december 1969 fateman code optimization sequencing operations detection common subexpressions 4.12 ca691217 jb february 15 1978 1:59 pm

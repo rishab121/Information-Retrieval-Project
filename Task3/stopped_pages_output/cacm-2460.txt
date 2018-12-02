@@ -1,0 +1,1 @@
+clenshaw-curtis quadrature algorithm r424 cacm august 1973 good ca730814 jb january 23 1978 10:29

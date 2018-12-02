@@ -1,0 +1,1 @@
+vector coupling clebsch-gordan coefficients algorithm 252 cacm april 1965 gunn ca650404 jb march 7 1978 3:58 pm

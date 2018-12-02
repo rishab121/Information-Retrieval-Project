@@ -1,0 +1,1 @@
+polygamma functions arbitrary precision algorithm 349 s14 cacm april 1969 schwachheim polygamma function psi function digamma function trigamma function tetragamma function pentagamma function special functions 5.12 ca690404 jb february 17 1978 4:36 pm

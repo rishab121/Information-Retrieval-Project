@@ -1,0 +1,1 @@
+students t-distribution $s14 algorithm 395 cacm october 1970 hill students t-statistic distribution function approximation asymptotic expansion 5.12 5.5 ca701003 jb february 10 1978 9:31

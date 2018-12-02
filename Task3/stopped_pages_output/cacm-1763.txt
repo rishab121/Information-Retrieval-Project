@@ -1,0 +1,1 @@
+roots low-order polynomial equations algorithm 326 c2 cacm april 1968 nonweiler root finders polynomial equation roots quadratic equation roots cubic equation roots biquadratic equation roots polynomial zeros 5.15 ca680407 jb february 23 1978 10:27

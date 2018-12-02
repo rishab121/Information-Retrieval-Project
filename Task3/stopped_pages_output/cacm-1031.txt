@@ -1,0 +1,1 @@
+note starting newton-raphson method determination suitable initial estimate root equation fx 0 means computing roots sequence related equations cacm july 1964 beyer ca640716 jb march 9 1978 7:44 pm

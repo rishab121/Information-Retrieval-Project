@@ -1,0 +1,1 @@
+eigenvalues symmetric 3 3 matrix cacm april 1961 smith ca610402 jb march 17 1978 12:14

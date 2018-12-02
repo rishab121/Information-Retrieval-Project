@@ -1,0 +1,1 @@
+chebyshev solution overdetermined linear system algorithm 328 f4 cacm june 1969 golub chebyshev solutions over-determined linear systems linear equations exchange algorithm 5.13 5.14 5.41 ca690613 jb february 17 1978 9:49

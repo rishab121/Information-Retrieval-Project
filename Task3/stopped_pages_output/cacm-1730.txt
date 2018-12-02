@@ -1,0 +1,1 @@
+jacobi polynomials algorithm 332 s22 cacm june 1968 witte jacobi polynomials orthogonal polynomials three-term recurrences special functions 5.12 ca680615 jb february 22 1978 3:17 pm

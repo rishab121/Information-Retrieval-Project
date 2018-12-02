@@ -1,0 +1,1 @@
+remarks lookup structured variables cacm april 1974 abrahams pl/1 symbol table structured variables qualified references compilers 4.12 4.22 ca740411 jb february 1 1978 10:34

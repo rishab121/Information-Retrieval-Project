@@ -1,0 +1,1 @@
+general method systematic interval computation numerical integration initial problems procedure continuously computing monitoring step size self-starting p-th order numerical integration method solve initial problem procedure estimate truncation error calculate step size cacm october 1966 martin paulson sashkin ca661004 jb march 2 1978 4:05 pm

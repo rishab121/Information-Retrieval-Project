@@ -1,0 +1,1 @@
+complete elliptic integral kind algorithm 56 s21 cacm january 1966 larssen ca660103c jb march 23 1978 7:33 pm

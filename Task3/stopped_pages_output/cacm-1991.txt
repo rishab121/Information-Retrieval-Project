@@ -1,0 +1,1 @@
+number automorphisms singly generated automaton cacm september 1970 bavel automata finite automata singly generated automata automorphisms generators length state minimal-length generators orbit 5.22 ca700914 jb february 10 1978 9:54

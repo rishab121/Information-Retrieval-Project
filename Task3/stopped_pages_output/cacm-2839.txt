@@ -1,0 +1,1 @@
+insertion technique one-sided height-balanced trees restriction height-balanced binary trees presented seen restriction reduces extra memory requirements half extra bits node maintains fast search capabilities cost increased time requirements inserting nodes cacm august 1976 hirschberg balanced binary search trees 3.73 3.74 4.34 5.25 5.31 ca760805 jb january 4 1978 10:04

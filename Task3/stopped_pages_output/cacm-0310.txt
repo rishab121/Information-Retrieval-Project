@@ -1,0 +1,1 @@
+set associate legendre polynomials kind algorithm 62 cacm july 1961 herndon ca610707 jb march 16 1978 10:23 pm

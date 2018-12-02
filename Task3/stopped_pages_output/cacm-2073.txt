@@ -1,0 +1,1 @@
+solution linear programs 0-1 variables implicit enumeration algorithm 341 $h cacm april 1970 guignard linear programming zero-one variables partial enumeration 5.41 ca700411 jb february 13 1978 2:43 pm

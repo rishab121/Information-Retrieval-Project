@@ -1,0 +1,1 @@
+evaluation fresnel sine integral algorithm 89 cacm 1962 cundiff ca620515 jb march 20 1978 1:36 pm

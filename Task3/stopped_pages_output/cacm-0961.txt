@@ -1,0 +1,1 @@
+limited bit manipulation fortran ii techniques developed manipulating bits fortran ii techniques allow individual bits tested fields shifted numbers coded bcd converted binary cacm december 1964 oster ca641210 jb march 9 1978 3:27 pm

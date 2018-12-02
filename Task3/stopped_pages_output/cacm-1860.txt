@@ -1,0 +1,1 @@
+algol-based associative language high level programming language large complex associative structures designed implemented underlying data structure implemented hash-coding technique discussion includes comparison work examples applications language cacm august 1969 feldman algol associative programming language data structure 4.22 ca690803 jb february 15 1978 6:02 pm

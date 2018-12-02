@@ -1,0 +1,1 @@
+numerical solution n-point boundary problem linear ordinary differential equations method numerical solution then-point boundary problem homogeneous linear ordinary differential equations developed method requires runge-kutta integrations interval consideration solution linear system equations n-1 unknowns cacm april 1965 day ca650417 jb march 7 1978 3:30 pm

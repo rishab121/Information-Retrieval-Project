@@ -1,0 +1,1 @@
+subroutine perform in-situ transposition rectangular matrix algorithm 380 cacm 1970 lachenmaier rectangular matrix transpose 5.14 ca700511 jb february 13 1978 1:14 pm

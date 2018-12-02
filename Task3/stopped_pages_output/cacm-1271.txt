@@ -1,0 +1,1 @@
+secondary key retrieval ibm 7090-1301 system secondary key retrieval method involves preparation secondary storage lists primary data records search requests satisfied logical operations lists producing complete set addresses primary records relevant request experimental results presented comparative analysis cacm april 1965 davis lin ca650420 jb march 7 1978 3:18 pm

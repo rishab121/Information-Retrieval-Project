@@ -1,0 +1,1 @@
+solution linear programs 0-1 variables implicit enumeration algorithm 341 cacm november 1968 byrne proll linear programming zero-one variables partial enumeration 5.41 ca681113 jb february 21 1978 2:21 pm

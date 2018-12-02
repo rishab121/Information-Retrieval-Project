@@ -1,0 +1,1 @@
+students t-quantiles $s14 algorithm 396 cacm october 1970 hill students t-statistic quantile asymptotic approximation 5.12 5.5 ca701004 jb february 10 1978 9:29

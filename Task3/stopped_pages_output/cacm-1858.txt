@@ -1,0 +1,1 @@
+algorithm filon quadrature algorithm filon quadrature considerable attention devoted analysis round-off truncation errors algorithm includes automatic error control feature cacm august 1969 chase fosdick quadrature filon quadrature integration filon integration fourier coefficients fourier series 5.16 ca690805 jb february 15 1978 5:55 pm

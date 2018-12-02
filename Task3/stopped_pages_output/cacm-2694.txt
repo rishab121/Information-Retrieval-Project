@@ -1,0 +1,1 @@
+computation legendre series coefficients c6 algorithm a473 cacm january 1974 piessens legendre series chebyshev series 5.13 ca740105 jb january 18 1978 2:21 pm

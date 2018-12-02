@@ -1,0 +1,1 @@
+note set basis problem related compaction character sets note discusses reduction set basis problem clique cover problem cacm november 1975 kou wong compaction character sets set basis set covering computational complexity polynomial completeness clique cover 4.9 5.25 5.39 ca751106 jb january 6 1978 8:55

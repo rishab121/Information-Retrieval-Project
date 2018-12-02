@@ -1,0 +1,1 @@
+poisson-charlier polynomials algorithm 234 s23 cacm july 1964 simoes pereira ca640705 jb march 9 1978 8:19 pm

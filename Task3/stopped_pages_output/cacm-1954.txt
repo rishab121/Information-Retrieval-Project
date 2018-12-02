@@ -1,0 +1,1 @@
+eigenvalues eigenvectors real symmetric matrix algorithm 384 $f2 cacm december 1970 stewart real symmetric matrix eigenvalues eigenvectors qr algorithm 5.14 ca701209 jb february 9 1978 3:08 pm

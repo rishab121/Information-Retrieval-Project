@@ -1,0 +1,1 @@
+note subexpression ordering evaluation arithmetic expressions cacm august 1974 denning graham ca740807 jb january 17 1978 9:44

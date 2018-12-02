@@ -1,0 +1,1 @@
+note subexpression ordering execution arithmetic expressions counterexample supposed optimality algorithm generating schedules trees tasks unequal execution times presented comparison critical path heuristic discussed cacm november 1973 denning graham scheduling tree scheduling task scheduling multiprocessor scheduling 4.32 8.3 8.1 ca731113 jb january 25 1978 4:24 pm

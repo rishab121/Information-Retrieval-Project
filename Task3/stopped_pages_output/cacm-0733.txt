@@ -1,0 +1,1 @@
+newton interpolation forward divided differences algorithm 169 cacm september 1963 thacher jr ca630925 jb march 13 1978 7:13 pm

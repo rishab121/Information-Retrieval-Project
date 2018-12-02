@@ -1,0 +1,1 @@
+peephole optimization redundant instructions discarded final stage compilation simple optimizing technique called peephole optimization method examplesare cacm july 1965 mckeeman ca650704 jb march 6 1978 9:05 pm

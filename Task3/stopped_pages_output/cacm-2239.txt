@@ -1,0 +1,1 @@
+squank algorithm c379 cacm december 1972 hallet mund numerical integration integration rule adaptive integration automatic integration simpsons rule numerical quadrature quadrature rule adaptive quadrature automatic quadrature round-off error control 5.16 ca721216 jb january 27 1978 9:01

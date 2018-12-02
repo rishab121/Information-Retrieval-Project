@@ -1,0 +1,1 @@
+chebyschev curve-fit revised algorithm 318 e2 cacm december 1967 boothroyd ca671208a jb february 26 1978 2:20 pm

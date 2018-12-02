@@ -1,0 +1,1 @@
+basic cycle generation algorithm 491 cacm 1975 gibbs graph basic cyclesfundamental cycle spanning tree vertex adjacency matrix 5.32 3.24 ca750504 jb january 9 1978 2:39 pm

@@ -1,0 +1,1 @@
+exponential integral eix algorithms 385 $s13 cacm december 1970 redish ansi fortran standard 4.0 4.22 ca701210 jb february 9 1978 3:04 pm

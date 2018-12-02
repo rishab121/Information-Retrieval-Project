@@ -1,0 +1,1 @@
+simple technique structured variable lookup simple technique symbol-table lookup structured variables based simple automata theory presented technique offers deterministic solution problem handled nondeterministic manner pl/i cobol compilers cacm september 1973 gates poplawski symbol table organization pl/i cobol structured variables 4.12 ca730906 jb january 23 1978 9:17

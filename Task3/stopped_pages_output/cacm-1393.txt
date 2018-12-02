@@ -1,0 +1,1 @@
+pm system polynomial manipulation pm ibm 7094 program system formal manipulation polynomials number variables integral coefficients unrestricted size formal operations performed system sums differences products quotients derivatives substitutions greater common divisors pm

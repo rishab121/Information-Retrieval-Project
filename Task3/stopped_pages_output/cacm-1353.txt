@@ -1,0 +1,1 @@
+techniques automatic tolerance control linear programming technical note numerical steps simplex method linear programming reviewed tolerances needed numerical procedure defined objective criteria accomplishing numerical steps method calculation tolerances cacm november 1966 clasen ca661105 jb march 2 1978 3:37 pm

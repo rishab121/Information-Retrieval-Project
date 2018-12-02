@@ -1,0 +1,1 @@
+solution problem concurrent programming control number mainly independent sequential-cyclic processes restricted means communication made moment engaged critical section cycle cacm september 1965 dijkstra ca650908 jb march 6 1978 7:24 pm

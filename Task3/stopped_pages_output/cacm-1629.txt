@@ -1,0 +1,1 @@
+stat-pack biostatistical programming package package fortran statistical programs small medium size 40k characters 8k words fortran ii compiler exists availability announced major design criteria ease ease modification flexibility input detail output cacm february 1967 shannon henschke ca670213 jb february 28,1978 1:57 pm

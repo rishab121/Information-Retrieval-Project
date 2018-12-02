@@ -46,7 +46,7 @@ class BM25:
 
 
     def createQueryFrequencyDict(self):
-        for term in self.query.split(' '):
+        for term in self.query.split():
             if term in self.queryFrequencyDict.keys():
                 self.queryFrequencyDict[term] += 1
             else:
@@ -61,12 +61,12 @@ class BM25:
 
 
     def score(self):
-        for term in self.query.split(' '):
+        for term in self.query.split():
             self.calculateTermScore(term)
 
     def printScores(self, qId):
         sortedDict = sorted(self.docScoreDict.items(), key=operator.itemgetter(1), reverse=True)
-        file = open("BM_Output/"+str(qId)+"-score.txt", "w", encoding="utf-8")
+        file = open("BM_Output/"+str(qId)+"-score.txt", "w")
         rank = 0
         for tup in sortedDict:
             rank += 1
@@ -78,8 +78,10 @@ class BM25:
         queries = self.helper.get_queries()
         for q in queries.keys():
             self.query = queries[q]
+            self.query = self.helper.parse_query(self.query)
             self.queryFrequencyDict = defaultdict(int)
             self.docScoreDict = defaultdict(int)
             self.createQueryFrequencyDict()
             self.score()
             self.printScores(q)
+b= BM25(1.2,100, 0.75)

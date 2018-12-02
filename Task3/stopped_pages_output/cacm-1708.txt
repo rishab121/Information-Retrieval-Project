@@ -1,0 +1,1 @@
+note efficiency lisp computation paged machine problem levels storage programs explored context lisp system core memory buffer large virtual memory stored drum details timing problem cacm august 1968 borrow murphy storage management list processor implementation lisp paging secondary storage utilization efficiency paged computation 3.7 4.1 4.2 ca680806 jb february 22 1978 10:45

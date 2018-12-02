@@ -1,0 +1,1 @@
+partial step integration partial step integration equation derived adams adams-bashforth method integration differential equations method obtaining functional values points intermediate integration points yields accuracy comparable integration require storing additional information interpolation methods cacm july 1966 glauz ca660710 jb march 2 1978 9:08 pm

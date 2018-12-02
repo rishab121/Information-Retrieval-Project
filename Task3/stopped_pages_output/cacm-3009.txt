@@ -1,0 +1,1 @@
+insertions deletions one-sided height-balanced trees recently hirschberg established insertions one-sided height-balanced trees 0log^2n steps proved deletions performed 0log^2n steps answers open problem posed hirschberg cacm march 1978 kosaraju avl trees balanced trees binary search dynamic balancing 3.73 3.74 4.34 5.25 5.31 ca780304 jb march 28 1978 1:12 pm

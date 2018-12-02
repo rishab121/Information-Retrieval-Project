@@ -1,0 +1,1 @@
+comments perfect hashing functions single probe retrieving method static sets cacm february 1979 anderson hashing hashing methods hash coding direct addressing identifier to-address transformations perfect hashing functions perfect hash coding reduction retrieving scatter storage searching 3.7 3.74 4.34 ca790205 dh april 10 1979 4:25 pm

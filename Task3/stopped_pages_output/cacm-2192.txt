@@ -1,0 +1,1 @@
+recursion induction principle inductive method proving things recursively defined functions shown proving partial functions equivalent applicable proofs interpreters programming languages cacm 1971 morris jr recursion induction correctness proofs compiler correctness 4.13 4.2 5.24 ca710507 jb february 3 1978 2:27 pm

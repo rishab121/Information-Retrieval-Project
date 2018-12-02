@@ -1,0 +1,1 @@
+algol procedure fast fourier transform arbitrary factors algorithm 339 c6 cacm march 1969 singleton fast fourier transform complex fourier transform multivariate fourier transform fourier series harmonic analysis spectral analysis orthogonal polynomials orthogonal transformation virtual core memory permutation 3.15 3.83 5.12 5.14 ca690310 jb february 20 1978 8:43

@@ -1,0 +1,1 @@
+romberg integration algorithm 60 cacm 1962 buchner ca620518 jb march 20 1978 1:33 pm

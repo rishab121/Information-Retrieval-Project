@@ -1,0 +1,1 @@
+generation permutations pseudo-lexicographic order algorithm g6 cacm july 1967 ord-smith ca670711d jb march 23 1978 3:16 pm

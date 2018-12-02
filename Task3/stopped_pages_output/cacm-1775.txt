@@ -1,0 +1,1 @@
+adjustment inverse symmetric matrix symmetric elements changed algorithm 325 f1 cacm february 1968 zielke symmetric matrix matrix inverse matrix perturbation matrix modification 5.14 ca680207 jb february 23 1978 12:01 pm

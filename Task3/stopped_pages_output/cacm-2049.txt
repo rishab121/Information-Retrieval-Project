@@ -1,0 +1,1 @@
+accurate floating-point summation paper describes alternate method summing set floating-point numbers comparison error bound method standard summation method shows considerably sensitive propagation round-off error cacm june 1970 linz summation floating-point addition round-off error round-off propagation 5.11 ca700606 jb february 13 1978 11:36

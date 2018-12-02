@@ -1,0 +1,1 @@
+modified romberg quadrature algorithm 351 $d1 cacm june 1970 wallick numerical integration romberg quadrature modified romberg quadrature trapezoid values rectangle values 5.16 ca700615 jb february 13 1978 10:27

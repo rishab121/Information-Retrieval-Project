@@ -1,0 +1,1 @@
+newton interpolation backward divided differences cacm april 1963 kahan farkas ca630411 jb march 14 1978 12:20 pm

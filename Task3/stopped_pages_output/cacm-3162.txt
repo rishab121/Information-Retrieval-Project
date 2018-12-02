@@ -1,0 +1,1 @@
+improving worst case running time boyer-moore string matching algorithm shown modify boyer-moore string matching algorithm worst case running time linear multiple occurrences pattern present text cacm september 1979 galil computational complexity linear time worst case string matching periodicity 3.74 4.40 5.25 ca790903 db january 14 1980 10:27
