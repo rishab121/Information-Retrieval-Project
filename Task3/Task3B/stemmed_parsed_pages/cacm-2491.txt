@@ -1,0 +1,8 @@
+thread code the concept of thread code is present as
+an altern to machin languag code hardwar and softwar realiz
+of it ar given in softwar it is realiz as
+interpret code not need an interpret extens and optim ar
+mention cacm june 1973 bell j r interpret machin code
+time tradeoff space tradeoff compil code subroutin call thread code
+4 12 4 13 6 33 ca730609 jb januari 23
+1978 2 05 pm

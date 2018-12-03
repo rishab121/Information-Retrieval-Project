@@ -1,0 +1,9 @@
+on revers subroutin and comput that run backward a comput
+design is describ which permit subroutin to be execut backward
+as well as forward either with their instruct unchang or
+replac with conjug instruct it is shown that us thi
+concept a number of new subroutin type can be develop
+with rather unusu properti sinc these properti ar analog to
+certain matrix oper a parallel nomenclatur is suggest for their
+classif cacm septemb 1965 reili e d federighi f d
+ca650906 jb march 6 19787 33 pm

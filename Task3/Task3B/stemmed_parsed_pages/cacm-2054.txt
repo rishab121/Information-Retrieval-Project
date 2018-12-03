@@ -1,0 +1,22 @@
+on the feasibl of voic input to an on line
+comput process system an on line digit comput process system
+is consid in which an ordinari telephon is the complet
+termin devic input to the comput be provid as a
+sequenc of spoken word and output to the user be
+audio respons from the machin the feasibl of implement such
+a system with a fortran like algebra compil as the
+object processor is consid detail of a specif word recognit
+program ar given thi techniqu depend on three simplifi restrict
+name a small vocabulari set known speaker and a moment
+of silenc between each input word experiment result ar present
+give error rate for differ experiment condit as well as
+the machin resourc requir to accommod sever user at a
+time the result show that at thi time it is
+both econom and logic feasibl to handl at least 40
+user at a time with an ibm 360 65 comput
+cacm june 1970 elder h a speech recognit word recognit
+pattern match pattern recognit time share remot access voic input
+speech input telephon input output acoust signal spoken word input
+talk to comput man machin interact 3 63 3 81
+4 32 4 41 6 35 ca700601 jb februari 13
+1978 12 12 pm

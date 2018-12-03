@@ -1,0 +1,13 @@
+a select travers algorithm for binari search tree the problem
+of select data item from a binari search tree accord
+to a list of rang condit is consid the process
+of visit a minim number of node to retriev data
+satisfi the rang condit is call select travers present in
+thi paper is an algorithm for select travers which us
+a tag field for each node in the tree the
+algorithm is particularli us and effici when examin of data
+is more time consum than examin of a tag field
+cacm june 1978 driscol j lien y data retriev rang
+condit binari search tree tree travers select travers 3 74
+5 24 5 25 ca780602 dh februari 26 1979 12
+40 pm

@@ -1,0 +1,21 @@
+an algorithm for deriv the equat of mathemat physic by
+symbol manipul a method is describ wherebi a digit comput
+can be us to deriv the equat of mathemat physic
+in ani curvilinear coordin system request by the user the
+effect of the techniqu is demonstr by us it to
+deriv the navier stoke equat of fluid motion and the
+continu equat to deriv these equat by thi method the
+user need know onli the coordin transform equat relat the
+curvilinear coordin of interest to an orthogon cartesian triad when
+thi program is us and the coordin transform equat ar
+suppli as input the comput will deriv the navier stoke
+equat and the continu equat the equat obtain will be
+rel to the curvilinear coordin system specifi by the transform
+equat us as input in thi paper the emphasi is
+on theoret consider and methodolog rather than on program detail
+result ar present for cylindr polar and spheric polar coordin
+system cacm decemb 1968 howard j c tashjian h formac
+navier stroke equat continu equat tensor tensor equat curvilinear coordin
+system fortran symbol manipul 3 21 3 25 3 29
+4 12 4 29 ca681202 jb februari 21 1978 2
+02 pm

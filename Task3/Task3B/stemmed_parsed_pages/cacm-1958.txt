@@ -1,0 +1,12 @@
+improv round off in rung kutta comput with gill s
+method a rung kutta gill scheme in common us is
+base on an incomplet adapt for float point oper of
+gill s method an improv version reduc round off error
+significantli in thi note the heart of the scheme is
+present in fortran languag it is then shown how an
+improv version of the method can be obtain with the
+addit of two fortran statement the two version is a
+signific improv a numer exampl compar the two is includ
+cacm decemb 1970 thompson r j rung kutta method ordinari
+differenti equat round off error error analysi 5 11 5
+17 ca701205 jb februari 9 1978 3 40 pm

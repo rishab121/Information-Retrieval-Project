@@ -1,0 +1,22 @@
+an algorithm for the construct of bound context parser an
+algorithm is describ which accept an arbitrari context free grammar
+and construct a bound context parser for it whenev such
+a parser exist in the first part of the paper
+the definit of a context free grammar and the work
+of a bound context parser ar recal the notion of
+reduct class for a context free grammar is then introduc
+and it connect with the structur of a bound context
+parser is indic next pushdown automata which gener the differ
+reduct class of a context free grammar ar defin final
+the algorithm is describ it essenti carri out an exhaust
+studi of all possibl run of the pushdown automata gener
+the reduct class in the second part the util of
+the algorithm is discuss ed in the light of the
+experi gain from it us in compil design the algorithm
+is claim to be particularli us in the simultan design
+of a languag and a compil for it cacm mai
+1970 loeckx j bound context pars bound context syntact analysi
+parser construct syntact analyz construct gener compil compil compil write
+system translat write system metacompil context free grammar formal languag
+pushdown automata 4 12 5 22 5 23 ca700505 jb
+februari 13 1978 1 58 pm

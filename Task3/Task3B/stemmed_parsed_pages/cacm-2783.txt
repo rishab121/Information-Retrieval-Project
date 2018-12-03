@@ -1,0 +1,4 @@
+the algorithm select for find the ith smallest of n
+element m1 algorithm 489 cacm march 1975 floyd r w
+rivest r l select median quantil 5 30 5 39
+ca750305 jb januari 9 1978 4 43 pm

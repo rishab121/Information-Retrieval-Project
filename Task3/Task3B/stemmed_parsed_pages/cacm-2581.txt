@@ -1,0 +1,4 @@
+a local organ parser for spoken input thi paper describ
+lpar a local organ pars system design for us in
+a continu speech recogn lpar process a string of phonem
+which contain am

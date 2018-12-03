@@ -1,0 +1,11 @@
+ditran a compil emphas diagnost ditran diagnost fortran is an
+implement of asa basic fortran with rather extens error check
+capabl both at compil time and dure execut of a
+program the need for improv diagnost capabl and some object
+to be met by ani compil ar discuss attent is
+given to the design and implement of ditran and the
+particular techniqu emploi to provid the diagnost featur the handl
+of error messag by a gener macro approach is describ
+special featur which provid teach aid for us by instructor
+ar note cacm januari 1967 moulton p g muller m
+e ca670109 jb februari 28 1978 4 30 pm

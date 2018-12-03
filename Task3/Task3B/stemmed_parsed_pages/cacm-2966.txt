@@ -1,0 +1,13 @@
+the choic of refer poin ts in best match file
+search improv to the exhaust search method of best match
+file search have previous been achiev by do a preprocess
+step involv the calcul of distanc from a refer poin
+t thi paper discuss the proper choic of refer poin
+ts and extend the previou algorithm to us more than
+on refer poin t it is shown that refer poin
+ts should be locat outsid of data cluster the result
+of comput simul ar present which show that larg improv
+can be achiev by the proper choic and locat of
+multipl refer poin ts cacm mai 1977 shapiro m match
+file search best match nearest neighbor classif 3 73 3
+74 ca770506 jb decemb 29 1977 1 57 am

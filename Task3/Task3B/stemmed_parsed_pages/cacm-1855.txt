@@ -1,0 +1,17 @@
+a program for the syntact analysi of english sentenc a
+program is describ which produc syntact analys of english sentenc
+with respect to a transform grammar the main featur of
+the analyz ar that it us onli a limit dictionari
+of english word and that it pursu all analysi path
+simultan while process the sentenc from left to right the
+form of represent us for the dictionari and the grammar
+is indic and an outlin account is given of the
+analysi procedur techniqu for keep the size of the analysi
+record within reason limit and for avoid the need for
+dynam applic of certain transform rule ar describ a number
+of exampl of output produc by the program ar given
+the output includ time inform cacm august 1969 dewar h
+bratlei p syntact analysi languag process languag analysi pars analysi
+procedur recognit procedur english sentenc linguist psycholinguist transform grammar limit
+dictionari predict analysi 3 42 3 36 ca690808 jb februari
+15 1978 5 24 pm

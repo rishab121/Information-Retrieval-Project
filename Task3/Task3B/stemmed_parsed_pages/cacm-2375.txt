@@ -1,0 +1,18 @@
+a compar analysi of disk schedul polici five well known
+schedul polici for movabl head disk ar compar us the
+perform criteria of expect seek time system orient and expect
+wait time individu i o request orient both analyt and
+simul result ar obtain the varianc of wait time is
+introduc as anoth meaning measur of perform show possibl discrimin
+against individu request then the choic of a util function
+to measur total perform includ system orient and individu request
+orient measur is describ such a function allow on to
+differenti among the schedul polici over a wide rang of
+input load condit the select and implement of a maximum
+perform two polici algorithm ar discuss cacm march 1972 teorei
+t j pinkerton t b access time analyt model auxiliari
+storag direct access storag disk analysi disk schedul perform criteria
+peripher memori devic real time system respons time rotat delai
+schedul polici seek time simul storag unit time share system
+wait time 3 72 4 32 6 34 ca720306jb januari
+31 1978 2 38 pm

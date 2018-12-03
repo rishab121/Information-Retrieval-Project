@@ -1,0 +1,2 @@
+connect between accuraci and stabil properti of linear multistep formula
+thi paper is concern with stabil and accuraci of fam

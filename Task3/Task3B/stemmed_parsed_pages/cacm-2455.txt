@@ -1,0 +1,5 @@
+a gener of avl tree a gener of avl tree
+is propos in which imbal up to triangl shape is
+a small integ an experi is perform to compar these
+tree with standard avl tree and with balanc tree on
+the basi of mean retriev time of am

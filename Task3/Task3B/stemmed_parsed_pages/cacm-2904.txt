@@ -1,0 +1,7 @@
+an algorithm for reduct of oper strength a simpl algorithm
+which us an index temporari tabl to perform reduct of
+oper strength in strongli connect region is present sever extens
+includ linear function test replac ar discuss these algorithm should
+fit well into an integr packag of local optim algorithm
+cacm novemb 1977 cock j compil optim of compil code
+program

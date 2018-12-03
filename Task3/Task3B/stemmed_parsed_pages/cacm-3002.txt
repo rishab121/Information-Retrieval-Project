@@ -1,0 +1,16 @@
+a record and file partit model on of the main
+object in the design of a file system is the
+reduct of storag and data transfer cost thi paper present
+a model in which sever request access the file system
+and each request requir inform from on or more variabl
+length data item the probabl of access and the distribut
+of each data item s length ar assum to be
+known and to be mutual independ the file system us
+on or more storag devic and each record mai be
+partit into subrecord that ar store on differ devic on
+of the subrecord is design as the primari record when
+a request for a record is made the primari record
+is first access and other subrecord ar access onli if
+the pertin inform is not store in the primari record
+the model that is present in thi paper both as
+a nonlinear program

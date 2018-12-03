@@ -1,0 +1,3 @@
+incorpor of nonstandard input output devic into fortran system a
+fortran system mai readili be modifi to handl input output
+with nonstandard media on the sam

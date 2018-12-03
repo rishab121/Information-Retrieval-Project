@@ -1,0 +1,19 @@
+a gener formul of storag alloc formal of a gener
+comput storag alloc process is attempt with a given comput
+m is associ a fictiti comput m essenti ident to
+m except in respect to possess of unbound primari storag
+map of the total storag set intern and extern of
+m into the direct address set of m ar introduc
+a program sequenc p for m is term m admiss
+rel to a specif execut time period if there is
+a map underwhich p and it effect data refer ar
+all locat in the direct address set of m storag
+alloc is consid as a process of establish for an
+arbitrari m program a sequenc of map a decoupl of
+the program into m admiss subprogram and a link set
+of interlud an exist proof in term of a complet
+interpret m program as indic some special case ar discuss
+variou restrict on gener of m program ar consid under
+which more practic realiz of alloc process becom tractabl cacm
+octob 1961 robert jr a e ca611003 jb march 16
+1978 1 22 pm

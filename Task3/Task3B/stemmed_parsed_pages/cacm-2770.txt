@@ -1,0 +1,10 @@
+the quadrat hash method when the tabl size is not
+a prime number previou work on quadrat hash method is
+limit mainli to the case where the tabl size is
+a prime number here certain result ar deriv for composit
+number it is shown that all composit number contain at
+least the squar of on of the compon prime have
+full period integ coeffici quadrat hash function cacm april 1975
+batagelj v quadrat search hash code scatter storag tabl size
+3 74 4 10 ca750407 jb januari 9 1978 3
+54 pm

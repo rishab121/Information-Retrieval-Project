@@ -1,0 +1,17 @@
+implic of structur program for machin architectur base on an
+empir studi of more than 10 000 line of program
+text written in a goto less languag a machin architectur
+specif design for structur program is propos sinc assign call
+return and if statement togeth account for 93 percent of
+all execut statement special care is given to ensur that
+these statement can be implement effici a highli compact instruct
+encod scheme is present which can reduc program size by
+a factor of 3 unlik a huffman code which util
+variabl length field thi method us onli fix length 1
+byte op code and address field the most frequent instruct
+consist of a singl 1 byte field as a consequ
+instruct decod time is minim and the machin is effici
+with respect to both space and time cacm march 1978
+tanenbaum a machin architectur comput architectur comput organ instruct set
+design program characterist 4 12 4 22 4 9 6
+21 ca780308 jb march 28 1978 12 55 pm

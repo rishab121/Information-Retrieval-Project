@@ -1,0 +1,5 @@
+the design implement and evalu of a work set dispatch
+the behavior of a comput system is larg depend upon
+the algorithm emploi to alloc the system resourc to the
+process compet for them recent research in time share page
+system ha develop the work set model for program

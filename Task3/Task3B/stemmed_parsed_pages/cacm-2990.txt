@@ -1,0 +1,15 @@
+effect inform retriev us term accuraci the perform of inform
+retriev system can be evalu in a number of differ
+wai much of the publish evalu work is base on
+measur the retriev perform of an averag user queri unfortun
+formal proof ar difficult to construct for the averag case
+in the present studi retriev evalu is base on optim
+the perform of a specif user queri the concept of
+queri term accuraci is in troduc as the probabl of
+occurr of a queri term in the document relev to
+that queri by relat term accuraci to the frequenc of
+occurr of the term in the document of a collect
+it is possibl to give formal proof of the effect
+with respect to a given user queri of a number
+of automat index system that have been us successfulli in
+experiment situat am

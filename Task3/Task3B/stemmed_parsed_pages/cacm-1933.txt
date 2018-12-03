@@ -1,0 +1,13 @@
+code the lehmer pseudo random number gener an algorithm and
+code techniqu is present for quick evalu of the lehmer
+pseudo random number gener modulo 2 31 1 a prime
+mersenn number with produc 2 31 2 number on a
+p bit greater than 31 comput the comput method is
+extend to limit problem in modular arithmet prime factor for
+2 61 2 and a primit root for 2 61
+1 the next largest prime mersenn number ar given for
+possibl construct of a pseudo random number gener of increas
+cycl length cacm februari 1969 payn w h rabung j
+r bogyo t p pseudo random number random number modular
+arithmet uniform probabl densiti uniform frequenc function simul prime factor
+primit root ca690205 jb februari 20 1978 11 07 am

@@ -1,0 +1,24 @@
+a fast string search algorithm an algorithm is present that
+search for the locat i of the first occurr of
+a charact string pat in anoth string string dure the
+search oper the charact of pat ar match start with
+the last charact of pat the inform gain by start
+the match at the end of the pattern often allow
+the algorithm to proce in larg jump through the text
+be search thu the algorithm ha the unusu properti that
+in most case not all of the first i charact
+of string ar inspect the number of charact actual inspect
+on the averag decreas as a function of the length
+of pat for a random english pattern of length 5
+the algorithm will typic inspect i 4 charact of string
+befor find a match at i furthermor the algorithm ha
+been implement so that on the averag fewer than i
+patlen machin instruct ar execut these conclus ar support with
+empir evid and a theoret analysi of the averag behavior
+of the algorithm the worst case behavior of the algorithm
+is linear in i patlen assum the avail of arrai
+space for tabl linear in patlen plu the size of
+the alphabet cacm octob 1977 boyer r s bibliograph search
+comput complex inform retriev linear time bound pattern match text
+edit 3 74 4 40 5 25 ca771010 jb decemb
+27 1977 9 43 am

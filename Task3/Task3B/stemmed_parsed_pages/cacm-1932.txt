@@ -1,0 +1,15 @@
+the logarithm error and newton s method for the squar
+root the problem of obtain optim start valu for the
+calcul of the squar root us newton s method is
+consid it ha been point out elsewher that if rel
+error is us as the measur of good of fit
+optim result ar not obtain when the initi approxim is
+a best fit it is shown here that if instead
+the so call logarithm error is us then a best
+initi fit is optim for both type of error moreov
+us of the logarithm error appear to simplifi the problem
+of determin the optim initi approxim cacm februari 1969 king
+r f phillip d l squar root newton s method
+rel error logarithm error best fit optim approxim maxim error
+recurr relat integ root error curv 5 12 5 13
+ca690206 jb februari 20 1978 10 55 am

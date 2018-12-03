@@ -1,0 +1,14 @@
+horner s rule for the evalu of gener close queue
+network the solut of separ close queue network requir the
+evalu of homogen multinomi express the number of term in
+those express grow combinatori with the size of the network
+such that a direct summat mai becom impract an algorithm
+is given which doe not show a combinatori oper count
+the algorithm is base on a gener of horner s
+rule for polynomi it is also shown how mean queue
+size and throughput an be obtain at neglig extra cost
+onc the normal constant is evalu cacm octob 1975 reiser
+m kobayashi h queue network queue theori horner s rule
+evalu of multinomi sum load depend servic rate 5 12
+5 5 8 1 8 3 ca751007 jb januari 6
+1978 10 35 am

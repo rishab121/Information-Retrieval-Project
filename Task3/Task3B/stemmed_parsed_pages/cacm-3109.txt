@@ -1,0 +1,8 @@
+a data structur for manipul prioriti queue a data structur
+is describ which can be us for repres a collect
+of prioriti queue the primit oper ar insert delet union
+updat and search for an item of earliest prioriti cacm
+april 1978 vuillemin j data structur implement of set oper
+prioriti queue mergeabl heap binari tree 4 34 5 24
+5 25 5 32 8 1 ca780407 dh februari 26
+1979 3 39 pm

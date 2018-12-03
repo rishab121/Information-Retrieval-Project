@@ -1,0 +1,20 @@
+a cost orient algorithm for data set alloc in storag
+hierarchi data set alloc in todai s multilevel storag system
+is usual base on qualit ad hoc decis while it
+would be desir to obtain an optim solut to thi
+alloc problem it is clear that the number of paramet
+involv make it intract to straight forward solut in such
+a situat we must find a set of assumpt which
+simplifi the problem greatli but which still provid a basi
+for consid all signific cost element thi paper present such
+a first quantit alloc step it consid mani of the
+signific detail cost of system util data storag data stage
+and data migrat although mani avenu of further improv ar
+avail the present algorithm seem to be usefulli accur as
+such it can aid in quantifi the problem of data
+set alloc storag system configur and new devic design cacm
+june 1975 lum v y senko m e wang c
+p ling h data set alloc hierarch storag storag system
+configur data stage data migrat storag alloc analysi 3 5
+3 9 6 2 ca750603 jb januari 9 1978 1
+31 pm

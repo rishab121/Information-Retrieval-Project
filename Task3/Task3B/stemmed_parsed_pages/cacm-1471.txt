@@ -1,0 +1,10 @@
+program semant for multiprogram comput the semant ar defin for
+a number of meta instruct which perform oper essenti to
+the write of program in multiprogram comput system these meta
+instruct relat to parallel process protect of separ comput program
+debug and the share among user of memori segment and
+other comput object the name of which ar hierarch structur
+the languag sophist contempl is midwai between an assembl languag
+and an advanc algebra languag cacm march 1966 denni j
+b vanhorn e c ca660301 jb march 3 1978 2
+25 pm

@@ -1,0 +1,12 @@
+optim balanc of i o request to disk determin a
+polici for effici alloc and util of a set of
+disk drive with differ oper characterist is examin us analyt
+techniqu us standard queue theori each disk drive is character
+by a queue model with servic time of a disk
+drive repres by the probabl densiti function of the sum
+of two uniform distribut total respons time of the set
+of disk model is then minim under vari load condit
+the result indic that faster devic should have higher util
+factor and that the number of differ devic type util
+tend to decreas with decreas load specif exampl us 2314
+and 3330 combin ar examin cacm septemb 1975 piepm

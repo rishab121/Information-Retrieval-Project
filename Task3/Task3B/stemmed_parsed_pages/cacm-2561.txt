@@ -1,0 +1,15 @@
+a heurist approach to induct infer in fact retriev system
+heurist procedur ar present which have been develop to perform
+infer by gener from avail inform the procedur make us
+of a similar structur which is impos on the data
+base us nonnumer cluster algorithm thei ar implement in a
+model fact retriev system which us a formal queri languag
+and a properti list data structur a program of experi
+is describ wherein the procedur ar us with test data
+base which ar alter by delet part of the data
+and by purpos introduc fals data it is found that
+the system can infer the correct respons under a varieti
+of condit involv incomplet and inconsist data cacm decemb 1974
+skinner c w infer induct infer cluster fact retriev heurist
+3 61 3 71 3 79 ca741213 jb januari 13
+1978 3 40 pm

@@ -1,0 +1,8 @@
+a simpl techniqu for structur variabl lookup a simpl techniqu
+for the symbol tabl lookup of structur variabl base on
+simpl automata theori is present the techniqu offer a determinist
+solut to a problem which is current handl in a
+nondeterminist manner in pl i and cobol compil cacm septemb
+1973 gate g w poplawski d a symbol tabl organ
+pl i and cobol structur variabl 4 12 ca730906 jb
+januari 23 1978 9 17 am

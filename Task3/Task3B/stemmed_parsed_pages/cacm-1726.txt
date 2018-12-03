@@ -1,0 +1,24 @@
+preliminari investig of techniqu for autom read of unformat text
+method for convert unstructur print materi into comput code ar
+experiment investig an oper control mode depend on human demarc
+of the variou region of the page for guid the
+scanner is implement by mean of a joystick and a
+crt displai thi mode for which some perform figur ar
+obtain is thought to be suitabl for process veri complic
+materi such as technic journal for simpler materi for instanc
+the claim section of patent and in applic where the
+utmost accuraci is not necessari an unsupervis mode is advoc
+here the textual portion of the page ar locat dure
+a rapid prescan by a rudimentari form of frequenc analysi
+these area ar then rescan at a higher resolut suitabl
+for charact recognit error rate of the order of 0
+1 percent ar obtain in a simpl problem involv photograph
+of telephon compani meter board other matter relat to the
+design of a gener purpos page reader such as the
+segment of print text the possibl of time share the
+scanner interact man machin oper and the facsimil reproduct of
+illustr ar discuss cacm juli 1968 nagi g pattern recognit
+charact recognit text read inform retriev unformat text oper control
+reader onlin reader text imag discrimin read machin 3 63
+3 79 3 89 6 29 6 35 ca680703 jb
+februari 22 1978 2 52 pm

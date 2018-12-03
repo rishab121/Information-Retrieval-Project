@@ -1,0 +1,18 @@
+a stochast approach to the grammat code of english a
+comput program is describ which will assign each word in
+an english text to it form class or part of
+speech the program oper at rel high speed in onli
+a limit storag space about half of the word event
+in a corpu ar identifi through the us of a
+small dictionari of function word and frequent occur lexic word
+some suffix test and logic decis rule ar emploi to
+code addit word final the remain word ar assign to
+on class or anoth on the basi of the most
+probabl form class to occur within the alreadi identifi context
+the condit probabl us as a basi for thi code
+were empir deriv from a separ hand code corpusn preliminari
+trial the accuraci of the coder wa 91 to 93
+with obviou wai of improv the algorithm be suggest by
+an analysi of the result cacm june 1965 stolz w
+s tannenbaum h carstensen f v ca650620 jb march 6
+1978 9 35 pm

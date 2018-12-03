@@ -1,0 +1,3 @@
+logarithm of gamma function algorithm 291 s14 cacm septemb 1966
+pike m c hill i d ca660909bjb march 23 1978
+4 24 pm

@@ -1,0 +1,15 @@
+design of tree structur for effici queri a standard inform
+retriev oper is to determin which record in a data
+collect satisfi a given queri express in term of data
+valu the process of locat the desir respons can be
+repres by a tree search model thi paper pose an
+optim problem in the design of such tree to serv
+a well specifi applic the problem is academ in the
+sens that ordinarili the optim tree cannot be implement by
+mean of practic techniqu on the other hand it is
+potenti us for the comparison it afford between observ perform
+and that of an intuit attract ideal search procedur as
+a practic applic of such a model thi paper consid
+the design of a novel tree search scheme base on
+a bit vector represent of data and show that essenti
+the sam

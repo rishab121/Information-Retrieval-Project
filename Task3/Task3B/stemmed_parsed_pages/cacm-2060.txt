@@ -1,0 +1,24 @@
+gedanken a simpl typeless languag base on the principl of
+complet and the refer concept gedanken is an experiment program
+languag with the follow characterist 1 ani valu which is
+permit in some context of the languag is permiss in
+ani other meaning context in particular function and label ar
+permiss result of function and valu of variabl 2 assign
+and indirect address ar formal by introduc valu call refer
+which in turn possess other valu the assign oper alwai
+affect the relat between some refer and it valu 3
+all compound data structur ar treat as function 4 type
+declar ar not permit the function approach to data structur
+and the us of refer insur that ani process which
+accept some data structur will accept ani logic equival structur
+regardless of it intern represent more gener ani data structur
+mai be implicit i e it mai be specifi by
+give an arbitrari algorithm for comput or access it compon
+the exist of label variabl permit the construct of coroutin
+quasi parallel process and other unorthodox control mechan a varieti
+of program exampl illustr the gener of the languag limit
+and possibl extens ar discuss briefli cacm mai 1970 reynold
+j c program languag data structur refer assign coroutin quasi
+parallel process typeless languag applic languag lambda calculu list process
+nondeterminist algorithm 4 20 4 22 5 23 5 24
+ca700506 jb februari 13 1978 1 43 pm

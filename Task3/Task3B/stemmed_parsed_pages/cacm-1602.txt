@@ -1,0 +1,12 @@
+pose a languag for pose problem to a comput a
+languag pose is describ which is a drastic departur from
+the fortran algol type though it doe util fortran formula
+and logic represent and actual contain fortran vi as a
+subset with the new languag the user need onli describ
+hi problem in equat like form the method of solut
+is automat provid in conjunct with the translat from equat
+form to comput instruct in thi wai the pose languag
+user can solv difficult comput problem like the solut of
+differenti equat without requir a knowledg of numer method or
+the intricaci of comput subroutin logic essenti all cleric oper
+now requir for fortran program

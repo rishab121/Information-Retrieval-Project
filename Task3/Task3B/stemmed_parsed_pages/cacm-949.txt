@@ -1,0 +1,9 @@
+integ and sign constant in algol a few remark ar
+given on the relat between syntax and semant in the
+program languag the aim is to point out that if
+it is true that the grammar of a context free
+languag should be conceiv not onli as a string gener
+devic but also as a method for express a mean
+then the grammar of algol is open to some critic
+cacm decemb 1964 petron l vandoni c e ca641222 jb
+march 9 1978 2 35 pm

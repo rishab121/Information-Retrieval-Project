@@ -1,0 +1,4 @@
+fourier cosin integr d1 algorithm a427 cacm mai 1972 linz
+p numer integr quadratur adapt quadratur filon quadratur fourier coeffici
+fourier integr 5 16 ca720513 jb januari 31 1978 9
+32 am

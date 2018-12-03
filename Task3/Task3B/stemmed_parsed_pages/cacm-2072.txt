@@ -1,0 +1,4 @@
+modifi romberg quadratur algorithm 351 d1 cacm april 1970 cook
+n d numer integr romberg quadratur trapezoid valu rectangl valu
+error bound 5 16 ca700412 jb februari 13 1978 2
+42 pm

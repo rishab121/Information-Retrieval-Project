@@ -1,0 +1,12 @@
+an improv algorithm for decentr extrema find in circular configur
+of process thi note present an improv to lelann s
+algorithm for find the largest or smallest of a set
+of uniqu number process arrang in a circl in which
+no central control exist and the number of process is
+not known a priori thi decentr algorithm us a techniqu
+of select messag extinct in order to achiev an averag
+number of messag pass of order n log n rather
+than o n2 cacm mai 1979 chang e robert r
+decentr algorithm distribut system oper system 4 32 4 35
+5 25 5 32 ca790502 dh june 5 1979 2
+35 pm

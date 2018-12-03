@@ -1,0 +1,4 @@
+a note on the lu factor of a symmetr matrix
+cacm mai 1975 evan d j hatzopoulo m symmetr matric
+factor test matric matrix invers separ system 5 14 ca750509
+jb januari 9 1978 2 26 pm

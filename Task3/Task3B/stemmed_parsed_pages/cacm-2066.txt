@@ -1,0 +1,3 @@
+an algol construct for procedur as paramet of procedur cacm
+april 1970 knight k r algol procedur paramet side effect
+4 22 ca700418 jb februari 13 1978 2 30 pm

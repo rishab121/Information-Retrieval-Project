@@ -1,0 +1,10 @@
+wengert s numer method for partial deriv orbit determin and
+quasilinear in a recent articl in the commun of the
+acm r wengert suggest a techniqu for machin evalu of
+the partial deriv of a function given in analyt form
+in solv non linear boundari valu problem us quasilinear mani
+partial deriv must be form analyt and then evalu numer
+wengert s method appear veri attract from the program viewpoint
+equat which might not otherwis be undertaken cacm april 1965
+bellman r e kagiwada h kalaba r e ca650413 jb
+march 7 1978 3 39 pm

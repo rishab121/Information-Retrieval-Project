@@ -1,0 +1,12 @@
+uplift univers of pittsburgh linear file tandem system a seri
+of comput program ha been develop and is now oper
+for process the nation aeronaut and space administr linear file
+system on an ibm 1401 7090 combin data process system
+the program ar note worthi in that thei creat fix
+length logic record and fix length block from variabl length
+sourc data and format the output for optim of process
+on the ibm 7090 system the program ar complet self
+check and test for both valid and accuraci of the
+input materi as provid by the nation aeronaut and space
+administr cacm septemb 1965 canter j d donaghei c e
+ca650911 jb march 6 1978 7 10 pm

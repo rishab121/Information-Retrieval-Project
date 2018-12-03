@@ -1,0 +1,20 @@
+the design and implement of a tabl driven interact diagnost
+program system cap is a highli interact diagnost compil interpret
+that allow begin programm to prepar debug and execut fairli
+simpl program at a graphic displai termin complet syntax check
+and most semant analysi is perform as the program is
+enter and as it is subsequ edit analysi is perform
+charact by charact the most remark featur of cap is
+it abil to automat diagnos error both at compil time
+and at run time error ar not automat correct instead
+cap interact with the student to help him find the
+caus of hi error most compon of cap ar tabl
+driven both to reduc the space need for implement and
+to increas the flexibl of the multilingu system over 500
+student have us cap to learn fortran pl i or
+cobolin conjunct with a comput assist cours on introductori comput
+scienc cacm novemb 1976 wilcox t r davi a m
+tindal m h interact program tabl driven compil error correct
+interpret debug comput assist instruct comput scienc educ 1 5
+4 12 4 13 4 42 8 2 ca761103 jb
+januari 3 1978 3 37 pm

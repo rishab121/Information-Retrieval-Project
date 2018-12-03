@@ -1,0 +1,13 @@
+a formal system for inform retriev from file a gener
+file structur is provid by which the concept of keyword
+index record file directori file structur directori decod and record
+retriev ar defin and from which some of the frequent
+us file structur such as invert file index sequenti file
+and multilist file ar deriv two algorithm which retriev record
+from the gener file structur ar present cacm februari 1970
+hsiao d attribut valu pair index keyword record record address
+k pointer k list file directori gener file structur invert
+file index sequenti file multilist file descript file search directori
+search serial process of list prime keyword parallel process of
+list 3 70 3 73 3 74 ca700201 jb februari
+14 1978 1 04 pm

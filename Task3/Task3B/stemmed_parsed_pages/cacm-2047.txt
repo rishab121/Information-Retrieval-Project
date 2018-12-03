@@ -1,0 +1,12 @@
+incorpor origin shift into the qr algorithm for symmetr tridiagon
+matric the qr iter for the eigenvalu of a symmetr
+tridiagon matrix can be acceler by incorpor a sequenc of
+origin shift the origin shift mai be either subtract directli
+from the diagon element of the matrix or incorpor by
+mean of an implicit algorithm both method have drawback the
+direct method can unnecessarili degrad small eigenvalu while the implicit
+method can effect loos the shift and therebi retard the
+converg thi paper present a new method which ha neither
+drawback cacm june 1970 stewart g w eigenvalu eigenvector qr
+method origin shift symmetr tridiagon matrix 5 14 ca700608 jb
+februari 13 1978 11 02 am

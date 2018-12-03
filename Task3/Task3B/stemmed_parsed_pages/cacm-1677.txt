@@ -1,0 +1,19 @@
+storag organ in program system the system of program and
+data represent that ha been in us on the rice
+univers comput for five year is describ each logic entiti
+in storag occupi a block of consecut memori locat each
+block is label by a codeword and mai contain a
+program a data vector or codeword which in turn label
+block to form arrai thi storag arrang is discuss with
+it realiz advantag or program system simplic of program address
+flexibl of data structur effici of memori util variabl of
+system composit dure execut mean of linkag between program and
+from program to data and basi for storag protect the
+applic of label block mai be extend to area of
+time share and multimedia storag control on the basi of
+experi at rice some idea on such extens ar present
+cacm novemb 1968 jodeit j g storag alloc storag organ
+storag control codeword data represent program represent data structur storag
+protect address mechan page segment file handl 4 30 4
+40 6 20 ca681102 jb februari 21 1978 3 11
+pm

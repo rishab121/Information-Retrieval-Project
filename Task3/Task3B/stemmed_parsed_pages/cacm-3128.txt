@@ -1,0 +1,9 @@
+synchron with eventcount and sequenc synchron of concurr process requir
+control the rel order of event in the process a
+new synchron mechan is propos us abstract object call eventcount
+and sequenc that allow process to control the order of
+event directli rather than us mutual exclus to protect manipul
+of share variabl that control order of event direct control
+of order seem to simplifi correct argument and also simplifi
+implement in distribut system the mechan is defin formal and
+then sever exam

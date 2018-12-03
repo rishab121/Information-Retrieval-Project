@@ -1,0 +1,8 @@
+a note on subexpress order in the execut of arithmet
+express a counterexampl to the suppos optim of an algorithm
+for gener schedul for tree of task with unequ execut
+time is present a comparison with the critic path heurist
+is discuss cacm novemb 1973 den p j graham g
+s schedul tree schedul task schedul multiprocessor schedul 4 32
+8 3 8 1 ca731113 jb januari 25 1978 4
+24 pm

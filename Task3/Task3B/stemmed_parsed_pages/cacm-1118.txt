@@ -1,0 +1,3 @@
+fortran subroutin for time seri data reduct cacm march 1964
+macgowan r a ca640314 jb march 10 1978 2 39
+am

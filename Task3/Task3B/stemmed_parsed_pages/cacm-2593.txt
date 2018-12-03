@@ -1,0 +1,15 @@
+a back end comput for data base manag it is
+propos that the data base manag function be place on
+a dedic back end comput which accept command in a
+rel high level languag such as the codasyl data base
+task group april 1971 report from a host comput access
+the data base on secondari storag and return result the
+advantag of such a configur ar discuss an experiment implement
+call the experiment data manag system xdm is describ and
+certain conclus about the back end approach ar drawn from
+thi implement cacm octob 1974 canadai r h harrison r
+d ivi e l ryder j l wehr l a
+data base manag inform retriev comput configur comput network data
+base task group languag data base protect data base portabl
+back end comput 3 79 4 22 4 33 4
+35 ca741005 jb januari 16 1978 12 35 pm

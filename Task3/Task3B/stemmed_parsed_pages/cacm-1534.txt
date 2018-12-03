@@ -1,0 +1,15 @@
+dad the c oper system the design and implement of
+the c oper system dad is describ in detail thi
+system is design for the control data 3600 us a
+larg drum back store and is intend to allow the
+integr of a remot consol displai subsystem into a convent
+job stack environ the us of the drum the buffer
+of input and output on slow peripher and the execut
+of normal job stack work ar describ the displai subsystem
+is describ onli as it integr into the rest of
+the system the techniqu found us in the develop of
+dad ar given and an assess is made of the
+valid of variou design decis perform figur base on sever
+month of oper ar tabul cacm septemb 1967 austin b
+j holden t s hudson r h ca670910 jb februari
+27 1978 2 58 pm

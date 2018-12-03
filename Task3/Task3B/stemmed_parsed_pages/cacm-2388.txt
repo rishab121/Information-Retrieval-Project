@@ -1,0 +1,15 @@
+optim binari tree grown with a sort algorithm item can
+be retriev from binari tree grown with a form of
+the algorithm quicksort in an averag time proport to log
+n where n is the number of item in the
+tree the binari tree grown by thi algorithm sometim have
+some branch longer than other therefor it is possibl to
+reduc the averag retriev time by restructur the tree to
+make the branch as uniform in length as possibl an
+algorithm to do thi is present the us of thi
+algorithm is discuss and it is compar with anoth which
+restructur the tree after each new item is ad cacm
+februari 1972 martin w a ness d n retriev inform
+from binari tree global and local optim sort recurs 3
+74 5 31 ca720203 jb januari 31 1978 4 30
+pm

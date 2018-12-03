@@ -1,0 +1,4 @@
+adjust of the invers of a symmetr matrix when two
+symmetr element ar chang algorithm 325 f1 cacm februari 1968
+zielk g symmetr matrix matrix invers matrix perturb matrix modif
+5 14 ca680207 jb februari 23 1978 12 01 pm

@@ -1,0 +1,15 @@
+signific event simul thi paper compar a new method of
+simul organ call the signific event method with an old
+on call the clock puls method us as exampl two
+automobil traffic model the signific event method is found to
+be more effici than the clock puls method at low
+level of system interact and less effici at high level
+a simpl mathemat model for the trade off in the
+rel run time of the two method is develop the
+model aid in choos between the two simul method for
+a particular experi it is conclud that the signific event
+method can be of valu in the simul of some
+system when comput effici is of suffici import cacm june
+1975 babich a f grason j parna d l simul
+organ event simul clock puls simul signific event simul 8
+1 ca750604 jb januari 9 1978 1 20 pm

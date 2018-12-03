@@ -1,0 +1,26 @@
+a comput analysi method for thermal diffus in biochem system
+in the thermal detect of rapid biochem reaction it is
+necessari to correct the temperatur data for transient heat conduct
+loss in a cylindr calorimet to handl the complex aris
+from vari thermal relax time of concentr insul layer a
+comput program wa develop which give the temperatur distribut of
+the system as a function of radiu and time thi
+distribut is correct at each step by a subroutin which
+calcul the instantan chemic state of there action as well
+as the heat produc by thi reaction the program is
+base on a direct statement of fourier s law of
+heat conduct and the chemic rate equat to provid a
+bookkeep law to follow the reactant and the flow of
+heat packet in such a wai that the comput continu
+store the heat distribut a comput analysi method is here
+regard as on in which the physic law of a
+process ar us explicitli in the program usual thi result
+in by pass much of the mathemat procedur convention us
+the program wa test against some known exact solut of
+the heat equat and gave ident result and compar well
+with experiment data of a known biochem reaction the construct
+of comput program base on the direct statement of the
+physic law is a principl of gener applic which ha
+been appli to sever other physic phenomena cacm septemb 1964
+david n berger r l ca640908 jb march 9 1978
+5 13 pm

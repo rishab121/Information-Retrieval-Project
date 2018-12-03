@@ -1,0 +1,16 @@
+automat data structur choic in a languag of veri high
+level setl is a set theoret orient languag of veri
+high level whose repertoir of semant object includ finit set
+order n tupl and set of order n tupl usabl
+as map thi paper describ the structur of an optim
+for thi languag among other method of interest the optim
+us techniqu which allow relat of inclus and membership to
+be establish the domain and rang of tabul map to
+be estim from abov and below and the singl valued
+of tabul map to be prove onc fact of thi
+kind have been establish automat choic of data structur becom
+possibl the method emploi ar base upon and extend known
+techniqu of data flow analysi cacm decemb 1975 schwartz j
+t program optim automat program high level languag set theoret
+languag data structur choic 4 12 4 20 4 22
+ca751208 jb januari 5 1978 3 53 pm

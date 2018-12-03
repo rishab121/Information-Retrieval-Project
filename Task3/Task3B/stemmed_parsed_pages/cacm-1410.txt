@@ -1,0 +1,15 @@
+interarriv statist for time share system the optim of time
+share system perform requir the descript of the stochast process
+govern the user input and the program activ thi paper
+provid a statist descript of the user input process in
+the sdc arpa gener purpos time share system tss the
+input process is assum to be stationari and to be
+defin by the interarriv time distribut the data obtain appear
+to justifi satisfactorili the common assumpt that the interarriv time
+ar serial independ the data do not appear to justifi
+except as a veri rough approxim the usual assumpt off
+an exponenti distribut for interarriv time a much more satisfactori
+approxim to the data can be obtain with a biphas
+or triphas hyperexponenti distribut cacm juli 1966 coffman e g
+wood r c ca660704 jb march 2 1978 9 45
+pm

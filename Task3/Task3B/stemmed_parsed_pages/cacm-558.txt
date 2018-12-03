@@ -1,0 +1,12 @@
+a modifi invers procedur for product form of the invers
+linear program code thi paper describ a new algorithm for
+the select of the pivot row in matrix invers when
+us the product form of the invers thi algorithm ha
+been develop for linear program code howev it would be
+valuabl for the invers of ani non dens matrix the
+procedur describ in thi paper have been thoroughli test and
+have been in oper on the esso research and engin
+ibm 7090 comput for nine month substanti comput cost save
+have been realiz becaus of thi procedur cacm juli 1962
+larsen l j ca620703 jb march 17 1978 9 07
+pm

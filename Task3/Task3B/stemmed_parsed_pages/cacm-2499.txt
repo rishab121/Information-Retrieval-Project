@@ -1,0 +1,23 @@
+effici multiprogram resourc alloc and account although sometim thought of
+as onli a compon of time share oper multiprogram can
+involv broader question of resourc alloc sinc fair is not
+requir to meet a respons criterion in a multiprogram system
+it mai serv maxim resourc us to be unfair for
+exampl by hold an input output channel idl for a
+program while it complet a small amount of processor usag
+enabl further us of the channel sever applic of thi
+principl ar given and it is suggest that a multiprogram
+execut might dynam adjust it alloc algorithm to gain effici
+alloc of resourc is close connect to account for those
+resourc rais the problem of repeat minim uncharg overhead and
+rel weight of charg for depend resourc sinc weight mai
+depend on alloc algorithm these ar not arbitrari account paramet
+often the onli repeat account is on which omit an
+extens overhead will be paid and should multiprogram prove effici
+overcharg will result multiprogram turn on alloc of the memori
+resourc essenti to control of other resourc the gener suggest
+for alloc and account ar appli to thi question and
+some detail provid for the case of a monitor which
+control a virtual memori machin cacm june 1973 hamlet r
+g monitor execut multiprogram effici resourc alloc resourc account 4
+32 ca730601 jb januari 23 1978 3 51 pm

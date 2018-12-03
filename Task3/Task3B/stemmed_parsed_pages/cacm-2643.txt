@@ -1,0 +1,8 @@
+the minim of spatial multiplex charact set the paper describ
+a techniqu for compact charact set in a digit comput
+while retain fast access to individu bit it consid the
+problem of minim the storag need to contain such tabl
+reduct techniqu ar develop and the problem is shown to
+reduc to a cover problem cacm june 1974 gimpel j
+f pars lexic analysi scan string process spatial multiplex 4
+9 ca740603 jb januari 17 1978 3 31 pm

@@ -1,0 +1,11 @@
+us of tree structur for process file in data process
+problem file ar frequent us which must both be search
+and alter binari search techniqu ar effici for search larg
+file but the associ file organ is not readili adapt
+to the file alter convers a chain file alloc permit
+effici alter but cannot be search effici a file organ
+into a tree like structur is discuss and it is
+shown that such a file mai both be search and
+alter with time proport to slog s n where n
+is the number of file item and s is a
+param

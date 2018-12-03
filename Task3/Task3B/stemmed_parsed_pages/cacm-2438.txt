@@ -1,0 +1,4 @@
+a model and stack implement of multipl environ mani control
+and access environ structur requir that storag for a procedur
+activ exist at time when control is not nest within
+the procedur activ thi is straightforward to implement by dynam

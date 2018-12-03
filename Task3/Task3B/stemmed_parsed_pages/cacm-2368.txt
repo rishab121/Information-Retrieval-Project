@@ -1,0 +1,14 @@
+an implement graph algorithm for win shannon switch game in
+thi tutori paper a comput program which win shannon switch
+game is describ sinc these game ar plai on graph
+the program is a good exampl of the implement of
+graph algorithm the two player in a shannon switch game
+connect and cut have nonsimilar goal either connect cut or
+the player move first is guarante the exist of a
+win strategi the simpl strategi explain in thi paper is
+valid in all three case in fact the major routin
+never need to know whether the comput is connect or
+cut cacm april 1972 chase s m graph algorithm graph
+process shannon switch game game plai graph theori posit game
+demonstr program game theori spin tree 3 69 5 32
+ca720405 jb januari 31 1978 1 34 pm

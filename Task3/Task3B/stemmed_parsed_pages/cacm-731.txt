@@ -1,0 +1,11 @@
+symmetr list processor a list process system in which each
+list cell contain both a forward and a backward link
+as well as a datum is describ thi system is
+intend for imbed in higher level languag capabl of call
+function and subroutin code in machin languag the present is
+in the form of fortran program depend on onli a
+limit set of fortran program depend on onli a limit
+set of primit machin languag subroutin which ar also defin
+final a set of field particularli charact manipul primit ar
+given to round out the system cacm septemb 1963 weizenbaum
+j ca630927 jb march 13 1978 7 10 pm

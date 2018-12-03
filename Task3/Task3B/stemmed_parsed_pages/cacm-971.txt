@@ -1,0 +1,9 @@
+time share in a traffic control program the toronto traffic
+signal control system consist of a varieti of logic distinct
+comput program all compet for machin time to satisfi these
+demand a time share program ha been written whose purpos
+is to execut in the order of a predefin prioriti
+the variou subprogram within the real time system in thi
+paper the more interest aspect of the time share program
+ar outlin cacm novemb 1964 green l e s ca641112
+jb march 9 1978 3 49 pm

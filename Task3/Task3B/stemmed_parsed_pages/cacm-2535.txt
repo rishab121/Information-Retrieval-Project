@@ -1,0 +1,6 @@
+the effect of multiplex on a comput commun system a
+studi is made of the wai in which asynchron time
+divis multiplex chang the stochast natur of the arriv process
+from a user to the comput and consequ affect the
+perform of a time share comput commun system it is
+conclud that while for certain valu of system param

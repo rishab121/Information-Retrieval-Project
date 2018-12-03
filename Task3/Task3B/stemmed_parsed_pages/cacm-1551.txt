@@ -1,0 +1,7 @@
+on compil algorithm for arithmet express thi paper deal with
+algorithm concern arithmet express us in a fortran iv compil
+for a hitac 5020 comput have n accumul the algorithm
+gener an object code which minim the frequenc of store
+and recov the partial result of the arithmet express in
+case where there ar sever accumul cacm august 1967 nakata
+i ca670804 jb februari 27 1978 4 35 pm

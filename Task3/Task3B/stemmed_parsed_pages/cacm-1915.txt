@@ -1,0 +1,16 @@
+an algorithm for hidden line elimin the algorithm present caus
+the elimin of hidden line in the represent of a
+perspect view of concav and convex plane face object on
+the pictur plane all the edg of the object ar
+consid sequenti and all plane which hide everi point of
+an edg ar found the comput time increas roughli as
+the squar of the number of edg the algorithm take
+advantag of a reduc number of concav point and automat
+recogn if onli on object with no concav point is
+consid in thi last case the result is obtain in
+a much simpler wai cacm april 1969 galimberti r montanari
+u hidden line elimin back line recognit three dimension represent
+plane face object perspect view machin render of solid automat
+draw displai techniqu comput graphic man machin interact man machin
+commun comput aid design 4 40 4 41 4 49
+ca690402 jb februari 17 1978 4 44 pm

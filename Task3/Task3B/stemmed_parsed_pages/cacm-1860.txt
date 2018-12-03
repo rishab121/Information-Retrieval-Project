@@ -1,0 +1,7 @@
+an algol base associ languag a high level program languag
+for larg complex associ structur ha been design and implement
+the underli data structur ha been implement us a hash
+code techniqu the discuss includ a comparison with other work
+and exampl of applic of the languag cacm august 1969
+feldman j a algol associ program languag data structur 4
+22 ca690803 jb februari 15 1978 6 02 pm

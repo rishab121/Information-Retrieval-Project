@@ -1,0 +1,15 @@
+thin algorithm on rectangular hexagon and triangular arrai in thi
+report three thin algorithm ar develop on each for us
+with rectangular hexagon and triangular arrai the approach to the
+develop of each algorithm is the same pictori result produc
+by each of the algorithm ar present and the rel
+perform of the algorithm ar compar it is found that
+the algorithm oper with the triangular arrai is the most
+sensit to imag irregular and nois yet it will yield
+a thin imag with an overal reduc number of point
+it is conclud that the algorithm oper in conjunct with
+the hexagon arrai ha featur which strike a balanc between
+those of the other two arrai cacm septemb 1972 deutsch
+e s thin algorithm rectangular hexagon triangular arrai imag process
+skeleton 3 64 ca720907 jb januari 27 1978 4 25
+pm

@@ -1,0 +1,10 @@
+on the time requir for a sequenc of matrix product
+thi paper discuss the multipl of conform sequenc of row
+vector column vector and squar matric the minimum time requir
+to evalu such product on ordinari serial comput as well
+as parallel comput is discuss algorithm ar present which properli
+pars such matrix sequenc subject to the constraint of the
+machin organ cacm januari 1973 muraoka y kuck d j
+matrix express matrix multipl oper minim parallel machin time minim
+4 22 5 14 ca730104 jb januari 24 1978 4
+41 pm

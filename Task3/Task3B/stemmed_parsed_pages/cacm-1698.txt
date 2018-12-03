@@ -1,0 +1,18 @@
+a statist model for consol behavior in multius comput the
+abil of a comput system to commun with the outsid
+world effici is as import as it abil to perform
+comput effici it is quit difficult to character a particular
+user but rather easi to character the entir user commun
+base on the properti of thi commun we have postul
+a hypothet virtual consol no claim is made that a
+virtual consol behav like ani actual consol but the entir
+collect of virtual consol model the collect of actual consol
+us the model we answer question like how mani process
+ar suspend wait for consol input what is the maximum
+rate at which a process can execut what bound can
+be set on overal buffer requir answer to these and
+similar question ar need in certain aspect of oper system
+design cacm septemb 1968 den p j statist model for
+input output oper system design input output design 4 30
+4 41 5 5 ca680903 jb februari 22 1978 9
+21 am

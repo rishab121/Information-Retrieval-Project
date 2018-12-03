@@ -1,0 +1,14 @@
+assembl code for machin with span depend instruct mani modern
+comput contain instruct whose length depend on the distanc from
+a given instanc of such an instruct to the operand
+of that instruct thi paper consid the problem of minim
+the length of program for such machin an effici solut
+is present for the case in which the operand of
+everi such span depend instruct is either a label or
+an assembl time express of a certain restrict formf thi
+restrict is relax by allow these operand to be more
+gener assembl time express then the problem is shown to
+be np complet cacm april 1978 szymanski t span depend
+instruct variabl length address code gener assembl compil np complet
+comput complex 4 11 4 12 5 25 ca780406 dh
+februari 26 1979 3 49 pm

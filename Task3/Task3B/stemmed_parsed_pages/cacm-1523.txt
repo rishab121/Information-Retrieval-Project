@@ -1,0 +1,12 @@
+sharer a time share system for the cdc 6600 a
+time share system embed within the standard batch process system
+for the cdc 6600 is describ the system is gener
+purpos and file base provid facil for file input manipul
+edit compil and convers execut it us a simpl scheme
+for system extens for a machin with onli on reloc
+and memori bound regist no attempt wa made to us
+reentrant code or to simul segment or page implement time
+wa approxim six man year with the major of the
+code be written in fortran cacm octob 1967 harrison m
+c schwartz j t ca671011 jb februari 27 1978 1
+53 pm

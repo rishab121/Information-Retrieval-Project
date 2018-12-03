@@ -1,0 +1,21 @@
+capabl base address variou address scheme make us of segment
+tabl ar examin the inadequaci of these scheme when deal
+with share address ar explain these inadequaci ar trace to
+the lack of an effici absolut address for object in
+these system the direct us of a capabl as an
+address is shown to overcom these difficulti becaus it provid
+the need absolut address implement of capabl base address is
+discuss it is predict that the us of tag to
+identifi capabl will domin a hardwar address translat scheme which
+never requir the modif of the represent of capabl is
+suggest the scheme us a main memori hash tabl for
+obtain a segment s locat in main memori given it
+uniqu code the hash tabl is avoid for recent access
+segment by mean of a set of associ regist a
+comput us capabl base address mai be substanti superior to
+present system on the basi of protect simplic of program
+convent and effici implement cacm juli 1974 fabri r s
+address capabl address hardwar protect protect hardwar share address inform
+share oper system comput util segment tag architectur 4 30
+4 32 4 34 6 21 ca740706 jb januari 17
+1978 12 39 pm

@@ -1,0 +1,25 @@
+a case studi in program for parallel processor an affirm
+partial answer is provid to the question of whether it
+is possibl to program parallel processor comput system to effici
+decreas execut time for us problem parallel processor system ar
+multiprocessor system in which sever of the processor can simultan
+execut separ task of a singl job thu cooper to
+decreas the solut time of a comput problem the processor
+have independ instruct counter mean that each processor execut it
+own task program rel independ of the other processor commun
+between cooper processor is by mean of data in storag
+share by all processor a program for the determin of
+the distribut of current in an electr network wa written
+for a parallel processor comput system and execut of thi
+program wa simul the data gather from simul run demonstr
+the effici solut of thi problem typic of a larg
+class of import problem it is shown that with proper
+program solut time when n processor ar appli approach 1
+n time the solut time for a singl processor while
+improp program can actual lead to an increas of solut
+time with the number of processor stabil of the method
+of solut wa also investig cacm decemb 1969 rosenfeld j
+l parallel processor parallel parallel program multiprocessor multiprogram task storag
+interfer electr network simul relax jacobi gauss seidel converg 3
+24 4 9 5 14 5 17 6 21 ca691201
+jb februari 15 1978 4 45 pm

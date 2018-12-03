@@ -1,0 +1,13 @@
+an approach to multidimension data arrai process by comput some
+recent work on the develop of gener purpos comput base
+statist and data process capabl for handl multidimension arrai of
+data is present attent is first given to some of
+the gener problem of multidimension tabl and arrai process thi
+is follow by a summari of some recent develop in
+arrai process capabl at the world bank in particular the
+system identifi as wrap world bank retriev and arrai process
+system cacm februari 1977 muller m e arrai process tabl
+process statist analysi data retriev data process syntax for data
+structur comput techniqu time seri cross tabul 3 10 3
+20 3 30 3 70 4 0 ca770201 jb decemb
+30 1977 3 12 am

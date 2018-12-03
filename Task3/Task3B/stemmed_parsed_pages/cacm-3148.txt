@@ -1,0 +1,12 @@
+high level program for distribut comput program for distribut and
+other loos coupl system is a problem of grow interest
+thi paper describ an approach to distribut comput at the
+level of gener purpos program languag base on primit notion
+of modul messag and transact kei the methodolog is shown
+to be independ of particular languag and machin it appear
+to be us for program a wide rang of task
+thi is part of an ambiti program of develop in
+advanc program languag and relat with other aspect of the
+project ar also discuss cacm june 1979 feldman j distribut
+comput modul messag assert 4 22 4 32 ca790604 dh
+august 21 1979 4 31 pm

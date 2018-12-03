@@ -1,0 +1,11 @@
+a system organ for resourc alloc thi paper introduc a
+system for resourc manag us the concept of process facil
+and event except for the processor no attempt ha been
+made to give seriou suggest for the polici to be
+follow for resourc alloc howev a basic framework is provid
+in which a system analyst can express solut to resourc
+manag problem the paper is divid into a tutori present
+a descript of the system primit and a small collect
+of exampl of the us of the primit cacm decemb
+1967 dahm d m gerbstadt f h pacelli m m
+ca671203 jb februari 26 1978 2 40 pm

@@ -1,0 +1,12 @@
+an effici list move algorithm us constant workspac an effici
+algorithm is present for move arbitrari list structur us no
+storag apart from program variabl other than that requir to
+hold the origin list and the copi the origin list
+is destroi as it is move no mark bit ar
+necessari but pointer to the copi must be distinguish from
+pointer to the origin the algorithm is superior in execut
+speed to previou algorithm for the same problem some variat
+and extens of the algorithm ar discuss cacm june 1976
+clark d w list move list copi lisp space complex
+constant workspac 4 34 4 49 5 25 ca760607 jb
+januari 4 1978 1 43 pm

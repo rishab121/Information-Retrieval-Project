@@ -1,0 +1,18 @@
+a method for increment compil languag with nest statement structur
+a method of increment compil is present which appli especi
+to program languag in which statement can be nest such
+as algol and pl i the method permit edit of
+the sourc languag us a gener purpos text editor and
+increment process of chang without frequent recompil of entir routin
+the essenti point of the method ar 1 the syntax
+of the languag is restrict insof ar as which construct
+mai occur on line 2 an intern data structur call
+the skeleton is maintain to repres the statement structur 3
+the recompil is partial batch in the sens that recompil
+of modifi line doe not occur until the last of
+a set of edit command ha been receiv and 4
+the pars and compil ar factor into two part that
+done on individu line and that done global to handl
+the relationship between the line cacm decemb 1972 earlei j
+caizergu p increment compil interact program languag 4 12 4
+22 ca721203 jb januari 27 1978 1 04 pm

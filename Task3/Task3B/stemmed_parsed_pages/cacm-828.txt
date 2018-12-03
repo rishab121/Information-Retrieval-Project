@@ -1,0 +1,5 @@
+incompress flow network calcul a gener method for the calcul
+of flow and pressur in fluid flow network is present
+the method is applic to comput us cacm june 1963
+cantrel h n ca630621 jb march 14 1978 10 03
+am

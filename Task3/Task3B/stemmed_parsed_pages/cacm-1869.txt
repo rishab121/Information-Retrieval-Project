@@ -1,0 +1,14 @@
+block structur indirect address and garbag collect program languag have
+includ explicit or implicit block structur to provid a name
+conveni for the programm howev when indirect address is us
+as in snobol name constraint mai be introduc two modif
+to snobol ar describ result in two desir consequ 1
+name constraint disappear even when there is indirect address within
+function definit and 2 there is a signific save in
+the number of call to the garbag collector becaus some
+garbag is collect at littl expens each time a function
+return to it call program these modif have been implement
+as an extens to a snobol dialect cacm juli 1969
+kain r y block structur indirect address garbag collect local
+name snobol 4 22 ca690711 jb februari 15 1978 6
+49 pm

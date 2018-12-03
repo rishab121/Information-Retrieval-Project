@@ -1,0 +1,15 @@
+a us of macro in translat of symbol assembl languag
+of on comput to anoth a set of macro oper
+ha been prepar to assist in translat ibm 7090 symbol
+assembl languag program to ibm 7040 machin languag program thi
+set insert at the begin of the 7090 symbol deck
+treat incompat instruct mnemon as macro instruct to produc equival
+7040 instruct set incompat instruct ar categor into basic oper
+class which can be express by a singl basic skeleton
+sever level of macro call ar requir to suppli argument
+to the basic skeleton for each particular instruct modif at
+execut time of the address or tag of an incompat
+instruct requir incorpor of an address tag equival i o
+is handl by gener call to i o simul subroutin
+cacm decemb 1965 dellert jr g t ca651203 jb march
+6 1978 4 20 pm

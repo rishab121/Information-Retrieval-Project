@@ -1,0 +1,13 @@
+problem in the statist analysi of simul experi the comparison
+of mean and the length of sampl record research is
+continu into statist analysi of simul experi contain autocorrel time
+seri it is shown how to estim the length of
+sampl record need to us certain larg sampl result in
+measur stabil analog between autocorrel data and independ observ ar
+describ a wai to test the differ of the mean
+of two experi is suggest it is shown how the
+varianc of the sampl mean relat to the spectrum of
+the gener process and estim of the quantiti of interest
+is describ the result expand the possibl of statist spectral
+analysi as appli to simul experi cacm februari 1967 fishman
+g s ca670205 jb februari 28 1978 3 34 pm

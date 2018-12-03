@@ -1,0 +1,15 @@
+an algol like comput design languag the idea of construct
+a comput design languag by make us of an algol
+like program languag is present a comput design can benefit
+from us a design languag at a higher level just
+as a comput user can benefit from a higher level
+program languag the purpos and requir of the design languag
+ar enumer to achiev most of the purpos a translat
+is requir to translat a design of comput logic into
+a set of boolean equat the design languag is present
+in term of vocabulari statement sequenc and microprogram includ ar
+exampl of identifi express with both unari and binari oper
+declar statement transfer statement termin statement exchang statement if statement
+do statement go to statement sever sequenc and a microprogram
+cacm octob 1965 chu y ca651007 jb march 6 1978
+6 48 pm

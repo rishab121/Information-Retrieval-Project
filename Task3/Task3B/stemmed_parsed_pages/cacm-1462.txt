@@ -1,0 +1,13 @@
+multilevel oper system the basic softwar for all newer comput
+is built on the well establish need for standard oper
+system thi impli that all applic no matter how larg
+complex or time consum must oper under or more precis
+on top of the standard system larg applic requir supervisori
+monitor which handl problem similar to those of the oper
+system but at a differ level sometim still a third
+or even a fourth such level is requir or desir
+thi lead natur to the concept of multilevel system similar
+vertic but differ horizont proper divis of respons between level
+lead to greater effici and less logic complex while actual
+enhanc capabl cacm march 1966 orchard hai w ca660310 jb
+march 3 1978 1 31 pm

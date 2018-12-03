@@ -1,0 +1,12 @@
+the instrument of multic an arrai of measur tool devis
+to aid in the implement of a prototyp comput util
+is discuss these tool includ special hardwar clock and data
+channel gener purpos program probe and record tool and special
+measur facil some particular measur of interest in a system
+which combin demand page with multiprogram ar describ in detail
+where appropri insight into effect or lack there of of
+individu tool is provid cacm august 1970 gintel j w
+saltzer j h instrument perform measur multiprogram system measur tool
+system analysi multic meter event trace demand page script driven
+measur 2 44 4 32 4 39 4 42 ca700805
+jb februari 10 1978 3 43 pm

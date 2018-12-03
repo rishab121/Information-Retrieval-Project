@@ -1,0 +1,4 @@
+convers reconvers and comparison techniqu in variabl length sort the
+logic is describ for convert highli variabl input record into
+a format that can be easili and effici process by
+a sort program

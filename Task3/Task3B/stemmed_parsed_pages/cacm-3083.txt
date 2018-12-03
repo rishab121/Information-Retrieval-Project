@@ -1,0 +1,11 @@
+pseudochain in hash tabl thi paper present pseudochain as a
+new collis resolut method pseudochain is half wai between open
+address and chain it ow it name to the fact
+that link field ar present in each cell of the
+hash tabl which permit chain of the first overflow item
+in the tabl the effici of the method is deriv
+and a tradeoff analysi is given cacm juli 1978 halatsi
+c philokypr g hash code scatter storag open address chain
+pseudochain collis resolut search uniform probe 3 7 3 73
+3 74 4 9 ca780705 dh februari 7 1979 4
+37 pm

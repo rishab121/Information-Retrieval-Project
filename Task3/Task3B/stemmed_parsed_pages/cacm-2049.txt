@@ -1,0 +1,8 @@
+accur float point summat thi paper describ an altern method
+for sum a set of float point number comparison of
+the error bound for thi method with that of the
+standard summat method show that it is consider less sensit
+to propag of round off error cacm june 1970 linz
+p summat float point addit round off error round off
+propag 5 11 ca700606 jb februari 13 1978 11 36
+am

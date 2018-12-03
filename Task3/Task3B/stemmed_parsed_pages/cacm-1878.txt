@@ -1,0 +1,6 @@
+recoveri of reentrant list structur in slip on consequ of
+the refer count base space recoveri system emploi by slip
+is that reentrant list structur ar not recov even when
+explicitli eras lisp like garbag collect scheme ar free of
+thi impedi thei howev depend on be abl to find
+and mark node that ar reachabl from program

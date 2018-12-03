@@ -1,0 +1,12 @@
+a queu model of a multiprogram comput with a two
+level storag system the result ar present of an analysi
+of a probabilist model of a multiprogram comput system with
+a two level storag system in which there is sequenti
+depend of access between the devic express ar obtain for
+the long run probabl that both the cpu and each
+of the storag devic ar busi some numer result ar
+given which quantifi the gain in cpu util obtain by
+multiprogram in the presenc of thi type of storag system
+cacm januari 1973 shedler g s multiprogram comput system storag
+system hierarch index set 4 32 ca730101 jb januari 24
+1978 4 55 pm

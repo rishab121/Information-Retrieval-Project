@@ -1,0 +1,18 @@
+multiprocess compactifi garbag collect algorithm for a multiprocess compactifi garbag
+collector ar present and discuss the simpl case of two
+processor on perform lisp like list oper and the other
+perform garbag collect continu is thoroughli examin the necessari capabl
+of each processor ar defin as well as interprocessor commun
+and interlock complet procedur for garbag collect and for standard
+list process primit ar present and thoroughli explain particular attent
+is given to the problem of mark and reloc list
+cell while anoth processor mai be oper on them the
+primari aim throughout is to allow the list processor to
+run unimped while the other processor reclaim list storag the
+more complex case involv sever list processor and on or
+more garbag collect processor ar also briefli discuss cacm septemb
+1975 steel g l jr garbag collect storag reclam reclaim
+storag alloc multiprocess synchron semaphor parallel process compactif reloc lisp
+list process free storag pointer data structur gc processor 4
+19 4 32 4 40 4 49 4 9 ca750901
+jb januari 6 1978 3 39 pm

@@ -1,0 +1,11 @@
+a stop criterion for polynomi root find when search for
+the root of a polynomi it is gener difficult to
+know just when to accept a number as an adequ
+approxim to the root in thi paper an algorithm is
+present which allow on to termin the iter process on
+the basi of calcul bound for the roundoff error which
+occur in evalu the polynomi thi stop criterion ha been
+test on numer exampl and ha been found to serv
+as a satisfactori mean for accept a complex number as
+a zero of a real polynomi cacm octob 1967 adam
+d a ca671009 jb februari 27 1978 1 56 pm

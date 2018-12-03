@@ -1,0 +1,15 @@
+optimum tape write procedur consid a magnet tape system with
+a read check after write where an error occur in
+write a record a program error routin mai either bypass
+some or all of the area on tape or try
+to rewrit the record on the same area thi paper
+evalu these two procedur on the basi of expect loss
+of comput time and develop a decis rule for select
+the optimum procedur the rule depend critic on the number
+of time the tape be written will be us in
+the futur in the case where the optimum procedur is
+to bypass an area a second decis the size of
+the area to be bypass is necessari a formula is
+develop to determin the optimum area to be bypass for
+each procedur cacm septemb 1961 hutchinson k ca610912 jb march
+16 1978 1 32 pm

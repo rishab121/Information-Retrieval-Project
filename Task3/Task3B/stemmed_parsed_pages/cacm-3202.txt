@@ -1,0 +1,9 @@
+manip a comput system for algebra and analyt differenti a
+mathemat express to be oper upon is written in fortran
+like notat and store in the comput as a string
+of bcd charact with all blank remov it mai be
+as complic as desir parenthes nest without restrict etc so
+long as the entir express or ani subsequ form doe
+not exce 5000 charact the problemm of perform algebra oper
+and obtain analyt deriv wa translat into that of identifi
+and manipul charact sequenc program

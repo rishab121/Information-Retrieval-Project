@@ -1,0 +1,8 @@
+a nonrecurs list compact algorithm a simpl nonrecurs list structur
+compact scheme or garbag collector suitabl for both compact and
+lisp like list structur is present the algorithm avoid the
+need for recurs by us the partial structur as it
+is built up to keep track of those list that
+have been copi cacm novemb 1970 chenei c j list
+compact garbag collect compact list lisp 4 19 4 49
+ca701106 jb februari 9 1978 4 54 pm

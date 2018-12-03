@@ -1,0 +1,26 @@
+a scan convers algorithm with reduc storag requir most graphic
+system us a raster scan output devic crt or hardcopi
+maintain a displai file in the xy or random scan
+format scan convert hardwar or softwar must be provid to
+translat the pictur descript from the xy format to the
+raster format publish scan convers algorithm which ar fast will
+reserv a buffer area larg enough to accommod the entir
+screen on the other hand those which us a small
+buffer area ar slow becaus thei requir multipl pass through
+the xy displai file the scan convers algorithm describ here
+us a link list data structur to process the line
+of the draw in strip correspond to group of scan
+line a rel small primari memori buffer area is us
+to accumul the binari imag for a group of scan
+line when thi portion of the draw ha been plot
+the buffer is reus for the next portion becaus of
+the list process procedur us onli a singl pass through
+the xy displai file is requir when gener the binari
+imag and onli a slight increas in execut time over
+the fulli buffer core result result slow that storag requir
+can be reduc by more than 80 percent while caus
+less than a 10 percent increas in execut time cacm
+novemb 1973 jordan b w jr barrett r c graphic
+scan convers raster plotter line draw discret imag dot gener
+4 41 6 35 8 2 ca731105 jb januari 20
+1978 10 28 am

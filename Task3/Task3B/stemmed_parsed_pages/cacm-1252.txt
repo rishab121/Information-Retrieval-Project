@@ -1,0 +1,11 @@
+symbol notat for statist tabl and an approach toward automat
+system design the prepar of statist tabl is an import
+function of the data process system of some organ and
+a symbol notat for the descript of tabl ha been
+shown to be a us aid to document such a
+notat also provid the first step toward make automat a
+tediou and time consum part of system design and program
+in mani comput applic on notat is describ and suggest
+ar made for the implement of the larger goal cacm
+june 1965 smith b w ca650603 jb march 7 1978
+12 41 pm

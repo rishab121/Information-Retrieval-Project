@@ -1,0 +1,2 @@
+comment on the composit of semant in algol 68 cacm
+august 1972 van der poel w l program

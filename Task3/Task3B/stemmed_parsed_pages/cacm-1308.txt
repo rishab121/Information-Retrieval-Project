@@ -1,0 +1,17 @@
+a mathemat model for mechan part descript the flexibl of
+a mathemat model take advantag of the common inform requir
+of comput aid engin draw numer control tape gener and
+physic characterist comput by judici control of man machin commun
+requir improv result over convent engin design process ar possibl
+an english like input languag tailor for us by draftsmen
+and design will describ the part and specifi the output
+desir on approach to the mathemat model consist of a
+group of surfac defin quadric equat which ar creat by
+a system of modular subprogram other subprogram will convert the
+mathemat model into instruct for drive automat draft machin and
+numer control machin tool physic part characterist such as center
+of graviti can be comput by subprogram and us in
+dynam analysi work the propos overal system is present and
+experi and demonstr ar discuss cacm februari 1965 luh j
+y s krolak r j ca650216 jb march 7 1978
+10 46 pm

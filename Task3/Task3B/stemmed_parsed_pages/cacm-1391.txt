@@ -1,0 +1,10 @@
+comput experi in finit algebra a medium scale program system
+is written in mad and fap on the ibm 7094
+to manipul some of the object of modern algebra finit
+group map and set of map subset and set of
+subset constant integ and truth valu design to oper in
+a time share environ the system can serv as a
+teacher s aid to the undergradu student of modern algebra
+as well as for the work scientist or engin wish
+to familiar himself with the subset cacm august 1966 maurer
+w d ca660807 jb march 2 1978 7 36 pm

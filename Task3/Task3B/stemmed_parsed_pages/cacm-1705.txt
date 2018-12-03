@@ -1,0 +1,17 @@
+a set of basic input output procedur algorithm 335 15
+by mean of the primit in symbol outsymbol and length
+as request by thi journal s algorithm polici comm acm
+10 nov 67 729 a basic set of input output
+procedur is defin aim at qualiti and flexibl outreal for
+instanc is written as a deriv procedur it output us
+the fix point or the float point represent and round
+properli variant can easili be written becaus of the explicit
+call of the procedur decompos integ and decompos real the
+highli recommend practic of echo input is made easi with
+on subset of deriv procedur ioi ior iob ioa the
+document of output in the form of equival algol statement
+is also provid when us is made of the subset
+oti otr otb ota the berkelei style of provid inform
+on the form of output us prior call of procedur
+such as real format is defin a us of the
+param

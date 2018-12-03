@@ -1,0 +1,13 @@
+gener equat for ideal cpu i o overlap configur gener
+equat ar deriv for estim the maximum possibl util of
+main storag partit cpu and i o devic under differ
+condit in an ideal cpu i o overlap model of
+multiprogram comput system the equat ar directli applic to ani
+configur consist of set of ident cpu s i o
+processor main storag partit and user task exampl ar provid
+to illustr the us of the equat to comput effect
+process time per record and expect timeshar respons time under
+both balanc and unbalanc resourc util condit cacm june 1978
+teori t block buffer input output overlap perform resourc alloc
+throughput timeshar 3 72 4 30 4 41 8 1
+ca780609 dh februari 8 1979 4 35 pm

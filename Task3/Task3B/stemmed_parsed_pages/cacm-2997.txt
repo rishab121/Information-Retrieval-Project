@@ -1,0 +1,13 @@
+convex hull of finit set of poin ts in two
+and three dimens the convex hull of set of n
+poin ts in two and three dimens can be determin
+with o n log n oper the present algorithm us
+the divid and conquer techniqu and recurs appli a merg
+procedur for two nonin tersect convex hull sinc ani convex
+hull algorithm requir at least o n log n oper
+the time complex of the propos algorithm is optim within
+a multipl constant cacm februari 1977 preparata f p hong
+s j comput complex convex hull optim algorithm planar set
+of poin ts spatial set of poin ts 4 49
+5 25 5 32 ca770203 jb decemb 30 1977 2
+47 am

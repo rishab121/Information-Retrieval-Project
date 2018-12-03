@@ -1,0 +1,18 @@
+a hardwar architectur for implement protect ring protect of comput
+and inform is an import aspect of a comput util
+in a system which us segment as a memori address
+scheme protect can be achiev in part by associ concentr
+ring of decreas access privileg with a comput thi paper
+describ hardwar processor mechan for implement these ring of protect
+the mechan for implement these ring of protect the mechan
+allow cross ring call and subsequ return to occur without
+trap to the supervisor automat hardwar valid of refer across
+ring boundari is also perform thu a call by a
+user procedur to a protect subsystem includ the supervisor is
+ident to a call to a companion user procedur the
+mechan of pass and referenc argument ar the same in
+both case as well cacm march 1972 schroeder m d
+saltzer j h protect protect ring protect hardwar access control
+hardwar access control comput util time share share inform segment
+virtual memori multic 4 32 6 21 ca720304 jb januari
+31 1978 2 58 pm

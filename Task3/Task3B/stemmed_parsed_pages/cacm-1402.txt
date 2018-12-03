@@ -1,0 +1,7 @@
+partial step integr a partial step integr equat is deriv
+for us with the adam or adam bashforth method of
+integr of differenti equat thi method of obtain function valu
+at point intermedi to the integr point yield accuraci compar
+to the integr and doe not requir store of addit
+inform as in interpol method cacm juli 1966 glauz r
+d ca660710 jb march 2 1978 9 08 pm

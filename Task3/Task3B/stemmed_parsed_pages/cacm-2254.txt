@@ -1,0 +1,18 @@
+dynam partit for arrai languag the classic process of partit
+an arrai into subarrai is extend to a more us
+arrai languag oper variou mode of partit ar defin for
+differ type of arrai so that subarrai mai vari over
+the origin arrai in a nearli arbitrari manner these definit
+ar motiv with sever realist exampl to illustr the valu
+of partit for arrai languag of gener interest is the
+data structur for partit thi consist of dynam tree structur
+which ar us to deriv and maintain the arrai control
+inform these ar describ in suffici detail to be of
+valu in the design of other arrai languag the descript
+present in thi paper is implement in a new arrai
+languag ol 2 current under develop at the univers of
+illinoi cacm decemb 1972 phillip j r adam h c
+dynam partit arrai partit arrai languag data structur tree structur
+program languag design arrai control block partit control block 4
+12 4 2 4 22 ca721201 jb januari 27 1978
+1 20 pm

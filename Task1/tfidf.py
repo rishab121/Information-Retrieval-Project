@@ -80,7 +80,7 @@ class TfIdf:
 					break
 
 	def getTfIdf(self, query, queryId):
-		queryTerms = query.split(' ')
+		queryTerms = query.split()
 		documents_containing_term = []
 		documentScores = defaultdict(float)
 		for term in queryTerms:

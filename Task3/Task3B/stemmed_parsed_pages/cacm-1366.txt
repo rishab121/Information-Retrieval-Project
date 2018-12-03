@@ -1,0 +1,25 @@
+comput simul discuss of the techniqu and comparison of languag
+the purpos of thi paper is to present a comparison
+of some comput simul languag and of some of the
+involv in compar softwar packag for digit comput ar discuss
+in part i the issu is obviou user of digit
+comput must choos from avail languag or write their own
+substanti cost can occur particularli in train implement and comput
+time if an inappropri languag is chosenor and more comput
+simul languag ar be develop comparison and evalu of exist
+languag ar us for design and implement as well as
+user the second part is devot to comput simul and
+simul languag the comput characterist of simul ar discuss with
+special attent be paid to a distinct between continu and
+discret chang model part iii present a detail comparison of
+six simul languag and packag simscript clp csl gasp cpss
+and sol the characterist of each ar summar in a
+seri of tabl the implic of thi analysi for design
+of languag for user and for implement ar develop the
+conclus of the paper is that the packag now avail
+for comput simul offer featur which none of the more
+gener purpos packag do and that analysi of strength and
+weak of each suggest wai in which both current and
+futur simul languag and packag can be improv cacm octob
+1966 teichroew d lubin j f ca661001 jb march 2
+1978 4 23 pm

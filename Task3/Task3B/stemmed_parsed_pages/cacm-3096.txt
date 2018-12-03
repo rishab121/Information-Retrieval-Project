@@ -1,0 +1,19 @@
+an optim method for delet in on side height balanc
+tree a on side height balanc tree is a binari
+tree in which everi node s right subtre ha a
+height which is equal to or exactli on greater than
+the height of it left subtre it ha an advantag
+over the more gener avl tree in that onli on
+bit of balanc inform is requir two bit ar requir
+for the acl tree it is shown that delet of
+an arbitrari node of such a tree can be accomplish
+in o logn oper where n is the number of
+node in the tree moreov the method is optim in
+the sens that it complex cannot be reduc in order
+of magnitud thi result coupl with earlier result by hirschberg
+indic that of the three basic problem of insert delet
+and retriev onli insert is advers affect by thi modif
+of an avl tree cacm june 1978 zweben s mcdonald
+m balanc binari search tree 3 73 3 74 4
+34 5 25 5 31 ca780601 dh februari 26 1979
+12 48 pm

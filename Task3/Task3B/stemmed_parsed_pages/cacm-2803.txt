@@ -1,0 +1,5 @@
+pseudoinvers and conjug gradient thi paper is devot to the
+studi of connect between pseudoinvers of matric and conjug gradient
+and conjug direct routin cacm januari 1975 hesten m r
+pseudoinvers conjug gradient hermitian matrix minim 5 14 ca750108 jb
+januari 12 1978 10 08 am

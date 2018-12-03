@@ -1,0 +1,8 @@
+data input by question and answer a data input scheme
+for a time share comput is describ in thi paper
+instead of us format statement to determin the input the
+comput ask the user for the requir valu on at
+a time the comput convers with the user dure the
+input process check for error provid standard data and allow
+edit of valu input cacm april 1965 pyle i c
+ca650410 jb march 7 1978 3 48 pm

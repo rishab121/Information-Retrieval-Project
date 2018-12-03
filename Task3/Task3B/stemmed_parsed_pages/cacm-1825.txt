@@ -1,0 +1,19 @@
+a practic method for construct lr k processor a practic
+method for construct lr k processor is develop these processor
+ar capabl of recogn and pars an input dure a
+singl no backup scan in a number of step equal
+to the length of the input plu the number of
+step in it deriv the techniqu present here is base
+on the origin method describ by knuth but decreas both
+the effort requir to construct the processor and the size
+of the processor produc thi procedur involv partit the given
+grammar into a number of smaller part if an lr
+k processor can be construct for each part us knuth
+s algorithm and if certain condit relat these individu processor
+ar satisfi then an lr k processor for the entir
+grammar can be construct for them us thi procedur an
+lr 1 parser for algol ha been obtain cacm novemb
+1969 korenjak a j lr k grammar syntact analysi parser
+determinist languag syntax direct compil languag processor context free languag
+algol 4 12 5 2 5 23 ca691105 jb februari
+15 1978 12 52 pm

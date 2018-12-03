@@ -1,0 +1,12 @@
+convers of limit entri decis tabl to comput program decis
+tabl ar us for describ a set of complex decis
+rule base on given set of condit algorithm that can
+effici convert the tabl into comput program will extend the
+us of decis tabl to comput user two such algorithm
+base on work done by m s montalbano ar describ
+and extend here to handl dash and els decis rule
+the first algorithm minim the comput storag space requir for
+the result program the second minim comput run time dure
+the convers process both pinpoint ani contradict or redund among
+the rule in a tabl cacm novemb 1965 pollack s
+l ca651109 jb march 6 1978 4 56 pm

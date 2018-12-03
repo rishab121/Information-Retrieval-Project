@@ -1,0 +1,15 @@
+storag effici represent of decim data usual n decim digit
+ar repres by 4n bit in comput actual two bcd
+digit can be compress optim and revers into 7 bit
+and three digit into 10 bit by a veri simpl
+algorithm base on the fix length combin of two variabl
+field length encod in over half of the case the
+compress code result from the convent bcd code by simpl
+remov of redund 0 bit a long decim messag can
+be subdivid into three digit block and separ compress the
+result differ from the asymptot minimum length by onli 0
+34 percent the hardwar requir is small and the map
+can be done manual cacm januari 1975 chi chen t
+ho i t binari code decim digit decim data storag
+6 32 6 34 ca750110 jb januari 12 1978 9
+42 am

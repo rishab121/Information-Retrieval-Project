@@ -1,0 +1,6 @@
+an interact comput graphic approach to surfac represent an in
+teract comput graphic method ha been develop for the rapid
+gener of arbitrari shape three dimension surfac the method is
+a synthesi of spline theori and algorithm an in teract
+mean for man machin commun and softwar for static or
+dynam

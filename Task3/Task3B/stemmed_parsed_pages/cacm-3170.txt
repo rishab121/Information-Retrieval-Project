@@ -1,0 +1,7 @@
+on the proof of correct of a calendar program a
+formal specif is given for a simpl calendar program and
+the deriv and proof of correct of the program ar
+sketch the specif is easi to understand and it correct
+is manifest to human cacm octob 1979 lamport l program
+specif program verif induct assert 5 24 ca791003 db januari
+16 1980 5 02 pm

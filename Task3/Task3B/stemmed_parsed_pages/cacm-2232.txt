@@ -1,0 +1,22 @@
+pattern width at a given angl that the pattern featur
+width as a function of angl possess sever possibl interpret
+is demonstr in thi paper which is a review of
+the width concept in pattern recognit and the geometr concept
+itself the object of the work is to clarifi how
+the word descript can be made precis so that comput
+algorithm for featur extract mai be obtain the focu is
+on the theoret subject matter the result consist of a
+set theoret definit of width at angl a theorem relat
+it to the pattern boundari radiu vector and descript of
+altern width all width ar calcul for an illustr exampl
+graphic and tabular comparison ar given substanti variat in width
+at angl magnitud is found the princip conclus is that
+the set theoret width at angl is a us pattern
+featur when it can be easili comput further investig of
+the inform contain in onli part of a width function
+is recommend for case where comput of width at angl
+is difficult cacm januari 1971 klinger a featur extract pattern
+recognit figur properti pictur process integr geometri width at angl
+extent integr project linear pattern measur width function 3 60
+3 62 3 63 5 12 ca710102 jb februari 8
+1978 12 49 pm

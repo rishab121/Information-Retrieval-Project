@@ -1,0 +1,7 @@
+convers of a power to a seri of chebyshev polynomi
+even slowli converg power seri can be rearrang as seri
+in chebyshev polynomi if appropri sequenc transform ar us in
+evalu the coeffici the method is illustr by comput the
+coeffici for the expans of the logarithm and dilogarithm cacm
+march 1964 thacher jr h c ca640323 jb march 10
+1978 2 05 am

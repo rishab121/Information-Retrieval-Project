@@ -1,0 +1,4 @@
+further comment on dijkstra s concurr program control problem cacm
+novemb 1972 eisenberg m a mcguir m r critic section
+concurr program control multiprocess 4 32 ca721113 jb januari 27
+1978 1 24 pm

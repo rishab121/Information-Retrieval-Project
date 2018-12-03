@@ -1,0 +1,13 @@
+recent improv in madcap madcap is a program languag admit
+subscript superscript and certain form of displai formula the basic
+implement of thi languag wa describ in a previou paper
+madcap a scientif compil for a displai formula textbook languag
+comm acm 4 jan 61 31 36 thi paper discuss
+recent improv in the languag in three area complex displai
+logic control and subprogram in the area of complex displai
+the most promin improv ar a notat for integr and
+for the binomi coeffici in the area of logic control
+the chief new featur is a notat for variabl nest
+loop the discuss of subprogram is focus on madcap s
+notat for and us of procedur cacm novemb 1963 well
+m b ca631113 jb march 13 1978 3 39 pm

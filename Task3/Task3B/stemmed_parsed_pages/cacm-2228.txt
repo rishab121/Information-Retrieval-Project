@@ -1,0 +1,9 @@
+comment on prevent of system deadlock habermann s method of
+deadlock prevent is discuss where deadlock is defin as a
+system state from which resourc alloc to certain process ar
+not possibl it is shown that the schedul mai introduc
+artifici deadlock which habermann s method doe not prevent perman
+block is the situat where certain process never receiv their
+resourc request it is shown that deadlock prevent doe not
+necessarili elimin perman block a method of prevent perman block
+is given cacm januari 1971 holt r c multiprogram

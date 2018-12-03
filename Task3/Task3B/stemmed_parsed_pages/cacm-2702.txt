@@ -1,0 +1,23 @@
+on the complex of lr k test the problem of
+determin whether an arbitrari context free grammar is a member
+of some easili pars subclass of grammar such as the
+lr k grammar is consid the time complex of thi
+problem is analyz both when k is consid to be
+a fix integ and when k is consid to be
+a paramet of the test in the first case it
+is shown that for everi k there exist an o
+n k 2 algorithm for test the lr k properti
+where n is the size of the grammar in question
+on the other hand if both k and the subject
+grammar ar problem paramet then the complex of the problem
+depend veri strongli on the represent chosen for k more
+specif it is shown that thi problem is np complet
+when k is express in unari when k is express
+in binari the problem is complet for nondeterminist exponenti time
+these result carri over to mani other parameter class of
+grammar such as the ll k strong ll k slr
+k lc k and strong lc k grammar cacm decemb
+1975 hunt h b iii szymanski t g ullman j
+d comput complex context free grammar pars lr k grammar
+np complet problem 4 12 5 23 5 25 ca751205
+jb januari 5 1978 4 28 pm

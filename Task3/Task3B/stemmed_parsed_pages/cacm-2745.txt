@@ -1,0 +1,8 @@
+a linear space algorithm for comput maxim common subsequ the
+problem of find a longest common subsequ of two string
+ha been solv in quadrat time and space an algorithm
+is present which will solv thi problem in quadrat time
+and in linear space cacm june 1975 hirschberg d s
+subsequ longest common subsequ string correct edit 3 63 3
+73 3 79 4 22 5 25 ca750608 jb januari
+9 1978 12 56 pm

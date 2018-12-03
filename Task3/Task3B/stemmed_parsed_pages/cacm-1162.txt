@@ -1,0 +1,15 @@
+an assembl languag for reprogram complet reprogram of compil languag
+program is seldom necessari it is assembl languag program which
+present the greatest difficulti assembl languag gener provid a on
+for on translat from a symbol to a numer version
+of a program that is from assembl languag to machin
+languag the meta languag present here can be us to
+specifi the map of ani languag which conform to a
+canon list form into an arbitrari stream of bit thi
+bit stream mai be treat as a machin languag program
+a charact stream or whatev els the user might desir
+thu thi meta languag can be us to map from
+on assembl languag into anoth or from the assembl languag
+for on machin into the machin languag of anoth cacm
+decemb 1965 graham m l ingerman p z ca651207 jb
+march 6 1978 4 01 pm

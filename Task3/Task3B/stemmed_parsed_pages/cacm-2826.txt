@@ -1,0 +1,15 @@
+interact skeleton techniqu for enhanc motion dynam in kei frame
+anim a signific increas in the capabl for control motion
+dynam in kei frame anim is achiev through skeleton control
+thi techniqu allow an anim to develop a complex motion
+sequenc by anim a stick figur represent of an imag
+thi control sequenc is then us to drive an imag
+sequenc through the same movement the simplic of the stick
+figur imag encourag a high level of interact dure the
+design stage it compat with the basic kei frame anim
+techniqu permit skeleton control to be appli select to onli
+those compon of a composit imag sequenc that requir enhanc
+cacm octob 1976 burtnyk n wein m interact graphic comput
+gener anim kei frame anim interact skeleton control stick figur
+anim 3 41 3 49 4 9 8 2 ca761005
+jb januari 3 1978 4 24 pm

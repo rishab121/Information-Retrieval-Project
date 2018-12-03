@@ -1,0 +1,15 @@
+a simpl automat deriv evalu program a procedur for automat
+evalu of total partial deriv of arbitrari algebra function is
+present the techniqu permit comput of numer valu of deriv
+without develop analyt express for the deriv the kei to
+the method is the decomposit of the given function by
+introduct of intermedi variabl into a seri of elementari function
+step a librari of elementari function subroutin is provid for
+the automat evalu and differenti of these new variabl the
+final step in thi process produc the desir function s
+deriv the main featur of thi approach is it simplic
+it can be us as a quick reaction tool where
+the deriv of analyt deriv is labori and also as
+a debug tool for program which contain deriv cacm august
+1964 wengert r e ca640801 jb march 9 1978 7
+38 pm

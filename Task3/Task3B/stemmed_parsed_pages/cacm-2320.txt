@@ -1,0 +1,14 @@
+structur multiprogram thi paper present a propos for structur represent
+of multiprogram in a high level languag the notat us
+explicitli associ a data structur share by concurr process with
+oper defin on it thi clarifi the mean of program
+and permit a larg class of time depend error to
+be caught at compil time a combin of critic region
+and event variabl enabl the programm to control schedul of
+resourc among compet process to ani degre desir these concept
+ar suffici safe to us not onli within oper system
+but also within user program cacm juli 1972 hansen p
+b structur multiprogram program languag oper system concurr process share
+data mutual exclus critic region process commun synchron event 4
+2 4 3 ca720708 jb januari 30 1978 2 39
+pm

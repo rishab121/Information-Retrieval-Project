@@ -1,0 +1,4 @@
+optim the perform of a relat algebra databas interfac an
+approach for implement a smart interfac to support a relat
+view of data is propos the basic idea is to
+emploi automat program

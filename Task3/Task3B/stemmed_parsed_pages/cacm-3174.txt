@@ -1,0 +1,8 @@
+password secur a case histori thi paper describ the histori
+of the design of the password secur scheme on a
+remot access time share system the present design wa the
+result of counter observ attempt to penetr the system the
+result is a compromis between extrem secur and eas of
+us cacm novemb 1979 morri r thompson k oper system
+password comput secur 2 41 4 35 ca791102 db januari
+18 1980 10 03 am

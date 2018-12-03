@@ -1,0 +1,7 @@
+matrix reduct us the hungarian method for the gener of
+school timet the applic of kuhn s hungarian method to
+the problem of matrix reduct as need in gotlieb s
+method for timet gener is describ the method is suit
+to both hand and comput calcul devic to improv the
+effici of the basic algorithm ar discuss cacm mai 1966
+lion j ca660508 jb march 3 1978 9 52 am

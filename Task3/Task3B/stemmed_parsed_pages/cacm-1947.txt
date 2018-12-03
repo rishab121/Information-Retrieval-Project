@@ -1,0 +1,11 @@
+object code optim method of analyz the control flow and
+data flow of program dure compil ar appli to transform
+the program to improv object time effici domin relationship indic
+which statement ar necessarili execut befor other ar us to
+do global common express elimin and loop identif implement of
+these and other optim in os 360 fortran h ar
+describ cacm januari 1969 lowri e s medlock c w
+compil data flow analysi domin effici fortran graph theori loop
+structur machin instruct object code optim redund elimin regist assign
+system 360 4 12 5 24 5 32 ca690102 jb
+februari 20 1978 12 15 pm

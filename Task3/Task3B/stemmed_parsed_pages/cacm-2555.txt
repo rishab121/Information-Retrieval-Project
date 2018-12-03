@@ -1,0 +1,13 @@
+variabl precis exponenti a previou paper present an effici algorithm
+call the recomput algorithm for evalu a ration express to
+within ani desir toler on a comput which perform variabl
+precis arithmet oper the recomput algorithm can be appli to
+express involv ani variabl precis oper have o 10 p
+sum ei error bound where p denot the oper s
+precis and ei denot the error in the oper s
+ith argument thi paper present an effici variabl precis exponenti
+oper with an error bound of the abov order other
+oper such as log sin and co which have simpl
+seri expans can be handl similarli cacm januari 1973 richman
+p l variabl precis exponenti function error analysi interv arithmet
+5 11 ca730106 jb januari 24 1978 4 32 pm

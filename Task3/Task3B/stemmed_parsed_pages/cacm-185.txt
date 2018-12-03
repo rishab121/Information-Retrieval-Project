@@ -1,0 +1,13 @@
+multiprogram schedul part 1 and 2 introduct and theori in
+order to exploit fulli a fast comput which possess simultan
+process abil it should to a larg extent schedul it
+own workload the schedul routin must be capabl of extrem
+rapid execut if it is not to prove self defeat
+the construct of a schedul entail determin which program ar
+to be run concurr and which sequenti with respect to
+each other a concis schedul algorithm is describ which tend
+to minim the time for execut the entir pend workload
+or ani subset of it subject to extern constraint such
+as preced urgenc etc the algorithm is applic to a
+wide class of machin cacm june 1960 codd e f
+ca600605 jb march 20 1978 9 46 pm

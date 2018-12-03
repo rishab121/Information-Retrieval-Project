@@ -1,0 +1,11 @@
+the cyclic order properti of vertic as an aid in
+scene analysi a cyclic order properti is defin for bodi
+bound by smooth curv face the properti is shown to
+be us for analyz pictur of such bodi particularli when
+the line data extract from the pictur ar imperfect thi
+properti augment previous known grammat rule that determin the exist
+of three dimension bodi correspond to given two dimension line
+structur data cacm june 1979 shapira r freeman h scene
+analysi cyclic order artifici intellig three dimension reconstruct pictur process
+comput graphic pattern recognit 3 2 3 6 8 2
+ca790605 dh august 22 1979 1 36 pm

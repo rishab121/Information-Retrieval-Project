@@ -1,0 +1,9 @@
+the stabil of the fourth order rung kutta method for
+the solut of system of differenti equat the problem of
+the region of stabil of the fourth order rung kutta
+method for the solut of system of differenti equat is
+studi thi region can be character by mean of linear
+transform but can not be given in a close form
+in the paper thi region is determin by the electron
+digit comput z22 cacm februari 1966 karim a i a
+ca660211 jb march 3 1978 2 31 pm

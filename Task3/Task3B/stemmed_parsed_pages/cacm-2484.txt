@@ -1,0 +1,21 @@
+a note on inform organ and storag sinc the logic
+structur of a data base can be repres by a
+tree or graph it is quit natur for us to
+view the process of design a data base as that
+of construct a tree or a graph a gener method
+for construct such a tree or a graph is provid
+there ar three import element in thi gener construct method
+name a set of binari relat an algorithm for construct
+subset of a set and an algorithm for select an
+element from the given set of object the us of
+differ relat and algorithm result in differ inform structur as
+list tree ring etc thu the problem of inform organ
+and storag is reduc to that of defin relat and
+formul algorithm under a given set of constraint the result
+present mai be valuabl to design as us design concept
+and mai serv as a basi for develop a formal
+theori on the subject cacm juli 1973 huang j c
+data base data base manag inform retriev inform structur file
+organ storag alloc tree graph 3 70 3 73 3
+74 5 32 ca730702 jb januari 23 1978 1 14
+pm

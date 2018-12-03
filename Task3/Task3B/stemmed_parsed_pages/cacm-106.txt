@@ -1,0 +1,13 @@
+a method for overlap and erasur of list an import
+properti of the newel shaw simon scheme for comput storag
+of list is that data have multipl occurr need not
+be store at more than on place in the comput
+that is list mai be overlap unfortun overlap pose a
+problem for subsequ erasur given a list that is no
+longer need it is desir to eras just those part
+that do not overlap other list in lisp mccarthi emploi
+an eleg but ineffici solut to the problem the present
+paper describ a gener method which enabl effici erasur the
+method emploi interspers refer count to describ the extent of
+the overlap cacm decemb 1960 collin g e ca601210 jb
+march 20 1978 6 33 pm

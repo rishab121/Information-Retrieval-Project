@@ -1,0 +1,19 @@
+easi english a languag for inform retriev through a remot
+typewrit consol easi english is a natur command languag design
+to simplifi commun between man and machin through remot typewrit
+consol it ha been develop for retriev of document from
+a computer data base the moor school inform system laboratori
+file request ar formul in a standard syntact form exampl
+of which ar present and thi form is then transform
+into an equival queri express in the retriev system s
+origin symbol command languag which is briefli describ oper of
+easi english is detail by illustr of the transform perform
+upon a sampl request up to the point at which
+the request string is sent to the system a macro
+flowchart of easi english is includ and an appendix provid
+the printout of a retriev demonstr cacm octob 1968 rubinoff
+m bergman s cautin h rapp f natur languag commun
+on line search remot consol commun inform retriev man machin
+commun remot termin commun translat document retriev convers mode inform
+retriev languag symbol command languag 3 74 3 81 4
+19 ca681006 jb februari 21 1978 3 59 pm

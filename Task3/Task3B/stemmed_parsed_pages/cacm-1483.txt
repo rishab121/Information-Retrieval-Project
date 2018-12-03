@@ -1,0 +1,8 @@
+a comparison of the fortran languag implement for sever comput
+a featur by featur comparison is made of five differ
+implement of fortran iv repres three differ manufactur a tabl
+is construct show where possibl the us of each featur
+in each implement onli those item which ar differ from
+or have been ad to fortran ii ar shown cacm
+februari 1966 wright d l ca660204 jb march 3 1978
+3 19 pm

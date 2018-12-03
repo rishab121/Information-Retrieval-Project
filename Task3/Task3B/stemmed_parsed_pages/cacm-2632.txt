@@ -1,0 +1,16 @@
+hydra the kernel of a multiprocessor oper system thi paper
+describ the design philosophi of hydra the kernel of an
+oper system for c mmp the carnegi mellon multi mini
+processor thi philosophi is realiz through the introduct of a
+gener notion of resourc both physic and virtual call an
+object mechan ar present for deal with object includ the
+creation of new type specif of new oper applic to
+a given type share and protect of ani refer to
+a given object against improp applic of ani of the
+oper defin with respect to that type of object the
+mechan provid a coher basi for extens of the system
+in two direct the introduct of new facil and the
+creation of highli secur system cacm june 1974 wulf w
+cohen e corwin w jone a levin r pierson c
+pollack f oper system kernel nucleu protect secur 4 3
+6 2 ca740614 jb januari 17 1978 2 40 pm

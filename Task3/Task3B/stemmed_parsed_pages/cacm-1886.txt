@@ -1,0 +1,10 @@
+gener of optim code for express via factor given a
+set of express which ar to be compil method ar
+present for increas the effici of the object code produc
+by first factor the express i e find a set
+of subexpress each of which occur in two or more
+other express or subexpress onc all the factor have been
+ascertain a sequenc procedur is appli which order the factor
+and express such that all inform is comput in the
+correct sequenc and factor need be retain in memori a
+minim am

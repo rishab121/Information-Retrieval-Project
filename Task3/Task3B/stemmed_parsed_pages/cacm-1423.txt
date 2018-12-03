@@ -1,0 +1,20 @@
+a simpl algorithm for comput the gener invers of a
+matrix the gener invers of a matrix is import in
+analysi becaus it provid an extens of the concept of
+an invers which appli to all matric it also ha
+mani applic in numer analysi but it is not wide
+us becaus the exist algorithm ar fairli complic and requir
+consider storag space a simpl extens ha been found to
+the convent orthogon method for invert non singular matric which
+give the gener invers with littl extra effort and with
+no addit storag requir the algorithm give the gener invers
+for ani m by n matrix a includ the special
+case when m n and a is non singular and
+the case when m n and rank a n in
+the first case the algorithm give the ordinari invers of
+a in the second case the algorithm yield the ordinari
+least squar transform matrix inv a a a and ha
+the advantag of avoid the loss of signific which result
+in form the product a a explicitli cacm mai 1966
+rust r burru w r schneeberg c ca660514 jb march
+3 1978 9 22 am

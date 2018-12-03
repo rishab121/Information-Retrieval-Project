@@ -1,0 +1,20 @@
+transpar mode control procedur for data commun us the american
+standard code for inform interchang a tutori thi paper give
+the consider of task group x3 3 4 in the
+area of transpar mode data commun control philosophi the appear
+of thi paper wa forecast underth name of second level
+control in the earlier tutori paper control procedur for data
+commun task group document x3 3 4 44 date mai
+1964 the present paper elabor upon solut to the problem
+of transpar to the basic ascii commun control charact as
+outlin in the previou paper mention abov moreov it goe
+on to cover the addit control problem of handl materi
+such as off line encrypt data or non ascii code
+by mean of system provid complet charact transpar it doe
+not cover concept of transpar in which the normal charact
+structur or modul rate of a system mai be abandon
+in conjunct with the earlier tutori paper thi paper is
+expect to lead to a propos for stand ardizationof data
+commun control procedur us the american stand ard code for
+inform interchang cacm april 1965 ca650401 jb march 7 1978
+4 10 pm

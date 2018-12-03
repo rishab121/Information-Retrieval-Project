@@ -1,0 +1,15 @@
+copi list structur us bound workspac two new algorithm ar
+present for list structur copi us bound workspac the first
+of primarili theoret interest show that without cell tag bit
+the task can be perform in time n 2 the
+second algorithm assum on tag bit in each cell deliv
+attract practic speed ani noncycl structur is copi in linear
+speed while cyclic structur ar copi in averag time less
+than nlogn no foreknowledg of cycl absenc is necessari to
+achiev linear speed a variat of the second algorithm solv
+an open problem concern list structur mark that result demonstr
+that mark can be done in averag time nlogn without
+the aid of supplement tag bit or stack cacm april
+1974 lindstrom g list process copi mark space complex 4
+34 5 25 ca740405 jb januari 18 1978 9 55
+am

@@ -1,0 +1,4 @@
+linear equat solver f4 algorithm a423 cacm april 1972 moler
+c b matrix algorithm linear equat fortran page memori virtual
+memori arrai process 4 22 4 32 5 14 ca720411
+jb januari 31 1978 12 34 pm

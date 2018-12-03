@@ -1,0 +1,21 @@
+a phonolog rule tester the design and implement of a
+system to allevi the problem of rule evalu for the
+linguist in the area of phonolog ar present it permit
+the user to defin on line set of rule statabl
+within the framework present in the sound pattern of english
+by chomski and hall 1968 to defin phonem as bundl
+of specifi distinct featur to defin data as string of
+phonem with associ grammat structur to test the effect of
+appli rule to the data and to store both the
+definit and result the rule applic facil describ in detail
+wa implement by translat linguist rule to rule in flip
+a format direct list processor embed in lisp thi made
+the system construct easi while provid sophist capabl for the
+linguist the system is written in bbn lisp on the
+scientif data system 940 comput and is design to be
+us on line in interact fashion with control return to
+the user after each command is execut cacm novemb 1968
+borrow d g fraser j b phonolog rule tester linguist
+transform grammar lisp format direct list process on line system
+3 42 4 13 4 22 ca681108 jb februari 21
+1978 2 41 pm

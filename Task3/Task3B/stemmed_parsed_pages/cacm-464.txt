@@ -1,0 +1,17 @@
+syntact analysi by digit comput thi paper provid an account
+of the shadow languag that is us to describ syntax
+and of a correspond subroutin that enabl a comput to
+perform syntact analysi the input to thi subroutin consist of
+a string to be analyz and a descript of the
+syntax that is to be us the syntax is express
+in the shadow languag the output consist of a trace
+tabl that express the result of the syntact analysi in
+a tabular form sever version of the subroutin and some
+associ program have been in us now for over three
+year the present account of the languag and the subroutin
+contain a summari of materi that ha been describ previous
+in unpublish report and also some addit discuss of the
+work in relat to the more gener question of problem
+orient languag and string transform cacm octob 1962 barnett m
+p futrel r p ca621016 jb march 17 1978 7
+11 pm

@@ -1,0 +1,6 @@
+complex gamma function with error control s14 algorithm a421 cacm
+april 1972 kuki h complex gamma function gamma function complex
+log gamma function loggamma function round off error control inher
+error control run time error estim error estim special function
+4 9 5 11 5 12 ca720409 jb januari 31
+1978 12 50 pm

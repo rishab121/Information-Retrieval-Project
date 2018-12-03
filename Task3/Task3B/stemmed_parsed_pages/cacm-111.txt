@@ -1,0 +1,9 @@
+on program the numer solut of polynomi equat numer techniqu
+ar present for comput the root of polynomi equat by
+appli the recommend scale and invers rule the basic bairstow
+and newton raphson iter techniqu can be appli with great
+reliabl both a high degre of accuraci and rapid converg
+ar realiz numer exampl ar shown to illustr the pitfal
+and to show how these ar circumv by applic of
+the recommend procedur cacm decemb 1960 ellenberg k w ca601205
+jb march 20 1978 6 41 pm

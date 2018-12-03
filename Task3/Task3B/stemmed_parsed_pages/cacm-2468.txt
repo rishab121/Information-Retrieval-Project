@@ -1,0 +1,3 @@
+rosenbrock function minim e4 algorithm a450 cacm august 1973 machura
+m mulawa a function minim rosenbrock s method 5 19
+ca730806 jb januari 23 1978 10 43 am

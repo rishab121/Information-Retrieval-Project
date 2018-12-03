@@ -1,0 +1,20 @@
+is sometim sometim better than alwai intermitt assert in prove
+program correct thi paper explor a techniqu for prove the
+correct and termin of program simultan thi approach the intermitt
+assert method involv document the program with assert that must
+be true at some time when control pass through the
+correspond point but that need not be true everi time
+the method introduc by burstal promis to provid a valuabl
+complement to the more convent method the intermitt assert method
+is present with a number of exampl of correct and
+termin proof some of these proof ar markedli simpler than
+their convent counterpart on the other hand it is shown
+that a proof of correct or termin by ani of
+the convent techniqu can be rephras directli as a proof
+us intermitt assert final it is shown how the intermitt
+assert method can be appli to prove the valid of
+program transform and the correct of continu oper program cacm
+februari 1978 manna z walding r intermitt assert correct of
+program termin of program program verif program transform continu oper
+program 5 24 ca780209 jb march 28 1978 2 04
+pm

@@ -1,0 +1,16 @@
+multi tape and infinit state automata a survei a survei
+of machin which ar more power than finit automata and
+less power than gener ture machin is present it is
+felt that the machin in thi categori ar as close
+relat to digit comput as either the finit automata or
+the unrestrict ture machin intermedi machin can be creat by
+adjoin on infinit state memori to a finit state machin
+and then perform ani or all of the follow 1
+restrict the manner in which the unbound portion of the
+memori can be access 2 bound the number of step
+allow for a comput by some increas recurs function of
+the length of the input 3 restrict the total amount
+of memori avail in the same manner exampl from all
+three class and their properti ar discuss cacm decemb 1965
+fischer p c ca651215 jb march 6 1978 3 24
+pm

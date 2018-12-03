@@ -1,0 +1,2 @@
+gener pseudorandom number on a two s complement machin such
+as the ibm 360 the fam

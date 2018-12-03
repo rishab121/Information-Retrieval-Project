@@ -1,0 +1,9 @@
+near minimax polynomi approxim and partit of interv a method
+of near minimax polynomi approxim is describ as a by
+product thi method provid a formula for an estim of
+the maximum error associ with a given degre of approxim
+us thi formula a partit algorithm is obtain for divid
+a basic interv into subinterv for which approxim of equal
+degre give equal maximum error cacm august 1964 fraser w
+hart j f ca640815 jb march 9 1978 6 41
+pm

@@ -1,0 +1,19 @@
+a program system for the on line analysi of biomed
+imag a preliminari descript of the softwar for a comput
+displai system is given with special emphasi on the man
+machin interact thi system is intend for a wide varieti
+of biomed applic as an exampl the method ar appli
+to the karyotyp of chromosom the system is separ into
+four program task pictur transform file mainten pictur structur and
+displai manag pictur structur is consid as the vehicl for
+man machin commun a prototyp data format for pictur call
+a pictur form is develop structur oper ar defin which
+manipul pictur form to produc new pictur form mani of
+the idea ar taken from the symbol mathemat laboratori at
+mit conceiv by marvin minski cacm mai 1970 hode l
+imag process biomed imag process on line imag process semiautomat
+imag process data structur structur oper pictur process biomed pictur
+process on line pictur process semiautomat pictur process semiautomat karyotyp
+karyotyp list process pictur process 3 12 3 34 3
+63 4 39 6 29 ca700501 jb februari 13 1978
+2 27 pm

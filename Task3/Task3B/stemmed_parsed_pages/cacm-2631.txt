@@ -1,0 +1,19 @@
+an inform theoret approach to text search in direct access
+system us direct access comput file of bibliograph inform an
+attempt is made to overcom on of the problem often
+associ with inform retriev name the mainten and us of
+larg dictionari the greater part of which is us onli
+infrequ a novel method is present which map the hyperbol
+frequenc distribut thi is more suit to implement on storag
+devic thi method treat text as a string of charact
+rather than word bound by space and choos subset of
+string such that their frequenc of occurr ar more even
+than those of word type the member of thi subset
+ar then us as index kei for retriev the rectangular
+distribut of kei frequenc result in a much simplifi file
+organ and promis consider cost advantag cacm june 1974 barton
+i j creasei s e lynch m f snell m
+j text search inform theori file organ direct access inform
+retriev charact string bit vector 3 42 3 70 3
+73 3 74 5 6 ca740615 jb januari 17 1978
+2 07 pm

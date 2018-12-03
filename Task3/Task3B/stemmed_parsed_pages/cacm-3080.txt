@@ -1,0 +1,17 @@
+prove the correct of heurist optim code a system for
+prove that program written in a high level languag ar
+correctli translat to a low level languag is describ a
+primari us of the system is as a post optim
+step in code gener the low level languag program need
+not be gener by a compil and in fact could
+be hand code exampl of the us of such a
+system ar given some interest result ar the abil to
+handl program that implement recurs by bypass the start of
+the program and the detect and pinpoint of a wide
+class of error in the low level languag program the
+exampl demonstr that optim of the genr of thi paper
+can result in substanti faster oper and the save of
+memori in term of program and stack size cacm juli
+1978 samet h compil correct code optim debug program verif
+lisp 4 12 4 21 4 22 5 24 ca780708
+dh februari 7 1979 3 53 pm

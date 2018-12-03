@@ -1,0 +1,12 @@
+an exampl of hierarch design and proof hierarch program is
+be increasingli recogn as help in the construct of larg
+program user of hierarch techniqu claim or predict substanti increas
+in product and in the reliabl of the program produc
+in thi paper we describ a formal method for hierarch
+program specif implement and proof we appli thi method to
+a signific list process problem and also discuss a number
+of extens to current program languag that eas hierarch program
+design and proof cacm decemb 1978 spitzen j levitt k
+robinson l program verif specif data abstract softwar modul hierarch
+structur 4 0 4 6 5 21 5 24 ca781209
+dh januari 16 19794 43 pm

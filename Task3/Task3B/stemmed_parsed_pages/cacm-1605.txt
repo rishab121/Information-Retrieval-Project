@@ -1,0 +1,2 @@
+an experiment comparison of time share and batch process the
+effect for program

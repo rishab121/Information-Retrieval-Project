@@ -1,0 +1,7 @@
+gener perform analysi of kei to address transform method us
+an abstract file concept thi paper present a new approach
+to the analysi of perform of the variou kei to
+address transform method in thi approach the kei in a
+file ar assum to have been select from the kei
+space accord to a certain probabilist select algorithm all file
+with the sam

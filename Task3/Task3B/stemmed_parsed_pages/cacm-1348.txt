@@ -1,0 +1,14 @@
+flowtrac a comput program for flowchart program the flowtrac system
+produc flowchart of program written in almost ani program languag
+on most describ the syntax of the control statement in
+hi languag for thi purpos a metalanguag is avail the
+result object deck is us to flowchart ani program in
+the languag describ sever exampl of fap and snobol flowchart
+ar given howev it is not necessari to confin on
+s scope to exist languag on mai defin hi own
+languag in ani well structur manner thi featur is particularli
+us when it is desir to chart onli comment within
+a program such an approach permit the document of descript
+remark and avoid the inclus of code detail cacm decemb
+1966 sherman p m ca661202 jb march 2 1978 2
+49 pm

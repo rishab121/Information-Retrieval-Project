@@ -1,0 +1,9 @@
+storag alloc in a certain iter process a method of
+core storag alloc in a certain iter process is describ
+and estim of the machin time requir ar given the
+method is applic to iter process in which input data
+item onc chosen ar never again need in thi method
+the input data is continu reloc and the space made
+avail apport to the output tabl when an overflow occur
+some import special case ar consid in which consider simplif
+occur cacm june 1967 abram

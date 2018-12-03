@@ -1,0 +1,1 @@
+gener parser for affix gram

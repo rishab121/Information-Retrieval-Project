@@ -1,0 +1,12 @@
+minim wast space in partit segment a page virtual memori
+system us a finit number of page size is consid
+two algorithm for assign page to segment ar discuss both
+of these algorithm ar simpl to implement the problem of
+choos the page size to minim the expect valu of
+total wast space in intern fragment and in a page
+tabl per segment is then solv for a probabl densiti
+function of segment size which mai be express as a
+convex combin of erlang densiti cacm june 1973 gelenb e
+dynam storag alloc virtual memori page multipl page size fragment
+segment 4 0 4 3 4 32 6 34 8
+3 ca730602 jb januari 23 1978 3 38 pm

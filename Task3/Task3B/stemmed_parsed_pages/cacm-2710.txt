@@ -1,0 +1,11 @@
+specifi queri as relat express the squar data sublanguag thi
+paper present a data sublanguag call squar intend for us
+in ad hoc interact problem solv by non comput specialist
+squar is base on the relat model of data and
+is shown to be relation complet howev it avoid the
+quantifi and bound variabl requir by languag base on the
+relat calculu facil for queri insert delet and updat on
+tabular data base ar describ a syntax is given and
+suggest ar made for altern syntax includ a syntax base
+on english kei word for user with limit mathemat background
+cacm novemb 1975 boyc r f cham

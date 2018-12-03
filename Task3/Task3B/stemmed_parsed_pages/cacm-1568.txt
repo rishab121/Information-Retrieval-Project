@@ -1,0 +1,9 @@
+plot a function of three independ variabl a method is
+develop for construct an approxim plot of a function of
+three independ variabl the plot is similar to a convent
+contour map except that there ar three scale to repres
+the independ variabl scale valu of the three independ variabl
+ar ad vectori and the valu of the function is
+then read from the valu associ with nearbi contour cacm
+juli 1967 stineman r w ca670705 jb februari 28 1978
+8 59 am

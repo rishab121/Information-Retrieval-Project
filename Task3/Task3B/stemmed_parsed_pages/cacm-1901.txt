@@ -1,0 +1,13 @@
+dynam space share in comput system a formal of relationship
+between space shade program behavior and processor effici in comput
+system is present concept of valu and cost of space
+alloc per task ar defin and then valu and cost
+ar combin to develop a singl paramet term valu per
+unit cost the intent is to illustr a possibl analyt
+approach to the investig of the problem of space share
+and to demonstr the method on sampl problem cacm mai
+1969 beladi l a kuehner c j space share storag
+alloc memori alloc storag manag memori manag program behavior multiprogram
+comput system design alloc strategi replac strategi demand page time
+share 4 32 6 2 6 20 ca690508 jb februari
+17 1978 3 31 pm

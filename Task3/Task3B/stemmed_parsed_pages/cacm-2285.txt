@@ -1,0 +1,8 @@
+comput routin for quadrat and linear program problem h algorithm
+a431 a comput program base on lemk s complementari pivot
+algorithm is present thi can be us to solv linear
+and quadrat program problem the program ha been extens test
+on a wide rang of problem and the result have
+been extrem satisfactori cacm septemb 1972 ravindran a linear program
+quadrat program complementari problem lemk s algorithm simplex method 5
+41 ca720905 jb januari 27 1978 4 34 pm

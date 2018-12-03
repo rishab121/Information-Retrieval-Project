@@ -1,0 +1,3 @@
+more on fortran random number gener cacm novemb 1969 grosenbaugh
+l r random number gener mont carlo simul 5 5
+ca691118 jb februari 15 1978 11 57 am

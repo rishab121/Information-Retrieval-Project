@@ -1,0 +1,16 @@
+secur commun over insecur channel accord to tradit concept of
+cryptograph secur it is necessari to transmit a kei by
+secret mean befor encrypt messag can be sent secur thi
+paper show that it is possibl to select a kei
+over open commun channel in such a fashion that commun
+secur can be maintain a method is describ which forc
+ani enemi to expend an amount of work which increas
+as the squar of the work requir of the two
+communic to select the kei the method provid a logic
+new kind of protect against the passiv eav dropper it
+suggest that further research on thi topic will be highli
+reward both in a theoret and a practic sens cacm
+april 1978 merkl r secur cryptographi cryptolog commun secur wiretap
+comput network secur passiv eavesdrop kei distribut public kei cryptosystem
+3 56 3 81 ca780405 dh februari 26 1979 4
+18 pm

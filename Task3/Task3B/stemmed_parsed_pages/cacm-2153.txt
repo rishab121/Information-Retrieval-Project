@@ -1,0 +1,15 @@
+experi with an autom instruct system for numer method a
+comput system wa develop at purdu univers to teach portion
+of an undergradu cours in numer method each instruct unit
+or lesson is divid into three mode of instruct which
+allow the student to press from a comput control present
+to a student control investig the system is design as
+a classroom independ cours of studi and ha been us
+for two semest by student in lieu of convent classroom
+instruct initi measur of effect student accept and oper cost
+ar the result of test the system independ of instructor
+intervent the system is oper on a cdc 6500 with
+teletyp termin cacm octob 1971 oldehoeft a e cont s
+d comput assist instruct numer method cai instruct system 1
+52 3 62 5 10 ca711003 jb februari 2 1978
+1 22 pm

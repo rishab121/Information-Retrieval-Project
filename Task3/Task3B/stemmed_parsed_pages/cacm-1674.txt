@@ -1,0 +1,15 @@
+on line random number gener and their us in combin
+some on line random number gener i e gener requir
+a singl fortran instruct ar discuss and some short fortran
+program which mix sever such gener ar describ the aim
+is to provid method for incorpor random number gener directli
+in fortran program by mean of a few in line
+instruct the advantag ar speed avoid linkag to and from
+a subroutin conveni and versatil anyon wish to experi with
+gener either us congruenti gener by themselv or mix sever
+gener to provid a composit with potenti better statist properti
+than the librari gener current avail mai wish to consid
+some of the simpl fortran program discuss here cacm novemb
+1968 marsaglia g brai t a random number gener mont
+carlo simul 5 5 ca681105 jb februari 21 1978 2
+54 pm

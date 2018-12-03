@@ -1,0 +1,14 @@
+recurs data structur in apl a mathemat studi of three
+approach for defin nest arrai in apl is present theorem
+exhibit the relationship between the definit system ar given and
+illustr through graph represent on of the approach is us
+to defin an apl arrai to be a recurs data
+structur equival to a tree structur in which all data
+is store at the leav as homogen arrai of number
+and charact an extens of apl is propos that includ
+new primit function to manipul the nest level of arrai
+and new oper to assist in the construct of data
+driven algorithm cacm februari 1979 gull w jenkin m nest
+arrai apl arrai recurs data structur tree data driven algorithm
+theori of arrai 4 22 5 29 ca790203 dh april
+10 1979 3 41 pm

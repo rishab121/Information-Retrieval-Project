@@ -1,0 +1,8 @@
+a comput system for infer execut and data retriev thi
+paper present a rand project concern with the us of
+comput as assist in the logic analysi of larg collect
+of factual data a system call relat data file wa
+develop for thi purpos the relat data file is briefli
+detail and problem aris from it implement ar discuss cacm
+novemb 1967 levien r e ca671105 jb februari 26 1978
+3 02 pm

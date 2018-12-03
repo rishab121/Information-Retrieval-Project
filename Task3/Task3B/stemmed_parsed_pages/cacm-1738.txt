@@ -1,0 +1,16 @@
+write an outlin debug program for the experienc user present
+avail onlin debug routin ar often unsatisfactori for the experienc
+user becaus thei requir unnecessarili rigid and complic type format
+make it difficult for the user to correct type error
+and consum excess memori with intric featur in a debug
+program it is of prime import that the program be
+simpl flexibl and highli effici to us commun between the
+user and the debug program can be improv by us
+certain techniqu applic to most onlin debug program these techniqu
+ar present and ar illustr by their us in opak
+octal packag a debug program code for the pdp 5
+8 and the sd 930 the compromis between economi of
+util program core storag and incorpor of eleg debug featur
+is discuss cacm june 1968 bradi p t debug util
+program program languag 4 42 ca680607 jb februari 22 1978
+4 14 pm

@@ -1,0 +1,18 @@
+experi with some algorithm that find central solut for pattern
+classif in two class pattern recognit it is a standard
+techniqu to have an algorithm find hyperplan which separ the
+two class in a linearli separ train set the tradit
+method find a hyperplan which separ all point in the
+other but such a hyperplan is not necessarili center in
+the empti space between the two class sinc a central
+hyperplan doe not favor on class or the other it
+should have a lower error rate in classifi new point
+and is therefor better than a noncentr hyperplan six algorithm
+for find central hyperplan ar test on three data set
+although frequent us practic the modifi relax algorithm is veri
+poor three algorithm which ar defin in the paper ar
+found to be quit good cacm march 1979 slagl j
+pattern recognit pattern classif linear discrimin central hyperplan center central
+criteria dead zone hyperplan linearli separ relax algorithm acceler relax
+3 62 3 63 ca790303 dh april 12 1979 3
+20 pm

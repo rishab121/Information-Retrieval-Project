@@ -1,0 +1,9 @@
+a new uniform pseudorandom number gener a new multipl congruenti
+pseudorandom number gener is discuss in which the modulu is
+the largest prime within accumul capac and the multipli is
+a primit root of that prime thi gener pass the
+usual statist test and in addit the least signific bit
+appear to be as random as the most signific bit
+a properti which gener have modulu 2 k do not
+possess cacm june 1966 hutchinson d w ca660602 jb march
+3 1978 9 01 am

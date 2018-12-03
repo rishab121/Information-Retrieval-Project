@@ -1,0 +1,19 @@
+simul of traffic flow in a network a comput simul
+program which deal with traffic flow in the network of
+a larg area is describ each road is segment into
+block of sever ten meter length and is repres by
+a bidirect list in comput memori the movement of car
+i e the transfer of car from on block to
+the next is express by a proper formula thi formula
+is base on the supposit that the speed of car
+in a block is determin onli by the densiti of
+car in the block and thi speed versu densiti curv
+is empir given the numer valu thi simul scheme ha
+it excel point in that it make it possibl to
+trace the dynam behavior of traffic flow in a varieti
+of situat some exampl of which ar given for an
+actual area of the citi of kyoto japan june 1969
+sakai t nagao m traffic simul traffic flow traffic network
+traffic control traffic densiti intersect signal set vehicl road network
+list structur comput simul 3 57 3 23 ca690603 jb
+februari 17 1978 1 26 pm

@@ -1,0 +1,10 @@
+jump search a fast sequenti search techniqu when sequenti file
+structur must be us and binari search is not feasibl
+jump search becom an appeal altern thi paper explor variant
+of the classic jump search scheme where the optimum jump
+size is the squar root of the number of record
+multipl level and variabl size jump strategi ar explor appropri
+applic ar discuss and perform is evalu cacm octob 1978
+shneiderman b jump search sequenti file file manag search strategi
+databas structur index search 3 74 4 34 ca781003 dh
+januari 29 1979 6 15 pm

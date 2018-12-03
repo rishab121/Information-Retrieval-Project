@@ -1,0 +1,25 @@
+an interact softwar system for comput aid design an applic
+to circuit project the characterist of an interact softwar system
+intend to constitut an interfac between design and comput dure
+variou step of the design process ar present the main
+emphasi is given to the descript of the featur of
+the two high level user orient languag oper at differ
+level on which the interact is base the first on
+is imol an interact monitor languag which is design to
+perform the overal and control function of the softwar system
+it design criteria provid the user with command which ar
+both simpl and effici in order to perform all the
+function need in comput aid circuit design the second on
+is coif a circuit orient graphic languag which is design
+to describ gener and manipul graphic problem specif it is
+an extens of fortran with graphic type variabl so that
+the design who is familiar with fortran need not learn
+a new languag the applic to comput aid circuit design
+is in particular examin on the other hand the adopt
+design criteria provid suffici gener to extend the us of
+the two languag to differ comput assist applic cacm septemb
+1970 bracchi g somalvico m interact graphic comput graphic comput
+aid design circuit design softwar system softwar organ languag monitor
+languag graphic languag extend fortran 3 24 3 25 4
+13 4 22 4 3 ca700902 jb februari 10 1978
+2 20 pm

@@ -1,0 +1,10 @@
+quasilinear and the estim of differenti oper from eigenvalu given
+a linear ordinari differenti oper contain sever unknown constant and
+a number of it eigenvalu the valu of the unknown
+constant ar estim a precis formul is provid and an
+effect numer procedur for solut is indic the result of
+some comput experi ar given cacm april 1968 bellman r
+e kagiwada h h kalaba r e vasudenvan r quasilinear
+eigenvalu differenti oper nonlinear boundari valu problem invers problem differenti
+equat system identif 3 15 3 17 5 17 ca680404
+jb februari 23 1978 11 12 am

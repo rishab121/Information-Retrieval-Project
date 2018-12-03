@@ -1,0 +1,9 @@
+an algorithm for class schedul with section prefer an algorithm
+for assign of student to class in a fix time
+schedul that allow student to give a prefer for section
+within cours is given if consist with the object of
+balanc section these prefer will be honor the algorithm is
+more stochast than mont carlo in natur result ar given
+that compar it to a nonprefer assign algorithm cacm septemb
+1967 busam v a ca670906 jb februari 27 1978 3
+15 pm

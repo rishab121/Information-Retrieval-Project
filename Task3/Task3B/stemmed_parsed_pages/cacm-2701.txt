@@ -1,0 +1,19 @@
+a fast and usual linear algorithm for global flow analysi
+abstract onli complet paper jacm 23 1 januari 1976 a
+new algorithm for global flow analysi on reduc graph is
+present the algorithm is shown to treat a veri gener
+class of function space for a graph of e edg
+the algorithm ha a worst case time bound of o
+e log e function oper it is also shown that
+in program term the number of oper is proport to
+e plu the number of exit from program loop consequ
+a restrict to on entri on exit control structur linear
+the algorithm can be extend to yet larger class of
+function space and graph by relax the time bound exampl
+ar given of code improv problem which can be solv
+us the algorithm cacm decemb 1975 graham s l wegman
+m global flow analysi data flow code optim common subexpress
+elimin live dead analysi inform propag flow graph reduc go
+to less program depth first search path compress 4 12
+5 24 5 25 5 32 ca751206 jb januari 5
+1978 4 08 pm

@@ -1,0 +1,11 @@
+the predict analyz and a path elimin techniqu some of
+the characterist featur of a predict analyz a system of
+syntact analysi now oper at harvard on and ibm 7094
+ar delin the advantag and disadvantag of the system ar
+discuss in comparison to those of an immedi constitu analyz
+develop at the rand corpor with robinson s english grammar
+in addit a new techniqu is describ for repetit path
+elimin for a predict analyz which can now claim effici
+both in process time and core storag requir cacm juli
+1965 kuno s ca650710 jb march 6 1978 8 52
+pm

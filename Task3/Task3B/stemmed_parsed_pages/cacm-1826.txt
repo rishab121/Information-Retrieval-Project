@@ -1,0 +1,10 @@
+a lisp garbag collector for virtual memori comput system in
+thi paper a garbag collect algorithm for list process system
+which oper within veri larg virtual memori is describ the
+object of the algorithm is more the compact of activ
+storag than the discoveri of free storag becaus free storag
+is never realli exhaust the decis to garbag collect is
+not easili made therefor variou criteria of thi decis ar
+discuss cacm novemb 1969 fenichel r r yochelson j c
+garbag collector virtual memori list process storag alloc 4 19
+4 49 ca691104 jb februari 15 1978 12 57 pm

@@ -1,0 +1,4 @@
+calcul of a polynomi and it deriv valu by horner
+scheme algorithm 337 c1 cacm septemb 1968 pankiewicz w function
+evalu polynomi evalu algol procedur horner s scheme 5 12
+4 22 ca680912 jb februari 21 1978 4 33 pm

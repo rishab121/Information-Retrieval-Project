@@ -1,0 +1,16 @@
+progress acycl digraph a tool for databas integr a progress
+acycl digraph pad algorithm accept ar request and maintain a
+graph in an acycl state when a request creat a
+cycl node ar detach until the new ar can be
+enter acycl thi process is import in certain area of
+databas implement in which there ar constraint on the permiss
+sequenc of action two pad algorithm ar present on us
+a simpl path matrix represent and the other us a
+list with an artifici gradient experi suggest that for larg
+n the second is consider faster though both ar asymptot
+o nr where n is the number of node and
+r is the expect number of node reachabl along path
+from ani given node cacm septemb 1979 hansen w list
+process data structur topolog sort acycl digraph databas integr network
+deadlock 4 34 5 32 4 33 ca790905 db januari
+14 1980 11 56 am

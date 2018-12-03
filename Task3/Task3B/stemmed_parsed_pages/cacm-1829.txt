@@ -1,0 +1,22 @@
+an interact graphic displai monitor in a batch process environ
+with remot entri a graphic monitor program is describ it
+wa develop at carnegi mellon univers for the cdc g21
+comput which is a gener purpos batch process system with
+remot entri the exist g21 system and the graphic hardwar
+ar describ the graphic monitor is a resid auxiliari monitor
+which provid comprehens manageri capabl over the graphic system in
+respons to command from the human user it also will
+respond to command from a user program through a similar
+interfac where routin call take the place of manual action
+thu the human and program can interact on a symmetr
+and equal basi through the medium of the graphic monitor
+the choic made in design the graphic monitor given the
+constraint of the exist hardwar and comput system ar discuss
+the structur of the monitor program and the human and
+program interfac ar describ there is also a transient swap
+version with a small resid part and provis for swap
+us submonitor cacm novemb 1969 bond a h rightnour j
+graphic monitor man machin interact graphic interfac graphic in batch
+environ design of graphic system 4 30 4 31 4
+39 4 41 ca691101 jb februari 15 1978 1 22
+pm

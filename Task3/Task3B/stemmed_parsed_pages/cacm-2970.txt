@@ -1,0 +1,9 @@
+achiev specif accuraci in simul output analysi thi paper extend
+the us of the regen properti of queue system in
+the analysi of simul output in particular it describ a
+sequenti estim method which when us with the regen properti
+allow result to be obtain with specifi statist accuraci thi
+method includ a test to check the normal assumpt on
+which the sequenti procedur reli the paper illustr the method
+us the empti and idl state as the regen state
+a second exam

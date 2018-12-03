@@ -1,0 +1,11 @@
+convers of decis tabl to comput program sever translat procedur
+for the convers of decis tabl to program ar present
+and then evalu in term of storag requir execut time
+and compil time the procedur ar valuabl as hand code
+guid or as algorithm for a compil both limit entri
+and extend entri tabl ar analyz in addit to tabl
+analysi the natur of tabl orient program languag and featur
+is discuss it is presum that the reader is familiar
+with the natur of decis tabl and convent definit cacm
+june 1965 press l i ca650618 jb march 6 1978
+9 45 pm

@@ -1,0 +1,10 @@
+optim start valu for newton raphson calcul of sqrt x
+the problem of obtain start valu for the newton raphson
+calcul of sqrt x on a digit comput is consid
+it is shown that the convention us best uniform approxim
+to sqrt x do not provid optim start valu the
+problem of obtain optim start valu the problem of obtain
+optim start valu is state and sever basic result ar
+prove a tabl of optim polynomi start valu is given
+cacm juli 1967 moursund d g ca670707 jb februari 28
+1978 8 53 am

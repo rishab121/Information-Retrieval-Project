@@ -1,0 +1,20 @@
+a grammar base question answer procedur the subject of thi
+paper is a procedur for the automat retriev of certain
+segment of store inform either explicitli or implicitli repres through
+question pose in natur languag sentenc thi procedur make us
+of a sentenc recognit devic for the class of grammar
+which will correctli decid between the grammat and ungrammat sentenc
+of a natur languag it is possibl to make us
+of a recognit devic of thi sort for the follow
+reason much data is fulli express as a set of
+sentenc in a natur languag a set which can be
+exhaust and exclus gener by a grammar base upon the
+rule of thi grammar a sentenc recogn will evalu sentenc
+question in the normal situat sinc the recognit function succe
+just in case the pose question is drawn from the
+set of sentenc express the data or more correctli is
+grammat in term of the grammar for thi set of
+sentenc sentenc recognit itself is a procedur for retriev inform
+when the recognit function succe it valu repres the request
+inform cacm octob 1967 rosenbaum p ca671006 jb februari 27
+1978 2 14 pm

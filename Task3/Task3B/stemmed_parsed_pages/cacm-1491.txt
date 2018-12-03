@@ -1,0 +1,18 @@
+euler a gener algol and it formal definit part i
+a method for defin program languag is develop which introduc
+a rigor relationship between structur and mean the structur of
+a languag is defin by a phrase structur syntax the
+mean in term of the effect which the execut of
+a sequenc of interpret rule exert upon a fix set
+of variabl call the environ there exist a on to
+on correspond between syntact rule and interpret rule is determin
+by the sequenc of correspond syntact reduct which constitut a
+pars the individu interpret rule ar explain in term of
+an elementari an d obviou algorithm notat a construct method
+for evalu a text is provid and for certain decid
+class of languag their unambigu is prove as an exampl
+a gener of algol is describ in full detail to
+demonstr that concept like block structur procedur paramet etc can
+be defin adequ and precis by thi method cacm januari
+1966 wirth n weber h ca660104 jb march 3 1978
+4 22 pm

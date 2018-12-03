@@ -1,0 +1,24 @@
+perform monitor in a time share system a softwar measur
+facil which is part of a gener purpos time share
+system is describ the date collect facil dcf ha been
+implement in the michigan termin system mt for the system
+360 model 67 it exist for the purpos of monitor
+oper system and user program behavior and perform the overal
+structur of mt is outlin in order to explain the
+implement of the dcf event in the system ar identifi
+and record from within the supervisor and dump to magnet
+tape by an auxiliari program for off line process event
+in user program which ar unrel to system action ar
+record with a supervisor call the time of occurr of
+each event is accur record and data item ar further
+identifi by job and type the overhead associ with data
+collect and it interfer with normal job is carefulli analyz
+and both ar shown to be minim sever exampl ar
+given of inform obtain with the facil and of applic
+in which it ha been us some gener guidelin ar
+offer for the construct of futur monitor program cacm novemb
+1969 pinkerton t b perform monitor perform measur program behavior
+perform data multiprogram perform softwar measur time share perform system
+evalu softwar monitor softwar instrument 4 31 4 32 4
+39 4 42 4 43 ca691103 jb februari 15 1978
+1 07 pm

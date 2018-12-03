@@ -1,0 +1,16 @@
+index rang for matrix calculi the paper describ a scheme
+for symbol manipul of index express which aris as a
+by product of the symbol manipul of express in the
+matrix calculi describ by the author in a previou paper
+thi scheme attempt program optim by transform the origin algorithm
+rather than the machin code the goal is to automat
+gener code for handl the tediou address calcul necessit by
+complic data structur the paper is therefor preoccupi with index
+by posit the relationship of index by name and index
+by posit is discuss cacm decemb 1972 bayer r witzgal
+c address calcul algorithm transform compil data structur index by
+name index by posit index domain index map index rang
+matrix express normal form program languag program optim rang oper
+symbol manipul syntact analysi well form express 4 12 4
+22 5 14 ca721202 jb januari 27 1978 1 12
+pm

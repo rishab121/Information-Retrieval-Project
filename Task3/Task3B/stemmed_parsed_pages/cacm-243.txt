@@ -1,0 +1,18 @@
+n dimension code for detect and correct multipl error the
+paper introduc a new famili of code for detect and
+correct multipl error in a binari code messag the messag
+itself is arrang conceptu into a multidimension rectangular arrai the
+process of encod and error detect ar base upon pariti
+evalu along prescrib dimens of the arrai effect of the
+code is increas by introduc a system check bit which
+is essenti a pariti check on the other pariti bit
+onli three dimension code ar discuss in thi paper with
+pariti evalu along the horizont the vertic and on main
+diagon howev the famili of code is not restrict to
+three dimens as evidenc by the discuss by minnick and
+ashenhurst on a similar multidimension singl bit select plan us
+for anoth purpos 6 a four dimension code correct three
+and detect four error ha been develop the extens to
+higher dimension code with greater correct power is straightforward cacm
+decemb 1961 rubinoff m ca611207 jb march 15 1978 10
+23 pm

@@ -1,0 +1,8 @@
+matrix reduct an effici method the paper describ an effici
+method for reduct of the binari matric which aris in
+some school time tabl problem it is a develop of
+that describ by john lion it ha been gener and
+adapt to fit into the complet timet process to us
+a more compact data represent and more effici process techniqu
+to take fuller advantag of possibl avail previou knowledg about
+the matrix and it is design as a structur program

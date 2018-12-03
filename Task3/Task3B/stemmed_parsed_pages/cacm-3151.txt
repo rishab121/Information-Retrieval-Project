@@ -1,0 +1,10 @@
+an optim real time algorithm for planar convex hull an
+algorithm is describ for the construct in real time of
+the convex hull of a set of n point in
+the plane us an appropri data structur the algorithm construct
+the convex hull by success updat each take time o
+log n therebi achiev a total process time o n
+log n cacm juli 1979 preparata f comput geometri convex
+hull planar set of point real time algorithm on line
+algorithm 4 49 5 25 5 32 ca790702 dh august
+22 1979 2 07 pm

@@ -1,0 +1,8 @@
+a fourier seri method for the numer solut of a
+class of parabol partial differenti equat a fourier seri method
+is describ which when appli to a certain class of
+parabol partial differenti equat reduc the problem to a system
+of ordinari differenti equat an applic is given for which
+the method show a consider advantag over convent finit differ
+method cacm march 1964 forrington c v d ca640322 jb
+march 10 1978 2 08 am

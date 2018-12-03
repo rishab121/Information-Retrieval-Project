@@ -1,0 +1,7 @@
+design of comput simul experi for industri system the aim
+of thi paper is to provid background inform on the
+exist literatur on experiment design techniqu which mai be applic
+to the design of comput simul experi for industri system
+although major emphasi is place on analysi of varianc techniqu
+three other techniqu of data analysi ar consid multipl rank
+procedur sequenti sam

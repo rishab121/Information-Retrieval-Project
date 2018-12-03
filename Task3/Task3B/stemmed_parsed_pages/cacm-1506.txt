@@ -1,0 +1,15 @@
+the laconiq monitor time share for onlin dialogu the laconiq
+laboratori comput onlin inquiri monitor wa develop primarili to support
+non numer applic such as retriev from veri larg file
+by mean of a dialogu between a system user and
+a retriev applic the monitor wa design so that it
+could work with a small comput an ibm system 360
+30 therefor techniqu for resourc alloc were import for thi
+reason the us of core storag comput facil and input
+output were all schedul an unusu featur of the system
+is that it is event driven rather than clock driven
+the program segment call into execut by the remot crt
+consol ar invari run to complet rather than roll out
+to be brought back at a later time cacm decemb
+1967 drew d l ca671202 jb februari 26 1978 2
+45 pm

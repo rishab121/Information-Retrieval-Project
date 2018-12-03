@@ -1,0 +1,16 @@
+an applic of formac a nonlinear circuit analysi problem is
+state and the wai in which it wa solv us
+formac is indic the solut of the problem us formac
+wa notabl sinc sever other method that were tri fail
+the problem is straightforward although unten by hand but nevertheless
+involv an elabor us of the formac languag the program
+wa fairli larg and util practic everi command in particular
+it made extens us of the part command sever trick
+were necessari in order to circumv some of the shortcom
+of the formac system thi paper is more concern with
+the us of program techniqu in formac than with the
+actual engin problem although reader mai be interest in the
+problem becaus it is state in a gener mathemat sens
+and could be of interest in area other than circuit
+analysi cacm march 1967 neidleman l d ca670306 jb februari
+28 1978 1 27 pm

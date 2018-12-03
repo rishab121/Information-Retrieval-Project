@@ -1,0 +1,12 @@
+model and simul of digit network the simul of digit
+network on a digit comput provid the engin with an
+effect mean of analyz time quantiz logic behavior the digit
+network is model as a set of time depend or
+time independ boolean transform each transform describ the input output
+relationship of a model element compris the network mode the
+simplic of util the fortran iv program system as a
+digit network simul is discuss an illustr thi simplic is
+deriv from a common model techniqu applic to combin and
+sequenti digit network and a systemat program approach cacm mai
+1965 larsen r p mano m m ca650510 jb march
+7 1978 1 15 pm

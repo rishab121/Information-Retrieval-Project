@@ -1,0 +1,17 @@
+analysi of the pff replac algorithm via a semi markov
+model an analyt model is present to estim the perform
+of the page fault frequenc pff replac algorithm in thi
+model program behavior is repres by the lru stack distanc
+model and the pff replac algorithm is repres by a
+semi markov model us these model such paramet as the
+inter page fault interv distribut the probabl of the number
+of distinct page be referenc dure an inter page fault
+interv etc ar abl to be analyt determin us these
+model to evalu these paramet valu permit studi of the
+perform of the replac algorithm by simul the page fault
+event rather than everi page refer event thi significantli reduc
+the requir comput time in estim the perform of the
+pff algorithm cacm mai 1976 chu w w opderbeck h
+pff replac algorithm semi markov model simul of replac algorithm
+4 31 4 32 ca760509 jb januari 4 1978 2
+59 pm

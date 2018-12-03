@@ -1,0 +1,10 @@
+a note on reliabl full duplex transmiss over half duplex
+link a simpl procedur for achiev reliabl full duplex transmiss
+over half duplex link is propos the scheme is compar
+with anoth of the same type which ha recent been
+describ in the literatur final some comment ar made on
+anoth group of relat transmiss procedur which have been shown
+to be unreli under some circumst cacm mai 1969 bartlett
+k a scantleburi r a data transmiss error correct full
+duplex half duplex transmiss control commun 3 81 ca690502 jb
+februari 17 1978 4 01 pm

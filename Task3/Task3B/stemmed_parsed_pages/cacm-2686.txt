@@ -1,0 +1,10 @@
+an approxim method for gener asymmetr random variabl tukei s
+lambda distribut is gener to provid an algorithm for gener
+valu of unimod asymmetr random variabl thi algorithm ha the
+same advantag as the symmetr random variabl gener previous given
+by the author except that the addit of anoth paramet
+complic the problem of find the paramet valu to fit
+a distribut cacm februari 1974 ramberg j s schmeiser b
+w simul mont carlo probabl statist approxim random variabl random
+number moment distribut 5 5 8 1 ca740203 jb januari
+18 1978 1 19 pm

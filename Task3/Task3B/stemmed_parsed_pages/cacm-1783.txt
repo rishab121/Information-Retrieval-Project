@@ -1,0 +1,11 @@
+in and out convers byan in and out convers we
+mean that a float point number in on base is
+convert into a float point number in anoth base and
+then convert back to a float point number in the
+origin base for all combin of round and truncat convers
+the question is consid of how mani signific digit ar
+need in the intermedi base to allow such in and
+out convers to return the origin number when possibl or
+at least signific digit cacm januari 1968 matula d w
+float point number signific base convers round truncat 3 15
+5 11 ca680111 jb februari 23 1978 2 14 pm

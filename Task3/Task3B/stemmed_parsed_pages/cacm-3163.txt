@@ -1,0 +1,12 @@
+an optim insert algorithm for on side height balanc binari
+search tree an algorithm for insert an element into a
+on side height balanc oshb binari search tree is present
+the algorithm oper in time o log n where n
+is the number of node in the tree thi repres
+an improv over the best previou ly known insert algorithm
+of hirschberg and kosaraju which requir time o log 2n
+moreov the o log n complex is optim earlier result
+have shown that delet in such a structur can also
+be perform in o log n time thu the result
+of thi paper give a neg answer to the question
+of whether such tree should be the first exam

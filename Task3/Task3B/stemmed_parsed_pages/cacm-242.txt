@@ -1,0 +1,6 @@
+note on geometr weight check digit verif thi note describ
+a method for util geometr weight modulu 11 check digit
+on a comput which doe not have either multipl or
+divis in addit some attempt ha been made to show
+some limit of thi system cacm decemb 1961 wilson j
+g ca611208 jb march 15 1978 10 17 pm

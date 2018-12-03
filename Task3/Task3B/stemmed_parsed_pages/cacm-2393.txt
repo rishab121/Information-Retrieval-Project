@@ -1,0 +1,5 @@
+calcul of fourier integr d1 algorithm a418 cacm januari 1972
+einarsson b quadratur filon quadratur integr filon integr fourier coeffici
+fourier integr fourier seri spline spline approxim spline quadratur extrapol
+richardson extrapol 5 16 ca720110 jb februari 1 1978 9
+00 am

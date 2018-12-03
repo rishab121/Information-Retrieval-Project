@@ -1,0 +1,4 @@
+gener of all the cycl of a graph from a
+set of basic cycl h algorithm 492 cacm june 1975
+gibb n e basic cycl cycl graph 5 32 3
+24 ca750601 jb januari 9 1978 1 55 pm

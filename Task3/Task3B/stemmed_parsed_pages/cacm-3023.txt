@@ -1,0 +1,12 @@
+architectur of the ibm system 370 thi paper discuss the
+design consider for the architectur extens that distinguish system 370
+from system 360 it comment on some experi with the
+origin object for system 360 and on the effort to
+achiev them and it describ the reason and object for
+extend the architectur it cover virtual storag program control data
+manipul instruct time facil multiprocess debug and monitor error handl
+and input output oper a final section tabul some of
+the import paramet of the variou ibm machin which implement
+the architectur cacm januari 1978 case r padg a comput
+system architectur instruct set virtual storag error handl 6 0
+6 21 ca780107 jb march 28 1978 5 16 pm

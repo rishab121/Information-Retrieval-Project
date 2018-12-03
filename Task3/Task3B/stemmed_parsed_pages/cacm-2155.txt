@@ -1,0 +1,11 @@
+toward an understand of data structur thi paper present a
+notat and formal for describ the semant of data structur
+thi is base on direct graph with name edg and
+transform on these graph in addit an implement facil is
+describ which could be part of a program languag which
+allow a programm who ha express the semant of an
+algorithm in term of the graph to then specifi the
+implement of some of hi data structur in order to
+gain effici cacm octob 1971 earlei j data structur graph
+implement semant formal program languag 4 22 4 9 5
+24 ca711001 jb februari 2 1978 1 35 pm

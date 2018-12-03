@@ -1,0 +1,7 @@
+increas the effici of quicksort a method is present for
+the analysi of variou gener of quicksort the averag asymptot
+number of comparison need is shown to be an log
+2 n a formula is deriv express a in term
+of the probabl distribut of the bound of a partit
+thi formula assum a particularli simpl form for a gener
+alreadi consid by hoar nam

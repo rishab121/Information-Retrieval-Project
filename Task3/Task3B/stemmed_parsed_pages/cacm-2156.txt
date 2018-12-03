@@ -1,0 +1,4 @@
+comment on chenei s list compact algorithm cacm septemb 1971
+fenichel r r lisp garbag collector virtual memori list process
+storag alloc 4 19 4 49 ca710908 jb februari 2
+1978 1 36 pm

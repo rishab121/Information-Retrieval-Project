@@ -1,0 +1,13 @@
+a compar studi of comput program for integr differenti equat
+a studi compar the perform of sever comput program for
+integr system of ordinari differenti equat is report the integr
+method repres includ multistep method predictor corrector singl step method
+rung kutta and extrapol method both polynomi and ration the
+test procedur is describ togeth with the evalu criteria appli
+a set of test problem on which the program were
+test is includ in an appendix for the particular problem
+and criteria us in the investig it wa found that
+a program base on ration extrapol show the best perform
+cacm novemb 1972 fox p ordinari differenti equat integr program
+comparison certif valid 5 10 5 17 ca721101 jb januari
+27 1978 2 45 pm

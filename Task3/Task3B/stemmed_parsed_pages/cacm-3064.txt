@@ -1,0 +1,17 @@
+event manipul for discret simul requir larg number of event
+the event manipul system present here consist of two major
+part the first part address the familiar problem of event
+schedul effici when the number of schedul event grow larg
+the second part deal with the less appar problem of
+provid effici and flexibl as schedul event ar access to
+be execut addit featur and problem dealt with includ the
+proper handl of simultan event that certain event must be
+creat schedul and execut at the same point in simul
+time that infinit loop caus by the concaten of such
+zero time event ar possibl and must be diagnos that
+maintain variou event count is practic and econom and that
+a capabl for handl time displac event is desir and
+possibl cacm septemb 1978 ulrich e simul discret system simul
+discret event simul time flow mechan 3 65 3 74
+4 22 8 1 ca780908 dh januari 29 1979 6
+46 pm

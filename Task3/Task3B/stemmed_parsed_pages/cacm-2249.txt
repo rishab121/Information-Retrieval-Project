@@ -1,0 +1,12 @@
+a comparison of multivari normal gener three method for gener
+outcom on multivari normal random vector with a specifi varianc
+covari matrix ar present a comparison is made to determin
+which method requir the least comput execut time and memori
+space when util the ibm 360 67 all method us
+as a basi a standard gaussian random number gener result
+of the comparison indic that the method base on triangular
+factor of the covari matrix gener requir less memori space
+and comput time than the other two method cacm decemb
+1972 barr d r sezak n l random number gener
+normal distribut multivari normal distribut multivari normal gener 3 65
+5 5 ca721206 jb januari 27 1978 11 19 am

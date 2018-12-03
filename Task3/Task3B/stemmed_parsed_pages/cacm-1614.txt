@@ -1,0 +1,5 @@
+a propos for definit in algol an extens to algol
+is propos for ad new data type and oper to
+the languag definit mai occur in ani block head and
+termin with the block thei ar an integr part of
+the program

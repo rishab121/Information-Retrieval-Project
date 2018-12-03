@@ -1,0 +1,3 @@
+bessel funtion i seri expans algorithm 5 cacm april 1960
+clark d s ca600410 jb march 22 1978 1 40
+pm

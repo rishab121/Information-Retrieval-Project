@@ -1,0 +1,4 @@
+find all cliqu of an undirect graph algorithm a457 cacm
+septemb 1973 bron c kerbosch j cliqu maxim complet subgraph
+cluster backtrack algorithm branch and bound techniqu recurs 3 71
+5 32 ca730911 jb januari 23 1978 8 44 am

@@ -1,0 +1,4 @@
+an altern approach to mutual recurs in algol 60 us
+restrict compil cacm april 1974 balfour a algol 60 mutual
+recurs compil restrict 4 12 4 22 ca740412 jb februari
+1 1978 10 32 am

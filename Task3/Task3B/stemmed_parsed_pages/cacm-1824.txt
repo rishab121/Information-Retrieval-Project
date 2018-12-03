@@ -1,0 +1,22 @@
+aparel a pars request languag aparel is describ thi languag
+is an extens to an algorithm languag pl i that
+provid the pattern match capabl normal found onli in special
+purpos languag such as snobol4 and tmg thi capabl is
+provid through pars request state in a bnf like format
+these pars request form their own program languag with special
+sequenc rule upon successfulli complet a pars request an associ
+piec of pl i code is execut thi code ha
+avail for us as normal pl i string the variou
+piec at all level of the pars it also ha
+avail as normal pl i variabl the inform concern which
+of the variou altern were success conveni facil for multipl
+input output stream the initi of sequenc of pars request
+as a subroutin and pars time semant check ar also
+includ aparel ha proven conveni in build a power syntax
+and function macro system an algebra languag preprocessor debug system
+an on line command parser a translat for dataless program
+and as a gener string manipul cacm novemb 1969 balzer
+r m farber d j text process string process symbol
+manipul pl i bnf syntax parser translat pattern match 4
+12 4 13 4 20 4 22 4 29 ca691106
+jb februari 15 1978 12 44 pm

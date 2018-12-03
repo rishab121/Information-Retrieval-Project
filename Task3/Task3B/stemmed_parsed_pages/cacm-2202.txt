@@ -1,0 +1,21 @@
+dynam microprogram processor organ and program a dynam microprogram processor
+is character by a small 4 k 64 bit word
+read write micro storag the access time of thi storag
+is similar to the cycl time of the machin 50
+100 nsec thi microstorag is us to contain both data
+and subroutin the micro instruct in such a processor differ
+from the convent in that thei perform onli pure combinatori
+oper sequenc is under the control of the microinstruct the
+presenc of the read write microstorag permit a more flexibl
+assign of resourc than the read onli storag in particular
+the processor develop in thi paper stress the simultan oper
+within the microinstruct of the adder shifter masker and test
+facil of the processor a microassembl languag is develop and
+the overhead involv in subroutin linkag is analyz the effici
+of a flexibl softwar linkag scheme is examin as to
+it overhead for variou subroutin characterist final three exampl of
+problem orient program ar consid and the result code is
+compar against a system 360 assembl languag version with the
+technolog normal cacm april 1971 tucker a b flynn m
+j microprogram read write microstorag subroutin linkag execut speed 6
+2 ca710403 jb februari 3 1978 3 58 pm

@@ -1,0 +1,9 @@
+an applic of heurist search method to edg and contour
+detect thi paper present a method for detect edg and
+contour in noisi pictur the properti of an edg ar
+embed in a figur of merit and the edg detect
+problem becom the problem of minim the given figur of
+merit thi problem can be repres as a shortest path
+problem on a graph and can be solv us well
+known graph search algorithm the relat between thi represent of
+the minim problem and a dynam

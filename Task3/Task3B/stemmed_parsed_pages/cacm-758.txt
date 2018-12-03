@@ -1,0 +1,6 @@
+skelet structur of pert and cpa comput program an introduct
+to the inner mechan of pert and cpa comput program
+is provid the major compon of these program as well
+as their purpos and interrelationship ar outlin cacm august 1963
+kahn a b ca630840 jb march 13 1978 7 58
+pm

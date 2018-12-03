@@ -1,0 +1,18 @@
+storag reorgan techniqu for matrix comput in a page environ
+in order to multipli matric while minim the number of
+page fetch requir it is often more effici to reorgan
+the data into submatrix form and to us block multipl
+rather than to us the best known algorithm which leav
+the matric store in row or column orient form an
+effici method for accomplish thi reorgan is given thi also
+make possibl the deriv of an asymptot better bound for
+multipl of matric given in row orient form by adapt
+the techniqu of strassen to the reorgan data the reorgan
+block multipl scheme is shown to be advantag for matric
+and page of realist size the strassen adapt is not
+the former scheme is also shown to be advantag even
+if the transpos of on of the matric is avail
+at no addit cost cacm juli 1979 fischer p probert
+r matrix multipl page virtual memori data reorgan pagin transpos
+4 34 5 14 5 25 ca790703 dh august 22
+1979 2 29 pm

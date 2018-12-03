@@ -1,0 +1,26 @@
+a heurist problem solv design system for equip or furnitur
+layout the design problem solver dp demonstr that the comput
+can perform simpl design task in particular it design furnitur
+and equip layout thi task wa chosen becaus it is
+simpl well defin and characterist of mani design task in
+architectur engin urban plan and natur resourc manag these space
+plan task usual involv manipul two dimension represent of object
+to creat feasibl or optim solut for problem involv topolog
+and metric spatial constraint the paper describ extens test perform
+on the program dp is a heurist problem solver with
+a plan phase prefix to it it us the plan
+process to give it a sens of direct diagnost procedur
+to locat difficulti and remedi action to recov from difficulti
+it us a convex polygon represent to accur describ the
+object and the layout thi represent allow topolog and metric
+constraint to be test and the design to be easili
+updat dp ha been appli to 50 problem while it
+is slow and limit in scope the idea behind it
+ar gener it demonstr the need for select in control
+search and the method us to achiev it task specif
+inform plan diagnost procedur remedi action and select altern gener
+cacm mai 1975 pfefferkorn c e artifici intellig comput aid
+design design synthesi diagnost search heurist plan problem solv represent
+search strategi space plan spatial represent 3 20 3 25
+3 64 3 66 ca750514 jb januari 9 1978 2
+10 pm

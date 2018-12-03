@@ -1,0 +1,7 @@
+on the automat simplif of comput program present in thi
+paper is the problem of write a program which would
+examin ani other program and perform such simplif on it
+as can be detect from the argument program s form
+alon without have ani knowledg of what it is suppos
+to do cacm june 1965 nievergelt j ca650607 jb march
+6 1978 10 24 pm

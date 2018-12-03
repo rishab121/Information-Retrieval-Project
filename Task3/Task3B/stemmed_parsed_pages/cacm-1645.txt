@@ -1,0 +1,11 @@
+a note on comput approxim to the exponenti function two
+method ar discuss which result in near minimax ration approxim
+to the exponenti function and at the same time retain
+the desir properti that the approxim for neg valu of
+the argument is the reciproc of the approxim for correspond
+posit valu these method lead to approxim which ar much
+superior to the commonli us converg of the gaussian continu
+fraction for the exponenti coeffici and error ar given for
+the interv 5 ln 2 5 ln 2 and ln
+2 ln 2 cacm januari 1967 codi w j ralston
+a ca670110jb februari 28 1978 4 25 pm

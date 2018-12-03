@@ -1,0 +1,22 @@
+comput aid analysi and design of inform system thi paper
+describ the us of comput aid analysi for the design
+and develop of an integr financi manag system by the
+navi materi command support activ nmcsa comput aid analysi consist
+of a set of procedur and comput program specif design
+to aid in the process of applic softwar design comput
+select and perform evalu there ar four major compon problem
+statement languag problem statement analyz gener of altern design and
+perform evalu the statement of requir wa written in ad
+accur defin system and analyz by a problem statement analyz
+for ad the ad problem definit wa supplement with addit
+inform in order to creat a complet problem definit the
+analyz problem statement wa translat to the form necessari for
+us by the soda system optim and design algorithm program
+for the gener of altern specif of program modul and
+logic databas structur cacm decemb 1976 nunamak j f jr
+konsynski b r jr ho t singer c comput aid
+analysi inform system logic system design problem statement languag problem
+statement analyz physic system design accur defin system system optim
+and design algorithm 2 44 3 50 4 33 4
+9 8 1 ca761203 jb januari 3 1978 2 31
+pm

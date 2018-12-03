@@ -1,0 +1,1 @@
+trace driven model and analysi of cpu schedul in multiprogram

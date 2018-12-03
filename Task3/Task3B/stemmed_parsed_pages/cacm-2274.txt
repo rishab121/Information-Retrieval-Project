@@ -1,0 +1,19 @@
+gener english discours from semant network a system is describ
+for gener english sentenc from a form of semant net
+in which the node ar word sens mean and the
+path ar primarili deep case relat the grammar us by
+the system is in the form of a network that
+impos an order on a set of syntact transform that
+ar express as lisp function the gener algorithm us the
+inform in the semant network to select appropri gener path
+through the grammar the system is design for us as
+a comput tool that allow a linguist to develop and
+studi method for gener surfac string from an underli semant
+structur initi find with regard to form determin such as
+voic form tens and mood some rule for embed sentenc
+and some attent to pronomin substitut ar report the system
+is program in lisp 1 5 and is avail from
+the author cacm octob 1972 simmon r slocum j semant
+net grammar deep case relat semant gener discours gener 3
+42 3 65 ca721004 jb januari 27 1978 3 10
+pm

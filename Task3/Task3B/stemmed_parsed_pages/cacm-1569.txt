@@ -1,0 +1,3 @@
+implement phrase structur product in pl i a method is
+describ for implement the product of a context free phrase
+structur gram

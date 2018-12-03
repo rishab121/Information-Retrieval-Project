@@ -1,0 +1,8 @@
+discret least squar polynomi fit the recurr relat between orthogon
+polynomi is wide us for discret least squar data fit
+a variant of the classic algorithm which ha better numer
+properti is present and the reason for it improv perform
+is explain cacm march 1975 shampin l f orthogon polynomi
+data fit least squar recurr relat between orthogon polynomi residu
+5 11 5 13 ca750309 jb januari 9 1978 4
+29 pm

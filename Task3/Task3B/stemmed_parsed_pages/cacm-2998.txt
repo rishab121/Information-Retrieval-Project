@@ -1,0 +1,2 @@
+an empir studi of list structur in lisp static measur
+of the list structur of five larg lisp program

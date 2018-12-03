@@ -1,0 +1,7 @@
+investig of a new analyt method for numer deriv evalu
+a recent propos analyt approach to numer deriv evalu is
+discuss the techniqu is shown to be both accur and
+easi to appli though certain indic modif ar requir it
+us should greatli facilit the write and debug of program
+requir deriv of highli complex function cacm august 1964 wilkin
+r d ca640802 jb march 9 1978 7 31 pm

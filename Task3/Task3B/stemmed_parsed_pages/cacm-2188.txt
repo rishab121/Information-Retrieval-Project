@@ -1,0 +1,11 @@
+an approach to the optimum design of comput graphic system
+displai system design ar face with the difficult task of
+select major subsystem in an intellig wai each subsystem is
+chosen from larg number of altern the select is base
+on consider such as system respons time system cost and
+the distribut of data storag and process between the graphic
+processor and it support data process system the work report
+here develop an object quantit design procedur and help give
+a better understand of now to configur displai system thi
+is accomplish by mean of a mathemat model of a
+comput driven graphic system the param

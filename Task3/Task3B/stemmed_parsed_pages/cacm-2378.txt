@@ -1,0 +1,18 @@
+an oper system base on the concept of a supervisori
+comput an oper system which is organ as a small
+supervisor and a set of independ process ar describ the
+supervisor handl i o with extern devic the file and
+directori system schedul activ process and manag memori handl error
+and provid a small set of primit function which it
+will execut for a process a process is abl to
+specifi a request for a complic action on the part
+of the supervisor usual a wait on the occurr of
+a compound event in the system by combin these primit
+into a supervisori comput program the part of the supervisor
+which execut these program mai be view as a softwar
+implement supervisori comput the paper develop these concept in detail
+outlin the remaind of the supervisor and discuss some of
+the advantag of thi approach cacm march 1972 gain r
+s oper system supervisor multiprogram time share cooper process 4
+30 4 31 4 32 ca720303 jb januari 31 1978
+3 08 pm

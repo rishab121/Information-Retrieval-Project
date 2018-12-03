@@ -1,0 +1,14 @@
+formal requir for virtualiz third gener architectur virtual machin system
+have been implement on a limit number of third gener
+comput system e g cp 67 on the ibm 360
+67 from previou empir studi it is known that certain
+third gener comput system e g the dec pdp 10
+cannot support a virtual machin system in thi paper model
+of a third gener like comput system is develop formal
+techniqu ar us to deriv precis suffici condit to test
+whether such an architectur can support virtual machin cacm juli
+1974 popek g j goldberg r p oper system third
+gener architectur sensit instruct formal requir abstract model proof virtual
+machin virtual memori hypervisor virtual machin monitor 4 32 4
+35 5 21 5 22 ca740707 jb januari 17 1978
+11 19 am

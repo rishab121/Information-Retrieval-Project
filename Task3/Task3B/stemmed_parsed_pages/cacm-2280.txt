@@ -1,0 +1,4 @@
+comment on deadlock prevent method cacm septemb 1972 parna d
+l habermann a n multiprogram time share schedul resourc alloc
+deadlock interlock lockout deadli embrac knot 3 72 4 32
+6 20 ca720910 jb januari 27 1978 4 16 pm

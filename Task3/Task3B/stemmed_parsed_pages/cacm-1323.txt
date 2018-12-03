@@ -1,0 +1,18 @@
+a correspond between algol 60 and church s lambda notat
+part i thi paper describ how some of the semant
+of algol 60 can be formal by establish a correspond
+between express of algol 60 and express in a modifi
+form of church s l notat first a model for
+comput languag and comput behavior is describ base on the
+notion of function applic and function abstract but also have
+analogu for imper languag featur then thi model is us
+as an abstract object languag into which algol 60 is
+map mani of algol 60 s featur emerg as particular
+arrang of a small number of structur rule suggest new
+classif and gener the correspond is first describ inform mainli
+by illustr the second part of the paper give a
+formal descript i e an abstract compil into the abstract
+objct languag thi is itself present in a pure function
+notat that is on us onli applic and abstract cacm
+februari 1965 landin p j ca650201 jb march 7 1978
+11 26 pm

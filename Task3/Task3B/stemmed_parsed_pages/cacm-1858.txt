@@ -1,0 +1,7 @@
+an algorithm for filon quadratur an algorithm for filon quadratur
+is describ consider attent ha been devot to an analysi
+of the round off and truncat error the algorithm includ
+an automat error control featur cacm august 1969 chase s
+m fosdick l d quadratur filon quadratur integr filon integr
+fourier coeffici fourier seri 5 16 ca690805 jb februari 15
+1978 5 55 pm

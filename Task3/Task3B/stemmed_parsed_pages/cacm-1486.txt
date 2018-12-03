@@ -1,0 +1,12 @@
+a reprogram machin in thi paper a descript is given
+of a model program system which is direct by a
+program languag and ha a librari for store the user
+s item rule ar given for transform program written in
+the languag and for rearrang the item in the librari
+so that thei share their common part some specul ar
+made about how the mechan detect of common part or
+pattern of librari item could help a user to solv
+hi problem and about the relationship between the behavior of
+the reprogram machin and human intellig behavior cacm februari 1966
+burg w h ca660201 jb march 3 1978 3 50
+pm

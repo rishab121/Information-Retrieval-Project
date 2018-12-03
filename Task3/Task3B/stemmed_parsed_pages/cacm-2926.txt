@@ -1,0 +1,11 @@
+pagin of b tree with variabl length record a strategi
+is present for pagin of b tree with variabl length
+record if record of each length ar uniformli distribut within
+the file and if a wide distribut of record length
+exist within the file then thi strategi result in shallow
+tree with fast access time the perform of thi strategi
+in an applic is present compar with that of anoth
+strategi and analyz cacm septemb 1977 mccreight e m b
+tree index databas tree storag structur search 3 73 4
+33 4 34 ca770908 jb decemb 27 1977 12 46
+pm

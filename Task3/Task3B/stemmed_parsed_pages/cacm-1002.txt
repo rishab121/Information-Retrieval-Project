@@ -1,0 +1,12 @@
+a rapid method for digit filter sinc much of the
+comput time spent in time seri analysi is us for
+multipl a minimum multipl method wa devis for digit filter
+with the expect that it would be us in the
+on line real time analysi of biolog data the filter
+ar construct from a success of readili analyz compon in
+a manner that facilit cascad the repertoir of frequenc respons
+curv includ rel good low pass and band pass design
+program ar avail for implement both the synthesi of these
+filter and their applic on comput whose assembl allow the
+definit of recurs macro cacm septemb 1964 whittlesei j r
+b ca640909 jb march 9 1978 5 03 pm

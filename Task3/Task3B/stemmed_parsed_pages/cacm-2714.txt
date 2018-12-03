@@ -1,0 +1,9 @@
+merg with parallel processor consid two linearli order set a
+b a m b n m n and p p
+m parallel processor work synchron the paper present an algorithm
+for merg a and b with the p parallel processor
+which requir at most 2 log2 2m 1 3m p
+m p log2 n m step if n 2 b
+m b an integ the algorithm requir at most 2
+log2 m 1 m p 2 b step in the
+case where m and n ar of the sam

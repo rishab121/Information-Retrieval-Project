@@ -1,0 +1,24 @@
+on the extern storag fragment produc by first fit and
+best fit alloc strategi publish comparison of the extern fragment
+produc by first fit and best fit memori alloc have
+not been consist through simul a seri of experi were
+perform in order to obtain better data on the rel
+perform of first fit and best fit and a better
+understand of the reason underli observ differ the time memori
+product effici of first fit and best fit were gener
+within 1 to 3 percent of each other except for
+small popul the size of the request popul had littl
+effect on alloc effici for exponenti and hyperexponenti distribut of
+request first fit outperform best fit but for normal and
+uniform distribut and for exponenti distribut distort in variou wai
+best fit outperform first fit it is hypothes that when
+first fit outperform best fit it doe so becaus first
+fit by preferenti alloc toward on end of memori encourag
+larg block to grow at the other end suffici contigu
+space is therebi more like to be avail for rel
+larg request result of simul experi support thi hypothesi and
+show that the rel perform of first fit and best
+fit depend on the frequenc of request when the coeffici
+of variat of the request distribut is greater than or
+approxim equal to uniti first fit outperform best fit cacm
+august 1975 shore j e storag fragment dynam

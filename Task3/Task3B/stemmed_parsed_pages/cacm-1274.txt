@@ -1,0 +1,8 @@
+on the numer solut of an n point boundari valu
+problem for linear ordinari differenti equat a method for the
+numer solut of then point boundari valu problem for homogen
+linear ordinari differenti equat is develop the method requir two
+rung kutta integr over the interv under consider and the
+solut of a linear system of equat with n 1
+unknown cacm april 1965 dai j t ca650417 jb march
+7 1978 3 30 pm

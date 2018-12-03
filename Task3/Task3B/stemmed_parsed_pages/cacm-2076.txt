@@ -1,0 +1,8 @@
+cubic spline on uniform mesh a veri simpl procedur is
+present for construct cubic spline period or nonperiod on uniform
+mesh arc of two cubic suffic to construct a basi
+of cardin spline an algorithm is given which requir onli
+minim storag and comput and permit easi trade off of
+on against the other cacm april 1970 nilson e n
+simpl spline represent cardin spline uniform mesh spline 5 13
+ca700408 jb februari 13 1978 2 51 pm

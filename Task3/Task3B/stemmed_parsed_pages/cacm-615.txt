@@ -1,0 +1,14 @@
+address multidimension arrai a us method of repres a function
+of n variabl is to consid the function to assum
+it valu at select point in n dimension space although
+thi pictur is of valu to the analyst the element
+of an n dimension arrai must exist in convent storag
+as a linear arrai or vector the mean of perform
+the transform of a set of indic locat on arrai
+element in n space to the locat address of the
+element in it storag vector is the subject of thi
+paper it is note that the index address transform is
+computation ident to the convers of a number from a
+fix to a mix radix number system sever wai of
+implement the transform ar describ cacm april 1962 hellerman h
+ca620402 jb march 20 1978 2 29 pm

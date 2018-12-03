@@ -1,0 +1,8 @@
+rel effect of central processor and input output speed upon
+throughput on the larg comput present in thi paper is
+a techniqu for determin the rel effect of the intern
+speed of the comput and the speed of the input
+output unit upon the overal speed of the system equat
+ar deriv which permit the determin of these effect from
+hardwar usag measur cacm decemb 1964 white p ca641208 jb
+march 9 1978 3 34 pm

@@ -1,0 +1,12 @@
+an algol compil construct and us in relat to an
+elabor oper system an algol translat ha been prepar and
+integr into the ibsi oper system assembl and go featur
+of ibsi permit immedi execut with option list deck and
+debug inform us the chain featur of ibsi link written
+in map or fortran as well as algol mai be
+call by the algol main program in addit procedur code
+in map mai be includ in ani algol program although
+assembl plu load time exce compil time the total time
+is satisfactori and the user get eas and facil which
+ar fulli compens cacm march 1966 boussard j c ca660308
+jb march 3 1978 1 41 pm

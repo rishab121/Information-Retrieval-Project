@@ -1,0 +1,20 @@
+formal pars system automat syntact analysi ha recent becom import
+for both natur languag data process and syntax direct compil
+a formal pars system g v u t r consist
+of two finit disjoint vocabulari v and t a mani
+mani map u from v onto t and a recurs
+set r of string in t call syntact sentenc class
+everi program for automat syntact analysi determin a formal pars
+system a direct product analyz i t x p is
+a nondeterminist pushdown store machin with intern vocabulari i input
+vocabulari t and all product of p in the form
+z a ay1 ym where z yi ar element of
+the set i and a is an element of the
+set t everi context free languag can be analyz by
+a direct product analyz the kuno oetting multipl path syntact
+analyz for english is a concret exampl of a direct
+product analyz and of a work pars algorithm the connect
+between structur assign by the analyz and those of a
+convent phrase structur grammar is examin in thi paper cacm
+august 1964 greibach s a ca640818 jb march 9 1978
+6 30 pm

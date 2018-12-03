@@ -1,0 +1,8 @@
+the impact of distribut and disciplin on multipl processor system
+simpl queue model ar us to studi the perform tradeoff
+of multipl processor system issu consid includ the impact of
+cpu servic disciplin and distribut level of multiprogram multitask and
+job prioriti cacm januari 1979 sauer c chandi k multiprogram
+multiprocess schedul disciplin perform evalu queue model 4 32 4
+6 6 2 8 1 ca790104 dh april 10 1979
+12 10 pm

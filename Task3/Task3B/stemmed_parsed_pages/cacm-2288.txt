@@ -1,0 +1,13 @@
+file organ the consecut retriev properti the consecut retriev properti
+is an import relat between a queri set and record
+set it exist enabl the design of an inform retriev
+system with a minim search time and no redund storag
+some import theorem on the consecut retriev properti ar prove
+in thi paper condit under which the consecut retriev properti
+exist and remain invari have been establish an outlin for
+design an inform retriev system base on the consecut retriev
+properti is also discuss cacm septemb 1972 ghosh s p
+file organ consecut storag consecut retriev inform retriev record organ
+queri structur record structur storag on tape storag space minimum
+access time 3 70 3 73 3 74 ca720902 jb
+januari 27 1978 4 52 pm

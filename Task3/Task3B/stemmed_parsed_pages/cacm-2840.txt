@@ -1,0 +1,14 @@
+protect in oper system a model of protect mechan in
+comput system is present and it appropri is argu the
+safeti problem for protect system under thi model is to
+determin in a given situat whether a subject can acquir
+a particular right to an object in restrict case it
+can be shown that thi problem is decid i e
+there is an algorithm to determin whether a system in
+a particular configur is safe in gener and under surprisingli
+weak assumpt it cannot be decid if a situat is
+safe variou implic of thi fact ar discuss cacm august
+1976 harrison m a ruzzo w l ullman j d
+protect protect system oper system decid ture machin 4 30
+4 31 5 24 ca760804 jb januari 4 1978 10
+12 am

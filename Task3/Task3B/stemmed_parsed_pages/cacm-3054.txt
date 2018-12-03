@@ -1,0 +1,13 @@
+implement quicksort program thi paper is a practic studi of
+how to implement the quicksort sort algorithm and it best
+variant on real comput includ how to appli variou code
+optim techniqu a detail implement combin the most effect improv
+to quicksort is given along with a discuss of how
+to implement it in assembl languag analyt result describ the
+perform of the program ar summar a varieti of special
+situat ar consid from a practic standpoint to illustr quicksort
+s wide applic as an intern sort method which requir
+neglig extra storag cacm octob 1978 sedgewick r quicksort analysi
+of algorithm code optim sort 4 0 4 6 5
+25 5 31 5 5 ca781007 dh januari 29 1979
+5 40 pm

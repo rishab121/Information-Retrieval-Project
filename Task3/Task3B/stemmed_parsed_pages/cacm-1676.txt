@@ -1,0 +1,16 @@
+the lrltran compil extens softwar problem confront an organ which
+possess a number of differ comput and which frequent acquir
+new on to maintain cohes a system must be develop
+written in a high level languag which minim machin depend
+and isol those which ar necessari a languag and a
+compil for the languag ar discuss here the languag call
+lrltran is a heavili augment fortran the tree pass compil
+make us intern of a postfix polish notat pass i
+to pass ii and a tree represent refer to as
+a composit block tabl pass i to pass iii machin
+independ optim occur in pass ii and do loop and
+machin depend optim in pass iii cacm novemb 1968 mendicino
+s f martin j t ranelletti j e zwakenberg r
+g compil compil compil machin independ scatter storag techniqu polish
+processor common subseg tree represent optim 4 12 4 20
+ca681103 jb februari 21 1978 3 03 pm

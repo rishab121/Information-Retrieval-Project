@@ -1,0 +1,13 @@
+optim storag alloc for serial file a comput system us
+sever serial file the file resid on a direct access
+storag devic in which storag space is limit record ar
+ad to the file either by job in batch process
+mode or by on line transact each transact or job
+gener a demand vector which design the space requir in
+each file for record addit whenev on file run out
+of space the system must be reorgan thi paper consid
+sever criteria for best alloc storag space to the file
+cacm februari 1979 mendelson h pliskin j yechiali u serial
+file storag alloc reorgan partit dataset 3 5 3 7
+4 33 4 6 ca790208 dh april 12 1979 10
+34 am

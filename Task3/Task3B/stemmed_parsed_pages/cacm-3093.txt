@@ -1,0 +1,11 @@
+automat error recoveri for lr parser in thi paper we
+present a scheme for detect and recov from syntax error
+in program the scheme which is base on lr pars
+is driven by inform which is directli and automat obtain
+from the inform that is alreadi present in an lr
+parser the approach which is pattern after that of levi
+and graham and rhode appear to provid error recoveri which
+is both simpl and power cacm june 1978 mickuna m
+modri j program languag error correct automat correct pars lr
+syntax error compil 4 12 4 42 5 23 ca780604
+dh februari 26 1979 12 22 pm

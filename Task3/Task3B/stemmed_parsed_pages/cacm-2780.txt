@@ -1,0 +1,10 @@
+on comput certain element of the invers of a spars
+matrix a recurs algorithm for comput the invers of a
+matrix from the lu factor base on relationship in takahashi
+et al is examin the formula for the algorithm ar
+given the depend relationship ar deriv the comput cost ar
+develop and some gener comment on applic and stabil ar
+made cacm march 1975 erisman e m tinnei w f
+spars matric triangular factor element of invers tridiagon matrix sensit
+3 24 5 14 ca750308 jb januari 9 1978 4
+34 pm

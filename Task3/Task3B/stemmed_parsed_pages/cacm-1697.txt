@@ -1,0 +1,16 @@
+graphic input output of nonstandard charact a system develop at
+harvard for graphic input and output nonstandard charact on a
+comput is print in principl the system can deal with
+ani orthographi although at present it is limit to 4000
+chines charact and some mathemat symbol new charact can be
+ad to the repertoir of the system by graphic input
+on a displai scope text input is accomplish via a
+displai scope or a rand tablet the organ and oper
+of the current system ar describ and a discuss of
+the rel merit of such a system is given illustr
+of the comput input and output of chines charact ar
+includ cacm septemb 1968 hayashl h duncan s kuno s
+chines charact input output orthographi rand tablet pdp 1 automat
+typeset man machin commun comput graphic graphic input on line
+edit 3 40 4 41 ca680904 jb februari 22 1978
+9 13 am

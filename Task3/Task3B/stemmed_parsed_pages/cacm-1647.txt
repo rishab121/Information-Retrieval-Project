@@ -1,0 +1,16 @@
+watfor the univers of waterloo fortran iv compil watfor is
+an in core load and go compil which ha been
+implement within the ibm 7040 44 oper system fortran iv
+wa select as the sourc languag in order to achiev
+maximum languag compat with other avail compil system in particular
+the ibm 7040 44 fortran iv system the princip advantag
+of the watfor compil is that it translat fortran iv
+program at speed of up to 100 statement per second
+sinc the compil resid core there is virtual no system
+overhead and henc larg batch of student program mai be
+process veri effici the compil also provid extens error diagnost
+dure both the compil and the execut phase of a
+program run thi featur make the system attract to both
+learner and learn user alik cacm januari 1967 shantz p
+w german r a mitchel j g ca670108 jb februari
+28 1978 4 36 pm

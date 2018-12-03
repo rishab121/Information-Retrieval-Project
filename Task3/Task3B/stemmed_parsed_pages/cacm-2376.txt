@@ -1,0 +1,13 @@
+synchron of commun process formal of a well defin synchron
+mechan can be us to prove that concurr run process
+of a system commun correctli thi is demonstr for a
+system consist of mani send process which deposit messag in
+a buffer and mani receiv process which remov messag from
+that buffer the formal descript of the synchron mechan make
+it veri easi to prove that the buffer will neither
+overflow nor underflow that sender and receiv will never oper
+on the same messag frame in the buffer nor will
+thei run into a deadlock cacm march 1972 habermann a
+n parallel program multiprogram program correct process commun process schedul
+4 30 4 32 4 39 4 9 ca720305 jb
+januari 31 1978 2 44 pm

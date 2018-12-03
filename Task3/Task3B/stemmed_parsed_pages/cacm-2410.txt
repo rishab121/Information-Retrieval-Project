@@ -1,0 +1,9 @@
+a recurr scheme for convert from on orthogon expans into
+anoth a gener of a scheme of ham for convert
+a polynomi pn x into a chebyshev seri is combin
+with a recurr scheme of clenshaw for sum ani finit
+seri whose term satisfi a three term recurr formula cacm
+novemb 1973 salzer h e orthogon expans seri interconvers recurr
+scheme ham recurr clenshaw recurr three term recurr five term
+recurr chebyshev seri 5 12 ca731116 jb januari 19 1978
+4 16 pm

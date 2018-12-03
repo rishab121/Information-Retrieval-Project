@@ -1,0 +1,10 @@
+bugsi a program system for pictur process not for debug
+bugsi is a pictur process and measur system that depend
+upon a pictori input to the comput s memori bugsi
+can be us for mani type of applic in particular
+the author have us the system for the analysi of
+linear graph the main concept of the system is the
+us of a collect of programm pointer which ar visual
+as a famili of bug cacm februari 1966 ledlei r
+s jacobsen j belson m ca660205 jb march 3 1978
+3 16 pm

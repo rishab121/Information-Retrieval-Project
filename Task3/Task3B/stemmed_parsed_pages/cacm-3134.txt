@@ -1,0 +1,8 @@
+the us of normal multipl tabl for inform storag and
+retriev thi paper describ a method for the organ and
+retriev of attribut base inform system us the normal multipl
+tabl as a directori for the inform system algorithm for
+the organ an d retriev of inform ar describ thi
+method is particularli suitabl for queri request a group of
+inform item all of which possess a particular set of
+attribut and possibl some other attribut as well sever exam

@@ -1,0 +1,13 @@
+a languag for treat graph a languag for the represent
+of graph is describ and the formul of graph oper
+such as node and or link delet or insert union
+intersect comparison and travers of graph is given graph ar
+repres by link list the languag is syntact defin as
+an extens to algol 60 and it is translat into
+algol by mean of a syntax driven compil applic area
+for thi languag ar oper research network problem control theori
+traffic problem etc cacm mai 1970 crespi reghizzi s morpurgo
+r graph orient nonori multipl color graph languag extend algol
+oper preced syntax driven compil oper research network traffic 3
+2 3 5 4 2 5 3 ca700507 jb februari
+13 1978 1 31 pm

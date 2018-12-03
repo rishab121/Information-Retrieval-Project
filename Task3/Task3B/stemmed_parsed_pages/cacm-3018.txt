@@ -1,0 +1,20 @@
+cover edg by cliqu with regard to keyword conflict and
+intersect graph kellerman ha present a method for determin keyword
+conflict and describ a heurist algorithm which solv a certain
+combinatori optim problem in connect with thi method thi optim
+problem is here shown to be equival to the problem
+of cover the edg of a graph by complet subgraph
+with the object of minim the number of complet subgraph
+a relationship between thi edg cliqu cover problem and the
+graph color problem is establish which allow algorithm for either
+on of these problem to be construct from algorithm for
+the other as consequ of thi relationship the keyword conflict
+problem and the edg cliqu cover problem ar shown to
+be np complet and if p np then thei do
+not admit polynomi time approxim algorithm which alwai produc solut
+within a factor less than 2 from the optimum cacm
+februari 1978 kou l stockmey l wong c watson t
+keyword conflict intersect graph node cliqu cover edg cliqu cover
+comput complex np complet problem polynomi time heurist 4 12
+5 25 5 32 ca780205 jb march 28 1978 4
+18 pm

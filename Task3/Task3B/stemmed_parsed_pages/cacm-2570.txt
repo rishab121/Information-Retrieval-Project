@@ -1,0 +1,3 @@
+a comparison of list schedul for parallel process system the
+problem of schedul two or more processor to minim the
+execut time of a program

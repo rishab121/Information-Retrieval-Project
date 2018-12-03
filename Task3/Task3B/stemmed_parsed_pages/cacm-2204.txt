@@ -1,0 +1,11 @@
+program develop by stepwis refin the creativ activ of program
+to be distinguish from code is usual taught by exampl
+serv to exhibit certain techniqu it is here consid as
+a sequenc of design decis concern the decomposit of task
+into subtask and of data into data structur the process
+of success refin of specif is illustr by a short
+but nontrivi exampl from which a number of conclus ar
+drawn regard the art and the instruct of program cacm
+april 1971 wirth n educ in program program techniqu stepwis
+program construct 1 50 4 0 ca710401 jb februari 3
+1978 4 14 pm

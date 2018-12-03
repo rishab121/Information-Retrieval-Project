@@ -1,0 +1,17 @@
+some complet calculi for matric a matrix calculu is introduc
+with the intent of develop data structur suitabl for a
+high level algorithm languag for mathemat program the paper investig
+how the special structur of matric can be describ and
+util for effici comput by save memori space and superflu
+oper sequenc of matric and sequenc of sequenc of matric
+ar consid and matrix oper areext end to sequenc oper
+and cumul oper algorithm ar given which us symbol manipul
+of matrix express so as to find the form best
+suit for comput these form ar call normal form sever
+complet result ar obtain in the sens that for each
+express an equival express in normal form can be found
+within a specifi calculu cacm april 1970 bayer r witzgal
+c complet calculu data structur linear program matrix matrix concaten
+matrix sequenc program languag sequenc oper symbol manipul 4 12
+4 22 5 14 5 41 ca700403 jb februari 13
+1978 3 18 pm

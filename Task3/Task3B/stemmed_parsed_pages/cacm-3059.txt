@@ -1,0 +1,16 @@
+model for parallel process within program applic to cpu i
+o and i o i o overlap approxim queue model
+for intern parallel process by individu program in a multiprogram
+system ar develop in thi paper the solut techniqu is
+develop by network decomposit the model ar formul in term
+of cpu i o and i o i o overlap
+and appli to the analysi of these problem the percentag
+perform improv from cpu i o overlap is found to
+be greatest for system which ar in approxim cpu i
+o util balanc and for low degre of multiprogram the
+percentag improv from i o i o overlap is found
+to be greatest for systemtem in which the i o
+system is more util than the cpu cacm octob 1978
+towslei d chandi k brown j multiprogram parallel process queue
+network model multiprocess of comput and i o 4 32
+8 1 ca781002 dh januari 29 1979 6 23 pm

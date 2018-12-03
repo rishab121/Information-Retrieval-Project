@@ -1,0 +1,10 @@
+determin of the intersect point of two plane curv by
+mean of differenti equat a new method is propos to
+calcul the intersect point of two plane curv the theori
+of singular point off a system of two differenti equat
+is us in develop the method the intersect point to
+be determin is identifi with such a singular point and
+appropri modif ar appli to the system to ensur that
+the singular point be stabl i e all integr which
+start in the neighborhood of the singular point will alwai
+approach thi point if the integr param

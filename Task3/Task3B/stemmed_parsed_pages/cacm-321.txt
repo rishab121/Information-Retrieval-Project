@@ -1,0 +1,23 @@
+algol 60 confidenti the algol 60 report when first encount
+seem to describ a veri complex languag which will be
+difficult to learn the metalinguist formula admir serv the purpos
+of precis specifi a languag but thei ar certainli not
+veri readabl for a beginn howev experi ha shown that
+onc the report is explain it is in fact easi
+to learn algol and to write algorithm in it the
+languag is so gener and power it can handl an
+enorm class of problem it is not hard to learn
+those part of algol present in other compil languag how
+to write assign and go to and for statement etc
+inde a lot of the unnecessari restrict impos by other
+compil languag have final been lift but algol also allow
+mani unobvi thing to be written as we will see
+later and herein li a problem algol seem to have
+becom too gener so mani restrict have been lift that
+a lot of technic detail crop up which ar hard
+to learn and to us correctli in thi paper some
+of the more obscur featur of the languag ar consid
+and their us is discuss remark ar base on the
+author interpret of the algol 60 report cacm june 1961
+knuth d e merner j n ca610604 jb march 16
+1978 10 48 pm

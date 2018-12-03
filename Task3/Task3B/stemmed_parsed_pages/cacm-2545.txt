@@ -1,0 +1,10 @@
+a theori of discret pattern and their implement in snobol4
+the notion of a discret pattern is formal and certain
+properti deduc a pattern is shown to be a gener
+of a formal languag algorithm for implement the kind of
+pattern in snobol4 ar given the gener approach is to
+creat in so far as possibl a bottom up pars
+from a top down specif cacm februari 1973 gimpel j
+f pattern snobol4 pattern theori pars pattern match string process
+pattern implement 4 29 5 39 ca730203 jb januari 24
+1978 3 13 pm

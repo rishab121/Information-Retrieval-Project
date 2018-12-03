@@ -1,0 +1,9 @@
+an insert techniqu for on side height balanc tree a
+restrict on height balanc binari tree is present it is
+seen that thi restrict reduc the extra memori requir by
+half from two extra bit per node to on and
+maintain fast search capabl at a cost of increas time
+requir for insert new node cacm august 1976 hirschberg d
+s balanc binari search tree 3 73 3 74 4
+34 5 25 5 31 ca760805 jb januari 4 1978
+10 04 am

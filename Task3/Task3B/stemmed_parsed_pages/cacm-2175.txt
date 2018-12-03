@@ -1,0 +1,19 @@
+subexpress order in the execut of arithmet express an arithmet
+express can often be broken down into it compon subexpress
+depend on the hardwar environ in which the express is
+to be execut these subexpress can be evalu in serial
+in parallel or in a combin of these mode thi
+paper show that express execut time can be minim onli
+if consider is given to the order of the subexpress
+in particular subexpress should be execut in order of decreas
+memori and processor time requir thi observ is valid for
+configur rang from a uniprocessor with an unbuff main memori
+to multiprocessor with a cach buffer memori if the number
+of subexpress which can be execut in parallel exce the
+number of avail processor then execut of some of these
+subexpress must be postpon a procedur is given which combin
+thi requir with the earlier order consider to provid an
+optim execut sequenc cacm juli 1971 ramamoorthi c v gonzalez
+m j parallel process cach arithmet express subexpress order comput
+tree compil 4 12 4 32 ca710707 jb februari 2
+1978 4 49 pm

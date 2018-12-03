@@ -1,0 +1,2 @@
+multiprocessor memori organ and memori interfer the structur of share
+memori in a multiprocessor comput system is exam

@@ -1,0 +1,5 @@
+a languag independ macro processor a macro processor is describ
+which can be us with almost ani sourc languag it
+provid all featur normal associ with a macro facil plu
+the abil to make arbitrari transform of the argument string
+the program

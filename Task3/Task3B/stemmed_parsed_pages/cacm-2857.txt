@@ -1,0 +1,13 @@
+referenc list by an edg an edg refer into a
+list structur is a pair of pointer to adjac node
+such a refer often requir littl addit space but it
+us can yield effici algorithm for instanc a circular link
+between the end of a list is redundant if the
+list is alwai referenc by that edg and list travers
+is easier when that link is null edg refer also
+allow thread of nonrecurs list can replac some header cell
+and enhanc the famou exclus or trick to doubl link
+list cacm june 1976 wise d s list process circular
+doubli link overlap sublist header cell pointer cursor 3 73
+4 10 4 22 ca760605 jb januari 4 1978 2
+00 pm

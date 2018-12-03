@@ -1,0 +1,18 @@
+construct of ration and neg power of a formal seri
+some method ar describ for the gener of fraction and
+neg power of ani formal seri such as poisson seri
+or chebyshev seri it is shown that with the us
+of the three elementari oper of addit subtract and multipl
+all ration posit and neg power of a seri can
+be construct there ar basic two approach the binomi theorem
+and the iter method both method ar describ here and
+the relationship between them is point out some well known
+classic formula ar obtain as particular case and it is
+shown how the converg properti of these formula can be
+improv with veri littl addit comput final at the end
+of the articl some numer experi ar describ with chebyshev
+seri and with fourier seri cacm januari 1971 bruck r
+a seri expans seri invers root extract binomi theorem newton
+iter chebyshev seri poisson seri fourier seri 3 11 3
+15 3 21 5 0 ca710105 jb februari 8 1978
+10 57 am

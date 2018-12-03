@@ -1,0 +1,14 @@
+the synthesi of loop predic current method for mechan program
+verif requir a complet predic specif on each loop becaus
+thi is tediou and error prone produc a program with
+complet correct predic is reason difficult and would be facilit
+by machin assist thi paper discuss techniqu for mechan synthes
+loop predic two class of techniqu ar consid 1 heurist
+method which deriv loop predic from boundari condit and or
+partial specifi induct assert 2 extract method which us input
+predic and appropri weak interpret to obtain certain class of
+loop predic by an evalu on the weak interpret cacm
+march 1974 wegbreit b program verif loop predic induct assert
+synthesi of loop predic weak interpret well found set properti
+extract theorem prove 3 64 4 19 4 22 5
+24 ca740206 jb januari 18 1978 12 55 pm

@@ -1,0 +1,3 @@
+transient free work set statist transient free averag work set
+size and transient free miss page rate for a finit
+sam

@@ -1,0 +1,20 @@
+multi attribut retriev with combin index in thi paper a
+file organ scheme design to replac the us of the
+popular secondari index file scheme or invert file on secondari
+kei field is describ through the us of redund and
+store kei or access number of the record that satisfi
+differ combin of secondari index valu in bucket it is
+possibl to retriev all kei satisfi ani input queri deriv
+from a subset of field by a singl access to
+an index file although each bucket mai be us for
+mani combin of valu and a combin of bucket mai
+be requir for a given queri the method which in
+it degener case becom the convent secondari index file scheme
+work similarli but ha the follow advantag 1 the elimin
+of multipl access in mani case 2 the elimin of
+fals drop 3 the elimin of comput time to perform
+intersect of kei set each qualifi for on secondari index
+field onli and 4 the avoid of long string of
+kei when an index field appear in a queri ha
+veri few possibl valu redund in some case is the
+sam

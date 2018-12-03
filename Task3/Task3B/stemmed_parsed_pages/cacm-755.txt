@@ -1,0 +1,10 @@
+an exponenti method of numer integr of ordinari differenti equat
+a formula for numer integr is prepar which involv an
+exponenti term thi formula is compar to two standard integr
+method and it is shown that for a larg class
+of differenti equat the exponenti formula ha superior stabil properti
+for larg step size thu thi formula mai be us
+with a larg step size to decreas the total comput
+time for a solut significantli particularli in those engin problem
+where high accuraci is not need cacm august 1963 pope
+d a ca630843 jb march 13 1978 7 52 pm

@@ -1,0 +1,23 @@
+two languag for estim program effici two languag enabl their
+user to estim the effici of comput program ar present
+the program whose effici on wish to estim is written
+in the first languag a go to less program languag
+which includ most of the featur of algol 60 the
+second languag consist of interact command enabl it user to
+provid addit inform about the program written in the first
+languag and to output result estim it effici processor for
+the two languag ar also describ the first processor is
+a syntax direct translat which compil a program into a
+symbol formula repres the execut time for that program the
+sound processor is a set of procedur for that program
+the second processor is a set of procedur for algebra
+manipul which can be call by the user to oper
+on the formula produc by the first processor exampl of
+the usag of the two languag ar includ the limit
+of the present system it relat to knuth s work
+on the analysi of algorithm and some of the direct
+for further research ar also discuss cacm june 1974 ccohen
+j zuckerman c program languag syntax direct translat symbol manipul
+program effici analysi of algorithm 4 12 4 20 5
+24 5 25 ca740601 jb januari 17 1978 3 48
+pm

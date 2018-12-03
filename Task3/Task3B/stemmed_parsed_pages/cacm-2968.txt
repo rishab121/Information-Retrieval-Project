@@ -1,0 +1,17 @@
+a comparison of tree balanc algorithm sever algorithm height balanc
+i e avl and extens weight balanc i e bb
+and wb and total restructur for build balanc binari search
+tree ar compar the criteria for comparison encompass theoret aspect
+e g path length and implement independ and machin algorithm
+depend measur e g run time a detail analysi of
+code is also present at a level believ to be
+languag and compil independ the qualiti of the result tree
+and the overhead spent on build them ar analyz and
+some guidelin ar given for an effici us of the
+method if insert and subsequ queri ar the onli oper
+of in terest then pure avl tree present the overal
+best qualiti cacm mai 1977 baer j l schwab b
+binari search tree avl tree weight balanc tree path length
+analysi of algorithm inform storag and retriev 3 7 3
+72 3 74 5 31 ca770504 jb decemb 29 1977
+2 16 am

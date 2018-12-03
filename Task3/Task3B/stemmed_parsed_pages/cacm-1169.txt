@@ -1,0 +1,18 @@
+an algorithm for minim backboard wire function a partial exhaust
+algorithm is present for solv the follow problem aris from
+automat layout of a comput given an order set e1
+e2 en of n comput compon for each permut of
+the element e1 e2 en there is attach a valu
+of an integ function f the algorithm find a local
+minimum of f by evalu the set delta f of
+the increment correspond to a certain set of exchang of
+two elementshen the exchang correspond to the least neg increment
+of delta f is perform the process is iter and
+stop when the set of the increment is a posit
+or empti set which it is prove correspond to a
+minimum the procedur is similar to the downhil method for
+find the minimum of a real function f p and
+can be appli to other placement problem experiment result ar
+present with backboard form by mani element and differ initi
+placement cacm novemb 1965 pomental t ca651112 jb march 6
+1978 4 35 pm

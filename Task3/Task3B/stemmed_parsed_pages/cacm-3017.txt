@@ -1,0 +1,10 @@
+b tree re examin the b tree and it variant
+have with increas frequenc been propos as a basic storag
+structur for multius databas applic here three potenti problem which
+must be dealt with in such a structur that do
+not aris in more tradit static directori structur ar indic
+on problem is a possibl perform penalti cacm februari 1978
+held g stonebrak m b tree directori static directori dynam
+directori index sequenti access method 3 70 3 73 3
+74 4 33 4 34 ca780206 jb march 28 1978
+3 46 pm

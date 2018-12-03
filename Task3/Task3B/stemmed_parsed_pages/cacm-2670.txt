@@ -1,0 +1,9 @@
+effici implement of a variabl project algorithm for nonlinear least
+squar problem nonlinear least squar frequent aris for which the
+variabl to be solv for can be separ into a
+linear and a nonlinear part a variabl project algorithm ha
+been develop recent which is design to take advantag of
+the structur of a problem whose variabl separ in thi
+wai thi paper give a slightli more effici and slightli
+more gener version of thi algorithm than ha appear earlier
+cacm march 1974 krogh f t nonlinear least squar param

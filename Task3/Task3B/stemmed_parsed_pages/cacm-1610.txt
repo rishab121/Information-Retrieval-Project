@@ -1,0 +1,6 @@
+a method for the solut of transport problem with tall
+matric a method is present for the solut of the
+transport problem have a cost matrix with few column the
+comput implement of thi method show it to be veri
+fast and effici applic ar indict for the personnel classif
+problem as well as the classic transport problem an exam

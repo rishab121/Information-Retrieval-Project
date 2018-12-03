@@ -1,0 +1,4 @@
+on the comput enumer of finit topolog the problem of
+enumer the number of topolog which can be form from
+a finit point set is consid both theoret and computation
+certain fundam

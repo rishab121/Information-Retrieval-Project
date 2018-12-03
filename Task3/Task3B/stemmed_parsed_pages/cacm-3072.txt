@@ -1,0 +1,17 @@
+feedback coupl resourc alloc polici in the multiprogram multiprocessor comput
+system model studi of some integr feedback driven schedul system
+for multiprogram multiprocessor comput system ar present the basic control
+variabl us ar the data flow rate for the process
+execut on the cpu the model system featur simul continu
+flow and preempt resum schedul of input output activ attent
+is given to the amount of memori resourc requir for
+effect process of the i o activ buffer space assign
+the model studi us both distribut driven and trace driven
+techniqu even rel simpl dynam schedul ar shown to improv
+system perform as measur by user cpu time over that
+given by optim or near optim static schedul imbed in
+ident system structur and workload environ the improv is greatest
+under a heavi i o demand workload cacm august 1978
+brice r brown j integr schedul feedback schedul multiprogram system
+i o system schedul 4 32 4 35 ca780806 dh
+februari 5 1979 4 01 pm

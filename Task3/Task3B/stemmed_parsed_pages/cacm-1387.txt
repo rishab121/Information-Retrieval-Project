@@ -1,0 +1,13 @@
+solut of system of polynomi equat by elimin the elimin
+procedur as describ by william ha been code in lisp
+and formac and us in solv system of polynomi equat
+it is found that the method is veri effect in
+the case of small system where it yield all solut
+without the need for initi estim the method by itself
+appear in appropri howev in the solut of larg system
+of equat due to the explos growth in the intermedi
+equat and the hazard which aris when the coeffici ar
+truncat a comparison is made with difficulti found in other
+problem in non numer mathemat such as symbol integr and
+simplif cacm august 1966 mose j ca660811 jb march 2
+1978 7 11 pm

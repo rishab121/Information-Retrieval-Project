@@ -1,0 +1,12 @@
+design and characterist of a variabl length record sort us
+new fix length record sort techniqu thi paper describ the
+applic of sever new techniqu for sort fix length record
+to the problem of variabl length record sort the techniqu
+have been implement on a sylvania 9400 comput system with
+32 000 fix length word of memori specif the techniqu
+sequenc variabl length record of unrestrict size produc long initi
+string of data merg string of data at the power
+of t 1 where t is the number of work
+tape in a system and do not restrict the volum
+of input data cacm mai 1963 goetz m a ca630516
+jb march 14 1978 10 57 am

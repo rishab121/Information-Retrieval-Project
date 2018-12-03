@@ -1,0 +1,5 @@
+subroutin assembl a descript is given of an assembl system
+which requir onli on pass and doe not maintain a
+tabl of inform about the subroutin librari cacm januari 1965
+samet p a ca650105 jb march 8 1978 2 51
+pm

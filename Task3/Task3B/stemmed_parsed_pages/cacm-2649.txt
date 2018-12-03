@@ -1,0 +1,9 @@
+on the distribut of signific digit and roundoff error gener
+logarithm law is deriv for the distribut of the first
+t signific digit of a random digit integ thi result
+is then us to determin the distribut of the roundoff
+error in float point oper which is a mixtur of
+uniform and reciproc distribut cacm mai 1974 tsao n signific
+digit float point oper roundoff error uniform distribut reciproc distribut
+varianc mean valv 5 10 5 11 ca740504 jb januari
+17 1978 4 12 pm

@@ -1,0 +1,17 @@
+toward automat program synthesi an elementari outlin of the theorem
+prove approach to automat program synthesi is given without dwell
+on technic detail the method is illustr by the automat
+construct of both recurs and iter program oper on natur
+number list and tree in order to construct a program
+satisfi certain specif a theorem induc by those specif is
+prove and the desir program is extract from the proof
+the same techniqu is appli to transform recurs defin function
+into iter program frequent with a major gain ineffici it
+is emphas that in order to construct a program with
+loop or with recurs the principl of mathemat induct must
+be appli the relat between the version of the induct
+rule us and the form of the program construct is
+explor in some detail cacm march 1971 manna z walding
+r j artifici intellig answer extract automat program synthesi mathemat
+induct principl problem solv theorem prove 3 64 5 23
+5 24 ca710302 jb februari 3 1978 4 48 pm

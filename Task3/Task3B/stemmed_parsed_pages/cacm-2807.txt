@@ -1,0 +1,14 @@
+on the stabil of gauss jordan elimin with pivot the
+stabil of the gauss jordan algorithm with partial pivot for
+the solut of gener system of linear equat is commonli
+regard as suspect it is shown that in mani respect
+suspicion ar unfound and in gener the absolut error in
+the solut is strictli compar with that correspond to gaussian
+elimin with partial pivot plu back substitut howev when a
+is ill condit the residu correspond to the gauss jordan
+solut will often be much greater than that correspond to
+the gaussian elimin solut cacm januari 1975 peter g wilkinson
+j h gauss jordan algorithm gaussian elimin back substitut backward
+error analysi bound for error in solut bound for residu
+5 11 5 14 ca750104 jb januari 12 1978 10
+44 am

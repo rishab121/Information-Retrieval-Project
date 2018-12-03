@@ -1,0 +1,9 @@
+the ml i macro processor a gener purpos macro processor
+call ml i is describ ml i ha been implement
+on the pdp 7 and i atla 2 comput and
+is intend as a tool to allow user to extend
+ani exist program languag by incorpor new statement and other
+syntact form of their own choos and in their own
+notat thi allow a complet user orient languag to be
+built up with rel eas cacm octob 1967 brown p
+j ca671003 jb februari 27 1978 2 38 pm

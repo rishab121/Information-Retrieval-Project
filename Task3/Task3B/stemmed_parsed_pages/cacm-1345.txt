@@ -1,0 +1,6 @@
+tensor calcul on the comput a formac program ha been
+written which is capabl of calcul variou quantiti of interest
+in tensor calculu us thi code christoffel symbol have been
+calcul for 12 basic orthogon coordin system cacm decemb 1966
+walton j j ca661205 jb march 2 1978 2 35
+pm

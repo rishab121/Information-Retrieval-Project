@@ -1,0 +1,11 @@
+synthesi of decis rule decis tabl can be us as
+an effect tool dure an interview to record the logic
+of process to be autom the result of such an
+interview is not a structur of complet decis tabl but
+rather set of decis rule the purpos of thi paper
+is to provid a procedur for synthes the decis rule
+and thu provid an aid in develop a structur of
+complet decis tabl cacm juli 1976 cheng c rabin j
+decis rule decis tabl logic tabl logic design system design
+specif languag 3 50 4 33 ca760705 jb januari 4
+1978 12 39 pm

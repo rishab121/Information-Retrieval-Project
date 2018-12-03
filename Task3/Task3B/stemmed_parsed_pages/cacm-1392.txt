@@ -1,0 +1,12 @@
+experi with formac algorithm design variou facet of the design
+and implement of mathemat express manipul algorithm ar discuss concret
+exampl ar provid by the formac expand and differenti algorithm
+a basic formac util routin and an experi in the
+extract of the skelet structur of an express on recurr
+theme is the need to avoid excess intermedi express swell
+in order to minim core storag requir although mani detail
+from the formac implement ar present an attempt is made
+to stress principl and idea of gener relev in the
+design of algorithm for manipul mathemat express cacm august 1966
+tobei r g ca660806 jb march 2 1978 7 43
+pm

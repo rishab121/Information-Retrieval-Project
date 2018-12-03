@@ -1,0 +1,11 @@
+numer solut of nonlinear two point boundari problem by finit
+differ method solut of nonlinear two point boundari valu problem
+is often an extrem difficult task quit apart from question
+of realiti and uniqu there is no establish numer techniqu
+for thi problem at present shoot techniqu ar the easiest
+method of attack these problem when these fail the more
+difficult method of finit differ can often be us to
+obtain a solut thi paper give exampl and discuss the
+finit differ method for non linear two point boundari valu
+problem cacm june 1964 holt j f ca640618 jb march
+9 1978 9 07 pm

@@ -1,0 +1,11 @@
+characterist of the fortran cep languag the fortran cep languag
+differ from fortran ii mainli becaus 1 it extend the
+varieti of the mode for real quantiti 2 it allow
+suitabl mixtur in an input output list or in an
+express of quantiti that occur under differ mode 3 it
+make it possibl to address a greater number of input
+output equip and 4 it remov the restrict on the
+complex of the list of quantiti to be transmit between
+the magnet core memori and the drum or the magnet
+tape unit cacm juli 1964 mancino o g ca640712 jb
+march 9 1978 8 11 pm

@@ -1,0 +1,14 @@
+some approach to best match file search the problem of
+search the set of kei in a file to find
+a kei which is closest to a given queri kei
+is discuss after closest in term of a metric on
+the the kei space is suitabl defin three file structur
+ar present togeth with their correspond search algorithm which ar
+intend to reduc the number of comparison requir to achiev
+the desir result these method ar deriv us certain inequ
+satisfi by metric and by graph theoret concept some empir
+result ar present which compar the effici of the method
+cacm april 1973 burkhard w a keller r m match
+file structur file search heurist best match 3 73 3
+79 4 9 ca730404 jb januari 24 1978 9 54
+am

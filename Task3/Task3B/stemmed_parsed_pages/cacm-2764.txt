@@ -1,0 +1,10 @@
+an intellig analyz and understand of english the paper describ
+a work analysi and gener program for natur languag which
+handl paragraph length input it core is a system of
+preferenti choic between deep semant pattern base on what we
+call semant densiti the system is contrast 1 with syntax
+orient linguist approach and 2 with theorem prove approach to
+the understand problem cacm mai 1975 wilk y artifici intellig
+comput linguist templat parapl stereotyp machin translat understand natur languag
+process semant prefer semant densiti 3 36 3 42 3
+63 ca750503 jb januari 9 1978 3 00 pm

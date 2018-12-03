@@ -1,0 +1,14 @@
+the treatment of data type in el1 in construct a
+gener purpos program languag a kei issu is provid a
+suffici set of data type and associ oper in a
+manner that permit both natur problem orient notat and effici
+implement the el1 languag contain a number of featur specif
+design to simultan satisfi both requir the result treatment of
+data type includ provis for programm defin data type data
+type and gener routin programm control over type convers and
+veri flexibl data type behavior in a context that allow
+effici compil code and compact data represent cacm mai 1974
+wegbreit b data type mode mode union type convers coercion
+gener function extens languag data type definit data descript languag
+compil 4 12 4 13 4 22 ca740502 jb januari
+17 1978 4 32 pm

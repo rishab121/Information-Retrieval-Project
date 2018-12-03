@@ -1,0 +1,15 @@
+some new method of detect step edg in digit pictur
+thi note describ two oper that respond to step edg
+but not to ramp the first is similar to the
+digit laplacian but us the max rather than the sum
+of the x and y second differ the second us
+the differ between the mean and median grai level in
+a neighborhood the output obtain from these oper appli to
+a set of test pictur ar compar with each other
+and with the standard digit laplacian and gradient a third
+oper which us the distanc between the center and centroid
+of a neighborhood as an edg valu is also briefli
+consid it turn out to be equival to on of
+the standard digit approxim to the gradient cacm februari 1978
+schachter b rosenfeld a imag process pattern recognit edg detect
+3 63 ca780210 jb march 28 1978 1 56 pm

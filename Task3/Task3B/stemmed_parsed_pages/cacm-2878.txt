@@ -1,0 +1,18 @@
+join polici in a multiprior multiclass batch comput system consid
+a multiprior batch comput system which user from sever differ
+class mai join it toll servic and wait charg such
+a system is formul here as a semi markov decis
+process in which the aim of arriv user is to
+minim their expect loss the optim join polici is on
+of arriv user who mai join the system at some
+of it queue is a control limit polici with a
+singl control number for ani possibl queue and the user
+s class a newli arriv user will join a queue
+that is not fill up to the control number correspond
+to thi queue and the user s class in thi
+paper control number as well as lower and upper bound
+for the control number and the capac of the system
+s queue ar deriv cacm march 1976 babad j m
+modiano m m prioriti queue semi markov process price schedul
+oper system 4 39 8 3 ca760302 dmm januari 9
+1978 2 14 pm

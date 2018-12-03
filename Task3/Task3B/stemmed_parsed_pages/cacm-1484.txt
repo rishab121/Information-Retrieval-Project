@@ -1,0 +1,11 @@
+a languag for describ the function of synchron system befor
+the design of a system is start the exact function
+desir of it should be specifi it is suggest that
+a comput orient languag be us for thi purpos the
+inadequaci of the standard program languag for the descript of
+system ar discuss and a dialect of algol which is
+suitabl for describ synchron system is introduc these descript can
+be us for simul and automat design of the system
+describ in addit to commun system specif cacm februari 1966
+parna d l ca660203 jb march 3 1978 3 23
+pm

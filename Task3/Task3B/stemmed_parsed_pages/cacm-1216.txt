@@ -1,0 +1,10 @@
+symbol deriv without list process subroutin or recurs a routin
+ha been develop which comput and print out the symbol
+deriv of an absolut continu elementari function of on or
+sever variabl no us is made of list process languag
+the chain rule is appli and the result is edit
+to produc result as eleg and effici as those obtain
+by hand comput a subset mai be imbed in a
+formula translat to introduc a differenti oper into an algebra
+program languag cacm august 1965 smith p j ca650808 jb
+march 6 1978 8 18 pm

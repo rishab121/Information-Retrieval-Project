@@ -1,0 +1,6 @@
+algol procedur for the fast fourier transform algorithm 338 c6
+cacm novemb 1968 singleton r c fast fourier transform complex
+fourier transform multivari fourier transform fourier seri harmon analysi spectral
+analysi orthogon polynomi orthogon transform virtual core memori permut 3
+15 3 83 5 12 5 14 ca681110 jb februari
+21 1978 2 29 pm

@@ -1,0 +1,22 @@
+shallow bind in lisp 1 5 shallow bind is a
+scheme which allow the valu of a variabl to be
+access in a bound amount of comput an eleg model
+for shallow bind in lisp 1 5 is present in
+which context switch is an environ tree transform call reroot
+reroot is complet gener and revers and is option in
+the sens that a lisp 1 5 interpret will oper
+correctli whether or not reroot is invok on veri context
+chang sinc reroot leav assoc v a invari for all
+variabl v and all environ a the programm can have
+access to a reroot primit shallow which give him dynam
+control over whether access ar shallow or deep and which
+affect onli the speed of execut of a program not
+it semant in addit multipl process can be activ in
+the same environ structur so long as reroot is an
+indivis oper final the concept of reroot is shown to
+combin the concept of shallow bind in lisp with dijkstra
+s displai for algol and henc is a gener model
+for shallow bind cacm juli 1978 baker h jr lisp
+1 5 environ tree funarg s shallow bind deep bind
+multiprogram algol displai 4 13 4 22 4 32 ca780707
+dh februari 7 1979 4 14 pm

@@ -1,0 +1,6 @@
+error free method for statist comput neeli ha discuss comput
+error gener by some algorithm us to comput variou statist
+in the present paper method ar describ which ar error
+free simpl in concept and usual less costli in machin
+time than those mention by neeli cacm march 1967 rodden
+b e ca670310 jb februari 28 1978 1 02 pm

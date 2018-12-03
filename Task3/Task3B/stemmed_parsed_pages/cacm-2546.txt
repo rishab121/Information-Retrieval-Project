@@ -1,0 +1,15 @@
+the us of grammat infer for design program languag both
+in design a new program languag and in extend an
+exist languag the design is face with the problem of
+deriv a natur grammar for the languag we ar propos
+an interact approach to the grammar design problem wherein the
+design present a sampl of sentenc and structur as input
+to a grammat infer algorithm the algorithm then construct a
+grammar which is a reason gener of the exampl submit
+by the design the implement is present restrict to a
+subclass of oper preced grammar but a second algorithm is
+outlin which appli to a larger class of context free
+grammar cacm februari 1973 crespi reghizzi s melkanoff m a
+lichten l grammar design languag definit infer identif in the
+limit extens languag 3 61 4 2 5 23 ca730202
+jb januari 24 1978 3 20 pm

@@ -1,0 +1,3 @@
+oper on spars relat variou comput on relat boolean matric
+or direct graph such as the comput of preced relat
+for a context free gram

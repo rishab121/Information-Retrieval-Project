@@ -1,0 +1,4 @@
+find a solut of n function equat in n unknown
+algorithm 314 c5 cacm januari 1969 vandergraft j mesztenyi c
+function equat interpol nonlinear equat secant method 5 13 5
+15 ca690107 jb februari 20 1978 11 50 am

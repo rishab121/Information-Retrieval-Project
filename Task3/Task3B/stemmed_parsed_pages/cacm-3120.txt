@@ -1,0 +1,15 @@
+an event driven compil techniqu due to the linear structur
+of sourc text difficulti mai aris in a on pass
+compil process these difficulti occur when an entiti cannot be
+process becaus of a forward refer to inform onli obtain
+from subsequ entiti classic solut ask for data structur appropri
+for each case a techniqu is present here which us
+instead control structur name event and process the work of
+the compil writer becom easier both conceptu and in practic
+becaus he can forget these problem at the outset and
+he avoid special process for each problem thi techniqu ha
+been appli to the construct of an algol 68 compil
+three exampl from that implement ar describ and discuss here
+cacm januari 1979 banatr j routeau j trill l compil
+techniqu on pass compil semant analysi event process parallel categori
+4 12 ca790105 dh april 10 1979 12 26 pm

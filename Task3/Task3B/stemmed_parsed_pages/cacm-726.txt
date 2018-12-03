@@ -1,0 +1,7 @@
+a gener program for the analysi of squar and rectangular
+lattic design thi paper describ a gener purpos program that
+will handl those incomplet block design known as squar and
+rectangular lattic flow diagram ar given so that the method
+of calcul mai be program for ani digit comput cacm
+septemb 1963 smilli k w ca630932 jb march 13 1978
+6 53 pm

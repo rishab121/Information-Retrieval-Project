@@ -1,0 +1,18 @@
+degre of multiprogram in page on demand system a simpl
+stochast model is describ which offer a base for understand
+the relationship between the number of program permit to share
+memori the degre of multiprogram drum traffic rate and central
+process unit util in page on demand multiprogram time share
+comput system the model preserv as a kei featur the
+properti of page demand statist which impli a burst of
+page demand at the begin of ani job or quantum
+execut the model a markov chain is analyz numer and
+the result ar present graphic for a wide rang of
+kei environ descript paramet implic of the result to time
+share system design and program ar discuss and a calcul
+of the optim degre of multiprogram for a wide rang
+of paramet is present graphic cacm june 1969 wallac v
+l mason d l page on demand demand page time
+share multiprogram markovian comput model schedul strategi oper system memori
+manag 2 44 4 32 4 39 6 20 6
+21 ca690601 jb februari 17 1978 1 43 pm

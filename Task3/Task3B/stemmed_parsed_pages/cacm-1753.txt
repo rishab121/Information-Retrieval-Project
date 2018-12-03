@@ -1,0 +1,7 @@
+virtual memori process and share in multic some basic concept
+involv in the design of the multic oper system ar
+introduc multic concept of process address space and virtual memori
+ar defin and the us of page and segment is
+explain the mean by which user mai share procedur and
+data is discuss and the mechan by which symbol refer
+ar dynam

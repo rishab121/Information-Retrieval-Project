@@ -1,0 +1,11 @@
+complex matrix invers versu real a comparison of complex matrix
+with real matrix invers is made it is shown that
+the complex invers can be up to twice as fast
+as the real invers further the round error bound for
+complex invers is about on eighth that of real for
+gaussian elimin us extend inner product accumul the bound is
+half of the real system cacm septemb 1970 ehrlich l
+w complex matrix invers matrix invers invers round error round
+error bound error bound complex round error bound 5 14
+5 11 5 10 ca700907 jb februari 10 1978 10
+19 am

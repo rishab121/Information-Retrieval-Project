@@ -1,0 +1,3 @@
+determin of the squar root of a posit definit matrix
+algorithm 298 f1 cacm march 1967 spath h ca670311b jb
+march 23 1978 4 09 pm

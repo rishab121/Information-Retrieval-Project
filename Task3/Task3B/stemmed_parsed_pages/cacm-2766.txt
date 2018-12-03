@@ -1,0 +1,12 @@
+copi cyclic list structur in linear time us bound workspac
+a bound workspac copi algorithm for arbitrari list structur is
+given thi algorithm oper in linear time and doe not
+requir tag bit the best previou bound workspac copi algorithm
+achiev n 2 time without tag bit and n log
+n time with on tag the onli restrict on the
+algorithm given here is that the copi must be place
+into a contigu section of memori the method is applic
+to fix or variabl size node cacm mai 1975 fisher
+d a list process copi linear time space complex 4
+49 5 25 ca750501 jb januari 9 1978 3 22
+pm

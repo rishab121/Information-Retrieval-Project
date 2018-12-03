@@ -1,0 +1,11 @@
+guard command nondeterminaci and formal deriv of program so call
+guard command ar introduc as a build block for altern
+and repetit construct that allow nondeterminist program compon for which
+at least the activ evok but possibl even the final
+state is not necessarili uniqu determin by the initi state
+for the formal deriv of program express in term of
+these construct a calculu will be shown cacm august 1975
+dijkstra e w program languag sequenc primit program semant program
+languag semant nondeterminaci case construct repetit termin correct proof deriv
+of program program methodolog 4 20 4 22 ca750803 jb
+januari 6 1978 4 46 pm

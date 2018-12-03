@@ -1,0 +1,15 @@
+oper on gener arrai with the geni compil oper on
+vector matric and higher dimension storag arrai ar standard featur
+of most compil todai the element of such structur ar
+usual restrict to be scalar for mani sophist applic thi
+restrict can impos cumbersom data represent an effici system ha
+been devis and implement which allow the element of multidimension
+arrai to themselv be multidimension arrai thi system wa develop
+from a storag structur in which the locat length and
+content of each arrai is describ by a codeword which
+can be interpret by the system code word mai describ
+arrai contain more codeword thu provid all need descript inform
+for hyperstructur of ani form cacm mai 1970 sitton g
+a multidimension arrai matrix oper storag control subscript compil 4
+12 4 29 ca700502 jb februari 13 1978 2 18
+pm

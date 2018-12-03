@@ -1,0 +1,4 @@
+eigenvalu and eigen vector of a real gener matrix algorithm
+343 f cacm februari 1970 knobl h d norm characterist
+equat degener eigen system diagonaliz matrix defect matrix 5 14
+ca700216 jb februari 14 1978 9 43 am

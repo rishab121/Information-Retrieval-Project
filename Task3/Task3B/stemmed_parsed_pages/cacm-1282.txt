@@ -1,0 +1,9 @@
+the us of fortran in subroutin with cobol main program
+by us the proper cobol code techniqu and account for
+differ in storag alloc and librari routin between the two
+languag it is possibl to write fortran iv subroutin that
+mai be call from cobol main program such a techniqu
+enabl the programm to take advantag of the most us
+properti of each languag while minim their respect disadvantag cacm
+april 1965 shavel z a ca650409 jb march 7 1978
+3 52 pm

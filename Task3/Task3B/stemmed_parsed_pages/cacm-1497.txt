@@ -1,0 +1,21 @@
+on the normal requir of divisor in divid and correct
+method thi paper present an analysi on the normal requir
+of the divisor in a divid and correct method thi
+analysi is made subject to the condit that not more
+than on correct is requir to obtain the true quotient
+charact from the trial estim got from the divis of
+a two precis segment of everi partial remaind by a
+suitabl round singl precis divisor thi segment divis is denot
+here as a 2 1 precis basic divis it is
+found that the normal requir could be narrow down to
+a smaller rang of divisor provid the magnitud of the
+charact next to the lead charact of the divisor is
+known if howev the normal is to be elimin on
+ha to choos proper higher precis segment of operand for
+the basic divis also consid is the possibl of elimin
+the normal by an increas on the number of correct
+on the quotient estim got from a 2 1 precis
+basic divis it is shown that such a scheme is
+econom onli for small radic cacm decemb 1967 krishnamurthi e
+v nandi s k ca671210 jb februari 26 1978 2
+15 pm

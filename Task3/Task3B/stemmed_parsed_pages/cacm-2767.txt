@@ -1,0 +1,18 @@
+a comparison of simul event list algorithm four algorithm ar
+consid which can be us to schedul event in a
+gener purpos discret simul system two of the algorithm ar
+new on is base on an end order tree structur
+for event notic and anoth us an index linear list
+the algorithm ar test with a set of typic stochast
+schedul distribut especi chosen to show the advantag and limit
+of the algorithm the end order tree algorithm is shown
+to be an advantag immedi replac for the algorithm in
+us with current simul languag the most promis algorithm us
+the index list concept it will requir an adapt routin
+befor it can be emploi in gener purpos simul but
+it perform is such that further studi would be fruit
+cacm april 1975 vaucher j g duval p simul time
+flow mechan event list algorithm simul time flow mechan event
+list algorithm simul execut event schedul routin discret system simul
+sort 3 74 4 22 8 1 ca750410 jb januari
+9 1978 3 43 pm

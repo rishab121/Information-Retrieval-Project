@@ -1,0 +1,16 @@
+deriv semant for some program languag construct the construct of
+a simpl program languag ar introduc and describ inform in
+term of valu and side effect a translat is defin
+which translat the languag into flowchart for a simpl machin
+the action of the machin in execut a flowchart is
+defin a proof is construct that the effect of translat
+and execut ani program can be express sole in term
+of the valu and side effect of the program dure
+the cours of construct the proof formal definit of the
+concept of valu and side effect ar deriv in order
+to make the proof rigor correct of the implement involv
+check that the definit deriv in the step abov ar
+an accept formal of the inform descript given in the
+first step cacm novemb 1972 henderson p lambda calculu formal
+descript program correct program languag semant 4 22 5 23
+5 24 ca721105 jb januari 27 1978 2 19 pm

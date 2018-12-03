@@ -1,0 +1,14 @@
+remark on the practic solut of characterist valu problem thi
+paper is concern with the practic solut of characterist valu
+problem for an ordinari differenti equat it is at onc
+appar that sequenti comput be thei digit or analog solv
+initi valu problem rather than boundari valu problem and some
+mathemat process must be found to compens for the machin
+s inadequaci compens for machin imperfect is of cours the
+normal activ of the numer analyst a number of other
+paper have appli particular devic to particular problem the purpos
+of thi note is to establish a mathemat framework or
+model for these practic procedur and thu assist in the
+us and extens of the idea in other particular problem
+cacm june 1959 wouk a ca590606 jb march 22 1978
+6 30 pm

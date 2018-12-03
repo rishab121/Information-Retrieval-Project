@@ -1,0 +1,13 @@
+interpol search a log logn search interpol search is a
+method of retriev a desir record by kei in an
+order file by us the valu of the kei and
+the statist distribut of the kei it is shown that
+on the averag log logn file access ar requir to
+retriev a kei assum that the n kei ar uniformli
+distribut the number of extra access is also estim and
+shown to be veri low the same hold if the
+cumul distribut function of the kei is known comput experi
+confirm these result cacm juli 1978 perl y itai a
+avni h averag number of access binari search databas interpol
+search retriev search uniform distribut 4 4 4 6 5
+25 ca780704 dh februari 7 1979 4 50 pm

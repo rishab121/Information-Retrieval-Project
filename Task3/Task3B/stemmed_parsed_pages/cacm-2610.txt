@@ -1,0 +1,13 @@
+gauss harmon interpol formula let r be an open bound
+simpli connect region in the x y plane and let
+x y be a point in r assum r is
+starlik with respect to x y we discuss a method
+for comput gauss harmon interpol formula for r and the
+point x y such formula approxim a harmon function at
+x y in term of a linear combin of it
+valu at certain select point on the boundari of r
+such formula ar us for approxim the solut of the
+dirichlet problem for r cacm august 1974 stroud a h
+interpol quadratur harmon interpol harmon quadratur dirichlet problem 5 13
+5 16 5 17 ca740814 jb januari 17 1978 9
+23 am

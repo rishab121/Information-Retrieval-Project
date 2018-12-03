@@ -1,0 +1,5 @@
+thoth a portabl real time oper system thoth isa real
+time oper system which is design to be portabl over
+a larg set of machin it is current run on
+two minicomput with quit differ architectur both the system and
+applic program

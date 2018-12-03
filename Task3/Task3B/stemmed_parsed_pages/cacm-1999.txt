@@ -1,0 +1,8 @@
+optim start approxim for gener squar root for slow or
+no divid on machin with slow or no divis it
+is prefer to us an iter scheme for the squar
+root differ from the classic heron scheme the problem of
+optim initi approxim is consid and some optim polynomi initi
+approxim ar tabul cacm septemb 1970 wilson m w squar
+root newton raphson iter optim approxim 5 13 ca700906 jb
+februari 10 1978 1 33 pm

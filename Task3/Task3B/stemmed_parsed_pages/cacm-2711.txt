@@ -1,0 +1,16 @@
+a vector space model for automat index in a document
+retriev or other pattern match environ where store entiti document
+ar compar with each other or with incom pattern search
+request it appear that the best index properti space is
+on where each entiti li as far awai from the
+other as possibl in these circumst the valu of an
+index system mai be express as a function of the
+densiti of the object space in particular retriev perform mai
+correl invers with space densiti an approach base on space
+densiti comput is us to choos an optimum index vocabulari
+for a collect of document typic evalu result ar shown
+demonstr the us of the model cacm novemb 1975 salton
+g wong a yang c s automat inform retriev automat
+index content analysi document space 3 71 3 73 3
+74 3 75 ca751101 jb januari 6 1978 10 14
+am

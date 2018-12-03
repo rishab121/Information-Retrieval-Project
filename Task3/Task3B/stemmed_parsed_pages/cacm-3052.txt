@@ -1,0 +1,22 @@
+cold start vs warm start miss ratio in a two
+level comput storag hierarchi miss ratio measur ar often made
+from a cold start that is made with the first
+level store initi empti for larg capac the effect on
+the measur miss ratio of the miss incur while fill
+the first level store can be signific even for long
+refer string us of warm start rather than cold start
+miss ratio cast doubt on the widespread belief that the
+observ s shape of lifetim reciproc of miss ratio versu
+capac curv indic a properti of behavior of program that
+maintain a constant number of page in main storag on
+the other hand if cold start miss ratio ar measur
+as a function of capac and measur length then thei
+ar us in studi system in which oper of a
+program is period interrupt by task switch it is shown
+how to obtain under simpl assumpt the cach miss ratio
+for multiprogram from cold start miss ratio valu and how
+to obtain approxim cold start miss ratio from warm start
+miss ratio cacm octob 1978 easton m fagin r miss
+ratio cold start warm start storag hierarchi lifetim function multiprogram
+s shape 3 70 4 32 9 35 ca781009 dh
+januari 29 1979 5 16 pm

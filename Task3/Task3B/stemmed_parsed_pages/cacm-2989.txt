@@ -1,0 +1,6 @@
+empir evalu of some featur of instruct set processor architectur
+thi paper present method for empir evalu of featur of
+instruct set processor isp isp featur ar evalu in term
+of the time us or save by have or not
+have the featur the method ar base on analysi of
+trace of program

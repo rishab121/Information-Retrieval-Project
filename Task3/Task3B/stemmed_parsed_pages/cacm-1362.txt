@@ -1,0 +1,17 @@
+code extens in ascii an asa tutori the american standard
+code for inform interchang ascii contain a number of control
+charact associ with the principl of code extens that is
+with the represent of inform which cannot be directli repres
+by mean of the charact in the code the manner
+of us of these charact ha not previous been complet
+describ thi paper present a set of mutual consist philosophi
+regard code extens applic and suggest a corollari set of
+doctrin for the applic of the code extens charact distinct
+ar drawn between code extens and such other concept as
+graphic substitut or syntact represent which ar often us to
+meet similar requir also cover ar certain topic which ar
+not truli concern with code extens but which ar often
+link with it in discuss on code applic the materi
+in thi paper is equal applic in principl to the
+propos iso intern 7 bit code for inform interchang cacm
+octob 1966 ca661005 jb march 2 1978 4 02 pm

@@ -1,0 +1,16 @@
+eliza a comput program for the studi ofnatur languag commun
+between man and machin eliza is a program oper within
+the mac time share system at mit which make certain
+kind of natur languag convers between man and comput possibl
+input sentenc ar analyz on the basi of decomposit rule
+which ar trigger by kei word appear in the input
+text respons ar gener by reassembl rule associ with select
+decomposit rule the fundament technic problem with which eliza is
+concern ar 1 the identif of kei word 2 the
+discoveri of minim context 3 the choic of appropri transform
+4 gener of respons in the absenc of kei word
+and 5 the provis of an edit capabl for eliza
+script a discuss of some psycholog issu relev to the
+eliza approach as well as of futur develop conclud the
+paper cacm januari 1966 weizenbaum j ca660108 jb march 3
+1978 4 00 pm

@@ -1,0 +1,15 @@
+on accur float point summat the accumul of float point
+sum is consid on a comput which perform t digit
+base b float point addit with expon in the rang
+m to m an algorithm is given for accur sum
+n t digit float point number each of these n
+number is split into q part form qn t digit
+float point number each of these is then ad to
+the appropri on of n auxiliari t digit accumul final
+the accumul ar ad togeth to yield the comput sum
+in all qn n 1 t digit float point addit
+ar perform under usual condit the rel error in the
+comput sum is at most t 1 v b 1
+t for some v further with an addit q n
+1 t digit addit the comput sum can be correct
+to full t digit accuraci for exam

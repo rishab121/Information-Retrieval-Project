@@ -1,0 +1,4 @@
+an algorithm for identifi the ergod subchain and transient state
+of a stochast matrix an algorithm for identifi the ergod
+subchain and transient state of a stochast matrix is present
+applic in markov renew program

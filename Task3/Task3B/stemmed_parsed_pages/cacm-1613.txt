@@ -1,0 +1,13 @@
+on pass compil of arithmet express for a parallel processor
+under the assumpt that a processor mai have a multipl
+of arithmet unit a compil for such a processor should
+produc object code to take advantag of possibl parallel of
+oper most of the present known compil techniqu ar inadequ
+for such a processor becaus thei produc express structur that
+must be evalu serial a techniqu is present here for
+compil arithmet express into structur that can be evalu with
+a high degre of parallel the algorithm is a variant
+of the so call top down analysi techniqu and requir
+onli on pass of the input text cacm april 1967
+stone h s ca670402 jb februari 28 1978 11 36
+am

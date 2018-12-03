@@ -1,0 +1,4 @@
+product type three point gauss legendr simpson s integr d1
+algorithm a439 cacm decemb 1972 boland w r numer integr
+product type quadratur gaussian quadratur simpson s rule 5 16
+ca721214 jb januari 27 1978 9 06 am

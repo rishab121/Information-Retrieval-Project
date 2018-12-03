@@ -1,0 +1,12 @@
+protect and the control of inform share in multic the
+design of mechan to control the share of inform in
+the multic system is describ five design principl help provid
+insight into the tradeoff among differ possibl design the kei
+mechan describ includ access control list hierarch control of access
+specif identif and authent of user and primari memori protect
+the paper end with a discuss of sever known weak
+in the current protect mechan design cacm juli 1974 saltzer
+j h multic protect secur privaci access control authent comput
+util time share system proprietari program protect subsystem virtual memori
+descriptor 3 70 4 30 6 2 ca740705 jb januari
+17 1978 12 49 pm

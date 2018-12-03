@@ -1,0 +1,23 @@
+control procedur for data commun an asa progress report section
+committe x 3 of the american standard associ ha charg
+on of it task group x3 3 4 with the
+respons to defin and specifi function control requir and characterist
+govern the oper of digit data gener and receiv system
+interconnect by commun system thi effort is primarili direct toward
+system emploi the american standard code for inform interchang ascii
+thi paper repres a progress report on the work of
+thi group toward a propos for nation and intern standard
+in the field of control procedur it describ both the
+old and new work of the task group the new
+work is present in detail while the work that ha
+been present in earlier paper control procedur for data commun
+task group document x3 3 4 44 mai 1964 transpar
+mode control procedur for data commun task group document x3
+3 4 58 decemb 1964 comm acm 8 apr 1965
+203 206 control procedur for data commun task group document
+x3 3 4 60 march 1965 is retain here in
+summari form mani of the concept and principl describ herein
+have been submit to the intern organ for standard via
+earlier paper and ar now embodi in work paper of
+that organ cacm februari 1966 ca660208jb march 3 1978 3
+04 pm

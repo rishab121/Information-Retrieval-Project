@@ -1,0 +1,6 @@
+practic syntact error recoveri thi paper describ a recoveri scheme
+for syntax error which provid automat gener high qualiti recoveri
+with good diagnost inform at rel low cost previou recoveri
+techniqu ar summar and empir comparison ar made suggest for
+further research on thi topic conclud the paper cacm novemb
+1975 graham

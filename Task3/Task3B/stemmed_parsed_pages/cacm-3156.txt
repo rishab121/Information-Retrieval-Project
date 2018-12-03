@@ -1,0 +1,12 @@
+comput connect compon on parallel comput we present a parallel
+algorithm which us n2 processor to find the connect compon
+of an undirect graph with n vertic in time o
+log2n an o log2n time bound also can be achiev
+us onli n n log2n processor the algorithm can be
+us to find the transit closur of a symmetr boolean
+matrix we assum that the processor have access to a
+common memori simultan access to the same locat is permit
+for fetch instruct but not for store instruct cacm august
+1979 hirschberg d chandra a sarwat d graph theori parallel
+process algorithm transit closur connect compon 5 25 5 32
+6 22 ca790802 db januari 4 1980 12 18 pm

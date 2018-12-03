@@ -1,0 +1,9 @@
+algorithm to reveal properti of float point arithmet two algorithm
+ar present in the form of fortran subroutin each subroutin
+comput the radix and number of digit of the float
+point number and whether round or chop is done by
+the machin on which it is run the method ar
+shown to work on ani reason float point comput cacm
+novemb 1972 malcolm m a float point arithmet high level
+languag philosophi of languag design 4 9 5 19 ca721102
+jb januari 27 1978 2 39 pm

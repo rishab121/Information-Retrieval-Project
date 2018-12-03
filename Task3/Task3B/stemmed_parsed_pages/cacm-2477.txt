@@ -1,0 +1,2 @@
+multipl exit from a loop without the goto cacm juli
+1973 bochmann g v control structur goto free program

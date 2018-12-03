@@ -1,0 +1,8 @@
+recurs analysi for compil optim a rel simpl method for
+the detect of recurs us of procedur is present for
+us in compil optim implement consider ar discuss and a
+modif of the algorithm is given to further improv optim
+thi analysi can also be us to determin what possibl
+subset of valu could be assum by variabl which can
+onli take on a rel small discret set of valu
+the most common ar param

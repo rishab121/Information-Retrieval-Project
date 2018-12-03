@@ -1,0 +1,15 @@
+a microprogram implement of euler on ibm system 360 model
+30 an experiment process system for the algorithm languag euler
+ha been implement in microprogram on an ibm system 360
+model 30 us a second read onli storag unit the
+system consist of a microprogram compil and a microprogram string
+languag interpret and of an i o control program written
+in 360 machin languag the system is describ and result
+ar given in term of microprogram and main storag space
+requir and compil and interpret perform obtain the role of
+microprogram is stress which open a new dimens in the
+process of interpret code the structur and content of a
+higher level languag can be match by an appropri interpret
+languag which can be execut effici by microprogram on exist
+comput hardwar cacm septemb 1967 weber h ca670904 jb februari
+27 1978 3 44 pm

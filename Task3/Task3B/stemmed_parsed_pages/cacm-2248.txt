@@ -1,0 +1,11 @@
+a new method for the solut of the cauchi problem
+for parabol equat an integr equat represent is given for
+parabol partial differenti equat when the equat ar defin in
+unbound domain as in the initi valu cauchi problem the
+solut of the integr equat by the method of success
+approxim ha inher advantag over other method error bound for
+the method ar of order h 3 2 and h
+7 2 hi the increment size depend on the finit
+differ approxim involv cacm decemb 1972 moor j robinson p
+parabol equat the cauchi problem method of success approxim 5
+17 ca721207 jb januari 27 1978 11 13 am

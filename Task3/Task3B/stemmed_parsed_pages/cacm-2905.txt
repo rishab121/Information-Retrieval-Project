@@ -1,0 +1,24 @@
+perfect hash function a singl probe retriev method for static
+set a refin of hash which allow retriev of an
+item in a static tabl with a singl probe is
+consid given a set i of identifi two method ar
+present for build in a mechan wai perfect hash function
+i e function transform the element of i into uniqu
+address the first method the quotient reduct method is shown
+to be complet in the sens that for everi set
+i the smallest tabl in which the element of i
+can be store and from which thei can be retriev
+by us a perfect hash function construct by thi method
+can be found howev for nonuniformli distribut set thi method
+can give rather spars tabl the second method the remaind
+reduct method is not complet in the abov sens but
+it seem to give minim or almost minim tabl for
+everi kind of set the two techniqu ar applic directli
+to small set some method to extend these result to
+larger set ar also present a rough comparison with ordinari
+hash is given which show that thi method can be
+us conveni in sever practic applic cacm novemb 1977 sprugnoli
+r hash hash method hash code direct address identifi to
+address transform perfect hash function perfect hash code reduct scatter
+storag 3 7 3 74 4 34 ca771111 jb decemb
+27 1977 6 45 am

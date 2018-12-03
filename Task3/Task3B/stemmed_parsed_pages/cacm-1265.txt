@@ -1,0 +1,19 @@
+on the rel effici of context free grammar recogn a
+number of divers recognit procedur that have been propos for
+pars sentenc with respect to a context free grammar ar
+describ in thi paper by mean of a common devic
+each procedur is defin by give an algorithm for obtain
+a nondeterminist ture machin recogn that is equival to a
+given context free grammar the formal of the ture machin
+ha been chosen to make possibl particularli simpl descript of
+the pars procedur consid an attempt ha been made to
+compar recognit effici for the procedur defin for a few
+simpl grammar and sentenc a formal comparison ha been made
+empir comparison of the recognit of more realist program languag
+such as lisp and algol ha been made by mean
+of a program which simul the ture machin on the
+univac m 460 comput sever algorithm for produc grammar equival
+to a given context free grammar have been consid and
+the increas in recognit effici thei afford ha been empir
+investig cacm mai 1965 griffith t v petrick s r
+ca650506 jb march 7 1978 2 38 pm

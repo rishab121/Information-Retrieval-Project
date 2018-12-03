@@ -1,0 +1,16 @@
+high speed compil of effici object code a three pass
+compil with the follow properti is briefli describ the last
+two pass scan an intermedi languag produc by the preced
+pass in essenti the revers of the order in which
+it wa gener so that the first pass is the
+onli on which hasto read the bulki problem orient input
+the doubl scan on in either direct perform by the
+first two pass allow the compil to remov local constant
+express and recurs calcul express from loop and to do
+the import part of common subexpress recognit optim such as
+the effect us of index regist although as import is
+not discuss sinc the object code which would be most
+effici is highli machin depend the discuss is in term
+of a fortran like languag although the techniqu is applic
+to most algebra languag cacm august 1965 gear c w
+ca650801 jb march 6 1978 8 45 pm

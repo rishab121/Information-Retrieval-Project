@@ -1,0 +1,17 @@
+optim of express in fortran a method of optim the
+comput of arithmet and index express of a fortran program
+is present the method is base on a linear analysi
+of the definit point of the variabl and the branch
+and do loop structur of the program the object of
+the process ar 1 to elimin redund calcul when refer
+ar made to common subexpress valu 2 to remov invari
+calcul from do loop 3 to effici comput subscript contain
+do iter variabl and 4 to provid effici index regist
+usag the method present requir at least a three pass
+compil the second of which is scan backward it ha
+been us in the develop of sever fortran compil that
+have prove to produc excel object code without significantli reduc
+the compil speed cacm decemb 1969 busam v a england
+d e fortran optim express compil compil subscript regist alloc
+do loop common subexpress invari calcul 4 12 ca691205 jb
+februari 15 1978 4 16 pm

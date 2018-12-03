@@ -1,0 +1,13 @@
+practic error coeffici for estim quadratur error for analyt function
+all publish error coeffici for estim quadratur error for analyt
+function were comput on the assumpt that the quadratur rule
+wa exact for polynomi up to a given degre sinc
+these rule us round valu for the abscissa and weight
+and sinc the true valu of the integr of some
+of the polynomi in question have an infinit binari express
+the quadratur rule is not exact henc these error must
+be taken into consider in comput practic error coeffici cacm
+januari 1968 rabinowitz p numer integr quadratur truncat error theoret
+error coeffici practic error coeffici integr analyt function roundoff error
+5 11 5 16 ca680110 jb februari 23 1978 2
+22 pm

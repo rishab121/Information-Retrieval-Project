@@ -1,0 +1,17 @@
+further experiment data on the behavior of program in a
+page environ result ar summar from an empir studi direct
+at the measur of program oper behavior in those multiprogram
+system in which program ar organ into fix length page
+the data collect from the interpret execut of a number
+of page program ar us to describ the frequenc of
+page fault i e the frequenc of those instant at
+which an execut program requir a page of data or
+instruct not in main core memori these data ar us
+also for the evalu of page replac algorithm and for
+assess the effect on perform of chang in the amount
+of storag alloc to execut program cacm juli 1968 coffman
+e g varian l c page system page dynam program
+behavior program behavior virtual memori system singl level storag on
+level storag oper system simul oper system supervisor simul machin
+languag program interpret 4 13 4 32 4 39 4
+9 ca680701 jb februari 22 1978 3 13 pm

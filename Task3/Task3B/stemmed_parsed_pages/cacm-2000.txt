@@ -1,0 +1,14 @@
+a variat of the goodman lanc method for the solut
+of two point boundari valu problem a recent publish method
+for the interpol solut of nonlinear equat is improv and
+appli to give a signific variat of the goodman lanc
+method for the solut of two point boundari valu problem
+the result method appli in particular to the numer solut
+of optim control problem in the euler lagrang formul quantit
+estim ar present which indic that the variat is nearli
+twice as fast on some problem in the latter context
+cacm septemb 1970 kimbl g w goodman lanc boundari valu
+problem newton s method nonlinear equat optim control optim ordinari
+differenti equat secant method interpol solut orthogon matric 3 21
+5 15 5 17 ca700905 jb februari 10 1978 1
+39 pm

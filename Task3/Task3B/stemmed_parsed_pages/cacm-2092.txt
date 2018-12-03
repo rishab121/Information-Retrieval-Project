@@ -1,0 +1,22 @@
+a deduct question answer for natur languag infer the question
+answer aspect of the protosynthex iii pro totyp languag process
+system ar describ and exemplifi in detail the system is
+written in lisp 1 5 and oper on the q
+32 time share system the system s data structur and
+their semant organ the deduct question answer formal of relat
+properti and complex relat form oper and the question answer
+procedur which emploi these featur in their oper ar all
+describ and illustr exampl of the system s perform and
+of the limit of it question answer capabl ar present
+and discuss it is shown that the us of semant
+inform in deduct question answer greatli facilit the process and
+that a top down procedur which work from question to
+answer enabl effect us to be made of thi inform
+it is conclud that the develop of protosynthex iii into
+a practic us system to work with larg data base
+is possibl but will requir chang in both the data
+structur and the algorithm us for question answer cacm march
+1970 schwarcz r m burger j f simmon r f
+question answer natur languag protosynthex iii lisp semant artifici intellig
+comput linguist languag process fact retriev 3 42 3 61
+ca700306 jb februari 13 1978 4 30 pm

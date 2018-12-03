@@ -1,0 +1,15 @@
+automat segment of cyclic program structur base on connect and
+processor time time share multiprogram and overlai batch system frequent
+requir segment of comput program into discret portion these program
+portion ar transfer between execut and peripher storag whenev necessari
+segment of program s in a manner that reduc the
+frequenc of such transfer is the subject of thi paper
+segment techniqu propos by c v ramamoorthi ar subject to
+limit that aris when the prefer segment size is not
+compat with the physic restrict impos by the avail comput
+equip a gener of ramamoorthi s suggest is made in
+order to allow their applic when circumst ar other than
+ideal cacm januari 1970 low t c automat segment cyclic
+program structur loop page multiprogram loader assembl compil time share
+program connect 4 19 5 24 5 32 ca700101 jb
+februari 14 1978 2 20 pm

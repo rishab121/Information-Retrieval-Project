@@ -1,0 +1,7 @@
+a class of iter techniqu for the factor of polynomi
+a method of iter is develop in term of a
+function of somewhat arbitrari charact suffici condit ar given for
+converg of the process yield factor of arbitrari degre for
+polynomi in on variabl both lin s method and newton
+s method occur as special case cacm march 1964 luther
+h a ca640321 jb march 10 1978 2 10 am

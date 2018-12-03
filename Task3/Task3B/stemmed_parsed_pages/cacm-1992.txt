@@ -1,0 +1,2 @@
+comment on bell s quadrat quotient method for hash code
+search cacm septemb 1970 lam

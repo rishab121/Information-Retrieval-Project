@@ -1,0 +1,15 @@
+databas abstract aggreg aggreg is in troduc as an abstract
+which is import in conceptu the real world aggreg transform
+a relationship between object into a higher level object a
+new data type call aggreg is develop which under certain
+criteria of well defined specifi aggreg abstract relat databas defin
+as collect of aggreg ar structur as a hierarchi on
+n ari relat to main tain well defined updat oper
+on such databas must preserv two invari well defin relat
+ar distinct from relat in third normal form it is
+shown that these notion ar complementari and both ar import
+in databas design a top down methodolog for databas design
+is describ which separ decis concern aggreg structur from decis
+concern kei identif it is suggest that aggreg type and
+other type which support real world abstract without in troduc
+implement detail should be incorpor into program

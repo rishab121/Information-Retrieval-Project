@@ -1,0 +1,9 @@
+how to share a secret in thi paper we show
+how to divid data d into n piec in such
+a wai that d is easili reconstruct from ani k
+piec but even complet knowledg of k 1 piec reveal
+olut no inform about d thi techniqu enabl the construct
+of robust kei manag scheme for cryptograph system that can
+function secur and reliabl even when misfortun destroi half the
+piec and secur breach expos all but on of the
+remain piec cacm novemb 1979 sham

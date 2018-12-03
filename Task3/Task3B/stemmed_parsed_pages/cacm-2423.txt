@@ -1,0 +1,4 @@
+a parser gener system for construct compress compil thi paper
+describ a parser gener system pg current in us on
+the cdc 6500 comput at purdu univers the pg is
+a fortran code compil in the input translat gram

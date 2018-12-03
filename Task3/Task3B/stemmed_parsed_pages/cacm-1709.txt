@@ -1,0 +1,10 @@
+a modif of efroymson s techniqu for stepwis regress analysi
+the comput techniqu convention us for stepwis multipl linear regress
+requir the storag of an n x n matrix of
+data when the number of variabl n is larg thi
+requir tax the storag capac of present us machineri the
+near symmetri of the matric involv permit a modif requir
+onli half the storag and comput of the convent algorithm
+and thi addit storag allow the analysi of problem contain
+more variabl altern it permit the analysi of problem contain
+the sam

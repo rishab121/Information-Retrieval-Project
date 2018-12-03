@@ -1,0 +1,5 @@
+remark on characterist valu and associ solut of mathieu differenti
+equat exponenti integr and system of hyperbol p algorithm r352
+r385 r392 cacm decemb 1972 frisch m j ansi fortran
+standard 4 0 4 22 ca721219 jb januari 27 1978
+8 56 am

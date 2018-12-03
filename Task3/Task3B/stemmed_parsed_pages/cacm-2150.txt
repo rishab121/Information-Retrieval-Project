@@ -1,0 +1,12 @@
+concurr control with reader and writer the problem of the
+mutual exclus of sever independ process from simultan access to
+a critic section is discuss for the case where there
+ar two distinct class of process known as reader and
+writer the reader mai share the section with each other
+but the writer must have exclus access two solut ar
+present on of the case where we wish minimum delai
+for the reader the other for the case where we
+wish write to take place as earli as possibl cacm
+octob 1971 couroi p j heyman f parna d l
+mutual exclus critic section share access to resourc 4 30
+4 32 ca711006 jb februari 2 1978 11 58 am

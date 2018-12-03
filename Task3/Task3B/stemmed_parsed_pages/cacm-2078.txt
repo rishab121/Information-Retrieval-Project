@@ -1,0 +1,11 @@
+represent for space plan problem involv the arrang of object
+in two or three space where the object function primarili
+consist of deriv of the distanc between object or their
+arrang ar call space plan problem the represent requir for
+thi problem area ar defin and compar with current comput
+graphic languag four altern data structur that allow autom space
+plan ar describ and compar cacm april 1970 eastman c
+m autom design data structur comput graphic comput aid design
+engin design architectur design robot 3 20 3 2 2
+3 26 3 41 3 63 ca700406 jb februari 13
+1978 3 03 pm

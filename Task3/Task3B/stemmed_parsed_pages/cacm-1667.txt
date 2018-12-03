@@ -1,0 +1,5 @@
+root of polynomi by a root squar and result routin
+algorithm 340 c2 cacm novemb 1968 noltemei a root finder
+root of polynomi equat polynomi zero root squar oper graeff
+method result procedur subresult procedur test of root accept criteria
+5 15 ca681112 jb februari 21 1978 2 24 pm

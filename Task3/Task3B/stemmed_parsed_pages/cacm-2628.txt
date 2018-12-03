@@ -1,0 +1,20 @@
+minim total process time drum and disk schedul disciplin thi
+articl investig the applic of minim total process time mtpt
+schedul disciplin to rotat storag unit when random arriv of
+request is allow fix head drum and move head drum
+and move head disk storag unit ar consid and emphasi
+is place on the rel merit of the mtpt schedul
+disciplin with respect to the shortest latenc time first sltf
+schedul disciplin the result of the simul studi present show
+that neither schedul disciplin is uncondition superior to the other
+for most fix head drum applic the sltf disciplin is
+prefer to mtpt but for intra cylind disk schedul the
+mtpt disciplin offer a distinct advantag over the sltf disciplin
+the comput requir of an algorithm that implement the mtpt
+schedul disciplin ar shown to be compar to sltf algorithm
+in both case the sort procedur is the most time
+consum phase of the algorithm cacm juli 1974 fuller s
+h drum schedul disk schedul shortest latenc time first sltf
+minim total process time mtpt rotat storag unit 4 31
+4 41 6 34 6 35 ca740703 jb januari 17
+1978 1 07 pm

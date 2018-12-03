@@ -1,0 +1,5 @@
+gamma function gamma function for rang 1 to 2 reciproc
+gamma function to real argument gamma function logarithm of gamma
+function algorithm 34 s14 54 s14 80 s14 221 s14
+291 s14 cacm septemb 1966 pike m c hill i
+d ca660909d jb march 23 1978 4 28 pm

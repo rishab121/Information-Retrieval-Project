@@ -1,0 +1,11 @@
+quikscript a simscript like languag for the g 20 quikscript
+is a simul languag base on simscript and program entir
+in an algebra languag 20 gate the quikscript languag it
+intern implement and major differ between quikscript and simscript ar
+present thi paper is not a program guid to the
+languag but rather an attempt to present it flavor a
+brief descript of simscript is includ as is a suffici
+descript of 20 gate to render thi materi understand to
+the reader familiar with algebra languag cacm june 1965 tong
+f m keller p newel a ca650602 jb march 7
+1978 12 45 pm

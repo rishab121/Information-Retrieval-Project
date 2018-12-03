@@ -1,0 +1,18 @@
+an overview of the ispl comput system design thi paper
+explor the advantag of the concurr design of the languag
+oper system and machin via microcod to creat an interact
+program laboratori it describ the synergist effect that the freedom
+to move and alter featur from on of these domain
+to anoth ha had on the design of thi system
+which ha not been implement thi freedom simplifi both increment
+compil and the system s address structur and central the
+commun mechan enabl the construct of hierarch subsystem it also
+suggest an import new concept for oper system separ of
+the schedul from the mainten function in resourc alloc thi
+separ enabl incorpor of new schedul algorithm decis of what
+to do without endang the system integr correctli perform the
+schedul decis cacm februari 1973 balzer r m concurr design
+oper system schedul interprogram commun increment compil virtual address debug
+hierarch subsystem 4 0 4 13 4 22 4 30
+4 32 4 41 4 42 6 20 ca730207 jb
+januari 24 1978 1 59 pm

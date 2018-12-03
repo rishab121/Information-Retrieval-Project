@@ -1,0 +1,16 @@
+the develop of the mu5 comput system follow a brief
+outlin of the background of the mu5 project the aim
+and idea for mu5 ar discuss a descript is then
+given of the instruct set which includ a number of
+featur conduc to the product of effici compil code from
+high level languag sourc program the design of the processor
+is then trace from the initi idea for an associ
+address name store to the final multistag pipelin structur involv
+a predict mechan for instruct prefetch and a function queue
+for arrai element access an overal view of the complet
+mu5 complex is present togeth with a brief indic of
+it perform cacm januari 1978 ibbett r capon p architectur
+name virtual storag instruct set descriptor pipelin instruct buffer associ
+storag function queue comput complex 4 10 4 12 6
+21 6 33 ca780103 jb march 28 1978 5 44
+pm

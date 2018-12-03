@@ -1,0 +1,13 @@
+synthes constraint express a constraint network represent is present for
+a combinatori search problem find valu for a set of
+variabl subject to a set of constraint a theori of
+consist level in such network is formul which is relat
+to problem of backtrack tree search effici an algorithm is
+develop that can achiev ani level of consist desir in
+order to preprocess the problem for subsequ backtrack search or
+to function as an altern to backtrack search by explicitli
+determin all solut cacm novemb 1978 freuder e backtrack combinatori
+algorithm constraint network constraint satisfact graph color network consist relax
+scene label search 3 63 3 64 5 25 5
+30 5 32 ca781111 dh januari 22 1979 3 43
+pm

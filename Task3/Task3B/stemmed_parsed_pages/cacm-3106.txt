@@ -1,0 +1,15 @@
+a fast algorithm for copi list structur an algorithm is
+present for copi an arbitrarili link list structur into a
+block of contigu storag locat without destroi the origin list
+apart from a fix number of program variabl no auxiliari
+storag such as a stack is us the algorithm need
+no mark bit and oper in linear time it is
+shown to be significantli faster than fisher s algorithm the
+fastest previou linear time algorithm for the same problem it
+speed come mainli from it effici list travers techniqu which
+fold the process stack into the structur be built and
+from it classif of list cell into nine type which
+enabl process oper to be optim for each type cacm
+mai 1978 clark d list copi lisp space complex constant
+workspac 4 34 4 49 5 25 ca780501 dh februari
+26 1979 3 25 pm

@@ -1,0 +1,17 @@
+interfer in multiprocessor comput system with interleav memori thi paper
+analyz the memori interfer caus by sever processor simultan us
+sever memori modul exect result ar comput for a simpl
+model of such a system the limit valu is deriv
+for the rel degre of memori interfer as the system
+size increas the model of the limit behavior of the
+system yield approxim result for the simpl model and also
+suggest that the result ar valid for a much larger
+class of model includ those more nearli like real system
+that the simpl model ar test against some measur of
+program behavior and simul of system us memori refer from
+real program the model result provid a good indic of
+the perform that should be expect from real system of
+thi type cacm june 1976 baskett f smith a j
+memori memori interfer multiprocess interleav memori trace driven simul 4
+32 6 21 6 34 8 1 ca760603 jb januari
+4 1978 2 19 pm

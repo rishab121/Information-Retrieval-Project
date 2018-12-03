@@ -1,0 +1,11 @@
+a highli parallel algorithm for approxim all zero of a
+polynomi with onli real zero an algorithm is describ base
+on newton s method which simultan approxim all zero of
+a polynomi with onli real zero the algorithm which is
+conceptu suitabl for parallel comput determin it own start valu
+so that converg to the zero is guarante multipl zero
+and their multipl ar readili determin at no point in
+the method is polynomi deflat us cacm novemb 1972 patrick
+m l parallel numer algorithm real polynomi real zero newton
+s method start valu guarante converg 5 15 ca721103 jb
+januari 27 1978 2 35 pm

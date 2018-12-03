@@ -1,0 +1,12 @@
+a method of syntax check algol 60 a syntax checker
+wa design base on the syntax of algol as describ
+in the algol 60 report commun of the acm mai
+1960 sinc the definit of the element of the languag
+is recurs it seem most desir to design the syntax
+checker as a set of mutual recurs processor ti togeth
+by subroutin which perform certain bookkeep function becaus of the
+recurs natur of the languag and of the syntax checker
+the problem of recoveri after an error requir much attent
+a method wa devis which permit most program to be
+check complet despit error cacm august 1964 lietzk m p
+ca640805 jb march 9 1978 7 24 pm

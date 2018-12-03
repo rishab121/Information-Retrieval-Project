@@ -1,0 +1,14 @@
+a compil build system develop by brooker and morri in
+a number of articl publish dure the past two year
+r a brooker and d morri join by j rohl
+in their most recent paper have present a veri interest
+program system that thei have develop for the ferranti atla
+comput the present paper describ some of the major featur
+of their system it expand on some point that the
+origin author cover briefli and treat onli veri lightli some
+topic to which thei devot consider space the purpos of
+thi paper is pure expositori except in some veri small
+detail and in some comment it doe not intention depart
+from or add to the materi publish in the list
+refer cacm juli 1964 rosen s ca640701 jb march 9
+1978 8 47 pm

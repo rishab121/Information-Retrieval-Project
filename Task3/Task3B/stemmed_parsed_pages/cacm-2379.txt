@@ -1,0 +1,15 @@
+the design of the venu oper system the venu oper
+system is an experiment multiprogram system which support five or
+six concurr user on a small comput the system wa
+produc to test the effect of machin architectur on complex
+of softwar the system is defin by a combin of
+microprogram and softwar the microprogram defin a machin with some
+unusu architectur featur the softwar exploit these featur to defin
+the oper system as simpli as possibl in thi paper
+the develop of the system is describ with particular emphasi
+on the principl which guid the design cacm march 1972
+liskov b h oper system system design level of abstract
+machin architectur microprogram segment semaphor multiprogram virtual machin process process
+commun virtual devic data share resourc manag deadlock 4 30
+4 32 4 41 6 21 ca720302 jb januari 31
+1978 3 16 pm

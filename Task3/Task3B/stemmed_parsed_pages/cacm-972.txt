@@ -1,0 +1,20 @@
+an execut system implement as a finit state automaton the
+473l command and control system us by the air forc
+permit mani oper to access larg data file through the
+us of a comput the man machin interfac is satisfi
+by sever commun consol from which oper mai enter queri
+and view repli a data link permit remot station to
+send messag statu report and inventori directli to the comput
+the inform receiv over the on line data link is
+us to updat the data file which ar store on
+disk the 473l program system is divid into an execut
+control program and five compon with differ process prioriti these
+prioriti permit the system to be most sensit to the
+consol input and permit the oper at all the consol
+to time share the central processor the execut control program
+provid for the orderli transit of control among the program
+system compon the major emphasi of the paper is on
+the techniqu of us the definit of a finit state
+automaton for organ the execut control program cacm novemb 1964
+heistand r e ca641111 jb march 9 1978 3 56
+pm

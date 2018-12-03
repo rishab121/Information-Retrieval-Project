@@ -1,0 +1,4 @@
+eigenvalu and eigenvector of a real symmetr matrix algorithm 384
+f2 cacm decemb 1970 stewart g w real symmetr matrix
+eigenvalu eigenvector qr algorithm 5 14 ca701209 jb februari 9
+1978 3 08 pm

@@ -1,0 +1,10 @@
+an algorithm for solv a special class of tridiagon system
+of linear equat an algorithm is present for solv a
+system of linear equat bu k where b is tridiagon
+and of a special form it is shown that thi
+algorithm is almost twice as fast as the gaussian elimin
+method usual suggest for solv such system in addit explicit
+formula for the invers and determin of the matrix b
+ar given cacm april 1969 rose d j tridiagon gaussian
+elimin central differ 5 14 5 17 ca690407 jb februari
+17 1978 4 18 pm

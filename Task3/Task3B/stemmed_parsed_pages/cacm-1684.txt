@@ -1,0 +1,17 @@
+ambigu in limit entri decis tabl the us of decis
+tabl as a tool in system analysi and for program
+specif is now becom accept rule on redund contradict and
+complet for limit entri tabl were publish in 1963 these
+ar usual us for check preced if necessari by a
+convers from extend to limit entri form processor which automat
+translat tabl to more convent program usual base their diagnost
+facil on these rule in thi paper it is suggest
+that these rule ar unsatisfactori and that the import aspect
+of check is to elimin ambigu from tabl ambigu is
+defin and discuss and a procedur for produc check out
+decis tabl is propos the theoret basi of the algorithm
+us is establish the import of well design diagnost facil
+in decis tabl processor is emphas cacm octob 1968 king
+p j h decis tabl detab 65 system analysi 3
+50 4 19 4 49 ca681003 jb februari 21 1978
+4 17 pm

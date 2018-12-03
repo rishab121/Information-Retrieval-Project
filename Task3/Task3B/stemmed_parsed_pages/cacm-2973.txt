@@ -1,0 +1,11 @@
+sort on a mesh connect parallel comput two algorithm ar
+present for sort n 2 element on an n x
+n mesh connect processor arrai that requir o n rout
+and comparison step the best previou algorithm take time o
+n log n the algorithm of thi paper ar shown
+to be optim in time within small constant factor extens
+to higher dimension arrai ar also given cacm april 1977
+thompson c d kung h t parallel comput parallel sort
+parallel merg rout and comparison step perfect shuffl processor in
+terconnect pattern 4 32 5 25 5 31 ca770409 jb
+decemb 29 1977 4 58 am

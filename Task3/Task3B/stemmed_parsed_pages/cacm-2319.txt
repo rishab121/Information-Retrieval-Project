@@ -1,0 +1,17 @@
+oper system perform an overview of the current and futur
+posit with respect to oper system perform is given while
+a great deal of inform and a larg number of
+model for subsystem have been develop gap still exist in
+out knowledg becaus of the sever interact between the variou
+subsystem of an oper system an overal model of the
+total system must be develop to be abl to analyz
+and design the perform aspect of an oper system although
+such total system design ar except todai it is project
+that thei will becom increasingli more common and necessari in
+the near futur such a design philosophi will clearli have
+a sever impact on the wai we go about modular
+oper and comput system cacm juli 1972 lynch w c
+comput system oper system perform evalu perform measur measur techniqu
+modular layer structur program page virtual memori input output disk
+storag facil drum storag facil sector queue 4 30 6
+20 ca720709 jb januari 30 1978 2 33 pm

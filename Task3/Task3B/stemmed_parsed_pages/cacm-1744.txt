@@ -1,0 +1,11 @@
+stabl numer method for obtain the chebyshev solut to an
+overdetermin system of equat an implement of stiefel s exchang
+algorithm for determin a chebyshev solut to an overdetermin system
+of linear equat is present that us gaussian lu decomposit
+with row interchang the implement is computation more stabl than
+those usual given in the literatur a gener of stiefel
+s algorithm is develop which permit the occasion exchang of
+two equat simultan cacm june 1968 bartel r h golub
+g h chebyshev solut overdetermin linear system linear equat exchang
+algorithm 5 13 5 14 5 41 ca680601 jb februari
+22 1978 4 50 pm

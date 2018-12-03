@@ -1,0 +1,6 @@
+quasilinear and the calcul of eigenvalu sever eigenvalu problem for
+system of ordinari differenti equat ar consid thei ar resolv
+computation us the quasiliner techniqu a quadrat converg success approxim
+scheme relat to the newton raphson kantorovich method cacm juli
+1966 bellman r kagiwada h kalaba r ca660711 jb march
+2 1978 8 40 pm

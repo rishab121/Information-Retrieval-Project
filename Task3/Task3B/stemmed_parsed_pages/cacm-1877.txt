@@ -1,0 +1,9 @@
+prevent of system deadlock a well known problem in the
+design of oper system is the select of a resourc
+alloc polici that will prevent deadlock deadlock is the situat
+in which resourc have been alloc to variou task in
+such a wai that none of the task can continu
+the variou publish solut have been somewhat restrict either thei
+do not handl the problem in suffici gener or thei
+suggest polici which will on occas refus a request which
+could have been safe grant algorithm ar present which exam

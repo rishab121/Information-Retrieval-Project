@@ -1,0 +1,20 @@
+kei to address transform techniqu a fundament perform studi on
+larg exist format file the result of a studi of
+eight differ kei to address transform method appli to a
+set of exist file ar present as each method is
+appli to a particular file load factor and bucket size
+ar vari over a wide rang in addit appropri variabl
+pertin onli to a specif method take on differ valu
+the perform of each method is summar in term of
+the number of access requir to get to a record
+and the number of overflow record creat by a transform
+peculiar of each method ar discuss practic guidelin obtain from
+the result ar state final a propos for further quantit
+fundament studi is outlin cacm april 1971 lum v y
+yuen p s t dodd m hash hash techniqu hash
+method hash code kei kei transform kei to address transform
+direct address direct access method random random access file address
+file organ file structur scatter storag search collis cluster inform
+retriev 3 7 3 72 3 73 3 74 3
+79 4 9 ca710402 jb februari 3 1978 4 10
+pm

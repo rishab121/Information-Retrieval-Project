@@ -1,0 +1,19 @@
+on quadrat adapt rout algorithm two analyt model of a
+store and forward commun network ar construct on to find
+the optim messag rout and the other to illustr the
+equilibrium stationari state maintain by an adapt rout algorithm these
+model show that adapt rout doe not satisfi the necessari
+condit for an optim rout adapt rout tend to overus
+the direct path and underus altern rout becaus it doe
+not consid the impact of it current rout decis on
+the futur state of the network the form of the
+optim condit suggest that a modif of the adapt algorithm
+will result in optim the modif requir the substitut of
+a quadrat bia term instead of a linear on in
+the rout tabl maintain at each network node simul result
+ar present which confirm the theoret analysi for a simpl
+network cacm januari 1976 agnew c e rout algorithm adapt
+rout quadrat rout altern rout store and forward network distribut
+network comput network messag switch 3 81 8 0 8
+1 8 3 ca760103 jb januari 5 1978 10 37
+am

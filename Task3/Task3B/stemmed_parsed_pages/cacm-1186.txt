@@ -1,0 +1,8 @@
+recurs solut of a class of combinatori problem an exampl
+combinatori problem requir the select of n element from a
+set of m element mai be solv by a recurs
+process analog to that for comput binomi coeffici sever specif
+problem ar analyz the gener techniqu is expos and an
+algol program is develop for on of the problem cacm
+octob 1965 lynch w c ca651009 jb march 6 1978
+6 40 pm

@@ -1,0 +1,7 @@
+maximum comput power and cost factor in the central problem
+a simpl analysi of some comput econom factor involv in
+compar multimachin instal versu larg singl machin instal is given
+and a mathemat model is deriv to assist polici decis
+cacm februari 1972 oldehoeft a e halstead m h central
+decentr econom of comput comput manag economi of scale 2
+41 ca720204 jb januari 31 1978 4 25 pm

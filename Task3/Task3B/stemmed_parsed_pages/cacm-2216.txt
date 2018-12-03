@@ -1,0 +1,5 @@
+on the probabl distribut of the valu of binari tree
+an integr equat is deriv for the gener function for
+binari tree valu the valu reflect sort effort the analysi
+doe not assum uniformli distribut branch ratio and therefor is
+applic to a fam

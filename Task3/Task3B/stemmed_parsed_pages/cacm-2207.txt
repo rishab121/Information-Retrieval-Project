@@ -1,0 +1,11 @@
+the automat integr of ordinari differenti equat an integr techniqu
+for the automat solut of an initi valu problem for
+a set of ordinari differenti equat is describ a criterion
+for the select of the order of approxim is propos
+the object of the criterion is to increas the step
+size so as to reduc solut time an option permit
+the solut of stiff differenti equat a program embodi the
+techniqu discuss appear in algorithm 407 cacm march 1971 gear
+c w differenti equat stiff equat integr step control order
+control 5 17 ca710305 jb februari 3 1978 4 28
+pm

@@ -1,0 +1,12 @@
+fortran subroutin for time seri analysi the author have recent
+been concern in a time seri studi that constitut a
+fairli typic piec of appli statist research involv extens comput
+on a moder larg quantiti of data wehav found that
+the mani differ numer process that were requir could be
+built up almost complet from a small number of basic
+oper and a set of fortran subroutin ha been written
+to perform these the main purpos of thi note is
+to describ these subroutin but sinc the question of gener
+statist program is topic 1 we includ some gener remark
+cacm januari 1963 heali m j r bogert b p
+ca630106 jb march 14 1978 2 55 pm

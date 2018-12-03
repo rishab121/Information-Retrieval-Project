@@ -1,0 +1,12 @@
+the nucleu of a multiprogram system thi paper describ the
+philosophi and structur of a multiprogram system that can be
+extend with a hierarchi of oper system to suit divers
+requir of program schedul and resourc alloc the system nucleu
+simul an environ in which program execut and input output
+ar handl uniformli as parallel cooper process es a fundament
+set of primit allow the dynam creation and control of
+a hierarchi of process as well as the commun among
+them cacm april 1970 hansen p b multiprogram oper system
+parallel process process concept process commun messag buffer process hierarchi
+process creation process remov 4 30 4 31 4 32
+4 41 ca700404 jb februari 13 1978 3 10 pm

@@ -1,0 +1,3 @@
+a suggest method of make fuller us of string in
+algol 60 cacm april 1963 shoffner m g brown p
+j ca630423 jb march 14 1978 11 45 am

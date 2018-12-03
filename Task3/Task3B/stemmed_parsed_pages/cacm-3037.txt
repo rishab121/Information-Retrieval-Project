@@ -1,0 +1,5 @@
+a linear siev algorithm for find prime number a new
+algorithm is present for find all prime between 2 and
+n the algorithm execut in time proport to n assum
+that multipl of integ not larger than n can be
+perform in unit time the method ha the sam

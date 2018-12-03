@@ -1,0 +1,12 @@
+mechan of tediou algebra the newcomb oper of planetari theori
+a comput program ha been written to gener tabl of
+formula for the newcomb oper of planetari theori the newcomb
+oper ar express as polynomi in two variabl on of
+which stand for a simpl differenti oper and the other
+for an arbitrari integ the polynomi ar gener by a
+recurr scheme the program is code in fortran us simpl
+arrai manipul techniqu to perform the algebra oper formula for
+over 100 newcomb oper have been produc by the program
+and typeset photograph on an s 560 photon system cacm
+januari 1965 gerard j m izsak i g barnett m
+p ca650103 jb march 8 1978 2 59 pm

@@ -1,0 +1,9 @@
+asymmetr memori hierarchi a studi is present of some of
+the system implic of memori hierarchi in which the back
+or secondari store ha a veri small read time rel
+of both the time requir for write and to the
+read time of convent back storag devic sever analyt model
+ar introduc and it is shown that such hierarchi mai
+oper in wai which differ from those of more convent
+hierarchi in particular it is shown that it mai not
+be necessari to multiprogram

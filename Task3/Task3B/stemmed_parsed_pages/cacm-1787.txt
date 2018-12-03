@@ -1,0 +1,10 @@
+us of transit matric in compil an algorithm is describ
+which construct from a suitabl bnf grammar an effici left
+right recogn for sentenc of the correspond languag the type
+of recogn us in a number of compil oper with
+a pushdown stack and with a transit matrix two exampl
+illustr how such recogn mai be us effect for other
+purpos besid the usual syntax check cacm januari 1968 gri
+d transit matric compil translat grammar context free languag formal
+languag pars 4 12 5 23 ca680107 jb februari 23
+1978 2 35 pm

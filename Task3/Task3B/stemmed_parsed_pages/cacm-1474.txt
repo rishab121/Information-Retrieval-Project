@@ -1,0 +1,11 @@
+test of probabilist model for propag of roundoff error in
+ani prolong comput it is gener assum that the accumul
+effect of roundoff error is in some sens statist the
+purpos of thi paper is to give precis descript of
+certain probabilist model for roundoff error and then to describ
+a seri of experi for test the valid of these
+model it is conclud that the model ar in gener
+veri good discrep ar both rare and mild the test
+techniqu can also be us to experi with variou type
+of special arithmet cacm februari 1966 hull t e swenson
+j r ca660210 jb march 3 1978 2 37 pm

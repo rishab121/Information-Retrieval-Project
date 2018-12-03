@@ -1,0 +1,13 @@
+time clock and the order of event in a distribut
+system the concept of on event happen befor anoth in
+a distribut system is examin and is shown to defin
+a partial order of the event a distribut algorithm is
+given for synchron a system of logic clock which can
+be us to total order the event the us of
+the total order is illustr with a method for solv
+synchron problem the algorithm is then special for synchron physic
+clock and a bound is deriv on how far out
+of synchroni the clock can becom cacm juli 1978 lamport
+l distribut system comput network clock synchron multiprocess system 4
+32 5 29 ca780706 dh februari 7 1979 4 30
+pm

@@ -1,0 +1,16 @@
+verifi properti of parallel program an axiomat approach an axiomat
+method for prove a number of properti of parallel program
+is present hoar ha given a set of axiom for
+partial correct but thei ar not strong enough in most
+case thi paper defin a more power deduct system which
+is in some sens complet for partial correct a crucial
+axiom provid for the us of auxiliari variabl which ar
+ad to a parallel program as an aid to prove
+it correct the inform in a partial correct proof can
+be us to prove such properti as mutual exclus freedom
+from deadlock and program termin techniqu for verifi these properti
+ar present and illustr by applic to the dine philosoph
+problem cacm mai 1976 owicki s gri d structur multiprogram
+correct proof program verif concurr process synchron mutual exclus deadlock
+4 32 4 35 5 21 5 24 ca760506 jb
+januari 4 1978 3 23 pm

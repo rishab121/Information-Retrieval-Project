@@ -1,0 +1,4 @@
+interpol and smooth curv fit base on local procedur e2
+algorithm a433 cacm octob 1972 akima h interpol polynomi slope
+of curv smooth curv fit 5 13 ca721008 jb januari
+27 19782 49 pm

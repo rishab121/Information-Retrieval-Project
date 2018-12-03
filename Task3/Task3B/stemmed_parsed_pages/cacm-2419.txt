@@ -1,0 +1,3 @@
+eigenvalu of a real symmetr tridiagon matrix f2 algorithm a464
+cacm novemb 1973 reinsch c h eigenvalu qr algorithm 5
+14 ca731107 jb januari 20 1978 10 03 am

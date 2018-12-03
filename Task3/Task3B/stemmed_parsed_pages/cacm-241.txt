@@ -1,0 +1,12 @@
+machin calcul of moment of a probabl distribut a method
+is present for the calcul on a machin of the
+moment of a probabl distribut necessit littl more than n
+addit and n refer to memori for each moment instead
+of the minimum of n multipl 2n addit and 2n
+refer to memori requir by the most straightforward method where
+n is the number of entri in the probabl distribut
+the method is directli applic when a tabul distribut exist
+as when it ha been comput by repeat convolut but
+in thi case it conserv both time and accuraci cacm
+decemb 1961 lechner j a ca611209 jb march 15 1978
+10 15 pm

@@ -1,0 +1,6 @@
+half rotat in n dimension euclidean space an iter procedur
+is describ for determin half rotat in n dimension euclidean
+space the method is a variant of the cyclic jacobi
+procedur and util elementari plane rotat to obtain the half
+rotat matrix numer exampl ar given cacm septemb 1966 mccamon
+r b ca660910 jb march 2 1978 4 32 pm

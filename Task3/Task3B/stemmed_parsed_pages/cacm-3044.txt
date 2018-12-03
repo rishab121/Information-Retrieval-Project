@@ -1,0 +1,5 @@
+a note on condit express evalu of a condit express
+mai succe even when the decid predic diverg and the
+altern ar record or node whose field have differ content
+cacm novemb 1978 friedman d wise d parallel evalu suspend
+con lisp condit form if then els am

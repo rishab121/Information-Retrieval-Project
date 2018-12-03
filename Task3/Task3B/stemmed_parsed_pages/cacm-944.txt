@@ -1,0 +1,14 @@
+storag and search properti of a tree organ memori system
+a memori with list properti 1 mai be us to
+construct numer alphabet or alphanumer tree such tree have inform
+storag and retriev properti applic to problem involv larg quantiti
+of data or to problem where the quantiti word length
+and distribut of store inform is not known a priori
+or chang rapidli dure the process the purpos of thi
+paper is to examin the storag and search properti of
+a tree organ storag system assum that a memori possess
+certain list properti is avail of prime interest is the
+applic where a symbol tabl dictionari or similar file is
+to be store and search cacm januari 1963 scidmor a
+k weinberg b l ca630104 jb march 14 1978 3
+02 pm

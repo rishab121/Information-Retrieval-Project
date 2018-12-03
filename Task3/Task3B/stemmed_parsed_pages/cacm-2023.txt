@@ -1,0 +1,3 @@
+a note on data base deadlock cacm juli 1970 baecker
+h d data base synchron lock deadlock refer count 3
+73 ca700714 jb februari 10 1978 4 18 pm

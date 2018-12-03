@@ -1,0 +1,15 @@
+syntax direct interpret of class of pictur a descript scheme
+for class of pictur base on label techniqu us parallel
+process algorithm wa propos by the author some year ago
+sinc then much work ha been done in appli thi
+to bubbl chamber pictur the parallel process simul origin written
+for an ibm 7094 system ha now been rewritten for
+a cdc 3600 system thi paper descript model by consid
+their specif applic to bubbl chamber pictur how the descript
+gener in thi phase can be embed in a larger
+convers program is explain by mean of a certain specif
+exampl that ha been work out a partial gener grammar
+for handwritten english letter is given as ar also a
+few comput gener output us thi grammar and the parallel
+process simul mention earlier cacm march 1966 narasimhan r ca660304
+jb march 3 1978 1 56 pm

@@ -1,0 +1,14 @@
+focu microcomput number system focu is a number system and
+support comput algorithm especi us for microcomput control and other
+signal process applic focu ha the wide rang charact of
+float point number with a uniform of state distribut that
+give focu better than a twofold accuraci advantag over an
+equal word length float point system focu comput ar typic
+five time faster than singl precis fix point or integ
+arithmet for a mixtur of oper compar in speed with
+hardwar arithmet for mani applic algorithm for 8 bit and
+16 bit implement of focu ar includ cacm march 1979
+edgar a lee s number represent logarithm arithmet comput speed
+comput accuraci microcomput applic 3 24 3 80 4 0
+4 22 5 11 ca790302 dh april 12 1979 11
+12 am

@@ -1,0 +1,10 @@
+invari imbed and the numer integr of boundari valu problem
+for unstabl linear system of ordinari differenti equat in such
+divers area as radi transfer in planetari atmospher and optim
+guidanc and control two point boundari valu problem for unstabl
+system aris greatli complic the numer solut an invari imbed
+techniqu is present which is us in overcom these frequent
+encount instabl and the result of some numer experi ar
+given cacm februari 1967 belman r e kagiwada h h
+kalaba r e ca670206 jb februari 28 1978 3 28
+pm

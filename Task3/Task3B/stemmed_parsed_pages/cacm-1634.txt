@@ -1,0 +1,12 @@
+27 bit ar not enough for 8 digit accuraci from
+the inequ 10 8 2 27 we ar like to
+conclud that we can repres 8 digit decim float point
+number accur by 27 bit float point number howev we
+need 28 signific bit to repres some 8 digit number
+accur in gener we can show that if 10 p
+2 q 1 then q signific bit ar alwai enough
+for p digit decim accuraci final we can defin a
+compact 27 bit float point represent that will give 28
+signific bit for number of practic import cacm februari 1967
+goldberg i b ca670208 jb februari 28 1978 2 38
+pm

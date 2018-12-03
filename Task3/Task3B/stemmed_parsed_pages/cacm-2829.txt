@@ -1,0 +1,4 @@
+textur and reflect in comput gener imag in 1974 catmul
+develop a new algorithm for render imag of bivari surfac
+patch thi paper describ extens of thi algorithm in the
+area of textur simul and light model the param

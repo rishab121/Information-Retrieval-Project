@@ -1,0 +1,18 @@
+a practic approach to manag resourc and avoid deadlock resourc
+schedul and alloc can be expens with regard to time
+and space in multiprogram or time share environ involv larg
+number of task and resourc with conflict requir detect and
+or prevent of deadlock can requir massiv amount of addit
+overhead if effici usag of resourc is to be maintain
+a resourc manag program is describ which us link list
+along with other techniqu to overcom a larg portion of
+thi overhead the program which is current run as part
+of a larg scale gener purpos oper system keep resourc
+rel activ but doe not detect or prevent all deadlock
+in it implement state certain chang which would permit more
+comprehens level of deadlock prevent detect at addit cost have
+not been incorpor in the run system due to the
+infrequ of deadlock situat cacm mai 1973 frailei d j
+deadlock resourc alloc schedul resourc manag multiprogram time share multiprocess
+deadli embrac 4 30 4 32 ca730520 jb januari 23
+1978 4 03 pm

@@ -1,0 +1,17 @@
+the synthet approach to decis tabl convers previou approach to
+the problem of automat convert decis tabl to comput program
+have been base on decomposit at ani stage on condit
+is select for test and two smaller problem decis tabl
+with on less condit ar creat an optim program with
+respect to averag execut time or storag space for exampl
+is locat onli through implicit enumer of all possibl decis
+tree us a techniqu such as branch and bound the
+new approach describ in thi paper us dynam program to
+synthes an optim decis tree from which a program can
+be creat us thi approach the effici of creat an
+optim program is increas substanti permit gener of optim program
+for decis tabl with as mani as ten to twelv
+condit cacm june 1976 schumach h sevcik k c decis
+tabl decis tree dynam program optim program 3 50 4
+12 5 30 8 3 ca760606 jb januari 4 1978
+1 50 pm

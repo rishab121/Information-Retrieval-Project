@@ -1,0 +1,14 @@
+georg 3 a gener purpos time share and oper system
+an oper system is describ which will run on a
+wide varieti of configur of the i 1900 and can
+handl a larg number of onlin consol user while at
+the same time run sever off line background job the
+system is not orient toward either mode and can be
+either a batch process system such as the atla supervisor
+ibsi or geco or a multiaccess system resembl to the
+user ctss or multic or both simultan depend on the
+instal which can adjust the schedul both onlin user and
+off line job us a common command languag the system
+includ a multilevel devic independ file store cacm novemb 1967
+oestreich m d bailei m j strauss j i ca671101
+jb februari 27 1978 1 47 pm

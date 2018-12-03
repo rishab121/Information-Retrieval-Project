@@ -1,0 +1,16 @@
+an analysi of inlin substitut for a structur program languag
+an optim techniqu known as inlin substitut is analyz the
+optim consist of replac a procedur invoc by a modifi
+copi of the procedur bodi the gener problem of us
+inlin substitut to minim execut time subject to size constrain
+ts is formul and an approxim algorithm solut is propos
+the algorithm depend on run time statist about the program
+to be optim preliminari result for the clu structur program
+languag indic that in program with a low degre of
+recurs over 90 percent of all procedur call can be
+elimin with littl increas in the size of compil code
+and a small save in execut time other conclus base
+on these result ar also present cacm septemb 1977 scheifler
+r w inlin substitut open code open compil program optim
+compil structur program languag run time statist 4 12 ca770905
+jb decemb 27 1977 1 23 pm

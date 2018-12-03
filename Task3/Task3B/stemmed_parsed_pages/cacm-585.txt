@@ -1,0 +1,20 @@
+initi experi with an oper multiprogram system the lewi research
+center ha been us variou form and degre of program
+simultan in the oper of it modifi sperri rand univac
+scientif model 1103 comput dure the last five year thi
+simultan ha evolv from an initi achiev of self search
+input and output to the automat time share of independ
+code problem sever import machin and program system modif were
+necessari to accomplish thi evolut sever addit modif although not
+requir were ad to facilit eas of code and oper
+all modif had to proce at a rel temper pace
+to insur that the basic data reduct work load of
+the comput center wa complet on schedul some education valuabl
+mistak were made and their suggest cure often point the
+wai to us futur improv or emphas some of the
+basic principl of a multiprogram system the materi that follow
+is a descript of the evolut of the program and
+hardwar system which ha develop into the present multiprogram system
+at lewi research center cacm mai 1962 landi n mano
+a turner l r ca620520 jb march 17 1978 9
+45 pm

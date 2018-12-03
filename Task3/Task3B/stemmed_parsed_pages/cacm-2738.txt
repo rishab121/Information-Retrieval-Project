@@ -1,0 +1,10 @@
+us of the concept of transpar in the design of
+hierarch structur system thi paper deal with the design of
+hierarch structur program system it develop a method for evalu
+the cost of requir programm to work with an abstract
+of a real machin a number of exampl from hardwar
+and softwar ar given as illustr of the method cacm
+juli 1975 parna d l siewiorek d p hierarch system
+bottom up design level of abstract synchron primit 4 20
+4 30 6 1 6 20 ca750704 dmm januari 31
+1978 3 46 pm

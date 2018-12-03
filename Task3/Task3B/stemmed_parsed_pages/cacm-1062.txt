@@ -1,0 +1,14 @@
+symbol manipul in fortran sasp i subroutin a set of
+subroutin for us in fortran ar describ whose purpos is
+to synthes output string from i input string which have
+been analyz by the shadow gener syntact analysi subroutin report
+earlier and or ii pack bcd string form in ani
+wai function type subroutin ar includ for intermedi manipul which
+ar perform on the string which ar store in an
+abbrevi intern represent the automat wai in which an intern
+represent for each newli creat substr is store sequenti in
+a block of common storag and the manner in which
+a storag block is dynam alloc for that purpos ar
+discuss cacm june 1964 bailei m j barnett m p
+burleson p b ca640605 jb march 9 1978 9 43
+pm

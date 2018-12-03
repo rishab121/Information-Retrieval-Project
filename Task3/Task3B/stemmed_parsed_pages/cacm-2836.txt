@@ -1,0 +1,3 @@
+weight deriv tree the node of a weight deriv tree
+ar associ with weight function over the vocabulari of a
+context free gram

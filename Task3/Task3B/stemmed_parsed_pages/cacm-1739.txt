@@ -1,0 +1,11 @@
+regular express search algorithm a method for locat specif charact
+string embed in charact text is describ and an implement
+of thi method in the form of a compil is
+discuss the compil accept a regular express as sourc languag
+and produc an ibm 7094 program as object languag the
+object program then accept the text to be search as
+input and produc a signal everi time an embed string
+in the text match the given regular express exampl problem
+and solut ar also present cacm june 1968 thompson k
+search match regular express 3 74 4 49 5 32
+ca680606 jb februari 22 1978 4 18 pm

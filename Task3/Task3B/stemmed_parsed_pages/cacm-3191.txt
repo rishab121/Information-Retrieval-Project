@@ -1,0 +1,4 @@
+gener permut by nest cycl the purpos of thi letter
+is two fold first to give due credit to the
+tompkin paig algorithm and second to clarifi a comment by
+hill cr review 13891 on program

@@ -1,0 +1,7 @@
+the parallel execut of do loop method ar develop for
+the parallel execut of differ iter of a do loop
+both asynchron multiprocessor comput and arrai comput ar consid practic
+applic to the design of compil for such comput is
+discuss cacm februari 1974 lamport l parallel comput multiprocessor comput
+arrai comput vector comput loop 4 12 5 24 ca740204
+jb januari 18 1978 1 14 pm

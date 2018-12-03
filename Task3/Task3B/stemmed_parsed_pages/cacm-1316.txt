@@ -1,0 +1,3 @@
+bessel function of the first kind algorithm 236 s17 cacm
+februari 1965 gautschi w ca650208 jb march 7 1978 11
+11 pm

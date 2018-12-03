@@ -1,0 +1,5 @@
+some techniqu for us pseudorandom number in comput simul an
+algorithm is describ by which uniform pseudorandom integ mai be
+us to construct binari number in which the probabl that
+each bit in the word is a 1 bit and
+can assum ani desir param

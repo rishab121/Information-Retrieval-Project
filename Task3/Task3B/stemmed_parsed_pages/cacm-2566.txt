@@ -1,0 +1,4 @@
+exact cumul distribut of the kolmogorov smirnov statist for small
+sampl algorithm a487 cacm decemb 1974 pomeranz j kolmogorov smirnov
+test k s statist good of fit test 8 1
+5 5 ca741208 jb januari 13 1978 4 08 pm

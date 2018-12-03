@@ -1,0 +1,13 @@
+an experiment model of system 360 the problem of predict
+the perform of modern comput system is formid on gener
+techniqu which can eas thi problem is macroscop simul thi
+paper report on the applic of that techniqu to system
+360 the paper describ an experiment model of system 360
+it hardwar softwar and it environ the measur of system
+perform produc by the model consist of statist relat to
+turnaround time throughput hardwar util softwar util and queue process
+the model is mechan in simscript and consist of some
+1750 statement an auxiliari program the job gener creat automat
+the properti of system 360 job that get simul cacm
+novemb 1967 katz j h ca671102 jb februari 26 1978
+3 20 pm

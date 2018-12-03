@@ -1,0 +1,17 @@
+tridiagon by permut tridiagon a matrix by similar transform is
+an import comput tool in numer linear algebra consid the
+class of spars matric which can be tridiagon us onli
+row and correspond column permut the advantag of us such
+a transform includ the absenc of round off error and
+improv comput time when compar with standard transform a graph
+theoret algorithm which examin an arbitrari n x n matrix
+and determin whether or not it can be permut into
+tridiagon form is given the algorithm requir no arithmet while
+the number of comparison the number of assign and the
+number of increment ar linear in n thi compar veri
+favor with standard transform method if the matrix is permut
+into tridiagon form the algorithm give the explicit tridiagon form
+otherwis earli reject will occur cacm januari 1974 gibb n
+e pool w g jr tridiagon matrix permut algorithm eigenvalu
+graph bandwidth spars matrix 5 14 5 32 ca740104 jb
+januari 18 1978 2 31 pm

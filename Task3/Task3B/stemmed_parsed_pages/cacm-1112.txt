@@ -1,0 +1,9 @@
+a techniqu for comput detect and correct of spell error
+the method describ assum that a word which cannot be
+found in a dictionari ha at most on error which
+might be a wrong miss or extra letter or a
+singl transposit the unidentifi input word is compar to the
+dictionari again test each time to see if the word
+match assum on of these error occur dure a test
+run on garbl text correct identif were made for over
+95 percent of these error type cacm march 1964 dam

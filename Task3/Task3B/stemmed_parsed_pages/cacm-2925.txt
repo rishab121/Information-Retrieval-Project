@@ -1,0 +1,21 @@
+optim surfac reconstruct from planar contour in mani scientif and
+technic endeavor a three dimension solid must be reconstruct from
+serial section either to aid in the comprehens of the
+object s structur or to facilit it automat manipul and
+analysi thi paper present a gener solut to the problem
+of construct a surfac over a set of cross section
+contour thi surfac to be compos of triangular tile is
+construct by separ determin an optim surfac between each pair
+of consecut contour determin such a surfac is reduc to
+the problem of find certain minimum cost cycl in a
+direct toroid graph a new fast algorithm for find such
+cycl is util also develop is a close form express
+in term of the number of contour poin ts for
+an upper bound on the number of oper requir to
+execut the algorithm an illustr exampl which involv the construct
+of a minimum area surfac describ a human head is
+includ cacm octob 1977 fuch h kedem z m uselton
+s p surfac reconstruct contour data serial section three dimension
+comput graphic minimum cost path continu tone displai 5 25
+5 32 8 2 ca771001 jb decemb 27 1977 12
+40 pm

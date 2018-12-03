@@ -1,0 +1,16 @@
+the intrins exponenti complex of the circular problem for attribut
+grammar attribut grammar ar an extens of context free grammar
+devis by knuth as a mechan for includ the semant
+of a context free languag with the syntax of the
+languag the circular problem for a grammar is to determin
+whether the semant for all possibl sentenc program in fact
+will be well defin it is prove that thi problem
+is in gener computation intract specif it is shown that
+ani determinist algorithm which solv the problem must for infinit
+mani case us an exponenti amount of timen improv version
+of knuth s circular test algorithm is also given which
+actual solv the problem within exponenti time cacm decemb 1975
+jazayeri m ogden w f round w c attribut grammar
+circular problem context free grammar comput complex exponenti time semant
+4 12 5 25 ca751204 jb januari 5 1978 4
+38 pm

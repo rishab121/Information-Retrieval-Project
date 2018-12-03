@@ -1,0 +1,10 @@
+coda a data displai system coda a custom orient data
+system is a user orient data retriev and displai system
+the command languag of the system provid the user with
+an easi mean for specifi data retriev and displai request
+data is displai as tabl and graph produc in a
+format readi for public in thi paper the statement of
+the request languag and the gener system design ar describ
+cacm februari 1969 dai r h mansfield m k elli
+m e data displai inform retriev graphic displai command languag
+report program

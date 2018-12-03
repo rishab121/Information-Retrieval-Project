@@ -1,0 +1,5 @@
+the secant method for simultan nonlinear equat a procedur for
+the simultan solut of a system of not necessarili linear
+equat a gener of the secant method for a singl
+function of on variabl is given cacm decemb 1959 wolf
+p ca591203 jb march 22 1978 3 39 pm

@@ -1,0 +1,11 @@
+gener time vari system error sensit program the evalu by
+the propag of varianc techniqu of the sensit of time
+vari system to initi condit and paramet error involv the
+determin of sever system depend partial deriv matric thi requir
+ha led to separ program for each system under investig
+a new program through util of the wengert differenti techniqu
+automat determin the requir matric from specif system equat suppli
+in subroutin form at execut time elimin the need for
+individu program and presag the further develop of extrem gener
+comput program cacm decemb 1966 wilkin r d ca661203 jb
+march 2 1978 2 44 pm

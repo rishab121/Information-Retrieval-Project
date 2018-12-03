@@ -1,0 +1,22 @@
+a simpli extend and modifi batch environ graphic system sembeg
+sembeg is a complet batch environ graphic system contain compon
+for handl graphic data file for displai the content of
+these file on a varieti of graphic hardwar and for
+perform graphic batch input oper sembeg is easi to extend
+and modifi to meet the grow need of a larg
+batch environ and is even extend to a fulli interact
+system the paper present the conceptu view of graphic lead
+to the design of sembeg and outlin the major compon
+of the system the design of sembeg is found upon
+the basic assumpt that the true aim of comput graphic
+is to describ graphic entiti rather than as commonli held
+to provid graphic input and output function capabl sembeg is
+built around a basic graphic data manag system bagdam which
+provid a common mean of commun the descript of graphic
+entiti between the variou compon of sembeg bagdam provid facil
+for store retriev and manipul the descript of graphic entiti
+provid by and receiv by applic program graphic packag and
+graphic devic cacm novemb 1978 wendorf j comput graphic data
+structur graphic displai graphic input graphic databas devic independ graphic
+4 33 4 34 8 2 ca781102 dh januari 26
+1979 1 30 pm

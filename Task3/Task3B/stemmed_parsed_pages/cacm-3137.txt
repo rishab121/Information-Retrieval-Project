@@ -1,0 +1,11 @@
+a methodolog for the design of distribut inform system a
+macro model of a distribut inform system in present the
+model describ the major cost of us an inform system
+from the perspect of the end user the make evid
+the effect of variou design and oper paramet on overal
+cost per transact the techniqu is illustr by applic to
+the design of an interact transact process system cacm april
+1979 bucci g streeter d distribut process system design cost
+minim distribut databas interact comput econom model transact process 4
+32 4 33 6 2 8 1 ca790403 dh mai
+21 1979 1 25 pm

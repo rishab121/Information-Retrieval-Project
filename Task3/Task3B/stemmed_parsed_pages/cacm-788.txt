@@ -1,0 +1,3 @@
+muller s method for find root of an arbitrari function
+algorithm 196 cacm august 1963 roman r d ca630810 jb
+march 13 1978 8 38 pm

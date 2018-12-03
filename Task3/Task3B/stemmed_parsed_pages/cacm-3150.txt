@@ -1,0 +1,17 @@
+beyond program languag as comput technolog matur our grow abil
+to creat larg system is lead to basic chang in
+the natur of program current program languag concept will not
+be adequ for build and maintain system of the complex
+call for by the task we attempt just as high
+level languag enabl the programm to escap from the intricaci
+of a machin s order code higher level program system
+can provid the mean to understand and manipul complex system
+and compon in order to develop such system we need
+to shift our attent awai from the detail specif of
+algorithm toward the descript of the properti of the packag
+and object with which we build thi paper analyz some
+of the shortcom of program languag as thei now exist
+and lai out some possibl direct for futur research cacm
+juli 1979 winograd t program program languag program system system
+develop 4 0 4 20 4 22 4 40 ca790701
+dh august 22 1979 2 00 pm

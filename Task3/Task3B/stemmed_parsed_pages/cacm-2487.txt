@@ -1,0 +1,10 @@
+cubic spline solut to fourth order boundari valu problem the
+cubic spline approxim to the fourth order differenti equat y
+p x y q x y r x y t
+x is shown to reduc to the solut of a
+five term recurr relationship for some special case the approxim
+is shown to be simpli relat to a finit differ
+represent with a local truncat error of order y 720
+delta 8 cacm june 1973 hoskin w d cubic spline
+differenti equat boundari valu problem 5 13 5 17 ca730613
+jb januari 23 1978 1 44 pm

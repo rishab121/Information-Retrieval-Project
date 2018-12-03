@@ -1,0 +1,16 @@
+sort by replac select in sort by replac select the
+expect length of a sequenc begin with the i th
+element i 1 is prove to be 2f in accord
+with a conjectur of e h friend where f is
+the number of memori cell us the expect length of
+the j th sequenc is determin to be f time
+a j th degre polynomi in e such that the
+valu of thi polynomi approach 2 as j approach infin
+recurs formula ar obtain for both the mean and the
+standard deviat of the length of the j th sequenc
+the mathemat proof of these result ar base upon the
+assumpt that n the number of item to be sort
+is infinit but it is shown that the error due
+to the finit of n approach zero rapidli as n
+increas cacm februari 1967 gasner b j ca670204 jb februari
+28 1978 3 56 pm

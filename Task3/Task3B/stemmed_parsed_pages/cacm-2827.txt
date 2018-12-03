@@ -1,0 +1,16 @@
+a parametr algorithm for draw pictur of solid object compos
+of quadric surfac an algorithm for draw pictur of three
+dimension object with surfac made up of patch of quadric
+surfac is describ the emphasi of thi algorithm is on
+calcul the intersect of quadric surfac a parameter scheme is
+us each quadric surfac intersect curv qsic is repres as
+a set of coeffici and paramet limit each valu of
+the paramet repres at most two point and these mai
+easili be distinguish thi scheme can find the coordin of
+point of even quartic fourth order intersect curv us equat
+of no more than second order method of parameter for
+each type of osic ar discuss as well as surfac
+bound and hidden surfac remov cacm octob 1976 levin j
+comput graphic hidden surfac remov quadric surfac intersect curv 3
+41 5 12 5 13 5 19 8 2 ca761004
+jb januari 3 1978 4 32 pm

@@ -1,0 +1,9 @@
+a program to solv the pentomino problem by the recurs
+us of macro a code techniqu is describ in which
+certain macro instruct ar given list as argument and ar
+therebi us recurs the discuss cover primarili an exampl in
+which the techniqu is us to solv the pentomino problem
+the problem of fit 12 pentomino without overlap into a
+plane area form of 60 element squar cacm octob 1965
+fletcher j g ca651010 jb march 6 1978 6 37
+pm

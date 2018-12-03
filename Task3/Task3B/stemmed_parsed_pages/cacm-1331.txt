@@ -1,0 +1,11 @@
+code structur for protect and manipul of variabl length item
+when item ar made up of a variabl number of
+charact each contain the same number of bit certain control
+inform partit symbol is insert to mark their separ sinc
+error in identif of these control charact can lead to
+seriou troubl method of protect these symbol ar indic a
+6 bit code assign of alphanumer charact for fix word
+length comput is given and it suitabl for error detect
+and variabl length item manipul is shown also indic is
+it flexibl dure certain arithmet oper cacm januari 1965 ramamoorthi
+c v ca650106 jb march 8 1978 2 48 pm

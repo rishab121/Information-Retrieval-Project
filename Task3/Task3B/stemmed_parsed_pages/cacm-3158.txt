@@ -1,0 +1,11 @@
+secur person comput in an insecur network a method for
+implement secur person comput in a network with on or
+more central facil is propos the method emploi a public
+kei encrypt devic and hardwar kei each user is respons
+for hi own secur and need not reli on the
+secur of the central facil or the commun link a
+user can safe store confidenti file in the central facil
+or transmit confidenti data to other user on the network
+cacm august 1979 den d person comput secur privaci network
+public kei encrypt 2 12 6 20 ca790804 db januari
+14 1980 9 26 am

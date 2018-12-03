@@ -1,0 +1,9 @@
+on the implement of ambit a languag for symbol manipul
+a brief descript is given of the implement techniqu for
+the replac rule of the ambit program languag the algorithm
+for the ambit scan and an exampl of it applic
+ar given the algorithm is applic to other member of
+the famili of string transform languag of which ambit is
+a member and it provid a rational for the design
+of the ambit languag cacm august 1966 christensen c ca660803
+jb march 2 1978 8 02 pm

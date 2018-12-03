@@ -1,0 +1,26 @@
+a method for obtain digit signatur and public kei cryptosystem
+an encrypt method is present with the novel properti that
+publicli reveal an encrypt kei doe not therebi reveal the
+correspond decrypt kei thi ha two import consequ 1 courier
+or other secur mean ar not need to transmit kei
+sinc a messag can be enciph us an encrypt kei
+publicli reveal by the intend recipi onli he can deciph
+the messag sinc onli he know the correspond decrypt kei
+2 a messag can be sign us a privat held
+decrypt kei anyon can verifi thi signatur us the correspond
+publicli reveal encrypt kei signatur cannot be forg and a
+signer cannot later deni the valid of hi signatur thi
+ha obviou applic in electron mail and electron fund transfer
+system a messag is encrypt by repres it as a
+number m rais m to a publicli specifi power e
+and then take the remaind when the result is divid
+by the publicli specifi product n of two larg secret
+prime number p and q decrypt is similar onli a
+differ secret power d is us where e d 1
+mod p 1 q 1 the secur of the system
+rest in part on the difficulti of factor the publish
+divisor n cacm februari 1978 rivest r shamir a adleman
+l digit signatur public kei cryptosystem privaci authent secur factor
+prime number electron mail messag pass electron fund transfer cryptographi
+2 12 3 15 3 50 3 81 5 25
+ca780202 jb march 28 1978 4 40 pm

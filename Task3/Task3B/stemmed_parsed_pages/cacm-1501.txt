@@ -1,0 +1,8 @@
+eigenvector of a 2n x 2n matrix it ha been
+known that the eigenvalu of a certain 2n x 2n
+matrix can be obtain by us of two smaller matric
+of order n which can be easili construct an algorithm
+is given to obtain the eigenvector of the 2n x
+2n matrix by us of the eigenvector of the smaller
+matric cacm decemb 1967 charmonman s ca671207 jb februari 26
+1978 2 22 pm

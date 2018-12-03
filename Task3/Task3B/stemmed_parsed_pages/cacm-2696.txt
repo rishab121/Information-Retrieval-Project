@@ -1,0 +1,12 @@
+a method of bivari interpol and smooth surfac fit base
+on local procedur a method is design for interpol valu
+given at point of a rectangular grid in a plane
+by a smooth bivari function z z x y the
+interpol function is a bicub polynomi in each cell of
+the rectangular grid emphasi is an avoid excess undul between
+given grid point the propos method is an extens of
+the method of univari interpol develop earlier by the author
+and is likewis base on local procedur cacm januari 1974
+akima h bivari interpol interpol partial deriv polynomi smooth surfac
+fit 5 13 ca740103 jb januari 18 1978 2 38
+pm

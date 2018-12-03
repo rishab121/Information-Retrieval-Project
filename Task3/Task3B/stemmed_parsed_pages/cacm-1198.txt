@@ -1,0 +1,7 @@
+solut of a problem in concurr program control a number
+of mainli independ sequenti cyclic process with restrict mean of
+commun with each other can be made in such a
+wai that at ani moment on and onli on of
+them is engag in the critic section of it cycl
+cacm septemb 1965 dijkstra e w ca650908 jb march 6
+1978 7 24 pm

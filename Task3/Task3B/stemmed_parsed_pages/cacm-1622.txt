@@ -1,0 +1,9 @@
+an effici procedur for the gener of close subset an
+effici algorithm is describ for gener subset of a set
+s which satisfi constraint of the form if s i
+is a member of the subset then s j must
+also be a member of the subset the algorithm ha
+been program in the wisp languag and successfulli run on
+the ibm 7094 in connect with a routin to detect
+feedback in multidimension iter network cacm march 1967 wait w
+m ca670307 jb februari 28 1978 1 18 pm

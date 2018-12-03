@@ -1,0 +1,12 @@
+preliminari report on a system for gener space plan a
+comput languag and a set of program within that languag
+ar describ which allow the formul and solv of a
+class of space plan problem the languag is an extens
+of algol and includ mean to repres space and object
+to manipul them and to test the result arrang accord
+to a varieti of constraint the algorithm us to solv
+problem express in thi languag reli on heurist program both
+the languag and the search algorithm ar detail cacm februari
+1972 eastman c m autom design architectur heurist program space
+plan 3 20 3 40 3 64 3 66 ca720202
+jb januari 31 1978 4 35 pm

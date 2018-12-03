@@ -1,0 +1,4 @@
+a fast random number gener for ibm 360 cacm decemb
+1969 seraphin d s pseudorandom number modulu period float normal
+characterist chi squar test 4 49 5 19 5 5
+ca691218 jb februari 15 1978 1 58 pm

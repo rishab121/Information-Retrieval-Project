@@ -1,0 +1,16 @@
+automat data structur select an exampl and overview the us
+of sever level of abstract ha prove to be veri
+help in construct and maintain program when program ar design
+with abstract data type such as set and list programm
+time can be save by autom the process of fill
+in low level implement detail in the past program system
+have provid onli a singl gener purpos implement for an
+abstract type thu the program produc us abstract type were
+then ineffici in space or time in thi paper a
+system for automat choos effici implement for abstract type from
+a librari of implement is discuss thi process is discuss
+in detail for an exampl program gener issu in data
+structur select ar also review cacm mai 1978 low j
+abstract data type automat program data structur optim compil set
+list 4 12 4 22 4 6 ca780504 dh februari
+26 1979 1 51 pm

@@ -1,0 +1,12 @@
+a syntact algorithm for peak detect in waveform with applic
+to cardiographi peak in a digit waveform ar detect by
+an algorithm incorpor piecewis linear approxim and tabular pars techniqu
+sever paramet serv to identifi the waveform context enabl accur
+measur of peak amplitud durat and shape the algorithm is
+of suffici speed to allow on line real time process
+an exampl of it applic is demonstr on an electrocardiogram
+cacm mai 1975 horowitz s l peak detect digit waveform
+piecewis linear approxim context free grammar bottom up pars electrocardiogram
+3 12 3 24 3 34 3 63 4 19
+5 13 5 23 ca750513 jb januari 9 1978 2
+18 pm

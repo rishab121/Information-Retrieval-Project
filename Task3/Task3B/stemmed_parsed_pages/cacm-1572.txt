@@ -1,0 +1,20 @@
+the simul of time share system the develop of new
+larg scale time share system ha rais a number of
+problem for comput center manag not onli is it necessari
+to develop an appropri hardwar configur for these system but
+appropri softwar adjust must be made unfortun these system often
+do not respond to chang in the manner that intuit
+would suggest and there ar few guid to assist in
+the analysi of perform characterist the develop of a comprehens
+simul model to assist in the investig of these question
+is describ in thi paper the result model ha a
+gener purpos design and can be us to studi a
+varieti of time share system it can also be us
+to assist in the design and develop of new time
+share algorithm or techniqu for the sake of effici and
+greater applic the model wa implement in a limit fortran
+subset that is compat with most fortran iv compil the
+us of the simul is demonstr by a studi of
+the ibm 360 67 time share system cacm juli 1967
+nielsen n r ca670701 jb februari 28 1978 9 15
+am

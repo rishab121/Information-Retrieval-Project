@@ -1,0 +1,4 @@
+algorithm for automat numer integr over a finit interv d1
+algorithm a468 cacm novemb 1973 patterson t n l automat
+integr numer integr automat quadratur numer quadratur 5 16 ca731111
+jb januari 20 1978 9 51 am

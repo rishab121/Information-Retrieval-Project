@@ -1,0 +1,10 @@
+a control system for logic block diagnosi with data load
+thi paper describ a section of an integr diagnost monitor
+system which facilit the check of section of instruct or
+subroutin anywher in the object program a new method of
+specifi all diagnost oper in a format similar to a
+comput program make the system conveni to us and rel
+simpl to understand the paper also describ a number of
+other novel diagnost featur which can be includ in the
+system cacm april 1960 senko m e ca600409 jb march
+22 1978 1 45 pm

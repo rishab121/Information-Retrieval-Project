@@ -1,0 +1,16 @@
+abstract data type and softwar valid a data abstract can
+be natur specifi us algebra axiom the virtu of these
+axiom is that thei permit a represent independ formal specif
+of a data type an exampl is given which show
+how to emploi algebra axiom at success level of implement
+the major thrust of the paper is twofold first it
+is shown how the us of algebra axiomat can simplifi
+the process of prove the correct of an implement of
+an abstract data type second semi automat tool ar describ
+which can be us both to autom such proof of
+correct and to deriv an immedi implement from the axiom
+thi implement allow for limit test of program at design
+time befor a convent implement is accomplish cacm decemb 1978
+guttag j horowitz e musser d abstract data type correct
+proof data type data structur specif 4 34 5 24
+ca781208 dh januari 18 1979 2 51 pm

@@ -1,0 +1,13 @@
+reduc the retriev time of scatter storag techniqu a new
+method for enter and retriev inform in a hash tabl
+is describ the method is intend to be effici if
+most entri ar look up sever time the expect number
+of probe to look up an entri predict theoret and
+verifi by mont carlo experi is consider less than for
+other compar method if the tabl is nearli full an
+exampl of a possibl fortran implement is given cacm februari
+1973 brent r p address calcul content address file search
+hash address hash code linear probe linear quotient method scatter
+storag search symbol tabl 3 7 3 73 3 74
+4 1 4 9 ca730205 jb januari 24 1978 2
+12 pm

@@ -1,0 +1,12 @@
+the us of an interact inform storag and retriev system
+in medic research thi paper present the result of a
+studi of the us of an interact computer storag and
+retriev system a monitor built into the comput system provid
+usag data for the studi addit data on user reaction
+were gath red from a questionnair the result show the
+import role plai by frequent chosen laboratori refer leader in
+influenc the us of thi system the implic of the
+studi for the design of similar system ar discuss cacm
+march 1978 luca hr implement system us inform storag and
+retriev system 2 10 3 50 3 72 ca780301 jb
+march 28 1978 1 51 pm

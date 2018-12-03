@@ -1,0 +1,9 @@
+the intern structur of the fortran cep translat the fortran
+cep translat convert a sourc program written in the fortran
+cep languag into an object program written in the languag
+of the cep comput in thi paper after an outlin
+of the cep comput the intern structur of the translat
+is describ emphasi is on the compil of express of
+input output list and of subscript variabl cacm march 1965
+mancino o g cecchi m m ca650302 jb march 7
+1978 6 23 pm

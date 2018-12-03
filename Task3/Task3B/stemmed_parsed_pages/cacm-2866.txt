@@ -1,0 +1,10 @@
+prove monitor interest schedul and sequenti properti of monitor can
+be prove by us state variabl which record the monitor
+s histori and by defin extend proof rule for their
+wait and signal oper these two techniqu ar defin discuss
+and appli to exampl to prove properti such as freedom
+from indefinit repeat overtak or unnecessari wait upper bound on
+queue length and histor behavior cacm mai 1976 howard j
+monitor correct proof rule histor variabl concurr schedul bound buffer
+semaphor alarm clock disk head 4 32 4 35 5
+24 ca760505 jb januari 4 1978 3 28 pm

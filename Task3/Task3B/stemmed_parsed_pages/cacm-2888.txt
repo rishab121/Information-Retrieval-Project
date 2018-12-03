@@ -1,0 +1,7 @@
+inform refer code item in busi system have to be
+identifi by refer code which can later be us as
+data code and file kei in an associ data process
+system in busi system associ with larg collect of integr
+file databas it is vital to assign code in a
+method wai so as to control futur extens and chang
+while maintain correct program

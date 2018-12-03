@@ -1,0 +1,11 @@
+an iter factor techniqu for polynomi an iter techniqu is
+displai wherebi factor of arbitrari degre can be found for
+polynomi in on variabl converg is shown to occur alwai
+if a certain jacobian doe not vanish and if the
+initi approxim to a factor is near enough to an
+actual factor the process is simpli program and preliminari result
+indic it to be well adapt to us with digit
+comput for factor of degre two the techniqu is similar
+to that of bairstow the present method be somewhat simpler
+cacm march 1963 luther h a ca630326 jb march 14
+1978 12 51 pm

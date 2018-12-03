@@ -1,0 +1,11 @@
+resourc manag for a medium scale time share oper system
+task schedul and resourc balanc for a medium size virtual
+memori page machin ar discuss in relat to a combin
+batch process and time share environ a synopsi is given
+of the task schedul and page algorithm that were implement
+and the result of compar simul ar given by trace
+the develop of the algorithm through six predecessor version throughout
+the discuss particular emphasi is place on balanc the system
+perform rel to the characterist of all the system resourc
+simul result rel to altern hardwar characterist and the effect
+of program

@@ -1,0 +1,14 @@
+store a spars tabl the problem of store and search
+larg spars tabl is ubiquit in comput scienc the standard
+techniqu for store such tabl is hash but hash ha
+poor worst case perform we propos a good worst case
+method for store a static tabl of n entri each
+an integ between 0 and n 1 the method requir
+0 n w word of storag and allow o logn
+n access time although our method is a littl complic
+to us in practic our analysi show why a simpler
+algorithm us for compress lr pars tabl work so well
+cacm novemb 1979 tarjan r yao a gaussian elimin pars
+search spars matrix tabl compress tabl lookup 3 74 4
+12 4 34 5 25 ca791104 db januari 23 1980
+11 24 am

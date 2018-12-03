@@ -1,0 +1,22 @@
+product of multiprogram comput progress in develop an analyt predict
+method multiprogram as it is discuss here is a mode
+of comput oper in which two or more program ar
+concurr in processor memori and proceed each us the same
+central processor unit cpu and input output i o channel
+these program ar actual proceed intermitt and singli accord to
+elig readi to proce and prioriti it is us to
+be abl to repres them as proceed continu and simultan
+each at an effect rate which mai be a fraction
+of that which it would enjoi in the absenc of
+the other program the effect progress rate of each program
+is sensit to mani detail characterist of itself and it
+co resid and simul ha been the best avail method
+of predict it thi paper present the result of progress
+in develop an altern to simul a simul test iter
+comput of these rate under certain situat the algorithm is
+sensit to most of the factor that control the phenomenon
+includ nonquantit or topolog featur of the program structur cacm
+decemb 1969 lasser d j product predict multiprogram simul equip
+evalu hardwar evalu monitor oper system system softwar supervisor perform
+time share time slice 2 43 2 44 4 32
+ca691207 jb februari 15 1978 2 47 pm

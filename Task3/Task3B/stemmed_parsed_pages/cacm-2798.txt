@@ -1,0 +1,16 @@
+analysi of interleav memori system us blockag buffer a model
+of interleav memori system is present and the analysi of
+the model by mont carlo simul is discuss the simul
+investig the perform of variou system structur i e scheme
+for send instruct and data request to the memori system
+perform is measur by determin the distribut of the number
+of memori modul in oper dure a memori cycl an
+import observ from these investig is that separ group instruct
+and data request for memori can substanti increas the averag
+number of memori modul in oper dure a memori cycl
+result of the simul and an analyt studi ar displai
+for variou system structur cacm februari 1975 burnett g j
+coffman e g jr interleav memori system modular memori system
+memori perform analysi blockag buffer conflict buffer simul mont carolo
+simul 5 5 6 34 ca750201 jb januari 12 1978
+8 54 am

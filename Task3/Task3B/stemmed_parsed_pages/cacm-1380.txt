@@ -1,0 +1,9 @@
+simula an algol base simul languag thi paper is an
+introduct to simula a program languag design to provid a
+system analyst with unifi concept which facilit the concis descript
+of discret event system a system descript also serv as
+a sourc languag simul program simula is an extens of
+algol 60 in which the most import new concept is
+that of quasi parallel process cacm septemb 1966 dahl o
+j nygaard k ca660907 jb march 2 1978 6 21
+pm

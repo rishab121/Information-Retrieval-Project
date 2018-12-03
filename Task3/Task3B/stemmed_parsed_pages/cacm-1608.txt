@@ -1,0 +1,14 @@
+numer integr of function that ha a pole it is
+common to need to integr numer function that diverg somewher
+outsid the rang of integr even if the diverg occur
+quit far awai integr formula like simpson s that depend
+on fit a polynomi usual will be inaccur near a
+pole thei will be veri bad a method is describ
+that give formula that will integr function of thi kind
+accur if the order and posit of the pole ar
+known explicit formula ar given that ar easi to us
+on an automat comput it is shown that thei can
+be us for some other singular as well as pole
+if the integr converg integr can be carri to the
+singular the accuraci of the integr with a pole of
+second order is discuss and as an exam

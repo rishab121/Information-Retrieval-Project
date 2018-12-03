@@ -1,0 +1,15 @@
+on the downhil method the downhil method is a numer
+method for solv complex equat f z 0 on which
+the onli restrict is that the function w f z
+must be analyt an introduct to thi method is given
+and a critic review of relat literatur is present although
+in theori the method alwai converg it is shown that
+a fundament dilemma exist which mai caus a breakdown in
+practic applic to avoid thi difficulti and to improv the
+rate of converg toward a root some modif of the
+origin method ar propos and a program fortran base on
+the modifi method is given in algorithm 365 some numer
+exampl ar includ cacm decemb 1969 bach h downhil method
+complex relax method complex iter complex equat transcendent complex equat
+algebra complex equat 5 15 ca691206 jb februari 15 1978
+2 54 pm

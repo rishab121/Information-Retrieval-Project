@@ -1,0 +1,8 @@
+poseidon ani comput that form part of a control system
+whether complet automat or partli human must work at the
+same speed as the control system it must perform it
+calcul or data process fast enough for the result to
+be avail at the requir instant in the action of
+the control system thi known as work in real time
+cacm march 1962 wheel r f ca620315 jb march 20
+1978 2 51 pm

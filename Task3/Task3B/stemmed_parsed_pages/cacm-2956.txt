@@ -1,0 +1,14 @@
+some idea on data type in high level languag a
+number of issu ar explor concern the notion that a
+data type is a set of valu togeth with a
+set of primit oper on those valu among these ar
+the need for a notat for iter over the element
+of ani finit set instead of the more narrow for
+i 1 to n notat the us of the domain
+of an arrai as a data type the need for
+a simpl notat for allow type of paramet to be
+themselv paramet but in a restrict fashion and result problem
+with convers of valu from on type to anoth cacm
+june 1977 gri d gehani n data type gener procedur
+program languag 4 12 4 20 4 22 ca770607 jb
+decemb 28 1977 1 27 pm

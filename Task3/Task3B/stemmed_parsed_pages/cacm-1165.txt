@@ -1,0 +1,11 @@
+the spectra 70 45 emul for the rca 301 the
+rca 301 emul system is suppli with the spectra 70
+45 as a reprogram aid it allow an rca 301
+object program to be run on the spectra 70 45
+without necessit chang in the rca 301 object code execut
+rate ar consider better than tradit simul the emul provid
+an increas in throughput capac for the 301 user on
+the spectra 70 45 the emul make us of both
+hardwar micro program routin and softwar routin to accomplish it
+function cacm decemb 1965 benjamin r i ca651204 jb march
+6 1978 4 15 pm

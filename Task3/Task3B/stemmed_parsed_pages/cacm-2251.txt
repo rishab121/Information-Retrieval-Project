@@ -1,0 +1,11 @@
+weight increment linear search for scatter tabl a new linear
+search for hash tabl whose increment step is a function
+of the kei be address is present comparison with known
+method ar given in term of effici and comput complex
+in particular the new method appli to tabl of size
+n 2 r it allow full tabl search and practic
+elimin primari cluster at a veri low cost cacm decemb
+1972 luccio f linear search weight increment search scatter storag
+hash tabl kei hash address cluster search length 3 73
+3 74 4 9 ca721204 jb januari 27 1978 11
+25 am

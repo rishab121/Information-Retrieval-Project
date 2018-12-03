@@ -1,0 +1,8 @@
+a polici driven schedul for a time share system the
+servic receiv by a process from a time share oper
+system can be character by a resourc count sum w
+i r ij where r ij is the number of
+unit of servic receiv by process i from resourc i
+and w i is the cost per unit of the
+servic each class of user can be character by a
+polici function which specifi the am

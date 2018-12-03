@@ -1,0 +1,13 @@
+autom algebra manipul in celesti mechan in thi paper we
+consid some of the applic of autom algebra manipul which
+have been made in celesti mechan particular attent is paid
+to the us of poisson seri and a typic problem
+in perturb theori is describ the requir of processor for
+us in celesti mechan ar consid and compar with those
+for gener manipul packag some futur direct for research us
+these system ar briefli outlin to illustr the rel simplic
+of the algorithm requir in celesti mechan a typic integr
+problem is consid in an appendix cacm august 1971 jefferi
+w h seri manipul autom algebra celesti mechan 5 10
+5 13 5 17 ca710806 jb februari 2 1978 3
+31 pm

@@ -1,0 +1,16 @@
+a lattic model of secur inform flow thi paper investig
+mechan that guarante secur inform flow in a comput system
+these mechan ar examin within a mathemat framework suitabl for
+formul the requir of secur inform flow among secur class
+the central compon of the model is a lattic structur
+deriv from the secur class and justifi by the semant
+of inform flow the lattic properti permit concis formul of
+the secur requir of differ exist system and facilit the
+construct of mechan that enforc secur the model provid a
+unifi view of all system that restrict inform flow enabl
+a classif of them accord to secur object and suggest
+some new approach it also lead to the construct of
+automat program certif mechan for verifi the secur flow of
+inform through a program cacm mai 1976 den d e
+protect secur inform flow secur class lattic program certif 4
+35 ca760501 jb januari 4 1978 4 10 pm

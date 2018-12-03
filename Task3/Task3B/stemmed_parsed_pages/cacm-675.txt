@@ -1,0 +1,20 @@
+code clinic laboratori data for automat storag and retriev a
+seri of clinic laboratori code have been develop to accept
+and store urin analysi blood chemistri and hematolog test result
+for automat data process the code although construct as part
+of a computer hospit simul have been abl to handl
+the result of everi laboratori test that thei have encount
+the uniqu featur of these code is that thei can
+accept convention record qualit as well as quantit test result
+consequ clinic test result need not be arbitrarili stratifi standard
+or alter in ani wai to be code thi paper
+describ how the code were develop and present a list
+of the urin analysi code five criteria us in develop
+the code ar outlin and the problem of multipl synonym
+terminolog is discuss a solut to the problem is describ
+flexibl comput produc composit laboratori report ar also discuss along
+with reproduct of such a report the paper conclud that
+even though mani problem remain unsolv the next ten year
+could wit the emerg of a practic autom inform system
+in the laboratori cacm novemb 1963 gross l d ca631117
+jb march 13 1978 3 26 pm

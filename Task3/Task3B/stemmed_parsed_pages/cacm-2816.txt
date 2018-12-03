@@ -1,0 +1,15 @@
+optim reorgan of distribut space disk file in most databas
+organ the cost of access the databas will increas due
+to structur chang caus by updat and insert by reorgan
+the databas the access cost can be reduc a basic
+problem is to establish the proper tradeoff between perform storag
+cost and reorgan cost thi paper consid the optimum point
+at which to reorgan a databas a disk file organ
+which allow for distribut free space is describ a cost
+function describ the excess cost due to physic disorgan is
+defin and thi function is minim to obtain the optimum
+reorgan point numer exampl base on the characterist of exist
+disk storag devic ar given cacm novemb 1976 maruyama k
+smith s e disk file free space retriev insert deterior
+reorgan 3 70 3 73 ca761107 jb januari 3 1978
+2 59 pm

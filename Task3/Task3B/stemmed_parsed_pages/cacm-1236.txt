@@ -1,0 +1,16 @@
+the smart automat document retriev system an illustr a fulli
+automat document retriev system oper on the ibm 7094 is
+describ the system is character by the fact that sever
+hundr differ method ar avail to analyz document and search
+request thi featur is us in the retriev process by
+leav the exact sequenc of oper initi unspecifi and adapt
+the search strategi to the need of individu user the
+system is us not onli to simul an actual oper
+environ but also to test the effect of the variou
+avail process method result obtain so far seem to indic
+that some combin of analysi procedur can in gener be
+reli upon to retriev the want inform a typic search
+request is us as an exampl in the present report
+to illustr system oper and evalu procedur cacm june 1965
+salton g lesk m e ca650619 jb march 6 1978
+9 41 pm

@@ -1,0 +1,23 @@
+the multistor parser for hierarch syntact structur a syntact parser
+is describ for hierarch concaten pattern that ar present to
+the analyz in the form of linear string particular emphasi
+is given to the system of signific address by mean
+of which process time for larg scale match procedur can
+be substanti reduc the descript make frequent us of exampl
+taken from the fulli oper implement of the parser in
+an experiment english sentenc analyz by structur an area of
+the comput s central core storag in such a wai
+that the individu locat of byte and bit come to
+repres the data involv in the match procedur the shift
+of inform is reduc to a minimum and the search
+of list is elimin altogeth the match ar trace by
+mean of binari mask and the state of singl bit
+determin the oper flow of the procedur the method could
+be implement with ani interpret grammar provid it can be
+express by the function classif of the item compos the
+input hierarch structur cacm februari 1970 von glasersfeld e pars
+syntact analysi natur languag analysi linguist data process comput linguist
+correl grammar structur recognit pattern recognit match procedur tree structur
+interpret machin translat automat abstract 3 42 3 49 3
+63 3 70 3 71 ca700202 jb februari 14 1978
+12 57 pm

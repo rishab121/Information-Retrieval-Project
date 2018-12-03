@@ -1,0 +1,8 @@
+practic error coeffici in the integr of period analyt function
+by the trapezoid rule theoret and practic valu of error
+coeffici us in bound the error in integr period analyt
+function with the trapezoid rule ar tabul for variou rang
+of the paramet cacm novemb 1968 rabinowitz p theoret error
+coeffici practic error coeffici numer integr period analyt function trapezoid
+rule roundoff error truncat error integr algorithm 5 11 5
+16 ca681107 jb februari 21 1978 2 45 pm

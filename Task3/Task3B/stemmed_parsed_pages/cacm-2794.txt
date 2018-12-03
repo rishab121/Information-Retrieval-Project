@@ -1,0 +1,18 @@
+state space problem reduct and theorem prove some relationship thi
+paper suggest a bidirect relationship between state space and problem
+reduct represent it present a formal base on multipl input
+and multipl output oper which provid a basi for view
+the two type of represent in thi manner a represent
+of the languag recognit problem which is base on the
+cock pars algorithm is us as an illustr a method
+for repres problem in first order logic in such a
+wai that the infer system emploi by a resolut base
+theorem prover determin whether the set of claus is interpret
+in the state spacer mode or in the problem reduct
+mode is present the analog concept in problem reduct and
+theorem prove and the terminolog us to refer to them
+ar note the relationship between problem reduct input resolut and
+linear resolut is discuss cacm februari 1975 vanderbrug g j
+minker j artifici intellig state space represent problem reduct represent
+theorem prove languag recognit 3 64 ca750205 jb januari 12
+1978 8 27 am

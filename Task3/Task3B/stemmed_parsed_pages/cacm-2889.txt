@@ -1,0 +1,26 @@
+perform of height balanc tree thi paper present the result
+of simul that investig the perform of height balanc hb
+k tree it is shown that the onli statist of
+hb 1 tree avl tree that is a function of
+the size of the tree is the time to search
+for an item in the tree for suffici larg tree
+the execut time of all procedur for maintain hb 1
+tree ar independ of the size of the tree in
+particular an averag of 465 restructur ar requir per insert
+with an averag of 2 78 node revisit to restor
+the hb 1 properti an averag of 214 restructur ar
+requir per delet with an averag of 1 91 node
+revisit to restor the hb 1 properti moreov the execut
+time of procedur for maintain hb k tree for k
+1 ar also independ of the size of the tree
+except for the averag number of node revisit on a
+delet oper in order to restor the hb k properti
+on trace back the cost of maintain hb k tree
+drop sharpli as the allow imbal k increas both analyt
+and experiment result that show the cost of maintain hb
+k tree as a function of k ar discuss cacm
+januari 1976 karlton p l fuller s h scrogg r
+e kaehler e b hb k tree balanc tree avl
+tree inform storag and retriev search 3 7 3 72
+3 74 4 49 5 39 ca760104 jb januari 5
+1978 10 27 am

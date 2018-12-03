@@ -1,0 +1,16 @@
+attribut base file organ in a page memori environ the
+high cost of page access impli a need for more
+care data organ in a page memori than is typic
+of most invert file and similar approach to multi kei
+retriev thi articl analys that cost and propos a method
+call multipl kei hash which attempt to minim it sinc
+thi approach is not alwai prefer to invers a combin
+method is describ the exact specif of thi combin for
+a file with given data and traffic characterist is formul
+as a mathemat program the propos heurist solut to thi
+program can often improv on a simpl invers techniqu by
+a factor of 2 or 3 cacm februari 1974 rothni
+j b jr lozano t file organ page retriev algorithm
+invert file multipl kei hash 3 70 3 73 3
+74 3 79 ca740201 jb januari 18 1978 1 37
+pm

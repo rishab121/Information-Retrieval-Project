@@ -1,0 +1,6 @@
+a gener bairstow algorithm the bairstow algorithm is gener to
+the case of a polynomi which is itself a linear
+combin of polynomi satisfi a three term recurs converg properti
+of the method ar deriv cacm june 1967 golub g
+h robertson t n ca670606 jb februari 28 1978 9
+21 am

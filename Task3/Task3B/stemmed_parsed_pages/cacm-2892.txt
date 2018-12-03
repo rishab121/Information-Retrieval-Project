@@ -1,0 +1,15 @@
+a studi of line overhead in the arpanet the form
+extent and effect of the commun line overhead in the
+arpanet ar consid the sourc of thi over head is
+separ into variou level of protocol hierarchi and the characterist
+of each level ar summar then the line effici for
+variou model of system us is studi some measur of
+line effici for the arpanet ar present and by extrapol
+these measur ar us to anticip overhead in a heavili
+load network similar result ar deriv for a recent propos
+network protocol and compar with those for the current system
+cacm januari 1976 kleinrock l naylor w e opderbeck h
+arpanet comput commun network interprocess commun measur packet switch perform
+evalu and effici resourc share 3 81 4 39 4
+6 4 9 ca760101 jb januari 5 1978 10 49
+am

@@ -1,0 +1,6 @@
+systemat gener of hamiltonian circuit for a combinatori matrix which
+mai specifi both direct and nondirect arc the paper describ
+a comput program which gener systemat and exhaust all the
+hamiltonian circuit specif applic is made to the travel salesman
+problem cacm septemb 1966 robert s m ca660911 jb march
+2 1978 4 30 pm

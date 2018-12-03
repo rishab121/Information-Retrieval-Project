@@ -1,0 +1,4 @@
+product type simpson s integr d1 algorithm a437 cacm decemb
+1972 boland w r numer integr product type quadratur simpson
+s rule 5 16 ca721212 jb januari 27 1978 9
+10 am

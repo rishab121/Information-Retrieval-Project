@@ -1,0 +1,8 @@
+an algorithm for the approxim solut of wiener hopf integr
+equat an explicit approxim solut is given for an equat
+where it is assum that the classic wiener hopf techniqu
+mai be appli it is furthermor assum that fourier transform
+ar known explicitli the approxim solut depend on two posit
+paramet cacm novemb 1973 stenger f integr equat wiener hopf
+convolut approxim solut 5 18 ca731117 jb januari 19 1978
+3 36 pm

@@ -1,0 +1,11 @@
+permut of data block in a bubbl memori a common
+intern organ of bubbl memori consist of a set of
+minor loop connect through anoth major loop the problem of
+obtain ani give n permut of the minor loop content
+in minimum time is studi in thi paper a lower
+bound to the number of step requir bui a permut
+algorithm is deriv and the class of optimum algorithm is
+identifi cacm januari 1979 bongiovanni g luccio f bubbl memori
+memori loop permut algorithm data block shift 4 34 5
+30 6 34 ca790103 dh april 10 1979 12 04
+pm

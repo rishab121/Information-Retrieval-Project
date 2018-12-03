@@ -1,0 +1,7 @@
+an algol convolut procedur base on the fast fourier transform
+algorithm 345 c6 cacm march 1969 singleton r c fast
+fourier transform complex fourier transform multivari fourier transform fourier seri
+harmon analysi spectral analysi orthogon polynomi orthogon transform convolut auto
+covari autocorrel cross correl digit filter permut 3 5 3
+83 5 12 5 14 ca690306 jb februari 20 1978
+8 54 am

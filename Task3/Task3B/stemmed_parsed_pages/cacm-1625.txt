@@ -1,0 +1,13 @@
+on the automat simplif of sourc languag program method of
+simplif that can be appli automat to program written in
+an algol like languag ar discuss the simplif ar base
+on the form of the program and the knowledg obtain
+by a processor without ani understand of what the program
+is suppos to do these method have been implement in
+a processor call sure that accept a program written in
+jovial and output an equival jovial program that mai be
+shorter and mai be execut faster than the origin sure
+is describ some of the problem encount in automat improv
+at the sourc languag level ar discuss and further type
+of automat program improv ar suggest cacm march 1967 clark
+e r ca670304 jb februari 28 1978 1 33 pm

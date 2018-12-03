@@ -1,0 +1,21 @@
+optim decis tree through heurist guid search optim decis tabl
+convers ha been tackl in the literatur us two approach
+dynam program and branch and bound the former techniqu is
+quit effect but it time and space requir ar independ
+of how easi the given tabl is furthermor it cannot
+be us to produc good quasi optim solut the branch
+and bound techniqu us a good heurist to direct the
+search but is clutter up by an enorm search space
+sinc the number of solut increas with the number of
+test variabl accord to a doubl exponenti in thi paper
+we suggest a heurist guid top down search algorithm which
+like dynam program recogn ident subproblem but which can be
+us to find both optim and quasi optim solut the
+heurist search method introduc in thi paper combin the posit
+aspect of the abov two techniqu compress tabl with a
+larg number of variabl can be handl without deriv expand
+tabl first cacm decemb 1978 martelli a montanari u decis
+tabl optim decis tabl convers decis tree heurist search and
+or graph dynam program branch and bound 3 59 3
+66 5 42 8 3 ca781206 dh januari 18 1979
+3 56 pm

@@ -1,0 +1,19 @@
+synchron processor with memori content gener interrupt implement of the
+lock unlock method of synchron processor in a multiprocessor system
+usual requir uninterrupt memori paus type instruct an interlock scheme
+call read interlock which doe not requir memori paus instruct
+ha been develop for a dual dec pdp 10 system
+with real time requir the read interlock method doe requir
+a special read interlock instruct in the repertoir of the
+processor and a special read interlock cycl in the repertoir
+of the memori modul when a processor examin a lock
+a memori locat with a read interlock instruct it will
+be interrupt if the lock wa alreadi set examin a
+lock immedi set it if it wa not alreadi set
+thi event sequenc is a read interlock cycl write into
+a lock clear it have the processor interrupt upon encount
+a set lock instead of branch is advantag if the
+branch would have result in an effect interrupt cacm june
+1973 hill j c interrupt supervisor monitor debug parallel process
+associ memori microprogram 4 32 6 29 ca730603 jb januari
+23 1978 3 29 pm

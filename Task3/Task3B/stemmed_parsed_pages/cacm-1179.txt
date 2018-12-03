@@ -1,0 +1,14 @@
+pufft the purdu univers fast fortran translat a core resid
+compil and go system design for the ibm 7090 7094
+comput is describ in littl more than half of the
+32k word core memori pufft provid a monitor for job
+sequenc a translat for the full fortran iv languag the
+fortran subroutin librari an input output system for us at
+compil time and at execut time and a rather elabor
+diagnost messag write routin batch of small and medium size
+fortran iv sourc languag program ar process at veri high
+speed languag compat ha been maintain so that program mai
+be debug in the pufft system and then recompil and
+run in the ibjob ibftc system suppli by the manufactur
+cacm novemb 1965 rosen s spurgeon a donnelli j k
+ca651102 jb march 6 1978 6 17 pm

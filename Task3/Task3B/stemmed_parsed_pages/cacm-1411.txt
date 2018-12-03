@@ -1,0 +1,16 @@
+comparison of sever algorithm for comput of mean standard deviat
+and correl coeffici sever algorithm for comput of basic statist
+ar compar by their perform on systemat gener test data
+the statist calcul were the mean standard deviat and correl
+coeffici for each statist the algorithm includ the usual comput
+formula correct due to an accumul error term and a
+recurs comput of the current valu of the statist the
+usual comput formula were also evalu in doubl precis larg
+error were note for some calcul us the usual comput
+formula the most reliabl techniqu wa correct of the initi
+estim by us of an accumul error term to elimin
+the need for make two pass on the data it
+wa suggest that the initi estim of the mean be
+obtain from a subset of the data cacm juli 1966
+neeli p m ca660703 jb march 6 1978 2 54
+pm

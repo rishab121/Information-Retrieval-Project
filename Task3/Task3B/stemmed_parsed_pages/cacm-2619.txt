@@ -1,0 +1,14 @@
+graph color condit for the exist of solut to the
+timet problem a necessari and suffici condit is present for
+the exist of a solut to the gotlieb class teacher
+timet problem sever relationship ar establish between the class teacher
+timet problem and graph with precondit these precondit place addit
+restrict on the color of a graph the precondit correspond
+to the unavail constraint and preassign meet in the class
+teacher timet problem us some recent result that convert graph
+with precondit to graph without them it is shown that
+the exist of a color of a graph is the
+requir necessari and suffici condit cacm august 1974 neufeld g
+a tartar j graph color preassign prevent of assign class
+teacher timet 3 9 5 30 5 32 5 59
+ca740805 jb januari 17 1978 9 55 am

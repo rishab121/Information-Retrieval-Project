@@ -1,0 +1,11 @@
+variabl width stack charact address variabl field comput permit readi
+establish and manipul of variabl width stack singl machin command
+mai push variabl field item down into such stack or
+pop them up the avail of a varieti of field
+delimit allow the machin to push down or pop up
+more than on variabl width item with on command sinc
+these stack oper can be made the basi of compil
+decod algorithm the proper us of machin of thi class
+for compil ha advantag over machin with fix length word
+cacm octob 1963 rotenberg n opler a ca631006 jb march
+13 1978 6 25 pm

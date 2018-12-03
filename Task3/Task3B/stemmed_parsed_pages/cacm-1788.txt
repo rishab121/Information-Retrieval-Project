@@ -1,0 +1,17 @@
+toward a gener processor for program languag mani effort have
+been made to develop a better wai of implement a
+higher level program languag than by the construct of a
+whole new compil but so far none ha prove gener
+satisfactori in thi paper it is contend that a program
+languag is best describ function as a bodi of macro
+instruct and that the macro call constitut a canon form
+in term of which a program notat mai be describ
+a support discuss of the logic and hi toric role
+of the macro instruct is present also discuss ar the
+conflict between machin independ and object program effici and the
+question of where the greatest difficulti lie in compil construct
+cacm januari 1968 halpern m j program languag translat program
+languag processor gener translat gener processor macro instruct processor meta
+processor meta languag translat meta languag processor compil compil write
+system translat write system 4 10 4 11 4 12
+4 20 ca680106 jb februari 23 1978 2 42 pm

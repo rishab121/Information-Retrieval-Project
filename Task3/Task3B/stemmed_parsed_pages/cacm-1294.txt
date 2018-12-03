@@ -1,0 +1,10 @@
+note on tripl precis float point arithmet with 132 bit
+number in a recent paper gregori and ranei describ a
+techniqu for doubl precis float point arithmet a similar techniqu
+can be develop for tripl precis float point arithmet and
+it is the purpos of thi note to describ thi
+techniqu onli the multipl and the divis algorithm ar describ
+sinc the addit subtract algorithm can be obtain by a
+trivial modif of the algorithm in gregori s and ranei
+s paper cacm march 1965 ikeb y ca650313 jb march
+7 1978 5 54 pm

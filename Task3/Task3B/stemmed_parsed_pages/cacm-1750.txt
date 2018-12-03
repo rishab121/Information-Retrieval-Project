@@ -1,0 +1,4 @@
+consider in the design of a multipl comput system with
+extend core storag the us of larg quantiti of address
+but not execut fast random access memori to heighten the
+multiprogram

@@ -1,0 +1,15 @@
+determin the minimum area encas rectangl for an arbitrari close
+curv thi paper describ a method for find the rectangl
+of minimum area in which a given arbitrari plane curv
+can be contain the method is of interest in certain
+pack and optimum layout problem it consist of first determin
+the minim perimet convex polygon that enclos the given curv
+and then select the rectangl of minimum area capabl of
+contain thi polygon three theorem ar introduc to show that
+on side of the minimum area rectangl must be colinear
+with an edg of the enclos polygon and that the
+minimum area encas rectangl for the convex polygon is also
+the minimum area rectangl for the curv cacm juli 1975
+freeman h shapira r enclos curv optimum layout optimum pack
+minimum area encas rectangl 5 19 5 49 ca750705 jb
+januari 9 1978 10 08 am

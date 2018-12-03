@@ -1,0 +1,11 @@
+method of converg improv for some improp integr in the
+numer integr of an improp integr of the first kind
+it is customari to truncat the integr when the chang
+yield by the last iter is less than some predetermin
+constant the effici of such integr scheme can often be
+improv by us of recent advanc in the theori of
+nonlinear transform howev for sever import integr e g integr
+whose integrand ar ration polynomi these transform fail to yield
+much improv in thi paper sever method of converg improv
+ar develop which greatli improv converg of some improp integr
+includ the integr of ration polynomi cacm juli 1968 mcwilliam

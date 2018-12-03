@@ -1,0 +1,10 @@
+implement of a structur english queri languag the relat model
+of data the xrm relat memori system and the sequel
+languag have been cover in previou paper and ar review
+sequel is a relat data sublanguag intend for the ad
+hoc interact problem solv by non comput specialist a version
+of sequel that ha been implement in a prototyp interpret
+is describ the interpret is design to minim the data
+access oper requir to respond to an arbitrari queri the
+optim algorithm design for thi purpos ar describ cacm octob
+1975 astrahan m m cham

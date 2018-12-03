@@ -1,0 +1,15 @@
+power tree the new class of pk tree is present
+where height balanc is maintain for the node ii on
+particular path the number of node of a pk tree
+asymptot grow as a power of the height in the
+worst case a procedur for node insert is given and
+the class of tree consid is restrict to ipk tree
+which ar buildabl by such a procedur the averag behavior
+of such tree studi by an extens set of simul
+run is close to that of avl tree in particular
+the famili of ipo tree whose main advantag is the
+reduc number of restructur requir after node insert is analyz
+cacm novemb 1978 luccio f pagli l binari search tree
+pk tree ipk tree search length node insert subtre rotat
+3 73 3 74 4 34 5 25 5 31
+ca781109 dh januari 25 1979 4 29 pm

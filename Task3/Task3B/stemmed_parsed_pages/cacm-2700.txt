@@ -1,0 +1,12 @@
+reduct a method of prove properti of parallel program when
+prove that a parallel program ha a given properti it
+is often conveni to assum that a statement is indivis
+i e that the statement cannot be interleav with the
+rest of the program here suffici condit ar obtain to
+show that the assumpt that a statement is indivis can
+be relax and still preserv properti such as halt thu
+correct proof of a parallel system can often be greatli
+simplifi cacm decemb 1975 lipton r j deadlock free reduct
+interrupt indivis parallel program semaphor verif method process comput sequenc
+4 32 4 35 5 24 ca751207 jb januari 5
+1978 3 59 pm

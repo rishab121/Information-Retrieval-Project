@@ -1,0 +1,20 @@
+a softwar design and evalu system a critic failur of
+current softwar system design and implement methodolog is that the
+perform of a propos design is not evalu befor it
+is actual implement in thi paper the reason for thi
+failur ar explor and a new methodolog which overcom mani
+of the difficulti is propos a system which integr perform
+evalu with design and implement is describ thi system is
+base on a simpl high level languag which is us
+to describ the evolv system at all stage of it
+develop the sourc languag descript is us as direct input
+to perform analysi and simul routin us the perform inform
+obtain from these routin as feedback the problem which advers
+affect perform ar detect earli enough so that thei can
+be correct without costli major reimplement of the propos system
+cacm februari 1973 graham r m clanci g j jr
+devanei d b oper system develop languag process softwar evalu
+compil system program supervisori system debug program mainten model system
+integr simul 4 0 4 12 4 22 4 30
+4 42 4 43 8 1 ca730206 jb januari 24
+1978 2 07 pm

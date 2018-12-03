@@ -1,0 +1,14 @@
+a process for the determin of address in variabl length
+address an algorithm is present for the assign of instruct
+address and format under the follow condit 1 the length
+of the instruct vari as a function of the distanc
+of the instruct from it target 2 there exist an
+optim criterion which impli some preferenti choic subject to the
+address constraint thi mai be for exampl achiev the smallest
+number of long instruct in which case the total code
+length is minim or minim the assign address of a
+specifi point in the program the algorithm is suitabl for
+arbitrari program structur and a choic of optim criteria cacm
+june 1976 frieder g saal h j variabl length address
+assembl page 4 11 4 12 ca760604 jb januari 4
+1978 2 09 pm

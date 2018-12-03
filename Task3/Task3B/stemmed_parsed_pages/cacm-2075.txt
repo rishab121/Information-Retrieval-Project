@@ -1,0 +1,4 @@
+discret newton like method for solv a system of simultan
+nonlinear equat algorithm 378 c5 cacm april 1970 pankiewicz w
+newton s method nonlinear equat interpol polynomi 5 15 5
+13 ca700409 jb februari 13 1978 2 48 pm

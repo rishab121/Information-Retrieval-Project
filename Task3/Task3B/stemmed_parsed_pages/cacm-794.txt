@@ -1,0 +1,7 @@
+a list type storag techniqu for alphamer inform a method
+which is econom in term of space and time is
+propos for the storag and manipul of charact string of
+arbitrari length in a fix word length comput the method
+is illustr in an applic to algol type identifi in
+an algol like block structur cacm august 1963 bowlden h
+j ca630804 jb march 13 1978 8 45 pm

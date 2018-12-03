@@ -1,0 +1,22 @@
+experi with a deduct question answer program as an investig
+in artifici intellig comput experi on deduct question answer were
+run with a lisp program call deducom an acronym for
+deduct commun when given 68 fact deducom answer 10 question
+answer from the fact a fact tell deducom either some
+specif inform or a method of answer a gener kind
+of question some conclus drawn in the articl ar 1
+deducom can answer a wide varieti of question 2 a
+human can increas the deduct power of deducom by tell
+it more fact 3 deducom can write veri simpl program
+it is hope that thi abil is the forerunn of
+an abil to self program which is a wai to
+learn 4 deducom s search procedur at present ha two
+bad defect some question answer from the given fact cannot
+be answer and some other answer question can be answer
+onli if the relev fact ar given in the right
+order 6 at present deducom s method of make logic
+deduct in predic calculu ha two bad defect some fact
+have to be chang to logic equival on befor be
+given to deducom and some redund fact have to be
+given to deducom cacm decemb 1965 slagl j r ca651214
+jb march 6 1978 3 34 pm

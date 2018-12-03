@@ -1,0 +1,11 @@
+comparison of sever adapt newton cote quadratur routin in evalu
+definit integr with peak integrand thi report compar the perform
+of five differ adapt quadratur scheme base on newton cote
+2n 1 point rule n 1 2 3 4 5
+in approxim the set of definit integr integr 1 x
+2 p 2 dx with rel accuraci e cacm june
+1970 hillstrom k e adapt newton cote quadratur quadratur scheme
+comparison definit integr evalu adapt numer in tegrat newton cote
+integr peak integrand integr quadratur effici plot new cote rule
+applic newton cote rule modif 5 10 5 16 ca700607
+jb februari 13 1978 11 08 am

@@ -1,0 +1,8 @@
+automat error bound on real zero of ration function a
+procedur for implement an interv arithmet version of the newton
+raphson method is propos the procedur requir onli a start
+interv over which the zero of a given ration function
+ar to be locat the method automat provid bound for
+roundoff error cacm novemb 1966 dargel r h loscalzo f
+r witt t h ca661107 jb march 2 1978 3
+31 pm

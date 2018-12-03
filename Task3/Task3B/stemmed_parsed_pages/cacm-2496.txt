@@ -1,0 +1,15 @@
+on the near optim of the shortest latenc time first
+drum schedul disciplin for comput system in which it is
+practic to determin the instantan drum posit a popular disciplin
+for determin the sequenc in which the record ar to
+be access is the so call shortest latenc time first
+sltf disciplin when a collect of vari length record is
+to be access from specifi drum posit it is known
+that the sltf disciplin doe not necessarili minim the drum
+latenc time howev we show that the total time to
+access the entir collect for ani sltf schedul is never
+as much as a drum revolut longer than a minimum
+latenc schedul cacm june 1973 stone h s fuller s
+h drum schedul shortest access time first minim latenc schedul
+shortest latenc time first 4 31 4 41 6 35
+ca730604 jb januari 23 1978 3 12 pm

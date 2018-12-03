@@ -1,0 +1,4 @@
+pseudofil an approach to system interfac for high level languag
+us basic input output support facil is describ it is
+shown that thi techniqu can provid potenti inexpens method for
+program

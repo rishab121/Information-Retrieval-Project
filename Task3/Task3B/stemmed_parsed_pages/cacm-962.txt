@@ -1,0 +1,11 @@
+doubl precis squar root for the cdc 3600 in januari
+of 1960 the late han j maehli complet a summari
+of approxim to the elementari function for the cdc 1604
+comput the approxim and techniqu suggest by maehli ar equal
+applic to the second larg comput in the cdc line
+the 3600 unlik the 1604 howev the 3600 ha built
+in doubl precis float point arithmet the present work larg
+inspir by the success of maehli and hi associ concern
+the extens of on of maehli s idea to a
+doubl precis subroutin for the 3600 cacm decemb 1964 codi
+w j ca641209 jb march 9 1978 3 31 pm

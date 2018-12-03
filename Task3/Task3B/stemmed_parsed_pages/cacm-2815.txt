@@ -1,0 +1,9 @@
+high level bind with low level linker an easi to
+implement scheme is describ by which a compil can enforc
+agreement between complex data type in separ compil modul the
+scheme is design to work with ani exist link editor
+or link loader no matter how defici obscur run time
+error caus by inconsist usag ar forestal by static error
+detect at link time cacm novemb 1976 hamlet r g
+separ compil bind link strong type 4 10 4 22
+ca761108 jb januari 3 1978 2 44 pm

@@ -1,0 +1,8 @@
+a gener method of systemat interv comput for numer integr
+of initi valu problem a procedur is given for continu
+comput and monitor the step size to be us by
+a self start p th order numer integr method to
+solv an initi valu problem the procedur us an estim
+of the truncat error to calcul the step size cacm
+octob 1966 martin w c paulson k c sashkin l
+ca661004 jb march 2 1978 4 05 pm

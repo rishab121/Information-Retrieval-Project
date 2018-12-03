@@ -1,0 +1,8 @@
+decomposit program an analysi of matrix substructur a petroleum blend
+problem wa analyz in order to compar the primal and
+primal dual decomposit algorithm in the cours of the analysi
+a substructur wa discov which ha relev to the rel
+perform of the two algorithm and to their absolut perform
+as compar with a standard primal simplex solut without decomposit
+cacm octob 1967 bell e j ca671004 jb februari 27
+1978 2 33 pm

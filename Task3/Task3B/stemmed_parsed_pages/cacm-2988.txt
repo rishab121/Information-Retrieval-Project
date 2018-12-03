@@ -1,0 +1,14 @@
+memori manag and respons time thi paper present a computation
+tractabl methodolog for includ accur the effect of finit memori
+size and workload memori requir in queue network model of
+comput system empir analys and analyt studi base on appli
+thi methodolog to an actual multiaccess in teract system ar
+report relat between workload variabl such as memori requir distribut
+and job swap time and perform measur such as respons
+time and memori util ar graphic displai a multiphas analyt
+solubl model is propos as be broadli applic to the
+analysi of in teract comput system which us nonpag memori
+cacm march 1977 brown r m brown j c chandi
+k m memori manag system perform queue network model in
+teract comput system 4 32 ca770304 jb decemb 30 1977
+12 51 am

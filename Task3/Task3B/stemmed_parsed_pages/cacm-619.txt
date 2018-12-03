@@ -1,0 +1,16 @@
+retriev of misspel name in an airlin passeng record system
+thi paper discuss the limit problem of recognit and retriev
+of a given misspel name from among a roster of
+sever hundr name such as the reserv inventori for a
+given flight of a larg jet airlin a program ha
+been develop and oper on the telefil a store program
+core and drum memori solid state comput which will retriev
+passeng record successfulli despit signific misspel either at origin entri
+time or at retriev time the procedur involv an automat
+score techniqu which match the name in a condens form
+onli those few name most close resembl the request name
+with their phone number annex ar present for the agent
+final manual selecton the program ha successfulli isol and retriev
+name which were subject to a number of unusu as
+well as usual misspel cacm march 1962 davidson l ca620313
+jb march 20 1978 2 59 pm

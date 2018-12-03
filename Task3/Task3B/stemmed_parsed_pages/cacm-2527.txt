@@ -1,0 +1,9 @@
+implement of high level languag machin comput machin which directli
+execut the statement of a high level languag have been
+propos in the past thi report describ the actual implement
+of such a machin it is a comput whose machin
+languag is apl the machin is fulli oper and correctli
+execut almost all of the apl oper on scalar vector
+and arrai the machin automat alloc memori execut statement call
+function convert number from on type to anoth check subscript
+and automat detect mani type of program

@@ -1,0 +1,4 @@
+minit algorithm for linear program algorithm 333 h cacm june
+1968 salazar r c sen s linear program dual simplex
+method primal problem dual problem 5 41 ca680616 jb februari
+22 19783 15 pm

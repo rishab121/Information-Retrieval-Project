@@ -1,0 +1,14 @@
+some new upper bound on the gener of prime number
+given an integ n what is the comput complex of
+find all the prime less than n a modifi siev
+of eratosthen us doubli link list yield an algorithm of
+o n arithmet complex thi upper bound is shown to
+be equival to the theoret lower bound for siev method
+without preprocess us of preprocess techniqu involv space time and
+addit multipl tradeoff reduc thi upper bound to o n
+log logn and the bit complex to o n logn
+log log logn a storag requir is describ us o
+n logn log logn bit as well cacm septemb 1977
+mairson h g comput complex siev prime number gener number
+theori link list preprocess balanc 5 25 5 39 ca770907
+jb decemb 27 1977 12 55 pm

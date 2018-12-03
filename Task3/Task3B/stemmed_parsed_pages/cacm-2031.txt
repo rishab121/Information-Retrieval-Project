@@ -1,0 +1,7 @@
+algorithm and bound for the greatest common divisor of n
+integ a new version of the euclidean algorithm for find
+the greatest common divisor of n integ a i and
+multipli x i such that gcd x 1 a 1
+x n a n is present the number of arithmet
+oper and the number of storag locat ar linear in
+n a theorem of lam

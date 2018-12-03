@@ -1,0 +1,10 @@
+fast parallel sort algorithm a parallel bucket sort algorithm is
+present that requir time o log n and the us
+of n processor the algorithm make us of a techniqu
+that requir more space than the product of processor and
+time a realist model is us model is us in
+which no memori content is permit a procedur is also
+present to sort n number in time o k log
+n us n 1 1 k processor for k an
+arbitrari integ the model of comput for thi procedur permit
+simultan fetch from the sam

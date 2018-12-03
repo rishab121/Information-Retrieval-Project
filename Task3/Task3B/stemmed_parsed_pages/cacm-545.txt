@@ -1,0 +1,3 @@
+adjust invers of a matrix when an element is perturb
+algorithm 51 cacm juli 1962 georg r ca620716 jb march
+17 1978 8 22 pm

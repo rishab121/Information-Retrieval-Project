@@ -1,0 +1,13 @@
+the reconstruct of binari pattern from their project given the
+horizont and vertic project of a finit binari pattern f
+can we construct the origin pattern f in thi paper
+we give a character of pattern that ar reconstruct from
+their project three algorithm ar develop to reconstruct both unambigu
+and ambigu pattern it is shown that an unambigu pattern
+can be perfectli reconstruct in time m x n and
+that a pattern similar to an ambigu pattern can also
+be construct in time m x n where m n
+ar the dimens of the pattern frame cacm januari 1971
+chang s pattern reconstruct imag reconstruct data compress pattern recognit
+integr geometri 3 63 5 30 ca710103 jb februari 8
+1978 12 33 pm

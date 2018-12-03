@@ -1,0 +1,16 @@
+a weight buddi method for dynam storag alloc an extens
+of the buddi method call the weight buddi method for
+dynam storag alloc is present the weight buddi method allow
+block size of 2 k and 3 2 k wherea
+the origin buddi method allow onli block size of 2
+k thi extens is achiev at an addit cost of
+onli two bit per block simul result ar present which
+compar thi method with the buddi method these result indic
+that for a uniform request distribut the buddi system ha
+less total memori fragment than the weight buddi algorithm howev
+the total fragment is smaller for the weight buddi method
+when the request ar for exponenti distribut block size cacm
+octob 1974 shen k k peterson j l weight buddi
+algorithm buddi system memori alloc dynam storag alloc 3 89
+4 32 4 39 ca741002 jb januari 16 1978 1
+07 pm

@@ -1,0 +1,11 @@
+a termin orient commun system thi paper describ a system
+for full duplex commun between a time share comput and
+it termin the system consist of a commun comput directli
+connect to the time share system a number of small
+remot comput to which the termin ar attach and connect
+medium speed telephon line it can servic a larg number
+of termin of variou type the overal system design is
+present along with the algorithm us to solv three specif
+problem local echo error detect and correct on the telephon
+line and multiplex of charact output cacm juli 1977 heckel
+p g lam

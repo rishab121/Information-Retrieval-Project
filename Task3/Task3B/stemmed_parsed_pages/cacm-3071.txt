@@ -1,0 +1,14 @@
+an algorithm us symbol techniqu for the bel petrov classif
+of gravit field in thi note an algorithm is present
+for the symbol calcul of certain algebra invari of the
+weyl tensor which permit the determin of the bel petrov
+type of a gravit field thi algorithm although more special
+than that of d inverno and russel clark requir neither
+the us of a special coordin system nor the spin
+coeffici formal the algorithm ha been implement in formac and
+is design to complet the classif scheme propos by petrov
+in hi book an appendix contain exampl illustr the us
+of the algorithm cacm septemb 1978 harri r zund j
+gener rel bel petrov type formac symbol manipul tensor 3
+11 3 15 3 17 ca780901 dh februari 5 1979
+3 43 pm

@@ -1,0 +1,7 @@
+an algorithm for locat adjac storag block in the buddi
+system a simpl scheme for the determin of the locat
+of a block of storag rel to other block is
+describ thi scheme is applic to the buddi type storag
+alloc system cacm april 1975 hind j a dynam storag
+alloc buddi system gener fibonacci sequenc 3 89 4 32
+4 39 ca750409 jb januari 9 1978 3 46 pm

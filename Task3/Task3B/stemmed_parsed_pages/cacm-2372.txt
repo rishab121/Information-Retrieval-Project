@@ -1,0 +1,17 @@
+on the implement of secur measur in inform system the
+secur of an inform system mai be repres by a
+model matrix whose element ar decis rule and whose row
+and column indic ar user and data item respect a
+set of four function is us to access thi matrix
+at translat and execut time distinguish between data depend and
+data independ decis rule enabl on to perform much of
+the check of secur onli onc at translat time rather
+than repeatedli at execut time the model is us to
+explain secur featur of sever exist system and serv as
+a framework for a propos for gener secur system implement
+within todai s languag and oper system cacm april 1972
+conwai r w maxwel w l morgan h l secur
+privaci access control confidenti oper system access manag data bank
+manag inform system 3 50 3 73 4 12 4
+22 4 39 ca720401 jb januari 31 1978 1 59
+pm

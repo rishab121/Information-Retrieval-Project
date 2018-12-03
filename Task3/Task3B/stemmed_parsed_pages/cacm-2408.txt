@@ -1,0 +1,7 @@
+solv the biharmon equat in a squar a direct versu
+a semidirect method two method for solv the biharmon equat
+ar compar on method is direct us eigenvalu eigenvector decomposit
+the other method is iter solv a poisson equat directli
+at each iter cacm novemb 1973 ehrlich l w biharmon
+direct method block iter eigenvector eigenvalu decomposit 5 14 5
+17 ca731118 jb januari 19 1978 3 28 pm

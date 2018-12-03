@@ -1,0 +1,15 @@
+on the interfac between comput and data commun system futur
+system that combin comput digit termin and commun equip present
+design optim problem that requir reconsider of the tradit function
+respons of the respect subsystem sever standard interfac by mean
+of which comput and digit termin connect to the commun
+system will be requir when specifi these interfac consider must
+be given to problem of coordin synchron error control signal
+stream multiplex and switch control in addit to minim the
+technolog interdepend of specif subsystem design a focu on some
+of the problem is obtain in a discuss of a
+detail specif for a particular comput commun system interfac cacm
+juli 1972 fraser a g commun standard interfac commun protocol
+virtual channel multiplex input output coordin of input output 3
+81 6 0 6 35 ca720707 jb januari 30 1978
+2 46 pm

@@ -1,0 +1,17 @@
+loader standard for overlai program the overlai capabl is describ
+for four of the third gener comput system cdc 6000
+ge 635 ibm 360 and univac 1108 a critiqu of
+the first three system is base on actual experi with
+a larg overlaid trajectori simul program a short histori and
+descript of thi program is present a standard of minimum
+capabl for loader is recommend so that program which must
+oper under more than on comput system mai be easili
+convert and maintain a propos that overlai softwar incorpor a
+memori occup specif concept instead of the condit tree structur
+is delin thi concept provid more effici and cost effect
+util of the memori as well as increas flexibl in
+program structur cacm octob 1969 lanzano b c loader overlai
+partit region segment linkag linkag editor standard memori util memori
+occup tree structur cdc 6000 ge 635 ibm 360 univac
+1108 4 10 4 12 4 19 4 40 ca691001
+jb februari 15 1978 4 09 pm

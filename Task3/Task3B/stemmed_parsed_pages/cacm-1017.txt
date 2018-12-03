@@ -1,0 +1,3 @@
+comment on bit sequenc of the ascii in serial by
+bit data transmiss cacm august 1964 bemer r w booth
+j ca640813 jb march 9 1978 6 45 pm

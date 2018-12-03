@@ -1,0 +1,9 @@
+regist alloc via usag count thi paper introduc the notion
+of usag count show how usag count can be develop
+by algorithm that elimin redund comput and describ how usag
+count can provid the basi for regist alloc the paper
+compar regist alloc base on usag count to other commonli
+us regist alloc techniqu and present evid which show that
+the usag count techniqu is significantli better than these other
+techniqu cacm novemb 1974 freiburghous r a optim redund comput
+common subexpress regist alloc compil program

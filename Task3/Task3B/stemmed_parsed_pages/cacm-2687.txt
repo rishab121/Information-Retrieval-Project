@@ -1,0 +1,15 @@
+a cell organ raster displai for line draw raster scan
+comput graphic displai with real time charact gener have previous
+been limit to alphanumer charact a displai is describ which
+extend the capabl of thi organ to includ gener graphic
+the feasibl of such a displai is shown by deriv
+the minimum number of pattern requir in the read onli
+memori of the charact gener to synthes an arbitrari line
+the synthesi process doe not compromis pictur qualiti sinc the
+result dot pattern ar ident with those of a convent
+raster displai furthermor the time constraint of a raster displai
+ar shown to be satisfi for a typic design for
+veri complex line draw cacm februari 1974 jordan b w
+jr barrett r c graphic raster displai line draw discret
+imag dot gener matrix displai 4 41 6 35 8
+2 ca740202 jb januari 18 1978 1 28 pm

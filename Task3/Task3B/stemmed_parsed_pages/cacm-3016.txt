@@ -1,0 +1,11 @@
+a comparison of numer techniqu in markov model thi paper
+present sever numer method which mai be us to obtain
+the stationari probabl vector of markovian model an exampl of
+a nearli decompos system is consid and the result obtain
+by the differ method examin a post mortem reveal why
+standard techniqu often fail to yield the correct result final
+a mean of estim the error inher in the decomposit
+of certain model is present cacm februari 1978 stewart w
+markov model numer techniqu simultan iter near decompos 4 6
+5 14 8 1 ca780207 jb march 28 1978 3
+43 pm

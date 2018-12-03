@@ -1,0 +1,11 @@
+estim of heart paramet us skin potenti measur a fundament
+problem of vector cardiographi is the estim of the state
+of the heart on the basi of skin potenti measur
+a mathemat model relat ventricular dipol to surfac potenti is
+sketch then it is shown that the invers problem that
+of determin electr heart paramet on the basi of skin
+potenti measur mai be view as a nonlinear multipoint boundari
+valu problem a feasibl solut emploi quasilinear and high speed
+digit comput is given cacm novemb 1964 bellman r collier
+c kagiwada h kalaba r selvest r ca641110 jb march
+9 1978 4 00 pm

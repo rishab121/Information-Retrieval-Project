@@ -1,0 +1,9 @@
+three criteria for design comput system to facilit debug the
+design of a comput system should adopt explicit criteria for
+accept or reject propos system featur three possibl criteria of
+thi kind ar input record input specifi and asynchron reproduc
+of output these criteria impli that a user can if
+he desir either know or control all the influenc affect
+the content and extent of hi comput s output to
+defin the scope of the criteria the notion of an
+abstract machin of a program

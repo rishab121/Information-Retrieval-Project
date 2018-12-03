@@ -1,0 +1,10 @@
+an oper environ for dynam recurs comput program system present
+in thi paper is a brief nontechn introduct to oedipu
+a comput program system which can serv as an oper
+environ for dynam and or recurs program and program system
+the avail servic includ dynam alloc of storag for contigu
+block of arbitrari size input and output for a hierarchi
+of data type a public pushdown list for automat recurs
+program a rudimentari compil for subroutin commun and bookkeep and
+debug aid cacm june 1965 brown w s ca650608 jb
+march 6 1978 10 18 pm

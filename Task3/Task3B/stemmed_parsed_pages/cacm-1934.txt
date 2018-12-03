@@ -1,0 +1,9 @@
+on arithmet express and tree a descript is given of
+how a tree repres the evalu of an arithmet express
+can be drawn in such a wai that the number
+of accumul need for the comput can be repres in
+a straightforward manner thi represent reduc the choic of the
+best order of comput to a specif problem under the
+theori of graph an algorithm to solv thi problem is
+present cacm februari 1969 redziejowski r r arithmet express compil
+design graph theori program

@@ -1,0 +1,13 @@
+automast automat mathemat analysi and symbol translat a procedur for
+numer solv system of ordinari differenti equat is shown to
+also gener symbol solut the procedur is base on a
+finit taylor seri expans that includ an estim of the
+error in the final result a comput program is describ
+that read in a system of such equat and then
+gener the expans for all of the depend variabl the
+expans ar determin symbol henc ani non numer paramet in
+the origin equat ar carri automat into the final expans
+thu the exact influenc of ani paramet on the problem
+solut can be easili displai cacm august 1966 ball w
+e bern r i ca660810 jb march 2 1978 7
+16 pm

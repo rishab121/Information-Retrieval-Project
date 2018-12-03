@@ -1,0 +1,17 @@
+hardwar estim of a process primari memori requir a minor
+hardwar extens to the honeywel 6180 processor is demonstr to
+allow the primari memori requir of a process in multic
+to be approxim the addit hardwar requir for thi estim
+to be comput consist of a program access regist contain
+the miss rate of the associ memori us for page
+tabl word thi primari memori requir estim wa emploi in
+an experiment version of multic to control the level of
+multiprogram in the system and to bill for memori usag
+the result system s tune paramet displai configur insensit and
+it is conjectur that the system would also track shift
+in the referenc characterist of it workload and keep the
+system in tune cacm septemb 1977 giffor d k primari
+memori requir virtual memori level of multiprogram associ memori work
+set resourc alloc lru stack model referenc characterist 4 32
+4 35 4 6 6 36 ca770906 jb decemb 27
+1977 1 05 pm

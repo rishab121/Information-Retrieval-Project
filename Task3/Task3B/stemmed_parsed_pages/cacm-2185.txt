@@ -1,0 +1,9 @@
+a note on compil fix point binari multipl an algorithm
+is develop for compil as a sequenc of shift addit
+and subtract mani fix point binari multipl involv a constant
+the most signific characterist of the algorithm ar the simplic
+of the test which determin if the algorithm should be
+appli and the degre to which it suggest effici object
+code cacm june 1971 glaswin h t compil multipl fix
+point arithmet 4 12 ca710605 jb februari 3 1978 10
+04 am

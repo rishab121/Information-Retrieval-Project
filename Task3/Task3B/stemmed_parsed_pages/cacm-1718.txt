@@ -1,0 +1,7 @@
+logic arithmet on comput with two s complement binari arithmet
+algorithm ar present for multipl and divis of unsign integ
+operand in which the digit normal reserv for sign particip
+as signific arithmet digit with posit weight cacm juli 1968
+ehrman j r binari arithmet unsign operand arithmet maximum signific
+arithmet full precis arithmet 3 15 5 11 ca680711 jb
+februari 22 1978 11 34 am

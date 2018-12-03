@@ -1,0 +1,14 @@
+comput gener of gamma random variabl a new method for
+gener random variabl from the gamma distribut with nonintegr shape
+paramet a is propos thi method is similar to two
+other method recent given by wallac and fishman it is
+compar with fishman s and ahren and dieter s method
+the core storag requir and program effort for thi method
+ar similar to those of fishman s method the propos
+method is the same as fishman s method for 1
+a 2 and is faster than fishman s method for
+3 a 19 also the propos method is much simpler
+than ahren and dieter s method and is faster for
+a 8 cacm mai 1978 tadikamalla p gamma variabl reject
+method comput method 5 5 8 1 ca780509 dh februari
+26 1979 1 10 pm

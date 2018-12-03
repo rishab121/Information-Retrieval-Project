@@ -1,0 +1,6 @@
+experi with an automat theorem prover havingparti order infer rule
+automat theorem prover need to be made much more effici
+with thi in mind slagl ha shown how the axiom
+for partial order can be replac by built in infer
+rule when us a particular theorem prove algorithm base upon
+hyper resolut and param

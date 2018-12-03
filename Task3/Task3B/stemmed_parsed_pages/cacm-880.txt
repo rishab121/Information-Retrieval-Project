@@ -1,0 +1,3 @@
+newton interpol with backward divid differ cacm april 1963 kahan
+w farka i ca630411 jb march 14 1978 12 20
+pm

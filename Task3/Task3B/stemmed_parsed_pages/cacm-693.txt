@@ -1,0 +1,8 @@
+an extens of fibonaccian search to sever variabl a techniqu
+which us fibonaccian search concept ha been develop to solv
+optim problem involv unimod function of sever variabl the techniqu
+ha not been proven to be optim in the sens
+that the on dimension fibonaccian search is howev it is
+valuabl for certain kind of calcul cacm octob 1963 krolak
+p cooper l ca631032 jb march 13 1978 4 19
+pm

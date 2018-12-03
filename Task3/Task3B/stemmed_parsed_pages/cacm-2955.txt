@@ -1,0 +1,11 @@
+buddi system two algorithm ar present for implement ani of
+a class of buddi system for dynam storag alloc each
+buddi system correspond to a set of recurr relat which
+relat the block size provid to each other analys of
+the in ternal fragment of the binari buddi system the
+fibonacci buddi system and the weight buddi system ar given
+compar simul result ar also present for in ternal extern
+and total fragment cacm june 1977 peterson j l norman
+t a dynam storag alloc buddi system fragment fibonacci buddi
+system weight buddi system 3 89 4 32 4 39
+ca770608 jb decemb 28 1977 1 20 pm

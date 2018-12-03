@@ -1,0 +1,5 @@
+abstract data type and the develop of data structur abstract
+data type can plai a signific role in the develop
+of softwar that is reliabl effici and flexibl thi paper
+present and discuss the applic of an algebra techniqu for
+the specif of abstract data type am

@@ -1,0 +1,12 @@
+sampl from the gamma distribut on a comput thi paper
+describ a method of gener gamma variat that appear to
+be less costli than wallac s recent suggest method for
+larg shape paramet a the cost of comput is proport
+to a wherea wallac s method is proport to a
+experiment by robinson and lewi indic that for small a
+the method suggest here also domin method recent suggest by
+dieter and ahren albeit those method domin for larg a
+the method suggest here us the reject techniqu cacm juli
+1976 fishman g s gamma variat reflect method sampl 5
+5 8 1 8 3 ca760706 jb januari 4 1978
+12 34 pm

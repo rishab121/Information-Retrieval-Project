@@ -1,0 +1,12 @@
+dynam memori repack a probabilist model of a multiprogram system
+is exercis in order to determin the condit under which
+the dynam repack of main memori is benefici an express
+is deriv for the maximum interfer that a repack process
+mai introduc befor the origin perform of the system is
+degrad altern approach to repack ar discuss and the oper
+condit that lead to improv system throughput through repack ar
+delin cacm march 1974 balkovich e chiu w presser l
+wood r dynam memori repack memori compact storag fragment multiprogram
+system model probabilist model central processor product resourc util system
+throughput 4 32 5 5 6 20 ca740302 jb januari
+18 1978 12 37 pm

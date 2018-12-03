@@ -1,0 +1,9 @@
+implement of the sharer2 time share system a simpl mechan
+is describ for the execut of part of a program
+with it own memori protect thi allow such a program
+to act as a suboper system an improv version of
+the sharer time share system us thi featur is describ
+cacm decemb 1968 harrison m c oper system memori protect
+time share multiprogram monitor submonitor suboper system 4 32 4
+31 4 32 ca681209 jb februari 21 1978 1 27
+pm

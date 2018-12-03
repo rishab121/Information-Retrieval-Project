@@ -1,0 +1,9 @@
+a tape file merg pattern gener a routin is present
+which specifi the sequenc of merg cycl to effect the
+merg of sort tape file the routin is design to
+minim elaps comput time by vari the power of the
+merg cycl so as to us all the avail tape
+drive with it characterist of assign on drive to a
+singl reel file and two drive to each multipl reel
+file cacm mai 1963 cook w s ca630509 jb march
+14 1978 11 21 am

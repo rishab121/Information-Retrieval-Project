@@ -1,0 +1,9 @@
+paramet for pseudo rung kutta method the object of thi
+note is to present a choic of the free paramet
+in the third and fourth order pseudo rung kutta method
+involv two point thi choic of paramet caus a bound
+on the princip part of the truncat error term to
+be near the minimum for the fourth order method and
+at the minimum for the third order method cacm februari
+1967 byrn g d ca670207 jb februari 28 1978 3
+20 pm

@@ -1,0 +1,8 @@
+comparison of iter method for the calcul of nth root
+three iter method for calcul of nth root includ on
+propos by the author ar compar in two wai 1
+theoret converg estim ar given 2 a new macrocompil which
+estim machin run time is us to compar the run
+time of the three method for a varieti of input
+data cacm march 1961 traub j f ca610302 jb march
+17 1978 12 45 am

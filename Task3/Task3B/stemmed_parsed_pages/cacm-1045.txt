@@ -1,0 +1,7 @@
+program analysi of varianc by sequenc of oper and isomorph
+map a special oper calculu develop by hartlei in 1956
+togeth with a new map scheme ha been found to
+be effici in program analysi of varianc for multifactor experi
+the oper calculu and the map scheme ar describ in
+detail cacm juli 1964 peng k c ca640702 jb march
+9 1978 8 30 pm

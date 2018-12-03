@@ -1,0 +1,4 @@
+an effici context free pars algorithm a pars algorithm which
+seem to be the most effici gener context free algorithm
+known is describ it is similar to both knuth s
+lr k algorithm and the fam

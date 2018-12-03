@@ -1,0 +1,15 @@
+common phrase and minimum space text storag a method for
+save storag space for text string such as compil diagnost
+messag is describ the method reli on hand select of
+a set of text string which ar common to on
+or more messag these phrase ar then store onli onc
+the storag techniqu give rise to a mathemat optim problem
+determin how each messag should us the avail phrase to
+minim it storag requir thi problem is nontrivi when phrase
+which overlap exist howev a dynam program algorithm is present
+which solv the problem in time which grow linearli with
+the number of charact in the text algorithm 444 appli
+to thi paper cacm march 1973 wagner r a diagnost
+messag error messag common phrase minimum space text storag optim
+dynam program 3 73 4 10 5 41 ca730302 jb
+januari 24 1978 1 12 pm

@@ -1,0 +1,11 @@
+a design for a number theori packag with an optim
+trial divis routin a number theori packag is describ which
+us doubli link list structur for store multiprecis integ the
+packag ha been code in ibm s basic assembl languag
+and make heavi us of the macro languag and condit
+assembl an optim code trial divis routin is also describ
+which can be us to determin the uniqu factor of
+larg integ cacm mai 1974 wunderlich m c selfridg j
+l number theori packag trial divis multiprecis arithmet factor doubli
+link list pseudoprim 3 15 ca740505 jb januari 17 1978
+4 09 pm

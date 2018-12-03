@@ -1,0 +1,11 @@
+a bound storag algorithm for copi cyclic structur a new
+algorithm is present which copi cyclic list structur us bound
+workspac and linear time unlik a previou similar algorithm thi
+on make no assumpt about the storag alloc system in
+us and us onli oper like to be avail in
+a high level languag the distinct featur of thi algorithm
+is a techniqu for travers the structur twice us the
+same span tree in each case first from left to
+right and then from right to left cacm june 1977
+robson j m copi share subtre cyclic structur 4 49
+5 25 ca770609 jb decemb 28 1977 12 56 pm

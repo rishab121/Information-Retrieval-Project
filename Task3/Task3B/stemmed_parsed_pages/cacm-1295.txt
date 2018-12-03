@@ -1,0 +1,15 @@
+pert time calcul without topolog order a simplifi techniqu is
+present for pert time calcul without topolog order each event
+is assign a uniqu memori locat an activ is repres
+by a link a link is defin as a memori
+locat contain the address of anoth memori locat the time
+inform for an activ is carri with it link for
+a typic net the major of activ can be describ
+by on 36 bit cell each the remaind us two
+36 bit cell each the link ar unidirect forward dure
+the t e calcul expect complet time for an activ
+backward dure the t l calcul time latest allow for
+complet of an activ the calcul progress through the net
+topolog even though the net is not repres topolog in
+core cacm march 1965 lass s e ca650312 jb march
+7 1978 6 00 pm

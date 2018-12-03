@@ -1,0 +1,15 @@
+analysi of boolean program model for time share page environ
+direct graph or their associ matric ar frequent us to
+repres the logic structur of sequenc of comput instruct such
+techniqu ar us and in addit data refer ar repres
+in a nondirect model the complet structur specif of a
+program is repres by a combin model a transform of
+the combin model yield a new model in which addit
+time inform is also contain analysi of these model prior
+to execut yield inform valuabl in determin segment of instruct
+and data for a time share environ as well as
+for initi page load dure execut the analysi mai be
+us for look ahead control of page turn cacm april
+1969 low t c time share page segment execut compil
+monitor program model 4 39 6 21 ca690401 jb februari
+17 1978 4 50 pm

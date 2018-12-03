@@ -1,0 +1,7 @@
+error bound for period quintic spline explicit error bound for
+period quintic spline interpol ar develop the first third deriv
+of the period spline is shown to be a sixth
+fourth order approxim at the mesh point to the first
+third deriv of the function be interpol cacm august 1969
+hall c a spline interpol error bound 5 1 5
+13 ca690804 jb februari 15 1978 5 58 pm

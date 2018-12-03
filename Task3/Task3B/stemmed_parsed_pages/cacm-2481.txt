@@ -1,0 +1,12 @@
+the distribut of a program in primari and fast buffer
+storag a virtual memori comput system with a fast buffer
+cach memori between primari memori and the central process unit
+is consid the optim distribut of a program between the
+buffer and primari memori is studi us the program s
+lifetim function express for the distribut of a program which
+maxim the us fraction of the cost time integr of
+primari and fast buffer storag ar obtain for swap and
+nonswap buffer manag polici cacm juli 1973 gelenb e cach
+virtual memori lifetim function cost time integr fast buffer 4
+3 6 2 6 3 ca730705 jb januari 23 1978
+12 41 pm

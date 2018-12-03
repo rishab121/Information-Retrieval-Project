@@ -1,0 +1,16 @@
+convert a program languag is describ which is applic to
+problem conveni describ by transform rule by thi is meant
+that pattern mai be prescrib each be associ with a
+skeleton so that a seri of such pair mai be
+search until a pattern is found which match an express
+to be transform the condit for a match ar govern
+by a code which also allow subexpress to be identifi
+and eventu substitut into the correspond skeleton the primit pattern
+and primit skeleton ar describ as well as the principl
+which allow their elabor in to more complic pattern and
+skeleton the advantag of the languag ar that it allow
+on to appli transform rule to list and arrai as
+easili as string that both pattern and skeleton mai be
+defin recurs and that as a consequ program mai be
+state quit concis cacm august 1966 guzman a mcintosh h
+v ca660808 jb march 2 1978 7 32 pm

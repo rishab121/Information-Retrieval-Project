@@ -1,0 +1,19 @@
+autom print circuit rout with a step apertur a comput
+program for rout interconnect on a two side print circuit
+board with a regular pattern of line pin termin and
+via feed through hole is describ in thi program each
+interconnect is given a plan rout typic down from the
+upper pin through a via and horizont to the lower
+pin from the top a virtual apertur i e a
+long horizont slit is step down the board the plan
+rout is the basi for rerout interconnect within the apertur
+to resolv conflict for line and via below the apertur
+and to maxim the effect line usag if a conflict
+ha not been resolv befor the apertur arriv at the
+lower pin interconnect ar delet to resolv the conflict extens
+of thi techniqu to the control of crosstalk between rout
+interconnect and to the problem of obtain 100 percent interconnect
+ar also discuss cacm mai 1969 lass s rout print
+circuit interconnect apertur step apertur comput program circuit board line
+via pin 3 24 6 30 ca690503 jb februari 17
+1978 3 57 pm

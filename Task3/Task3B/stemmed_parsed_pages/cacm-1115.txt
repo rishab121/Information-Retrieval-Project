@@ -1,0 +1,5 @@
+random binari search with tree structur a more effici method
+of us tree structur is propos which util both plu
+and minu branch in the search path veri signific gain
+result when the search kei includ alphabet charact cacm march
+1964 clam

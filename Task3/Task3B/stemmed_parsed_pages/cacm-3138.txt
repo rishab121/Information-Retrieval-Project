@@ -1,0 +1,21 @@
+a mathemat program updat method us modifi given transform and
+appli to lp problem an effici and numer stabl method
+is present for the problem of updat an orthogon decomposit
+of a matrix of column or row vector the fundament
+idea is to add a column or row analog to
+ad an addit row of data in a linear least
+squar problem a column or row is drop by a
+formal scale with the imaginari unit 1 follow by least
+squar addit of the column or row the elimin process
+for the procedur is success ssive applic of the given
+transform in modifi more effici form these idea ar illustr
+with an implement of the revis simplex method the algorithm
+is a gener purpos on that doe not account for
+ani particular structur or sparsiti in the equat some suggest
+comput test for determin sign of variou control paramet in
+the revis simplex algorithm ar mention a simpl mean of
+construct test case and some sampl comput time ar present
+cacm april 1979 hanson r wisniewski j linear program numer
+linear algebra modifi given transform linear program test case 5
+5 4 5 41 5 1 5 14 ca790404 dh
+mai 21 1979 2 06 pm

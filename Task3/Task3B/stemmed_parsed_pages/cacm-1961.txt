@@ -1,0 +1,15 @@
+an effici search algorithm to find the elementari circuit of
+a graph a theoret most effici search algorithm is present
+which us an exhaust search to find all of the
+elementari circuit of a graph the algorithm can be easili
+modifi to find all of the elementari circuit with a
+particular attribut such as length a rigor proof of the
+algorithm is given as well as an exampl of it
+applic empir bound ar present relat the speed of the
+algorithm to the number of vertic and the number of
+arc the speed is also relat to the number of
+circuit in the graph to give a relat between speed
+and complex extens to undirect and s graph ar discuss
+cacm decemb 1970 tiernan j c algorithm graph theori circuit
+search algorithm path search algorithm search 3 74 5 32
+ca701202 jb februari 9 1978 4 12 pm

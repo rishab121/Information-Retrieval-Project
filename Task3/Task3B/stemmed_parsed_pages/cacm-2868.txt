@@ -1,0 +1,14 @@
+reflect on an oper system design the main featur of
+a gener purpos multiaccess oper system develop for the cdc
+6400 at berkelei ar present and it good and bad
+point ar discuss as thei appear in retrospect distinct featur
+of the design were the us of capabl for protect
+and the organ of the system into a sequenc of
+layer each build on the facil provid by earlier on
+and protect itself from the malfunct of later on there
+were seriou problem in maintain the protect between layer when
+level were ad to the memori hierarchi these problem ar
+discuss and a new solut is describ cacm mai 1976
+lampson b w sturgi h e oper system protect capabl
+layer domain memori hierarchi fault 4 35 ca760503 jb januari
+4 1978 3 57 pm

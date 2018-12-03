@@ -1,0 +1,12 @@
+mechan of tediou algebra the e coeffici of theoret chemistri
+a tabl of formula for certain integr involv legendr function
+ha been construct mechan by a program which perform algebra
+oper the formula ar all ration algebra express in a
+singl variabl and were construct by a recurr procedur thei
+ar of interest in molecular quantum chemistri trivial code techniqu
+were us to write the relev program in fortran the
+result were photo compos on a photon s 560 system
+that wa control by tape which were punch directli from
+the comput output so avoid manual keyboard transcript error and
+keyboard correct cacm decemb 1964 wactlar h d barnett m
+p ca641207 jb march 9 1978 3 38 pm

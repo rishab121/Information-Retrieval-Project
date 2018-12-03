@@ -1,0 +1,12 @@
+syntax direct least error analysi for context free languag a
+practic approach a least error recogn is develop inform us
+the well known recogn of earlei along with element of
+bellman s dynam program the analyz take a gener class
+of context free grammar as driver and ani finit string
+as input recognit consist of a least error count for
+a correct version of the input rel to the driver
+grammar the algorithm design emphas practic aspect which help in
+program it cacm januari 1974 lyon g arbitrari input string
+context free grammar pars dynam program store subanalys separ state
+merg least error correct 4 12 5 23 5 42
+ca740101 jb januari 18 1978 2 57 pm

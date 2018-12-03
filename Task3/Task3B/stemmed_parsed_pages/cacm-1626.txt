@@ -1,0 +1,14 @@
+structur of a lisp system us two level storag in
+an ideal list process system there would be enough core
+memori to contain all the data and program describ in
+thi paper ar a number of techniqu that have been
+us to build a lisp system util a drum for
+it princip storag medium with a surprisingli low time penalti
+for us of thi slow storag devic the techniqu includ
+care segment of system program alloc of virtual memori to
+allow address arithmet for type determin and a special algorithm
+for build reason linear list a scheme for bind variabl
+is describ which is good in thi environ and allow
+for complet compat between compil and interpret program with no
+special declar cacm march 1967 bobrow d g murphi d
+l ca670303 jb februari 28 1978 1 39 pm

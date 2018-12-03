@@ -1,0 +1,16 @@
+sort in a page environ thi sort studi wa part
+of an extens measur project undertaken on the m44 44x
+an experiment page system which wa conceiv and implement at
+ibm research in order to explor the virtual machin concept
+the studi wa concern with the implement of sort procedur
+in the context of the dynam page environ characterist of
+virtual memori machin descript of the experiment sort program and
+analysi of the perform measur result obtain for them ar
+present the insight gain from the experiment effort is us
+to arriv at a set of broad guidelin for write
+sort program for a page environ cacm august 1970 brawn
+b s gustavson g mankin e s sort merg virtual
+machin page system dynam storag alloc measur of system program
+behavior perform evalu memori manag 4 32 4 49 4
+9 5 31 ca700804 jb februari 10 1978 3 51
+pm

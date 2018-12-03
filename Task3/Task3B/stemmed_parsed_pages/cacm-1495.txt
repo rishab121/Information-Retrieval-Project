@@ -1,0 +1,9 @@
+solut of transcendent equat by seri revers an algorithm is
+develop for express the solut y of the equat f
+y g x as a power seri in x x0
+when f and g ar given as power seri and
+the root y0 is known at y x0 the algorithm
+is illustr for the equat y y x i e
+1 y ln 1 y ln 1 x cacm januari
+1966 thacher jr h c ca660102 jb march 3 1978
+4 27 pm

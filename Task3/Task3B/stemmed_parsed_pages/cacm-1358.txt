@@ -1,0 +1,10 @@
+syntax macro and extend translat a translat approach is describ
+which allow on to extend the syntax and semant of
+a given high level base languag by the us of
+a new formal call a syntax macro syntax macro defin
+string transform base on syntact element of the base languag
+two type of macro ar discuss and exampl ar given
+of their us the condit gener of macro base on
+option and altern recogn by the scan ar also describ
+cacm novemb 1966 leavenworth b m ca661102 jb march 2
+1978 3 46 pm

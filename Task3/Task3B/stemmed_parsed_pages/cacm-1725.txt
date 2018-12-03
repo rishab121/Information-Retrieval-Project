@@ -1,0 +1,26 @@
+a simpl proof of lewin s order retriev theorem for
+associ memori an effici method of order retriev of binari
+word from an associ memori as describ by lewin is
+base on the us of special readout circuit which indic
+the digit valu present in the individu digit column of
+the memori thu the circuit indic whether the individu digit
+column contain digit of both valu or of onli on
+valu or contain no digit at all i e that
+the memori is empti the us of these circuit which
+in thi paper ar term column valu indic reduc consider
+the number of memori access necessari to retriev in order
+a number of distinct word from the memori lewin prove
+that for the readout by the describ method of m
+distinct binari word 2m 1 memori access ar necessari thu
+he prove that the number of necessari memori access of
+hi method unlik those of other method is independ of
+the word length in thi paper a veri simpl proof
+of thi theorem deriv from some elementari aspect of the
+structur of set of binari number is present cacm juli
+1968 wolinski a associ memori content address memori order list
+order inform retriev order retriev theorem column digit valu digit
+valu varieti column sens arrang digit valu readout digit varieti
+readout memori access memori access frequenc order retriev effici access
+frequenc proof retriev theorem proof 3 74 3 79 5
+29 5 31 6 31 6 36 ca680704 jb februari
+22 1978 12 24 pm

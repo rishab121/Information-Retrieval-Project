@@ -1,0 +1,3 @@
+pitch period determin of speech sound a comput procedur which
+determin pitch period by the recognit of the peak structur
+of the speech waveform is describ speech sound were sam

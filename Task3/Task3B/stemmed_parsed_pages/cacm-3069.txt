@@ -1,0 +1,16 @@
+a practic interprocedur data flow analysi algorithm a new interprocedur
+data flow analysi algorithm is present and analyz the algorithm
+associ with each procedur in a program inform about which
+variabl mai be modifi which mai be us and which
+ar possibl preserv by a call on the procedur and
+all of it subcal the algorithm is suffici power to
+be us on recurs program and to deal with the
+share of variabl which aris through refer paramet the algorithm
+is uniqu in that it can comput all of thi
+inform in a singl pass not requir a prepass to
+comput call relationship or share pattern the algorithm is asymptot
+optim in time complex it ha been implement and is
+practic even on program which ar quit larg cacm septemb
+1978 barth j data flow analysi global flow analysi optim
+side effect relat refer paramet incarn 4 12 4 20
+ca780903 dh februari 5 1979 3 07 pm

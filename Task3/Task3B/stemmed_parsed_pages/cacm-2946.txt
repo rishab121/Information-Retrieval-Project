@@ -1,0 +1,7 @@
+an altern to event queue for synchron in monitor in
+the monitor concept as propos by brinch hansen and hoar
+event ar us for synchron thi paper describ anoth synchron
+primit which is nearli as express as the condit wait
+but can be implement more effici an implement of thi
+primit in term of p and v oper is given
+togeth with a correct proof two exam

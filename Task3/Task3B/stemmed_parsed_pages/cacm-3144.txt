@@ -1,0 +1,9 @@
+a model for and discuss of multi interpret system a
+multi interpret system is a system in which program execut
+by virtu of be interpret by other program which themselv
+mai either be interpret i e nest interpret or run
+directli on the host machin the model reveal the anatomi
+of interpret and how these differ from procedur and exhibit
+link to protect domain and multiprocessor architectur cacm mai 1979
+manthei m interpret transfer of control hierarchi 4 13 3
+65 ca790505 dh august 21 19791 14 pm

@@ -1,0 +1,4 @@
+on the number of automorph of a singli gener automaton
+cacm septemb 1970 bavel z automata finit automata singli gener
+automata automorph gener length of state minim length gener orbit
+5 22 ca700914 jb februari 10 1978 9 54 am

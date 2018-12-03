@@ -1,0 +1,11 @@
+new upper bound for select the worst case minimum number
+of comparison complex vi n of the i th select
+problem is consid a new upper bound for vi n
+improv the bound given by the standard hadian sobel algorithm
+by a gener of the kirkpatrick hadian sobel algorithm and
+extend kirkpatrick s method to a much wider rang of
+applic thi gener compar favor with a recent algorithm by
+hyafil cacm septemb 1976 yap c k select problem algorithm
+comparison problem concret comput complex upper bound worst case analysi
+5 25 5 31 ca760902 jb januari 4 1978 9
+48 am

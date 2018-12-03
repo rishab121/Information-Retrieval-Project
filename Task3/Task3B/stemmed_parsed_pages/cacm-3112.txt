@@ -1,0 +1,25 @@
+list process in real time on a serial comput a
+real time list process system is on in which the
+time requir by the elementari list oper e g con
+car cdr rplaca replacd eq and atom in lisp is
+bound by a small constant classic implement of list process
+system lack thi properti becaus alloc a list cell from
+the heap mai caus a garbag collect which process requir
+time proport to the heap size to finish a real
+time list process system is present which continu reclaim garbag
+includ direct cycl while linear and compact the access cell
+into contigu locat to avoid fragment the free storag pool
+the program is small and requir no time share interrupt
+make it suitabl for microcod final the system requir the
+same averag time and not more than twice the space
+of a classic implement and those space requir can be
+reduc to approxim classic proport by compact list represent arrai
+of differ size a program stack and hash link ar
+simpl extens to our system and refer count is found
+to be inferior for mani applic cacm april 1978 baker
+h real time compact garbag collect list process virtual memori
+file or databas manag storag manag storag alloc lisp cdr
+code refer count 3 50 3 60 3 73 3
+80 4 13 4 22 4 32 4 33 4
+35 4 49 ca780404 dh februari 26 1979 4 32
+pm

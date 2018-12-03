@@ -1,0 +1,19 @@
+dynam respons time predict for comput network if the ultim
+aim of a comput network is resourc share then the
+human compon as well as the technic compon of network
+must be fulli investig to achiev thi goal thi research
+is a first step toward assist the user in particip
+in the vast store of resourc avail on a network
+analyt simul and statist perform evalu tool ar emploi to
+investig the feasibl of a dynam respons time monitor that
+is capabl of provid compar respons time inform for user
+wish to process variou comput applic at some network comput
+node the research clearli reveal that suffici system data ar
+current obtain at least for the five divers arpa network
+system studi in detail to describ and predict the respons
+time for network time share system as it depend on
+some measur of system activ or load level cacm juli
+1977 mamrak s a respons time monitor comput network time
+share system compar respons time arpa network anlyt model simul
+benchmark job system measur 4 6 6 20 8 1
+ca770701 jb decemb 28 1977 12 42 pm

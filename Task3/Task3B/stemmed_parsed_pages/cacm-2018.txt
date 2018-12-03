@@ -1,0 +1,15 @@
+full tabl quadrat search for scatter storag the quadrat residu
+search method for hash tabl avoid much of the cluster
+experienc with a linear search method the simpl quadrat search
+onli access half the tabl it ha been shown that
+when the length of the tabl is a prime of
+the form 4n 3 where n is an integ the
+whole tabl mai be access by two quadrat search plu
+a separ access for the origin entri point a search
+method is present which is computation simpl ha all the
+advantag of the quadrat search and yet access all the
+tabl in on sweep cacm august 1970 dai a c
+quadrat residu search method hash tabl scatter storag dictionari look
+up quadrat search search hash hash code cluster collis 3
+7 3 73 3 74 ca700803 jb februari 10 1978
+3 57 pm

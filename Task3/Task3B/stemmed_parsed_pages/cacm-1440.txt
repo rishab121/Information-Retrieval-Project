@@ -1,0 +1,8 @@
+start approxim for squar root calcul on ibm system 360
+sever start approxim for squar root calcul by newton s
+method ar present in a form to facilit their us
+in ibm system 360 squar root routin these approxim includ
+sever for the rang 1 16 1 which is the
+interv of primari interest on ibm system 360 cacm april
+1966 fike c t ca660409 jb march 3 1978 10
+32 am

@@ -1,0 +1,17 @@
+tenex a page time share system for the pdp 10
+tenex is a new time share system implement on dec
+pdp 10 augment by special page hardwar develop at bbn
+thi report specifi a set of goal which ar import
+for ani time share system it describ how the tenex
+design and implement achiev these goal these includ specif for
+a power multiprocess larg memori virtual machin intim termin interact
+comprehens uniform file and i o capabl and clean flexibl
+system structur although the implement describ here requir some compromis
+to achiev a system oper within six month of hardwar
+checkout tenex ha met it major goal and provid reliabl
+servic at sever site and through the arpa network cacm
+march 1972 bobrow d g burchfiel j d murphi d
+l tomlinson r s beranek b tenex page virtual machin
+time share system schedul algorithm process structur pdp 10 2
+44 4 32 4 39 4 42 ca720301 jb januari
+31 1978 3 37 pm

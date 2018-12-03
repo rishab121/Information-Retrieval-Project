@@ -1,0 +1,15 @@
+a unifi approach to schedul thi paper present a scheme
+for classifi schedul algorithm base on an abstract model of
+a schedul system which formal the notion of prioriti variou
+class of schedul algorithm ar defin and relat to exist
+algorithm a criterion for the implement effici of an algorithm
+is develop and result in the definit of time invari
+algorithm which includ most of the commonli implement on for
+time invari algorithm the depend of process rate on prioriti
+is deriv the abstract model provid a framework for implement
+flexibl schedul in real oper system the polici driven schedul
+of bernstein and sharp is discuss as an exampl of
+such an implement cacm juli 1977 ruschitzka m fabri r
+s schedul algorithm schedul model prioriti oper system processor share
+implement effici 4 31 4 32 4 34 4 35
+8 1 ca770702 jb decemb 28 1977 12 32 pm

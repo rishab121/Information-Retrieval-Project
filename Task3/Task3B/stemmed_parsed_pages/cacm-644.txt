@@ -1,0 +1,13 @@
+a string languag for symbol manipul base on algol 60
+an artifici comput program languag is propos for describ the
+manipul of string of charact and symbol the concept of
+string introduc in the algol 60 report is extend by
+ad 1 the declar of string substr and string arrai
+with explicit length 2 the abil to concaten and shift
+string and 3 the rank of symbol for compar sting
+in boolean relat a primer or inform descript of the
+languag is follow by exampl a descript of experi with
+the languag on an ibm 704 comput and a formal
+descript which taken with the algol 60 report defin the
+propos string languag cacm januari 1962 wegstein j h youden
+w w ca620115 jb march 20 1978 4 02 pm

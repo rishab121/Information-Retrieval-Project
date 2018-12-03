@@ -1,0 +1,15 @@
+order n correct for regular languag a method is present
+for calcul a string b belong to a given regular
+languag l which is nearest in number of edit oper
+to a given input string a b is view as
+a reason correct for the possibl erron string a where
+a wa origin intend to be a string of l
+the calcul of b by the method present requir time
+proport to a the number of charact in a the
+method should find applic in inform retriev artifici intellig and
+spell correct system cacm mai 1974 wagner r a error
+correct regular languag regular event finit state automata compil error
+recoveri spell correct string best match problem correct corrector error
+nondeterminist finit state automata 4 12 4 20 5 22
+5 23 5 42 ca740503 jb januari 17 1978 4
+26 pm

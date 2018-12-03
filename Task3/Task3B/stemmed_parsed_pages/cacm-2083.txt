@@ -1,0 +1,14 @@
+creation and control of intern data base under a fortran
+program environ a method is describ for the definit of
+a user s common structur and the automat gener of
+the necessari common dimens equival and type declar for each
+of the user s routin the definit for the common
+is contain in an easi to modifi form thu allow
+the control of gener commun of data between routin the
+describ system ha been implement on the ibm 7094 cdc
+6000 seri and the ibm 360 the method ha prove
+to be invalu for the definit and control of common
+in mani larg scale program cacm april 1970 desalvio a
+j purdi j g rau j data base fortran common
+common equivalenc subroutin commun data commun 3 73 4 12
+4 43 ca700401 jb februari 13 1978 3 34 pm

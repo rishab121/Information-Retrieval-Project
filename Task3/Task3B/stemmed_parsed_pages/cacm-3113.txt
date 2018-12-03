@@ -1,0 +1,11 @@
+optim convers of extend entri decis tabl with gener cost
+criteria a gener dynam program algorithm for convert limit extend
+or mix entri decis tabl to optim decis tree is
+present which can take into account rule frequenc or probabl
+minimum time and or space cost criteria common action set
+compress rule and els rule sequenc constraint on condit test
+exclud combin of condit certain ambigu and interrupt rule mask
+cacm april 1978 lew a decis tabl optim program dynam
+program 3 59 4 19 4 29 4 49 5
+39 5 42 8 3 ca780403 dh februari 26 1979
+4 37 pm

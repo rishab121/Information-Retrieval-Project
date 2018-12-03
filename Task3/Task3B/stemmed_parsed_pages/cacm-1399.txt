@@ -1,0 +1,6 @@
+on top to bottom recognit and left recurs a procedur
+is given for obtain structur descript in a context free
+grammar by perform the recognit accord to a strongli equival
+left recurs freegrammar the effect of allow null string in
+the rewrit rule is discuss cacm juli 1966 kurki suonio
+r ca660713 jb march 2 1978 8 29 pm

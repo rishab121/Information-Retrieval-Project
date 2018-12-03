@@ -1,0 +1,10 @@
+a simpl recoveri onli procedur for simpl preced parser a
+simpl method is describ enabl simpl preced parser to recov
+from syntax error no attempt to repair error is made
+yet pars and most semant process can continu the result
+is a good first approxim to syntax error handl with
+neglig increas in pars time space and complex of both
+the parser and it tabl gener cacm novemb 1978 riplei
+d syntax error error recoveri pars simpl preced compil debug
+4 12 4 42 5 23 ca781106 dh januari 26
+1979 10 52 am

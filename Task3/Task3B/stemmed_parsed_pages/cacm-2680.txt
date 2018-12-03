@@ -1,0 +1,15 @@
+optim space alloc on disk storag devic when the amount
+of space requir for file storag exce the amount which
+can be kept on line decis must be made as
+to which file ar to be perman resid and which
+mountabl these decis will affect the number of mount request
+issu to the oper thi is often a bottleneck in
+a comput facil and reduc the number of mount thu
+decreas turnaround time an optim model for the assign of
+file to disk pack and pack to either resid or
+nonresid statu is present heurist ar suggest for those case
+in which it is ineffici to comput the actual optimum
+cacm march 1974 morgan h l disk analysi disk optim
+disk file file system file schedul space alloc memori hierarchi
+3 72 3 73 4 39 ca740303 jb januari 18
+1978 12 32 pm

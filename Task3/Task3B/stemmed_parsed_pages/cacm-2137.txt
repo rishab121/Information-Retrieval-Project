@@ -1,0 +1,6 @@
+new lisp techniqu for a page environ the system describ
+herein emploi the block concept and that of global and
+local variabl in addit to the method appli in most
+lisp system also a new mean of list represent is
+us local sequenti for list creat dure compil and block
+level sequenti for those creat dynam

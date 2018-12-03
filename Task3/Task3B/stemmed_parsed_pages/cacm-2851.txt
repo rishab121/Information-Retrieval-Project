@@ -1,0 +1,27 @@
+formal verif of parallel program two formal model for parallel
+comput ar present an abstract conceptu model and a parallel
+program model the former model doe not distinguish between control
+and data state the latter model includ the capabl for
+the represent of an infinit set of control state by
+allow there to be arbitrarili mani instruct pointer or process
+execut the program an induct principl is present which treat
+the control and data state set on the same ground
+through the us of place variabl it is observ that
+certain correct condit can be express without enumer of the
+set of all possibl control state exampl ar present in
+which the induct principl is us to demonstr proof of
+mutual exclus it is shown that assert orient proof method
+ar special case of the induct principl a special case
+of the assert method which is call parallel place assert
+is shown to be incomplet a formal of deadlock is
+then present the concept of a norm is introduc which
+yield an extens to the deadlock problem of floyd s
+techniqu for prove termin also discuss is an extens of
+the program model which allow each process to have it
+own local variabl and permit share global variabl correct of
+certain form of implement is also discuss an appendix is
+includ which relat thi work to previou work on the
+satisfi of certain logic formula cacm juli 1976 keller r
+m parallel program correct verif assert deadlock mutual exclus petrinet
+4 6 5 2 6 9 8 1 ca760702 jb
+januari 4 1978 1 20 pm

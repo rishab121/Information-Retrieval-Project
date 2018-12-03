@@ -1,0 +1,11 @@
+monitor an oper system structur concept thi paper develop brinch
+hansen s concept of a monitor as a method of
+structur an oper system it introduc a form of synchron
+describ a possibl method of implement in term of semaphor
+and give a suitabl proof rule illustr exampl includ a
+singl resourc schedul a bound buffer an alarm clock a
+buffer pool a disk head optim and a version of
+the problem of reader and writer cacm octob 1974 hoar
+c a r monitor oper system schedul mutual exclus synchron
+system implement languag structur multiprogram 4 31 4 22 ca741001
+jb januari 16 1978 1 23 pm

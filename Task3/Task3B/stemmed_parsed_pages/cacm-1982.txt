@@ -1,0 +1,4 @@
+modifi havi integr algorithm 400 d1 cacm octob 1970 wallick
+g c numer integr havi integr romberg quadratur modifi romberg
+quadratur trapezoid valu rectangl valu 5 16 ca701008 jb februari
+10 1978 9 22 am

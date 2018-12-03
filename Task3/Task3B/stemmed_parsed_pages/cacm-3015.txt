@@ -1,0 +1,26 @@
+relax method for imag reconstruct the problem of recov an
+imag a function of two variabl from experiment avail integr
+of it gray over thin strip is of great import
+in a larg number of scientif area an import version
+of the problem in medicin is that of obtain the
+exact densiti distribut within the human bodi from x rai
+projectionsn approach that ha been taken to solv thi problem
+consist of translat the avail inform into a system of
+linear inequ the size and the sparsiti of the result
+system typic 25 000 inequ with fewer than 1 percent
+of the coeffici nonzero make method us success relax computation
+attract as compar to other wai of solv system of
+inequ in thi paper it is shown that for a
+consist system of linear inequ ani sequenc of relaxarion paramet
+ly strictli between 0 and 2 gener a sequenc of
+vector which converg to a solut under the same assumpt
+for a system of linear equat the relax method converg
+to the minimum norm solut previous propos techniqu ar shown
+to be special case of our procedur with differ choic
+of relax paramet the practic consequ for imag reconstruct of
+the choic of the relax paramet ar discuss cacm februari
+1978 herman g lent a lutz p biomed imag process
+imag reconstruct x rai tomographi mathemat program linear inequ relax
+techniqu 3 12 3 17 3 34 3 63 5
+14 5 18 5 41 ca780208 jb march 28 1978
+2 13 pm

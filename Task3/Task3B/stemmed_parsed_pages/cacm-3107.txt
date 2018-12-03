@@ -1,0 +1,8 @@
+gener beta variat with nonintegrel shape paramet a new reject
+method is describ for gener beta variat the method is
+compar with previous publish method both theoret and through comput
+time it is suggest that the method ha advantag in
+both speed and program simplic over previou method especi for
+difficult combin of paramet valu cacm april 1978 cheng r
+beta variat random number simul 5 5 8 1 ca780409
+dh februari 26 1979 3 32 pm

@@ -1,0 +1,4 @@
+acceler lp algorithm it is shown how a novel method
+for comput relat inner product can acceler the price phase
+of lp algorithm other lp applic ar indic cacm juli
+1969 fox b l linear program

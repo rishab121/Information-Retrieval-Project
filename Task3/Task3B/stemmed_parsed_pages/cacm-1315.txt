@@ -1,0 +1,18 @@
+autom of the radioisotop account system the radioisotop servic of
+the veteran administr hospit omaha nebraska us a manual system
+of radioisotop account for three year the procedur which wa
+satisfactori but time consum wa convert from manual to a
+fulli autom comput system in januari 1963 the program for
+purchas radioisotop is written in format fortran for the ibm
+1620 comput a second program for maintain account for reactor
+creat radioisotop is written in the forcom program languag a
+minimum amount of bookkeep is requir by the reactor oper
+staff the unit state atom energi commiss regul specifi that
+record be kept thi system provid detail record for each
+contain of radioact materi purchas and or creat in the
+triga reactor indic the amount receiv us and or transfer
+to the health physicist for dispos consolid record contain total
+amount receiv us and or dispos of for ani specifi
+period of time purchas radioisotop ar report in millicuri reactor
+creat radioisotop in microcuri cacm februari 1965 lahner e l
+ca650209 jb march 7 1978 11 10 pm

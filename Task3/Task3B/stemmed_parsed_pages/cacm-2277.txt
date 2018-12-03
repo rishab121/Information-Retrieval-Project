@@ -1,0 +1,15 @@
+demand page through util of work set on the maniac
+ii a hardwar implement on the maniac ii comput of
+the work set model for demand page as introduc by
+den is discuss characterist of the maniac ii ar given
+along with a descript of the basic demand page scheme
+and the associ memori which ha been ad to the
+maniac ii hardwar final a descript of the hardwar design
+for implement of the work set model is discuss and
+a specif of the action taken under variou condit which
+mai aris dure the oper of the full work set
+model demand page system is given cacm octob 1972 morri
+j b demand page dynam storag alloc maniac ii memori
+alloc on level store page page associ memori storag alloc
+thrash virtual memori work set model 4 30 6 21
+ca721001 jb januari 27 1978 4 06 pm

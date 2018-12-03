@@ -1,0 +1,12 @@
+an effici machin independ procedur for garbag collect in variou
+list structur a method for return regist to the free
+list is an essenti part of ani list process system
+in thi paper past solut of the recoveri problem ar
+review and compar a new algorithm is present which offer
+signific advantag of speed and storag util the routin for
+implement thi algorithm can be written in the list languag
+with which it is to be us thu insur a
+degre of machin independ final the applic of the algorithm
+to a number of differ list structur appear in the
+literatur is indic cacm august 1967 schorr h wait w
+m ca670806 jb februari 27 1978 4 28 pm

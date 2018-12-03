@@ -1,0 +1,14 @@
+a preliminari system for the design of dbtg data structur
+the function approach to databas design is introduc in thi
+approach the goal of design is to deriv a data
+structur which is capabl of support a set of anticip
+queri rather than a structur which model the busi in
+some other wai an oper comput program is describ which
+util the function approach to design data structur conform to
+the data base task group specif the automat program technolog
+util by thi program although typic us to gener procedur
+is here us to gener declar cacm octob 1975 gerritsen
+r network model of databas data base task group databas
+design data structur automat program translat nonprocedur languag 3 5
+3 64 3 7 4 2 5 23 ca751001 jb
+januari 6 1978 2 02 pm

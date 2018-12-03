@@ -1,0 +1,8 @@
+extrem portabl random number gener extrem portabl subroutin ar sometim
+need for which moder qualiti and effici suffic typic thi
+occur for librari function like random number gener and in
+core sort which ar not entir univers or ar not
+us in a standard wai the literatur on random number
+gener doe not seem to contain an algorithm that meet
+requir of thi sort an extrem portabl 8 line fortran
+program

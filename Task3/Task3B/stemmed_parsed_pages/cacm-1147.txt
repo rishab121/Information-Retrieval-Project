@@ -1,0 +1,11 @@
+on the numer solut of boundari valu problem for linear
+ordinari differenti equat a numer method is present for the
+solut of boundari valu problem involv linear ordinari differenti equat
+the method describ is nonit and make us of ani
+on step numer integr scheme to reduc the problem from
+on of boundari valu to on of initi valu comment
+ar made concern some numer result of appli the method
+to a specif problem in addit an extens of the
+algorithm describ to more gener problem is discuss cacm januari
+1964 dai j t collin ii g w ca640108 jb
+march 10 1978 5 32 am

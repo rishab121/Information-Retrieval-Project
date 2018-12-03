@@ -1,0 +1,16 @@
+on coordin reduct and sentenc analysi a class of coordin
+phenomena in natur languag is consid within the frame work
+of transform theori to account for these phenomena it is
+propos that certain machineri be ad to the syntact compon
+of a transform grammar thi machineri includ certain rule schemata
+the condit under which thei ar to be appli and
+condit determin the sequenc of subtre on which thei ar
+to be perform a solut to the syntact analysi problem
+for thi class of grammar is outlin precis specif of
+both the gener procedur of thi paper and it invers
+is given in the form of lisp function definit cacm
+april 1969 petrick s r postal p m rosenbaum p
+s natur languag gener grammar transform theori syntax coordin sentenc
+coordin sentenc coordin coordin reduct syntact analysi grammar test program
+rule test 3 42 ca690406 jb februari 17 1978 4
+25 pm

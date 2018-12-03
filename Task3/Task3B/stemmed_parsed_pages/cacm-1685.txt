@@ -1,0 +1,12 @@
+gan a system for gener and analyz activ network gan
+a system for gener activ network is design to save
+time in the prepar of activ network and to deal
+conveni with network program a defin descript of a program
+languag design for gener activ network from a set of
+standard network is present also a gener idea of a
+languag for perform calcul on activ network schedul activ network
+is given cacm octob 1968 schurmann a activ network manag
+project standard network network gener network assembl activ network analysi
+network calcul network program 3 50 3 53 4 11
+4 12 4 29 ca681002 jb februari 21 1978 4
+22 pm

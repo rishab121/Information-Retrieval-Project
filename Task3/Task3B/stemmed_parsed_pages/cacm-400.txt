@@ -1,0 +1,3 @@
+comment on the implement of recurs procedur and block in
+algol 60 cacm januari 1961 iron e t feurzeig w
+ca610114 jb march 17 1978 1 13 am

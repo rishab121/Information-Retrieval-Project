@@ -1,0 +1,11 @@
+test data as an aid in prove program correct proof
+of program correct tend to be long and tediou wherea
+test though us in detect error usual doe not guarante
+correct thi paper introduc a techniqu wherebi test data can
+be us in prove program correct in addit to simplifi
+the process of prove correct thi method simplifi the process
+of provid accur specif for a program the applic of
+thi techniqu to procedur and recurs program is demonstr cacm
+mai 1978 geller m program verif program test recurs program
+4 22 4 6 5 24 ca780503 dh februari 26
+1979 2 10 pm

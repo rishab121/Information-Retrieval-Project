@@ -1,0 +1,9 @@
+least squar analysi of reson spectra on small comput the
+problem of analyz data from a mossbauer effect experi is
+discuss by us the cut step procedur for converg and
+by impos physic constraint on the function form of the
+calcul it is possibl to make the analysi on a
+small comput the analysi ha been carri out on an
+ibm 1410 comput with a 40 000 bcd core memori
+cacm mai 1965 marshal s w nelson j a wilenzick
+r m ca650511 jb march 7 1978 1 10 pm

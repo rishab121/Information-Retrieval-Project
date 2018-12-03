@@ -1,0 +1,12 @@
+cobol under control a sampl set of cobol program standard
+is offer these standard constrain code to be develop in
+a structur form for both data and control structur thei
+do not requir syntax beyond the exist cobol languag and
+in fact util a typic limit subset of the 1974
+an cobol standard these standard have prove extrem valuabl in
+practic and have reduc the cost and time to produc
+and maintain larg softwar system that have been deploi in
+live multipl custom environ cacm novemb 1976 ledgard h f
+cave w c cobol structur program softwar develop program standard
+3 5 4 22 4 43 ca761102 jb januari 3
+1978 3 43 pm

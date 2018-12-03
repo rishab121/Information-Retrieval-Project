@@ -1,0 +1,22 @@
+a lightpen control program for on line data analysi thi
+paper describ a techniqu design to eas the us of
+a data process system by a person in particular a
+scientist who is intim and primarili concern with interpret the
+signific of data handl by the system sinc such a
+person is often unabl to spend the time necessari to
+master a program languag it is essenti that he be
+aid in compos command to the comput in the system
+describ the user is not requir to learn or rememb
+the vocabulari of the languag becaus the vocabulari is displai
+befor him on menu by mean of a comput drive
+scope he select the variou vocabulari element requir by point
+with the light pen by us of a small unord
+set of rewrit rule appli as a result of light
+pen select the user gener onli syntact correct command to
+the system he doe not have to learn or rememb
+the grammar the program restrict the user sever in the
+particular languag he can us but the method for commun
+with the program make these restrict seem quit natur and
+unconstrain the program ha been us successfulli for over ten
+month cacm februari 1965 goodenough j b ca650217 jb march
+7 1978 10 40 pm

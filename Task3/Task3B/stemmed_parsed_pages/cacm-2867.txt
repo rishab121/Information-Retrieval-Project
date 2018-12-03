@@ -1,0 +1,10 @@
+modular and hierarchi in a famili of oper system thi
+paper describ the design philosophi us in the construct of
+a famili of oper system it is shown that the
+concept of modul and level do not coincid in a
+hierarchi of function famili member can share much softwar as
+a result of the implement of run time modul at
+the lowest system level cacm mai 1976 habermann a n
+flon l cooprid l increment machin design modul data type
+address space virtual memori 4 0 4 30 4 35
+ca760504 jb januari 4 1978 3 33 pm

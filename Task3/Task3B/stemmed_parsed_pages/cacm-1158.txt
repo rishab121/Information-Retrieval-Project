@@ -1,0 +1,5 @@
+program structur for parallel process construct for organ and explic
+parallel program segment ar discuss as extens to algol 60
+the construct serv as meta command and ar motiv by
+equip have multiprocess capabl cacm decemb 1965 anderson j p
+ca651211 jb march 6 1978 3 39 pm

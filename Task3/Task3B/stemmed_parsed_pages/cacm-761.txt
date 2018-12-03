@@ -1,0 +1,7 @@
+a note on the dangl els in algol 60 some
+revis of algol 60 ar propos which not onli elimin
+certain ambigu statement but also add some conveni to the
+languag a discuss of the background of the problem and
+a sketch of a proof that the ambigu have been
+remov is includ cacm august 1963 kaup jr a f
+ca630837 jb march 13 1978 8 06 pm

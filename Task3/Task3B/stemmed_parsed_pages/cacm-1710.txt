@@ -1,0 +1,14 @@
+asp a ring implement associ structur packag asp is a
+gener purpos associ data structur packag in which an arbitrari
+number of data item and an arbitrari number of the
+relationship between these data item mai be repres a special
+pictur languag is describ which ha prove veri us for
+draw asp structur on paper asp structur ar built and
+manipul by mean of a seri of macro call which
+ar outlin in the appendix emphasi is on the philosophi
+of the system rather than a particular implement though suffici
+inform is includ to enabl the reader to produc hi
+own implement of asp cacm august 1968 lang c a
+grai j c associ data structur ring structur list list
+structur set languag model graphic 4 20 4 22 ca680804
+jb februari 22 1978 11 02 am

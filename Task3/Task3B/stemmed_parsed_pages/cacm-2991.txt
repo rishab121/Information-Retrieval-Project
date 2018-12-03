@@ -1,0 +1,18 @@
+improv the access time for random access file cluster in
+the kei set is decreas by smooth the kei to
+address transform and by ad shadow bucket to an open
+chain file the kei ar pre hash befor the address
+divis to remov the effect of sequenti properti in the
+kei set shadow bucket in the kei search sequenc reduc
+the effect of nonuniform in file load and decreas the
+number of maximum probe need to locat a record the
+combin effect of these techniqu lead to improv file perform
+for secondari storag devic as shown by empir studi cacm
+march 1977 clapson p hash hash techniqu hash method hash
+code kei kei transform kei to address transform direct address
+direct access direct access method random random access file address
+file organ file structur scatter storag search method collis synonym
+cluster inform retriev open address open chain bucket bucket size
+shadow bucket combinator 3 7 3 72 3 73 3
+74 4 9 5 39 ca770301 jb decemb 30 1977
+2 00 am

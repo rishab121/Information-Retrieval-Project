@@ -1,0 +1,17 @@
+a model for mask rotat latenc by dynam disk alloc
+thi paper present the background and algorithm for mask the
+rotat latenc of a disk or drum it discuss the
+anticipatori input and output of block of data to buffer
+and primari memori for a mono program comput system a
+basic permut algorithm and sever variat ar given becaus of
+the anticipatori natur of the i o schedul these algorithm
+ar restrict to class of program with predict behavior while
+the method ar not restrict to numer comput matrix and
+partial differenti equat method ar typic exampl of their us
+it is shown that latenc mai be mask us a
+small amount of buffer memori the method discuss ar independ
+of the overal size of the data base be consid
+cacm mai 1974 gold d e kuck d j buffer
+memori memori hierarchi permut algorithm rotat latenc stage storag alloc
+4 41 6 20 ca740507 jb januari 17 1978 3
+59 pm

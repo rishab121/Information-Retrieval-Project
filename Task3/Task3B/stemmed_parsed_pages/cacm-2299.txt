@@ -1,0 +1,2 @@
+an extens editor for a small machin with disk storag
+a design philosophi for develop a sophist util program

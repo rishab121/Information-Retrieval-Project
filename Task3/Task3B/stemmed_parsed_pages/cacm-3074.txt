@@ -1,0 +1,14 @@
+a time and space effici garbag compact algorithm given an
+area of storag contain scatter mark node of differ size
+on mai wish to rearrang them into a compact mass
+at on end of the area while revis all pointer
+to mark node to show their new locat an algorithm
+is describ here which accomplish thi task in linear time
+rel to the size of the storag area and in
+a space of the order of on bit for each
+pointer the algorithm oper by revers encod the situat that
+a collect of locat point to a singl locat by
+a linear list eman from the point to locat pass
+through the point locat and termin with the point to
+locat s transplant content cacm august 1978 morri f garbag
+collect compact compact ific storag reclam

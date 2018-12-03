@@ -1,0 +1,13 @@
+new method to color the vertic of a graph thi
+paper describ effici new heurist method to color the vertic
+of a graph which reli upon the comparison of the
+degre and structur of a graph a method is develop
+which is exact for bipartit graph and is an import
+part of heurist procedur to find maxim cliqu in gener
+graph final an exact method is given which perform better
+than the randal brown algorithm and is abl to color
+larger graph and the new heurist method the classic method
+and the exact method ar compar cacm april 1979 brelaz
+d np complet graph structur balanc graph color schedul comparison
+of the method 5 25 5 32 ca790405 dh june
+5 1979 2 05 pm

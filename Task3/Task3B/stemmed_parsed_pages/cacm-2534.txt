@@ -1,0 +1,7 @@
+design and implement of a diagnost compil for pl i
+pl c is a compil for a dialect for pl
+i the design object wa to provid a maximum degre
+of diagnost assist in a batch process environ for the
+most part thi assist is implicit and is provid automat
+by the compil the most remark characterist of pl c
+is it persever it complet translat of everi program

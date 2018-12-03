@@ -1,0 +1,15 @@
+the self judgment method of curv fit a comput orient
+method for process and commun numer data is describ the
+instrument reliabl factor irf which exactli defin the limit of
+reliabl of each measur item of inform ar us to
+comput the maximum permit error mpe associ with each valu
+of each ordin the self judgment principl sjp is us
+to discard wrong inform and to comput mean valu of
+the paramet and their mpe s in term of the
+irf data compat test with ani number of differ equat
+can be made quickli otherwis intract problem ar easili solv
+and the design of mani experi is greatli simplifi the
+comput and mathemat techniqu us to reduc bia in the
+sjp ar discuss inadequaci in the statist and graphic method
+of curv fit ar note cacm august 1965 demain p
+a d ca650818 jb march 6 1978 7 50 pm

@@ -1,0 +1,12 @@
+descript of basic algorithm in detab 65 preprocessor the basic
+algorithm for the convers of decis tabl into cobol code
+is contain in the gener portion of the detab 65
+preprocessor the gener analyz a decis tabl and produc simpl
+cobol condit statement core storag is save by us queue
+techniqu and extens index and also by output the code
+as it is gener a line at a time the
+onli optim attempt is the elimin of obvious unnecessari test
+on certain condit in the decis tabl sinc the preprocessor
+and thi languag associ with it were develop for cobol
+user the preprocessor wa written in a modular form in
+requir cobol 61 cacm juli 1967 callahan m d chapm

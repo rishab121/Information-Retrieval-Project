@@ -1,0 +1,9 @@
+parallel numer method for the solut of equat classic iter
+procedur for the numer solut of equat provid at each
+stage a singl new approxim to the root in question
+a techniqu is given for the develop of numer procedur
+which provid at each stage sever approxim to a solut
+of an equat the s8ever approxim obtain in ani iter
+ar computation independ make the method of interest in a
+parallel process environ converg is insur by extract the best
+inform at each iter sever fam

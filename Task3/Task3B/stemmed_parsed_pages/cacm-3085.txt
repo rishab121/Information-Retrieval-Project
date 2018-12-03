@@ -1,0 +1,15 @@
+an o n algorithm for determin a near optim comput
+order of matrix chain product thi paper discuss the comput
+of matrix chain product of the form m1 x m2
+x x mn where mi s ar matric the order
+in which the matric ar comput affect the number of
+oper a suffici condit about the associ of the matric
+in the optim order is present an o n algorithm
+to find an order of comput which take less than
+25 percent longer than the optim time topt is also
+present in most case the algorithm yield the optim order
+or an order which take onli a few percent longer
+than topt less than 1 percent on the averag cacm
+juli 1978 chin f approxim algorithm heurist algorithm matrix multipl
+matrix chain product 5 14 ca780703 dh februari 8 1979
+2 46 pm

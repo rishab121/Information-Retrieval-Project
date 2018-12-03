@@ -1,0 +1,14 @@
+a new approach to automat scan of contour map the
+problem of automat digit of contour map is discuss the
+structur of a gener contour map is analyz and it
+topolog properti ar util in develop a new scan algorithm
+the problem of detect and recognit of contour line is
+solv by a two color label method it is shown
+that for map contain normal contour line onli it suffic
+to distinguish between so call even and odd line the
+tangenc problem involv in practic scan is discuss and a
+solut base on minim comput memori space and simplifi control
+program is suggest cacm septemb 1972 mor m lamdan t
+automat scan contour map digit contour line topolog detect and
+recognit 3 14 3 19 6 35 6 36 ca720903
+jb januari 27 1978 4 46 pm

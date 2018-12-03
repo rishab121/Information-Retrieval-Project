@@ -1,0 +1,3 @@
+riccati bessel function of first and second kind algorithm 22
+cacm novemb 1960 oser h ca601102 jb march 20 1978
+8 04 pm

@@ -1,0 +1,5 @@
+symbol manipul of poisson seri poisson seri of three variabl
+ar manag symbol through as a set of formal subroutin
+written partial in the ibm 7094 machin languag but to
+be call in the fortran languag for us in fortran
+program

@@ -1,0 +1,23 @@
+a fast method for solv a class of tridiagon linear
+system the solut of linear system have real symmetr diagon
+domin tridiagon coeffici matric with constant diagon is consid it
+is prove that the diagon of the lu decomposit converg
+when float point precis it is also prove that the
+comput lu decomposit converg when float point arithmet is us
+and that the limit of the lu diagon us float
+point ar roughli within machin precis of the limit us
+real arithmet thi fact is exploit to reduc the number
+of float point oper requir to solv a linear system
+from 8n 7 to 5n 2k 3 where k is
+much less than n the order of the matrix if
+the element of the subdiagon and superdiagon ar 1 then
+onli 4n 2k 3 oper ar need the entir lu
+decomposit take k word of storag and consider save in
+arrai subscript ar achiev upper and lower bound on k
+ar obtain in term of the ratio of the coeffici
+matrix diagon constant and paramet of the float point number
+system variou gener of these result ar discuss cacm januari
+1974 malcolm m a palmer j numer linear algebra linear
+system toeplitz matric tridiagon matric 5 5 1 5 11
+5 14 5 17 ca740102 jb januari 18 1978 2
+50 pm

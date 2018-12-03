@@ -1,0 +1,12 @@
+muse a model to understand simpl english muse is a
+comput model for natur languag process base on a semant
+memori network like that of quillian s tlc muse from
+a model to understand simpl english process english sentenc of
+unrestrict content but somewhat restrict format the model first appli
+syntact analysi to elimin some interpret and then emploi a
+simplifi semant intersect procedur to find a valid interpret of
+the input while the semant process is similar to tlc
+s the syntact compon includ the earli us of pars
+tree and special purpos rule the relat tripl notat us
+dure interpret of input is compat with muse s memori
+structur allow direct verif of fam

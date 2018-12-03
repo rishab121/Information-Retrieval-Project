@@ -1,0 +1,16 @@
+data filter appli to inform storag and retriev applic manipul
+of data string is the most complex process function in
+inform storag and retriev applic data string manipul is discuss
+within the context of an interpret process environ control by
+the us of procedur direct the sequenc of procedur direct
+is deriv from a job assum to be express in
+a user orient sourc languag each data string with the
+structur data environ data bank is explicitli or implicitli relat
+to a format declar resid in a format librari the
+process mechan associ with data string manipul is develop in
+accord with a gener data filter concept thi result in
+the implement of a two part data filter modul that
+satisfi intern process function by filter data string through format
+declar associ with it input and output port cacm novemb
+1966 larsen r p ca661101 jb march 2 1978 3
+52 pm

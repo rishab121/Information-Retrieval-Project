@@ -1,0 +1,14 @@
+the realloc of hash code tabl when the space alloc
+for a hash code tabl is alter the tabl entri
+must be rescatt over the new space a techniqu for
+accomplish thi rescatt is present the techniqu is independ of
+both the length of the tabl and the hash function
+us and can be util in conjunct with a linear
+realloc of the tabl be rescatt moreov it can be
+us to elimin previous flag delet from ani hash code
+tabl or to chang from on hash method to anoth
+the effici of the techniqu is discuss and theoret statist
+ar given cacm januari 1973 bai c realloc dynam storag
+hash code scatter storag delet 3 7 3 73 3
+74 4 9 ca730102 jb januari 24 1978 4 50
+pm

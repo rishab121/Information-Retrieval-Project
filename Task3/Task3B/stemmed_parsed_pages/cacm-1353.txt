@@ -1,0 +1,7 @@
+techniqu for automat toler control in linear program in thi
+technic note the numer step for the simplex method of
+linear program ar review and the toler need in the
+numer procedur ar defin object criteria ar given for accomplish
+the numer step of the method and the calcul of
+necessari toler cacm novemb 1966 clasen r j ca661105 jb
+march 2 1978 3 37 pm

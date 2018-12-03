@@ -1,0 +1,23 @@
+block a new data type for snobol4 a new data
+type call a block ha been implement for snobol4 a
+block is a three dimension aggreg of charact in the
+form of a right parallelepip best thought of as a
+three dimension extens to a string the third dimens is
+us for overstrik block mai be print concaten in ani
+of three dimens and merg on the basi of program
+defin connect point some block adapt in size and shape
+to their environ block and their oper ar mainli us
+for compos printabl output a varieti of graphic problem includ
+flowchart bargraph logic diagram mathemat equat format and text justif
+and prepar have been program on a printer in what
+appear to be an easi and natur wai in addit
+to these somewhat special applic block appear to be a
+good gener purpos devic independ output format mechan especi suitabl
+for nonnumer work the concept of a block is larg
+languag independenthat is block requir littl in the wai of
+special syntax and could readili be absorb into the extern
+structur of most program languag cacm june 1972 gimpel j
+f charact manipul output format string process graphic nonnumer program
+snobol4 data type two dimension mathemat test process flowchart 4
+22 4 41 ca720604 jb januari 30 1978 4 38
+pm

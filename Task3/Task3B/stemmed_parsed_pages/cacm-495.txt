@@ -1,0 +1,14 @@
+a procedur for invert larg symmetr matric in the least
+squar method for simultan adjust of sever paramet the coeffici
+of the normal equat ar the element of a symmetr
+posit definit matrix in order to solv the normal equat
+and evalu the precis measur of the result paramet invers
+of thi matrix of coeffici is requir mani avail procedur
+for matrix invers do not take advantag of the symmetri
+thu when program for a high speed comput all n
+2 element must be store and manipul wherea onli n
+1 2 of them ar independ in order to allow
+a comput of given memori capac to handl a larger
+matrix the follow procedur for invert a symmetr matrix ha
+been devis cacm august 1962 buse w r levi h
+s ca620833 jb march 17 1978 9 09 pm

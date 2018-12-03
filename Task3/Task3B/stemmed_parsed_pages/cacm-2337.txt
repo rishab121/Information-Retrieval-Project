@@ -1,0 +1,7 @@
+a sort problem and it complex a techniqu for prove
+min max norm of sort algorithm is given on new
+algorithm for find the minimum and maximum element of a
+set with fewest comparison is prove optim with thi techniqu
+cacm june 1972 pohl i sort comput complex comput combinator
+5 29 5 31 ca720608 jb januari 30 1978 4
+15 pm

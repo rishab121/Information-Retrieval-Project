@@ -1,0 +1,6 @@
+a fast procedur for gener normal random variabl a techniqu
+for gener normal distribut random number is describ it is
+faster than those current in gener us and is readili
+applic to both binari and decim comput cacm januari 1964
+marsaglia g maclaren m d brai t a ca640101 jb
+march 10 1978 5 43 am

@@ -1,0 +1,17 @@
+an exponenti method for the solut of system of ordinari
+differenti equat an explicit coupl singl step method for the
+numer solut of initi valu problem for system of ordinari
+differenti equat is present the method wa design to be
+gener purpos in natur but to be especi effici when
+deal with stiff system of differenti equat it is in
+gener second order except for the case of a linear
+system with constant coeffici and linear forc term in that
+case the method is third order it ha been implement
+and put to routin usag in biolog applic where stiff
+frequent appear with favor result when compar to a standard
+fourth order rung kutta implement comput time requir by thi
+method ha rang from compar for certain nonstiff problem to
+better than two order of magnitud faster for some highli
+stiff system cacm decemb 1974 chu s c berman m
+numer solut ordinari differenti equat initi valu problem stiff system
+5 17 ca741207 jb januari 13 1978 4 20 pm

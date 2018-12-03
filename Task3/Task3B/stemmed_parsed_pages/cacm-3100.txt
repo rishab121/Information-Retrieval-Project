@@ -1,0 +1,13 @@
+an interfer match techniqu for induc abstract a method for
+induc knowledg by abstract from a sequenc of train exampl
+is describ the propos method interfer match induc abstract by
+find relat properti common to two or more exemplar three
+task solv by a program that us an interfer match
+algorithm ar present sever problem concern the descript of the
+train exampl and the adequaci of interfer match ar discuss
+and direct for futur research ar consid cacm mai 1978
+hay roth f mcdermott j rule induct knowledg acquisit partial
+match interfer graph match learn induct knowledg represent inform retriev
+abstract gener languag learn complex predic discoveri 3 36 3
+61 3 62 3 66 3 70 5 32 ca780507
+dh februari 26 1979 1 26 pm

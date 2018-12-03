@@ -1,0 +1,11 @@
+reason about arrai a varieti of concept law and notat
+ar present which facilit reason about arrai the basic concept
+includ interv and their partit function restrict imag pointwis extens
+of relat order singl point variat of function variou equival
+relat for arrai valu and concaten the effect of these
+idea is illustr by inform descript of algorithm for binari
+search and merg and by a short formal proof cacm
+mai 1979 reynold j arrai assert program prove interv partit
+pointwis extens order concaten binari search merg 4 0 4
+22 5 21 5 24 ca790504 dh june 5 1979
+3 33 pm

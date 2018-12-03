@@ -1,0 +1,16 @@
+find zero of a polynomi by the q d algorithm
+a method which find simultan all the zero of a
+polynomi develop by h rutishaus ha been test on a
+number of polynomi with real coeffici thi slowli converg method
+the quotient differ q d algorithm provid start valu for
+a newton or a bairstow algorithm for more rapid converg
+necessari and suffici condit for the exist of the q
+d scheme ar not complet known howev failur mai occur
+when zero have equal or nearli equal magnitud success wa
+achiev in most of the case tri with the failur
+usual traceabl to the equal magnitud difficulti in some case
+comput roundoff mai result in error which spoil the scheme
+even if the q d algorithm doe not give all
+the zero it will usual find a major of them
+cacm septemb 1965 henrich p watkin b o ca650908 jb
+march 6 1978 7 21 pm

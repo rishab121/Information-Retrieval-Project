@@ -1,0 +1,4 @@
+cellular arrai for the solut of graph problem a cellular
+arrai is a two dimension checkerboard type interconnect of ident
+modul or cell where each cell contain a few bit
+of memori and a small am

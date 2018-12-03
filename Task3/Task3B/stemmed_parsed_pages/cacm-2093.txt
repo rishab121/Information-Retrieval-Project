@@ -1,0 +1,13 @@
+a comparison of error improv estim for adapt trapezoid integr
+variou simpl choic of error improv estim for the trapezoid
+rule ar studi to demonstr a comparison procedur which is
+rel independ of the profus of adapt search and stop
+strategi comparison ar base on x r the inclus of
+the noninteg power make thi more realist than the usual
+polynomi base comparison behavior near the singular wa found to
+be the domin factor and a new estim base on
+a constant curvatur assumpt and parametr differ wa consid slightli
+better than the other choic consid cacm march 1970 schweikert
+d g adapt integr error improv estim trapezoid rule nonpolynomi
+error criteria 5 16 ca700305 jb februari 13 1978 4
+47 pm

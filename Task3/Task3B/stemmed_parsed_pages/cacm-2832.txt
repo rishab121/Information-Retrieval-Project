@@ -1,0 +1,11 @@
+faster retriev from context tree corrigendum context tree provid a
+conveni wai of store data which is to be view
+as a hierarchi of context thi note present an algorithm
+which improv on previou context tree retriev algorithm it is
+base on the observ that in typic us context chang
+ar infrequ rel to retriev so that data can be
+cach to speed up retriev a retriev is start from
+the posit of the previou retriev and auxiliari structur ar
+built up to make the search rapid algorithm for addit
+and delet of data and for garbag collect ar outlin
+cacm septemb 1976 wegbreit b context tree fram

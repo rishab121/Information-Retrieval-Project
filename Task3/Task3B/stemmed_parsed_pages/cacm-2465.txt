@@ -1,0 +1,4 @@
+gaussian quadratur formula for bromwich s integr d1 algorithm a453
+cacm august 1973 piessen r gaussian quadratur bromwich s integr
+complex integr numer invers of the laplac transform 5 16
+5 13 ca730809 jb januari 23 1978 10 37 am

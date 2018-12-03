@@ -1,0 +1,9 @@
+a system for interprocess commun in a resourc share comput
+network a system of commun between process in a time
+share system is describ and the commun system is extend
+so that it mai be us between process distribut throughout
+a comput network the hypothet applic of the system to
+an exist network is discuss cacm april 1972 walden d
+c interprocess commun time share comput network resourc share 3
+81 4 39 4 82 4 9 ca720402 jb januari
+31 1978 1 51 pm

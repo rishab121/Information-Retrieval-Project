@@ -1,0 +1,11 @@
+perform of rollback recoveri system under intermitt failur a mathemat
+model of a transact orient system under intermitt failur is
+propos the system is assum to oper with a checkpoint
+and rollback recoveri method to ensur reliabl inform process the
+model is us to deriv the princip perform measur includ
+avail respons time and the system satur point cacm june
+1978 gelenb e derochett d databas reliabl file system checkpoint
+recoveri procedur check techniqu reliabl and system perform evalu 3
+72 3 73 4 33 4 35 4 6 5
+5 8 1 ca780608 dh februari 9 1979 10 26
+am

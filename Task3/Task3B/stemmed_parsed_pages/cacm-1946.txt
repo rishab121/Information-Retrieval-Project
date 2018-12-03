@@ -1,0 +1,21 @@
+comput polynomi result bezout s determin vs collin reduc p
+algorithm algorithm for comput the result of two polynomi in
+sever variabl a kei repetit step of comput in solv
+system of polynomi equat by elimin ar studi determin the
+best algorithm for comput implement depend upon the extent to
+which extran factor ar introduc the extent of propag of
+error caus by truncat of real coeffici memori requir and
+comput speed preliminari consider narrow the choic of the best
+algorithm to bezout s determin and collin reduc polynomi remaind
+sequenc p r s algorithm detail test perform on sampl
+problem conclus show that bezout s determin is superior in
+all respect except for univari polynomi in which case collin
+reduc p r s algorithm is somewhat faster in particular
+bezout s determin prove to be strikingli superior in numer
+accuraci displai excel stabil with regard to round off error
+result of test ar report in detail cacm januari 1969
+ku s y adler r j result algorithm g c
+d algorithm polynomi result elimin bezout s determin sylvest s
+determin reduc p r s algorithm euclidean algorithm multivari polynomi
+equat 4 40 5 10 5 15 5 41 ca690103
+jb februari 20 1978 12 10 pm

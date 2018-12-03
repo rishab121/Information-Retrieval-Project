@@ -1,0 +1,19 @@
+on the construct of a repres synthet workload a gener
+method of construct a drive workload repres of a real
+workload is describ the real workload is character by it
+demand on the variou system resourc these characterist of the
+real workload ar obtain from the system account data the
+characterist of the drive workload ar determin by match the
+joint probabl densiti of the real workload with that of
+the drive workload the drive workload is realiz by us
+a synthet program in which the characterist can be vari
+by vari the appropri paramet calibr experi ar conduct to
+determin express relat the synthet program paramet with the workload
+characterist the gener method is appli to the case of
+two variabl cpu second and number of i o activ
+and synthet workload with 88 job is construct to repres
+a month s workload consist of about 6000 job cacm
+march 1974 sreenivasan k kleinman a j benchmark calibr drive
+workload input to simul probabl distribut repres workload synthet workload
+workload characterist 5 5 5 9 8 1 ca740301 jb
+januari 18 1978 12 46 pm

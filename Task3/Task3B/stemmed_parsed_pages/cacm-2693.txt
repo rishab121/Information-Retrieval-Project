@@ -1,0 +1,4 @@
+bivari interpol and smooth surfac fit base on local procedur
+e2 algorithm a474 cacm januari 1974 akima h bivari interpol
+interpol partial deriv polynomi smooth surfac fit 5 13 ca740106
+jb januari 18 1978 2 07 pm

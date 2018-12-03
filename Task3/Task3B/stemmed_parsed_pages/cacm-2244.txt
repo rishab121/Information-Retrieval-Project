@@ -1,0 +1,3 @@
+product type trapezoid integr algorithm a436 cacm decemb 1972 boland
+w r numer integr product type quadratur trapezoid integr 5
+16 ca721211 jb januari 27 1978 9 11 am

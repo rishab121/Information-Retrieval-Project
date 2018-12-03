@@ -1,0 +1,5 @@
+perform evalu of highli concurr comput by determinist simul simul
+is present as a practic techniqu for perform evalu of
+altern configur of highli concurr comput a techniqu is describ
+for construct a detail determinist simul model of a system
+in the model a control stream

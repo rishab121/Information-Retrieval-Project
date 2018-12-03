@@ -1,0 +1,10 @@
+boolean matrix method for the detect of simpl preced grammar
+a mechan procedur is deriv for determin whether a given
+context free phrase structur grammar is a simpl preced grammar
+thi procedur consist of elementari oper on suitabl defin boolean
+matric applic of the procedur to oper grammar is also
+given cacm octob 1968 martin d f syntax analysi preced
+analysi simpl preced grammar simpl preced languag oper grammar oper
+preced compil bound context syntact analysi boolean matric relat 4
+12 5 23 ca681004 jb februari 21 1978 4 09
+pm

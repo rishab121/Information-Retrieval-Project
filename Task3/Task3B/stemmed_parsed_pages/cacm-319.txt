@@ -1,0 +1,12 @@
+on a class of iter formula and some histor note
+the class of iter formula obtain by ration approxim of
+euler s formula is deriv with the correspond error estim
+some histor note on iter procedur ar follow by a
+deriv of euler s formula with the associ error estim
+in a new notat which simplifi the error estim and
+suggest gener the final section consid the pade approxim to
+the euler polynomi and show how a number of known
+formula mai be deriv from thi unifi approach there is
+a short discuss of the best formula cacm june 1961
+traub j f ca610606 jb march 16 1978 10 36
+pm

@@ -1,0 +1,3 @@
+a simpl techniqu for repres string in fortran iv cacm
+novemb 1974 hanson d r string process fortran iv string
+represent structur program

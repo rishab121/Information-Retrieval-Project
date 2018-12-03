@@ -1,0 +1,13 @@
+the unix time share system unix is a gener purpos
+multi user interact oper system for the digit equip corpor
+pdp 11 40 and 11 45 comput it offer a
+number of featur seldom found even in larger oper system
+includ 1 a hierarch file system incorpor demount volum 2
+compat file devic and inter process i o 3 the
+abil to initi asynchron process 4 system command languag select
+on a per user basi and 5 over 100 subsystem
+includ a dozen languageshi paper discuss the natur and implement
+of the file system and of the user command interfac
+cacm juli 1974 ritchi d m thompson k time share
+oper system file system command languag pdp 11 4 30
+4 32 ca740702 jb januari 17 1978 1 40 pm

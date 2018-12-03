@@ -1,0 +1,12 @@
+an experiment laboratori for pattern recognit and signal process an
+interact comput control scan and displai system ha been in
+oper at the ibm thoma j watson research center for
+three year the system includ two fly spot scanner and
+a tv camera special interfac to a process control digit
+comput dot mode and vector displai analog input and output
+facil and a varieti of other experiment equip the system
+design and program support ar describ and typic applic in
+scanner control optic charact recognit and imag process ar present
+cacm april 1972 herbst n m will p m scanner
+pseudorandom displai interact termin imag process pattern recognit 4 41
+6 35 ca720403 jb januari 31 1978 1 47 pm

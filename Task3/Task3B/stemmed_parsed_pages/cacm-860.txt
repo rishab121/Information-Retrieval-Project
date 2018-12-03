@@ -1,0 +1,8 @@
+a comparison between the polyphas and oscil sort techniqu a
+comparison between the oscil and polyphas sort techniqu is develop
+for comput system have from four to ten tape drive
+the basi for the comparison is the total read and
+write requir for variou number of input string and tape
+drive for the two techniqu cacm mai 1963 goetz m
+a toth g s ca630507 jb march 14 1978 11
+25 am

@@ -1,0 +1,5 @@
+revis report on the algorithm languag algol 60 the report
+give a complet defin descript of the intern algorithm languag
+algol 60 thi is a languag suitabl for express a
+larg class of numer process in a form suffici concis
+for direct automat translat into the languag of program

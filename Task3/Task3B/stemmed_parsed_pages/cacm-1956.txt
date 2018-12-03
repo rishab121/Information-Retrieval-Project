@@ -1,0 +1,21 @@
+optimum merg from mass storag an algorithm is displai which
+yield the merg order such that the total read time
+defin to be the sum of seek time plu data
+transfer time is minim for a sort us mass storag
+the analysi is parameter in term of the ratio of
+seek time to the time it take to fill avail
+core with record and the file size in unit of
+core length and thu it can be appli to ani
+convent cpu mass storag combin an explicit formula for total
+read time is deriv in term of the paramet which
+correl veri well with the total read time calcul us
+the optimum merg order yield by the algorithm the formula
+involv the root of a simpl transcendent equat a short
+tabl of these root is includ numer result ar graphic
+displai for a wide rang of the paramet it is
+found that the normal read time for optimum merg on
+a given hardwar configur is proport to the file length
+time the logarithm of the file length cacm decemb 1970
+black n a sort merg optimum merg mass storag sort
+time drum merg access time 3 37 4 49 5
+31 ca701207 jb februari 9 1978 3 18 pm

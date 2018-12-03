@@ -1,0 +1,12 @@
+implement clenshaw curti quadratur ii comput the cosin transform in
+a companion paper to thi i methodolog and experi the
+automat clenshaw curti quadratur scheme wa describ and how each
+quadratur formula us in the scheme requir a cosin transform
+of the integrand valu wa shown the high cost of
+these cosin transform ha been a seriou drawback in us
+clenshaw curti quadratur two other problem relat to the cosin
+transform have also been troubl some first the convent comput
+of the cosin transform by recurr relat is numer unstabl
+particularli at the low frequenc which have the largest effect
+upon the integr second in case the automat scheme should
+requir refin of the sam

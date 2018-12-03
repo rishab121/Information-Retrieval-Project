@@ -1,0 +1,15 @@
+cat a 7090 3600 comput aid translat a semi automat
+translat system ha been implement which convert 7090 fap languag
+program into 3600 assembl languag the input to the system
+is a fap program deck which ha been special prepar
+for translat by the user the output consist of the
+translat compass languag program togeth with a comprehens diagnost list
+which the user must analyz in order to verifi ani
+question area of the translat the translat processor consist of
+three distinct phase an assembl of the fap program a
+comprehens analysi of the assembl code with particular regard to
+the action of instruct upon other instruct and upon data
+and final the output pass which gener the compass program
+in the form of macro instruct cacm decemb 1965 wilson
+d m moss d j ca651209 jb march 6 1978
+3 50 pm

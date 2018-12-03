@@ -1,0 +1,4 @@
+a multidimension mont carlo quadratur with adapt stratifi sampl d1
+algorithm a440 cacm januari 1973 gallah l j mont carloquadratur
+stratifi sampl adapt quadratur sequenti stratif 5 16 5 5
+ca730111 jb januari 24 1978 3 44 pm

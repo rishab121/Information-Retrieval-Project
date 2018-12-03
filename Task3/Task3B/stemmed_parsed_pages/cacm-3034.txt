@@ -1,0 +1,15 @@
+detect of logic error in decis tabl program in thi
+paper an algorithm to detect logic error in a limit
+entri decis tabl and in loop free program with embed
+decis tabl is develop all the condit in the decis
+tabl ar assum to be inequ or equal relat linear
+express it is also assum that action in a decis
+tabl ar linear in variabl which occur in the condit
+stub of the decis tabl or tabl to which control
+is transfer from the tabl the algorithm is base on
+determin whether a set of linear inequ ha or doe
+not have a solut the algorithm describ in the paper
+is implement in fortran iv cacm decemb 1978 ibramsha m
+rajaraman v error diagnost decis tabl 3 5 4 1
+4 42 5 24 ca781205 dh januari 18 1979 4
+06 pm

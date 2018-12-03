@@ -1,0 +1,16 @@
+an algorithm for the block and cutnod of a graph
+an effici method is present for find block and cutnod
+of an arbitrari undirect graph the graph mai be repres
+either i as an order list of edg or ii
+as a pack adjac matrix if w denot the word
+length of the machin emploi the storag in machin word
+requir for a graph with n node and m edg
+increas essenti as 2 m n in case i or
+n 2 win case ii a span tree with label
+edg is grown two edg final bear differ label if
+and onli if thei belong to differ block for both
+represent the time requir to analyz a graph on n
+node increas as n g where g depend on the
+type of graph 1 g 2 and both bound ar
+attain valu of g ar deriv for each of sever
+suitabl fam

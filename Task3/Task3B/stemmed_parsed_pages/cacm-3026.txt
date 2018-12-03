@@ -1,0 +1,17 @@
+the evolut of the sperri univac 1100 seri a hi
+tori analysi and project the 1100 seri system ar sperri
+univac s larg scale main frame comput system begin with
+the 1107 in 1962 the 1100 seri ha progress through
+a success of eight compat comput model to the latest
+system the 1100 80 introduc in 1977 the 1100 seri
+hardwar architectur is base on a 36 bit word on
+complement structur which obtain on operand from storag and on
+from a high speed regist or two operand from high
+speed regist the 1100 oper system is design to support
+a symmetr multiprocessor configur simultan provid multiprogram batch timeshar and
+transact environ cacm januari 1978 borgherson b hanson m hartlei
+p 1100 comput seri comput architectur multiprocess languag data manag
+system end user facil execut control softwar 1 3 4
+0 4 20 4 30 4 32 4 33 4
+35 6 0 6 21 6 30 ca780104 jb march
+28 1978 5 38 pm

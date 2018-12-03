@@ -1,0 +1,10 @@
+numer solut of a thin plate heat transfer problem the
+numer solut of a system of linear equat result from
+a discret approxim to a thin plate heat transfer problem
+is consid the slow converg of point iter method is
+analyz and shown to be caus by on of the
+boundari condit the difficulti mai be remov by a standard
+line iter techniqu cacm septemb 1968 stewart iii g lick
+d w heat transfer problem poisson equat boundari valu problem
+thin domain success overrelax sor block sor 3 20 5
+17 ca680909 jb februari 21 1978 4 48 pm

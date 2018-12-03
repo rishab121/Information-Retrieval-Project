@@ -1,0 +1,12 @@
+comput represent of planar region by their skeleton ani region
+can be regard as a union of maxim neighborhood of
+it point and can be specifi by the center and
+radii of these neighborhood thi set is a sort of
+skeleton of the region the storag requir to repres a
+region in thi wai is compar to that requir when
+it is repres by encod it boundari moreov the skeleton
+represent seem to have advantag when it is necessari to
+determin repeatedli whether point ar insid or outsid the region
+or to perform set theoret oper on region cacm februari
+1967 pfaltz j l rosenfeld a ca670212 jb februari 28
+1978 2 07 pm

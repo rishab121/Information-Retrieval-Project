@@ -1,0 +1,15 @@
+properti of the work set model a program s work
+set w t t at time t is the set
+of distinct page among the t most recent referenc page
+relat between the averag work set size the miss page
+rate and the interrefer interv distribut mai be deriv both
+from time averag definit and from ensembl averag statist definit
+an effici algorithm for estim these quantiti is given the
+relat to lru least recent us page is character the
+independ refer model in which page refer ar statist independ
+is us to assess the effect to interpag depend on
+work set size observ under gener assumpt work set size
+is shown to be normal distribut cacm march 1972 den
+p j schwartz s c work set model page page
+algorithm program behavior program model 4 3 ca720308 jb januari
+31 1978 2 07 pm

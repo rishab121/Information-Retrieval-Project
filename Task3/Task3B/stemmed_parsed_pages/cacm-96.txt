@@ -1,0 +1,9 @@
+on comput radiat integr the rel merit and cost of
+four wai of evalu typic radiat integr contain spheric bessel
+function ar investig these method ar desk machin evalu of
+a finit seri integr of the appropri differenti equat by
+a reev electron analog comput and by a litton 40
+ibm 704 comput result ar gener applic to equat separ
+from a helmholtz or wave equat cacm februari 1959 hansen
+r c bailin l l rutishaus r w ca590205 jb
+march 22 1978 8 16 pm

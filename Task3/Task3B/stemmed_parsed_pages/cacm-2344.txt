@@ -1,0 +1,4 @@
+on the optim of perform of time share system by
+simul a simul model of a time share system with
+a finit noncontigu store and an infinit auxiliari store is
+us to studi the variat of system param

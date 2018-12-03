@@ -1,0 +1,12 @@
+glypnir a program languag for illiac iv glypnir is on
+of the earliest exist languag design for program the illiac
+iv comput the syntax of the languag is base on
+algol 60 but ha been extend to allow the programm
+explicitli to specifi the parallel of hi algorithm in term
+of 64 word vector thi paper describ the characterist goal
+and philosophi of the languag and discuss some of the
+problem associ with parallel comput architectur cacm march 1975 lawri
+d h layman t baer d randal j m glypnir
+illiac iv program languag parallel comput parallel architectur 4 2
+4 21 4 22 ca750303jb januari 9 1978 4 57
+pm

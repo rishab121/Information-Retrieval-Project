@@ -1,0 +1,10 @@
+signific arithmet on a digit comput the 7090 at nyu
+ha been modifi to includ a signific mode of oper
+which is intend to facilit the identif of signific bit
+in the result of float point arithmet oper the manner
+in which float point arithmet is handl in thi mode
+is discuss sever numer experi us thi mode ar describ
+and comparison ar made with the ordinari normal mode exampl
+includ power seri evalu linear equat solut determin evalu and
+matrix invers cacm march 1963 goldstein m ca630327 jb march
+14 1978 12 47 pm

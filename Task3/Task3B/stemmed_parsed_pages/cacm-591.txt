@@ -1,0 +1,3 @@
+evalu of asymptot express for the fresnel sine and cosin
+integr algorithm 88 cacm mai 1962 cundiff j l ca620514
+jb march 20 1978 1 37 pm

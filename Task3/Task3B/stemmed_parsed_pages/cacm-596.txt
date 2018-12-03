@@ -1,0 +1,6 @@
+float point arithmet in cobol in thi paper the basic
+oper of float point arithmet ar examin and cobol procedur
+for carri these out ar given along with specif of
+work storag the paper conclud with an exampl in which
+these procedur ar us cacm mai 1962 kesner o ca620509
+jb march 20 1978 1 46 pm

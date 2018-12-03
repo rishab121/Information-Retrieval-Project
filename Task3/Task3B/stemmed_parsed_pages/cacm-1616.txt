@@ -1,0 +1,8 @@
+tensor calcul on comput appendix in the main text of
+the paper comm acm 9 12 dec 196 864 a
+formac program wa discuss which is capabl of calcul variou
+quantiti of interest in tensor calculu thi appendix is intend
+as an exampl of the program output chrisoffel symbol calcul
+for 12 basic orthogon coordin system ar list cacm march
+1967 walton j j ca670312 jb februari 28 1978 12
+58 pm

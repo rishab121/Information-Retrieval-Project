@@ -1,0 +1,12 @@
+the applic of sequenti sampl to simul an exampl inventori
+model four differ sequenti sampl procedur ar appli to the
+analysi of data gener by a comput simul experi with
+a multi item inventori model for each procedur the cost
+of comput time requir to achiev given level of statist
+precis is calcul also the cost of comput time us
+compar fix sampl size method is calcul the comput cost
+of fix sampl size procedur versu sequenti sampl procedur ar
+compar cacm mai 1970 sasser w e burdick d s
+graham d a naylor t h simul inventori model sequenti
+sampl model experiment design 3 31 3 50 3 54
+5 5 ca700504 jb februari 13 1978 2 11 pm

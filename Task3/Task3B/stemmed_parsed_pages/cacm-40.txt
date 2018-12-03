@@ -1,0 +1,19 @@
+finger or fist the choic of decim or binari represent
+the binari number system offer mani advantag over a decim
+represent for a high perform gener purpos comput the greater
+simplic of a binari arithmet unit and the greater compact
+of binari number both contribut directli to arithmet speed less
+obviou and perhap more import is the wai binari address
+and instruct format can increas the overal perform binari address
+ar also essenti to certain power oper which ar not
+practic with decim instruct format on the other hand decim
+number ar essenti for commun between man and the comput
+in applic requir the process of a larg volum of
+inher decim input and output data the time for decim
+binari convers need by a pure binari comput mai be
+signific a slower decim adder mai take less time than
+a fast binari adder do an addit and two convers
+a care review of the signific of decim and binari
+address and both binari and decim data arithmet supplement by
+effici convers instruct cacm decemb 1959 buchholz w ca591202 jb
+march 22 1978 3 47 pm

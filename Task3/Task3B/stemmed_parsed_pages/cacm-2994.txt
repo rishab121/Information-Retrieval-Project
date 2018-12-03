@@ -1,0 +1,6 @@
+a linear algorithm for increment digit displai of circular arc
+circular arc can be drawn on an increment displai devic
+such as a cathod rai tube digit plotter or matrix
+prin ter us onli sign test and elementari addit and
+subtract thi paper describ methodolog for produc dot or step
+pattern closet to the true circl cacm februari 1977 bresenham

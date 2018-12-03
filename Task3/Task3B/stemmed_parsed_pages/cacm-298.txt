@@ -1,0 +1,12 @@
+a 48 bit pseudo random number gener a new 48
+bit pseudo random number gener suitabl for sever comput wa
+test statist for random to determin it adequaci for us
+in mont carlo program frequenc test distribut of certain low
+order moment run up and down and run abov and
+below the mean were appli to on half million gener
+number ly within the interv 0 1 and to three
+set of integ obtain from specifi bit within the gener
+number these test substanti the random of all number except
+for the set of integ come from the least signific
+bit cacm august 1961 kuehn h g ca610806 jb march
+16 1978 10 09 pm

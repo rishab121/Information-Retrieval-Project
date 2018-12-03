@@ -1,0 +1,15 @@
+logic analysi of program most present system for verif of
+comput program ar incomplet in that intermedi induct assert must
+be provid manual by the user termin is not proven
+and incorrect program ar not treat as a unifi solut
+to these problem thi paper suggest conduct a logic analysi
+of program by us invari which express what is actual
+occur in the program the first part of the paper
+is devot to techniqu for the automat gener of invari
+the second part provid criteria for us the invari to
+check simultan for correct includ termin or incorrect a third
+part examin the implic of the approach for the automat
+diagnosi and correct of logic error cacm april 1976 katz
+s manna z logic analysi invari program verif correct incorrect
+termin automat debug 3 66 4 42 5 24 ca760405
+jb januari 4 1978 4 15 pm

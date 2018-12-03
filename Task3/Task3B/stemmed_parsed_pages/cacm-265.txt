@@ -1,0 +1,7 @@
+low level languag subroutin for us within fortran thi paper
+describ some subroutin code in symbol languag and for us
+within fortran code program to deal with special arithmet e
+g multi precis arithmet symbol manipul bit manipul and expand
+charact set input output and visual displai cacm novemb 1961
+barnett m p ca611103 jb march 15 1978 10 59
+pm

@@ -1,0 +1,4 @@
+chebyshev approxim of continu function by a chebyshev system of
+function e2 algorithm 414 cacm novemb 1971 bolub g h
+smith l b approxim chebyshev approxim remex algorithm 5 13
+ca711106 jb februari 2 1978 10 35 am

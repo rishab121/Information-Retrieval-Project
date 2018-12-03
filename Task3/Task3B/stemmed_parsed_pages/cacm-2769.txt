@@ -1,0 +1,9 @@
+a modif of warshal s algorithm for the transit closur
+of binari relat an algorithm is given for comput the
+transit closur of a binari relat that is repres by
+a boolean matrix the algorithm is similar to warshal s
+although it execut faster for spars matric on most comput
+particularli in a page environ cacm april 1975 warren h
+s jr warshal s algorithm transit closur reachabl matrix direct
+graph digraph boolean matrix binari relat 5 30 5 32
+ca750408 jb januari 9 1978 3 49 pm

@@ -1,0 +1,11 @@
+elimin of special function from differenti equat a set of
+ordinari differenti equat which contain mathemat function requir the us
+of subroutin for numer solut by electron comput tabular data
+for numer solut by hand calcul or function gener when
+analog method ar appli can sometim be expand to an
+equival set of equat which do not contain the function
+thi is practic if these function satisfi suffici simpl differenti
+equat thu among those function which can be elimin by
+thi procedur ar the trigonometr invers trigonometr exponenti and mani
+other transcendent function cacm march 1959 power j e ca590301
+jb march 22 1978 8 08 pm

@@ -1,0 +1,12 @@
+on an algorithm for nonlinear minimax approxim certain nonlinear minimax
+approxim problem ar character d by properti which permit the
+applic of special algorithm mainli base on the exchang algorithm
+of reme 1934 1935 for their solut in thi paper
+the applic to problem of thi type of a gener
+nonlinear algorithm due to osborn and watson 1969 is consid
+exampl ar given to illustr that thi algorithm can give
+satisfactori result and in particular can successfulli solv problem which
+lead to difficulti with the more convent specialist method cacm
+march 1970 watson g a minimax approxim nonlinear approxim linear
+program 5 13 5 41 ca700304 jb februari 13 1978
+4 52 pm

@@ -1,0 +1,5 @@
+scalar and planar valu curv fit us spline under tension
+the spline under tension wa introduc by schweikert in an
+attempt to imit cubic spline but avoid the spuriou critic
+point thei induc the defin equat ar present here togeth
+with an effici method for determin the necessari param

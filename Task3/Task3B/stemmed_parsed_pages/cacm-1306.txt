@@ -1,0 +1,7 @@
+a class of unambigu comput languag discuss in thi paper
+is the concept of a fulli nest comput languag which
+mai be on mean of design comput languag which would
+be complet free of ambigu sever suggest ar also given
+here for the redefinit of algol as a fulli nest
+languag cacm march 1965 johnston j b ca650301 jb march
+7 1978 6 26 pm

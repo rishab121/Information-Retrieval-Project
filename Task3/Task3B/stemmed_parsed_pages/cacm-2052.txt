@@ -1,0 +1,10 @@
+schedul to reduc conflict in meet conflict in schedul can
+be treat as defin an undirect linear graph independ of
+the relat of the activ in conflict to addit constraint
+of time and space each connect compon of such a
+graph which can be found by an algorithm describ by
+gotlieb and corneil correspond to a set of event that
+must be schedul at differ time cacm june 1970 grime
+j e alloc conflict matrix connect compon schedul span tree
+undirect linear graph 1 90 3 51 3 59 5
+32 ca700603 jb februari 13 1978 11 55 am

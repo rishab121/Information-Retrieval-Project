@@ -1,0 +1,3 @@
+eigenvalu and eigenvector of a real symmetr matrix by the
+qr method algorithm 254 f2 cacm june 1967 welsch j
+h ca670607 jb march 23 1978 3 31 pm

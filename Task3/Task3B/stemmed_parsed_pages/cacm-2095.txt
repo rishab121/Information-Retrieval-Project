@@ -1,0 +1,14 @@
+measur of segment size distribut of segment size measur under
+routin oper con dition on a comput system which util
+variabl size segment the burrough b5500 ar discuss the most
+strike featur of the measur is the larg number of
+small segment about 60 percent of the segment in us
+contain less than 40 word although the result ar certainli
+not instal independ and although thei ar particularli influenc by
+featur of the b5500 algol system thei should be relev
+to the design of new comput system especi with respect
+to the organ of page scheme cacm march 1970 batson
+a ju s wood d c storag alloc segment segment
+size page size page resourc alloc memori alloc core util
+4 32 6 2 6 34 6 9 ca700303 jb
+februari 13 1978 4 58 pm

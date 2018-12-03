@@ -1,0 +1,16 @@
+control structur in illiac iv fortran as part of an
+effort to design and implement a fortran compil on the
+illiac iv an extend fortran call ivtran ha been develop
+thi languag provid a mean of express data and control
+structur suitabl for exploit illiac iv parallel thi paper review
+the hardwar characterist of the illiac and singl out unconvent
+featur which could be expect to influenc languag and compil
+design the implic of these featur for data layout and
+algorithm structur ar discuss and the conclus is drawn that
+data alloc rather than code structur is the crucial illiac
+optim problem a satisfactori method of data alloc is then
+present languag structur to util thi storag method and express
+parallel algorithm ar describ cacm octob 1973 millstein r e
+arrai process parallel detect explicit parallel arrai alloc parallel control
+structur illiac iv fortran 4 12 4 21 4 22
+ca731007 jb januari 20 1978 11 30 am

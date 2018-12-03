@@ -1,0 +1,10 @@
+rapid comput of gener interpol formula and mechan quadratur rule
+let f have n continu on a close interv a
+b and let l be a linear function the attempt
+is made to approxim l f with l q where
+q is a polynomi approxim f algorithm ar develop for
+rapid comput of l q for a wide class of
+select of q which includ the lagrangian and hermitian rule
+as special case cacm decemb 1971 gustafson s linear function
+divid differ newton s interpol formula 5 13 5 16
+ca711208 jb februari 2 1978 9 49 am

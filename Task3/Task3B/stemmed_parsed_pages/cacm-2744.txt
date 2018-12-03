@@ -1,0 +1,11 @@
+addit in an arbitrari base without radix convers thi paper
+present a gener of an old program techniqu us it
+on mai add and subtract number repres in ani radix
+includ a mix radix and store on digit per byte
+in byte of suffici size radix convers is unnecessari no
+loop is requir and number mai even be store in
+a displai i o format applic to cobol mix and
+hexadecim sum ar discuss cacm june 1975 soul s addit
+subtract decim arithmet arbitrari radix arithmet radix convers mix arithmet
+cobol displai arithmet mix radix arithmet 4 49 4 9
+5 9 ca750609 jb januari 9 1978 12 52 pm

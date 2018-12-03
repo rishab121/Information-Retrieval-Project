@@ -1,0 +1,6 @@
+file handl within fortran thi note describ some fortran subroutin
+to facilit handl of tape file thei allow symbol name
+of inform file without violat the casual scientif programm s
+idea of simplic some comment on two year us of
+these subroutin ar given cacm august 1965 harrison m c
+ca650814 jb march 6 1978 7 59 pm

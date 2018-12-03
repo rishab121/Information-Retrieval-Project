@@ -1,0 +1,17 @@
+propos for a feasibl program system thi paper propos design
+a program facil itself involv a digit comput and a
+program which will assist the prepar of larg scale real
+time program thi facil is to be capabl of prepar
+program for ani of a varieti of machin have characterist
+similar to those of the facil s comput on of
+the basic assumpt is that there will be enough random
+access storag avail to avoid the necess for segment a
+construct program in ani fashion other than a trivial on
+while thi assumpt is somewhat unrealist it is intend to
+provid an opportun to concentr on the other aspect of
+program construct the program system should stress the discoveri in
+sourc program statement of as mani error as possibl befor
+attempt to construct an object program among the comput characterist
+which ar advoc ar a program interrupt scheme a larg
+set of charact and indirect address cacm august 1959 baglei
+p r ca590802 jb march 22 1978 6 16 pm

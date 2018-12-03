@@ -1,0 +1,8 @@
+gener of posit test matric with known posit spectra suffici
+condit ar given for a real matrix to be similar
+to a posit matrix thi result is us to construct
+a similar transform which when appli to a particular upper
+triangular matrix yield a posit matrix with a preassign posit
+spectrum cacm august 1968 hall c a porsch t a
+test matric posit matric similar transform posit eigenvalu 5 1
+5 14 ca680807 jb februari 22 1978 10 42 am

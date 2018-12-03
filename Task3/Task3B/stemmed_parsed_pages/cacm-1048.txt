@@ -1,0 +1,9 @@
+approxim solut of axial symmetr problem a varieti of physic
+problem in such divers field as electrostat field theori heat
+and ideal fluid flow and stress concentr theori reduc under
+the assumpt of axial symmetri to the studi of an
+ellipt partial differenti equat dirichlet type problem associ with thi
+equat ar studi on region whose boundari includ a nondegener
+portion of the x axi and exceedingli accur numer method
+ar given for approxim solut cacm june 1964 greenspan d
+ca640619 jb march 9 1978 8 55 pm

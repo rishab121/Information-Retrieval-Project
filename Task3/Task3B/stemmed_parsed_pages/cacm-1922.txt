@@ -1,0 +1,13 @@
+propos usa standard data commun control procedur for the usa
+standarad code for inform interchang cacm march 1969 data commun
+data commun control procedur data commun establish termin procedur data
+commun messag transfer procedur data commun error control procedur data
+commun poll select procedur commun commun control procedur commun establish
+termin procedur commun messag transfer procedur commun error control procedur
+commun poll select procedur link link control procedur link establish
+termin procedur link messag transfer procedur link error control procedur
+link poll select procedur data link data link control procedur
+data link establish termin procedur data link messag transfer procedur
+data link error control procedur data link poll select procedur
+3 81 4 49 6 39 ca690305 jb februari 20
+1978 9 09 am

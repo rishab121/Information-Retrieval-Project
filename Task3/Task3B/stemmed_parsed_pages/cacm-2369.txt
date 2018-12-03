@@ -1,0 +1,16 @@
+hidden line elimin for a rotat object a method is
+present of determin which part of three dimension object ar
+visibl and which ar invis when the object ar rotat
+about some axi thi paper describ a polygon comparison scheme
+in which the relationship of two polygon can be classifi
+into tree type and also discuss how the relationship is
+chang for each pair of polygon under rotat about some
+axi a rotat tabl is defin for each pair of
+polygon which remain fix as long as rotat is about
+on axi and provid a mean of rapidli determin the
+visibl and hidden line relationship between two polygon addit work
+must be done to extend thi approach to simultan rotat
+about sever ax cacm april 1972 matsushita y hidden line
+problem displai program comput graphic displai graphic comput drawn pictur
+4 40 4 41 4 49 ca720404 jb januari 31
+1978 1 40 pm

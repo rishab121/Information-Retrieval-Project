@@ -1,0 +1,12 @@
+a gener partial pass block sort the design of a
+partial pass block sort with arbitrari rang of kei and
+number of work file is describ the design is a
+gener of the partial pass column sort by ashenhurst and
+the amphisbaen sort by nagler the power of the sort
+is tabul for variou size of input file and number
+of work file consider is given to the problem of
+combin a block sort with intern sort and to the
+best us of direct access storag devic cacm juli 1968
+bay a block sort partial pass sort direct access devic
+column sort chain revers chain sort amphisbaen 5 31 ca680705
+jb februari 22 1978 12 12 pm

@@ -1,0 +1,6 @@
+sitar an interact text process system for small comput sitar
+a low cost in teract text handl and text analysi
+system for nontechn user is in mani wai compar to
+in teract bibliograph search and retriev system but ha sever
+addit featur it is implement on a pdp 11 time
+share comput invok by a crt with microprogram

@@ -1,0 +1,23 @@
+a gener purpos displai process and tutori system adept a
+displai expedit process and tutori system is describ thi system
+wa design to improv man comput commun by emploi a
+displai unit to interleav tutor with other comput oper such
+as simul program and inform retriev it is written in
+fortran iv g for the ibm system 360 model 40
+and the ibm 2250 displai unit under oper system 360
+adept is a catalog program that control the standard oper
+system by termin and reschedul itself automat relinquish comput resourc
+alloc to it and surrend control to the oper system
+to perform other job it expand the power and flexibl
+of comput assist instruct by make immedi avail to student
+teacher and other user the full resourc system catalog program
+of the oper system languag processor and compil simul model
+mathemat solut techniqu store data and all other librari and
+user program can be incorpor into instruct materi without reprogram
+illustr of the variou applic ar present and their implic
+ar discuss cacm octob 1968 engvold k j hugh j
+l comput assist instruct tutori system program simul model inform
+retriev oper system graphic displai man machin interfac on line
+comput graphic program 1 5 3 3 3 5 3
+8 4 0 4 3 ca681007 jb februari 21 1978
+3 36 pm

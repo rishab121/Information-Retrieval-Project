@@ -1,0 +1,7 @@
+translat equat input limit transduct express or translat equat ar
+us to describ the syntax and left context sensit semant
+for context free languag a formal procedur is given for
+deriv from a set of translat equat the specif for
+a pushdown translat the translat consist of meali form finit
+state automata interact by mean of a pushdown stack within
+the fram

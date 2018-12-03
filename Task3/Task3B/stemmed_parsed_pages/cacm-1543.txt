@@ -1,0 +1,23 @@
+comput formul of the equat of motion us tensor notat
+a mean is describ for extend the area of applic
+of digit comput beyond the numer data process stage and
+reduc the need for human particip in the formul of
+certain type of comput problem by the us of tensor
+calculu and a comput languag design to facilit symbol mathemat
+comput a method ha been devis wherebi a digit comput
+can be us to do non numer work that is
+symbol algebra manipul and differenti to illustr the techniqu involv
+a digit comput ha been us to deriv the equat
+of motion of a point mass in a gener orthogon
+curvilinear coordin system sinc thi oper involv a formul in
+term of first and second order differenti coeffici it provid
+a good demonstr of a comput s capabl to do
+non numer work and to assist in the formul process
+which normal preced the numer data process stage moreov thi
+particular problem serv to illustr the advantag of the mathemat
+techniqu emploi with the program prepar for thi purpos the
+comput will deriv the equat of motion in ani coordin
+system request by the user result ar present for the
+follow coordin system cylindr polar spheric polar and prolat spheroid
+cacm septemb 1967 howard j c ca670903 jb februari 27
+1978 3 58 pm

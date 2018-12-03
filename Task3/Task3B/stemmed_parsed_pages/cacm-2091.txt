@@ -1,0 +1,14 @@
+pdel a languag for partial differenti equat convent comput method
+avail to solv continu system problem character by partial differenti
+equat ar veri time consum and cumbersom a conveni easi
+to learn and to us high level problem orient languag
+to solv and studi partial differenti equat problem ha been
+design a practic translat for the languag ha also been
+design and a work version of it ha been construct
+for a signific portion of the languag thi partial differenti
+equat languag pdel is outlin and the highlight of the
+translat ar briefli summar cacm march 1970 cardena a f
+karplu w j problem orient or digit simul languag partial
+differenti equat translat pl 1 preprocessor pl 1 finit differ
+algorithm 3 1 3 2 4 22 5 17 ca700307
+jb februari 13 1978 4 18 pm

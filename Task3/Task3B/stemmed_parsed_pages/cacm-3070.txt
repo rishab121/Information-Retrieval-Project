@@ -1,0 +1,14 @@
+hybrid simul model of comput system thi paper describ the
+structur and oper of a hybrid simul model in which
+both discret event simul and analyt techniqu ar combin to
+produc effici yet accur system model in an exampl base
+on a simpl hypothet comput system discret event simul is
+us to model the arriv and activ of job and
+a central server queue network model the us of system
+processor the accuraci and effici of the hybrid techniqu ar
+demonstr by compar the result and comput cost of the
+hybrid model of the exampl with those of an equival
+simul onli model cacm septemb 1978 schwetman h perform evalu
+simul queue network model central server model 4 32 4
+35 8 1 ca780902 dh februari 5 1979 3 32
+pm

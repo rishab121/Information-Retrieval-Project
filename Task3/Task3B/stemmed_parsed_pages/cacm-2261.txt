@@ -1,0 +1,12 @@
+an approxim method for gener symmetr random variabl a method
+for gener valu of continu symmetr random variabl that is
+rel fast requir essenti no comput memori and is easi
+to us is develop the method which us a uniform
+zero on random number sourc is base on the invers
+function of the lambda distribut of turkei sinc it approxim
+mani of the continu theoret distribut and empir distribut frequent
+us in simul the method should be us to simul
+practition cacm novemb 1972 ramberg j s schmeiser b w
+simul mont carlo probabl statist approxim random variabl random number
+moment distribut 5 5 8 1 ca721108 jb januari 27
+1978 1 47 pm

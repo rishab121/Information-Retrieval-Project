@@ -1,0 +1,10 @@
+a nonrecurs list move algorithm an effici nonrecurs algorithm is
+given for move ani lisp type list in particular the
+algorithm requir no storag other than the new node into
+which the list is to be move and no addit
+bit per node for mark the algorithm run in time
+proport to the number of node in the list the
+origin list structur is destroi as it is move cacm
+mai 1973 reingold e m list move list copi list
+travers garbag collect lisp 4 19 4 49 ca730507 jb
+januari 23 1978 4 45 pm

@@ -1,0 +1,12 @@
+the altran system for ration function manipul a survei altran
+is a complet system for symbol comput with ration function
+in sever variabl with integ coeffici it ha been design
+and implement to handl larg problem with eas and effici
+consider effort ha been spent to ensur a minimum amount
+of machin depend in the implement thu permit the system
+to be instal quickli and easili on a varieti of
+comput machin in thi paper a brief descript of the
+languag run time data structur and implement is given cacm
+august 1971 hall jr a d symbol algebra ration function
+manipul polynomi manipul interpret translat 4 13 4 29 ca710803
+jb februari 2 1978 4 17 pm

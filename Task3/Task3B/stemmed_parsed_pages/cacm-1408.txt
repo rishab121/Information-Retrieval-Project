@@ -1,0 +1,23 @@
+the eschenbach drum scheme the prime function of a drum
+oper in real time is to perform access quickli the
+usual mean for increas thi capac is to incorpor engin
+or hardwar improv in thi paper the problem is attack
+not by chang the drum but rather by modifi the
+manner in which it oper at the outset a drum
+is given a function definit then a simpl design scheme
+eschenbach is introduc which enorm increas the rate of access
+for drum so defin thi is shown to enabl a
+system to perform a job by emploi fewer or less
+expens drum it is suggest that although the design scheme
+ha a specif us the method underli it ha more
+gener applic the question of the efficaci of the drum
+scheme is then rais to deal with thi a standard
+of effici is develop in light of realist real time
+circumst the drum scheme is then model in a manner
+which permit it to be analyz as a problem in
+queue theori thu on is enabl to ascertain whether the
+drum scheme is effici enough for it applic again wherea
+the analysi of the drum scheme ha a specif us
+the method underli it have more gener applic cacm juli
+1966 weingarten a ca660706 jb march 2 1978 9 29
+pm

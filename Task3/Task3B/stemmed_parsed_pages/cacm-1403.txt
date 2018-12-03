@@ -1,0 +1,12 @@
+a method for find the m smallest valu of a
+monoton function defin on order set of posit integ the
+minimum valu of a monoton increas function defin on a
+partial order set s is assum on the set of
+minim point of s thi observ is us to devis
+an effici method for find the m smallest function valu
+of monoton function defin on order pair of posit integ
+the method is easili extend to includ monoton function defin
+on order n tupl includ is a fortran program which
+wa written to implement the procedur for a certain import
+case cacm juli 1966 sigillito v g ca660709 jb march
+2 1978 9 13 pm

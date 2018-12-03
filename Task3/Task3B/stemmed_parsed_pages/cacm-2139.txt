@@ -1,0 +1,10 @@
+implement of the substr test by hash a techniqu is
+describ for implement the test which determin if on string
+is a substr of anoth when there is low probabl
+that the test will be satisfi it is shown how
+the oper can be speed up consider if it is
+preced by a test on appropri chosen hash code of
+the string cacm decemb 1971 harrison m c substr hash
+subset signatur inform compress inform retriev search 3 74 5
+30 5 6 ca711204 jb februari 2 1978 10 14
+am

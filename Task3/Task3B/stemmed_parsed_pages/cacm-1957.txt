@@ -1,0 +1,12 @@
+the list set gener a construct for evalu set express
+the list set gener is defin and algorithm for it
+us ar given the list set gener is a construct
+which mai be ad to a list process system or
+ani system that handl set it effici gener the set
+which result from ani express involv set and set oper
+the effici deriv from evalu the express as a whole
+and in parallel rather than evalu subexpress and then us
+those set to arriv at the final result cacm decemb
+1970 shapiro s c set manipul list process set gener
+set list file process 3 73 3 74 4 22
+ca701206 jb februari 9 1978 3 23 pm

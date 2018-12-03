@@ -1,0 +1,15 @@
+an effici data structur for the simul event set recent
+algorithm have been present for the realiz of event schedul
+routin suitabl for gener purpos discret event simul system sever
+exhibit a perform superior to that of commonli us simpl
+link list algorithm in thi paper a new event schedul
+algorithm is present which improv on two aspect of the
+best of the previous publish algorithm first the new algorithm
+s perform is quit insensit to skew distribut and second
+it worst case complex is o n where n is
+the number of event in the set furthermor test conduct
+to estim the averag complex show it to be nearli
+independ of n cacm august 1977 franta w r mali
+k simul time flow mechan event scan mechan multilink list
+3 34 4 22 5 5 8 1 ca770807 jb
+decemb 28 1977 7 15 am

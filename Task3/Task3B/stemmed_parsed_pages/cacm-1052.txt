@@ -1,0 +1,9 @@
+reduc truncat error by program in accumul a sum such
+as in a numer integr with a larg number of
+interv the sum itself becom much larger than the individu
+addend thi mai produc a less accur sum as the
+number of interv is increas separ variabl can be establish
+as accumul to hold partial sum within variou distinct interv
+thu the extens success truncat ar elimin cacm june 1964
+wolf j m ca640615 jb march 9 1978 9 22
+pm

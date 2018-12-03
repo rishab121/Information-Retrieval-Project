@@ -1,0 +1,5 @@
+dynam format specif the us and implement of two new
+fortran format convers ar discuss these format type give the
+fortran programm control of input output specif at execut time
+cacm august 1965 ranelletti j e ca650811 jb march 6
+1978 8 07 pm

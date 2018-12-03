@@ -1,0 +1,3 @@
+a new integr algorithm for ordinari differenti equat base on
+continu fraction approxim a new integr algorithm is found and
+an implement is compar with other program

@@ -1,0 +1,14 @@
+right brother tree insert and delet ar provid for the
+class of right or on side brother tree which have
+o log n perform the import of these result stem
+from the close relationship of right brother tree which have
+an insert algorithm oper in o log2 n further although
+both insert and delet can be carri out in o
+log n time for right brother tree it appear that
+the insert algorithm is inher much more difficult than the
+delet algorithm the revers of what on usual obtain cacm
+septemb 1978 ottmann t six h wood d dictionari problem
+search tree avl tree brother tree right balanc tree on
+side height balanc tree insert and delet algorithm 3 73
+3 74 5 31 ca780807 dh januari 29 1979 7
+08 pm

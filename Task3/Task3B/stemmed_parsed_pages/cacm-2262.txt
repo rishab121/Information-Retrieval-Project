@@ -1,0 +1,9 @@
+garbag collect for virtual memori comput system in list process
+there is typic a grow demand for space dure program
+execut thi paper examin the practic implic of thi growth
+within a virtual memori comput system propos two new garbag
+collect techniqu for virtual memori system and compar them with
+tradit method by discuss and by simul cacm novemb 1972
+baecker h d garbag collect virtual memori list process page
+segment page tabl 4 32 ca721107 jb januari 27 1978
+1 50 pm

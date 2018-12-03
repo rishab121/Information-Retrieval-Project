@@ -1,0 +1,8 @@
+on improv the worst case run time of the boyer
+moor string match algorithm it is shown how to modifi
+the boyer moor string match algorithm so that it worst
+case run time is linear even when multipl occurr of
+the pattern ar present in the text cacm septemb 1979
+galil z comput complex linear time worst case string match
+period 3 74 4 40 5 25 ca790903 db januari
+14 1980 10 27 am

@@ -1,0 +1,9 @@
+topolog order of a list of randomli number element of
+a network a network of direct line segment free of
+circular element is assum the line ar identifi by their
+termin node and the node ar assum to be number
+by a non topolog system given a list of these
+line in numer order a simpl techniqu can be us
+to creat at high speed a list in topolog order
+cacm april 1961 lasser d j ca610401 jb march 17
+1978 12 17 am

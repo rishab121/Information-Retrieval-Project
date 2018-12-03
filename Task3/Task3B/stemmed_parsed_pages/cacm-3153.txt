@@ -1,0 +1,21 @@
+the control of respons time in multi class system by
+memori alloc the possibl of give differ qualiti of servic
+to job of differ class by regul their memori alloc
+is examin in the context of a page comput system
+two parameter algorithm which partit the main memori between two
+class of job ar consid initi a close system consist
+of a process or and page and file devic with
+fix number of job is studi to determin optim degre
+of multiprogram and the proport of processor time devot to
+each class appli a decomposit approach and treat the close
+system as a singl server the respons time in an
+open system with extern arriv ar studi the object is
+to investig the effect of the memori aloc paramet on
+the expect respons time under the two algorithm numer solut
+and econom lower bound for the expect respons time as
+function of the control paramet ar obtain a wai of
+appli the result to system with more than two job
+class is indic cacm juli 1979 hine j mitrani i
+tsur s queue network page virtual memori perform control 4
+32 8 1 ca790704 dh august 22 1979 3 32
+pm

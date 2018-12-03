@@ -1,0 +1,16 @@
+a languag extens for express constraint on data access control
+share of inform is need and desir for mani applic
+and is support in oper system by access control mechan
+thi paper show how to extend program languag to provid
+control share the extens permit express of access constraint on
+share data access constraint can appli both to simpl object
+and to object that ar compon of larger object such
+as bank account record in a bank s data base
+the constraint ar state declar and can be enforc by
+static check similar to type check the approach can be
+us to extend ani strongli type languag but is particularli
+suitabl for extend languag that support the notion of abstract
+data type cacm mai 1978 jone a liskov b program
+languag access control data type abstract data type type check
+capabl 4 20 4 35 ca780502 dh februari 26 1979
+3 19 pm

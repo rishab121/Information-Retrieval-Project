@@ -1,0 +1,19 @@
+grow applic of linear program us of linear program model
+ha grown so extens in recent year that the whole
+concept for organ a comput code ha undergon a radic
+chang it no longer is adequ mere to reduc a
+mathemat algorithm i e the simplex method to a comput
+code an advanc code must cope with such a varieti
+of situat that the respect comput subprogram must be organ
+into an integr system emphasi in thi paper is devot
+to the underli principl upon which futur linear program system
+must be base these viewpoint ar influenc by the new
+demand that applic within the petroleum industri ar place on
+such system some of the compon of such a system
+ar translat of problem statement in term of basic data
+to linear program matrix coeffici data transmiss for direct comput
+entri data file at the comput center data process and
+edit prior to solv the simplex algorithm an effici and
+reliabl code for solv the abov mention algorithm and flexibl
+mean for summar the result cacm june 1964 aronofski j
+s ca640601 jb march 9 1978 9 55 pm

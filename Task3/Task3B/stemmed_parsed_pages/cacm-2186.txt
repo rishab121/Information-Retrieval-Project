@@ -1,0 +1,19 @@
+numer properti of the ritz trefftz algorithm for optim control
+in thi paper the ritz trefftz algorithm is appli to
+the comput solut of the state regul problem the algorithm
+repres a modif of the ritz direct method and is
+design to improv the speed of solut and the storag
+requir to the point where real time implement becom feasibl
+the modif is shown to be more stabl computation than
+the tradit ritz approach the first concern of the paper
+is to describ the algorithm and establish it properti as
+a valid and us numer techniqu in particular such us
+properti as definit and reason of condit ar establish for
+the method the second part of the paper is devot
+to a comparison of the new techniqu with the standard
+procedur of numer integr a matrix riccati equat to determin
+a feedback matrix the new techniqu is shown to be
+significantli faster for compar accuraci cacm june 1971 bosarg jr
+w e johnson o g spline regul problem control theori
+numer analysi 5 1 ca710604 jb februari 3 1978 10
+12 am

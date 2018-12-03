@@ -1,0 +1,7 @@
+minim event node network of project preced relat a procedur
+for construct a minim event node network to repres a
+set of preced relat without parallel activ is present a
+minim event node network is an event node network in
+which both the number of node and the number of
+arc ar the minima to preserv the given preced relat
+counterexam

@@ -1,0 +1,16 @@
+an axiomat basi for comput program in thi paper an
+attempt is made to explor the logic foundat of comput
+program by us of techniqu which were first appli in
+the studi of geometri and have later been extend to
+other branch of mathemat thi involv the elucid of set
+of axiom and rule of infer which can be us
+in proof of the properti of comput program exampl ar
+given of such axiom and rule and a formal proof
+of a simpl theorem is displai final it is argu
+that import advantag both theoret and practic mai follow from
+a pursuanc of these topic cacm octob 1969 hoar c
+a r axiomat method theori of program proof of program
+formal languag definit program languag design machin independ program program
+document 4 0 4 21 4 22 5 20 5
+21 5 23 5 24 ca691012 jb februari 15 1978
+1 48 pm

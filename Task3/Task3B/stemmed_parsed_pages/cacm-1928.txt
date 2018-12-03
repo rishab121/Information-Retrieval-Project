@@ -1,0 +1,20 @@
+exclus simul of activ in digit network a techniqu for
+simul the detail logic network of larg and activ digit
+system is describ essenti object sought ar improv eas and
+economi in model gener economi in execut time and space
+and a facil for handl simultan activ the main result
+obtain ar a clear and us separ of structur and
+behavior model descript a reduct of manual task in convert
+boolean logic into a structur model the elimin of manual
+process in achiev exclus simul of activ an event schedul
+techniqu which doe not deterior in economi as the event
+queue grow in length and a simul procedur which deal
+effect with ani mixtur of serial and simultan activ the
+passag of time is simul in a precis quantit fashion
+and system to be simul mai be combin of synchron
+and asynchron logic certain aspect of the techniqu describ mai
+be us for the simul of network structur other than
+digit network cacm februari 1969 ulrich e g simul logic
+simul digit simul larg system simul network structur schedul queu
+simultan activ parallel event 4 22 4 29 6 9
+ca690210 jb februari 20 1978 9 58 am

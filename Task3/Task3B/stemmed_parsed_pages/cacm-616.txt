@@ -1,0 +1,26 @@
+an inform algebra phase i report languag structur group of
+the codasyl develop committe thi report repres the result of
+the first phase of the work of the languag structur
+group the goal of thi work is to arriv at
+a proper structur for a machin independ problem defin languag
+at the system level of data process the report is
+base for the most part on a mathemat model call
+an inform algebra develop primarili by r bosak it is
+hope that thi report will be read a with avid
+interest by program languag design and implementor and all those
+interest in develop a theoret approach to data process b
+with interest and understand by profession programm and system analyst
+and c with appreci by the businessman analyst manag the
+author have not attempt an exhaust discours in thi report
+rather thei have tri to present a philosophi to the
+profession peopl who ar vital concern with provid a work
+languag for the system analyst s us thei trust that
+the idea in thi report will stimul other to think
+along similar line question and comment will be welcom and
+can be address to ani of the member of the
+languag structur group robert bosak system develop corpor richard f
+clipping honeywel edp divis carei dobb remington rand univac divis
+roi goldfing chairman ibm corpor rene b jasper navi manag
+offic william keat nation cash regist georg kendrick gener electr
+compani jean e sammet ibm corpor cacm april 1962 ca620401
+jb march 20 1978 2 40 pm

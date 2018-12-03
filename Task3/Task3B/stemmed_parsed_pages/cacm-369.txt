@@ -1,0 +1,2 @@
+crout with pivot algorithm 16 cacm march 1961 thacher jr
+h c ca610313 jb march 17 1978 12 32 am

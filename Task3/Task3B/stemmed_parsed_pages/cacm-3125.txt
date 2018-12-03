@@ -1,0 +1,18 @@
+global optim by suppress of partial redund the elimin of
+redund comput and the move of invari comput out of
+loop ar often done separ with invari move outward loop
+by loop we propos to do both at onc and
+to move each express directli to the entranc of the
+outermost loop in which it is invari thi is done
+by solv a more gener problem i e the elimin
+of comput perform twice on a given execut path such
+comput ar term partial redund moreov the algorithm doe not
+requir ani graphic inform or restrict on the shape of
+the program graph test thi algorithm ha shown that it
+execut cost is nearli linear with the size of the
+program and that it lead to a smaller optim that
+requir less execut time cacm februari 1979 morel e renvois
+c optim optim compil compil redund elimin invari comput elimin
+partial redund data flow analysi boolean system 4 12 5
+21 5 24 ca790204 dh april 10 1979 4 19
+pm

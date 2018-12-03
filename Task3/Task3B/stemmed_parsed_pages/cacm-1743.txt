@@ -1,0 +1,9 @@
+reliabl full duplex file transmiss over half duplex telephon line
+a field proven scheme for achiev reliabl duplex transmiss over
+a half duplex commun line is present and to demonstr
+the difficulti of the problem anoth similar scheme which is
+onli slightli unreli is also present a flowchart for the
+reliabl scheme and some interest exampl ar given cacm june
+1968 lynch w c telephon commun half duplex transmiss error
+correct full duplex telephon error 3 81 4 41 6
+35 ca680602 jb februari 22 1978 4 45 pm

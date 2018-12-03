@@ -1,0 +1,19 @@
+a statist studi of the accuraci of float point number
+system thi paper present the statist result of test of
+the accuraci of certain arithmet system in evalu sum product
+and inner product and analyt error estim for some of
+the comput the arithmet system studi ar 6 digit hexadecim
+and 22 digit binari float point number represent combin with
+the usual chop and round mode of arithmet with variou
+number of guard digit and with a modifi round mode
+with guard digit in a certain sens arithmet system differ
+onli in their us of binari or hexadecim number represent
+ar shown to be approxim statist equival inaccuraci further the
+usual round mode with guard digit is shown to be
+statist superior in accuraci to the usual chop mode in
+all case save on the modifi round mode is found
+to be superior to the chop mode in all case
+cacm april 1973 kuki h codi w j error analysi
+float point arithmet round guard digit number represent 5 11
+5 5 6 32 ca730403 jb januari 24 1978 10
+04 am

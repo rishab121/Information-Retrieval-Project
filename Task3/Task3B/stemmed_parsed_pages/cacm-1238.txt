@@ -1,0 +1,12 @@
+a techniqu for integr report from a multi run system
+the requir of a requisit account system for the san
+francisco oversea suppli agenc osa includ except report to osa
+itself the simultan satisfact of the report requir and the
+account requir pose definit problem in system design particularli the
+handl of the report function a practic and satisfactori solut
+wa develop by expand the basic system with two tailor
+servic run for report product these two run permit a
+final system that wa easier to debug easi to maintain
+effici in product and respons to the chang requir of
+osa cacm june 1965 budea n kamena j g kamena
+r m ca650617 jb march 6 1978 9 49 pm

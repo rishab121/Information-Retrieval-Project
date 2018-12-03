@@ -1,0 +1,15 @@
+on complement divis the divis algorithm theorem is express in
+a form that permit it to serv as the basi
+for devis divis oper that produc both quotient and remaind
+in complement form algorithm for divis yield complement result ar
+deriv for number repres in ani base greater than on
+both radix and radix less on complement scheme ar consid
+the binari form of the algorithm thu includ both two
+s and on s complement implement the problem of quotient
+overflow for complement result is dealt with as is that
+of select an appropri form of the remaind condit for
+complement divis cacm april 1971 stein m l munro w
+d divis algorithm complement arithmet complement divis on s complement
+arithmet two s complement arithmet 3 15 4 0 4
+9 5 11 6 32 ca710405 jb februari 3 1978
+3 28 pm

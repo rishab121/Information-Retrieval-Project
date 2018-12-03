@@ -1,0 +1,11 @@
+dynam comput of deriv it is shown how wengert s
+procedur for comput of deriv can be implement conveni by
+us of compil gener complex addit subtract and linkag to
+complex arithmet subroutin evalu of a function and deriv proce
+in parallel as in wengert s procedur but with the
+imaginari part of variabl declar complex bear the valu of
+the deriv of the real part thi techniqu provid a
+simpl wai to comput the deriv of a function without
+the need for deriv and program the evalu of explicit
+formula for the deriv cacm septemb 1967 lesk a m
+ca670908 jb februari 27 1978 3 11 pm

@@ -1,0 +1,14 @@
+a note on minim length polygon approxim to a digit
+contour a method for extract a smooth polygon contour from
+a digit imag is illustr the order sequenc of contour
+point and the connect graph of the imag ar first
+obtain by a modifi ledlei algorithm in on imag scan
+a minim perimet polygon subject to specifi constraint is then
+chosen as the approxim contour the determin of the minim
+polygon can be reduc to a nonlinear program problem solv
+by an algorithm which take into account the weak bond
+between variabl some exampl ar present and the correspond comput
+time ar list cacm januari 1970 montanari u digit imag
+connect tree minim polygon optim approxim nonlinear program 3 63
+5 13 5 17 ca700106 jb februari 14 1978 2
+00 pm

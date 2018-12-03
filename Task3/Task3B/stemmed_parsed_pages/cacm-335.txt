@@ -1,0 +1,10 @@
+some numer experi us newton s method for nonlinear parabol
+and ellipticboundari valu problem us a gener of newton s
+method a nonlinear parabol equat of the form u t
+u xx g u and a nonlinear ellipt equat u
+xx u yy exp u ar solv numer comparison of
+these result with result obtain us the picard iter procedur
+show that in mani case the quisi linear method offer
+substanti advantag in both time and accuraci cacm april 1961
+bellman r juncosa m l kalaba r ca610433 jb march
+16 1978 11 20 pm

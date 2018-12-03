@@ -1,0 +1,8 @@
+gener discret random variabl in a comput thi note is
+concern with detail of how to instruct a comput to
+choos on from mani thing with assign probabl the method
+us a uniform variabl to direct the comput to a
+memori locat if thi is done by a sequenc of
+appropri chosen condit probabl effici us of memori space and
+quit fast program will result cacm januari 1963 marsaglia g
+ca630108 jb march 14 1978 2 40 pm

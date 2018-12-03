@@ -1,0 +1,11 @@
+mix solut for the deadlock problem mixtur of detect avoid
+and prevent provid more effect and practic solut to the
+deadlock problem than ani on of these alon the individu
+techniqu can be tailor for subproblem of resourc alloc and
+still oper togeth to prevent deadlock thi paper present a
+method base on the concept of the hierarch oper system
+for construct appropri mixtur and suggest appropri subsystem for the
+most frequent occur resourc alloc problem cacm juli 1973 howard
+j h jr deadlock resourc alloc oper system multiprogram hierarch
+system 4 30 4 32 ca730704 jb januari 23 1978
+12 46 pm

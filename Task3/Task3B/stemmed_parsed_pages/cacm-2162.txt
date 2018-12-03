@@ -1,0 +1,10 @@
+an effici bit tabl techniqu for dynam storag alloc of
+2 n word block an effici bit tabl techniqu for
+dynam storag alloc of 2 n word block which requir
+a minim amount of memori for bookkeep purpos is describ
+the techniqu ha been test in an implement of the
+list process languag l 6 a number of idea incorpor
+in the processor ar also describ cacm septemb 1971 isoda
+s goto e bit tabl dynam storag alloc buddi system
+l 6 list process free storag 3 89 4 12
+4 9 ca710902 jb februari 2 1978 2 33 pm

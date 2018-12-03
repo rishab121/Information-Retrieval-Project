@@ -1,0 +1,11 @@
+the edit of pictur segment us local analysi of graph
+a major problem in pictur process is the elimin of
+the larg number of spuriou region that result from an
+initi segment by region grow techniqu such region have been
+elimin either on the basi of semant inform or on
+the basi of size and contrast a scheme is present
+which perform elimin on the basi of local properti of
+the region adjac graph the scheme is base on definit
+of graph properti which ar satisfi when a spuriou region
+is present then edit is equival to fast graph oper
+a number of exam

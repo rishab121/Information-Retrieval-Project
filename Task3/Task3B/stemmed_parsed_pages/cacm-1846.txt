@@ -1,0 +1,20 @@
+on simul network of parallel process in which simultan event
+mai occur some of the problem of simul discret event
+system particularli comput system on a convent digit comput ar
+dealt with the system ar assum to be describ as
+a network of interconnect sequenti process briefli review ar the
+common techniqu us to handl such simul when simultan event
+do not occur can be ignor or can be handl
+by simpl prioriti rule follow thi the problem of deal
+with simultan event in separ process is introduc an abstract
+of thi problem is develop which admit solut for a
+major of commonli encount problem the techniqu will either find
+a method of simul the parallel event or report that
+none can be found in some of the latter case
+it is shown to be possibl to find a solut
+by extend the inform avail to the solut techniqu but
+in mani case the techniqu becom computation unfeas when the
+addit inform is provid cacm septemb 1969 parna d l
+simul parallel process simultan event pictur process comput system simul
+3 19 3 24 4 24 5 9 6 9
+ca690910 jb februari 15 1978 4 21 pm

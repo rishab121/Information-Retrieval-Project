@@ -1,0 +1,16 @@
+a practition s guid to address algorithm thi paper consolid
+a number of popular rule of thumb which have been
+suggest for the design of record address algorithm and discuss
+the applic of these rule to larg commerci databas guidelin
+for select identifi transform overflow techniqu load factor bucket size
+and load order and consid particular attent is focus on
+the reason of common heurist for determin primari or secondari
+bucket size a mathemat model which explicitli consid storag devic
+characterist and time space cost tradeoff is us to analyz
+the effect of design paramet on overal system cost a
+specif design exampl is present and solv cacm june 1976
+sever d duhn r data manag file retriev search address
+techniqu hash function synonym resolut load factor bucket size heurist
+design rule of thumb 3 50 3 72 3 74
+4 33 4 34 4 41 8 1 ca760602 jb
+januari 4 1978 2 47 pm

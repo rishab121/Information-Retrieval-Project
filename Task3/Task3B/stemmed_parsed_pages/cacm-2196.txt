@@ -1,0 +1,26 @@
+a man machin approach toward solv the travel salesman problem
+the travel salesman problem belong to an import class of
+schedul and rout problem it is also a subproblem in
+solv other such as the warehous distribut problem it ha
+been attack by mani mathemat method with but meager success
+onli for special form of the problem or for problem
+with a moder number of point can it be solv
+exactli even if veri larg amount of comput time ar
+us heurist procedur have been propos and test with onli
+slightli better result thi paper describ a comput aid heurist
+techniqu which us onli a modest amount of comput time
+in real time to solv larg 100 200 point problem
+thi techniqu take advantag of both the comput s and
+the human s problem solv abil the comput is not
+ask to solv the problem in a brute forc wai
+as in mani of todai s heurist but it is
+ask to organ the data for the human so that
+the human can solv the problem easili the techniqu us
+in thi paper seem to point to new direct in
+the field of man machin interact and in the field
+of artifici intellig cacm mai 1971 krolak p felt w
+marbl g heurist procedur comput aid heurist techniqu man machin
+interact artifici intellig assign problem mask of the assign rubber
+band tour gener interact process travel salesman problem 3 57
+3 66 5 30 ca710503 jb februari 3 1978 3
+00 pm

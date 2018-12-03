@@ -1,0 +1,15 @@
+a fast algorithm for comput longest common subsequ previous publish
+algorithm for find the longest common subsequ of two sequenc
+of length n have had a best case run time
+of o n 2 an algorithm for thi problem is
+present which ha a run time of o r n
+log n where r is the total number of order
+pair of posit at which the two sequenc match thu
+in the worst case the algorithm ha a run time
+of o n 2 log n howev for those applic
+where most posit of on sequenc match rel few posit
+in the other sequenc a run time of o n
+log n can be expect cacm mai 1977 hunt j
+w szymanski t g longest common subsequ effici algorithm 3
+73 3 63 5 25 ca770509 jb decemb 29 1977
+1 46 am

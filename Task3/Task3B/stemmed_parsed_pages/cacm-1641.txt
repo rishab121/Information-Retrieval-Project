@@ -1,0 +1,22 @@
+a us of fast and slow memori in list process
+languag a scheme is describ which permit a substanti increas
+in memori space util to store list structur data it
+consist in reduc to on level a nonhomogen store compos
+of fast core and slow disk or drum memori the
+space avail in slow memori is divid into page each
+contain a given number of machin word the reduct to
+a on level memori is perform by a program which
+leav the most often call page in the fast memori
+when a new page from slow store is request the
+page in core have the longest period of inact is
+transfer back to the slow store the complet scheme ha
+been implement in connect with a lisp embed into algol
+us an ibm 7044 with 32k of core memori and
+disk gain in memori space were about 100 fold as
+often happen in program applic the price of the addit
+space is comput time although the disk have an access
+time 10 4 time slower than core test indic that
+the actual slow down vari from 3 to 10 depend
+on the number of page avail in the fast store
+cacm februari 1967 cohen j ca670202 jb februari 28 1978
+4 06 pm

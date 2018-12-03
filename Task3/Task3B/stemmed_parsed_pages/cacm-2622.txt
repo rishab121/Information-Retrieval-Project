@@ -1,0 +1,6 @@
+a user authent scheme not requir secreci in the comput
+in mani comput oper system a user authent himself by
+enter a secret password known sole to himself and the
+system the system compar thi password with on record in
+a password tabl which is avail to onli the authent
+program

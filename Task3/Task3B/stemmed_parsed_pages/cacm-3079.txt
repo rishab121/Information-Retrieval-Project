@@ -1,0 +1,7 @@
+an algorithm for reason about equal a simpl techniqu for
+reason about equal that is fast and complet for ground
+formula with function symbol and equal is present a proof
+of correct is given as well cacm juli 1978 shostak
+r theorem prove deduct program verif equal 3 64 3
+66 5 21 ca780709 dh februari 7 1979 3 41
+pm

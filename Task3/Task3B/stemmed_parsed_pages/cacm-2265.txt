@@ -1,0 +1,23 @@
+a model for type check most current program languag treat
+comput over differ class of object e g number string
+label and function for correct compil and execut the follow
+question then aris is a program properli construct so that
+it oper and operand ar compat the activ of answer
+thi question is usual call type check thi paper attempt
+to isol the notion of type check and present a
+partial solut to the type check problem base on the
+notion of abstract and applic of function in particular a
+program is map into an express within a decid subset
+of the lambda calculu which character the type relat within
+the program and elimin all other inform the determin of
+the type wise correct or incorrect of the program is
+resolv by reduc it correspond lambda calculu express to on
+of two normal form the constant correct for a type
+wise correct program or the constant error an applic to
+type check in algol 60 is made and the attend
+problem face for ani notion of type check ar discuss
+cacm novemb 1972 ledgard h f type check type lambda
+calculu model for program languag syntax semant compil write languag
+implement formal definit 4 12 4 22 5 2 5
+21 5 23 ca721104 jb januari 27 1978 2 30
+pm

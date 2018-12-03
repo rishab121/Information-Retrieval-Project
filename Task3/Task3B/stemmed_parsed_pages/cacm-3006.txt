@@ -1,0 +1,14 @@
+anomali with variabl partit page algorithm five type of anomal
+behavior which mai occur in page virtual memori oper system
+a redefin on type of anomali for exampl concern the
+fact that with certain refer string and page algorithm an
+increas in mean memori alloc mai result in an increas
+in fault rate two page algorithm ar examin in term
+of their anomali potenti and refer string exampl of variou
+anomali ar present two page algorithm properti the inclus properti
+and the gener inclus properti ar discuss and the anomali
+implic of these properti present cacm march 1978 franklin m
+graham g gupta r anomali memori manag program behavior stack
+algorithm virtual memori work set page fault frequenc page algorithm
+4 32 4 35 4 6 8 1 ca780307 jb
+march 28 1978 1 01 pm

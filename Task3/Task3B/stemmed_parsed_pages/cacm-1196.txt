@@ -1,0 +1,11 @@
+applic of differenti equat in gener problem solv a larg
+class of problem lead to digit comput process can be
+formul in term of the numer solut of system of
+ordinari differenti equat power method ar in exist for the
+solut of such system a good gener purpos routin for
+the solut of such system furnish a power tool for
+process mani problem thi is true from the point of
+view of eas of program eas of debug and minim
+of comput time a number of exampl ar discuss in
+detail cacm septemb 1965 klopfenstein r w ca650910 jb march
+6 1978 7 16 pm

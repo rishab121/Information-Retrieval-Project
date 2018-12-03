@@ -1,0 +1,25 @@
+an algorithm for find a fundament set of cycl of
+a graph a fast method is present for find a
+fundament set of cycl for an undirect finit graph a
+span tree is grown and the vertic examin in turn
+unexamin vertic be store in a pushdown list to await
+examin on stage in the process is to take the
+top element v of the pushdown list and examin it
+i e inspect all those edg v z of the
+graph for which z ha not yet been examin if
+z is alreadi in the tree a fundament cycl is
+ad if not the edg v z is place in
+the tree there is exactli on such stage for each
+of the n vertic of the graph for larg n
+the store requir in creas as n 2 and the
+time as n g where g depend on the type
+of graph involv g is bound below by 2 and
+abov by 3 and it is shown that both bound
+ar attain in term of storag our algorithm is similar
+to that of gotlieb and corneil and superior to that
+of welch in term of speed it is similar to
+that of welch and superior to that of gotlieb and
+corneil testsshow our algorithm to be remark effici g 2
+on random graph cacm septemb 1969 paton k fundament cycl
+set graph algorithm cycl span tree 5 32 ca690909 jb
+februari 15 1978 4 29 pm

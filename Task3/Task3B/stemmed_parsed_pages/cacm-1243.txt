@@ -1,0 +1,4 @@
+test the understand of the differ between call by name
+and call by valu in algol 60 cacm june 1965
+weil r l ca650612 jb march 6 1978 10 11
+pm

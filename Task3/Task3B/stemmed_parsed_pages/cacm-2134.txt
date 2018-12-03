@@ -1,0 +1,10 @@
+an extens of the munkr algorithm for the assign problem
+to rectangular matric the assign problem togeth with munkr propos
+algorithm for it solut in squar matric is present first
+then the author develop an extens of thi algorithm which
+permit a solut for rectangular matric time result obtain by
+us an adapt version of silver s algol procedur ar
+discuss and a relat between solut time and problem size
+is given cacm decemb 1971 bourgeoi f lassal j oper
+research optim theori assign problem rectangular matric algorithm 5 39
+5 40 ca711209 jb februari 2 1978 9 46 am

@@ -1,0 +1,13 @@
+an analyt model of the hasp execut task monitor the
+hasp execut task monitor period rearrang the os 360 dispatch
+chain to give task preemptiv execut prioriti in invers order
+to that of their cpu util histori the effect is
+to keep the i o bound task activ and to
+prevent cpu bound task from lock out other task thi
+paper develop a simpl model of the execut task monitor
+and emploi it to studi the effect of the monitor
+in improv system perform a modifi strategi monitor control is
+investig for the case of task execut in a memori
+hierarchi of vari speed cacm decemb 1974 strauss j c
+hasp os 360 dispatch schedul model perform evalu 4 32
+8 1 ca741203 jb januari 16 1978 9 51 am

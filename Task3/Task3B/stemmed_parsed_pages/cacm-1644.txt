@@ -1,0 +1,7 @@
+on the comput of least squar polynomi round error accumul
+dure digit comput of a least squar polynomi make the
+comput polynomi onli an approxim to the true least squar
+polynomi a simpl method for adjust ing the constant term
+of the comput polynomi to get a better approxim to
+the true least squar polynomi is describ cacm januari 1967
+goldberg m ca670111 jb februari 28 1978 4 24 pm

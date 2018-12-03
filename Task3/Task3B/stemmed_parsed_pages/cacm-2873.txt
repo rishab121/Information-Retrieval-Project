@@ -1,0 +1,14 @@
+lg a languag for analyt geometri a convers program languag
+for analyt geometri is describ togeth with some aspect of
+it implement the languag allow the flexibl definit of geometr
+object and element comput their paramet and displai the result
+it also provid the capabl of specifi a geometr figur
+via a collect of paramet and displai variou loci correspond
+to these paramet a third characterist consist of the possibl
+of us thi languag to design other user orient languag
+lg ha been specif design for us by nonprogramm it
+is easi to learn and veri close to the natur
+languag us in geometri cacm april 1976 raymond j interact
+program problem orient languag comput graphic interpret analyt geometri 3
+20 4 13 4 22 4 9 ca760403 jb januari
+4 1978 4 26 pm

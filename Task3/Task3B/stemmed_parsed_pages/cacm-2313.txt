@@ -1,0 +1,14 @@
+the evolut of storag structur data base manag system have
+grown rapidli in their power and complex over the 15
+year histori of data process on commerci avail comput the
+origin concept have split and new term have been adopt
+to name and refer to these concept the data structur
+diagram graphic techniqu is us to illustr the split of
+the concept and the structur relat which exist between these
+concept at each point in the evolut cacm juli 1972
+bachman c w block cylind devic field extent file page
+record physic record logic record track volum entiti set entiti
+class set class data structur diagram storag structur physic storag
+structur logic storag structur storag alloc structur integr data store
+index sequenti hash random item 1 4 4 41 4
+9 ca720715 jb januari 30 1978 1 16 pm

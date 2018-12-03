@@ -1,0 +1,17 @@
+product system or can we do better than bnf sinc
+the develop of bnf the definit of the syntax of
+program languag ha been almost univers associ with context free
+requir yet numer interest and difficult issu in syntax stem
+from the context sensit requir notabl the compat between the
+declar of an identifi and it us the correspond between
+actual and formal paramet and issu aris from block structur
+thi paper explor the us of a formal notat call
+product system in provid a readabl and complet formal definit
+of syntax as a practic illustr a small but signific
+subset of pl i is consid a more detail present
+as well as the applic to defin abstract syntax and
+translat between languag is given in a previou paper by
+the author cacm februari 1974 ledgard h f syntax translat
+context sensit grammar compil formal definit pl i standard 4
+2 5 21 5 23 ca740205 jb januari 18 1978
+1 07 pm

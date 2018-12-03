@@ -1,0 +1,11 @@
+automat error analysi for determin precis the problem consid is
+that of evalu a ration express to within ani desir
+toler on a comput which perform variabl precis float point
+arithmet oper an automat error analysi techniqu is given for
+determin directli from the result of a trial low precis
+interv arithmet calcul just how much precis and data accuraci
+ar requir to achiev a desir final accuraci the techniqu
+given gener easili to the evalu of mani nonrat express
+cacm septemb 1972 richman p l error analysi interv arithmet
+precis control 5 11 ca720904 jb januari 27 1978 4
+39 pm

@@ -1,0 +1,11 @@
+note on recurs elimin variou method of recurs elimin ar
+appli to the schemat recurs procedur proc s x px
+then n x s fx s gx m x fi
+procedur with thi gener form aris in connect with tree
+travers and sort algorithm each method of recurs remov involv
+the us of on or more stack and the solut
+ar compar on the basi of their run time cacm
+june 1977 bird r s recurs elimin optim of program
+stack tree sort algorithm comput induct 4 0 4 2
+5 20 5 24 5 25 5 31 ca770610 jb
+decemb 28 1977 12 50 pm

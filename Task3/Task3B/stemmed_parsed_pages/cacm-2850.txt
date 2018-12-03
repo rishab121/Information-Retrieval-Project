@@ -1,0 +1,17 @@
+symbol execut and program test thi paper describ the symbol
+execut of program instead of suppli the normal input to
+a program e g number on suppli symbol repres arbitrari
+valu the execut proce as in a normal execut except
+that valu mai be symbol formula over the input symbol
+the difficult yet interest issu aris dure the symbol execut
+of condit branch type statement a particular system call effigi
+which provid symbol execut for program test and debug is
+also describ it interpret execut program written in a simpl
+pl i style program languag it includ mani standard debug
+featur the abil to manag and to prove thing about
+symbol express a simpl program test manag and a program
+verifi a brief discuss of the relationship between symbol execut
+and program prove is also includ cacm juli 1976 king
+j c symbol execut program test program debug program prove
+program verif symbol interpret 4 13 5 21 5 24
+ca760703 jb januari 4 1978 12 59 pm

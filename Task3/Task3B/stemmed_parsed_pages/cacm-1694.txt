@@ -1,0 +1,9 @@
+an algorithm for the probabl of the union of a
+larg number of event an algorithm is present which effici
+evalu the probabl for the union of n independ and
+not mutual exclus event the problem is that of evalu
+the sum of the product of all possibl combin of
+n variabl in minimum time and storag space cacm septemb
+1968 miller g d algorithm probabl optimum storag vs time
+compromis set union mutual exclus event 5 12 5 5
+5 6 ca680907 jb februari 22 1978 8 45 am

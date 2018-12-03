@@ -1,0 +1,9 @@
+emul of larg system the convers problem and a new
+techniqu call emul ar discuss the techniqu of emul is
+develop and includ section on both the central process unit
+cpu and the input output unit i o thi gener
+treatment is follow by three section that describ in greater
+detail the implement of compat featur us the emul techniqu
+for the ibm 7074 7080 and 7090 system on ibm
+system 360 cacm decemb 1965 tucker s g ca651205 jb
+march 6 1978 4 09 pm

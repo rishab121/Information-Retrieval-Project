@@ -1,0 +1,19 @@
+method for analyz data from comput simul experi thi paper
+address itself to the problem of analyz data gener by
+comput simul of econom system we first turn to a
+hypothet firm whose oper is repres by singl channel multist
+queue model the firm seek to maxim total expect profit
+for the come period by select on of five oper
+plan where each plan incorpor a certain market strategi an
+alloc of product input and a total cost the result
+of the simul activ under each plan ar subject to
+an f test two multipl comparison method and a multipl
+rank method we illustr compar and evalu these techniqu the
+paper adopt the posit that the particular techniqu of analysi
+possibl not ani on of the abov chosen by the
+experiment should be an express of hi experiment object the
+f test test the homogen of the plan multipl comparison
+method quantifi their differ and multipl rank method directli identifi
+the on best plan or best plan cacm novemb 1967
+naylor t h wertz k wonnacott t h ca671103 jb
+februari 26 1978 3 15 pm

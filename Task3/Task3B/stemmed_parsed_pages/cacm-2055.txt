@@ -1,0 +1,3 @@
+subroutin to perform in situ transposit of a rectangular matrix
+algorithm 380 cacm mai 1970 lachenmai r rectangular matrix transpos
+5 14 ca700511 jb februari 13 1978 1 14 pm

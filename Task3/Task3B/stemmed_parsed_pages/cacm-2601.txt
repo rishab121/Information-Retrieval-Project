@@ -1,0 +1,5 @@
+evalu of the modifi bessel function k0 z and k1
+z for complex argument s17 algorithm a484 cacm septemb 1974
+burrel k h bessel function hankel function modifi bessel function
+gauss hermit quadratur 5 12 ca740907 jb januari 17 1978
+8 47 am

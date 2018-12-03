@@ -1,0 +1,4 @@
+the composit of semant in algol 68 the main featur
+of algol 68 ar explain from a semant point of
+view it is shown how the languag permit the composit
+of valu and action i e ultim program

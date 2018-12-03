@@ -1,0 +1,12 @@
+convers of decis tabl to comput program by rule mark
+techniqu the rule mask techniqu is on method of convert
+limit entri decis tabl to comput program recent discuss suggest
+that in mani circumst it is to be prefer to
+the techniqu of construct network or tree a drawback of
+the techniqu as hitherto present is it liabil to produc
+object program of longer run time than necessari in thi
+paper a modif of the techniqu is discuss which take
+into account both rule frequenc and the rel time for
+evalu condit thi can materi improv object program run time
+cacm novemb 1966 king p j h ca661104 jb march
+2 1978 3 41 pm

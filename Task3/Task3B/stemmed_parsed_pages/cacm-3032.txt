@@ -1,0 +1,18 @@
+revers path forward of broadcast packet a broadcast packet is
+for deliveri to all node of a network algorithm for
+accomplish thi deliveri through a store and forward packet switch
+comput network includ 1 transmiss of separ address packet 2
+multidestin address 3 hot potato forward 4 span tree forward
+and 5 sourc base forward to thi list of algorithm
+we add 6 revers path forward a broadcast rout method
+which exploit rout procedur and data structur alreadi avail for
+packet switch revers path forward is a practic algorithm for
+broadcast rout in store and forward packet switch comput network
+the algorithm is describ as be practic becaus it is
+not optim accord to metric develop for it analysi in
+thi paper and also becaus it can be implement in
+exist network with less complex than that requir for the
+known altern cacm decemb 1978 dalal y metcalf r revers
+path forward broadcast packet rout comput network store and forward
+packet switch broadcast protocol 3 81 4 32 5 32
+ca781207 dh januari 18 1979 3 10 pm

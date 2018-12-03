@@ -1,0 +1,20 @@
+is automat fold of program effici enough to displac manual
+the oper of fold a program into the avail memori
+is discuss measur by brown et al and by nelson
+on an automat fold mechan of simpl design a demand
+page unit built at the ibm research center by beladi
+nelson o neil and other permit it qualiti to be
+compar with that of manual fold ar discuss and it
+is shown that given some care in us the unit
+perform satisfactorili under the condit test even though it is
+oper across a memori to storag interfac with a veri
+larg speed differ the disadvantag of prefold which is requir
+when the fold is manual ar examin and a number
+of the import troubl which beset comput todai ar shown
+to aris from or be aggrav by thi sourc it
+is conclud that a fold mechan will probabl becom a
+normal part of most comput system cacm decemb 1969 sayr
+d page automat page demand page fold automat fold storag
+hierarchi memori hierarchi replac algorithm perform measur 4 0 4
+19 4 39 6 20 6 34 ca691202 jb februari
+15 1978 4 33 pm

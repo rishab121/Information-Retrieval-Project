@@ -1,0 +1,16 @@
+nonlinear regress and the solut of simultan equat if on
+ha a set of observ z1 zm which ar bound
+in a relat with certain paramet a1 an by an
+equat s z1 a1 0 on frequent ha the problem
+of determin a set of valu of the ai which
+minim the sum of squar of differ between observ and
+calcul valu of a distinguish observ sai zm if the
+solut of the abov equat for zm zm n z1
+a1 give rise to a function n which is nonlinear
+in the ai then on mai reli on a version
+of gaussian regress 1 2 for an iter scheme that
+converg to a minim set of valu it is shown
+here that thi same minim techniqu mai be us for
+the solut of simultan not necessarili linear equat cacm juli
+1962 baer r m ca620725 jb march 17 1978 8
+09 pm

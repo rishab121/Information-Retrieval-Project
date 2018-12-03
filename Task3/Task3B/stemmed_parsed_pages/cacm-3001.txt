@@ -1,0 +1,20 @@
+detect of combin occurr in thi paper it is suppos
+that the variabl x1 xn each have finit rang with
+the variabl xi take on pi possibl valu and that
+the valu of the variabl ar chang with time it
+is suppos further that it is desir to detect occurr
+in which some subset of the variabl achiev particular valu
+final it is suppos that the problem involv the detect
+of a larg number of combin occurr for a larg
+number of chang of valu of variabl two effici solut
+for thi problem ar describ both method have the unusu
+properti of be faster for system where the sum p1
+pn is larger the first solut is error free and
+suitabl for most case the second solut is slightli more
+eleg and allow negat as well as conjunct but is
+subject to the possibl of error an error analysi is
+given for the second method and an empir studi is
+report cacm januari 1977 zobrist a l carlson f r
+jr code hash code retriev secondari kei pattern recognit artifici
+in tellig demon n tupl sort chess 3 63 5
+31 ca770104jb januari 3 1978 12 15 am

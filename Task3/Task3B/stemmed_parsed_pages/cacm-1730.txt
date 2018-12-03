@@ -1,0 +1,4 @@
+jacobi polynomi algorithm 332 s22 cacm june 1968 witt b
+f w jacobi polynomi orthogon polynomi three term recurr special
+function 5 12 ca680615 jb februari 22 1978 3 17
+pm

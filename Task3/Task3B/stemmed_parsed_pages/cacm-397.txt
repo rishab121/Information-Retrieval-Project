@@ -1,0 +1,14 @@
+a card format for refer file in inform process thi
+paper propos a card format suitabl for a varieti of
+refer file in inform process an 80 column ibm card
+is divid into two field refer materi field column 1
+67 and identif field column 68 80 the format for
+the refer materi is flexibl while the format for the
+identif is rigid the refer materi includ basic an index
+titl sourc class summari and cross refer for each entri
+the identif includ basic code for a matrix of descriptor
+an entri number and the kind major interest and sourc
+of the refer the identif also provid a choic to
+identifi materi for person as well as gener file sinc
+thi card format is suffici to identifi the materi normal
+associ with refer file for book articl program

@@ -1,0 +1,15 @@
+schedul independ task to reduc mean finish time sequenc to
+minim mean finish time or mean time in system is
+not onli desir to the user but it also tend
+to minim at each point in time the storag requir
+to hold incomplet task in thi paper a determinist model
+of independ task is introduc and new result ar deriv
+which extend and gener the algorithm known for minim mean
+finish time in addit to present and analyz new algorithm
+it is shown that the most gener mean finish time
+problem for independ task is polynomi complet and henc unlik
+to admit of a non enum solut cacm juli 1974
+bruno j coffman e g jr sethi r minim mean
+finish time minim mean flow time sequenc algorithm optim schedul
+algorithm determinist schedul model 4 32 5 39 ca740704 jb
+januari 17 1978 12 56 pm

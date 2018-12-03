@@ -1,0 +1,12 @@
+logic and semant network an extend form of semant network
+is defin which can be regard as a syntact variant
+of the clausal form of logic by virtu of it
+relationship with logic the extend semant network is provid with
+a precis semant infer rule and a procedur interpret on
+the other hand by regard semant network as an abstract
+data structur for the represent of claus we provid a
+theorem prover with a potenti us index scheme and path
+follow strategi for guid the search for a proof cacm
+march 1979 deliyanni a kowalski r logic semant network theorem
+prove index resolut deduct logic program 3 42 3 64
+5 21 ca790304 dh april 12 1979 3 53 pm

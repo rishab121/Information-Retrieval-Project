@@ -1,0 +1,6 @@
+ration chebyshev approxim to the bessel function integr ki x
+the second reme algorithm is us to approxim the integr
+ki by ration function the relat coeffici for the approxim
+of ki1 ki2 ki3 ar given for differ precis cacm
+decemb 1964 gargantini i pomental t ca641220 jb march 9
+1978 3 12 pm

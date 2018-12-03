@@ -1,0 +1,15 @@
+an algorithm for gener permut an algorithm is describ which
+under repeat applic gener all permut of k element onli
+the previous gener permut the constant k and a temporari
+index ar need start with a particular order of k
+element abcd repeat applic of the algorithm will gener k
+1 addit permut by k 1 success rotat from the
+initi circular order of k object anoth circular order can
+be obtain by rotat the k 1 lowest element for
+each new k 1 circular order anoth k 2 can
+be obtain by rotat the k 2 lowest element by
+continu in thi manner applic of the algorithm will gener
+all k 1 circular order or sinc each circular order
+yield k permut the algorithm gener all k permut cacm
+mai 1967 langdon jr g g ca670508 jb februari 28
+197810 35 am

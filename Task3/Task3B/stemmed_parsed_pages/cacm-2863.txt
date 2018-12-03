@@ -1,0 +1,11 @@
+vmin an optim variabl space page replac algorithm a criterion
+for compar variabl space page replac algorithm is present an
+optimum page replac algorithm call vmin is describ and shown
+to be optimum with respect to thi criterion the result
+of simul vmin den s work set and the page
+partit replac algorithm on five virtual memori program ar present
+to demonstr the improv possibl over the known realiz variabl
+space algorithm cacm mai 1976 priev b g fabri r
+s demand page perform measur multilevel memori system virtual memori
+work set page replac algorithm optim page replac 4 30
+4 32 ca760508 jb januari 4 1978 3 06 pm

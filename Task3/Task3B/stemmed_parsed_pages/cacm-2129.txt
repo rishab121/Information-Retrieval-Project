@@ -1,0 +1,7 @@
+recurs comput of certain deriv a studi of error propag
+a brief studi is made of the propag of error
+in linear first order differ equat the recurs comput of
+success deriv of e x x and co x x
+is consid as an illustr cacm januari 1970 gautschi w
+recurs comput success deriv error propag 5 11 5 12
+ca700102 jb februari 14 1978 2 18 pm

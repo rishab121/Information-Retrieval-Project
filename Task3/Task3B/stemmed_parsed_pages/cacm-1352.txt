@@ -1,0 +1,7 @@
+automat integr of a function with a paramet two effici
+method for automat numer integr ar romberg integr and adapt
+simpson integr for integrand of the form f x g
+x a where a is a paramet it is shown
+that romberg s method is more effici a fortran program
+show how to achiev thi greater effici cacm novemb 1966
+rabinowitz p ca661106 jb march 2 1978 3 35 pm

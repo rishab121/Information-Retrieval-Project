@@ -1,0 +1,5 @@
+spline function method for nonlinear boundari valu problem the solut
+of the nonlinear differenti equat y f x y y
+with two point boundari condit is approxim by a quintic
+or cubic spline function y x the method is well
+suit to nonuniform mesh size and dynam

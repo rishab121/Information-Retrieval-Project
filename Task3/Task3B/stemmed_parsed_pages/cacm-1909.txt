@@ -1,0 +1,7 @@
+comput of jn x by numer integr it is shown
+to be practic to comput jn x by numer integr
+of it integr represent us the trapezoid rule the error
+in thi approxim wa studi empir cacm april 1969 stroud
+a h kohli j p bessel function numer integr trapezoid
+rule 5 11 5 12 5 16 ca690408 jb februari
+17 1978 4 13 pm

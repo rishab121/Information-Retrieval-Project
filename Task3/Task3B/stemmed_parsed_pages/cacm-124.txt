@@ -1,0 +1,7 @@
+an algorithm for the assign problem the assign problem is
+formul and briefli discuss an effici algorithm for it solut
+is present in algol code an empir relat between solut
+time and the size of the problem is given base
+on extens experi carri out on a digit comput cacm
+novemb 1960 silver r ca601111 jb march 20 1978 7
+05 pm

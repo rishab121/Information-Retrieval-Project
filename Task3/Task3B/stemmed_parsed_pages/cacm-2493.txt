@@ -1,0 +1,8 @@
+optimum data base reorgan point in certain data base organ
+scheme the cost per access mai increas due to structur
+ineffici caus by updat by reorgan the data base the
+cost per access mai be reduc howev the high cost
+of a reorgan prohibit frequent reorgan thi paper examin strategi
+for select the optimum reorgan point cacm june 1973 shneiderman
+b data base reorgan file inform retriev 3 73 ca730607
+jb januari 23 1978 2 14 pm

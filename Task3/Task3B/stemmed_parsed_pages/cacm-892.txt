@@ -1,0 +1,9 @@
+recol a retriev command languag an interrog scheme is describ
+for the retriev and manipul of data file record the
+languag of the interrog scheme allow for select file record
+with the ar of logic condit statement defin record class
+associ file record edit print output and summar the result
+of the abov oper some exampl of a typic file
+applic and the more signific featur of a particular machin
+implement ar given cacm march 1963 climenson w d ca630328
+jb march 14 1978 12 42 pm

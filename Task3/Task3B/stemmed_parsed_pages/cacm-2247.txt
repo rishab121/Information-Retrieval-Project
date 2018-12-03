@@ -1,0 +1,16 @@
+on the criteria to be us in decompos system into
+modul thi paper discuss modular as a mechan for improv
+the flexibl ad comprehens of a system while allow the
+shorten of it develop time the effect of a modular
+is depend upon the criteria us in divid the system
+into modul a system design problem is present and both
+a convent and unconvent decomposit ar describ it is shown
+that the unconvent decomposit have distinct advantag for the goal
+outlin the criteria us in arriv at the decomposit ar
+discuss the unconvent decomposit if implement with the convent assumpt
+that a modul consist of on or more subroutin will
+be less effici in most case an altern approach to
+implement which doe not have thi effect is sketch cacm
+decemb 1972 parna d l softwar modul modular softwar engin
+kwic index softwar design 4 0 ca721208 jb januari 27
+1978 11 09 am

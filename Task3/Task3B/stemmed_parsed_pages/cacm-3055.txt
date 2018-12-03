@@ -1,0 +1,13 @@
+an analysi of algorithm for the dutch nation flag problem
+solut to the dutch nation flag problem have been given
+by dijkstra 1 and meyer 3 dijkstra start with a
+simpl program and arriv at an improv program by refin
+both of the algorithm given by dijkstra ar shown to
+have an expect number of swap which is 2 3n
+0 1 and that these valu differ at most by
+1 3 of a swap and asymptot by 1 4
+of a swap the algorithm of meyer is shown to
+have expect swap complex 5 9n cacm octob 1978 mcmaster
+c algorithm analysi dutch nation flag problem refin structur program
+4 0 5 24 5 25 5 3 ca781006 dh
+januari 29 1979 5 47 pm

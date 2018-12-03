@@ -1,0 +1,19 @@
+a code for non numer inform process applic in onlin
+system a code ha been specif design to simplifi the
+intern inform process oper within an onlin comput system with
+respect to non numer applic and to maxim the transfer
+rate of the inform channel link the system and the
+system user the code ha direct applic to problem in
+area such as inform retriev document classif comput aid teach
+and text edit thi code call ipc inform process code
+is an 8 bit code set construct so that 7
+6 5 and 4 bit subset can be easili deriv
+from the basic set the code set is organ so
+that simpl binari oper can distinguish between the numer alphabet
+special symbol and control charact code the number of usabl
+charact within the basic set size mai be expand either
+by us of escap code includ in the set or
+by suitabl interpret of otherwis unassign code on the basi
+of the requir of local environ cacm januari 1967 morenoff
+e mclean j b ca670103 jb march 1 1978 9
+05 am

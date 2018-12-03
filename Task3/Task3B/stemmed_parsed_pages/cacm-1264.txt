@@ -1,0 +1,19 @@
+blnsy a 1401 oper system with braill capabl blnsy is
+an oper system design for a 4k 1401 with common
+option featur and two attach tape drive print output of
+thi system or of execut program mai be in either
+english or braill even though thi system wa written for
+a small machin with minim peripher equip job mai be
+batch so that card handl and lost process time is
+at a minimum thi system will perform ani or all
+of the follow user specifi function assembl sp sourc deck
+post list produc condens or uncondens object deck execut user
+s program list card input to a program list punch
+output provid a storag dump execut a program submit for
+execut as an uncondens object deck under debug trace control
+card to braill convers braill list of 7040 ibsi batch
+output and updat or duplic the system tape itself input
+ouput subroutin ar also includ in the system cacm mai
+1965 landwehr j b mclaughlin c mueller h lichstein m
+pollack s v ca650507 jb march 7 1978 2 30
+pm

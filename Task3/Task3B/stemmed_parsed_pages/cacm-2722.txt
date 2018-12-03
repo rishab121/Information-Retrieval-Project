@@ -1,0 +1,27 @@
+multidimension binari search tree us for associ search thi paper
+develop the multidimension binari search tree or k d tree
+where k is the dimension of the search space as
+a data structur for storag of inform to be retriev
+by associ search the k d tree is defin and
+exampl ar given it is shown to be quit in
+it storag requir a signific advantag of thi structur is
+that a singl data structur can handl mani type of
+queri veri effici variou util algorithm ar develop their proven
+averag run time in an n record file ar insert
+o log n delet of the root o n k
+1 k delet of a random node o log n
+and optim guarante logarithm perform of search o n log
+n search algorithm ar given for partial match queri with
+t kei specifi proven maximum run time of o n
+k t k and for nearest neighbor queri empir observ
+averag run time of o log n these perform far
+surpass the best current known algorithm for these task an
+algorithm is present to handl ani gener intersect queri the
+main focu of thi paper theoret it is felt howev
+that k d tree could be quit us in mani
+applic and exampl of potenti us ar given cacm septemb
+1975 bentli j l associ retriev binari search tree kei
+attribut inform retriev system nearest neighbor queri partial match queri
+intersect queri binari tree insert 3 63 3 70 3
+74 4 49 ca750902 jb januari 6 1978 3 22
+pm

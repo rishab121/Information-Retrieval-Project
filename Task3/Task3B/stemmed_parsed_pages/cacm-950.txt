@@ -1,0 +1,13 @@
+parallel method for integr ordinari differenti equat thi paper is
+dedic to the proposit that in order to take full
+advantag for real time comput of highli parallel comput as
+can be expect to be avail in the near futur
+much of numer analysi will have to be recast in
+a more parallel form by thi is meant that serial
+algorithm ought to be replac by algorithm which consist of
+sever subtask which can be comput without knowledg of the
+result of the other subtask as an exampl a method
+is propos for parallel the numer integr of an ordinari
+differenti equat which process by all standard method is entir
+serial cacm decemb 1964 nievergelt j ca641221 jb march 9
+1978 3 09 pm

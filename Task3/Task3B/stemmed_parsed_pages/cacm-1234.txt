@@ -1,0 +1,15 @@
+the structur of yet anoth algol compil a high speed
+top down method of syntax analysi which complet elimin back
+up of the sourc string ha been implement in a
+conveni macro languag a techniqu of simul at compil time
+of the us of a convent run time stack enabl
+the gener of code for express which minim store fetch
+and stack pointer motion at run time while properli trate
+recurs and side effect of procedur block structur and recurs
+ar handl without need for interpret method at run time
+the context problem in the transmiss to recurs procedur of
+paramet call by name is solv in a manner which
+permit the handl of the common case of simpl express
+and arrai identifi with particular effici cacm juli 1965 kanner
+h kosinski p robinson c l ca650701 jb march 6
+1978 9 29 pm

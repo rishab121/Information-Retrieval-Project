@@ -1,0 +1,18 @@
+a fast fourier transform algorithm for real valu seri a
+new procedur is present for calcul the complex discret fourier
+transform of real valu time seri thi procedur is describ
+for an exampl where the number of point in the
+seri is an integr power of two thi algorithm preserv
+the order and symmetri of the coolei turkei fast fourier
+transform algorithm while effect the two to on reduct in
+comput and storag which can be achiev when the seri
+is real also discuss ar hardwar and softwar implement of
+the algorithm which perform onli n 4 log2 n 2
+complex multipli and add oper and which requir onli n
+real storag locat in analyz each n point record cacm
+octob 1968 bergland g d fast fourier transform time seri
+analysi digit filter spectral analysi real time spectrum analyz fourier
+analysi discret fourier transform digit spectrum analysi fourier analysi algorithm
+fourier synthesi algorithm 3 80 3 81 4 9 5
+49 6 22 ca681008 jb februari 21 1978 3 23
+pm

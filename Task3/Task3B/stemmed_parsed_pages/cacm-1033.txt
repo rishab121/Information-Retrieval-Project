@@ -1,0 +1,15 @@
+experiment person arrai translat system a system design for intim
+man machin interact in a gener purpos problem solv environ
+is experiment oper the system util an arrai orient symbol
+sourc languag contain power statement type these includ numer boolean
+relat and select oper on operand which can be entir
+arrai the system also permit simpl specif of test and
+argument arrai in singl statement the complet symbol oper system
+includ displai and entri of program and data sequenc control
+is aid by an interrupt switch which allow the user
+to interact with the program dure execut in addit to
+normal store program sequenc the system provid trace option and
+the abil to enter ani statement for immedi execut present
+implement of the system is with an interpret translat on
+an ibm 1620 comput cacm juli 1964 hellerman h ca640714
+jb march 9 1978 8 02 pm

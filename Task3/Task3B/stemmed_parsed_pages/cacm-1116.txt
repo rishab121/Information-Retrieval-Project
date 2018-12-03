@@ -1,0 +1,9 @@
+test on a comput method for construct school timet a
+previous propos comput method for construct timet base on an
+iter involv boolean matric is describ in limit test the
+method ha successfulli produc timet on everi trial refer ar
+given which relat the timet problem to theorem on matric
+of zero and on and to theorem on bipartit graph
+some problem of appli the method to construct timet in
+real situat ar note cacm march 1964 csima j gotlieb
+c c ca640316 jb march 10 1978 2 34 am

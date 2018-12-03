@@ -1,0 +1,7 @@
+a contour map program for x rai crystallographi a fortran
+program is describ for us with the ibm 7090 system
+and an x y plotter to produc a contour map
+a matrix of point evenli space in each dimens is
+contour scale factor along the ax mai be differ and
+the ax need not be perpendicular cacm octob 1963 dayhoff
+m o ca631026 jb march 13 1978 5 26 pm

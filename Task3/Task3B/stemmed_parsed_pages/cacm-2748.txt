@@ -1,0 +1,6 @@
+indirect thread code an effici arrang for interpret code is
+describ it is relat to bell s notion of thread
+code but requir less space and is more amen to
+machin independ implement cacm june 1975 dewar r b k
+thread code snobol4 interpretor code gener 4 12 4 13
+ca750605 jb januari 9 1978 1 11 pm

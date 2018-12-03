@@ -1,0 +1,6 @@
+some experi in algebra manipul by comput a set of
+subroutin to allow algebra manipul on the ibm 7094 comput
+ha been written a list processor slip a seri of
+four problem of increas difficulti were solv us these routin
+cacm august 1965 lapidu a goldstein m ca650810 jb march
+6 1978 8 10 pm

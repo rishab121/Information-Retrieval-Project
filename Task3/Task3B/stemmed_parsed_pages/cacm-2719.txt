@@ -1,0 +1,13 @@
+mechan program analysi on mean of analyz program perform is
+by deriv close form express for their execut behavior thi
+paper discuss the mechan of such analysi and describ a
+system metric which is abl to analyz simpl lisp program
+and produc for exampl close form express for their run
+time express in term of size of input thi paper
+present the reason for mechan program analysi describ the oper
+of metric explain it implement and discuss it limit cacm
+septemb 1975 wegbreit b analysi of program perform analysi execut
+time execut behavior differ equat gener function list process lisp
+algebra manipul program languag analysi of algorithm 3 69 4
+22 5 24 5 25 ca750905 jb januari 6 1978
+2 11 pm

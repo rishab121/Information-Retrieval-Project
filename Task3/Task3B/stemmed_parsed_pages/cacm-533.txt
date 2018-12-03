@@ -1,0 +1,17 @@
+digit synthesi of correl stationari nois in thi note we
+propos a method of gener stationari nois with a prescrib
+auto covari function by digit method the need for such
+a techniqu often aris in test the perform of data
+process and engin system where input corrupt with correl nois
+of a known form ar requir the techniqu is quit
+simpl and produc strict sens stationari nois which agre approxim
+with r t the prescrib auto covari function acf over
+an interv t 0 t 0 the method consist of
+approxim the spectral densiti by a period process with spectral
+line and then synthes the period nois with random phase
+and appropri amplitud in order to simplifi discuss of the
+statist properti of the nois gener the techniqu is first
+present in term of exact harmon analysi in practic discret
+harmon analysi as present in the third section is us
+cacm juli 1962 peabodi p r adorno d s ca620728
+jb march 17 1978 7 59 pm

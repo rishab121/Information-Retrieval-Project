@@ -1,0 +1,18 @@
+a correct proof of a topolog inform main tenanc protocol
+for a distribut comput network in order for the node
+of a distribut comput network to commun each node must
+have inform about the network s topolog sinc node and
+link sometim crash a scheme is need to updat thi
+inform on of the major constrain ts on such a
+topolog inform scheme is that it mai not involv a
+central control the topolog inform protocol that wa implement on
+the merit comput network is present and explain thi protocol
+is quit gener and could be implement on ani comput
+network it is base on baran s hot potato heurist
+rout doctrin a correct proof of thi topolog inform protocol
+is also present cacm juli 1977 tajibnapi w d distribut
+comput network correct proof comput network distribut control network topolog
+rout problem in network distribut oper system store and forward
+packet switch store and forward messag switch traffic control 3
+81 4 32 ca770703 jb decemb 28 1977 11 59
+am

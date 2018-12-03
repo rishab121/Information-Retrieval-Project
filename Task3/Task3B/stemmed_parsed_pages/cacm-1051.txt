@@ -1,0 +1,16 @@
+multiword list item the list concept as origin propos by
+newel simon and shaw specifi singl comput word as element
+of a list thi report describ the us of two
+or more consecut word as on element such us result
+in a consider save in both the space requir to
+hold a given amount of data and in the execut
+time requir to perform a given process on the data
+follow a brief descript of standard list structur with singl
+word item the multiword item ar introduc then variabl length
+item ar describ along with the correspond space util problem
+final sever exampl ar given to illustr the us of
+multiword list thi paper attempt to draw togeth variou recent
+paper which have appli some of these concept in differ
+wai and indic how thei relat to the more gener
+problem cacm june 1964 comfort w t ca640616 jb march
+9 1978 9 15 pm

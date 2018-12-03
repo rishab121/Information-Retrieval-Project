@@ -1,0 +1,13 @@
+multipl precis float point convers from decim to binari and
+vice versa decim to binari and binari to decim float
+point convers is often perform by us a tabl of
+the power 10 i ia posit integ for convert from
+base 10 to base 2 and by us a tabl
+of the coeffici of a polynomi approxim of 10 x
+0 x 1 for convert from base 2 to base
+10 these tabl occupi a larg storag region in the
+case of a nonsingl precis convers thi paper show that
+a singl small tabl suffic for a float point convers
+from decim to binari and vice versa in ani us
+precis cacm mai 1966 mancino o g ca660507 jb march
+3 1978 9 56 am

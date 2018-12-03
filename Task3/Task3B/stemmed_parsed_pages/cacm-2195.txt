@@ -1,0 +1,20 @@
+on the optim detect of curv in noisi pictur a
+techniqu for recogn system of line is present in thi
+techniqu the heurist of the problem is not embed in
+the recognit algorithm but is express in a figur of
+merit a multistag decis process is then abl to recogn
+in the input pictur the optim system of line accord
+to the given figur of merit due to the global
+approach greater flexibl and adequaci in the particular problem is
+achiev the relat between the structur of the figur of
+merit and the complex of the optim process is then
+discuss the method describ is suitabl for parallel process becaus
+the oper rel to each state can be comput in
+parallel and the number of stage is equal to the
+length n of the curv or to log2 n if
+the approxim method is us cacm mai 1971 montanari u
+pictur process pictur recognit pictur descript curv detect line detect
+edg detect optim detect heurist method global recognit parallel process
+dynam program interact graph secondari optim problem 3 63 3
+66 5 42 ca710504 jb februari 3 1978 2 49
+pm

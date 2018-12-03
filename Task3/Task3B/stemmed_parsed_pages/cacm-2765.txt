@@ -1,0 +1,17 @@
+analysi and perform of invert data base structur the need
+to envis and architectur data base system in a hierarch
+level by level framework is stress the invert data base
+file organ is then analyz consid implement orient aspect the
+invert directori is view realist as anoth larg data base
+which itself is subject to invers formul ar deriv to
+estim averag access time read onli and storag requir formal
+the interact of data base content characterist logic complex of
+queri and machin time and block specif identifi as have
+a first order effect on perform the formul present ar
+necessari to be us in conjunct with ani index select
+criteria to determin the optimum set of index kei cacm
+mai 1975 cardena a f data base architectur invert file
+organ data base perform and measur secondari index organ inform
+storag and retriev queri answer 3 70 3 71 3
+72 3 74 3 79 4 0 ca750502 jb januari
+9 1978 3 15 pm

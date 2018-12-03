@@ -1,0 +1,12 @@
+comput aspect of multipl covari analysi on a multifactor structur
+the comput procedur for the analysi of multipl covari in
+statist is discuss with refer to the analysi of varianc
+a special oper calculu develop by hartli for program analysi
+of varianc for multifactor experi is extend to cover the
+analysi of covari thi extens is accomplish by util the
+connect between the analysi of covari and the analysi of
+varianc and by introduc a new oper the result ar
+illustr by a numer exampl for analysi of covari in
+which the basic comput ar shown to be carri out
+by an analysi of varianc program cacm juli 1966 peng
+k c ca660708 jb march 2 1978 9 18 pm

@@ -1,0 +1,2 @@
+space time trade off in hash code with allow error
+in thi paper trade off am

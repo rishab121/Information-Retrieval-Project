@@ -1,0 +1,18 @@
+detect of three dimension pattern of atom in chemic structur
+an algorithm for detect occurr of a three dimension pattern
+of object within a larger structur is present the search
+techniqu present us the geometr structur of the pattern to
+defin characterist demand of candid for match thi is us
+in case where the properti of each atom consid individu
+do not adequ limit the number of set of possibl
+match sever applic of thi techniqu in the field of
+chemistri ar 1 in pharmacolog search for a common constel
+of atom in molecul possess similar biolog activ 2 in
+x rai crystallographi fit a structur or a structur fragment
+to a set of peak in the electron densiti distribut
+of a fourier map 3 in chemic document retriev from
+a file the structur contain specifi substructur cacm april 1979
+lesk a three dimension pattern recognit chemic structur search inform
+retriev crystal structur analysi drug analysi and design 3 13
+3 63 3 74 ca790401 dh mai 21 1979 10
+50 am

@@ -1,0 +1,4 @@
+complex error function algorithm 363 s15 cacm novemb 1969 gautschi
+w error function for complex argument voigt function laplac continu
+fraction gauss hermit quadratur recurs comput 5 12 ca691111 jb
+februari 15 1978 12 13 pm

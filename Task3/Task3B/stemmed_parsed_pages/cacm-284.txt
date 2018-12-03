@@ -1,0 +1,13 @@
+manipul of algebra express an algorithm for algebra manipul express
+of the form sum cipi i 1 n ha been
+develop in conjunct with the develop of program for system
+analysi problem thi algorithm enablesu to deriv over all system
+transfer function from algebra describ block diagram of ani linear
+continu multi loop feedback system the machin represent of the
+deriv express is by virtu of the algorithm in a
+form which simplifi the task of compil the algorithm wa
+develop for a particular purpos in connect with system analysi
+studi howev it applic as a mathemat devic extend far
+beyond the confin of the origin problem cacm septemb 1961
+rom a r m ca610910 jb march 16 1978 9
+36 pm

@@ -1,0 +1,5 @@
+chebyshev solut to an overdetermin linear system algorithm 328 f4
+cacm june 1968 bartel r h goulub h g chebyshev
+solut overdetermin linear system linear equat exchang algorithm 5 13
+5 14 5 41 ca680611 jb februari 22 1978 4
+01 pm

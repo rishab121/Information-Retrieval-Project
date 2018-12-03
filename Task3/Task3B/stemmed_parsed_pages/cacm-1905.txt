@@ -1,0 +1,12 @@
+the simplex method of linear program us lu decomposit standard
+comput implement of dantzig s simplex method for linear program
+ar base upon form the invers of the basic matrix
+and updat the invers after everi step of the method
+these implement have bad round off error properti thi paper
+give the theoret background for an implement which is base
+upon the lu decomposit comput with row interchang of the
+basic matrix the implement is slow but ha good round
+off error behavior the implement appear as cacm algorithm 350
+cacm mai 1969 bartel r h goulub g h simplex
+method linear program lu decomposit round off error comput stabil
+5 41 ca690504 jb februari 17 1978 3 49 pm

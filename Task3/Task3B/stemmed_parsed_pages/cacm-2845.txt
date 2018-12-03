@@ -1,0 +1,8 @@
+a buddi system variat for disk storag alloc a gener
+of the buddi system for storag alloc is describ the
+set of permit block size size i i 0 n
+must satisfi the condit size i size i 1 size
+i k i where k mai be ani meaning integr
+valu function thi make it possibl to forc logic storag
+block to coincid with physic storag block such as track
+and cylind cacm juli 1976 burton w buddi system dynam

@@ -1,0 +1,11 @@
+effici gener of the binari reflect grai code and it
+applic algorithm ar present to gener the n bit binari
+reflect grai code and codeword of fix weight in that
+code both algorithm ar effici in that the time requir
+to gener the next element from the current on is
+constant applic to the gener of the combin of n
+thing taken k at a time the composit of integ
+and the permut of a multiset ar discuss cacm septemb
+1976 bitner j r ehrlich g reingold e m grai
+code combin subset composit combinatori comput 5 39 ca760905 jb
+januari 4 1978 9 14 am

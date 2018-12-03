@@ -1,0 +1,4 @@
+us of the hough transform todetect line and curv in
+pictur hough ha propos an interest and computation effici procedur
+for detect line in pictur thi paper point out that
+the us of angl radiu rather than slope intercept param

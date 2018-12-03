@@ -1,0 +1,4 @@
+modifi romberg quadratur algorithm d1 cacm june 1969 fair weather
+g numer integr romberg quadratur trapezoid valu rectangl valu error
+bound 5 16 ca690610 jb februari 17 1978 9 55
+am

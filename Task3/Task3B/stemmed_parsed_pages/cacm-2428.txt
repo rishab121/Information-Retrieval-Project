@@ -1,0 +1,4 @@
+cubic spline solut to a class of function differenti equat
+d2 algorithm a461 cacm octob 1973 burkowski f j hoskin
+w d differenti equat spline approxim 5 17 ca731012 jb
+januari 20 1978 11 06 am

@@ -1,0 +1,6 @@
+hierarch storag in inform retriev a probabilist analysi is emploi
+to determin the effect of hierarch storag organ on inform
+retriev oper the data storag hardwar is assum to consist
+on n level of linearli connect memori hardwar with increas
+data access time and increas data storag capabl a system
+might for exam

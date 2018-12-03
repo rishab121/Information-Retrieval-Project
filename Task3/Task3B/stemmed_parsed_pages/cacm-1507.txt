@@ -1,0 +1,9 @@
+a multiprogram environ for onlin data acqui ition and analysi
+an experiment system for acqui ition and analysi of larg
+bodi of data deriv from scientif experi is describ it
+architectur and implement is larg base on certain object and
+characterist of a gener data analysi scheme earli applic have
+been orient toward the investig of data obtain in biolog
+research some of the problem encount by the chosen approach
+ar discuss cacm decemb 1967 lockemann p c knutsen w
+d ca671201 jb februari 26 1978 2 48 pm

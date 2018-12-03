@@ -1,0 +1,18 @@
+a stochast evalu model for databas organ in data retriev
+system experiment work in the valuat of larg scale data
+retriev system ha been scarc due to it difficulti and
+prohibit cost thi paper discuss a simul model of a
+data retriev system which ha the effect of significantli reduc
+the cost of experiment and enabl research never attempt befor
+the model is design to estim the retriev workload of
+altern data retriev system these data retriev system can be
+organ under sever databas organ includ invert list thread list
+and cellular list organ and hybrid combin of these system
+effect of the methodolog is demonstr by us the model
+to studi the effect of databas organ in data retriev
+system in particular the impact of queri complex is analyz
+cacm februari 1976 siler k f databas architectur databas perform
+and evalu invent list thread list cellular list inform retriev
+databas organ queri complex stochast model mont carlo simul 3
+70 3 71 3 72 3 73 3 74 3
+79 ca760205 jb januari 5 1978 9 20 am

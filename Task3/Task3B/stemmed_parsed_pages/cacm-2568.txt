@@ -1,0 +1,21 @@
+a graph formul of a school schedul algorithm the problem
+classic titl the examin schedul problem take variou form in
+the literatur most of these formul can be present in
+the terminolog of classic network theori on such formul is
+given a nondirect network partit it node into a minim
+number of subset such that no two member of the
+same subset ar connect by anarc an obviou lower limit
+to thi number is the size of the largest strongli
+connect subgraph kirchgassn prove that an upper limit is thi
+size plu on on logic extens of the previou work
+is the introduct of variabl length examin where w i
+is the number of period for exam i the object
+of thi paper is to gener the definit of largest
+strongli connect subgraph to includ the weight of node to
+present an approxim algorithm which usual find the largest strongli
+connect subgraph and to discuss the applic of thi algorithm
+to the solut of school schedul and exam schedul problem
+cacm decemb 1974 salazar a oakford r v schedul school
+schedul examin schedul nondirect network graph subgraph strongli connect subgraph
+3 51 3 52 ca741206 jb januari 13 1978 4
+37 pm

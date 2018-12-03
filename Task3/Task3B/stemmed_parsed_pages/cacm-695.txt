@@ -1,0 +1,21 @@
+us of the disk file on stretch the paper begin
+by briefli describ the stretch ibm 7030 comput with special
+emphasi given to the organ and oper of it input
+output equip physic characterist of the two disk system 4
+194 304 72 bit word 8 usec per word transmiss
+rate etc ar note time limit due to arm motion
+and disk rotat ar discuss applic of disk usag ar
+discuss separ for problem program and for system program such
+as compil and the supervisori program approxim 260 000 word
+of disk storag ar reserv for the storag of system
+program and the subroutin librari problem program howev ar not
+current file on the disk certain program techniqu ar discuss
+for transmit word between disk and core storag with minimum
+delai and interrupt of the arithmet unit dump on disk
+ar consid for both recoveri from comput malfunct and for
+mathemat or physic develop dure the calcul some comment ar
+made regard the reliabl econom util and weak or limit
+of the disk system sever possibl futur applic ar note
+which appear to have disk connot cacm octob 1963 carlson
+b g voorh e a ca631030 jb march 13 1978
+4 28 pm

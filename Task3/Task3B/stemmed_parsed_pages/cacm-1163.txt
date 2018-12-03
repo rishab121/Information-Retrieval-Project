@@ -1,0 +1,7 @@
+philco ibm translat at problem orient symbol and binari level
+a translat system ha been develop to elimin most of
+the effort formerli requir to reprogram philco 2000 seri code
+for ibm 7094 oper experi with thi system is limit
+but highli success encourag applic of the techniqu to other
+sourc and object languag cacm decemb 1965 olsen t m
+ca651206 jb march 6 1978 4 05 pm

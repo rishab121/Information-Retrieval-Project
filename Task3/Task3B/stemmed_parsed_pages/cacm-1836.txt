@@ -1,0 +1,11 @@
+a new method for determin linear preced function for preced
+grammar the preced relat of a preced grammar can be
+precis describ by a two dimension preced matrix often the
+inform in the matrix can be repres more concis by
+a pair of vector call linear preced function a new
+algorithm is present for obtain the linear preced function when
+given the preced matrix thi algorithm is shown to possess
+sever comput advantag cacm octob 1969 bell j r boolean
+matric syntax preced grammar context free pars transit matrix preced
+function 4 12 ca691010 jb februari 15 1978 3 13
+pm

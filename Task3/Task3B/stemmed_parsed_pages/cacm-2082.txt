@@ -1,0 +1,18 @@
+syntax direct document for pl 360 the languag pl 360
+togeth with it phrase structur grammar is us as a
+concret basi for illustr an idea call syntax direct document
+thi idea is 1 to us the phrase structur of
+a program to defin the structur of a formal document
+for that program 2 to us the syntact type and
+identifi in the result structur to trigger the automat format
+of question to the programm whose answer will becom part
+of that document and 3 to provid automat storag and
+retriev facil so that other programm who want to understand
+or modifi the program can access the result document which
+is cross index in variou wai by syntact type and
+object a small pl 360 program alreadi found in the
+literatur is work out as an exampl cacm april 1970
+mill h d document syntax analysi pl 360 enforc document
+index document automat interrog phase structur grammar syntax direct document
+syntax process 3 59 3 79 4 19 4 43
+ca700402 jb februari 13 1978 3 28 pm

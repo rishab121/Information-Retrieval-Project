@@ -1,0 +1,22 @@
+gener of rosari permut express in hamiltonian circuit systemat gener
+of a specif class of permut fundament to schedul problem
+is describ in a nonori complet graph with n vertic
+hamitonian circuit equival to 5 n 1 specif permut of
+n element term rosari permut can be defin each of
+them correspond to two circular permut which mirror imag each
+other and is gener success by a number system cover
+3 4 n 1 set of edg everi set of
+edg e k 1 e k k 3 k n
+1 is determin recurs by construct a hamiltonian circuit with
+k vertic from a hamiltonian circuit with k 1 vertic
+start with the hamiltonian circuit of 3 vertic the basic
+oper consist of transposit of a pair of adjac vertic
+where the posit of the pair in the permut is
+determin by e k two algorithm treat the same exampl
+for five vertic ar present it is veri easi to
+deriv all possibl n permut from the 5 n 1
+rosari permut be cycl the permut and by take them
+in the revers order procedur which can be perform fairli
+effici by comput cacm june 1971 harada k permut graph
+theori schedul combinatori algebra 5 32 5 39 ca710601 jb
+februari 3 1978 1 55 pm

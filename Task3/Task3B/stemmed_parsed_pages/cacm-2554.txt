@@ -1,0 +1,20 @@
+reduct of a band symmetr gener eigenvalu problem an algorithm
+is describ for reduc the gener eigenvalu problem ax lambda
+bx to an ordinari problem in case a and b
+ar symmetr band matric with b posit definit if n
+is the order of the matrix and m the bandwidth
+the matric a and b ar partit into m by
+m block and the algorithm is describ in term of
+these block the algorithm reduc the gener problem to an
+ordinari eigenvalu problem for a symmetr band matrix c whose
+bandwidth is the same as a and b the algorithm
+is similar to those of rutishaus and schwartz for the
+reduct of symmetr matric to band form the calcul c
+requir order mn 2 oper the round off error in
+the calcul of c is of the same order as
+the sum of the error at each of the n
+m step of the algorithm the latter error be larg
+determin by the condit of b with respect to invers
+cacm januari 1973 crawford c r gener eigenvalu symmetr band
+matric 5 14 ca730107 jb januari 24 1978 4 26
+pm

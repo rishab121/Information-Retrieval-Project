@@ -1,0 +1,13 @@
+count larg number of event in small regist it is
+possibl to us a small counter to keep approxim count
+of larg number the result expect error can be rather
+precis control an exampl is given in which 8 bit
+counter byte ar us to keep track of as mani
+as 130 000 event with a rel error which is
+substanti independ of the number n of event thi rel
+error can be expect to be 24 percent or less
+95 percent of the time i e o n 8
+the techniqu could be us to advantag in multichannel count
+hardwar or softwar us for the monitor of experi or
+process cacm octob 1978 morri r count 5 11 ca781005
+dh januari 29 1979 5 52 pm

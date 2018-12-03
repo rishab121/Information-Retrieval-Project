@@ -1,0 +1,10 @@
+interv arithmet determin evalu and it us in test for
+a chebyshev system two recent paper on by hansen and
+on by hansen and r r smith have shown how
+interv arithmet i can be us effect to bound error
+in matrix comput in the present paper a method propos
+by hasen and r r smith is compar with straightforward
+us of i in determin evalu comput result show the
+accuraci and run time that can be expect when us
+i for determin evalu an applic us i determin in
+a program

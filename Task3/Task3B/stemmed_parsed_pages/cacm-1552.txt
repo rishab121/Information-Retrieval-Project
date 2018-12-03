@@ -1,0 +1,14 @@
+the a free storag packag the most fundament underli problem
+in sophist softwar system involv elabor chang data structur is
+dynam storag alloc for flexibl problem model the free storag
+packag of the a 1 compil system allow block of
+avail storag to be obtain and return for reus the
+total avail space is partit into a hierarchi of free
+storag zone each of which ha it own characterist block
+mai be of ani size and special provis allow effici
+handl of select size control of shatter and garbag collect
+and share of physic space between zone the routin of
+the packag perform high level function automat but also allow
+access and control of fine intern detail as well cacm
+august 1967 ross d t ca670803 jb februari 27 1978
+4 40 pm

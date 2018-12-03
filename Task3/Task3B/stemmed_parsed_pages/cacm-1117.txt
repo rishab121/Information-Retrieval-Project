@@ -1,0 +1,11 @@
+polyphas sort with overlap rewind a variat of the polyphas
+merg techniqu of sort is describ which permit on tape
+at a time to be rewound while the merg is
+continu on the remain tape the result is the overlap
+of a major portion of the rewind time the techniqu
+should be consid whenev a sort is written to oper
+on five or more tape that cannot be read backward
+the save of the overlap method appear to increas as
+the number of avail tape is increas cacm march 1964
+mcalest r l ca640315 jb march 10 1978 2 38
+am

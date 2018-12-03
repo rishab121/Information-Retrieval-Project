@@ -1,0 +1,3 @@
+a note on the effici of a lisp comput in
+a page machin the problem of the us of two
+level of storag for program

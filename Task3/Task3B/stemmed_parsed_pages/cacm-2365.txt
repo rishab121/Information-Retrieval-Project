@@ -1,0 +1,9 @@
+matrix comput with fortran and page the effici of convent
+fortran program for matrix comput can often be improv by
+revers the order of nest loop such modif produc modest
+save in mani common situat and veri signific save for
+larg problem run under an oper system which us page
+cacm april 1972 moler c b matrix algorithm linear equat
+fortran page memori virtual memori arrai process 4 22 4
+32 5 14 ca720408 jb januari 31 1978 12 54
+pm

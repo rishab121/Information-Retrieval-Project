@@ -1,0 +1,9 @@
+an improv to iter method of polynomi factor method of
+polynomi factor which find the zero on at a time
+requir the divis of the polynomi by the accept factor
+it is shown how the accuraci of thi divis mai
+be increas by divid in order of both ascend and
+descend power of the variabl and choos a crossov point
+which minim a veri simpli calcul error criterion cacm januari
+1967 bingham j a c ca670112 jb februari 28 1978
+4 20 pm

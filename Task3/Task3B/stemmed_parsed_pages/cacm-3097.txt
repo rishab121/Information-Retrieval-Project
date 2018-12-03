@@ -1,0 +1,23 @@
+optim shift strategi for a block transfer ccd memori for
+the purpos of thi paper a block transfer ccd memori
+is compos of serial shift regist whose shift rate can
+vari but which have a definit minimum shift rate the
+refresh rate and a definit maximum shift rate the bit
+iin the shift regist ar number 0 to n 1
+and block of n bit ar alwai transfer alwai start
+at bit 0 what is the best shift strategi so
+that a block transfer request occur at a random time
+will have to wait the minim amount of time befor
+bit 0 can be reach the minimum shift rate requir
+doe not allow on to simpli park at bit 0
+and wait for a transfer request the optim strategi involv
+shift as slowli as possibl until bit 0 is pass
+then shift as quickli as possibl until a critic boundari
+is reach shortli befor bit 0 come around again thi
+is call the hurri up and wait strategi and is
+well known outsid the comput field the block transfer ccd
+memori can also be view as a page drum with
+a variabl bound rotat speed cacm mai 1978 site r
+page drum charg coupl devic shift regist memori memori hierarchi
+electron drum latenc 3 72 5 39 6 34 6
+35 ca780510 dh februari 26 1979 1 05 pm

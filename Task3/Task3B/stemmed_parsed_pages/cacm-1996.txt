@@ -1,0 +1,4 @@
+system of hyperbol pde d3 algorithm 392 cacm septemb 1970
+smith r r mccall d hyperbol p d e characterist
+extrapol second order p d e quasilinear p d e
+5 17 ca700909 jb februari 10 1978 10 08 am

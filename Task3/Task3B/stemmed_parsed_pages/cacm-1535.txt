@@ -1,0 +1,11 @@
+a comment on index regist alloc a techniqu is present
+to reduc the enumer requir by a known procedur for
+optim index regist alloc in straight line program thi techniqu
+is base on the construct of a link diagram which
+show at ani step the futur occurr of index which
+must be load into index regist thi diagram determin in
+advanc the requir regist configur at certain step of the
+program so that the program is subdivid into separ portion
+to which the alloc procedur mai be appli independ cacm
+septemb 1967 luccio f ca670909 jb februari 27 1978 3
+06 pm

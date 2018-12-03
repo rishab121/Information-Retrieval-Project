@@ -1,0 +1,14 @@
+comput method for sampl from the exponenti and normal distribut
+variou method ar known for transform uniformli distribut random number
+into exponenti and normal distribut quantiti the most effici on
+ar compar in term of memori requir and speed with
+some new algorithm a number of procedur convert taylor seri
+expans directli into sampl step an approach which mai be
+us for sampl from ani continu distribut for the exponenti
+distribut a definit recommend can be made wherea in the
+case of the normal distribut there remain a choic between
+slower and shorter algorithm and faster but space consum method
+cacm octob 1972 ahren j h dieter u random number
+pseudorandom normal distribut exponenti distribut exponenti distribut simul numer analysi
+3 29 3 57 5 11 5 5 ca721002 jb
+januari 27 1978 3 55 pm

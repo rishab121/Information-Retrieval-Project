@@ -1,0 +1,16 @@
+an encod method for multifield sort and index sequenc of
+charact string with an order relat impos between sequenc ar
+consid an encod scheme is describ which produc a singl
+order preserv string from a sequenc of string the origin
+sequenc can be recov from the encod string and on
+sequenc of string preced anoth if and onli if the
+encod of the first preced the encod of the second
+the string mai be variabl length without a maximum length
+restrict and no symbol need be reserv for control purpos
+henc ani symbol mai occur in ani string the scheme
+is us for multifield sort multifield index and other applic
+where order on more than on field is import cacm
+novemb 1977 blasgen m w casei r g eswaran k
+p sort multifield index lexicograph order search encod 3 74
+4 19 4 33 4 40 5 31 ca771115 jb
+decemb 27 1977 5 55 am

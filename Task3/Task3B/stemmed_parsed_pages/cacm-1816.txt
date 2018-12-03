@@ -1,0 +1,5 @@
+gener least squar fit by orthogon polynomi algorithm 296 e2
+cacm novemb 1969 watson w t least squar curv fit
+orthogon polynomi three term recurr polynomi regress approxim forsyth s
+method 5 13 5 5 ca691114 jb februari 15 1978
+12 06 pm

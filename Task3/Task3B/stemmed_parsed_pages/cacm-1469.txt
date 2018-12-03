@@ -1,0 +1,17 @@
+the next 700 program languag a famili of unimpl comput
+languag is describ that is intend to span differ of
+applic area by a unifi framework thi framework dictat the
+rule about the us of user coin name and the
+convent about character function relationship within thi framework the design
+of a specif languag split into two independ part on
+is the choic of written appear of program or more
+gener their physic represent the other is the choic of
+the abstract entiti such as number charact string list of
+them function relat among them that can be refer to
+in the languag the system is bias toward express rather
+than statement it includ a nonprocedur pure function subsystem that
+aim to expand the class of user need that can
+be met by a singl print instruct without sacrif the
+import properti that make convent right hand side express easi
+to construct and understand cacm march 1966 landin p j
+ca660303 jb march 3 1978 2 05 pm

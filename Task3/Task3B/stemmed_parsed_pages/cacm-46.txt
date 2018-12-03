@@ -1,0 +1,11 @@
+multiprogram stretch feasibl consider the tendenc toward increas parallel in
+comput is note exploit of thi parallel present a number
+of new problem in machin design and in program system
+minimum requir for success concurr execut of sever independ problem
+program ar discuss these requir ar met in the stretch
+system by a carefulli balanc combin of built in and
+program logic techniqu ar describ which place the burden of
+the program logic on system program supervisori program and compil
+rather than on problem program cacm novemb 1959 codd e
+f lowri e s mcdonough e scalzi c a ca591102
+jb march 22 1978 3 57 pm

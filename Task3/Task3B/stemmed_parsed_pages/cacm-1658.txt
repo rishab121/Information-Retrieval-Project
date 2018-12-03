@@ -1,0 +1,11 @@
+analysi of algorithm for the zero on program problem thi
+paper is concern with a review and examin of sever
+exist algorithm for the zero on program problem comput experi
+is summar the machin time and storag requir of sever
+of the algorithm ar compar over sever test problem of
+small and intermedi size comput experi still provid littl hope
+of solv problem with over 100 variabl with a reason
+amount of machin time cacm decemb 1968 gue r l
+liggett j c cain k c oper research optim theori
+integ program zero on variabl algorithm 5 39 5 41
+ca681208 jb februari 21 1978 1 31 pm

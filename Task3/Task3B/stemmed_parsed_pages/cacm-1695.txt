@@ -1,0 +1,17 @@
+plexu an on line system for model neural network a
+descript is present of plexu a system which enabl a
+user to construct and specifi a neural network to analyz
+the output data produc by the network and to store
+and retriev network and data from a librari the system
+oper entir from a digit displai unit interact directli with
+the user and permit easi and rapid transit between the
+variou phase of the model process plexu is design to
+complement neurophysiolog research so that the systemat develop of neural
+model can be coordin with experiment work plexu network ar
+built up from compon repres individu neuron extern stimuli and
+interconnect fiber each compon be of a rel detail natur
+provis is also made for the us of experiment data
+as input to a network conveni mean for specif and
+modif of a network and extens error check capabl ar
+provid data result from the simul of a network mai
+be analyz by a varieti of techniqu rang from exam

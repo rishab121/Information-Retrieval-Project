@@ -1,0 +1,9 @@
+an onlin editor an onlin interact system for test edit
+is describ in detail with remark on the theoret and
+experiment justif for it form emphasi throughout the system is
+on provid maximum conveni and power for the user notabl
+featur ar it abil to handl ani piec of text
+the content search facil and the charact by charact edit
+oper the editor can be program to a limit extent
+cacm decemb 1967 deutsch l p lampson b w ca671206
+jb februari 26 1978 2 25 pm

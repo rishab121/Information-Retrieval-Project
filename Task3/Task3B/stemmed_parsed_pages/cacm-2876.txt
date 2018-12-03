@@ -1,0 +1,21 @@
+intent resolut of privaci protect in databas system tradition privaci
+protect in databas system is understood to be the control
+over what inform a given user can get from a
+databas thi paper is concern with anoth independ dimens of
+privaci protect the control over what a user is allow
+to do with a piec of inform suppli to him
+by the databas the abil to condit the suppli of
+inform on it intend us is call here intent resolut
+of privaci protect the practic import of intent resolut is
+demonstr by sever exampl and it realiz is discuss it
+is shown that intent resolut can be achiev but that
+it involv a radic chang from the tradit approach to
+the process of user databas interact in particular it appear
+to be necessari for the databas to impos a certain
+amount of control over the intern behavior of user program
+which interact with it a model for user databas interact
+which admit such a control is develop cacm march 1976
+minski n protect in databas protect in program languag privaci
+secur intent resolut of privaci interact with databas 3 50
+3 70 4 20 4 30 ca760304 jb januari 4
+1978 4 44 pm

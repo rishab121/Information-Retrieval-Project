@@ -1,0 +1,14 @@
+a simscript fortran case studi two program for a vehicl
+dispatch model on written in 7040 simscript and the other
+in 7040 fortran iv ar compar the comparison is made
+in term of basic program design decis storag requir comput
+time us and the eas of make chang in the
+simscript program the primari design consider center around the choic
+of model variabl model chang event and model test in
+the fortran program basic design problem relat to the represent
+of the passag of time the alloc of storag and
+the organ of input data the comparison of these differ
+design program show that the simscript program us more comput
+storag and more comput time but requir fewer program chang
+to introduc model revis cacm decemb 1967 weinert a e
+ca671205 jb februari 26 1978 2 30 pm

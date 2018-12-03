@@ -1,0 +1,21 @@
+compress tri thi paper present a new data structur call
+a compress trie or c trie to be us in
+inform retriev system it ha the same underli m ari
+tree structur as a trie where m is a paramet
+of the trie but wherea the field of the node
+in a trie have to be larg enough to hold
+a kei or at least a pointer the field in
+a c trie ar onli on bit long in the
+analysi part of the paper it will be shown that
+for a collect of n kei the retriev time measur
+in term of bit inspect of on kei is of
+the order logm n and the storag requir of the
+order n m log2 n bit thi improv in storag
+requir and retriev time is achiev at the cost of
+decreas the flexibl of the structur and therefor updat cost
+ar increas first the c trie is analyz as a
+data structur and then sever method of it us for
+rel static databas ar discuss cacm juli 1976 mali k
+data structur databas m ari tree trie retriev time storag
+requir kei 3 70 3 74 3 75 ca760707 jb
+januari 4 1978 12 26 pm

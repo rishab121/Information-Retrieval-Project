@@ -1,0 +1,6 @@
+a note on start the newton raphson method determin of
+a suitabl initi estim for a root of an equat
+f x 0 by mean of comput the root of
+a sequenc of relat equat is describ cacm juli 1964
+beyer w a ca640716 jb march 9 1978 7 44
+pm

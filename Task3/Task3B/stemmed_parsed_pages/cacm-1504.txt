@@ -1,0 +1,13 @@
+algorithm for find a fundament set of cycl for an
+undirect linear graph given the adjac matrix of the graph
+the algorithm present in thi paper find a span tree
+and then construct the set of fundament cycl our algorithm
+is slower than an algorithm present by welch by a
+ratio of n 3 n is the number of node
+but requir less storag for graph with a larg number
+of node and edg when storag is limit our algorithm
+is superior to welch s howev when the graph ar
+small or machin storag is veri larg welch s algorithm
+is superior time estim and storag requir for both method
+ar present cacm decemb 1967 gotlieb c c corneil d
+g ca671204 jb februari 26 19782 35 pm

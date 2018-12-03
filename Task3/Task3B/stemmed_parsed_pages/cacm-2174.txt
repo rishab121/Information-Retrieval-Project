@@ -1,0 +1,9 @@
+the stabl marriag problem the origin work of gale and
+shaplei on an assign method us the stabl marriag criterion
+ha been extend to find all the stabl marriag assign
+the algorithm deriv for find all the stabl marriag assign
+is prove to satisfi all the condit of the problem
+algorithm 411 appli to thi paper cacm juli 1971 mcviti
+d g wilson l b assign problem assign procedur combinator
+discret mathemat oper research stabl marriag problem univers entranc 5
+30 ca710708 jb februari 2 1978 4 40 pm

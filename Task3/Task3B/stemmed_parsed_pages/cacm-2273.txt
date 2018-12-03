@@ -1,0 +1,15 @@
+convers of decis tabl by rule mask method without rule
+mask two algorithm for gener comput program from decis tabl
+ar describ the algorithm allow handl limit entri extend entri
+and mix entri tabl the algorithm ar base on the
+rule mask method but need not have the mask at
+execut time thei perform the logic oper immedi rather than
+at the end of the interpret process execut time can
+be consider reduc by instantli mark rule which ar not
+applic algorithm 1 and 2 or condit which ar alreadi
+test algorithm 2 the new algorithm combin to a certain
+degre the advantag of mask method with those of tree
+method cacm octob 1972 dath g decis tabl rule mask
+rule mask method rule mask techniqu program gener 3 50
+4 12 4 19 4 29 ca721005 jb januari 27
+1978 3 02 pm

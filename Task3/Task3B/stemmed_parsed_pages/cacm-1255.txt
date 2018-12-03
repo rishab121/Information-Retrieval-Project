@@ -1,0 +1,10 @@
+a method of data list process with applic to eeg
+analysi a set of subroutin is discuss which is design
+to aid in the program of comput on index list
+of number us machin languag or a symbol assembl system
+the most commonli perform list oper ar outlin and logic
+arrang into five group as an exampl the comput of
+power spectral densiti from the autocovari function is discuss for
+a class of eeg signal cacm mai 1965 philpott c
+m lago g v ca650516 jb march 7 1978 12
+52 pm

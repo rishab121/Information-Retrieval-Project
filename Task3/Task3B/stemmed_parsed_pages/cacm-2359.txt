@@ -1,0 +1,19 @@
+an improv index sequenti access method us hash overflow the
+index sequenti access method isam is on of the most
+import file manag system us with moveabl head disk devic
+thi studi investig the us of an unconvent method of
+treat overflow record the method is to us hash techniqu
+to alloc space for such record if certain condit ar
+satisfi thi is superior to the convent isam method of
+chain the overflow record via link list techniqu these condit
+ar long overflow chain with signific overflow lack of tight
+disk space constraint record kei which ar small compar to
+the total record size and signific us of the file
+in the index as oppos to the sequenti mode us
+hash overflow the time to locat a record is depend
+not on the total volum of overflow record as in
+convent isam but on the percentag us of space dedic
+to overflow record cacm mai 1972 mullin j k isam
+index sequenti hash scatter storag disk cylind overflow 3 72
+3 73 3 74 ca720501 jb januari 31 1978 12
+29 pm

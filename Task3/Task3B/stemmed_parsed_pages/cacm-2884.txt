@@ -1,0 +1,15 @@
+permut enumer four new permut algorithm classic permut enumer algorithm
+encount special case requir addit comput everi nth permut when
+gener the n permut on n mark four new algorithm
+have the attribut that special case occur everi n n
+1 permut two of the algorithm produc the next permut
+with a singl exchang of two mark the other two
+algorithm infrequ exchang more than two mark but the rule
+for gener the next permut ar veri simpl perform test
+which have count execut of assign statement comparison arithmet oper
+and subscript arrai refer have shown superior of the new
+algorithm compar to boothroyd s implement of m b well
+s algorithm and ehrlich s implement of the johnson trotter
+algorithm cacm februari 1976 iv f m permut loop free
+algorithm 5 30 ca760203 jb januari 5 1978 9 33
+am

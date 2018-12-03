@@ -1,0 +1,22 @@
+optim hi togram match by monoton grai level transform thi
+paper investig the problem of optim hi togram match us
+monoton grai level transform which alwai assign all pictur point
+of a given grai level i to anoth grai level
+t i such that if i j then t i
+t j the object is to find a transform digit
+pictur of a given pictur such that the sum of
+absolut error between the grai level hi togram of the
+transform pictur and that of a refer pictur is minim
+thi is equival to place k1 linearli order object of
+differ size on by on into k2 linearli order box
+of assort size such that the accumul error of space
+under pack or overpack in the box is minim the
+placement function is monoton which ensur a polynomi time solut
+to thi problem a tree search algorithm for optim hi
+togram match is present which ha time complex o k1
+x k2 if the monoton properti is drop then the
+problem becom np complet even if it is restrict to
+k2 2 cacm octob 1978 chang s wong y optim
+hi togram match grai level transform pack problem tree search
+algorithm pictur process 3 24 5 25 5 42 ca781004
+dh januari 29 1979 6 08 pm

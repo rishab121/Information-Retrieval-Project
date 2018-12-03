@@ -1,0 +1,15 @@
+an interrupt base organ for manag inform system a program
+structur languag construct and a supervisori system organ ar propos
+for the design and code of larg share data base
+system the base for thi organ ar a gener interrupt
+structur and the newli introduc concept of file tag which
+is the process of associ program structur and interrupt gener
+condit with item in the data base an algorithm for
+resolv conflict which aris in schedul the interrupt process routin
+is present dpl a program languag and supervisori system in
+which these concept ar implement is us to illustr the
+new organ which is propos for manag inform system cacm
+decemb 1970 morgan h l manag inform system integr data
+process supervisor interrupt monitor system supervisori system interrupt schedul parallel
+process 3 51 4 22 4 32 ca701204 jb februari
+9 1978 3 46 pm

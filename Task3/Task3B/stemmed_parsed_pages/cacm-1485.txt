@@ -1,0 +1,13 @@
+the structur of program languag in thi paper the major
+compon of everi program languag ar identifi as 1 the
+elementari program statement 2 mechan for link elementari statement togeth
+3 the mean by which a program can obtain data
+input sever altern form of each of these compon ar
+also describ compar and evalu mani exampl frequent from list
+process languag illustr the form describ the advantag disadvantag and
+factor influenc the choic of a form of compon for
+a languag ar discuss and the paper conclud with the
+suggest that program languag evolv toward on which will permit
+all the most conveni wai of structur program organ system
+and referenc data cacm februari 1966 raphael b ca660202 jb
+march 3 1978 3 46 pm

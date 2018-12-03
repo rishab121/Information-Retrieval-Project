@@ -1,0 +1,21 @@
+on the convers of decis tabl to comput program the
+us of execut time diagnost in pinpoint ambigu in decis
+tabl is discuss it is point out that ani attempt
+at resolv ambigu at compil time will in gener be
+imposs it is shown that as a consequ tree method
+of convert decis tabl to program ar inadequ in regard
+to ambigu detect two algorithm for program decis tabl whose
+merit ar simplic of implement and detect of ambigu at
+execut time ar present the first algorithm is for limit
+entri decis tabl and clarifi the import of proper code
+of the inform in the decis tabl the second algorithm
+program a mix entri decis tabl directli without go through
+the intermedi step of convers to a limit entri form
+therebi result in storag economi a comparison of the algorithm
+and other propos in the literatur is made some featur
+of a decis tabl to fortran iv translat for the
+ibm 7044 develop by the author ar given cacm june
+1970 muthukrishnan c r rajaraman v decis tabl diagnost aid
+system analysi busi applic 3 50 3 59 4 19
+4 29 4 49 ca700602 jb februari 13 1978 12
+03 pm

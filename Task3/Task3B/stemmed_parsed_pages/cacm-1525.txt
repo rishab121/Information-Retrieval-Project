@@ -1,0 +1,21 @@
+on comput the fast fourier transform coolei and tukei have
+propos a fast algorithm for comput complex fourier transform and
+have shown major time save in us it to comput
+larg transform on a digit comput with n a power
+of two comput time for thi algorithm is proport to
+n log2 n a major improv over other method with
+comput time proport to n 2 in thi paper the
+fast fourier transform algorithm is briefli review and fast differ
+equat method for accur comput the need trigonometr function valu
+ar given the problem of comput a larg fourier transform
+on a system with virtual memori is consid and a
+solut is propos thi method ha been us to comput
+complex fourier transform of size n 2 16 on a
+comput with 2 15 word of core storag thi exce
+by a factor of eight the maximum radix two transform
+size with fix alloc of thi amount of core storag
+the method ha also been us to comput larg mix
+radix transform a scale plan for comput the fast fourier
+transform with fix point arithmet is also given cacm octob
+1967 singleton r c ca671008 jb februari 27 1978 2
+03 pm

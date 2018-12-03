@@ -1,0 +1,10 @@
+an improv hash code for scatter storag introduc is a
+hash code method base on fix point divis rather than
+multipl or logic oper thi new method allow the hash
+tabl to have almost ani length also a new method
+of handl collis is discuss known as quadrat search thi
+method is faster than random search and free from the
+cluster that build up with a linear search cacm januari
+1968 maurer w d hash code hash tabl scatter storag
+search 3 74 4 11 4 12 4 9 ca680108
+jb februari 23 1978 2 31 pm

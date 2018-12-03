@@ -1,0 +1,8 @@
+variabl length tree structur have minimum averag search time sussenguth
+suggest in a paper 1963 that a file should be
+organ as a doubli chain tree structur if it is
+necessari both to search and to updat frequent such a
+structur provid a compromis between the fast search slow updat
+characterist of binari search and the slow search fast updat
+characterist of serial search hi method howev contain the limit
+restrict that all termin node lie on the sam

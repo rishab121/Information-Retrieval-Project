@@ -1,0 +1,15 @@
+analysi of the avail of comput system us comput aid
+algebra analyt result relat to the avail of a comput
+system construct of unreli processor ar present in thi paper
+these result ar obtain by us variou comput aid algebra
+manipul techniqu a major purpos of thi paper is to
+demonstr that the difficulti of obtain analyt solut to markov
+process can be consider reduc by the applic of symbol
+manipul program sinc mani physic system can be model by
+markov and semi markov process the potenti rang of applic
+of these techniqu is much wider than the problem of
+avail analyz here cacm juli 1978 chattergi r pooch u
+comput aid algebra symbol manipul markov process reliabl redund structur
+on line comput system 3 82 5 5 5 7
+8 1 8 3 ca780710 dh februari 7 1979 3
+37 pm

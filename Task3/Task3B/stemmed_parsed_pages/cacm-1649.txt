@@ -1,0 +1,11 @@
+data direct input output in fortran a statement which is
+similar to the namelist statement of fortran iv ha been
+incorpor in the fortran 63 compil the fortran 63 implement
+allow a greater flexibl and simplic than the fortran iv
+featur the hollerith name the locat the mode and the
+dimens of a variabl can be discov by mean of
+standard fortran statement method of us thi inform ar illustr
+in relat to gener purpos data direct input and output
+routin some other us such as matrix manipul ar discuss
+cacm januari 1967 hassitt a ca670106 jb februari 28 1978
+4 41 pm

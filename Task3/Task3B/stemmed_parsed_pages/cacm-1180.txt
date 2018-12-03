@@ -1,0 +1,12 @@
+axl an axiomat languag for string transform axl is a
+languag design for data manipul data arrang in a linear
+form in a workspac is transform accord to a tabl
+of axiom call imper a transform consist of a match
+procedur which decid where an imper is applic and a
+replac procedur that modifi that part of the workspac imper
+ar appli in accord with definit of symbol term present
+systemat in an assert tabl the process of definit includ
+the special case of recurs assert sever complet program of
+imper ar given to show a few applic of the
+languag cacm novemb 1965 cohen i wegstein j h ca651101
+jb march 6 1978 6 22 pm

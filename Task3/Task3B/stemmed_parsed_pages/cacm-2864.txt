@@ -1,0 +1,20 @@
+characterist of program local the term local ha been us
+to denot that subset of a program s segment which
+ar referenc dure a particular phase of it execut a
+program s behavior can be character in term of it
+resid in local of variou size and lifetim and the
+transit between these local in thi paper the concept of
+a local is made more explicit through a formal definit
+of what constitut a phase of local refer behavior and
+by a correspond mechan for the detect of local in
+actual refer string thi definit provid for the exist of
+a hierarchi of local at ani given time and the
+reason of the definit is support by exampl taken from
+actual program empir data from a sampl of product algol
+60 program is us to displai distribut of local size
+and lifetim and these result ar discuss in term of
+their implic for the model of program behavior and memori
+manag in virtual memori system cacm mai 1976 madison a
+w batson a p program behavior memori manag local 4
+22 4 35 4 6 4 9 6 21 ca760507
+jb januari 4 1978 3 15 pm

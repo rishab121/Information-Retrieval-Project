@@ -1,0 +1,2 @@
+romberg integr algorithm 60 d1 cacm juli 1964 thacher jr
+h c ca640707 jb march 9 1978 8 17 pm

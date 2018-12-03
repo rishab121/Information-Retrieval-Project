@@ -1,0 +1,16 @@
+context sensit pars thi paper present a canon form for
+context sensit deriv and a pars algorithm which find each
+context sensit analysi onc and onli onc the amount of
+memori requir by the algorithm is essenti no more than
+the requir to store a singl complet deriv in addit
+a modifi version of the basic algorithm is present which
+block infinit analys for grammar which contain loop the algorithm
+is also compar with sever previou parser for context sensit
+grammar and gener rewrit system and the differ between the
+two type of analys is discuss the algorithm appear to
+be complementari to an algorithm by s kuno in sever
+respect includ the space time trade off and the degre
+of context depend involv cacm juli 1970 wood w a
+context sensit grammar context sensit pars formal grammar formal languag
+theori pars pars algorithm recognit algorithm 3 42 5 22
+5 23 ca700707 jb februari 10 1978 4 43 pm

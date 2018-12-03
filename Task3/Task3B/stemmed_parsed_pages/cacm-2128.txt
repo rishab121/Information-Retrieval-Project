@@ -1,0 +1,10 @@
+a processor alloc method for time share a schedul algorithm
+is propos which is intend to minim chang of task
+on processor and therebi reduc over head the algorithm also
+ha applic to more gener resourc alloc problem it is
+implement by mean of a method for effici handl dynam
+chang segment list cacm januari 1970 mulleri a p driscol
+g c time share resourc alloc schedul algorithm monitor dynam
+alloc processor alloc multiprogram multiprocess time slice schedul convers system
+interact system 3 80 4 30 4 31 4 32
+6 33 ca700103 jb februari 14 1978 2 15 pm

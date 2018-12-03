@@ -1,0 +1,10 @@
+a method for find the least squar estim of the
+intersect point of two helic in space when the helic
+trajectori of two charg particl move awai from a common
+point in a magnet field ar reconstruct from measur on
+the track the reconstruct track ar perturb by measur and
+other error and do not in gener intersect a method
+is given for adjust the reconstruct track in a least
+squar manner so that thei do intersect cacm april 1966
+royston r j gregori j ca660406 jb march 3 1978
+10 42 am

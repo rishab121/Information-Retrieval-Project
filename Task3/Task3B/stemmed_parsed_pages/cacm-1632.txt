@@ -1,0 +1,12 @@
+program the tabular method of analysi of varianc for factori
+experi the eas of program the tabular method of analysi
+of varianc for complet factori experi in a fortran languag
+is demonstr in thi method the total sum of squar
+is partit into orthogon singl degre of freedom sum of
+squar main effect and interact sum of squar ar then
+obtain by appropri pool of the singl degre of freedom
+sum of squar program segment to accomplish the procedur ar
+present modif to handl hierarch design and replic experi ar
+mention a fortran ii program for an ibm 7094 is
+describ briefli cacm februari 1967 carmer s g ca670210 jb
+februari 28 1978 2 33 pm

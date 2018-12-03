@@ -1,0 +1,15 @@
+program decis tabl in fortran cobol or algol a simpl
+broad base approach for program decis tabl in fortran or
+cobol is develop and present with input in standard form
+as defin in the paper the program of ani decis
+tabl can be done with on or two fortran statement
+or with two cobol statement if the comput verb is
+avail in the cobol processor it is shown that the
+method is applic even when there ar more than two
+mutual exclus state of on two or more tabl condit
+it is further shown that multi state condit in decis
+tabl can often simplifi the program the method outlin ha
+the further advantag that all possibl combin of condit ar
+consid it is shown that the suggest procedur is easili
+implement in algol cacm januari 1966 veinott c g ca660107
+jb march 3 1978 4 08 pm

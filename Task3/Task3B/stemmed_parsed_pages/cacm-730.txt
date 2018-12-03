@@ -1,0 +1,11 @@
+mirfag a compil base on standard mathemat notat and plain
+english a pilot version of the compil mirfag now in
+oper is describ the chief featur of the system which
+is intend for the solut of scientif problem ar the
+present of mathemat formula entir in standard textbook notat the
+us of plain english for organiz instruct automat error diagnosi
+indic the actual locat of the error in the uncompil
+program and an attempt to minim that fragment of the
+origin problem statement which is a normal featur of program
+system cacm septemb 1963 gawlik h j ca630928 jb march
+13 1978 7 06 pm

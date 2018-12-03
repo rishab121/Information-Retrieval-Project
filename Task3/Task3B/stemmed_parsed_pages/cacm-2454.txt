@@ -1,0 +1,7 @@
+comput algorithm for close queue network with exponenti server method
+ar present for comput the equilibrium distribut of custom in
+close queue network with exponenti server express for variou margin
+distribut ar also deriv the comput algorithm ar base on
+two dimension iter techniqu which ar highli effici and quit
+simpl to implement implement consider such as storag alloc strategi
+and order of evalu ar exam

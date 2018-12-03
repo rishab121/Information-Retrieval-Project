@@ -1,0 +1,12 @@
+effici algorithm for graph manipul h algorithm a447 effici algorithm
+ar present for partit a graph into connect compon biconnect
+compon and simpl path the algorithm for partit of a
+graph into simpl path is iter and each iter produc
+a new path between two vertic alreadi on path the
+start vertex can be specifi dynam if v is the
+number of vertic and e is the number of edg
+each algorithm requir time and space proport to max v
+e when execut on a random access comput cacm june
+1973 hopcroft j tarjan r graph analysi of algorithm graph
+manipul 5 32 ca730610 jb januari 23 1978 1 55
+pm

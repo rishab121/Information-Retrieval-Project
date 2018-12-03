@@ -1,0 +1,13 @@
+a comparison of the primal simplex and primal dual algorithm
+for linear program a statist comparison of the primal dual
+and the more commonli us primal simplex algorithm for solv
+linear program problem ha been made under the assumpt of
+start with a full artifici basi under these condit the
+primal dual method show a statist signific superior on randomli
+gener problem it ha also been found via a regress
+analysi that the relev paramet in determin the differ in
+the number of iter between the algorithm is not onli
+the number of constraint and the number of variabl but
+also the ratio of the latter to the former cacm
+novemb 1965 mueller r k cooper l ca651110 jb march
+6 1978 4 50 pm

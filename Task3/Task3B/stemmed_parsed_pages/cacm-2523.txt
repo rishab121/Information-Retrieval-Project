@@ -1,0 +1,14 @@
+a region color techniqu for scene analysi a method of
+convert a pictur into a cartoon or map whose region
+correspond to differ textur region is describ textur edg in
+the pictur ar detect and solid region surround by these
+usual broken edg ar color in us a propag process
+the result map is clean by compar the region color
+with the textur of the correspond region in the pictur
+and also by merg some region with other accord to
+criteria base on topolog and size the method ha been
+appli to the construct of cloud cover map from cloud
+cover pictur obtain by satellit cacm april 1973 strong iii
+j p rosenfeld a pictur process scene analysi edg detect
+3 63 8 2 ca730405 jb januari 24 1978 9
+48 am

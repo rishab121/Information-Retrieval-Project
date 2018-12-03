@@ -1,0 +1,11 @@
+some theorem to aid in solv the file alloc problem
+the file alloc problem i e the problem of find
+the optim set of network site at which to locat
+copi of a file is known to be in gener
+polynomi complet heurist and other aid to find optim or
+near optim solut ar therefor much need in thi paper
+we present three theorem which can be appli a priori
+to indic that certain site should or should not be
+includ in an optim alloc cacm novemb 1977 grapa e
+belford g g file alloc comput network distribut data manag
+4 33 ca771116 jb decemb 27 1977 8 45 am

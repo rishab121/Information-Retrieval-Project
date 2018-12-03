@@ -1,0 +1,19 @@
+digit data processor for track the partial illumin moon a
+studi of lunar track techniqu and fabric of a breadboard
+to assess the feasibl of the best techniqu select wa
+conduct to defin a track system for observ of the
+sight line to the center of a partial illumin moon
+the data process portion of the system is present in
+detail and then describ in gener ar the oper of
+the tracker head assembl for data readout the oper of
+the entir system and the effect data process consider have
+on the design of the tracker system the system basic
+consist of an optic sensor digit comput and tracker drive
+mechan the three system unit connect in cascad compris the
+control loop for thi applic an optic telescop with a
+radial mechan scan mechan wa us that read out lunar
+sight line measur inform thi inform is sequenti read into
+a special purpos digit comput that extract the measur and
+comput the error signal that drive the tracker to the
+appropri attitud cacm march 1964 wilcox h j ca640324 jb
+march 10 1978 2 02 am

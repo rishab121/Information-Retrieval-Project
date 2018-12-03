@@ -1,0 +1,16 @@
+on gener of test problem for linear program code user
+of linear program comput code have realiz the necess of
+evalu the capac effect and accuraci of the solut provid
+by such code larg scale linear program code at most
+instal ar assum to be gener correct solut without ever
+have been bench mark by test problem with known solut
+the reason for thi failur to adequ test the code
+is that rare ar there larg problem with known solut
+readili avail thi paper present a theoret justif and an
+illustr implement of a method for gener linear program test
+problem with known solut the method permit the gener of
+test problem that ar of arbitrari size and have a
+wide rang of numer characterist cacm octob 1974 charn a
+raik w m stutz j d walter a s linear
+program test problem gener lp program evalu lp program valid
+5 41 ca741006 jb januari 16 1978 12 28 pm

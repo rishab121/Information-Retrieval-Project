@@ -1,0 +1,14 @@
+on the complex of comput the measur of u ai
+bi the decis tree complex of comput the measur of
+the union of n possibl overlap interv is shown to
+be n log n even if comparison between linear function
+of the interv endpoint ar allow the exist of an
+n log n lower bound to determin whether ani two
+of n real number ar within of each other is
+also demonstr these problem provid an excel opportun for discuss
+the effect of the comput model on the eas of
+analysi and on the result produc cacm juli 1978 fredman
+m weid b analysi of algorithm combinatori problem comput complex
+comput model decis tree program lower bound 5 25 5
+26 5 30 5 39 ca780702 dh februari 8 1979
+3 46 pm

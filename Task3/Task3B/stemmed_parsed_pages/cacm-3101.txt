@@ -1,0 +1,15 @@
+the sl5 procedur mechan thi paper describ an integr procedur
+mechan that permit procedur to be us as recurs function
+or as coroutin thi integr is accomplish by treat procedur
+and their activ record call environ as data object and
+by decompos procedur invoc into three separ compon at the
+sourc languag level in addit argument bind is under the
+control of the programm permit the definit of variou method
+of argument transmiss in the sourc languag itself the result
+procedur mechan which is part of the sl5 program languag
+is well suit to goal orient problem and to other
+problem that ar more readili program by us coroutin sever
+exampl ar given cacm mai 1978 hanson d griswold r
+procedur coroutin program languag interpret snobol 4 backtrack 4 2
+4 20 4 22 4 13 ca780506 dh februari 26
+1979 1 36 pm

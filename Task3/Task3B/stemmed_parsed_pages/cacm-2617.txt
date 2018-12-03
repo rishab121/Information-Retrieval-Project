@@ -1,0 +1,2 @@
+a note on subexpress order in the evalu of arithmet
+express cacm august 1974 den p j graham

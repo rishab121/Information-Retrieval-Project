@@ -1,0 +1,18 @@
+represent of contour ad region for effici comput search a
+novel comput searchabl represent for the three basic pictori featur
+contour map region coverag and line structur is describ the
+represent which ha practic storag requir provid a rapid mean
+of search larg file for data associ with geometr posit
+as well as with attribut valu an applic of thi
+represent to handl terrain inform illustr it util the algebra
+properti of the data structur make it computation easi to
+determin whether a point li within a close boundari comput
+the area contain by a close boundari gener the close
+boundari repres the union or intersect of two close boundari
+and determin the neighbor boundari to a point and the
+minimum distanc between them and the point cacm februari 1973
+merril r d contour map represent region boundari represent comput
+search abl structur graphic data retriev graphic languag two dimension
+pattern comput graphic graphic displai 3 21 3 23 3
+79 6 35 ca730201 jb januari 24 1978 3 30
+pm

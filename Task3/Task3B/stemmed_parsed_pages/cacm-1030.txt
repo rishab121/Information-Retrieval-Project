@@ -1,0 +1,11 @@
+techniqu for the simul of comput logic the simul of
+a digit comput is an integr part of most comput
+design autom system the evalu of the boolean function which
+character the comput be simul constitut on major portion of
+a simul system four gener procedur class for evalu these
+function ar defin toward greatli increas effici of a simul
+system method ar present for simultan evalu mani function for
+on set of valu of the variabl and for evalu
+simultan on function for mani set of valu for the
+variabl cacm juli 1964 breuer m a ca640717 jb march
+9 1978 7 42 pm

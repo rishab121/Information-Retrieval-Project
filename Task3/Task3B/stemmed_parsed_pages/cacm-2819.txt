@@ -1,0 +1,14 @@
+experi in text file compress a system for the compress
+of data file view as string of charact is present
+the method is gener and appli equal well to english
+to pl i or to digit data the system consist
+of an encod an analysi program and a decod two
+algorithm for encod a string differ slightli from earlier propos
+the analysi program attempt to find an optim set of
+code for repres substr of the file four new algorithm
+for thi oper ar describ and compar variou paramet in
+the algorithm ar optim to obtain a high degre of
+compress for sampl text cacm novemb 1976 rubin f text
+compress data file compact huffman code n gram encod comparison
+of algorithm 3 7 3 73 4 33 ca761104 jb
+januari 3 1978 3 26 pm

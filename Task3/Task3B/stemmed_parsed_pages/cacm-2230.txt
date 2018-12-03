@@ -1,0 +1,7 @@
+a languag for treat geometr pattern in a two dimension
+space in thi paper cadep a problem orient languag for
+posit geometr pattern in a two dimension space is present
+although the languag ha been specif design for the automat
+gener of integr circuit mask it turn out to be
+well suit also for such other placement problem as architectur
+design urban plan logic and block diagram

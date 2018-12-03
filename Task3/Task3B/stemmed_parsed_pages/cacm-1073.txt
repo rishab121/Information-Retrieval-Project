@@ -1,0 +1,5 @@
+a fast procedur for gener exponenti random variabl a veri
+fast method for gener exponenti random variabl in a digit
+comput is outlin cacm mai 1964 maclaren m d marsaglia
+g brai t a ca640516 jb march 9 1978 11
+50 pm

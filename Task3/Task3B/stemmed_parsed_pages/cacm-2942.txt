@@ -1,0 +1,4 @@
+an algol base implement of snobol 4 pattern cacm juli
+1977 brownle j n pattern snobol 4 pattern match string
+process pattern implement algorithm in pascal 4 29 ca770710 jb
+decemb 28 1977 8 15 am

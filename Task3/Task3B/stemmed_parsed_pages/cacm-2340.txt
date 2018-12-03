@@ -1,0 +1,13 @@
+a boolean matrix method for the comput of linear preced
+function a modifi version of bell s boolean matrix method
+for the comput of linear preced function associ with a
+conflict free matrix of preced relat is given thi algorithm
+not onli detect when the preced function do not exist
+but also provid an indic of why thei do not
+exist so that correct action can be taken if possibl
+necessari and suffici condit for the exist of preced function
+ar given the us of boolean matric to prove the
+exist of preced function associ with class of conflict free
+grammar is illustr through an exampl cacm june 1972 martin
+d f preced grammar context free pars 4 12 ca720605
+jb januari 30 1978 4 28 pm

@@ -1,0 +1,14 @@
+integr equat of immunolog the invers of a particular integr
+equat of the first fredholm kind is the basic problem
+consid the strategi which yield success consist of three essenti
+point 1 fit the known experiment data by a curv
+with properti which deriv from properti of the as yet
+unknown function 2 stabil the comput for the unknown function
+by us singular valu decomposit 3 constrain the unknown function
+approxim sinc it repres a probabl distribut to be nonneg
+a number of test case ar present on set of
+actual experiment data is analyz with the procedur present cacm
+octob 1972 hanson r j integr equat of the first
+kind nonneg constraint singular valu analysi 3 10 5 14
+5 18 5 41 ca721003 jb januari 27 1978 3
+37 pm

@@ -1,0 +1,11 @@
+method of evalu polynomi approxim in function evalu routin the
+method of nest multipl is commonli us in function evalu
+routin to evalu approxim polynomi new polynomi evalu method have
+been develop in recent year which requir fewer multipl than
+nest multipl and mai therefor be prefer for us in
+function evalu routin although some of these method do not
+appear to be practic us becaus of round error difficulti
+sever method of evalu low degre polynomi have been found
+to be satisfactori three such method ar describ and illustr
+cacm march 1967 file c t ca670309 jb februari 28
+1978 1 08 pm

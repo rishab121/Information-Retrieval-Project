@@ -1,0 +1,19 @@
+ethernet distribut packet switch for local comput network ethernet is
+a branch broadcast commun system for carri digit data packet
+among local distribut comput station the packet transport mechan provid
+by ethernet ha been us to build system which can
+be view as either local comput network or loos coupl
+multiprocessor an ethernet s share commun facil it ether is
+a passiv broadcast medium with no central control coordin of
+access to the ether for packet broadcast is distribut among
+the contend transmit station us control statist arbitr switch of
+packet to their destin on the ether is distribut among
+the receiv station us packet address recognit design principl and
+implement ar describ base on experi with an oper ethernet
+of 100 node along a kilomet of coaxial cabl a
+model for estim perform under heavi load and a packet
+protocol for error control commun ar includ for complet cacm
+juli 1976 metcalf r m bogg d r comput network
+packet switch multiprocess distribut control distribut comput broadcast commun statist
+arbitr 3 81 4 32 6 35 ca760704 jb januari
+4 1978 12 49 pm

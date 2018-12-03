@@ -1,0 +1,10 @@
+an extend arithmet packag in mani field for exampl algebra
+number theori arithmet must be carri out to a degre
+of precis which exce the normal hardwar capac of most
+machin in such case an extend arithmet packag provid a
+comprehens and easi to us wai of perform such arithmet
+such a packag wa code for the ibm 7090 in
+discuss the gener problem associ with the design of an
+extend arithmet packag specif refer is made to thi program
+cacm mai 1965 blum b i ca650513 jb march 7
+1978 1 01 pm

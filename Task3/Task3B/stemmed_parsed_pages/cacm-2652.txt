@@ -1,0 +1,14 @@
+reduct of compil cost through languag contract program languag tailor
+to particular group of user can often be construct by
+remov unwant featur from a gener purpos languag thi paper
+describ the us of simul techniqu to predict the save
+in compil cost achiev by such an approach the result
+suggest a function which describ the effect of chang in
+the power of a languag on the compil cost of
+an algorithm express in that languag when featur not actual
+us by the algorithm ar remov from the languag the
+cost of compil the algorithm decreas moder but when featur
+that ar need ar remov the compil cost increas sharpli
+cacm mai 1974 shaw m design of program languag languag
+contract compil design compil cost algol 4 12 4 20
+ca740501 jb januari 17 1978 4 39 pm

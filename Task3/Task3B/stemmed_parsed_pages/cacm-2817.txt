@@ -1,0 +1,13 @@
+the notion of consist and predic lock in a databas
+system in databas system user access share data under the
+assumpt that the data satisfi certain consist constraint thi paper
+defin the concept of transact consist and schedul and show
+that consist requir that a transact cannot request new lock
+after releas a lock then it is argu that a
+transact need to lock a logic rather than a physic
+subset of the databas these subset mai be specifi by
+predic an implement of predic lock which satisfi the consist
+condit is suggest cacm novemb 1976 eswarran k grai j
+lori r traiger i l consist lock databas concurr transact
+4 32 4 33 ca761106 jb januari 3 1978 3
+14 pm

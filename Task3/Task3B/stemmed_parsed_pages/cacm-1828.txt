@@ -1,0 +1,12 @@
+synchron in a parallel access data base the follow problem
+is consid given a data base which can be manipul
+simultan by more than on process what ar the rule
+for synchron which will maxim the amount of parallel activ
+allow it is assum that the data base can be
+repres as a graph an exampl of such a data
+base is a hierarchi of directori for an on line
+file system method for synchron of process ar examin their
+valid is discuss and their perform compar cacm novemb 1969
+shoshani a bernstein a j parallel access parallel search file
+search data base synchron lock deadlock 3 73 3 74
+4 32 ca691102 jb februari 15 1978 1 13 pm

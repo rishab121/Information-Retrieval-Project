@@ -1,0 +1,9 @@
+a storag alloc scheme for algol 60 a storag alloc
+scheme for a machin with a 2048 instruct core store
+and a magnet drum is describ the us of the
+drum for store program block and or data must be
+direct by the programm through auxiliari inform in the algol
+program the administr routin control the storag at run time
+ar describ in full a detail exampl is given cacm
+octob 1961 jensen j mondrup p naur p ca611009 jb
+march 16 1978 12 54 pm

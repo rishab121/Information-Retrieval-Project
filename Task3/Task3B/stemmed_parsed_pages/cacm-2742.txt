@@ -1,0 +1,14 @@
+improv event scan mechan for discret event simul simul model
+of larg complex real world applic have occasion earn the
+reput of eat up hour of comput time thi problem
+mai be attribut in part to difficulti such as slow
+stochast converg howev an addit problem li in the fact
+that a signific amount of bookkeep time is requir to
+keep futur event in their proper sequenc thi paper present
+a method for significantli reduc the time spent scan futur
+event list in discret event simul there model ar present
+all of which improv in effect as the event list
+scan problem becom more burdensom cacm june 1975 wyman f
+p discret event simul simul event scan mechan 4 34
+5 5 8 1 ca750611 jb januari 9 1978 12
+43 pm

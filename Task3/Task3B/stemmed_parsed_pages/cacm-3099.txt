@@ -1,0 +1,13 @@
+new suffici optim condit for integ program and their applic
+the purpos of thi report is to present a new
+class of suffici optim condit for pure and mix integ
+program problem some of the set of suffici condit present
+can be thought of as gener of optim condit base
+on primal dual complementar in linear program these suffici condit
+ar particularli us for the construct of difficult integ program
+problem with known optim solut these problem mai then be
+us to test and or benchmark integ program code cacm
+mai 1978 fleisher j meyer r integ program optim condit
+test problem construct kuhn tucker condit greatest common divisor 3
+15 5 39 5 49 ca780508 dh februari 26 1979
+1 19 pm

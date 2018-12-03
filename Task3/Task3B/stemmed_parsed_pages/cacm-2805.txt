@@ -1,0 +1,10 @@
+perturb of eigenvalu of non normal matric the problem consid
+is to give bound for finit perturb of simpl and
+multipl eigenvalu of nonnorm matric where these bound ar in
+term of the eigenvalu the departur from normal and the
+frobeniu norm of the perturb matrix but not in term
+of the eigen system the bound which ar deriv ar
+shown to be almost attain for ani set of matric
+cacm januari 1975 van der slui a perturb of eigenvalu
+non normal matric departur from normal gershgorin circl 5 14
+ca750106 jb januari 12 1978 10 31 am

@@ -1,0 +1,14 @@
+implement clenshaw curti quadratur i methodolog and experi clenshaw curti
+quadratur is a particularli import automat quadratur scheme for a
+varieti of reason especi the high accuraci obtain from rel
+few integrand valu howev it ha receiv littl us becaus
+it requir the comput of a cosin transform and the
+arithmet cost of thi ha been prohibit thi paper is
+in two part a companion paper ii comput the cosin
+transform show that thi object can be overcom by comput
+the cosin transform by a modif of the fast fourier
+transform algorithm thi first part discuss the strategi and variou
+error estim and summar experi with a particular implement of
+the scheme cacm mai 1972 gentleman w m clenshaw curti
+numer integr automat quadratur error estim chebyshev seri 5 16
+ca720505 jb januari 31 1978 10 05 am
