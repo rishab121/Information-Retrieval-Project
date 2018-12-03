@@ -5,6 +5,16 @@ import operator
 
 
 class PsuedoRelevanceFeedBack:
+    def __init__(self):
+        self.helper = Helper()
+        self.documnetVector = defaultdict(dict)
+        self.queryVector = defaultdict(str)
+        self.docScoreDict = defaultdict(int)
+        self.stopwords_file = "../test-collection/common_words"
+        self.output_dir = "./stopped_pages_output/"
+        self.prepare_stoplist()
+        self.stopwords_file = "../test-collection/common_words"
+        self.prepare_stoplist()
 
     def prepare_stoplist(self):
         with open(self.stopwords_file, 'r') as f:
@@ -25,7 +35,8 @@ class PsuedoRelevanceFeedBack:
     def populateRelevantDocVector(self):
         for term in self.helper.unigram_inverted_index.keys():
             for docId in self.helper.unigram_inverted_index[term].keys():
-                self.documnetVector[docId][term] = self.helper.unigram_inverted_index[term][docId]
+                if docId in self.documnetVector.keys():
+                    self.documnetVector[docId][term] = self.helper.unigram_inverted_index[term][docId]
 
 
     def getQueryVector(self):
@@ -50,8 +61,8 @@ class PsuedoRelevanceFeedBack:
 
     def calculateRocchioScore(self, qId, queryAr):
         expansionTerms = []
-        a = 4
-        b = 16
+        a = 0.8
+        b = 1
         c = 0
         for t in self.helper.unigram_inverted_index.keys():
             self.queryVector[t] = a*self.queryVector[t] + b*self.calculateVectorScore(t)
@@ -60,12 +71,12 @@ class PsuedoRelevanceFeedBack:
 
         i = 0
         for tup in sortedDict:
-            #if tup[0] not in self.stop_words:
-            i += 1
-            if tup[0] not in queryAr:
-                expansionTerms.append(tup[0])
-                print(str(tup[0]))
-            if i == 50:
+            if tup[0] not in self.stop_words:
+                if tup[0] not in queryAr:
+                    expansionTerms.append(tup[0])
+                    i += 1
+                    print(str(tup[0]))
+            if i == 10:
                 break
 
         with open('ExpansionTerms/' + str(qId) + '-ExpTerms.txt', 'w') as f:
@@ -74,15 +85,6 @@ class PsuedoRelevanceFeedBack:
         return expansionTerms
 
     def main(self, qId, queryAr):
-        self.helper = Helper()
-        self.documnetVector = defaultdict(dict)
-        self.queryVector = defaultdict(str)
-        self.docScoreDict = defaultdict(int)
-        self.stopwords_file = "../test-collection/common_words"
-        self.output_dir = "./stopped_pages_output/"
-        self.prepare_stoplist()
-        self.stopwords_file = "../test-collection/common_words"
-        self.prepare_stoplist()
         queries = self.helper.get_queries()
         self.query = queries[qId]
         self.documnetVector = defaultdict(dict)
