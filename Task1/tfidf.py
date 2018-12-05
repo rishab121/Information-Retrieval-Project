@@ -12,8 +12,8 @@ class TfIdf:
 		self.idfDict = defaultdict(float)
 		self.number_of_documents = len(r.number_of_terms_doc.keys())
 		# self.printTF()
-		self.calculateDocumentFrequency()
-		self.calculateInverseDocumentFrequency()
+		# self.calculateDocumentFrequency()
+		# self.calculateInverseDocumentFrequency()
 		# self.calculateTFIdfScore()
 		# self.writeTfIdfScoreToFile()
 		self.performQueryTfIdf()
@@ -29,7 +29,7 @@ class TfIdf:
 
 	def calculateDocumentFrequency(self):
 		for term in r.unigram_inverted_index:
-			self.dfDict[term] = len(r.unigram_inverted_index[term].keys())
+			self.dfDict[term] = len(r.unigram_inverted_index[term].keys()+1)
 
 			# print term
 			# print self.dfDict[term]
@@ -79,41 +79,60 @@ class TfIdf:
 				else:
 					break
 
-	def getTfIdf(self, query, queryId):
-		queryTerms = query.split()
-		documents_containing_term = []
-		documentScores = defaultdict(float)
-		for term in queryTerms:
-			if term in r.unigram_inverted_index.keys():
-				inverted_list = r.unigram_inverted_index[term]
-				for doc_id in inverted_list.keys():
-					if doc_id not in documents_containing_term:
-						documents_containing_term.append(doc_id)
-			else:
-				print term
-				print "Term is not present in corpus"
+	def getTfIdf(self,queryTF,inverted_list,queryId,query):
+		documentScores = defaultdict()
+		tfIdf= defaultdict()
 
-		for term in queryTerms:
-			if term in r.unigram_inverted_index.keys():
-				for doc_id in documents_containing_term:
-					score = self.calculateTFIdfScore(doc_id, term)
-					documentScores[doc_id] += score
-		self.sort_scores(query, queryId,documentScores)
+		for term in inverted_list:
+			idf = 1.0+ math.log(float(self.number_of_documents) / float(len(inverted_list[term].keys())+1))
+			for docId in inverted_list[term]:
+				tf = float(inverted_list[term][docId])/float(r.number_of_terms_doc[docId])
+				if term not in tfIdf:
+					tfIdf[term] = {}
+				tfIdf[term][docId] = tf*idf
 
+		for term in inverted_list:
+			for document in inverted_list[term]:
+				docWeight = 0
+				docWeight+= tfIdf[term][document]
+				if document in documentScores:
+					docWeight += documentScores[document]
+				documentScores.update({document:docWeight})
+
+		self.sort_scores(query,queryId,documentScores)
 
 	def sort_scores(self, query, query_id, doc_scores):
 		sorted_scores = sorted(
 			doc_scores.items(), key=operator.itemgetter(1), reverse=True)
 		self.writeTfIdfScoreToFile(query, query_id, sorted_scores)
 
+	def getQueryTermFrequency(self,query):
+		query_tf = defaultdict(int)
+		for term in query.split():
+			if term not in query_tf:
+				query_tf[term] += 1
+		return query_tf
+
+	def getDocumentsContainingTerm(self,queryTF):
+		documents_containing_term = defaultdict()
+		for term in queryTF:
+			documents_containing_term[term] = r.unigram_inverted_index[term]
+
+		return documents_containing_term
+
+
 
 	def performQueryTfIdf(self):
 		self.queries = r.get_queries()
 		for query in self.queries:
 			self.queries[query] = r.parse_query(self.queries[query])
+			self.queryTF = self.getQueryTermFrequency(self.queries[query])
+			self.inverted_list = self.getDocumentsContainingTerm(self.queryTF)
+			self.getTfIdf(self.queryTF,self.inverted_list,query,self.queries[query])
+			# self.getTfIdf (self.queries[query],query)
 
-		for query in self.queries:
-			self.getTfIdf (self.queries[query],query)
+		# for query in self.queries:
+		# 	self.getTfIdf (self.queries[query],query)
 
 r = Helper()
 t = TfIdf()
