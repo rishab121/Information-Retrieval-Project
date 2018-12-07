@@ -170,11 +170,33 @@ def writeOutputToFile(responseList,precisionList,recallList,queryId,docsConsider
 			f.write("Reciprocal rank: " + str(reciprocal_rank) + "\n")
 			if queryId == 64:
 				global documents_with_no_relevance_judgements
-				dmr = queryId-documents_with_no_relevance_judgementsme
+				dmr = queryId-documents_with_no_relevance_judgements
 				f.write("Mean Average precision: " + str(mean_average_precision/dmr)+"\n")
 				f.write("Mean Reciprocal rank: " + str(float(mean_reciprocal_rank/dmr)) + "\n")
 
 
 populateRelevantDictionary()
-populateOutputRelevantDictionary('TF-IDF_output')
-populateResponseList('TF-IDF_EvaluationOutput/')
+# populateOutputRelevantDictionary('TF-IDF_output')
+# populateResponseList('TF-IDF_EvaluationOutput/')
+
+# populateOutputRelevantDictionary('TF-IDF_Output_Stopping')
+# populateResponseList('TF-IDF_Evaluation_Stopping_Output/')
+
+# populateOutputRelevantDictionary('BM_Output')
+# populateResponseList('BM_EvaluationOutput/')
+
+# populateOutputRelevantDictionary('JM_Output')
+# populateResponseList('JM_EvaluationOutput/')
+
+# populateOutputRelevantDictionary('JM_Output_Stopping')
+# populateResponseList('JM_Evaluation_Stopping_Output/')
+
+# populateOutputRelevantDictionary('BM_OutputWithFeedback')
+# populateResponseList('BM_QueryEnrichmentEvaluationOutput/')
+
+populateOutputRelevantDictionary('BM_Output_Stopping')
+populateResponseList('BM_Evaluation_Stopping_Output/')
+
+
+
+
