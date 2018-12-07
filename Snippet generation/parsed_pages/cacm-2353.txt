@@ -1,0 +1,24 @@
+
+
+
+fast finite-difference solution of biharmonic problems
+
+setting the reynolds number equal to zero in
+a method for solving the navier-strokes equations 
+numerically results in a fast numerical method for
+biharmonic problems  the equation is treated as 
+a system of two second order equations and a simple
+smoothing process is essential for convergence  
+an application is made to a crack-type problem
+
+cacm may 1972
+
+greenspan d
+schultz d
+
+numerical analysis partial differential equations
+biharmonic equation boundary value problem
+
+5.17
+
+ca720507 jb january 31 1978  9:43 am

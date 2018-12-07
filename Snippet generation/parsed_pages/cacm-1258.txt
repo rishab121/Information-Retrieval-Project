@@ -1,0 +1,20 @@
+
+
+
+an extended arithmetic package
+
+in many fields for example algebraic number
+theory arithmetic must be carried out to a degree 
+of precision which exceeds the normal hardware capacity
+of most machines  in such cases an extended 
+arithmetic package provides a comprehensive and easy-to-use
+way of performing such arithmetic  such 
+a package was coded for the ibm 7090  in discussing
+the general problems associated with the design 
+of an extended arithmetic package specific reference is made to this program
+
+cacm may 1965
+
+blum b i
+
+ca650513 jb march 7 1978  1:01 pm

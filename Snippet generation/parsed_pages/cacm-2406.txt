@@ -1,0 +1,33 @@
+
+
+
+a data definition and mapping language
+
+a data definition language i sa declarative
+computer language for specifying data structures 
+ most data definition languages concentrate on the declaration
+of logical data structures with little 
+concern for how these structures are physically realized
+on a computer system  however the need for 
+data definition languages which describe both the logical
+and physical aspects of data is increasingly 
+apparent  such languages will be a key systems as well
+as in advanced data management systems and distributed 
+data bases  this paper reviews past work in the data
+definition language for describing both logical 
+and physical aspects of data  applications of these
+generalized data definition languages are also 
+discussed
+
+cacm december 1973
+
+sibley e h
+taylor r w
+
+data definition language data and storage structure
+data translation data base management systems 
+file translation
+
+3.51 3.70 3.73 4.29 4.82
+
+ca731202 jb january 19 1978  2:58 pm

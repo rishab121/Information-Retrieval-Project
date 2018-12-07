@@ -1,0 +1,23 @@
+
+
+
+an algorithm for solving a special class
+of tridiagonal systems of linear equations
+
+an algorithm is presented for solving a system
+of linear equation buk where b is tridiagonal 
+and of a special form  it is shown that this algorithm
+is almost twice as fast as the gaussian elimination 
+method usually suggested for solving such systems 
+in addition explicit formulas for the inverse and 
+determinant of the matrix b are given
+
+cacm april 1969
+
+rose d j
+
+tridiagonal gaussian elimination central difference
+
+5.14 5.17
+
+ca690407 jb february 17 1978  4:18 pm

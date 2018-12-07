@@ -3,8 +3,8 @@ programming
 program
 control
 abstractions
-array
-cacm
 checking
+cacm
+array
 jb
 abstraction

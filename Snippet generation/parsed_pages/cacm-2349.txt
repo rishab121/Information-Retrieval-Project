@@ -1,0 +1,17 @@
+
+
+
+generation of random correlated normal variables g5 algorithm a425
+
+cacm may 1972
+
+hurst r l
+knop r e
+
+random number normal density normal distribution
+gaussian density gaussian distribution simulation 
+monte carlo
+
+5.5
+
+ca720511 jb january 31 1978  9:35 am

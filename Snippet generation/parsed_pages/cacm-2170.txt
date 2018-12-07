@@ -1,0 +1,21 @@
+
+
+
+applications of symbol manipulation in theoretical physics
+
+this paper surveys the applications of symbolic
+computation techniques to problems in theoretical 
+physics  particular emphasis is placed on applications
+in quantum electrodynamics where the most activity 
+has occurred
+
+cacm august 1971
+
+hearn a c
+
+symbol manipulation algebraic simplification
+computational physics quantum electrodynamics
+
+3.17 4.22
+
+ca710802 jb february 2 1978  4:21 pm

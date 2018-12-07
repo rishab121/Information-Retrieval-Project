@@ -1,0 +1,11 @@
+
+
+
+algorithm 160 combinatorial of m things taken n at a time
+
+cacm april 1963
+
+wolfson m l
+wright h v
+
+ca630403 jb march 14 1978  12:29 pm

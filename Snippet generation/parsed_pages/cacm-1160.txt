@@ -1,0 +1,27 @@
+
+
+
+cat a 7090-3600 computer-aided translation
+
+a semi-automatic translation system has been implemented
+which converts 7090 fap language programs 
+into 3600 assembly language  the input to the system
+is a fap program deck which has been specially 
+prepared for translation by the user  the output consists
+of the translated compass language program 
+together with a comprehensive diagnostic listing which the
+user must analyze in order to verify any questionable 
+areas of the translation  the translation processor
+consists of three distinct phases an assembly of 
+the fap program a comprehensive analysis of the assembled
+code with particular regard to the actions 
+of instructions upon other instructions and upon data
+and finally the output pass which generates the 
+compass program in the form of macro instructions
+
+cacm december 1965
+
+wilson d m
+ moss d j
+
+ca651209 jb march 6 1978  3:50 pm

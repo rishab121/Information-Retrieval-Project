@@ -1,0 +1,26 @@
+
+
+
+a generalized partial pass block sort
+
+the design of a partial pass block sort with
+arbitrary range of key and number of work files 
+is described the design is a generalization of the partial
+pass column sort by ashenhurst and the amphisbaenic 
+sort by nagler the power of the sort is tabulated for
+various sizes of input file and number of work 
+files consideration is given to the problem of combining
+a block sort with internal sorts and to the 
+best use of direct access storage devices
+
+cacm july 1968
+
+bayes a
+
+block sort partial pass sort direct access devices
+column sort chaining reverse chaining 
+sort amphisbaenic
+
+5.31
+
+ca680705 jb february 22 1978  12:12 pm

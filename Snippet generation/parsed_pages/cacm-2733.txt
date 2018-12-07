@@ -1,0 +1,27 @@
+
+
+
+deterministic parsing of ambiguous grammars
+
+methods of describing the syntax of programming
+languages in ways that are more flexible and 
+natural than conventional bnf descriptions are considered
+ these methods involve the use of ambiguous 
+context-free grammars together with rules to resolve
+syntactic ambiguities  it is shown how efficient 
+lr and ll parsers can be constructed directly from
+certain classes of these specifications  
+
+cacm august 1975
+
+aho a v
+johnson s c
+ullman j d
+
+programming language specification parser generation
+translator writing systems syntax analysis 
+lr parsing ll parsing ambiguous grammars
+
+4.12 4.22 5.23
+
+ca750802 jb january 9 1978  9:28 am

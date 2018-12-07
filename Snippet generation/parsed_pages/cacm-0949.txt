@@ -1,0 +1,19 @@
+
+
+
+integer and signed constants in algol
+
+a few remarks are given on the relations between
+syntax and semantics in the programming languages 
+ the aim is to point out that if it is true that the grammar
+of a context-free language should be conceived 
+not only as a strings-generating device but also as a
+method for expressing a meaning then the grammar 
+of algol is open to some criticism
+
+cacm december 1964
+
+petrone l
+vandoni c e
+
+ca641222 jb march 9 1978  2:35 pm

@@ -1,0 +1,11 @@
+
+
+
+a weighted buddy method for dynamic storage allocation corrigendum
+
+cacm april 1975
+
+shen k k
+peterson j l
+
+ca750404 jb january 9 1978  4:06 pm

@@ -1,0 +1,34 @@
+
+
+
+further experimental data on the behavior
+of programs in a paging environment
+
+results are summarized from an empirical study
+directed at the measurement of program operating 
+behavior in those multiprogramming systems in which
+programs are organized into fixed length pages  
+the data collected from the interpretive execution of
+a number of paged programs are used to describe 
+the frequency of page faults ie the frequency of those
+instants at which an executing program requires 
+a page of data or instructions not in main core memory
+ these data are used also for the evaluation 
+of page replacement algorithms and for assessing the
+effects on performance of changes in the amount 
+of storage allocated to executing programs
+
+cacm july 1968
+
+coffman e g
+varian l c
+
+paging systems paging dynamic program behavior program
+behavior virtual memory systems single-level 
+storage one-level storage operating system simulation
+operating systems supervisor simulation machine 
+language program interpretation
+
+4.13 4.32 4.39 4.9
+
+ca680701 jb february 22 1978  3:13 pm

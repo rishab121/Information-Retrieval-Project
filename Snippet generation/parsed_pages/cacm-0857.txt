@@ -1,0 +1,14 @@
+
+
+
+sorting nonredundant files-techniques used in the fact compiler
+
+some typical file structures including some
+called non-redundant are examinedand the 
+methods used in fact to sort such files are discussed
+
+cacm may 1963
+
+glore j b
+
+ca630510 jb march 14 1978  11:16 am

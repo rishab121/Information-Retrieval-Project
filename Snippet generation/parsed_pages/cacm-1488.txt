@@ -1,0 +1,26 @@
+
+
+
+programming decision tables in fortran cobol or algol
+
+a simple broad-based approach for programming
+decision tables in fortran or cobol is developed 
+and presented  with inputs in standard form as defined
+in the paper the programming of any decision 
+table can be done with one or two fortran statements
+or with two cobol statements if the compute verb 
+is available in the cobol processor  it is  shown
+that the method is applicable even when there are 
+more than two mutually exclusive states of one two or
+more table conditions  it is further shown that 
+multi-state conditions in decision tables can often
+simplify the programming  the method outlined has 
+the further advantage that all possible combinations
+of conditions are considered  it is shown that 
+the suggested procedure is easily implemented in algol
+
+cacm january 1966
+
+veinott c g
+
+ca660107 jb march 3 1978  4:08 pm

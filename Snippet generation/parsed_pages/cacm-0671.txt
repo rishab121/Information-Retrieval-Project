@@ -1,0 +1,23 @@
+
+
+
+telefile-a case study of an on-line savings bank application
+
+the development of an on-line computer system
+for a savings bank institution is traced from 
+the early conceptual needs of the bank to the consummation
+of design by the teleregister corporation 
+ both bank and equipment criteria are specified which
+led to the development of the telefile system of 
+the teleregister corporation  operation of the on-line
+and off-line programs are described and statistics 
+are cited for reliability and performance of the system
+ benefits to the bank are discussed from the 
+bankers point of view an indication of future trends
+in the on-line savings bank field is also discussed
+
+cacm december 1963
+
+sanders m
+
+ca631203 jb march 13 1978  3:13 pm

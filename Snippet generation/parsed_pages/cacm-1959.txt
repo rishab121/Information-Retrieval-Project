@@ -1,0 +1,28 @@
+
+
+
+an interrupt based organization for management information systems
+
+a programming structure language constructs and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems  the
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of file tagging which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base  an algorithm for resolving
+conflicts which arise in scheduling the interrupt processing routines
+is presented  dpl a programming language and supervisory
+system in which these concepts are implemented is used to illustrated
+the new organization which is proposed for management information systems
+
+cacm december 1970
+
+morgan h l
+
+management information systems integrated data processing
+supervisors interrupts monitoring systems supervisory
+systems interrupt scheduling parallel processing
+
+3.51 4.22 4.32
+
+ca701204 jb february 9 1978  3:46 pm

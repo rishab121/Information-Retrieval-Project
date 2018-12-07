@@ -1,0 +1,27 @@
+
+
+
+some approaches to best-match file searching
+
+the problem of searching the set of keys in
+a file to find a key which is closest to a given 
+query key is discussed  after closest in terms of
+a metric on the the key space is suitably defined 
+three file structures are presented together with their
+corresponding search algorithms which are intended 
+to reduce the number of comparisons required to achieve
+the desired result these methods are derived 
+using certain inequalities satisfied by metrics and by
+graph-theoretic concepts  some empirical results 
+are presented which compare the efficiency of the methods
+
+cacm april 1973
+
+burkhard w a
+keller r m
+
+matching file structuring file searching heuristics best match
+
+3.73 3.79 4.9
+
+ca730404 jb january 24 1978  9:54 am

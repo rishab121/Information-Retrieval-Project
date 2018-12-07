@@ -1,0 +1,28 @@
+
+
+
+experiments in text file compression
+
+a system for the compression of data files
+viewed as strings of characters is presented 
+ the method is general and applies equally well to
+english to pl/i or to digital data  the system 
+consists of an encoder an analysis program and a decoder
+  two algorithms for encoding a string differ 
+slightly from earlier proposals  the analysis program attempts
+to find an optimal set of codes for representing 
+substrings of the file  four new algorithms for this
+operation are described and compared  various 
+parameters in the algorithms are optimized to obtain
+a high degree of compression for sample texts
+
+cacm november 1976
+
+rubin f
+
+text compression data file compaction huffman
+codes n-gram encoding comparison of algorithms
+
+3.7 3.73 4.33
+
+ca761104 jb january 3 1978  3:26 pm

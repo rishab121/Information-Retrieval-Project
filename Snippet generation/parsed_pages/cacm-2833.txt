@@ -1,0 +1,33 @@
+
+
+
+an efficient incremental automatic garbage collector
+
+this paper describes a new way of solving
+the storage reclamation problem for a system such 
+as lisp that allocates storage automatically from a
+heap and does not require the programmer to give 
+any indication that particular items are no longer useful
+or accessible  a reference count scheme for 
+reclaiming non-self-referential structures and a linearizing
+compacting copying scheme to reorganize 
+all storage at the users discretion are proposed  the
+algorithms are designed to work well in systems 
+which use multiple levels of storage and large virtual
+address space  they depend on the fact that 
+most cells are referenced exactly once and that reference
+counts need only be accurate when storage 
+is about to be reclaimed  a transaction file stores changes
+to reference counts and a multiple reference 
+table stores the count for items which are referenced more than once
+
+cacm september 1976
+
+deutsch l p
+bobrow d g
+
+storage management garbage collection lisp
+
+4.19
+
+ca760906 jb january 4 1978  8:58 am

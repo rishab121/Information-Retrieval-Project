@@ -1,0 +1,18 @@
+
+
+
+matrix reduction using the hungarian method
+for the generation of school timetables
+
+the application of kuhns hungarian method
+to the problem of matrix reduction as needed in 
+gotliebs method for timetable generation is described
+ the method is suited to both hand and computer 
+calculation  devices to improve the efficiency
+of the basic algorithm are discussed
+
+cacm may 1966
+
+lions j
+
+ca660508 jb march 3 1978  9:52 am

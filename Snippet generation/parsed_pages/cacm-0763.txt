@@ -1,0 +1,13 @@
+
+
+
+a syntax controlled generator of formal language processors
+
+cacm august 1963
+
+eickel j
+bauer f l
+paul m
+samelson k
+
+ca630835 jb march 13 1978  8:08 pm

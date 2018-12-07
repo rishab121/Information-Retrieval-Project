@@ -1,0 +1,28 @@
+
+
+
+storage and retrieval of aspects of meaning in directed graph structures
+
+an experimental system that uses lisp to make
+a conceptual dictionary is described  the dictionary 
+associates with each english word the syntactic information
+definitional material and references to 
+the contexts in which it has been used to define other words
+ such relations as class inclusion possession 
+and active or passive actions are used as definitional
+material  the resulting structure serves as a 
+powerful vehicle for research on the logic of question answering
+ examples of methods of inputting information 
+and answering simple english questions are given  an
+important conclusion is that although lisp and 
+other list processing languages are ideally suited for
+producing complex associative structures they 
+are inadequate vehicles for language processing on any
+large scale-at east until they can use auxiliary 
+memory as a continuous extension of core memory
+
+cacm march 1966
+
+simmons r f
+
+ca660316 jb march 3 1978  11:25 am

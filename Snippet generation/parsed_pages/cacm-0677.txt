@@ -1,0 +1,22 @@
+
+
+
+length of strings for a merge sort
+
+detailed statistics are given on the length
+of maximal sorted strings which result form the 
+first internal sort phase of a merge sort onto tapes
+ it is shown that the strings produced by an 
+alternating method ie one which produces ascending
+and descending strings alternately tend to be 
+only three-fourths as long as those in a method which produces
+only ascending strings contrary to statements 
+which have appeared previously in the literature  a
+slight modification of the read-backward polyphase 
+merge algorithm is therefore suggested
+
+cacm november 1963
+
+knuth d e
+
+ca631115 jb march 13 1978  3:31 pm

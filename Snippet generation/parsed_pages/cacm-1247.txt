@@ -1,0 +1,22 @@
+
+
+
+an operating environment for dynamic-recursive
+computer programming systems
+
+presented in this paper is a brief nontechnical
+introduction to oedipus a computer programming 
+system which can serve as an operating environment for
+dynamic and/or recursive programs and programming 
+systems  the available services include dynamic allocation
+of storage for contiguous blocks of arbitrary 
+size input and output for a hierarchy of data types
+a public pushdown list for automatic recursive 
+programming a rudimentary compiler for subroutine
+communication and bookkeeping and debugging aids
+
+cacm june 1965
+
+brown w s
+
+ca650608 jb march 6 1978  10:18 pm

@@ -1,0 +1,46 @@
+
+
+
+one way of estimating frequencies of jumps in a program
+
+for the segmentation of a program it is useful
+to have a reasonable estimation of the values 
+of sij where sij is the mean value of the number
+of jumps from the i-th instruction on to the j-th 
+instruction in the run time  in the cases where the
+sij are estimated directly the structure of the 
+whole program must be generally taken into account
+therefore it is very difficult for the programmer 
+and/or the translator to obtain a good estimation of
+the sij  it is easier to estimate not sij but 
+the quantities pijsijci/sumsij j1n where
+ci is an arbitrary positive constant for each 
+i  although the pij are for each i proportional to
+sij the estimation of pij is easier because 
+we must estimate only the probabilities of events
+where instruction i is executed after instruction 
+ii  this estimation can often be done without considering
+the structure of the whole program  in 
+the first part of the paper using the theory of the
+markov chains an algorithm for the computation 
+of the sij from the pij is found and some ways
+of obtaining estimates of the pij are given  in 
+the second part a variant of this algorithm is derived
+avoiding the necessity of computation involving 
+large matrices
+
+cacm july 1968
+
+kral j
+
+object program reduction supervisor calls decreasing
+jump frequencies estimation control transfers 
+estimation optimal program segmentation markov chain
+program correspondence program graph one-entry 
+subgraph locally estimated jump frequencies supervisor
+overhead decreasing program segmentation algorithm 
+jump frequencies program segmentation problem
+
+4.11 4.19 4.39 4.49
+
+ca680702 jb february 22 1978  3:05 pm

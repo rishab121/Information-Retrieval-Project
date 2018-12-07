@@ -1,0 +1,20 @@
+
+
+
+programming a duplex computer system
+
+this paper describes a method of duplex-computer
+programming that has been used with two computers 
+in a military defense system  the method combines special
+programs with a basic data processing program 
+package  the duplex operation gives the system greater
+reliability  after achieving the required level 
+of integration both computers do similar processing
+on the same inputs and continually cross-check the 
+intermediate and final results
+
+cacm november 1961
+
+dow j
+
+ca611116 jb march 15 1978  10:40 pm

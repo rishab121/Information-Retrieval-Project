@@ -1,0 +1,24 @@
+
+
+
+copyright aspects of computer usage
+
+this paper is concerned with the question of
+what constitutes infringement of a copyright on 
+a book or other nondramatic literary work when the work
+is fed into a computer and is indexed analyzed 
+partially reprinted or otherwise utilized by the computer
+to produce eye-readable output  the question 
+of copyrightability of programs and infringement of copyrights
+on programs is also discussed  the paper 
+is directed primarily to a discussion of the present
+law  some aspects of the proposed new copyright 
+law are also included  general recommendations are
+made with respect to the proposed revision of the 
+copyright law
+
+cacm october 1964
+
+lawlor r c
+
+ca641001 jb march 9 1978  4:59 pm

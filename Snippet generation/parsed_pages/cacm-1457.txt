@@ -1,0 +1,26 @@
+
+
+
+data manipulation and programming problems
+in automatic information retrieval
+
+automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures including linear text sparse matrices
+and tree or list structures  the main data 
+manipulations to be performed in automatic information
+systems are first briefly reviewed  a variety 
+of data representations which have been used to describe
+structured information are then examined and 
+the characteristics of various processing languages are
+outlined in the light of the procedures requiring 
+implementation  advantages of these programming languages
+for the retrieval application are examined 
+and suggestions are made for the design of programming
+facilities to aid in information retrieval
+
+cacm march 1966
+
+salton g
+
+ca660315 jb march 3 1978  11:35 am

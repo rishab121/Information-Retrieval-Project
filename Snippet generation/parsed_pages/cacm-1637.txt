@@ -1,0 +1,26 @@
+
+
+
+problems in the statistical analysis of simulation
+experiments the comparison of means and the 
+length of sample records
+
+research is continued into statistical analysis
+of simulation experiments containing autocorrelated 
+time series  it is shown how to estimate the lengths
+of sample records needed to use certain large sample 
+results in measuring stability  analogies between autocorrelated
+data and independent observations are 
+described  a way to test the difference of the mean
+of two experiments is suggested  it is shown how 
+the variance of the sample mean relates to the spectrum
+of the generating process and estimation of 
+the quantities of interest is described the results
+expand the possibilities of statistical spectral 
+analysis as applied to simulation experiments
+
+cacm february 1967
+
+fishman g s
+
+ca670205 jb february 28 1978  3:34 pm

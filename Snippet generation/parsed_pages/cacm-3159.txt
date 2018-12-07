@@ -1,0 +1,14 @@
+
+
+
+further remark on stably updating mean and standard deviation estimates
+
+cacm august 1979
+
+nelson l
+
+mean standard deviation
+
+5.5 5.19
+
+ca790805 db january 14 1980  9:38 am

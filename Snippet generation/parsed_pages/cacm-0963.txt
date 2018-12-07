@@ -1,0 +1,18 @@
+
+
+
+relative effects of central processor and input-output
+speeds upon throughput on the large computer
+
+presented in this paper is a technique for
+determining the relative effects of the internal 
+speed of the computer and the speed of the input-output
+units upon the overall speed of the system equations 
+are derived which permit the determination of these
+effects from hardware usage measurements
+
+cacm december 1964
+
+white p
+
+ca641208 jb march 9 1978  3:34 pm

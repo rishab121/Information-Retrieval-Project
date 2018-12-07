@@ -1,0 +1,24 @@
+
+
+
+parallel methods for integrating ordinary differential equations
+
+this paper is dedicated to the proposition that
+in order to take full advantage for real-time 
+computations of highly parallel computers as can be
+expected to be available in the near future much 
+of numerical analysis will have to be recast in a more
+parallel form  by this is meant that serial 
+algorithms ought to be replaced by algorithm which
+consist of several subtasks which can be computed 
+without knowledge of the results of the other subtasks 
+as an example a method is proposed for parallelizing 
+the numerical integration of an ordinary differential
+equation which process by all standard methods 
+is entirely serial
+
+cacm december 1964
+
+nievergelt j
+
+ca641221 jb march 9 1978  3:09 pm

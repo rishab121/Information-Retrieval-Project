@@ -1,0 +1,28 @@
+
+
+
+certification of programs for secure information flow
+
+this paper presents a certification mechanism
+for verifying the secure flow of information 
+through a program  because it exploits the properties
+of a lattice structure among security classes 
+the procedure is sufficiently simple that it can easily
+be included in the analysis phase of most existing 
+compilers  appropriate semantics are presented and
+proved correct  an important application is the 
+confinement problem the mechanism can prove that a program
+cannot cause supposedly nonconfidential results 
+to depend on confidential input data
+
+cacm july 1977
+
+denning d e
+denning p j
+
+protection security information flow program certification
+lattice confinement security classes
+
+4.3 4.35 5.24
+
+ca770707 jb december 28 1977  8:48 am

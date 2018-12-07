@@ -1,0 +1,21 @@
+
+
+
+on reversible subroutines and computers that run backwards
+
+a computer design is describe which permits
+subroutines to be executed backward as well as 
+forward either with their instructions unchanged or
+replaced with conjugate instructions  it is shown 
+that using this concept a number of new subroutine types
+can be developed with rather unusual properties 
+ since these properties are analogous to certain matrix
+operations a parallel nomenclature is suggested 
+for their classification
+
+cacm september 1965
+
+reily e d
+federighi f d
+
+ca650906 jb march 6 19787:33 pm

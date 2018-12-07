@@ -1,0 +1,32 @@
+
+
+
+the sl5 procedure mechanism
+
+this paper describes an integrated procedure
+mechanism that permits procedures to be used as 
+recursive functions or as coroutines  this integration
+is accomplished by treating procedures and their 
+activation records called environments as data objects
+and by decomposing procedure invocation into 
+three separate components at the source-language level
+ in addition argument binding is under the control 
+of the programmer permitting the definition of various
+methods of argument transmission in the source 
+language itself  the resulting procedure mechanismwhich
+is part of the sl5 programming language is 
+well suited to goal-oriented problems and to other problems
+that are more readily programmed by using 
+coroutines several examples are given 
+
+cacm may 1978
+
+hanson d
+griswold r
+
+procedures coroutines programming languages
+interpreters snobol 4 backtracking
+
+4.2 4.20 4.22 4.13
+
+ca780506 dh february 26 1979  1:36 pm

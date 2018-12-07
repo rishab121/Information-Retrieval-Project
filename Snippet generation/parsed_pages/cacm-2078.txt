@@ -1,0 +1,24 @@
+
+
+
+representations for space planning
+
+problems involving the arrangement of objects in two 
+or three-space where the objective function primarily consists
+of derivatives of the distance between objects or their arrangement
+are called space planning problems  the representational
+requirements for this problem area are defined and compared with current
+computer graphic languages  four alternative data structures
+that allow automated space planning are described and compared
+
+cacm april 1970
+
+eastman c m
+
+automated design data structures computer graphics computer-aided
+design engineering design architectural design robots
+
+3.20 3.2
+2 3.26 3.41 3.63
+
+ca700406 jb february 13 1978  3:03 pm

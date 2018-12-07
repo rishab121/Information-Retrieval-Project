@@ -1,0 +1,34 @@
+
+
+
+representation of contours ad regions for efficient computer search
+
+a novel computer-searchable representation
+for the three basic pictorial features contour 
+maps region coverage and line structures is described
+ the representation which has practical storage 
+requirements provides a rapid mean of searching large
+files for data associated with geometric position 
+as well as with attribute value  an application of this
+representation to handling terrain information 
+illustrates its utility  the algebraic properties
+of the data structure make it computationally easy 
+to determine whether a point lies within a closed boundary
+compute the area contained by a closed boundary 
+generate the closed boundary representing the union or
+intersection of two closed boundaries and determine 
+the neighboring boundaries to a point and the
+minimum distances between them and the point
+
+cacm february 1973
+
+merrill r d
+
+contour map representation region boundary representation
+computer-search-able structure graphic 
+data retrieval graphic language two-dimensional
+patterns computer graphics graphic display
+
+3.21 3.23 3.79 6.35
+
+ca730201 jb january 24 1978  3:30 pm

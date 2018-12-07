@@ -1,0 +1,25 @@
+
+
+
+new upper bounds for selection
+
+the worst-case minimum number of comparisons
+complexity vin of the i-th selection problem 
+is considered  a new upper bound for vin improves the
+bound given by the standard hadian-sobel algorithm 
+by a generalization of the kirkpatrick-hadian-sobel
+algorithm and extends kirkpatricks method to a 
+much wider range of application  this generalization
+compares favorably with a recent algorithm by hyafil
+
+cacm september 1976
+
+yap c k
+
+selection problem algorithms comparison problems
+concrete computational complexity upper bounds 
+worst-case analysis
+
+5.25 5.31
+
+ca760902 jb january 4 1978  9:48 am

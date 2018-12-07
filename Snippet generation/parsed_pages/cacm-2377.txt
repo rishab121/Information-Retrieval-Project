@@ -1,0 +1,35 @@
+
+
+
+a hardware architecture for implementing protection rings
+
+protection of computations and information
+is an important aspect of a computer utility  in 
+a system which uses segmentation as a memory addressing
+scheme protection can be achieved in part by 
+associating concentric rings of decreasing access privilege
+with a computation  this paper describes 
+hardware processor mechanisms for implementing these rings
+of protection  the mechanisms for implementing 
+these rings of protection the mechanisms allow cross-ring
+calls and subsequent returns to occur without 
+trapping to the supervisor  automatic hardware validation
+of references across ring boundaries is also 
+performed  thus a call by a user procedure to a protected
+subsystem including the supervisor is identical 
+to a call to a companion user procedure  the mechanisms
+of passing and referencing arguments are the 
+same in both cases as well
+
+cacm march 1972
+
+schroeder m d
+saltzer j h
+
+protection protection rings protection hardware
+access control hardware access control computer 
+utility time-sharing shared information segmentation virtual memory multics
+
+4.32 6.21
+
+ca720304 jb january 31 1978  2:58 pm

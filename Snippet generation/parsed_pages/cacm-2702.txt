@@ -1,0 +1,37 @@
+
+
+
+on the complexity of lrk testing
+
+the problem of determining whether an arbitrary
+context-free grammar is a member of some easily 
+parsed subclass of grammars such as the lrk grammars
+is considered  the time complexity of this problem 
+is analyzed both when k is considered to be a fixed
+integer and when k is considered to be a parameter 
+of the test  in the first case it is shown that for
+every k there exists an onk+2 algorithm for 
+testing the lrk property where n is the size of the
+grammar in question  on the other hand if both 
+k and the subject grammar are problem parameters then
+the complexity of the problem depends very strongly 
+on the representation chosen for k  more specifically
+it is shown that this problem is np-complete 
+when k is expressed in unary  when k is expressed in
+binary the problem is complete for nondeterministic 
+exponential time  these results carry over to many
+other parameterized classes of grammars such as 
+the llk strong llk slrk lck and strong lck grammars
+
+cacm december 1975
+
+hunt h b iii
+szymanski t g
+ullman j d
+
+computational complexity context-free grammars
+parsing lrk grammars np-complete problems
+
+4.12 5.23 5.25
+
+ca751205 jb january 5 1978  4:28 pm

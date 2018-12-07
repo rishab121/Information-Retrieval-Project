@@ -1,0 +1,30 @@
+
+
+
+computer photocomposition of technical text
+
+in computer assisted typesetting by means of
+photocomposition special problems arise in highly 
+technical material such as mathematical formulas  new
+solutions to several of these problems have been 
+devised in the information system of the american institute
+of physics  they include the representation 
+of special characters foreign alphabets mathematical
+symbols etc not available on input keyboards 
+or on the photocomposer the generation of such symbols
+eg by overprinting the precise positioning 
+of accent marks floating diacritics line breaks
+ie words or formulas placed partly at the end of 
+one line and partly at the beginning of the next
+and certain aspects of error correction
+
+cacm june 1973
+
+alt f l
+yuni kirk j
+
+photocomposition typesetting printing graphics text processing
+
+3.79 3.82
+
+ca730614 jb january 23 1978  1:30 pm

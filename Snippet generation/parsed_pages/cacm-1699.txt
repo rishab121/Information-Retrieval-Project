@@ -1,0 +1,40 @@
+
+
+
+experimental evaluation of information
+retrieval through a teletypewriter
+
+experiments designed to evaluate the capabilities
+of mechanized information retrieval systems 
+with emphasis on interactive man-machine language and on
+some of the mechanical and psychological limitations 
+in their design were conducted at the moore school information
+systems laboratory  the basic assumption 
+of the research is that an information retrieval system
+that provides for man-machine dialogue at a remote 
+inquiry terminal should provide a searcher with many
+of the tools which would be available to him were 
+he actually performing his search at a library or repository
+of documents  factors involved in evaluation 
+of such a system include ease of use learning time and
+effectiveness of actual retrieval  three experiments 
+and the conclusions resulting from them are detailed
+
+cacm september 1968
+
+rubinoff m
+bergman s
+franks w
+rubinoff e
+
+information retrieval testing  information system
+evaluation experimental document retrieval 
+document retrieval document perusal man-machine communication
+remote console communication teletypewriter 
+communication remote terminal communication retrieval
+command language symbolic command language 
+interactive systems user learning factors on-line searching
+
+3.72 3.74 3.79 3.81
+
+ca680902 jb february 22 1978  9:30 am

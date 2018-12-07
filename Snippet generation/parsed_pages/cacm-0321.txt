@@ -1,0 +1,35 @@
+
+
+
+algol 60 confidential
+
+the algol 60 report when first encountered
+seems to describe a very complex language which 
+will be difficult to learn  the metalinguistic formulae
+admirably serve the purpose of precisely specifying 
+a language but they are certainly not very readable
+for a beginner  however experience has shown that 
+once the report is explained it is in fact easy to learn
+algol and to write algorithms in it  the language 
+is so general and powerful it can handle an enormous
+class of problems  it is not hard to learn those 
+parts of algol present in other compiler languages how
+to write assignment and go to and for statements 
+etc  indeed a lot of the unnecessary restrictions
+imposed by other compiling languages have finally 
+been lifted  but algol also allows many unobvious things
+to be written as we will see later and herein 
+lies a problem algol seems to have become too general
+ so many restrictions have been lifted that a 
+lot of technical details crop up which are hard to learn
+and to use correctly  in this paper some of 
+the more obscure features of the language are considered
+and their usefulness is discussed  remarks 
+are based on the authors interpretations of the algol 60 report
+
+cacm june 1961
+
+knuth d e
+merner j n
+
+ca610604 jb march 16 1978  10:48 pm

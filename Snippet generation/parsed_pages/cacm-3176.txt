@@ -1,0 +1,25 @@
+
+
+
+storing a sparse table
+
+the problem of storing and searching large sparse tables is ubiquitous in 
+computer science  the standard technique for storing such tables is
+hashing but hashing has poor worst-case performance  we propose
+a good worst-case method for storing a static table of n entries
+each an integer between 0 and n  1  the method requires 0n w
+words of storage and allows ologn n access time  although our method
+is a little complicated to use in practice our analysis shows
+why a simpler algorithm used for compressing lr parsing tables works so well
+
+cacm november 1979
+
+tarjan r
+yao a
+
+gaussian elimination parsing searching
+sparse matrix table compression table lookup
+
+3.74 4.12 4.34 5.25
+
+ca791104 db january 23 1980  11:24 am

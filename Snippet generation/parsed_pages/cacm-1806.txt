@@ -1,0 +1,30 @@
+
+
+
+on the downhill method
+
+the downhill method is a numerical method for
+solving complex equations fz  0 on which the 
+only restriction is that the function w  fz must
+be analytical  an introduction to this method is 
+given and a critical review of relating literature is
+presented  although in theory the method always 
+converges it is shown that a fundamental dilemma exists
+which may cause a breakdown in practical applications 
+ to avoid this difficulty and to improve the rate of
+convergence toward a root some modifications of 
+the original method are proposed and a program fortran
+based on the modified method is given in algorithm 
+365  some numerical examples are included
+
+cacm december 1969
+
+bach h
+
+downhill method complex relaxation method complex
+iteration complex equation transcendental 
+complex equation algebraic complex equation
+
+5.15
+
+ca691206 jb february 15 1978  2:54 pm

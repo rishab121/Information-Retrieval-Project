@@ -1,0 +1,28 @@
+
+
+
+a simple automatic derivative evaluation program
+
+a procedure for automatic evaluation of total/partial
+derivatives of arbitrary algebraic functions 
+is presented  the technique permits computation of
+numerical values of derivatives without developing 
+analytical expressions for the derivatives  the key
+to the method is the decomposition of the given 
+function by introduction of intermediate variables
+into a series of elementary functional steps  a 
+library of elementary function subroutines is provided
+for the automatic evaluation and differentiation 
+of these new variables  the final step in this process
+produces the desired functions derivative  
+the main feature of this approach is its simplicity
+ it can be used as a quick-reaction tool where the 
+derivation of analytical derivatives is laborious and
+also as a debugging tool for programs which contain 
+derivatives
+
+cacm august 1964
+
+wengert r e
+
+ca640801 jb march 9 1978  7:38 pm

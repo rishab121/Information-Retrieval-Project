@@ -1,0 +1,21 @@
+
+
+
+symbolic notations for statistical tables
+and an approach towards automatic system design
+
+the preparation of statistical tables is an
+important function of the data processing systems 
+of some organizations and a symbolic notation for the
+description of tables has been shown to be a useful 
+aid to documentation  such a notation also provides
+the first step towards making automatic a tedious 
+and time-consuming part of system design and programming
+in many computer applications  one notation 
+is described and suggestions are made for the implementation of the larger goal
+
+cacm june 1965
+
+smith b w
+
+ca650603 jb march 7 1978  12:41 pm

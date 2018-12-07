@@ -1,0 +1,16 @@
+
+
+
+general random number generator algorithm r370
+
+cacm june 1972
+
+proll l g
+
+random number generator probability density function
+transformation cumulative distribution 
+function
+
+5.13 5.5
+
+ca720611 jb january 30 1978  4:09 pm

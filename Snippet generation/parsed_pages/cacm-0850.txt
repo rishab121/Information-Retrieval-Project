@@ -1,0 +1,19 @@
+
+
+
+conversion reconversion and comparison
+techniques in variable-length sorting
+
+the logic is described for converting highly
+variable input records into a format that can 
+be easily and efficiently processed by a sorting program
+ the internal record formats are discussed 
+in relation to 1 their conversion from input formats
+2 their reconversion to output formats and 
+3 comparison techniques between internal formats
+
+cacm may 1963
+
+waks d j
+
+ca630517 jb march 14 1978  10:52 am

@@ -1,0 +1,22 @@
+
+
+
+debug-an extension to current on-line debugging techniques
+
+a method of on-linr assembly-language debugging
+which greatly simplifies several of the bookkeeping 
+tasks characteristically associated with that process
+has been developed and implemented in a program 
+for the univac m-460 computer at air force cambridge research
+laboratories  with this program an online 
+user may insert or delete in symbolic assembly language
+any number of lines at any point of his previously 
+assembled program in core with the remainder
+of the program being relocated appropriately
+
+cacm may 1965
+
+evans t g
+darley d l
+
+ca650514 jb march 7 1978  12:58 pm

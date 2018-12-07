@@ -1,0 +1,17 @@
+
+
+
+associated legendre functions of the first kind
+for real or imaginary arguments algorithm 47 
+s16
+
+cacm november 1969
+
+cobb s m
+
+legendre function associated legendre
+function real or imaginary arguments
+
+5.12
+
+ca691112 jb february 15 1978  12:11 pm

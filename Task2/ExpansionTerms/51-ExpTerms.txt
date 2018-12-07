@@ -1,10 +1,10 @@
 time
-memory
 system
-cacm
+memory
 execution
+cacm
 processing
-1978
 operating
 algorithm
+1978
 processor

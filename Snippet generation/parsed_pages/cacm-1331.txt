@@ -1,0 +1,22 @@
+
+
+
+code structures for protection and manipulation of variable-length items
+
+when items are made up of a variable number
+of characters each containing the same number 
+of bits certain control information partition symbols
+is inserted to mark their separations  since 
+errors in identification of these control characters
+can lead to serious trouble methods of protecting 
+these symbols are indicated  a 6-bit code assignment
+of alphanumeric characters for fixed word-length 
+computers is given and its suitability for error detection
+and variable-length item manipulation is shown 
+ also indicated is its flexibility during certain arithmetic operations
+
+cacm january 1965
+
+ramamoorthy c v
+
+ca650106 jb march 8 1978  2:48 pm

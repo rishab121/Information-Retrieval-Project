@@ -1,0 +1,15 @@
+
+
+
+on a storage mapping function for data structures
+
+some basic facts about certain data structures
+are reviewed and an efficient algorithm is presented 
+for constructing a storage mapping function for
+a structure from the structures definition
+
+cacm may 1966
+
+deuel p
+
+ca660506 jb march 3 1978  9:58 am

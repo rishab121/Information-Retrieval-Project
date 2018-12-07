@@ -1,0 +1,18 @@
+
+
+
+design of a separable transition-diagram compiler
+
+a cobol compiler design is presented which is
+compact enough to permit rapid one-pass compilation 
+of a large subset of cobol on a moderately large computer
+ versions of the same compiler for smaller 
+machines require only two working tapes plus a compiler
+tape  the methods given are largely applicable 
+to the construction of algol compilers
+
+cacm july 1963
+
+conway m e
+
+ca630725 jb march 14 1978  8:11 am

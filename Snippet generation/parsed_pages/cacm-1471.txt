@@ -1,0 +1,22 @@
+
+
+
+programming semantics for multiprogrammed computations
+
+the semantics are defined for a number of meta-instructions
+which perform operation essential 
+to the writing of programs in multiprogrammed computer
+systems  these meta-instructions relate to parallel 
+processing protection of separate computations program
+debugging and the sharing among users of memory 
+segments and other computing objects the names of which
+are hierarchically structured  the language 
+sophistication contemplated is midway between an assembly
+language and an advanced algebraic language
+
+cacm march 1966
+
+dennisj b
+vanhorn e c
+
+ca660301 jb march 3 1978  2:25 pm

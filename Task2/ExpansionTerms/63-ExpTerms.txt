@@ -1,10 +1,10 @@
 processing
-cacm
 time
-1978
+cacm
 jb
+1978
 set
-presented
 solution
-array
-list
+presented
+algorithm
+zeros

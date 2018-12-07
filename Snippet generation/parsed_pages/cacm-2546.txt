@@ -1,0 +1,31 @@
+
+
+
+the use of grammatical inference for designing programming languages
+
+both in designing a new programming language
+and in extending an existing language the designer 
+is faced with the problem of deriving a natural grammar
+for the language  we are proposing an interactive 
+approach to the grammar design problem wherein the designer
+presents a sample of sentences and structures 
+as input to a grammatical inference algorithm  the algorithm
+then constructs a grammar which is a reasonable 
+generalization of the examples submitted by the designer
+ the implementation is presently restricted 
+to a subclass of operator precedence grammars but
+a second algorithm is outlined which applies to a 
+larger class of context-free grammars
+
+cacm february 1973
+
+crespi-reghizzi s
+melkanoff m a
+lichten l
+
+grammar design language definition inference
+identification in the limit extensible languages
+
+3.61 4.2 5.23
+
+ca730202 jb january 24 1978  3:20 pm

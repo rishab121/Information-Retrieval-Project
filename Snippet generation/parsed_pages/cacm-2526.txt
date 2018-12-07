@@ -1,0 +1,34 @@
+
+
+
+asymmetric memory hierarchies
+
+ a study is presented of some of the system
+implications of memory hierarchies in which the 
+backing or secondary store has a very small read time
+relative of both the time required for writing 
+and to the read time of conventional backing storage
+devices several analytic models are introduced 
+and it is shown that such hierarchies may operate in
+ways which differ from those of more conventional 
+hierarchies  in particular it is shown that it may not
+be necessary to multiprogram in such a situation 
+ in the past backing storage devices have been roughly
+symmetric with respect to their read and write 
+times  this situation may not continue as several
+devices are currently under development which may 
+have a very small read-time/write-time ratio  this study
+places particular emphasis on one such system-the 
+rca read/write holographic optical memory
+
+cacm april 1973
+
+williams j
+
+asymmetric memory hierarchy demand paging holographic
+optical memory memory device memory hierarchy 
+paging storage device storage hierarchy virtual memory
+
+4.3 4.32 5.2 6.2 6.34
+
+ca730402 jb january 24 1978  10:15 am

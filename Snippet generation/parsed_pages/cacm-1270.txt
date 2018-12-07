@@ -1,0 +1,20 @@
+
+
+
+on algol education automatic grading programs
+
+two algol grader programs are presented for
+the computer evaluation of student algol programs 
+one is for a beginners program it furnishes random data
+and checks answers the other provides a searching 
+test of the reliability and efficiency of an integration
+procedure  there is a statement of the essential 
+properties of a computer system in order that
+grader programs can be effectively used
+
+cacm may 1965
+
+forsythe g e
+wirth n
+
+ca650501 jb march 7 1978  3:16 pm

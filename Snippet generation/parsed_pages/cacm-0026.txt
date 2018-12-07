@@ -1,0 +1,10 @@
+
+
+
+a subroutine method for calculating logarithms
+
+cacm may 1958
+
+bemer r w
+
+ca580502 jb march 22 1978  9:16 pm

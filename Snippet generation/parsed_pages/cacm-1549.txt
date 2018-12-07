@@ -1,0 +1,24 @@
+
+
+
+an efficient machine-independent procedure for
+garbage collection in various list structures
+
+a method for returning registers to the free
+list is an essential part of any list processing 
+system  in this paper past solutions of the recovery
+problem are reviewed and compared  a new algorithm 
+is presented which offers significant advantages of speed
+and storage utilization  the routine for implementing 
+this algorithm can be written in the list language with
+which it is to be used thus insuring a degree 
+of machine independence  finally the application of the
+algorithm to a number of different list structures 
+appearing in the literature is indicated
+
+cacm august 1967
+
+schorr h
+waite w m
+
+ca670806 jb february 27 1978  4:28 pm

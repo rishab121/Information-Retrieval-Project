@@ -1,0 +1,32 @@
+
+
+
+natural language question-answering systems 1969
+
+recent experiments in programming natural
+language question-answering systems are reviewed
+to summarize the methods that have been developed for syntactic semantic
+and logical analysis of english strings  it is concluded
+that at least minimally effective techniques have been devised for
+answering questions from natural language subsets in small scale
+experimental systems and that a useful paradigm has evolved to guide
+research efforts in the field  current approaches to semantic
+analysis and logical inference are seen to be effective beginnings
+but of questionable generality with respect either to subtle aspects of 
+meaning or to applications over large subsets of english 
+generalizing from current small-scale experiments to language-processing 
+systems based on dictionaries with thousands of entries-with
+correspondingly large grammars and semantic systems-may entail
+a new order of complexity and require the invention and development
+of entirely different approaches to semantic analysis and questions answering
+
+cacm january 1970
+
+simmons r f
+
+question-answering natural language artificial intelligencelanguage
+processing fact retrieval semantics 
+
+3.6 3.64 3.7 3.74
+
+ca700104 jb february 14 1978  2:10 pm

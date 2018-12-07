@@ -1,0 +1,25 @@
+
+
+
+program development by stepwise refinement
+
+the creative activity of programming-to be distinguished
+from coding-is usually taught by examples 
+serving to exhibit certain techniques  it is here considered
+as a sequence of design decisions concerning 
+the decomposition of tasks into subtasks and of data
+into data structures  the process of successive 
+refinement of specifications is illustrated by a short
+but nontrivial example from which a number of 
+conclusions are drawn regarding the art and the instruction of programming
+
+cacm april 1971
+
+wirth n
+
+education in programming programming
+techniques stepwise program construction
+
+1.50 4.0
+
+ca710401 jb february 3 1978  4:14 pm

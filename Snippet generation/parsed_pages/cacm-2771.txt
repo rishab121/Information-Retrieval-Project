@@ -1,0 +1,28 @@
+
+
+
+the synthesis of solids bounded by many faces
+
+a technique is presented which allows a class
+of solid objects to be synthesized and stored 
+using a computer  synthesis begins with primitive solids
+like a cube wedge or cylinder  any solid 
+can be moved scaled or rotated  solids may also be
+added together or subtracted  two algorithms to 
+perform addition are described  for practical designers
+the technique has the advantage that operations 
+are concise readily composed and are given in terms
+of easily imagined solidsuite short sequences 
+of operations suffice to build up complex solids bounded by many faces
+
+cacm april 1975
+
+braid i c
+
+computational geometry computer-aided design
+graphics machined components polyhedra shape 
+synthesis three-dimensional modeling
+
+3.2 8.2
+
+ca750406 jb january 9 1978  3:59 pm

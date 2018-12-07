@@ -1,0 +1,45 @@
+
+
+
+formal verification of parallel programs
+
+two formal models for parallel computation
+are presented an abstract conceptual model and 
+a parallel-program model  the former model does not
+distinguish between control and data states  the 
+latter model includes the capability for the representation
+of an infinite set of control states by allowing 
+there to be arbitrarily many instruction pointers or
+processes executing the program  an induction 
+principle is presented which treats the control and
+data state sets on the same ground  through the 
+use of place variables it is observed that certain
+correctness conditions can be expressed without 
+enumeration of the set of all possible control states
+ examples are presented in which the induction 
+principle is used to demonstrate proofs of mutual exclusion
+ it is shown that assertions-oriented proof 
+methods are special cases of the induction principle
+a special case of the assertions method which 
+is called parallel place assertions is shown to be
+incomplete  a formalization of deadlock is then 
+presented the concept of a norm is introduced which
+yields an extension to the deadlock problem 
+of floyds technique for proving termination  also discussed
+is an extension of the program model which 
+allows each process to have its own local variables
+and permits shared global variables  correctness 
+of certain forms of implementation is also discussed
+ an appendix is included which relates this work 
+to previous work on the satisfiability of certain logical formulas
+
+cacm july 1976
+
+keller r m
+
+parallel program correctness verification
+assertions deadlock mutual exclusion petrinet
+
+4.6 5.2 6.9 8.1
+
+ca760702 jb january 4 1978  1:20 pm

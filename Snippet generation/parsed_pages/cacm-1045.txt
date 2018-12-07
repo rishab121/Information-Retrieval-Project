@@ -1,0 +1,17 @@
+
+
+
+programming analysis of variance by sequences
+of operators and isomorphic mappings
+
+a special operator calculus developed by hartley
+in 1956 together with a new mapping scheme 
+has been found to be efficient in programming analysis
+of variance for multifactor experiments the operator 
+calculus and the mapping scheme are described in detail
+
+cacm july 1964
+
+peng k c
+
+ca640702 jb march 9 1978  8:30 pm

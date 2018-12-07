@@ -1,0 +1,17 @@
+
+
+
+a comparison of disks and tapes
+
+the principal characteristics of current magnetic
+disks and tape units are summarized and compared 
+ some of the characteristics of disk files are illustrated
+in a sorting example and compared to a tapesort 
+ the conclusion is presented that disk files are competitive
+to tapes in some important applications
+
+cacm october 1963
+
+hess h
+
+ca631031 jb march 13 1978  4:21 pm

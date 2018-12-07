@@ -1,0 +1,20 @@
+
+
+
+a sorting problem and its complexity
+
+a technique for proving min-max norms of sorting
+algorithms is given  one new algorithm for 
+finding the minimum and maximum elements of a set with
+fewest comparisons is proved optimal with this 
+technique
+
+cacm june 1972
+
+pohl i
+
+sorting computational complexity computational combinatorics
+
+5.29 5.31
+
+ca720608 jb january 30 1978  4:15 pm

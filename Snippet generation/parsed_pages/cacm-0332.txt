@@ -1,0 +1,18 @@
+
+
+
+an indirect chaining method for addressing on secondary keys
+
+methods for entering random access files on
+the basis of one key are briefly surveyed  the 
+widely used chaining method based on a pseudo-random
+key transformation is reviewed in more detail 
+ an efficient generalization of the chaining method
+which permits recovery on additional keys is then 
+presented
+
+cacm may 1961
+
+johnson l r
+
+ca610502 jb march 16 1978  11:13 pm

@@ -1,0 +1,30 @@
+
+
+
+implementation of high level language machine
+
+computing machines which directly execute
+the statements of a high level language have been 
+proposed in the past  this report describes the actual
+implementation of such a machine it is a computer 
+whose machine language is apl  the machine is fully
+operational and correctly executes almost all 
+of the apl operations on scalars vectors and arrays
+ the machine automatically allocates memory executes 
+statements calls functions converts numbers from one
+type to another checks subscripts and automatically 
+detects many types of programmer errors
+
+cacm april 1973
+
+hassitt a
+lageschulte j w
+lyon l e
+
+computer architecture high level language machine
+emulators microprogramming interpreters 
+execution speed apl
+
+4.1 6.2
+
+ca730401 jb january 24 1978  10:21 am

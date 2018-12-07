@@ -1,0 +1,22 @@
+
+
+
+on a divide-and-correct method for variable precision division
+
+described in this paper is a divide-and-correct
+method for variable precision division in digital 
+computers  unlike the earlier methods of stein and
+pope the present method uses a suitably rounded 
+form of the normalized divisor for getting an estimate
+of the quotient characters  this results in a 
+correction of at most plus or minus one to the estimate
+to obtain the exact quotient character  it 
+is believed that this method will be widely applicable
+for division operations in variable word-length 
+character-oriented machines
+
+cacm march 1965
+
+krishnamurthy e v
+
+ca650315jb march 7 1978  4:16 pm

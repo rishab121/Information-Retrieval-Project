@@ -1,0 +1,37 @@
+
+
+
+the design and implementation of a table driven
+interactive diagnostic programming system
+
+caps is a highly interactive diagnostic compiler/interpreter
+that allows beginning programmers 
+to prepare debug and execute fairly simple programs
+at a graphics display terminal  complete syntax 
+checking and most semantic analysis is performed as
+the program is entered and as it is subsequently
+edited  analysis is performed character by character
+ the most remarkable feature of caps is its ability 
+to automatically diagnose errors both at compile time
+and at run time  errors are not automatically 
+corrected  instead caps interacts with the student to help
+him find the cause of his error  most components 
+of caps are table driven both to reduce the space needed
+for implementation and to increase the flexibility 
+of the multilingual system  over 500 students have used
+caps to learn fortran pl/i or cobolin conjunction 
+with a computer assisted course on introductory computer science
+
+cacm november 1976
+
+wilcox t r
+davis a m
+tindall m h
+
+interactive programming table driven compilers
+error correction interpreters debugging computer 
+assisted instruction computer science education
+
+1.5 4.12 4.13 4.42 8.2
+
+ca761103 jb january 3 1978  3:37 pm

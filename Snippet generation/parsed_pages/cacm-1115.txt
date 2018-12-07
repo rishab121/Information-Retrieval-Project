@@ -1,0 +1,16 @@
+
+
+
+randomized binary searching with tree structure
+
+a more efficient method of using tree structures
+is proposed which utilizers both plus and 
+minus branches in the search path  very significant
+gains result when the search key includes alphabetic 
+characters
+
+cacm march 1964
+
+clampett jr h a
+
+ca640317 jb march 10 1978  2:30 am

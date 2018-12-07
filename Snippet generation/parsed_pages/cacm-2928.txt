@@ -1,0 +1,32 @@
+
+
+
+hardware estimation of a process primary memory requirements
+
+a minor hardware extension to the honeywell
+6180 processor is demonstrated to allow the primary 
+memory requirements of a process in multics to be approximated
+ the additional hardware required for 
+this estimate to be computed consists of a program accessible
+register containing the miss rate of the 
+associative memory used for page table words  this
+primary memory requirement estimate was employed 
+in an experimental version of multics to control the
+level of multiprogramming in the system and to bill 
+for memory usage  the resulting systems tuning parameters
+display configuration insensitivity and
+it is conjectured that the system would also track shifts
+in the referencing characteristics of its workload 
+and keep the system in tune
+
+cacm september 1977
+
+giffor d k
+
+primary memory requirement virtual memory level
+of multiprogramming associative memory working 
+set resource allocation lru stack model referencing characteristics
+
+4.32 4.35 4.6 6.36
+
+ca770906 jb december 27 1977  1:05 pm

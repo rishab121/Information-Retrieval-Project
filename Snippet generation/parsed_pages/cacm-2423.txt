@@ -1,0 +1,33 @@
+
+
+
+a parser-generating system for constructing compressed compilers
+
+this paper describes a parser-generating system
+pgs currently in use on the cdc-6500 computer 
+at purdue university  the pgs is a fortran-coded compiler
+ in the input translation grammar each bnf 
+syntactic rule corresponds to a possibly empty code
+generator realizable as an assembly language 
+fortran or algol subroutine that is called whenever
+that syntactic rule is applied in the parse of a 
+program  typical one-pass compilers constructed by the
+pgs translate source programs at speeds approaching 
+14,000 cards per minute  for an xpl compiler the parser
+program and its tables currently occupy 288 
+words of 60-bit core memory of which 140 words are parsing
+table entries and 82 words are links to code 
+generators
+
+cacm november 1973
+
+mickunas m d
+schneider v b
+
+parser generators translator writing systems
+syntactic analysis normal-form grammars pushdown 
+automata translation grammars translator optimization compression algorithm
+
+4.12 5.22 5.23
+
+ca731103 jb january 20 197810:41 am

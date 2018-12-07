@@ -1,0 +1,30 @@
+
+
+
+a correspondence between algol 60 and churchs lambda-notation part i
+
+this paper describes how some of the semantics
+of algol 60 can be formalized by establishing 
+a correspondence between expressions of algol 60 and expressions
+in a modified form of churchs l-notation 
+ first a model for computer languages and compute behavior
+is described based on the notions of functional 
+application and functional abstraction but also having
+analogues for imperative language features  
+then this model is used as an abstract object language
+into which algol 60 is mapped  many of algol 
+60s features emerge as particular arrangements of
+a small number of structural rules suggesting new 
+classifications and generalizations  the correspondence
+is first described informally mainly by illustrations 
+ the second part of the paper gives a formal description
+ie an abstract compiler into the abstract 
+objct language  this is itself presented in a purely
+functional notation that is one using only 
+application and abstraction
+
+cacm february 1965
+
+landin p j
+
+ca650201 jb march 7 1978  11:26 pm

@@ -1,0 +1,23 @@
+
+
+
+ditran-a compiler emphasizing diagnostics
+
+ditran diagnostic fortran is an implementation
+of asa basic fortran with rather extensive 
+error checking capabilities both at compilation time
+and during execution of a program  the need for 
+improved diagnostic capabilities and some objectives
+to be met by any compiler are discussed  attention 
+is given to the design and implementation of ditran
+and the particular techniques employed to provide 
+the diagnostic features  the handling of error messages
+by a general macro approach is described  special 
+features which provide teaching aids for use by instructors are noted
+
+cacm january 1967
+
+moulton p g
+muller m e
+
+ca670109 jb february 28 1978  4:30 pm

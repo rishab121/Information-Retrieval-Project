@@ -1,0 +1,15 @@
+
+
+
+a prime number generator using the
+treesort principle algorithm 356 a1
+
+cacm october 1969
+
+singleton r c
+
+prime numbers number theory sorting
+
+3.15 5.30 5.31
+
+ca691005 jb february 15 1978  3:25 pm

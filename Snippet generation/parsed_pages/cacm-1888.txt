@@ -1,0 +1,28 @@
+
+
+
+spline function methods for nonlinear boundary-value problems
+
+the solution of the nonlinear differential equation
+yfxyy with two-point boundary conditions 
+is approximated by a quintic or cubic spline function
+yx  the method is well suited to nonuniform 
+mesh size and dynamic mesh size allocation  for uniform
+mesh size h the error in the quintic spline 
+yx is oh^4 with typical error one-third that from
+numerovs method  requiring the differential 
+equation to be satisfied at the mesh points results
+in a set of difference equations which are block 
+tridiagonal and so are easily solved by relaxation or other standard methods
+
+cacm june 1969
+
+blue j l
+
+boundary value problems differential equations
+finite differences functional approximation 
+iterative methods nonlinear equations spline functions
+
+5.13 5.15 5.17
+
+ca690605 jb february 17 1978  11:07 am

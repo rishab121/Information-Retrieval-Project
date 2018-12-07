@@ -1,0 +1,14 @@
+
+
+
+mutual recursion in algol 60 using restricted compilers
+
+cacm january 1973
+
+atkinsm s
+
+algol 60 mutual recursion compiler restrictions
+
+4.12 4.22
+
+ca730110 jb january 24 1978  3:46 pm

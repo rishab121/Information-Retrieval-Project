@@ -1,0 +1,25 @@
+
+
+
+a formalism for translator interactions
+
+a formalism is presented for describing the actions
+of processors for programming languages-compilers
+interpreters assemblers-and their interactions in complex systems
+such as compiler-compilers or extendible languages
+the formalism here might be used to define and answer such a
+question as can one do bootstrapping using a meta-compiler 
+whose metaphase is interpretive  in addition an algorithm
+is presented for deciding whether or not a given system can
+be produced from a given set of component processors
+
+cacm october 1970
+
+earley j
+
+translator compiler interpreter bootstrapping
+language processor compiler-compiler
+
+4.1 5.29
+
+ca701002 jb february 10 1978  9:36 am

@@ -1,0 +1,28 @@
+
+
+
+a language for treating geometric patterns in a two-dimensional space
+
+in this paper cadep a problem-oriented language
+for positioning geometric patterns in a two-dimensional 
+space is presented  although the language has been
+specifically designed for the automatic generation 
+of integrated circuit masks it turns out to be well
+suited also for such other placement problems as 
+architecture design urban planning logical and block
+diagram representation  the design criteria 
+the structure and the specific features of cadep are illustrated
+
+cacm january 1971
+
+bracchi g
+ferrari d
+
+graphic language problem-oriented language two-dimensional
+patterns graphic display fortran 
+extension layout problems integrated circuit
+architecture design urban planning
+
+3.23 3.24 3.25 4.22
+
+ca710104 jb february 8 1978  11:17 am

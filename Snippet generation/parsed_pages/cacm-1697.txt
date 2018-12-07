@@ -1,0 +1,32 @@
+
+
+
+graphical input/output of nonstandard characters
+
+a system developed at harvard for graphically
+inputting and outputting nonstandard characters 
+on a computer is printed  in principle the system
+can deal with any orthography although at present 
+it is limited to 4000 chinese characters and some mathematical
+symbols  new characters can be added 
+to the repertoire of the system by graphical input on
+a display scope  text inputting is accomplished 
+via a display scope or a rand tablet  the organization
+and operation of the current system are described 
+and a discussion of the relative merits of such a system
+is given  illustrations of the computer input 
+and output of chinese characters are included  
+
+cacm september 1968
+
+hayashl h
+duncan s
+kuno s
+
+chinese characters input/output orthography rand
+tablet pdp-1 automatic typesetting man-machine 
+communication computer graphics graphical input on-line editing
+
+3.40 4.41
+
+ca680904 jb february 22 1978  9:13 am

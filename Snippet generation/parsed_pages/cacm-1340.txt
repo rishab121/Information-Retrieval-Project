@@ -1,0 +1,15 @@
+
+
+
+multiplexing of slow peripherals
+
+the philosophy of a monitor which allows slow
+output devices to be multiplexed is presented
+
+cacm december 1966
+
+abraham c
+lance g n
+pearcey t
+
+ca661209 jb march 2 1978  2:25 pm

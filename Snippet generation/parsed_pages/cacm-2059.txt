@@ -1,0 +1,26 @@
+
+
+
+a language for treating graphs
+
+a language for the representation of graph is described and the formulation of 
+graph operations such as node and/or link deletion or insertion union 
+intersection comparison and traversal of graphs is given  graphs
+are represented by linked lists  the language is syntactically defined
+as an extension to algol 60 and it is translated into algol
+by means of a syntax-driven compiler  application areas for this language are
+operation research network problems control theory traffic problems etc
+
+cacm may 1970
+
+crespi-reghizzi s
+morpurgo r
+
+graphs oriented nonoriented multiple
+colored graph language extended algol
+operator-precedence syntax-driven compiler
+operation research network traffic
+
+3.2 3.5 4.2 5.3
+
+ca700507 jb february 13 1978  1:31 pm

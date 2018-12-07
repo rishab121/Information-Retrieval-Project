@@ -1,0 +1,10 @@
+
+
+
+legendre functions for arguments larger than one algorithm 259 s16
+
+cacm august 1965
+
+gautschi w
+
+ca650802 jb march 6 1978  8:30 pm

@@ -1,0 +1,12 @@
+
+
+
+a method of representation storage and retrieval
+of 13 random codes in a 4-digit number or 16 
+random codes in a 5-digit number
+
+cacm march 1962
+
+foster m b
+
+ca620306 jb march 20 1978  3:07 pm

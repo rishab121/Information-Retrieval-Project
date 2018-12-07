@@ -1,0 +1,35 @@
+
+
+
+programming systems and languages 1965-1975
+
+in spite of impressive gains by pl/i fortran
+and cobol remain the languages in which most 
+of the worlds production programs are written and will
+remain so into the foreseeable future  there 
+is a great deal of theoretical interest in algol 68
+and in extensible languages but so far at least 
+they have had little practical impact  problem-oriented
+languages may very well become the most important 
+language development area in the next five to ten years
+ in the operating system area all major computer 
+manufacturers set out to produce very ambitious multiprogramming
+systems and they all ran into similar 
+problems  a number of university projectsthough not
+directly comparable to those of the manufacturers 
+have contributed greatly to a better understanding
+of operating system principles  important trends 
+include the increased interest in the development of
+system measurement and evaluation techniquesand 
+increased use of microprogramming for some programming system functions
+
+cacm july 1972
+
+rosen s
+
+languages operating systems programming
+systems multiprogramming history
+
+1.2 4.22 4.32
+
+ca720711 jb january 30 1978  1:47 pm

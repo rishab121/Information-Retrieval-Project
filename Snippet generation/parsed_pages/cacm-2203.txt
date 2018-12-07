@@ -1,0 +1,37 @@
+
+
+
+key-to-address transform techniques a fundamental
+performance study on large existing formatted 
+files
+
+the results of a study of eight different
+key-to-address transformation methods applied to 
+a set of existing files are presented  as each method
+is applied to a particular file load factor and 
+bucket size are varied over a wide range  in addition
+appropriate variables pertinent only to a specific 
+method take on different values  the performance of
+each method is summarized in terms of the number 
+of accesses required to get to a record and the number
+of overflow records created by a transformation 
+ peculiarities of each method are discussed  practical
+guidelines obtained from the results are stated 
+ finally a proposal for further quantitative fundamental study is outlined
+
+cacm april 1971
+
+lum v y
+yuen p s t
+dodd m
+
+hashing hashing techniques hashing methods hash
+coding keys key transformation key-to-address 
+transformation direct addressing direct access method
+randomizing random accessfile addressing 
+file organizations file structures scatter storage
+search collisions clusters information retrieval
+
+3.7 3.72 3.73 3.74 3.79 4.9
+
+ca710402 jb february 3 1978  4:10 pm

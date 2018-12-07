@@ -1,0 +1,24 @@
+
+
+
+boolean matrix methods for the detection of simple precedence grammars
+
+a mechanical procedure is derived for determining
+whether a given context-free phrase structure 
+grammar is a simple precedence grammar  this procedure
+consists of elementary operations on suitably 
+defined boolean matrices  application of the
+procedure to operator grammars is also given
+
+cacm october 1968
+
+martin d f
+
+syntax analysis precedence analysis simple precedence
+grammar simple precedence language operator 
+grammar operator precedence compilers bounded-context
+syntactic analysis boolean matrices relations
+
+4.12 5.23
+
+ca681004 jb february 21 1978  4:09 pm

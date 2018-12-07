@@ -1,0 +1,25 @@
+
+
+
+modularization and hierarchy in a family of operating systems
+
+this paper describes the design philosophy
+used in the construction of a family of operating 
+systems it is shown that the concepts of module and
+level do not coincide in a hierarchy of functions 
+ family members can share much software as a result
+of the implementation of run-time modules at the 
+lowest system level
+
+cacm may 1976
+
+habermanna n
+flon l
+cooprider l
+
+incremental machine design module
+data type address space virtual memory
+
+4.0 4.30 4.35
+
+ca760504 jb january 4 1978  3:33 pm

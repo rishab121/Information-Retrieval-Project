@@ -1,0 +1,25 @@
+
+
+
+empirical working set behavior
+
+the working set model for program behavior
+has been proposed in recent years as a basis for 
+the design of scheduling and paging algorithms  although
+the words working set are now commonly encountered 
+in the literature dealing with resource allocation there
+is a dearth of published data on program measurements 
+in the hope that workers in the field might find experimental
+evidence upon which to substantiate and 
+base theoretical work
+
+cacm september 1973
+
+rodriguez-rosell j
+
+virtual memory paging working set
+software measurement program behavior
+
+4.3
+
+ca730905 jb january 23 1978  9:22 am

@@ -1,0 +1,32 @@
+
+
+
+education related to the use of computers in organizations
+
+the acm curriculum committee on computer education
+for management has been carrying out a study 
+on curriculum development in management information
+systems education in colleges and universities 
+under a grant from the national science foundation
+ this position paper provides a framework for the 
+study  preliminary conclusions are presented on the
+need for education in administrative information 
+systems and appropriate college curricula and courses
+are suggested  also the role of professional 
+societies and organizations using computers is discussed
+and the plans of the committee are outlined 
+ the initial approach of the committee has been to describe
+the education necessary for the effective 
+use of computers in organizations to classify the
+positions for which education is required and to 
+survey educational programs now available
+
+cacm september 1971
+
+teichroew d
+
+education information analysis systems design business data processing
+
+1.52 3.51
+
+ca710901 jb february 2 1978  2:40 pm

@@ -1,0 +1,40 @@
+
+
+
+an english language question answering system
+for a large relational database
+
+by typing requests in english casual users
+will be able to obtain explicit answers from a 
+large relational database of aircraft flight and maintenance
+data using a system called planes  the 
+design and implementation of this system is described and
+illustrated with detailed examples of the operation 
+of system components and examples of overall system
+operation  the language processing portion of the 
+system uses a number of augmented transition networks
+each of which matches phrases with a specific 
+meaning along with context registers his tory keepers
+and concept case frames these are used for judging 
+meaningfulness of questions generating dialogue for clarifying
+partially understood questions and resolving 
+ellipsis and pronoun reference problems  other system components
+construct a formal query for the relational 
+database and optimize the order of searching relations
+ methods are discussed for handling vague or 
+complex questions and for providing browsing ability
+ also included are discussions of important issues 
+in programming natural language systems for limited domains
+and the relationship of this system to others 
+
+cacm july 1978
+
+waltz d
+
+question answering relational database natural language
+database front end artificial intelligence 
+dialogue query generation information retrieval natural language programming 
+
+3.42 3.60 3.69 3.74 3.79
+
+ca780701 dh february 8 1979  4:26 pm

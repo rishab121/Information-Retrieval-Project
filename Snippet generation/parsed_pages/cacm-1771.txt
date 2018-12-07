@@ -1,0 +1,40 @@
+
+
+
+curriculum 68  recommendations for academic
+programs in computer science  a report of the 
+acm curriculum committee on computer science
+
+this report contains recommendations on academic
+programs in computer science which were developed 
+by the acm curriculum committee on computer science
+ a classification of the subject areas contained 
+in computer science is presented and twenty-two courses
+in these areas are described  prerequisites 
+catalog descriptions detailed outlines and annotated
+bibliographies for these courses are included 
+ specific recommendations which have evolved from the
+committees 1965 preliminary recommendations are 
+given for undergraduate programs  graduate programs in computer
+science are discussed and some recommendations 
+are presented for the development of masters degree programs
+ ways of developing guidelines for doctoral 
+programs are discussed but no specific recommendations
+are made the importance of service courses 
+minors and continuing education in computer science is
+emphasized  attention is given to the organization 
+staff requirements computer resources and other facilities
+needed to implement computer science educational 
+programs
+
+cacm march 1968
+
+computer science courses computer science curriculum
+computer science education computer science 
+academic programs computer science graduate programs
+computer science undergraduate programs computer 
+science course bibliographies
+
+1.52
+
+ca680301 jb february 23 1978  11:52 am

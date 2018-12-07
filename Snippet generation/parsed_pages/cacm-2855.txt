@@ -1,0 +1,25 @@
+
+
+
+an efficient list-moving algorithm using constant workspace
+
+an efficient algorithm is presented for moving
+arbitrary list structures using no storage 
+apart from program variables other than that required
+to hold the original list and the copy  the 
+original list is destroyed as it is moved  no mark
+bits are necessary but pointers to the copy must 
+be distinguishable from pointers to the original  the
+algorithm is superior in execution speed to previous 
+algorithms for the same problem  some variations
+and extensions of the algorithm are discussed
+
+cacm june 1976
+
+clark d w
+
+list moving list copying lisp space complexity constant workspace
+
+4.34 4.49 5.25
+
+ca760607 jb january 4 1978  1:43 pm

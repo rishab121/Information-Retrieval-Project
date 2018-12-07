@@ -1,0 +1,27 @@
+
+
+
+a fast algorithm for computing longest common subsequences
+
+previously published algorithms for finding
+the longest common subsequence of two sequences 
+of length n have had a best-case running time of on^2
+ an algorithm for this problem is presented 
+which has a running time of or + nlog n where r
+is the total number of ordered pairs of positions 
+at which the two sequences match  thus in the worst
+case the algorithm has a running time of on^2 log 
+n  however for those applications where most positions
+of one sequence match relatively few positions 
+in the other sequence a running time of on log n can be expected
+
+cacm may 1977
+
+hunt j w
+szymanski t g
+
+longest common subsequence efficient algorithms
+
+3.73 3.63 5.25
+
+ca770509 jb december 29 1977  1:46 am

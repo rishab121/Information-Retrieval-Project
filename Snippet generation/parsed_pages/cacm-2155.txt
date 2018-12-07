@@ -1,0 +1,25 @@
+
+
+
+toward an understanding of data structures
+
+this paper presents a notation and formalism
+for describing the semantics of data structures 
+ this is based on directed graphs with named edges and
+transformations on these graphs  in addition 
+an implementation facility is described which could
+be part of a programming language which allows a 
+programmer who has expressed the semantics of an algorithm
+in terms of the graphs to then specify the 
+implementation of some of his data structures in order to gain efficiency
+
+cacm october,1971
+
+earley j
+
+data structures graph implementation
+semantic formalism programming language
+
+4.22 4.9 5.24
+
+ca711001 jb february 2 1978  1:35 pm

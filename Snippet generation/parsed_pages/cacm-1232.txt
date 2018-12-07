@@ -1,0 +1,9 @@
+
+
+
+representation of the standard ecma 7-bit
+code in punched cards ecma standard
+
+cacm july 1965
+
+ca650703 jb march 6 1978  9:06 pm

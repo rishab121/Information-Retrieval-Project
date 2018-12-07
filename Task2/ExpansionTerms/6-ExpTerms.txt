@@ -4,7 +4,7 @@ cacm
 pm
 simulation
 disk
-computer
 number
+computer
 march
-systems
+digital

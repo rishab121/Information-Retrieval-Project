@@ -1,0 +1,26 @@
+
+
+
+spelling correction in systems programs
+
+several specialized techniques are shown for efficiently
+incorporating spelling correction algorithms in
+to compilers and operating systems  these include the use of syntax
+and semantics information the organization of restricted keyword
+and symbol tables and the consideration of a limited class of spelling
+errors  sample 360 coding for performing spelling correction
+is presented  by using systems which perform spelling correction
+the number of debugging runs per program has been decreased
+saving both programmer and machine time
+
+cacm february 1970
+
+morgan h l
+
+spelling correction error correction debugging compilers
+operating systems diagnostics error detection 
+misspelling lexical analysis systems programming
+
+4.42 4.12 3.0 3.79
+
+ca700204 jb february 14 1978  10:40 am

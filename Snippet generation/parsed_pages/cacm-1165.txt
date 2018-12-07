@@ -1,0 +1,21 @@
+
+
+
+the spectra 70/45 emulator for the rca 301
+
+the rca 301 emulator system is supplied with
+the spectra 70/45 as a reprogramming aid  it 
+allows an rca 301 object program to be run on the spectra
+70/45 without necessitating changes in the 
+rca 301 object code  execution rates are considerably
+better than traditional simulation  the emulator 
+provides an increase in throughput capacity for the
+301 user on the spectra 70/45  the emulator makes 
+use of both hardware micro-program routines and
+software routines to accomplish its function
+
+cacm december 1965
+
+benjamin r i
+
+ca651204 jb march 6 1978  4:15 pm

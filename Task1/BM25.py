@@ -69,7 +69,7 @@ class BM25:
         rank = 0
         for tup in sortedDict:
             rank += 1
-            file.write(str(tup[0]) + " " + str(tup[1]) + " \n")
+            file.write(str(qId) + " Q0 " + str(tup[0]) + " " + str(rank) + " " + str(tup[1]) + " BM25WithFeedbackNoStem\n")
             if rank == 100:
                 break
 

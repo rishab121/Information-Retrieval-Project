@@ -1,0 +1,31 @@
+
+
+
+nebula a digital computer using a 20 mc glass delay line memory
+
+oregon state university has designed and constructed
+a medium-speed serial digital computer 
+using glass delay lines circulating at 22 mc as memory
+ the design objectives as originally conceived 
+in a special seminar were 1 to be a research project
+in computer design 2 to be usable as an educational 
+machineand 3 to have easily modifiable hardware for
+basic research in computer systems design  an 
+unusual arrangement of information within the 22 mc
+memory allows a simple interface with the 340 kc 
+arithmetic unit which results in an effective zero latency
+time and provides possibilities for an associative 
+memory  the arithmetic unit has a command structure similar
+to large parallel machines and uses flip-flop 
+arithmetic and control registers throughout  all hardware
+development has been aimed toward the concept 
+of easy modification elaborate console controls for
+effective man-machine interaction and low cost
+
+cacm july 1966
+
+boles j a
+rux p t
+weingarten jr f w
+
+ca660705 jb march 2 1978  9:35 pm

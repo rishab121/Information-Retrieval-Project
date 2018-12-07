@@ -1,0 +1,18 @@
+
+
+
+an efficient procedure for the generation of closed subsets
+
+an efficient algorithm is described for generating
+subsets of a set s which satisfy constraints 
+of the form if si is a member of the subset then
+sj must also be a member of the subset  the 
+algorithm has been programmed in the wisp language and
+successfully run on the ibm 7094 in connection 
+with a routine to detect feedback in multidimensional iterative networks
+
+cacm march 1967
+
+waite w m
+
+ca670307 jb february 28 1978  1:18 pm

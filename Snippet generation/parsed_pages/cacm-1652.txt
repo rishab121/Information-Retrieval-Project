@@ -1,0 +1,32 @@
+
+
+
+a code for non-numeric information processing
+applications in online systems
+
+a code has been specifically designed to simplify
+the internal information processing operations 
+within an online computer system with respect to non-numeric
+applications and to maximize the transfer 
+rate of the information channel linking the system and
+the system user  the code has direct application 
+to problems in area such as information retrieval document
+classification computer-aided teaching and 
+text editing  this code called ipc information processing
+code is an 8-bit code set constructed 
+so that 7 6 5 and 4-bit subsets can be easily derived
+from the basic set  the code set is organized 
+so that simple binary operations can distinguish between
+the numeric alphabetic special symbol and control 
+character codes  the number of usable characters within
+the basic set size may be expanded either by 
+use of escape codes included in the set or by suitable
+interpretation of otherwise unassigned codes 
+on the basis of the requirements of local environments
+
+cacm january 1967
+
+morenoff e
+mclean j b
+
+ca670103 jb march 1 1978  9:05 am

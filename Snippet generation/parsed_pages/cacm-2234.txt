@@ -1,0 +1,14 @@
+
+
+
+roots of matrix pencils algorithm r405
+
+cacm december 1972
+
+heiberger r m
+
+eigenvalues matrix roots pencil roots
+
+5.1 5.3
+
+ca721221 jb january 27 1978  8:51 am

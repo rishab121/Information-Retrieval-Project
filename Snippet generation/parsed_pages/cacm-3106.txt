@@ -1,0 +1,29 @@
+
+
+
+a fast algorithm for copying list structures
+
+an algorithm is presented for copying an arbitrarily
+linked list structure into a block of 
+contiguous storage locations without destroying  the original
+list  apart from a fixed number of program 
+variables no auxiliary storage such as a stack is used
+ the algorithm needs no mark bits and operates 
+in linear time  it is shown to be significantly faster
+than fishers algorithm the fastest previous 
+linear-time algorithm for the same problem  its speed
+comes mainly from its efficient list-traversal 
+technique which folds the processing stack into the
+structure being built and from its classification 
+of list cells into nine types which enables processing
+operations to be optimized for each type
+
+cacm may 1978
+
+clark d
+
+list copying lisp space complexity constant workspace
+
+4.34 4.49 5.25
+
+ca780501 dh february 26 1979  3:25 pm

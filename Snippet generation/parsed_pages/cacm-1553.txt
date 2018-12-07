@@ -1,0 +1,20 @@
+
+
+
+contextual understanding by computers
+
+a further development of a computer program
+eliza capable of conversing in natural language 
+is discussed  the importance of context to both human
+and machine understanding is stressed  it is 
+argued that the adequacy of the level of understanding
+achieved in a particular conversation depends 
+on the purpose of that conversation and that absolute
+understanding on the part of either humans or 
+machines is impossible
+
+cacm august 1967
+
+weizenbaum j
+
+ca670802 jb february 27 19784:44 pm

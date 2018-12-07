@@ -1,0 +1,35 @@
+
+
+
+a new integration algorithm for ordinary differential
+equations based on continued fraction approximations
+
+a new integration algorithm is found and an
+implementation is compared with other programmed 
+algorithms  the new algorithm is a step-by-step procedure
+for solving the initial value problem in ordinary 
+differential equations  it is designed to approximate
+poles of small integer order in the solutions 
+of the differential equations by continued fractions obtained
+by manipulating the sums of truncated taylor 
+series expansions  the new method is compared with
+gragg-bulirsh-stoer and the taylor series method 
+ the taylor series method and the new method are shown
+to be superior in speed and accuracy while the 
+new method is shown to be most superior when the solution
+is required near a singularity  the new method 
+can finally be seen to pass automatically through singularities
+where all the other methods which are 
+discussed will have failed
+
+cacm september 1974
+
+willers i m
+
+ordinary differential equations initial value problem
+integration taylor series singularities 
+continued fractions program comparison
+
+5.17
+
+ca740902 jb january 17 1978  9:06 am

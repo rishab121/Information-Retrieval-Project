@@ -1,0 +1,30 @@
+
+
+
+proposal for a feasible programming system
+
+this paper proposes designing a programming
+facility itself involving a digital computer and 
+a program which will assist the preparation of large-scale
+real-time programs  this facility is to 
+be capable of preparing programs for any of a variety
+of machines having characteristics similar to those 
+of the facilitys computer  one of the basic assumptions
+is that there will be enough random-access 
+storage available to avoid the necessity for segmenting
+a constructed program in any fashion other than 
+a trivial one  while this assumption is somewhat unrealistic
+it is intended to provide an opportunity 
+to concentrate on the other aspects of program construction
+ the programming system should stress the 
+discovery in source program statements of as many errors
+as possible before attempting to construct 
+an object program  among the computer characteristics
+which are advocated are a program interrupt scheme 
+a large set of characters and indirect addressing
+
+cacm august 1959
+
+bagley p r
+
+ca590802 jb march 22 1978  6:16 pm

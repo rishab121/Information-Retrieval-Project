@@ -1,0 +1,18 @@
+
+
+
+a note on a modification of nordsiecks
+method using an off-step point
+
+cacm december 1971
+
+blumberg j w
+foulk c r
+
+ordinary differential equations multi-step methods
+predictor corrector round-off error nordsiecks 
+method gragg-stetter modification
+
+5.11 5.16 5.17
+
+ca711207 jb february 2 1978  9:52 am

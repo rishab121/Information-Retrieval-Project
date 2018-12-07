@@ -1,0 +1,29 @@
+
+
+
+syntactic analysis by digital computer
+
+this paper provides an account of the shadow
+language that is used to describe syntax and of 
+a corresponding subroutine that enables a computer
+to perform syntactic analysis  the input to this 
+subroutine consists of a string to be analyzed and a
+description of the syntax that is to be used  the 
+syntax is expressed in the shadow language  the output
+consists of a trace table that expresses the 
+results of the syntactic analysis in a tabular form  several
+versions of the subroutine and some associated 
+programs have been in use now for over three years  the
+present account of the language and the subroutine 
+contains a summary of material that has been described
+previously in unpublished reports and also some 
+additional discussion of the work in relation to the more
+general questions of problem-oriented languages 
+and string transformations
+
+cacm october 1962
+
+barnett m p
+futrelle r p
+
+ca621016 jb march 17 1978  7:11 pm

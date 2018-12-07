@@ -1,0 +1,23 @@
+
+
+
+numerical solution of nonlinear two-point
+boundary problems by finite difference methods
+
+solution of nonlinear two-point boundary-value
+problems is often an extremely difficult task 
+ quite apart from questions of reality and uniqueness
+there is no established numerical technique for 
+this problem  at present shooting techniques are the
+easiest method of attacking these problems  when 
+these fail the more difficult method of finite differences
+can often be used to obtain a solution  
+this paper gives examples and discusses the finite difference
+method for non-linear two-point boundary-value 
+problems
+
+cacm june 1964
+
+holt j f
+
+ca640618 jb march 9 1978  9:07 pm

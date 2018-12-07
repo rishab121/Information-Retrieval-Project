@@ -1,0 +1,29 @@
+
+
+
+symbolic integration the stormy decade
+
+three approaches to symbolic integration in the
+1960s are described  the first from artificial 
+intelligence led to slagles saint and to a large
+degree to moses sin  the second from algebraic 
+manipulation led to manoves implementation and to
+horowitz and tobeys reexamination of the hermite 
+algorithm for integrating rational functions  the third
+from mathematics led to richardsons proof 
+of the unsolvability of the problem for a class of functions
+and for rischs decision procedure for the 
+elementary functionseneralizations of rischs algorithm
+to a class of special functions and programs 
+for solving differential equations and for finding
+the definite integral are also described
+
+cacm august 1971
+
+moses j
+
+integration symbolic integration definite integrals rational functions
+
+3.1 3.2 3.6 4.9 5.2 5.9
+
+ca710808 jb february 2 1978  2:48 pm

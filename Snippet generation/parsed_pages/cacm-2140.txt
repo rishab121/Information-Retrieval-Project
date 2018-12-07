@@ -1,0 +1,26 @@
+
+
+
+retrieval-update speed tradeoffs using combined indices
+
+in a paper in the november 1970 communications
+of the acm v y lum introduced a technique 
+of file indexing named combined indices  this technique
+permitted decreased retrieval time at the cost 
+of increased storage space  this paper examines combined
+indices under conditions of file usage with 
+different fractions of retrieval and update  tradeoff
+curves are developed to show minimal cost of file 
+usage by grouping various partially combined indices
+
+cacm december 1971
+
+mullin j k
+
+file organization combined index files inverted
+files information retrieval query multi-attribute 
+retrieval file update
+
+3.73 3.74 3.79
+
+ca711203 jb february 2 1978  10:18 am

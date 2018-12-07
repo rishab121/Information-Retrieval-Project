@@ -1,0 +1,18 @@
+
+
+
+an improvement to iterative methods of polynomial factorization
+
+methods of polynomial factorization which
+find the zeros one at a time require the division 
+of the polynomial by the accepted factor  it is shown
+how the accuracy of this division may be increased 
+by dividing in order of both ascending and descending
+powers of the variable and choosing a crossover 
+point which minimizes a very simply calculated error criterion
+
+cacm january 1967
+
+bingham j a c
+
+ca670112 jb february 28 1978  4:20 pm

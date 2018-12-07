@@ -1,0 +1,15 @@
+
+
+
+further comments on dijkstras concurrent programming control problem
+
+cacm november 1972
+
+eisenberg m a
+mcguire m r
+
+critical section concurrent programming control multiprocessing
+
+4.32
+
+ca721113 jb january 27 1978  1:24 pm

@@ -1,0 +1,38 @@
+
+
+
+trace-driven modeling and analysis of
+cpu scheduling in multiprogramming system
+
+microscopic level job stream data obtained in
+a production environment by an event-driven software 
+probe is used to drive a model of a multiprogramming
+computer system  the cpu scheduling algorithm of 
+the model is systematically varied  this technique
+called trace-driven modeling provides an accurate 
+replica of a production environment for the testing of variations
+in the system  at the same time alterations 
+in scheduling methods can be easily carried out in a
+controlled way with cause and effects relationships 
+being isolated  the scheduling methods tested included
+the best possible and worst possible methods 
+the traditional methods of multiprogramming theory round-robin
+first-come-first-served etc and dynamic 
+predictors  the relative and absolute performances of
+these scheduling methods are given  it is concluded 
+that a successful cpu scheduling method must be preemptive
+and must prevent a given job from holding 
+the cpu for too long a period
+
+cacm december 1972
+
+sherman s
+baskett iii f
+browne j c
+
+scheduling cpu schedulingmultiprogramming
+performance measurement trace driven models
+
+4.10 4.20 4.31 4.32
+
+ca721210 jb january 27 1978  10:57 am

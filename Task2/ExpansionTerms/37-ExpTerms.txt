@@ -1,10 +1,10 @@
+program
 language
 programming
-program
 cacm
 checking
-jb
-symbolic
 languages
+symbolic
+jb
 execution
-pm
+values

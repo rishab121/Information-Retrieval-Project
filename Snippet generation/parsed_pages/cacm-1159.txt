@@ -1,0 +1,25 @@
+
+
+
+machine independence its technology and economics
+
+a survey is offered of techniques for transferring
+programs and especially compilers from 
+one computer to another  of the methods examined the
+bootstrap technique is singled out for detailed 
+discussion with emphasis on its economics the considerations
+that determine the applicability of bootstrapping 
+in any specific case are discussed and an attempt
+is made to assign appropriate qualitative weights 
+to them  finally reasons are given for believing that the
+machine-independence problem is being substantially 
+diminished by current trends in computer design and
+that it is this process of convergence in hardware 
+design rather than any foreseeable software developments
+that will lead to its satisfactory resolution
+
+cacm december 1965
+
+halpern m i
+
+ca651210 jb march 6 1978  3:44 pm

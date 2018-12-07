@@ -1,0 +1,19 @@
+
+
+
+the use of fortran in subroutines with cobol main programs
+
+by using the proper cobol coding techniques and
+accounting for differences in storage allocation 
+and library routines between the two languages it is
+possible to write fortran iv subroutines that may 
+be called from cobol main programs  such a technique
+enables the programmer to take advantage of the 
+most useful properties of each language while
+minimizing their respective disadvantages
+
+cacm april 1965
+
+shavell z a
+
+ca650409 jb march 7 1978  3:52 pm

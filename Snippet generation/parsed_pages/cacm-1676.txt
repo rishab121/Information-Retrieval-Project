@@ -1,0 +1,35 @@
+
+
+
+the lrltran compiler
+
+extensive software problems confront an organization
+which possesses a number of different 
+computers and which frequently acquires new ones 
+to maintain cohesion a system must be developed 
+written in a high level language which minimizes machine
+dependencies and isolates those which are necessary 
+ a language and a compiler for the language are discussed
+here  the language called lrltran is a heavily 
+augmented fortran  the tree-pass compiler makes use
+internally of a postfix polish notation pass i 
+to pass ii and a tree representation referred to as
+a composite blocking table pass i to pass iii 
+ machine-independent optimization occurs in pass ii
+and do-loop and machine-dependent optimization in 
+pass iii
+
+cacm november 1968
+
+mendicino s f
+martin j t
+ranelletti j e
+zwakenberg r g
+
+compiler compiler-compiler machine independence
+scatter storage technique polish processor 
+common subsegments tree representation optimization
+
+4.12 4.20
+
+ca681103 jb february 21 1978  3:03 pm

@@ -1,0 +1,31 @@
+
+
+
+the selection of optimal tab settings
+
+a new generation of computer terminals allows
+tab settings to be selected and set by the computer 
+ this feature can be used to reduce the number of characters
+that are needed to represent a document 
+for transmission and printing  in this note an algorithm
+is given for selecting the optimal set of 
+tab stops for minimizing the number of characters transmitted
+ an implementation of the algorithm has 
+reduced the number of characters transmitted by from
+7 to 30 percent but requires a prepass through 
+the document to compute a matrix used in determining
+the optimal set tab stops  the use of fixed tab 
+stops as a heuristic alternative can achieve
+about 80 percent of optimal with no prepass 
+
+cacm december 1978
+
+peterson j
+bitner j
+howard j
+
+tabs word processing dynamic programming
+
+3.9 4.4
+
+ca781203 dh january 18 1979  4:34 pm

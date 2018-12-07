@@ -1,0 +1,26 @@
+
+
+
+information science in a ph computer science program
+
+this report contains recommendations on a sample course
+curriculum in the general area of information 
+organization and information system design in a ph
+computer science program  the subject area is 
+first briefly described followed by a listing of some desirable
+graduate-level courses  suitable bibliographies 
+are appended
+
+cacm february 1969
+
+salton g
+
+course curriculum graduate courses university
+coursescomputer science curriculum information 
+science information organization information retrieval
+data retrieval language analysis information 
+processing
+
+1.52 3.42 3.70
+
+ca690211 jb february 20 1978  9:50 am

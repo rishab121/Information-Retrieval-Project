@@ -1,0 +1,25 @@
+
+
+
+an interactive computer system using graphical flowchart input
+
+an interactive computer system operational on a graphical computer terminal is 
+described  this system was designed to demonstrate a method of programming by 
+computer interpretation of a flowchart  the user draws a description of a
+sampled-data system and specifies description is transmitted to a large
+scale computer  the design is simulated and a graphic representation of the 
+processed signal is returned to the scope  a successful design may require 
+numerous modifications of the original design  a graphical interactive system 
+provides an environment to perform this iterative process efficiently and 
+effectively
+
+cacm february 1970
+
+robins m f
+beyer j d
+
+simulation program graphical input-output sampled data systems
+
+3.20 3.24
+
+ca700210 jb february 14 1978  9:57 am

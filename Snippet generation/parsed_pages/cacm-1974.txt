@@ -1,0 +1,30 @@
+
+
+
+neater2 a pl/i source statement reformatter
+
+neater2 accepts a pl/i source program and operates on it to produce
+a reformatted version  when in the logical mode neater2 indicates
+the logical structure of the source program in the indentation
+pattern of its output  logic errors discovered through neater2
+logical analysis are discovered much more economically than is possible
+through compilation and trial runs  a number of options are
+available to give the user full control over the output format and
+to maximize the utility of neater2 as an aid during the early
+stages of development of a pl/i source deck  one option usage causes
+neater2 to insert into each logical unit of coding a statement
+which will case the number of times each one is executed to be recorded
+during execution  this feature is expected to provide a
+major aid in optimization of pl/i programs
+
+cacm november 1970
+
+conrow k
+smith r g
+
+logical analysis of pl/i source reformatting of pl/i
+source documentation aid execution time usage data
+
+1.52 4.12 4.19 4.42
+
+ca701104 jb february 10 1978  8:40 am

@@ -1,0 +1,21 @@
+
+
+
+the implementation of a basic system in a multiprogramming environment
+
+the implementation of a remote terminal basic system
+within the context of an existing multiprogramming 
+computer system the burroughs b5500 is described
+ this implementation combines a unique mixture of 
+machine language and interpretive techniques with an incremental compiler
+
+cacm october 1968
+
+braden h v
+wulf w a
+
+multiprogramming incremental compilation compilers interpreters
+
+4.1 4.12 4.2 4.22 4.3 4.32
+
+ca681005 jb february 21 1978  4:04 pm

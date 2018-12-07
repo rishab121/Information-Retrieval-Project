@@ -1,0 +1,18 @@
+
+
+
+a technique for reading gapless tapes makes electrocardiograph
+analysis feasible on the ibm 7090 
+
+to study arrhythmias and higher frequency
+components of the electrocardiogram long series 
+of patient heart cycles must be examined before valid
+comparison of different heart beats can be made 
+a technique is presented for the automatic analysis
+of long series heart cycles via a digital computer
+
+cacm november 1964
+
+maher a s
+
+ca641109 jb march 9 1978  4:03 pm

@@ -1,0 +1,26 @@
+
+
+
+a microprogrammed implementation of euler on ibm system/360 model 30
+
+an experimental processing system for the algorithmic
+language euler has been implemented in 
+microprogramming on an ibm system/360 model 30 using a
+second read-only storage unit  the system consists 
+of a microprogrammed compiler and a microprogrammed
+string language interpreter and of an i/o control 
+program written in 360 machine language  the system is described
+and results are given in terms of microprogram 
+and main storage space required and compiler and interpreter
+performance obtained  the role of microprogramming 
+is stressed which opens a new dimension in the processing
+of interpretive code  the structure and content 
+of a higher level language can be matched by an appropriate
+interpretive language which can be executed 
+efficiently by microprograms on existing computer hardware
+
+cacm september 1967
+
+weber h
+
+ca670904 jb february 27 1978  3:44 pm

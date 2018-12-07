@@ -1,0 +1,29 @@
+
+
+
+decomposability instabilities and
+saturation in multiprogramming systems
+
+a step-by-step approach to model the dynamic
+behavior and evaluate the performance of computing 
+systems is proposed  it is based on a technique of variable
+aggregation and the concept of nearly decomposable 
+system both borrowed from econometrics  this approach
+is taken in order to identify in multiprogramming 
+paging systems i unstable regimes of operations and ii
+critical computing loads which bring the system 
+into states of saturation  this analysis leads to a
+more complete definition of the circumstances in 
+which thrashing can set in
+
+cacm july 1975
+
+courtois p j
+
+multiprogramming paging performance evaluation
+saturation instabilities thrashing aggregation 
+system levels hierarchynetworks of queues
+
+4.31 4.32 8.1 8.2
+
+ca750701 jb january 9 1978  10:39 am

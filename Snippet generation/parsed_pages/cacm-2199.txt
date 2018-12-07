@@ -1,0 +1,14 @@
+
+
+
+a sparse matrix package part i f4 algorithm 408
+
+cacm april 1971
+
+mcnamee j m
+
+matrix sparse matrix matrix manipulation
+
+5.14
+
+ca710406 jb february 3 1978  3:20 pm

@@ -1,0 +1,26 @@
+
+
+
+gan a system for generating and analyzing activity networks
+
+gan a system for generating activity networks
+is designed to save time in the preparation 
+of activity networks and to deal conveniently with network
+programs  a defining description of a programming 
+language designed for generating activity network from
+a set of standard networks is presented  also 
+a general idea of a language for performing calculations
+on activity networks scheduling activity networks 
+is given
+
+cacm october 1968
+
+schurmann a
+
+activity network management project standard network
+network generator network assembler activity 
+network analysis network calculation network program
+
+3.50 3.53 4.11 4.12 4.29
+
+ca681002 jb february 21 1978  4:22 pm

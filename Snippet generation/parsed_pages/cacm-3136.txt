@@ -1,0 +1,27 @@
+
+
+
+price/performance patterns of u computer systems
+
+econometric models of the u computer market have been developed to study 
+the relationships between system price and hardware performance  single
+measures of price/performance such as groschs law are shown to
+be so over simplified as to be meaningless  multiple-regression models
+predicting system cost as a function of several hardware
+characteristics do however reveal a market dichotomy  on one hand there
+exists a stable price predictable market for larger general
+purpose computer systems  the other market is the developing one
+for small business computer systems a market which is relatively
+unstable with low price predictability 
+
+cacm april 1979
+
+cale e
+gremillion l
+mckenney j
+
+price/performance groschs law u computer market
+
+2.0 2.11 6.21
+
+ca790402 dh may 21 1979  1:09 pm

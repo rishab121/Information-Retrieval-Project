@@ -1,0 +1,33 @@
+
+
+
+a unifying approach to scheduling
+
+this paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority  various classes of scheduling algorithms
+are defined and related to existing algorithms  a
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms which include most 
+of the commonly implemented ones  for time-invariant
+algorithms the dependence of processing rates 
+on priorities is derived  the abstract model provides
+a framework for implementing flexible schedulers 
+in real operating systems  the policy-driven scheduler
+of bernstein and sharp is discussed as an example 
+of such an implementation
+
+cacm july 1977
+
+ruschitzka m
+fabry r s
+
+scheduling algorithms scheduling models priority
+operating systemsprocessor sharing implementation 
+efficiency
+
+4.31 4.32 4.34 4.35 8.1
+
+ca770702 jb december 28 1977  12:32 pm

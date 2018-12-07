@@ -1,0 +1,29 @@
+
+
+
+the aliasing problem in computer-generated shaded images
+
+certain defects such as jagged edges and
+disappearing detail have long been an annoyance 
+in digitally generated shaded images  although increasing
+the resolution or defocusing the display can 
+attenuate them an understanding of these defects leads
+to more effective methods  this paper explains 
+the observed defects in terms of the aliasing phenomenon
+inherent in sampled signals and discusses prefiltering 
+as a recognized cure  a method for evaluating filters
+is presented the application of prefiltering 
+to hidden-surface algorithms is discussed and an implementation
+of a filtering tiler is shown accompanied 
+by examples of its effectiveness
+
+cacm november 1977
+
+crow f c
+
+aliasing computer graphics convolutional
+filtering hidden-surface removal sampling
+
+8.2
+
+ca771103 jb december 27 1977  7:56 am

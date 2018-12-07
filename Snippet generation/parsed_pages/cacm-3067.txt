@@ -1,0 +1,34 @@
+
+
+
+generalized working sets for segment reference strings
+
+the working-set concept is extended for programs
+that reference segments of different sizes 
+ the generalized working-set policy gws keeps as its
+resident set those segments whose retention costs 
+do not exceed their retrieval costs  the gws is a model
+for the entire class of demand-fetching memory 
+policies that satisfy a resident-set inclusion property
+ a generalized optimal policy gopt is also 
+defined at its operating points it minimizes aggregated
+retention and swapping costs  special cases 
+of the cost structure allow gws and gopt to simulate
+any known stack algorithm the working set and 
+vmin  efficient procedures for computing demand curves
+showing swapping load as a function of memory 
+usage are developed for gws and gopt policies  empirical
+data from an actual system are included
+
+cacm september 1978
+
+denning p
+slutz d
+
+database referencing memory management optimal
+memory policies paging program behavior program 
+measurement segmentation working sets
+
+4.30 8.10
+
+ca780905 dh february 5 1979  11:20 am

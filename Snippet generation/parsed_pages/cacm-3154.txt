@@ -1,0 +1,27 @@
+
+
+
+algorithm  logic + control
+
+an algorithm can be regarded as consisting of a logic component
+which specifies the knowledge to be used in solving problems
+and a control component which determines the problem-solving
+strategies by means of which that knowledge is used  the logic component
+determines the meaning of the algorithm whereas the control
+component only affects its efficiency  the efficiency of an
+algorithm can often by improving the control component without changing
+the logic of the algorithm  we argue that computer programs would
+be more often correct and more easily improved and modified if
+their logic and control aspects were identified and separated in
+the program text 
+
+cacm july 1979
+
+kowalski r
+
+control language logic programming nonprocedural language programming
+methodology program specification relational data structures 
+
+3.64 4.20 4.30 5.21 5.24
+
+ca790705 dh september 24 1979  5:08 pm

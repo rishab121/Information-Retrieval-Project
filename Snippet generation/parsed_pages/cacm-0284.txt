@@ -1,0 +1,25 @@
+
+
+
+manipulation of algebraic expressions
+
+an algorithm for algebraically manipulating
+expressions of the form sumcipi i1n has 
+been developed in conjunction with the development of programs
+for systems analysis problems  this algorithm 
+enablesus to derive over-all system transfer functions
+from algebraically described block diagrams of 
+any linear continuous multi-loop feedback system  the
+machine representation of the derived expression 
+is by virtue of the algorithm in a form which simplifies
+the task of compiling  the algorithm was 
+developed for a particular purpose in connection with
+system analysis studies  however its application 
+as a mathematical device extends far beyond
+the confines of the original problem
+
+cacm september 1961
+
+rom a r m
+
+ca610910 jb march 16 1978  9:36 pm

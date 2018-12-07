@@ -1,0 +1,14 @@
+
+
+
+handling identifiers as internal symbols in language processors
+
+substitution of computer-oriented symbols for
+programmer-oriented symbols in language processors 
+is examined and a feasible method for doing so is presented
+
+cacm june 1959
+
+williams f a
+
+ca590602 jb march 22 1978  6:38 pm

@@ -1,0 +1,14 @@
+
+
+
+gamma function gamma function for range 1 to
+2 reciprocal gamma function to real argument 
+gamma function logarithm of gamma function algorithms
+34s14 54s14 80s14 221s14 291s14
+
+cacm september 1966
+
+pike m c
+hill i d
+
+ca660909d jb march 23 1978  4:28 pm

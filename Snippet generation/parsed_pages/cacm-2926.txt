@@ -1,0 +1,23 @@
+
+
+
+pagination of b-trees with variable-length records
+
+a strategy is presented for pagination of b-trees
+with variable-length records  if records 
+of each length are uniformly distributed within the
+file and if a wide distribution of record lengths 
+exists within the file then this strategy results in shallow
+trees with fast access times  the performance 
+of this strategy in an application is presented compared
+with that of another strategy and analyzed
+
+cacm september 1977
+
+mccreight e m
+
+b-tree index database tree storage structure searching
+
+3.73 4.33 4.34
+
+ca770908 jb december 27 1977  12:46 pm

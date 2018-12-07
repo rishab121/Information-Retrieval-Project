@@ -1,0 +1,22 @@
+
+
+
+a generational perspective of information system development
+
+system development is categorized from a generational
+point of view that parallels the commonly 
+described computing system generations  for each generation
+the scope of development projects and the 
+technological world view of the system developer are examined
+
+cacm july 1972
+
+benjamin r i
+
+computing milieu management data processing hardware
+systems software systems systems development 
+process functional systems management systems
+
+2.0 3.50 4.0 6.20
+
+ca720717 jb january 30 1978  11:22 am

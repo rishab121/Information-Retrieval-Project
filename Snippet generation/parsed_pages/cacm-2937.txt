@@ -1,0 +1,29 @@
+
+
+
+an experimental evaluation of data type conventions
+
+the language in which programs are written
+can have a substantial effect on the reliability 
+of the resulting programs  this paper discusses an experiment
+that compares the programming reliability 
+of subjects using a statically typed language and a typeless
+language  analysis of the number of errors 
+and the number of runs containing errors shows that at
+least in one environment the use of a statically 
+typed language can increase programming reliability 
+detailed analysis of the errors made by the subjects 
+in programming solutions to reasonably small problems
+shows that the subjects had difficulty manipulating 
+the representation of data
+
+cacm august 1977
+
+gannon j d
+
+data types experimentation language
+design redundancy reliable software
+
+4.22
+
+ca770806jb december 28 1977  7:32 am

@@ -1,0 +1,10 @@
+
+
+
+crout with pivoting algorithm 16
+
+cacm october 1960
+
+forsythe g e
+
+ca601008 jb march 20 1978  8:15 pm

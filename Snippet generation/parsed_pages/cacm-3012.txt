@@ -1,0 +1,25 @@
+
+
+
+the use of an interactive information storage
+and retrieval system in medical research
+
+this paper presents the results of a study
+of the use of an interactive computerized storage 
+and retrieval system  a monitor built into the computer
+system provided usage data for the study  additional 
+data on user reactions were gathe red from a questionnaire
+ the results show the important role played 
+by frequently chosen laboratory reference leaders in influencing
+the use of this system  the implications 
+of the study for the design of similar systems are discussed
+
+cacm march 1978
+
+lucas hr
+
+implementation system use information storage and retrieval system
+
+2.10 3.50 3.72
+
+ca780301 jb march 28 1978  1:51 pm

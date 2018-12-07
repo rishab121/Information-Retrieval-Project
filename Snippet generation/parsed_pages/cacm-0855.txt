@@ -1,0 +1,25 @@
+
+
+
+organization and structure of dataon disk file
+memory systems for efficient sorting and other 
+data processing programs
+
+an approach to the organization and structure
+of data on bryant disc file memory systems for 
+sorting and performing other data processing functions
+is presented  the following areas are covered 
+characteristics of bryant disc file systems on the bendix
+g-20 and rca 301 two proposed chaining structures 
+for data and functions of a disk file executive routine
+ the concepts for sorting and performing file 
+maintenance processing using the proposed structure and
+executive routine are discussed  additionally 
+it is shown that sorting can be accomplished
+without the use of disk storage work areas
+
+cacm may 1963
+
+goetz m a
+
+ca630512 jb march 14 1978  11:10 am

@@ -1,0 +1,15 @@
+
+
+
+discretized newton-like method for solving a system
+of simultaneous nonlinear equations algorithm 378 $c5
+
+cacm april 1970
+
+pankiewicz w
+
+newtons method nonlinear equations interpolating polynomials
+
+5.15 5.13
+
+ca700409 jb february 13 1978  2:48 pm

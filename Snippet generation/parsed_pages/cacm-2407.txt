@@ -1,0 +1,25 @@
+
+
+
+curriculum recommendations for undergraduate
+programs in information systems
+
+the need for education related to information
+systems in organizations is discussed and a 
+curriculum is proposed for an undergraduate program 
+material necessary for such programs is identified 
+and courses incorporating it are specifiedetailed course
+descriptions are presented  program organization 
+and a problems of implementation are discussed
+
+cacm december 1973
+
+couger j d
+
+education undergraduate curricula management systems
+information systems information analysis 
+system design systems analysis
+
+1.52 3.51
+
+ca731201 jb january 19 1978  3:24 pm

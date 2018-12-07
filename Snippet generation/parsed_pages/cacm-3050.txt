@@ -1,0 +1,28 @@
+
+
+
+systems design education a gaming approach
+
+one of the problems facing managers of computer
+installations is the problem of configuring 
+the computer system to meet the demands made by the
+mix of jobs that the computer center must service 
+ this paper presents a management game that allows
+the player to configure a computer system to meet 
+a hypothetical job mix is under the control of a game administrator
+and can be varied to simulate a variety 
+of real-world situations i/o bound jobs compute bound
+jobs etc  the player of the game receives 
+a set of detailed reports on the cost of his choices
+and a simulated run of the center operating under 
+his choices 
+
+cacm november 1978
+
+lyons n
+
+system design configuration management game
+
+2.43 2.44
+
+ca781101 dh january 29 1979  11:43 am

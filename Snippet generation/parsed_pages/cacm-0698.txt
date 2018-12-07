@@ -1,0 +1,21 @@
+
+
+
+data-dial two-way communication with
+computers from ordinary dial telephones
+
+an operating system is described which allows
+users to call up a remotely located computer 
+from ordinary dial telephones  no special hardware or
+connections are required at the users telephones 
+ input to the computer is through the telephone dialoutput
+from the computer is in spoken form  results 
+of a test with telephones in the boston area are reported
+
+cacm october 1963
+
+marill t
+edwards d
+feurzeig w
+
+ca631027 jb march 13 1978  5:23 pm

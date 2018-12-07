@@ -1,0 +1,11 @@
+
+
+
+note on the proof of the non-existence
+of a phrase structure grammar for algol 60
+
+cacm march 1963
+
+brown p j
+
+ca630323 jb march 14 1978  1:00 pm

@@ -1,0 +1,13 @@
+
+
+
+an efficient method for generating uniformly distributed
+points on the surface of an n-dimensional
+sphere
+
+cacm april 1959
+
+hicks j s
+wheeling r f
+
+ca590404 jb march 22 1978  7:10 pm

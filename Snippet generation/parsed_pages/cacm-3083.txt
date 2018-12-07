@@ -1,0 +1,25 @@
+
+
+
+pseudochaining in hash tables
+
+this paper presents pseudochaining as a new
+collision-resolution method  pseudochaining is 
+half way between open addressing and chaining  it owes
+its name to the fact that link fields are present 
+in each cell of the hash table which permits chaining
+of the first overflow items in the table  the 
+efficiency of the method is derived and a tradeoff analysis is given
+
+cacm july 1978
+
+halatsis c
+philokyprou g
+
+hash code scatter storage open addressing chaining
+pseudochaining collision resolution searching 
+uniform probing
+
+3.7 3.73 3.74 4.9
+
+ca780705 dh february 7 1979  4:37 pm

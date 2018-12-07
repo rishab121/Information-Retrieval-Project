@@ -1,0 +1,19 @@
+
+
+
+reducing truncation errors using cascading accumulators
+
+when accumulating a large number of quantities
+as in numerical integration the sum itself 
+may become much larger than the individual addends
+ this results in truncation error  much of this 
+error can be eliminated using cascading accumulators
+as noted in a recent article by wolfe  a simpler 
+and slightly more flexible algorithm is presented which
+deals also with the case of negative addends
+
+cacm january 1965
+
+ross d r
+
+ca650104 jb march 8 1978  2:54 pm

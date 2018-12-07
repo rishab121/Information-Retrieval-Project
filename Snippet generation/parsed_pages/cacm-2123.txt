@@ -1,0 +1,15 @@
+
+
+
+generator of random numbers satisfying the
+poisson distribution algorithm 369 $g5
+
+cacm january 1970
+
+schaffer h e
+
+poisson distribution random number generator
+
+5.5
+
+ca700108 jb february 14 1978  1:53 pm

@@ -1,0 +1,22 @@
+
+
+
+on computing radiation integrals
+
+the relative merit and cost of four ways of
+evaluating typical radiation integrals containing 
+spherical bessel functions are investigated  these methods
+are desk machine evaluation of a finite series 
+integration of the appropriate differential equation
+by a reeves electronic analog computer and by a 
+litton 40 ibm 704 computer  results are generally applicable
+to equations separated from a helmholtz 
+or wave equation
+
+cacm february 1959
+
+hansen r c
+bailin l l
+rutishauser r w
+
+ca590205 jb march 22 1978  8:16 pm

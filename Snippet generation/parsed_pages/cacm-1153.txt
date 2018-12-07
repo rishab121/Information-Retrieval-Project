@@ -1,0 +1,17 @@
+
+
+
+a fast procedure for generating normal random variables
+
+a technique for generating normally distributed
+random numbers is described  it is faster 
+than those currently in general use and is readily
+applicable to both binary and decimal computers
+
+cacm january 1964
+
+marsaglia g
+maclaren m d
+bray t a
+
+ca640101 jb march 10 1978  5:43 am

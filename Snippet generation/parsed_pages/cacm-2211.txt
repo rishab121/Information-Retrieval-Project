@@ -1,0 +1,26 @@
+
+
+
+scanned-display computer graphics
+
+a television-like scanned-display system has
+been successfully implemented on a honeywell ddp-224 
+computer installation  the scanned image is stored
+in the core memory of the computer and software 
+scan conversion is used to convert the rectangular coordinates
+of a point to the appropriate word and 
+bit in an output display array in core storage  results
+thus far indicate that flicker-free displays 
+of large amounts of data are possible with reasonably
+fast graphical interaction  a scanned image of 
+size 240 x 254 points is displayed at a 30 frame-per-second rate
+
+cacm march 1971
+
+noll a m
+
+computer graphics scanned-display scan conversion raster displays
+
+4.41 6.35
+
+ca710301 jb february 3 1978  4:53 pm

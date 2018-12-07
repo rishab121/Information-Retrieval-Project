@@ -1,0 +1,12 @@
+
+
+
+adapting optimal code generation for arithmetic
+expressions to the instruction sets available 
+on present-day computers errata
+
+cacm october 1974
+
+stockhausen p f
+
+ca741012 jb january 16 1978  11:05 am

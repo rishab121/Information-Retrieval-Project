@@ -1,0 +1,15 @@
+
+
+
+an alternative approach to mutual recursion
+in algol 60 using restricted compilers
+
+cacm april 1974
+
+balfour a
+
+algol 60 mutual recursion compiler restrictions
+
+4.12 4.22
+
+ca740412 jb february 1 1978  10:32 am

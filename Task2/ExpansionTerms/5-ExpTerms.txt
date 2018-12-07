@@ -1,10 +1,10 @@
 system
 language
 interactive
-systems
 on-line
+systems
+jb
 1978
 graphic
-jb
 cacm
-monitor
+program

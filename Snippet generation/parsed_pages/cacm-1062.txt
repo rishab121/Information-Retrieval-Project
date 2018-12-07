@@ -1,0 +1,26 @@
+
+
+
+symbol manipulation in fortran-sasp i subroutines
+
+a set of subroutines for use in fortran are
+described whose purpose is to synthesize output 
+strings from i input strings which have been analyzed
+by the shadow general syntactic analysis subroutine 
+reported earlier and/or ii packed bcd strings formed
+in any way  function-type subroutines are included 
+for intermediate manipulations which are performed
+on the strings which are stored in an abbreviated 
+internal representation  the automatic way in which
+an internal representation for each newly created 
+substring is stored sequentially in a block of common
+storage and the manner in which a storage block 
+is dynamically allocated for that purpose are discussed
+
+cacm june 1964
+
+bailey m j
+barnett m p
+burleson p b
+
+ca640605 jb march 9 1978  9:43 pm

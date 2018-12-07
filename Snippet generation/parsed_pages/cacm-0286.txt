@@ -1,0 +1,10 @@
+
+
+
+an iterative method for inversion of power series
+
+cacm september 1961
+
+bramhall j n
+
+ca610908 jb march 16 1978  9:41 pm

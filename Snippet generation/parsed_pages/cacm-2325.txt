@@ -1,0 +1,22 @@
+
+
+
+numerical mathematics and computer science
+
+numerical mathematics is viewed as the analysis
+of continuous algorithms  four of the components 
+of numerical mathematics are discussed  these are foundations
+finite precision number systems computational 
+complexity synthesis and analysis of algorithms
+analysis of error programs and program libraries
+
+cacm july 1972
+
+traub j f
+
+numerical mathematics computer science mathematics
+of computation algorithms continuous algorithms
+
+1.3 5.0 5.1 5.25
+
+ca720703 jb january 30 1978  3:17 pm

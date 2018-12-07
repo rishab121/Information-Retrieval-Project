@@ -1,0 +1,11 @@
+
+
+
+a programmed binary counter for the ibm type 650 calculator
+
+cacm january 1958
+
+kenny b c
+hunter j a
+
+ca580103 jb march 22 1978  9:25 pm

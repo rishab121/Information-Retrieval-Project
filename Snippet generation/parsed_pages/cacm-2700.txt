@@ -1,0 +1,26 @@
+
+
+
+reduction a method of proving properties of parallel programs
+
+when proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible ie that the statement
+cannot be interleaved with the rest of the program 
+ here sufficient conditions are obtained to show that
+the assumption that a statement is indivisible 
+can be relaxed and still preserve properties such as
+halting  thus correctness proofs of a parallel 
+system can often be greatly simplified
+
+cacm december 1975
+
+lipton r j
+
+deadlock free reduction interruptible indivisible
+parallel program semaphore verification 
+method process computation sequence
+
+4.32 4.35 5.24
+
+ca751207 jb january 5 1978  3:59 pm

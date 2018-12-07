@@ -1,0 +1,31 @@
+
+
+
+joining policies in a multipriority multiclass batch computer system
+
+consider a multipriority batch computer system
+which users from several different classes may 
+join its toll service and waiting charges  such a
+system is formulated here as a semi-markov decision 
+process in which the aim of arriving users is to minimize
+their expected loss  the optimal joining 
+policy is one of arriving users who may join the system
+at some of its queues is a control limit policy 
+with a single control number for any possible queue
+and the users class a newly arriving user will 
+join a queue that is not filled up to the control number
+corresponding to this queue and the users class 
+ in this paper control numbers as well as lower and upper
+bounds for the control numbers and the capacities 
+of the systems queues are derived
+
+cacm march 1976
+
+babad j m
+modiano m m
+
+priority queues semi-markov process price scheduling operating system
+
+4.39 8.3
+
+ca760302 dmm january 9 1978  2:14 pm

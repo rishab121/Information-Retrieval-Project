@@ -1,0 +1,34 @@
+
+
+
+three-dimensional computer display
+
+a stereographic display terminal has been
+produced using the raster display brad recently 
+developed at brookhaven  the system uses a rotating refresh
+memory to feed standard television monitors 
+ to produce a stereographic display the computer calculates
+the projected video images of an object 
+viewed from two separate points  the resulting video
+maps are stored on separate refresh bands of the 
+rotating memory  the two output signals are connected
+to separate color guns of a color television monitor 
+thus creating a superimposed image on the screen  optical
+separation is achieved by viewing the image 
+through color filters  the display is interactive and
+can be viewed by a large group of people at the 
+same time
+
+cacm june 1969
+
+ophir d
+shepherd b j
+spinrad r j
+
+computer graphics three-dimensional display swept
+raster display interactive stereographic terminal 
+video map color separation
+
+2.0 4.49 6.35
+
+ca690602 jb february 17 1978  1:34 pm

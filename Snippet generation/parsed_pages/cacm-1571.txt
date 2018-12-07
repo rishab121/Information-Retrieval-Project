@@ -1,0 +1,23 @@
+
+
+
+a user-oriented time-shared online system
+
+an existing system and planned additions within
+the data processing laboratory of the brain 
+research institute at ucla is described  the system
+represents an attempt to provide research workers 
+of the institute with the ability to interact directly
+with a highly sophisticated digital computing 
+complex in the most direct and simple fashion possible
+ it is anticipated that with the accumulation 
+of experience using the present system significant advances
+will be possible in the system design through 
+determination of interface parameters between the
+biological scientist and the digital computer
+
+cacm july 1967
+
+betyar l
+
+ca670702 jb february 28 1978  9:08 am

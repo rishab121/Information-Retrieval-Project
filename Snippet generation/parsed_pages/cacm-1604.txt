@@ -1,0 +1,21 @@
+
+
+
+further analysis of a computing center environment
+
+empirical distributions of program lengths
+execution times processing times and loading 
+times of over 10,000 jobs serviced in a university computing
+center environment are presented  the data 
+are subdivided according to certain characteristics of users
+and jobs to obtain selected empirical conditional 
+distributions of those time properties as well as statistical
+measures of other interesting properties 
+ the results are interpreted in terms of the properties of the system studied
+
+cacm may 1967
+
+walter e s
+wallace v l
+
+ca670502 jb february 28 1978  11:02 am

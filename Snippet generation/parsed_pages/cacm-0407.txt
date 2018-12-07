@@ -1,0 +1,10 @@
+
+
+
+madcap a scientific compiler for a displayed formula textbook language
+
+cacm january 1961
+
+wells m b
+
+ca610107 jb march 17 1978  1:21 am

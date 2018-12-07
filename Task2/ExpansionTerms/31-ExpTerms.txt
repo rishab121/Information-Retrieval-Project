@@ -1,10 +1,10 @@
 picture
 scan
-computer
 display
+computer
 algorithms
 1978
 cacm
 jb
 programming
-conversion
+surface

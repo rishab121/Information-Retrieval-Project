@@ -1,0 +1,24 @@
+
+
+
+a decision matrix as the basis for a simple data input routine
+
+currently a great deal of time and effort is
+being spent on the development of bigger and better 
+compiler languages multiprogram executive systems
+etc  since the implementation of  of new methods 
+and procedures is not instantaneous but rather occurs
+by an evolutionary process we should be concerned 
+also with the problem of maintaining improving and
+incorporating new ideas into existing systems  it 
+is with this somewhat neglected area that the author is
+interested  a method employing a decision matrix 
+is presented for the handling of a standard systems
+programming problemthat of providing a data input 
+routine
+
+cacm december 1962
+
+vasilakos g j
+
+ca621204 jb march 17 1978  5:15 pm

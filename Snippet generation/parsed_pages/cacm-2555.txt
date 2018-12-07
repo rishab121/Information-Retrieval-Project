@@ -1,0 +1,29 @@
+
+
+
+variable-precision exponentiation
+
+a previous paper presented an efficient algorithm
+called the recomputation algorithm for 
+evaluating a rational expression to within any desired tolerance
+on a computer which performs variable-precision 
+arithmetic operations  the recomputation algorithm can be
+applied to expressions involving any variable-precision 
+operations having o10^-p + sumei error bounds
+where p denotes the operations precision and 
+ei denotes the error in the operations ith argument
+ this paper presents an efficient variable-precision 
+exponential operation with an error bound of the above
+order  other operations such as log sin and 
+cos which have simple series expansions can be handled similarly
+
+cacm january 1973
+
+richman p l
+
+variable-precision exponential function
+error analysis interval arithmetic
+
+5.11
+
+ca730106 jb january 24 1978  4:32 pm

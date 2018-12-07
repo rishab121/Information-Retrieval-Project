@@ -1,0 +1,25 @@
+
+
+
+automast automatic mathematical analysis and symbolic translation
+
+a procedure for numerically solving systems
+of ordinary differential equation is shown to also 
+generate symbolic solutions  the procedure is based
+on a finite taylor series expansion that includes 
+an estimate of the error in the final result  a computer
+program is described that reads in a system 
+of such equations and then generates the expansions
+for all of the dependent variables the expansions 
+are determined symbolically hence any non-numeric parameters
+in the original equations are carried automatically 
+into the final expansions  thus the exact influence
+of any parameters on the problem solution can be 
+easily displayed
+
+cacm august 1966
+
+ball w e
+berns r i
+
+ca660810 jb march 2 1978  7:16 pm

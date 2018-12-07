@@ -1,0 +1,45 @@
+
+
+
+a method for obtaining digital signatures and public-key cryptosystems
+
+an encryption method is presented with the novel
+property that publicly revealing an encryption 
+key does not thereby reveal the corresponding decryption
+key  this has two important consequences 1 
+couriers or other secure means are not needed to transmit
+keys since a message can be enciphered using 
+an encryption key publicly revealed by the intended recipient
+ only he can decipher the message since 
+only he knows the corresponding decryption key  2
+a message can be signed using a privately held 
+decryption key  anyone can verify this signature using
+the corresponding publicly revealed encryption 
+key  signatures cannot be forged and a signer cannot
+later deny the validity of his signature  this 
+has obvious applications in electronic mail and electronic
+funds transfer systems  a message is 
+encrypted by representing it as a number m raising
+m to a publicly specified power e and then taking 
+the remainder when the result is divided by the publicly
+specified product n of two large secret prime 
+numbers p and q  decryption is similaronly a different
+secret power d is used where e  d  1 modp-1 
+ q-1  the security of the system rests in part on
+the difficulty of factoring the published divisor 
+n
+
+cacm february 1978
+
+rivest r
+shamir a
+adleman l
+
+digital signatures public-key cryptosystems
+privacy authentication security factorization 
+prime number electronic mail message-passing
+electronic funds transfer cryptography
+
+2.12 3.15 3.50 3.81 5.25
+
+ca780202 jb march 28 1978  4:40 pm

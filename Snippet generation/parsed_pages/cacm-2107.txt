@@ -1,0 +1,20 @@
+
+
+
+the quadratic quotient method a hash
+code eliminating secondary clustering
+
+secondary clustering as a cause of hash code inefficiency is discussed and a 
+new hashing method based on its elimination is presented  comparisons with 
+previous methods are made both analytically and empirically
+
+cacm february 1970
+
+bell j r
+
+hashing hash code scatter storage calculated address clustering
+search symbol table collisions keys table look-up 
+
+3.74 4.9
+
+ca700208 jb february 14 1978  10:18 am

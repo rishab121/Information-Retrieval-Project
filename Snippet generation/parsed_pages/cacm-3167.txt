@@ -1,0 +1,20 @@
+
+
+
+updating mean and variance estimates an improved method
+
+a method of improved efficiency
+is given for updating the mean and variance of weighted sampled data
+when an additional data value is included in the set  evidence
+is presented that the method is stable and at least
+as accurate as the best existing updating method 
+
+cacm september 1979
+
+west d
+
+mean standard deviation variance updating estimates removing data
+
+5.5 5.19
+
+ca790908 db january 16 1980  4:47 pm

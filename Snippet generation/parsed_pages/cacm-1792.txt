@@ -1,0 +1,40 @@
+
+
+
+exploratory experimental studies comparing
+online and off line programming performance
+
+two exploratory experiments were conducted at
+system development corporation to compare debugging 
+performance of programmers working under conditions
+of on-line and off line access to a computer  these 
+are the first known studies that measure programmers
+performance under controlled conditions for standard 
+tasks  statistically significant results of both experiments
+indicated faster debugging under online 
+conditions but perhaps the most important practical finding
+involves the striking individual differences 
+in programmer performance  methodological problems encountered
+in designing and conducting these experiments 
+are described limitations of the findings are pointed
+out hypotheses are presented to account for results 
+and suggestions are made for further research
+
+cacm january 1968
+
+sackman h
+erikson w j
+grant e e
+
+online vs off line performance programmer/computer
+communication programming experimental-empirical 
+studies programming cost effectiveness programming
+performance debugging effectiveness time sharing 
+vs batch processing factor analysis application
+programmer trainee performance basic programming 
+knowledge test experienced programmer study analysis
+of variance programmer individual differences
+
+2.40
+
+ca680101 jb february 23 1978  2:58 pm

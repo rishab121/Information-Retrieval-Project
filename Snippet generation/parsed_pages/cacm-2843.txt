@@ -1,0 +1,22 @@
+
+
+
+tools and philosophy for software education 
+
+this paper describes a set of tools and a philosophy
+for teaching software that have been found 
+very useful in course at mit over the past seven years
+ the tools include programs such as simulators 
+graders compilers and monitor  these allow the instructor
+to augment the basic concepts with relevant 
+exciting and economical student project activities 
+
+cacm august 1976
+
+donovan j j
+
+software education simulators grading programs student assignments
+
+1.5 4.0
+
+ca760801 jb january 4 1978  10:39 am

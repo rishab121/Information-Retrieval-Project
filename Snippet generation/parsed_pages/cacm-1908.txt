@@ -1,0 +1,41 @@
+
+
+
+time-sharing and batch-processing  an experimental
+comparison of their values in a problem  
+solving situation
+
+an experimental comparison of problem-solving
+using time-sharing and batch-processing computer 
+systems conducted at mit is described in this paper
+ this study is the first known attempt to evaluate 
+two such systems for what may well be the predominant user
+population within the next decade-the professionals 
+who as nonprogrammers are using the computer as an
+aid in decision-making and problem-solving rather 
+than as a programming end in itself  statistically
+and logically significant results indicate equal 
+cost for usage of the two computer systems however
+a much higher level of performance is attained by 
+time-sharing users  there are indications that significantly
+lower costs would have resulted if the 
+time-sharing users had stopped work when they reached
+a performance level equal to that of the batch 
+users  the users speed of problem-solving and their
+attitudes made time-sharing the more favorable 
+system
+
+cacm may 1969
+
+gold m m
+
+time-sharing vs batch-processing user performance
+man/machine communications cost effectiveness 
+on-line vs off-line performance decision-making performance
+user/programmer behavior programming experimental 
+empirical studies problem-solving research in man/machine
+communications man/machine symbiosis
+
+2.11 2.40 3.36 3.51 3.80
+
+ca690501 jb february 17 1978  4:10 pm

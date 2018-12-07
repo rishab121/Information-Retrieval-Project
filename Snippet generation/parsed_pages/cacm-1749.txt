@@ -1,0 +1,27 @@
+
+
+
+the structure of the the-multiprogramming system
+
+a multiprogramming system is described in
+which all activities are divided over a number of 
+sequential processes  these sequential processes are placed
+at various hierarchical levels in each 
+of which one or more independent abstractions have been
+implemented  the hierarchical structure proved 
+to be vital for the verification of the logical soundness
+of the design and the correctness of its implementation
+
+cacm may 1968
+
+dijkstra e w
+
+operating system multiprogramming system system
+hierarchy system structure real-time debugging 
+program verification synchronizing primitives cooperating
+sequential processes system levels input-output 
+buffering multiprogramming processor sharing multiprocessing
+
+4.30 4.32
+
+ca680507 jb february 23 1978  9:20 am

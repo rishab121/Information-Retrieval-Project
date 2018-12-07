@@ -1,0 +1,29 @@
+
+
+
+an example of hierarchical design and proof
+
+hierarchical programming is being increasingly
+recognized as helpful in the construction of 
+large programs  users of hierarchical techniques claim
+or predict substantial increases in productivity 
+and in the reliability of the programs produced  in this
+paper we describe a formal method for hierarchical 
+program specification implementation and proof  we
+apply this method to a significant list processing 
+problem and also discuss a number of extensions to current
+programming languages that ease hierarchical 
+program design and proof
+
+cacm december 1978
+
+spitzen j
+levitt k
+robinson l
+
+program verification specification data abstraction
+software modules hierarchical structures
+
+4.0 4.6 5.21 5.24
+
+ca781209 dh january 16 19794:43 pm

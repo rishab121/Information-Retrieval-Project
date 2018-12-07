@@ -1,0 +1,19 @@
+
+
+
+clp-the cornell list processor
+
+presented in this paper are the highlights of
+clp a teaching language which has been employed 
+at cornell university and was constructed to serve as a means
+of introducing simulation and other list-processing 
+concepts  the various advantages of clp are discussed and examples are given
+
+cacm april 1965
+
+conway r w
+delfausse j j
+maxwell w l
+walker w e
+
+ca650403 jb march 7 1978  4:02 pm

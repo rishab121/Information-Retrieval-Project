@@ -1,0 +1,19 @@
+
+
+
+line numbers made cheap
+
+a technique is described for run-time line number administration
+to be used for implementations of high level languages  under suitable
+circumstances this method requires absolutely no overhead
+in either time or space during execution of the program 
+
+cacm october 1979
+
+klint p
+
+line number administration diagnostic messages abstract machine code 
+
+4.12 4.13 4.20 4.42
+
+ca791004 db january 17 1980  9:57 am

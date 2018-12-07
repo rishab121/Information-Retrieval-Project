@@ -1,0 +1,20 @@
+
+
+
+a description of the apt language
+
+the apt automatically programmed tools language
+for numerical control programming is described 
+using the metalinguistic notation introduced in the algol
+60 report  examples of apt usage are included 
+ presented also are an historical summary of the development
+of apt and a statement concerning its present 
+status  
+
+cacm november 1963
+
+brown s a
+drayton c e
+mittman b
+
+ca631101 jb march 13 1978  3:59 pm

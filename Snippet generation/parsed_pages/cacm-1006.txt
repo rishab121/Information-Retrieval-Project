@@ -1,0 +1,14 @@
+
+
+
+a storage allocation and reference structure
+
+a method is proposed and discussed which allows
+a subscripted-variable capability in the fortran 
+sense to be added to autocoder-type assembly systems
+
+cacm september 1964
+
+fitzwater d r
+
+ca640905 jb march 9 1978  6:11 pm

@@ -1,0 +1,34 @@
+
+
+
+a proposal to establish a pseudo virtual memory via writable overlays
+
+many computer systems solve executable storage
+size problems for large programs by using overlays 
+ however it appears that no one overlay scheme contains
+a well-balanced combination of the most useful 
+capabilities which are found in various existing techniques
+ a proposal is presented which utilizes 
+several of the best capabilities from existing schemes
+and is complemented by several additional features 
+eg writable overlays  the writable overlay capability
+provides a virtual memory effect although the 
+programmer may still be required to design the overlay
+configuration  since overlay structuring is a 
+complex task several tools including a graphic display
+are included in the proposal in order to aid 
+the programmer in the design  the content of overlays
+is briefly discussed and it is noted that many 
+of the details of the final overlay configuration may be decided after the fact
+
+cacm june 1972
+
+spacek t r
+
+overlay overlay structure segment segmentation
+folding paging linkage editor collector 
+loader virtual memory
+
+4.10 4.12 4.39 4.49
+
+ca720602 jb january 31 1978  8:53 am

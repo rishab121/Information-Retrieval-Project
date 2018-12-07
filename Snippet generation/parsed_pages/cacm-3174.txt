@@ -1,0 +1,21 @@
+
+
+
+password security a case history
+
+this paper describes the history of the design of the password
+security scheme on a remotely accessed time-sharing system
+the present design was the result of countering observed attempts
+to penetrate the system  the result is a compromise between
+extreme security and ease of use
+
+cacm november 1979
+
+morris r
+thompson k
+
+operating systems passwords computer security
+
+2.41 4.35
+
+ca791102 db january 18 1980  10:03 am

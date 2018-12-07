@@ -1,0 +1,32 @@
+
+
+
+a use of fast and slow memories in list-processing languages
+
+a scheme is described which permitting a substantial
+increase in memory space utilized to store 
+list-structured data  it consists in reducing to one
+level a nonhomogeneous store composed of fast core 
+and slow disk or drum memories  the space available
+in slow memory is divided into pages each containing 
+a given number of machine words  the reduction to a
+one-level memory is performed by a program which 
+leaves the most often called pages in the fast memory
+ when a new page from slow store is requested 
+the page in core having the longest period of inactivity
+is transferred back to the slow store  the 
+complete scheme has been implemented in connection with
+a lisp embedding into algol using an ibm 7044 
+with 32k of core memory and disks  gains in memory space
+were about 100-fold  as often happens in programming 
+applications the price of the additional space is computer
+time  although the disks have an access time 
+10^4 times slower than core tests indicate that the
+actual slow down varied from 3 to 10 depending 
+on the number of pages available in the fast store
+
+cacm february 1967
+
+cohen j
+
+ca670202 jb february 28 1978  4:06 pm

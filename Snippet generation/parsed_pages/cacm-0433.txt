@@ -1,0 +1,10 @@
+
+
+
+fixed-world-length arrays in variable-word-length computers
+
+cacm december 1962
+
+sonquist j a
+
+ca621206 jb march 17 1978  5:10 pm

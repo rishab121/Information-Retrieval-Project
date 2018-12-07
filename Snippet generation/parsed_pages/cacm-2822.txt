@@ -1,0 +1,23 @@
+
+
+
+homilies for humble standards
+
+copyright 1976 association for computing
+machinery inc general permission to republish 
+but not for profit all or part of this material is granted
+provided that acms copyright notice is given 
+and that reference is made to the publication to its
+data of issue and to the fact that reprinting 
+privileges were granted by permission of
+the association for computing machinery
+
+cacm november 1976
+
+ross d t
+
+standards case standards criteria for standards standardization
+
+1.3 2.1 2.3
+
+ca761101 jb january 3 1978  3:47 pm

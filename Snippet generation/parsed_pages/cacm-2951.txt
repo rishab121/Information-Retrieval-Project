@@ -1,0 +1,35 @@
+
+
+
+dynamic response time prediction for computer networks
+
+if the ultimate aim of a computing network
+is resource sharing then the human component as 
+well as the technical component of networking must
+be fully investigated to achieve this goal  this 
+research is a first step toward assisting the user in participating
+in the vast store of resources available 
+on a network analytical simulation and statistical performance
+evaluation tools are employed to investigate 
+the feasibility of a dynamic response time monitor
+that is capable of providing comparative response 
+time information for users wishing to process various
+computing applications at some network computing 
+node  the research clearly reveals that sufficient
+system data are currently obtainable at least for 
+the five diverse arpa network systems studied in detail
+to describe and predict the response time for 
+network time-sharing systems as it depends on some
+measure of system activity or load level
+
+cacm july 1977
+
+mamrak s a
+
+response time monitor computer networks time-sharing
+systems comparative response time arpa 
+network anlytic modeling simulation benchmark jobs system measurement
+
+4.6 6.20 8.1
+
+ca770701 jb december 28 1977  12:42 pm

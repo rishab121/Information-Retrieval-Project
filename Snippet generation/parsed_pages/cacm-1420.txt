@@ -1,0 +1,20 @@
+
+
+
+a new uniform pseudorandom number generator
+
+a new multiplicative congruential pseudorandom
+number generator is discussed in which the 
+modulus is the largest prime within accumulator capacity
+and the multiplier is a primitive root of that 
+prime  this generator passes the usual statistical
+tests and in addition the least significant bits 
+appear to be as random as the most significant bits-a
+property which generators having modulus 2^k do 
+not possess
+
+cacm june 1966
+
+hutchinson d w
+
+ca660602 jb march 3 1978  9:01 am

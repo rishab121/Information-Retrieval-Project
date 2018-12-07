@@ -1,0 +1,31 @@
+
+
+
+a cell organized raster display for line drawings
+
+raster scan computer graphics displays with
+real time character generators have previously 
+been limited to alphanumeric characters  a display is
+described which extends the capabilities of this 
+organization to include general graphics  the feasibility
+of such a display is shown by deriving the 
+minimum number of patterns required in the read only
+memory of the character generator to synthesize 
+an arbitrary line  the synthesis process does not compromise
+picture quality since the resulting dot 
+patterns are identical with those of a conventional
+raster display  furthermore the time constraints 
+of a raster display are shown to be satisfied for
+a typical design for very complex line drawings
+
+cacm february 1974
+
+jordan b w jr
+barrett r c
+
+graphics raster display line drawing discrete
+image dot generation matrix displays
+
+4.41 6.35 8.2
+
+ca740202 jb january 18 1978  1:28 pm

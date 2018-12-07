@@ -1,0 +1,39 @@
+
+
+
+design and implementation of a diagnostic compiler for pl/i
+
+pl/c is a compiler for a dialect for pl/i  the
+design objective was to provide a maximum degree 
+of diagnostic assistance in a batch processing environment
+ for the most part this assistance is implicit 
+and is provided automatically by the compiler the most remarkable
+characteristic of pl/c is its perseverance-it 
+completes translation of every program submitted and
+continues execution until a user-established error 
+limit is reached this requires that the compiler repair
+errors encountered during both translation 
+and execution and the design of pl/c is dominated by
+this consideration  pl/c also introduces several 
+explicit user-controlled facilities for program testing
+ to accommodate these extensions to pl/i without 
+abandoning compatibility with ibm compiler pl/c permits
+pseudo comments-constructions whose contents 
+can optionally be considered either source test or comment
+ in spite of the diagnostic effort pl/c is 
+a fast and efficient processor  it effectively demonstrates
+that compilers can provide better diagnostic 
+assistance than is customarily offered even when a sophisticated
+source language is employed and that 
+this assistance need not be prohibitively costly
+
+cacm march 1973
+
+conway r w
+wilcox t r
+
+compilers debugging pl/i programming languages
+
+1.5 4.12 4.42
+
+ca730305 jb january 24 1978  10:45 am

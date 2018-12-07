@@ -1,0 +1,32 @@
+
+
+
+experiments with the m  n tree-searching program
+
+the m  n procedure is an improvement to the mini-max
+backing-up procedure widely used in computer program for game-playing
+and other purposes  it is based on the principle that it is
+desirable to have many options when making decisions in the face of
+uncertainty  the mini-max procedure assigns to a max min node
+the value of the highest lowest valued successor to that node 
+the m  n procedure assigns to a max min node some function of
+the m n highest lowest valued successors  an m  n procedure was
+written in lisp to play the game of kalah and it was demonstrated that 
+the m  n procedure is significantly superior to the mini-max
+procedure  the statistical significance of important conclusions is given 
+since information on statistical significance has often been lacking in papers 
+on computer experiments in the artificial intelligence field these experiments 
+can perhaps serve as a model for future work
+
+cacm march 1970
+
+slagle j r
+dixon j k
+
+artificial intelligence heuristic program tree searching
+lisp kalah game playing decision theory 
+mini-max backing-up procedure backing-up procedures
+
+3.60 3.64 3.66
+
+ca700302 jb february 14 1978  8:34 am

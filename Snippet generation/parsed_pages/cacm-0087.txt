@@ -1,0 +1,11 @@
+
+
+
+a note on a method for generating points
+uniformly on n-dimensional spheres
+
+cacm april 1959
+
+muller m e
+
+ca590405 jb march 22 1978  7:04 pm

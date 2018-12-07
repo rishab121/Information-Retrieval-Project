@@ -1,0 +1,22 @@
+
+
+
+a 48-bit pseudo-random number generator
+
+a new 48-bit pseudo-random number generator suitable
+for several computers was tested statistically 
+for randomness to determine its adequacy for use in monte
+carlo programs  frequency tests distributions 
+of certain low-order moments runs up and down and runs
+above and below the mean were applied to one-half 
+million generated numbers lying within the interval
+0,1 and to three sets of integers obtained from 
+specified bits within the generated numbers  these
+tests substantiated the randomness of all numbers 
+except for the set of integers coming from the least significant bits
+
+cacm august 1961
+
+kuehn h g
+
+ca610806 jb march 16 1978  10:09 pm

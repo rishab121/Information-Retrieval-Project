@@ -1,0 +1,14 @@
+
+
+
+   certification of algorithm 271 quickersort
+
+   quickersort compiled and run without correction through the aldep translator
+for the cdc 1604a comparison of average sorting items with other recently
+published algorithms demonstrates quickersorts superior performance
+
+cacm may 1966
+
+blair c
+
+ca660516 es march 17 1982 10:10 am

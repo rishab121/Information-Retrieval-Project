@@ -1,0 +1,16 @@
+
+
+
+   microprogramming emulators and programming languages
+
+  the problem we have been concerned with is that of converting language to
+action  or intellectual energy to mechanical energy the medium that we use 
+for this purpose is language and therefore we are preoccupied with the subject
+of language in the areas of language investigation we have concentrated first 
+on formalizing syntax and then on semantics
+
+cacm march 1966
+
+greem j
+
+ca660318 es march 17 1982 10:10 am

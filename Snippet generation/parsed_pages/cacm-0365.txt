@@ -1,0 +1,10 @@
+
+
+
+bessel functions of integral order and complex argument
+
+cacm april 1961
+
+gray m c
+
+ca610403 jb march 17 1978  12:13 am

@@ -1,0 +1,35 @@
+
+
+
+optimizing the performance of a relational algebra database interface
+
+an approach for implementing a smart interface
+to support a relational view of data is proposed 
+ the basic idea is to employ automatic programming techniques
+so that the interface analyzes and efficiently 
+refines the high level query specification supplied by
+the user  a relational algebra interface called 
+squiral which was designed using this approach is described
+in detail squiral seeks to minimize query 
+response time and space utilization by 1 performing
+global query optimization 2 exploiting disjoint 
+and pipelined concurrency 3 coordinating sort orders
+in temporary relations 4 employing directory 
+analysis and 5 maintaining locality in page references
+ algorithms for implementing the operators 
+of e f codds relational algebra are presented and
+a methodology for composing them to optimize the 
+performance of a particular user query is described
+
+cacm october 1975
+
+smith j m
+yen-tang chang p
+
+relational database database optimization inverted
+file automatic programming query language 
+data manipulation language very high level language
+
+3.70 4.13 4.33
+
+ca751003 jb january 6 1978  11:19 am

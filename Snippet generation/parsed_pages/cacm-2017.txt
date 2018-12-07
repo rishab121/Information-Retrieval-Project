@@ -1,0 +1,29 @@
+
+
+
+sorting in a paging environment
+
+this sorting study was part of an extensive measurement project
+undertaken on the m44/44x an experimental paging system which was
+conceived and implemented at ibm research in order to explore the
+virtual machine concept  the study was concerned with the implementation 
+of sorting procedures in the context of the dynamic paging
+environment characteristic of virtual memory machines  descriptions of 
+the experimental sort programs and analysis of the performance
+measurement results obtained for them are presented the insight gained 
+from the experimental effort is used to arrive at a set of
+broad guidelines for writing sort programs for a paging environment
+
+cacm august 1970
+
+brawn b s
+gustavson g
+mankin e s
+
+sorting merging virtual machines paging systems dynamic
+storage allocation measurement of systems program behavior
+performance evaluation memory management
+
+4.32 4.49 4.9 5.31
+
+ca700804 jb february 10 1978  3:51 pm

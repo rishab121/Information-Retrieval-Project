@@ -1,0 +1,10 @@
+
+
+
+a class of matrices to test inversion procedures
+
+cacm december 1964
+
+cline r e
+
+ca641216 jb march 9 1978  3:16 pm

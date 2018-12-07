@@ -1,0 +1,24 @@
+
+
+
+weighted increment linear search for scatter tables
+
+a new linear search for hash tables whose increment
+step is a function of the key being addressed 
+is presented  comparisons with known methods are given
+in terms of efficiency and computation complexity 
+ in particular the new method applies to tables of
+size n  2^r  it allows full table searching and 
+practically eliminates primary clustering at a very low cost
+
+cacm december 1972
+
+luccio f
+
+linear search weighted increment search scatter
+storage hash table key hash address clustering 
+search length
+
+3.73 3.74 4.9
+
+ca721204 jb january 27 1978  11:25 am

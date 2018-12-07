@@ -1,0 +1,23 @@
+
+
+
+wengerts numerical method for partial derivatives
+orbit determination and quasilinearization
+
+in a recent article in the communications
+of the acm r wengert suggested a technique for 
+machine evaluation of the partial derivatives of a function
+given in analytical form  in solving non-linear 
+boundary-value problems using quasilinearization many
+partial derivatives must be formed analytically 
+and then evaluated numerically  wengerts method appears
+very attractive from the programming viewpoint 
+equations which might not otherwise be undertaken
+
+cacm april 1965
+
+bellman r e
+kagiwada h
+kalaba r e
+
+ca650413 jb march 7 1978  3:39 pm

@@ -1,0 +1,28 @@
+
+
+
+an automatic data acquisition and inquiry system using disk files
+
+lockheed missiles and space company has installed
+a large-scale automatic data acquisition 
+ada system which ties together the companys manufacturing
+facilities located in van nuys and sunnyvale 
+california  the system includes over 200 remote input
+stations which collect and transmit company operating 
+data to a central data processing center  two rca 301
+edp systems are used to record and control the 
+flow of data transmitted to the data processing center
+ a large capacity rca 366 data disc file is used 
+to store information required to provide up-to-date
+information in response to inquiries received from 
+remotely located inquiry stations  in addition to storage
+of data on the disk files the system automatically 
+records all incoming and outgoing data on magnetic tape
+to be used as input to the companys conventional 
+off-line business data processing applications
+
+cacm october 1963
+
+edwards j d
+
+ca631029 jb march 13 1978  4:34 pm

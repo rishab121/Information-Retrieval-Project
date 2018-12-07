@@ -1,0 +1,11 @@
+
+
+
+a computer routine for quadratic and linear
+programming problems algorithm r431
+
+cacm march 1974
+
+ravindran a
+
+ca740308 jb january 18 1978  11:10 am

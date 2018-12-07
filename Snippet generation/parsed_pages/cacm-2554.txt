@@ -1,0 +1,32 @@
+
+
+
+reduction of a band-symmetric generalized eigenvalue problem
+
+an algorithm is described for reducing the
+generalized eigenvalue problem ax  lambda bx to 
+an ordinary problem in case a and b are symmetric band
+matrices with b positive definite  if n is the 
+order of the matrix and m the bandwidth the matrices
+a and b are partitioned into m-by-m blocks and 
+the algorithm is described in terms of these blocks
+ the algorithm reduces the generalized problem to 
+an ordinary eigenvalue problem for a symmetric band
+matrix c whose bandwidth is the same as a and b 
+ the algorithm is similar to those of rutishauser and
+schwartz for the reduction of symmetric matrices 
+to band form  the calculation c requires order mn^2
+operation  the round-off error in the calculation 
+of c is of the same order as the sum of the errors at
+each of the n/m steps of the algorithm the latter 
+errors being largely determined by the condition of b with respect to inversion
+
+cacm january 1973
+
+crawford c r
+
+generalized eigenvalues symmetric band matrices
+
+5.14
+
+ca730107 jb january 24 1978  4:26 pm

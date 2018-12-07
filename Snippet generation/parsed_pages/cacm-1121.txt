@@ -1,0 +1,16 @@
+
+
+
+comments on a continued operation notation
+
+this note is intended to clarify and correct
+several points in a recent paper describing some 
+notations for symbol manipulation by m barnett comm acm 6august 1963
+
+cacm march 1964
+
+barnett m p
+gerard j m
+sambles a w
+
+ca640310 jb march 10 1978  2:45 am

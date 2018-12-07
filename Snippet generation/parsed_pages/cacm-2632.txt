@@ -1,0 +1,36 @@
+
+
+
+hydra the kernel of a multiprocessor operating system
+
+this paper describes the design philosophy of
+hydra-the kernel of an operating system for cmmp 
+the carnegie-mellon multi-mini-processor  this philosophy
+is realized through the introduction of a 
+generalized notion of resource both physical and virtual
+called an object  mechanisms are presented 
+for dealing with objects including the creation of new
+types specification of new operations applicable 
+to a given type sharing and protection of any reference
+to a given object against improper application 
+of any of the operations defined with respect to that
+type of object  the mechanisms provide a coherent 
+basis for extension of the system in two directions the
+introduction of new facilities and the creation 
+of highly secure systems 
+
+cacm june 1974
+
+wulf w
+cohen e
+corwin w
+jones a
+levin r
+pierson c
+pollack f
+
+operating system kernel nucleus protection security
+
+4.3 6.2
+
+ca740614 jb january 17 1978  2:40 pm

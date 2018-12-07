@@ -1,0 +1,17 @@
+
+
+
+   a non-heuristic program for proving elementary logical theorems
+
+   the paper discusses problems involved in designing a device capable of
+distinguishing among speech events that are normally recognized as different 
+by native speakers of a particular language parallels between these problems
+and those of chemical analysis are pointed out
+
+cacm january 1959
+
+dunham b
+fridshal r
+sward g l
+
+ca590102 es march 17 1982 10:10 am

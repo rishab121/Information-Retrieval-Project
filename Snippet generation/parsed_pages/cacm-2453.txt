@@ -1,0 +1,31 @@
+
+
+
+information theory applied to the conversion
+of decision tables to computer programs
+
+using ideas from information theory this paper
+develops a heuristic algorithm that converts 
+a limited entry decision table to a tree structured computer
+program with near minimum average processing 
+time  the method is applicable to any limited entry
+decision table and does not require that actions 
+have single rules or that the cost of testing conditions
+be equal  it is thus more general than the 
+previously published heuristic algorithms  compared
+to the optimal algorithm of reinwald and soland 
+this algorithm is easy to code and takes a much smaller
+translation time it is thus felt that it is 
+more useful in practice  the algorithm is well suited for
+manual conversion of decision tables to flowcharts
+
+cacm september 1973
+
+ganapathy s
+rajaraman v
+
+decision tables optimum computer programs information measure
+
+3.50 4.12 5.6
+
+ca730902 jb january 23 1978  10:01 am

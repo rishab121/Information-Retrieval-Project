@@ -1,0 +1,28 @@
+
+
+
+data filtering applied to information storage and retrieval applications
+
+manipulation of data strings is the most complex
+processing function in information storage 
+and retrieval applications  data string manipulation
+is discussed within the context of an interpretive 
+processing environment controlled by the use of procedural
+directives  the sequence of procedural directives 
+is derived from a job assumed to be expressed in a user-oriented
+source language  each data string with 
+the structured data environment data bank is explicitly
+or implicitly related to a format declaration
+residing in a format library  the processing mechanics
+associated with data string manipulation is developed 
+in accordance with a generalized data filtering concept
+ this results in the implementation of a two-part 
+data filter module that satisfies internal processing
+functions by filtering data strings through format 
+declarations associated with its input and output ports
+
+cacm november 1966
+
+larsen r p
+
+ca661101 jb march 2 1978  3:52 pm

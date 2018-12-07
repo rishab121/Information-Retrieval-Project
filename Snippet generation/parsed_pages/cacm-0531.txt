@@ -1,0 +1,38 @@
+
+
+
+person-matching by electronic methods
+
+record linkage in the updating of files is
+accomplished in many establishments through the 
+use of a preassigned number such as payroll number
+customer number or social security number  in 
+vital and health records however a unique number
+is generally not preassigned to an individual for 
+purposes of reporting services received to the health
+department  in order to determine whether different 
+physician reports refer to the same individual name
+and other identification must be compared  this 
+is a laborious operation which is subject to various
+errors because of name misspellings changes of 
+name upon marriage and other problems  we are interested
+in the maintenance of a psychiatric case register 
+in maryland where many of the reports from over a hundred
+psychiatric agencies refer to the same patient 
+ these records must be linked in order to provide unduplicated
+counts of individuals under care and longitudinal 
+records of psychiatric history  an earlier paper 1 describes
+our general procedures for register maintenance 
+by use of a digital computer honeywell 800  here
+we present in more detail our initial procedures 
+for the person-matching process in order to elicit comments
+and suggestions from persons who have had 
+experience in matching
+
+cacm july 1962
+
+phillips jr w
+bahn a k
+miyasaki m
+
+ca620730 jb march 17 1978  7:51 pm

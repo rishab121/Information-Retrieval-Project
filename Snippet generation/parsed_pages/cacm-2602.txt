@@ -1,0 +1,15 @@
+
+
+
+masked three-dimensional plot program
+with rotations j6 algorithm a483
+
+cacm september 1974
+
+watkins s l
+
+plotting three-dimensional plotting
+
+4.41
+
+ca740906 jb january 17 1978  8:49 am

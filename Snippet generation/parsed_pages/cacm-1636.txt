@@ -1,0 +1,23 @@
+
+
+
+invariant imbeding and the numerical integration
+of boundary-value problems for unstable linear 
+systems of ordinary differential equations
+
+in such diverse areas as radiative transfer
+in planetary atmospheres and optimal guidance and 
+control two-point boundary-value problems for unstable
+systems arise greatly complicating the numerical 
+solution  an invariant imbeding technique is presented
+which is useful in overcoming these frequently 
+encountered instabilities and the results
+of some numerical experiments are given
+
+cacm february 1967
+
+belman r e
+kagiwada h h
+kalaba r e
+
+ca670206 jb february 28 1978  3:28 pm

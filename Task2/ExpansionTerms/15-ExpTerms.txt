@@ -2,9 +2,9 @@ flow
 analysis
 algorithm
 program
-cacm
 time
+cacm
 data
-picture
 expressions
+picture
 code

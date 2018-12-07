@@ -1,0 +1,10 @@
+
+
+
+reduction of a symmetric bandmatrix to triple diagonal form
+
+cacm june 1963
+
+schwartz h r
+
+ca630616jb march 14 1978  10:09 am

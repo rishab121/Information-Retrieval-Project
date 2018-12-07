@@ -1,0 +1,14 @@
+
+
+
+product type trapezoidal integration algorithm a436
+
+cacm december 1972
+
+boland w r
+
+numerical integration product type quadrature trapezoidal integration
+
+5.16
+
+ca721211 jb january 27 1978  9:11 am

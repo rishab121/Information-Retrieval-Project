@@ -1,0 +1,12 @@
+
+
+
+compiling techniques for boolean expressions
+and conditional statements in algol 60
+
+cacm january 1961
+
+huskey h d
+wattenburg w h
+
+ca610115 jb march 17 1978  1:12 am

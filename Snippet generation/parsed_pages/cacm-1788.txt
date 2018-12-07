@@ -1,0 +1,33 @@
+
+
+
+toward a general processor for programming languages
+
+many efforts have been made to develop a better
+way of implementing a higher level programming 
+language than by the construction of a whole new compiler
+but so far none has proved generally satisfactory 
+ in this paper it is contended that a programming
+language is best described functionally as a body 
+of macro instructions and that the macro call constitutes
+a canonical form in terms of which a programming 
+notation may be described  a supporting discussion of the
+logical and his torical role of the macro instruction 
+is presented  also discussed are the conflict between
+machine independence and object program efficiency 
+and the question of where the greatest difficulties
+lie in compiler construction
+
+cacm january 1968
+
+halpern m j
+
+programming language translator programming language
+processor general translator general processor 
+macro instruction processor meta processor meta language
+translator meta language processor compiler-compiler 
+writing system translator writing system
+
+4.10 4.11 4.12 4.20
+
+ca680106 jb february 23 1978  2:42 pm

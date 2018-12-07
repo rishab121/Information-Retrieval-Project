@@ -1,0 +1,15 @@
+
+
+
+eigenvalues of a real symmetric tridiagonal
+matrix f2 algorithm a464
+
+cacm november 1973
+
+reinsch c h
+
+eigenvalues qr algorithm
+
+5.14
+
+ca731107 jb january 20 1978  10:03 am

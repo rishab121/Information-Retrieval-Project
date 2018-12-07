@@ -1,0 +1,22 @@
+
+
+
+secure personal computing in an insecure network
+
+a method for implementing secure personal computing in a network
+with one or more central facilities is proposed  the method employs a
+public-key encryption device and hardware keys  each user is responsible 
+for his own security and need not rely on the security of
+the central facility or the communication links  a user can safely
+store confidential files in the central facility or transmit confidential 
+data to other users on the network 
+
+cacm august 1979
+
+denning d
+
+personal computing security privacy networks public-key encryption
+
+2.12 6.20
+
+ca790804 db january 14 1980  9:26 am

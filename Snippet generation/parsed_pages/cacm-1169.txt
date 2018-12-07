@@ -1,0 +1,29 @@
+
+
+
+an algorithm for minimizing backboard wiring functions
+
+a partially exhaustive algorithm is presented
+for solving the following problem arising from 
+automatic layout of a computer  given an ordered set
+e1 e2 en of n computer components for each 
+permutation of the elements e1 e2 en there is attached
+a value of an integer function f  the algorithm 
+finds a local minimum of f by evaluating the set delta
+f of the increments corresponding to a certain 
+set of exchanges of two elementshen the exchange
+corresponding to the least negative increment of 
+delta f is performed  the process is iterated and stopped
+when the set of the increments is a positive 
+or empty set which it is proved corresponds to a
+minimum  the procedure is similar to the downhill 
+method for finding the minimum of a real function fp
+and can be applied to other placement problems 
+ experimental results are presented with backboards formed
+by many elements and different initial placements
+
+cacm november 1965
+
+pomentale t
+
+ca651112 jb march 6 1978  4:35 pm

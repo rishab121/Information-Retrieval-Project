@@ -1,0 +1,26 @@
+
+
+
+design of computer simulation experiments for industrial systems
+
+the aim of this paper is to provide background
+information on the existing literature on experimental 
+design techniques which may be applicable to the design
+of computer simulation experiments for industrial 
+systems  although major emphasis is placed on analysis
+of variance techniques three other techniques 
+of data analysis are considered-multiple ranking procedures
+sequential sampling and spectral analysis 
+ the paper treats four specific experimental design
+problems and several techniques for solving them 
+ the four experimental design problems are 1 the
+problem of stochastic convergence 2 the problem 
+of factor selection 3 the problem of motive
+and 4 the many response problem
+
+cacm may 1966
+
+burdick d s
+naylor t h
+
+ca660502 jb march 3 1978  10:20 am

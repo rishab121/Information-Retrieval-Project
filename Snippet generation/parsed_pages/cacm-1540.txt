@@ -1,0 +1,18 @@
+
+
+
+an algorithm for class scheduling with section preference
+
+an algorithm for assignment of students to classes
+in a fixed time schedule that allows students 
+to give a preference for sections within courses is given
+ if consistent with the objective of balanced 
+sections these preferences will be honored  the algorithm
+is more stochastic than monte carlo in nature 
+ results are given that compare it to a nonpreference assignment algorithm
+
+cacm september 1967
+
+busam v a
+
+ca670906 jb february 27 1978  3:15 pm

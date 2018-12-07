@@ -1,0 +1,29 @@
+
+
+
+some new methods of detecting step edges in digital pictures
+
+this note describes two operators that respond
+to step edges but not to ramps  the first 
+is similar to the digital laplacian but uses the max rather
+than the sum of the x and y second differences 
+ the second uses the difference between the mean and
+median gray levels in a neighborhood  the outputs 
+obtained from these operators applied to a set of test
+pictures are compared with each other and with 
+the standard digital laplacian and gradient  a third
+operator which uses the distance between the center 
+and centroid of a neighborhood as an edge value is also
+briefly considered it turns out to be equivalent 
+to one of the standard digital approximations to the gradient
+
+cacm february,1978
+
+schachter b
+rosenfeld a
+
+image processing pattern recognition edge detection
+
+3.63
+
+ca780210 jb march 28 1978  1:56 pm

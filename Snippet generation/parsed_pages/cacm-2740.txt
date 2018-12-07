@@ -1,0 +1,36 @@
+
+
+
+a large semaphore based operating system
+
+the paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes  the processes synchronize by
+means of semaphores and extended semaphores queue 
+semaphores  the number of parallel processes is carefully
+justified and the various semaphore constructions 
+are explained  the system is proved to be free of deadly
+embrace deadlock  the design principle 
+is an alternative to dijkstras hierarchical structuring
+of operating systems  the project management 
+and the performance are discussed too  the operating
+system is the first large one using the rc 4000 
+multiprogramming system
+
+cacm july 1975
+
+lauesen s
+
+cooperating processes operating system semaphores
+semaphore applications queue semaphores 
+deadlock deadly embrace hierarchical structuring multiprogramming
+operating system structure asynchronous 
+structuring buffering parallel processes synchronizing
+primitives reentrant code rc 4000 project 
+management time schedule debugging project planning
+project scheduling reliability program proving 
+coroutines correctness program maintenance software paging
+
+4.30 4.31 4.32 4.42 4.43 5.24
+
+ca750702 jb january 9 1978  10:32 am

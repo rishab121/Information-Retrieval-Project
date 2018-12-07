@@ -1,0 +1,26 @@
+
+
+
+a base for a mobile programming system
+
+an algorithm for a macro processor which has
+been used as the base of an implementation by 
+bootstrapping of processors for programming languages is
+described  this algorithm can be easily implemented 
+on contemporary computing machines  experience with
+programming languages whose implementation is based
+on this algorithm indicates that such a language can
+be transferred to a new machine in less than one 
+man-week without using the old machine
+
+cacm september 1969
+
+orgass r j
+waite w m
+
+bootstrapping macro processing machine independence
+programming languages implementation techniques
+
+4.12 4.22
+
+ca690903 jb february 15 1978  4:54 pm

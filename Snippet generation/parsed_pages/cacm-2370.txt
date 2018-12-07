@@ -1,0 +1,28 @@
+
+
+
+an experimental laboratory for pattern recognition and signal processing
+
+an interactive computer-controlled scanning
+and display system has been in operation at the 
+ibm thomas j watson research center for three years
+ the system includes two flying-spot scanners and 
+a tv camera specially interfaced to a process control
+digital computer dot-mode and vector displays 
+analog input and output facilities and a variety of
+other experimental equipment  the system design 
+and programming support are described and typical applications
+in scanner control optical character 
+recognitionand image processing are presented
+
+cacm april 1972
+
+herbst n m
+will p m
+
+scanners pseudorandom displays interactive
+terminal image processing pattern recognition
+
+4.41 6.35
+
+ca720403 jb january 31 1978  1:47 pm

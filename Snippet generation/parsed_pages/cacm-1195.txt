@@ -1,0 +1,24 @@
+
+
+
+uplifts-university of pittsburgh linear file tandem system
+
+a series of computer programs has been developed
+and is now operational for processing the 
+national aeronautics and space administration linear file
+system on an ibm 1401-7090 combined data processing 
+system  the program are note-worthy in that they create
+fixed length logical records and fixed length 
+blocks from variable length source data and format
+the output for optimization of processing on the 
+ibm 7090 system  the programs are completely self-checking
+and test for both validity and accuracy of 
+the input materials as provided by the national
+aeronautics and space administration
+
+cacm september 1965
+
+canter j d
+donaghey c e
+
+ca650911 jb march 6 1978  7:10 pm

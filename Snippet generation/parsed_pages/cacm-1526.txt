@@ -1,0 +1,21 @@
+
+
+
+multiprogramming under a page on demand strategy
+
+a model of multiprogramming for a particular
+computer system using a page on demand strategy 
+is developed  analysis of this model is used to predict
+performance measured by the average usage of 
+the cpu when user programs are typical of those arising
+from an interactive time sharing environment 
+ the effect of several hardware modifications is also
+analyzed  a parameter readily calculated from 
+the hardware characteristics and the program statistics
+is proposed for gauging the effect of multiprogramming
+
+cacm october 1967
+
+smith j l
+
+ca671007 jb february 27 1978  2:07 pm

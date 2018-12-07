@@ -1,0 +1,14 @@
+
+
+
+a crt report generating system
+
+cacm january 1974
+
+lucas h c jr
+
+report generation automated systems design data processing management
+
+3.50 4.12 4.22
+
+ca740110 jb january 18 1978  1:40 pm

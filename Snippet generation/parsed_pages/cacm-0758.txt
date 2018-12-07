@@ -1,0 +1,15 @@
+
+
+
+skeletal structure of pert and cpa computer programs
+
+an introduction to the inner mechanics of
+pert and cpa computer programs is provided  the 
+major components of these programs as well as their
+purposes and interrelationships are outlined
+
+cacm august 1963 
+
+kahn a b
+
+ca630840 jb march 13 1978  7:58 pm

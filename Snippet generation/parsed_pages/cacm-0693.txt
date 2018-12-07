@@ -1,0 +1,19 @@
+
+
+
+an extension of fibonaccian search to several variables
+
+a technique which uses fibonaccian search
+concepts has been developed to solve optimization 
+problems involving unimodal functions of several variables
+ the technique has not been proven to be 
+optimal in the sense that the one-dimensional fibonaccian
+search is  however it is valuable for certain 
+kinds of calculations
+
+cacm october 1963
+
+krolak p
+cooper l
+
+ca631032 jb march 13 1978  4:19 pm

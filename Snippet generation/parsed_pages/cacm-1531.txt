@@ -1,0 +1,14 @@
+
+
+
+the remaining trouble spots in algol 60
+
+this paper lists the ambiguities remaining
+in the language algol 60 which have been noticed 
+since the publication of the revised algol 60 report in 1963
+
+cacm october 1967
+
+knuth d e
+
+ca671002 jb february 27 1978  2:40 pm

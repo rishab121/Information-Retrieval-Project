@@ -1,0 +1,20 @@
+
+
+
+treesort 3 algorithm 245 $m1
+
+the certification of an algorithm can take
+the form of a proof that the algorithm is correct  as an illustrative
+but practical example algorithm 245 treesort 3 for sorting
+an array is proved correct
+
+cacm june 1970
+
+london r l
+
+proof of algorithms debugging certification
+metatheory sorting in-place sorting
+
+4.42 4.49 5.24 5.31
+
+ca700613 jb february 13 1978  10:32 am

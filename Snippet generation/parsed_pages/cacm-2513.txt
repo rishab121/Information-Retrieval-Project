@@ -1,0 +1,22 @@
+
+
+
+a nonrecursive list moving algorithm
+
+an efficient nonrecursive algorithm is given
+for moving any lisp-type list  in particular 
+the algorithm requires no storage other than the new
+nodes into which the list is to be moved and no 
+additional bits per node for marking the algorithm
+runs in time proportional to the number of nodes 
+in the list  the original list structure is destroyed as it is moved
+
+cacm may 1973
+
+reingold e m
+
+list moving list copying list traversal garbage collection lisp
+
+4.19 4.49
+
+ca730507 jb january 23 1978  4:45 pm

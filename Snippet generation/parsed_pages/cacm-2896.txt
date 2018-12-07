@@ -1,0 +1,23 @@
+
+
+
+an exercise in proving parallel programs correct
+
+a parallel program dijkstras on-the-fly garbage
+collector is proved correct using a proof 
+method developed by owicki  the fine degree of in terleaving
+in this program makes it especially difficult 
+to understand and complicates the proof greatly  difficulties
+with proving such parallel programs correct 
+are discussed
+
+cacm december 1977
+
+gries d
+
+garbage collection multiprocessing program
+correctness for multiprocessing tasks
+
+4.32 4.34 4.35 4.39 5.24
+
+ca771204 jb february 1 1980  3:37 am

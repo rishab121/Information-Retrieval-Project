@@ -1,0 +1,29 @@
+
+
+
+computers and society a proposed course for computer scientists
+
+the purpose of this paper is to describe a course
+concerned with both the effects of computers 
+on society and the responsibilities of computer scientists
+to society  the impact of computers is divided 
+into five components political economic cultural social
+and moral the main part of the paper defines 
+each component and presents examples of the relevant
+issues  in the remaining portions the possible 
+formats for such a course are discussed a topic by topic
+outline is given and a selected set of references 
+is listed  it is hoped that the proposal will make
+it easier to initiate courses on this subject
+
+cacm april 1972
+
+horowitz e
+morgan h l
+shaw a c
+
+computers and society social implications course proposal
+
+1.0 1.52 2.1
+
+ca720406 jb january 31 1978  1:06 pm

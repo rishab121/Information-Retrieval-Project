@@ -1,0 +1,16 @@
+
+
+
+finding a solution of n functional equations
+in n unknowns algorithm 314 c5
+
+cacm january 1969
+
+vandergraft j
+mesztenyi c
+
+functional equations interpolation nonlinear equations secant method
+
+5.13 5.15
+
+ca690107 jb february 20 1978  11:50 am

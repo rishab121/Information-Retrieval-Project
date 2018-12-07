@@ -1,0 +1,15 @@
+
+
+
+an algol-based implementation of snobol 4 patterns
+
+cacm july 1977
+
+brownlee j n
+
+patterns snobol 4 pattern matching string processing
+pattern implementation algorithms in pascal
+
+4.29
+
+ca770710 jb december 28 1977  8:15 am

@@ -1,0 +1,21 @@
+
+
+
+a multiple-precision division algorithm
+
+a generalized division algorithm for use with positive integral operands is 
+presented  depending upon the algebraic relationship of the first
+two ciphers of the divisor one or at most two adjustments to the original 
+divisor and dividend must be performed before the division operation can be 
+initiated the uniqueness of this method will cause each trial cipher in the 
+quotient to be either equal to or one greater than its final replacement
+
+cacm november 1970
+
+mifsud c j
+
+multiple-precision division adjustment generalize
+
+3.15 4.0 5.1
+
+ca701103 jb february 10 1978  8:45 am

@@ -1,0 +1,27 @@
+
+
+
+the altran system for rational function manipulation-a survey
+
+altran is a complete system for symbolic computation
+with rational functions in several variables 
+with integer coefficients  it has been designed and
+implemented to handle large problems with ease and 
+efficiency  considerable effort has been spent to ensure
+a minimum amount of machine dependence in the 
+implementation thus permitting the system to be installed
+quickly and easily on a variety of computing 
+machines  in this paper a brief description of the language
+run time data structures and implementation 
+is given
+
+cacm august 1971
+
+hall jr a d
+
+symbolic algebra rational function manipulation
+polynomial manipulation interpreters translators
+
+4.13 4.29
+
+ca710803 jb february 2 1978  4:17 pm

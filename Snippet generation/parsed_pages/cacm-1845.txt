@@ -1,0 +1,33 @@
+
+
+
+loader standardization for overlay programs
+
+the overlay capability is described for four
+of the third generation computer systems cdc-6000 
+ge-635 ibm-360 and univac-1108  a critique of the
+first three systems is based on actual experience 
+with a large overlaid trajectory simulation program
+a short history and description of this program 
+is presented  a standardization of minimum capabilities
+for loaders is recommended so that programs 
+which must operate under more than one computer system
+may be easily converted and maintained  a proposal 
+that overlay software incorporates a memory occupation
+specification concept instead of the conditional 
+tree structure is delineated  this concept provides
+more efficient and cost-effective utilization of 
+the memory as well as increased flexibility in program structure
+
+cacm october 1969
+
+lanzano b c
+
+loader overlay partition region segmentation
+linkage linkage editor standardization memory 
+utilization memory occupation tree structure
+cdc-6000 ge-635 ibm-360 univac-1108
+
+4.10 4.12 4.19 4.40
+
+ca691001 jb february 15 1978  4:09 pm

@@ -1,0 +1,29 @@
+
+
+
+a comparison of list schedules for parallel processing systems
+
+the problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially ordered tasks
+is studied  cases where task execution times are 
+deterministic and others in which execution times are
+random variables are analyzed  it is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the b-schedule 
+of coffman and graham is near-optimal  a dynamic programming
+solution for the case in which execution 
+times are random variables is presented
+
+cacm december 1974
+
+adam t l
+chandy k m
+dickson j r
+
+parallel processing precedence graphs scheduling
+list scheduling optimization dynamic programming
+
+4.3 4.32 4.34 4.35 5.3 5.32 5.4 5.42 8.1
+
+ca741204 jb january 16 1978  9:42 am

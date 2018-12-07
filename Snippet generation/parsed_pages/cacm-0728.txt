@@ -1,0 +1,20 @@
+
+
+
+computer-drawn flowcharts
+
+to meet the need for improved documentation
+of written computer programs a simple system for 
+effective communication is presented which has shown
+great promise  the programmer describes his program 
+in a simple format and the computer prepares flow charts
+and other cross-referenced listings from this 
+input  the description can be kept up-to-date easily
+and the final output clearly explains the original 
+program  the system has also proved to be a valuable debugging and coding aid
+
+cacm september 1963
+
+knuth d e
+
+ca630930 jb march 13 1978  7:01 pm

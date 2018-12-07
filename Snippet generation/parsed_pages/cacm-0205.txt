@@ -1,0 +1,17 @@
+
+
+
+macro instruction extensions of compiler languages
+
+macroinstruction compilers constructed from
+a small set of functions can be made extremely 
+powerful  in particular conditional assembly nested
+definitions and parenthetical notation serve 
+to make a compiler capable of accepting very
+general extensions to its ground language
+
+cacm april 1960
+
+mcilroy m d
+
+ca600406 jb march 22 1978  1:49 pm

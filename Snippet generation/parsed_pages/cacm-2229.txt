@@ -1,0 +1,33 @@
+
+
+
+construction of rational and negative powers of a formal series
+
+some methods are described for the generation
+of fractional and negative powers of any formal 
+series such as poisson series or chebyshev series  it
+is shown that with the use of the three elementary 
+operations of addition subtraction and multiplication
+all rational positive and negative powers 
+of a series can be constructed  there are basically two
+approaches the binomial theorem and the iteration 
+methods  both methods are described here and the relationship
+between them is pointed out  some well-known 
+classical formulas are obtained as particular cases
+and it is shown how the convergence properties of 
+these formulas can be improved with very little additional
+computations  finally at the end of the 
+article some numerical experiments are described
+with chebyshev series and with fourier series
+
+cacm january 1971
+
+brucke r a
+
+series expansion series inversion root extraction
+binomial theorem newton iterations chebyshev 
+series poisson series fourier series
+
+3.11 3.15 3.21 5.0
+
+ca710105 jb february 8 1978  10:57 am

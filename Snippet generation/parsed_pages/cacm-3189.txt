@@ -1,0 +1,16 @@
+
+
+
+   an algebraic compiler for the fortran assembly program
+
+   an algebraic compiler has been written which may be added to the fortran 
+assembly program this compiler will expand all algebraic statements with the 
+following operations addition subtraction multiplication and division it
+will compile multi-level expressions in floating-point arithmetic this is
+easily be revised to fixed-point
+
+cacm november 1962
+
+stiegler a d
+
+ca621124 es march 17 1982 10:10 am

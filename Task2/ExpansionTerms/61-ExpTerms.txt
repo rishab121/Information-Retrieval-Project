@@ -1,10 +1,10 @@
-query
 automatic
+query
 cacm
 data
 jb
 1978
 method
 indexing
-systems
+organization
 document

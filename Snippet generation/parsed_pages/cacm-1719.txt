@@ -1,0 +1,32 @@
+
+
+
+a methodology for calculating and
+optimizing real-time system performance
+
+the continually increasing size complexity
+number of types and cost of data processing systems 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance  real-time data processing systems 
+as typified by the automated airline reservation system
+are discussed in this paper  criteria for evaluating 
+performance are described a methodology for calculating
+and optimizing is outlined and the method is 
+illustrated by carrying out a portion of the performance
+calculation and the optimization of a drum-oriented 
+message switching system
+
+cacm july 1968
+
+stimler s
+brons k a
+
+real-time system analysis real-time system design
+real-time system performance criteria real-time 
+system cost performance ratio
+
+3.27 3.80 3.81 3.89 6.9
+
+ca680710 jb february 22 1978  11:40 am

@@ -1,0 +1,27 @@
+
+
+
+structured data structures
+
+programming systems which permit arbitrary
+linked list structures enable the user to create 
+complicated structures without sufficient protection
+ deletions can result in unreachable data elements 
+and there is no guarantee that additions will be performed
+properly  to remedy this situation this 
+paper proposes a gauge which provides for the creation
+of a restricted class of data structures but ensures 
+the correctness of the program  this is accomplished
+by an explicit structure declaration facility 
+a restriction on the permissible operations and execution-time checks
+
+cacm october 1974
+
+shneiderman b
+scheuermann p
+
+structured programming data structures data base management system
+
+3.50 3.51 3.72 3.73 3.79 4.20 4.22
+
+ca741004 jb january 16 1978  12:46 pm

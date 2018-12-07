@@ -1,0 +1,15 @@
+
+
+
+generation of permutations in lexicographic order algorithm 323 g6
+
+cacm september 1969
+
+leitch i m
+
+permutations direct lexicographic order reverse
+lexicographic order lexicographic generation
+
+5.39
+
+ca690905 jb february 15 1978  4:48 pm

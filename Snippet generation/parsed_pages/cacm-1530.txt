@@ -1,0 +1,19 @@
+
+
+
+the ml/i macro processor
+
+a general purpose macro processor called ml/i
+is described  ml/i has been implemented on the 
+pdp-7 and i atlas 2 computers and is intended as a
+tool to allow users to extend any existing programming 
+language by incorporating new statements and other
+syntactic forms of their own choosing and in their 
+own notation  this allows a complete user-oriented
+language to be built up with relative ease
+
+cacm october 1967
+
+brown p j
+
+ca671003 jb february 27 1978  2:38 pm

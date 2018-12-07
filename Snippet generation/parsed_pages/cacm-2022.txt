@@ -1,0 +1,14 @@
+
+
+
+note on an anomaly in paging
+
+cacm july 1970
+
+pomeranzj e
+
+paging machines demand paging replacement algorithm
+
+4.30
+
+ca700715 jb february 10 1978  4:17 pm

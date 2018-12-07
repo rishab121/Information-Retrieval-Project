@@ -1,0 +1,35 @@
+
+
+
+tridiagonalization by permutations
+
+tridiagonalizing a matrix by similarity transformations
+is an important computational tool 
+in numerical linear algebra consider the class of sparse
+matrices which can be tridiagonalized using 
+only row and corresponding column permutations  the
+advantages of using such a transformation include 
+the absence of round-off errors and improved computation time
+when compared with standard transformations 
+ a graph theoretic algorithm which examines an arbitrary
+n x n matrix and determines whether or not it 
+can be permuted into tridiagonal form is given  the
+algorithm requires no arithmetic while the number 
+of comparisons the number of assignments and the number
+of increments are linear in n  this compares 
+very favorably with standard transformation methods
+ if the matrix is permutable into tridiagonal form 
+the algorithm gives the explicit tridiagonal form
+ otherwise early rejection will occur
+
+cacm january 1974
+
+gibbs n e
+poole w g jr
+
+tridiagonal matrix permutation algorithm
+eigenvalues graph bandwidth sparse matrix
+
+5.14 5.32
+
+ca740104 jb january 18 1978  2:31 pm

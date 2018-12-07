@@ -1,0 +1,32 @@
+
+
+
+event manipulation for discrete simulations
+requiring large numbers of events
+
+the event-manipulation system presented here consists of
+two major parts  the first part addresses 
+the familiar problem of event scheduling efficiency
+when the number of scheduled events grows large 
+ the second part deals with the less apparent problem
+of providing efficiency and flexibility as scheduled 
+events are accessed to be executed  additional features
+and problems dealt with include the proper handling 
+of simultaneous events that certain events must be created
+scheduled and executed at the same points 
+in simulated time that infinite loops caused by the concatenation
+of such zero-time events are possible 
+and must be diagnosed that maintaining various event
+counts is practical and economical and that a 
+capability for handling  time-displaceable events is desirable and possible  
+
+cacm september 1978
+
+ulrich e
+
+simulation discrete systems simulation discrete
+event simulation time-flow mechanisms
+
+3.65 3.74 4.22 8.1
+
+ca780908 dh january 29 1979  6:46 pm

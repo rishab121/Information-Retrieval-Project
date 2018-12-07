@@ -1,0 +1,35 @@
+
+
+
+use of the disk file on stretch
+
+the paper begins by briefly describing the
+stretch ibm 7030 computer with special emphasis 
+given to the organization and operation of its input-output
+equipment  physical characteristics of the 
+two-disk system 4,194,304 72-bit words 8 usec-per-word
+transmission rate etc are noted  timing 
+limitations due to arm motion and disk rotation are discussed
+ applications of disk usage are discussed 
+separately for problem programs and for systems programs
+such as compilers and the supervisory program 
+approximately 260,000 words of disk storage are reserved
+for the storage of systems programs and the 
+subroutine library  problem programs however are not
+currently filed on the disk  certain programming 
+techniques are discussed for transmitting words between
+disk and core storage with minimum delaying and 
+interruption of the arithmetic unit  dumps on disk are
+considered for both recovery from computer malfunction 
+and for mathematical or physical developments during
+the calculation  some comments are made regarding 
+the reliability economics utility and weaknesses or
+limitations of the disk system  several possible 
+future applications are noted which appear to have disk connotations
+
+cacm october 1963
+
+carlson b g
+voorhes e a
+
+ca631030 jb march 13 1978  4:28 pm

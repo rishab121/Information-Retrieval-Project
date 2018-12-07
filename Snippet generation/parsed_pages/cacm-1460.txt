@@ -1,0 +1,18 @@
+
+
+
+evolution of the meta-assembly program
+
+a generalized assembler called a meta-assembler
+is described  the meta-assembler is defined 
+and factors which contributed to its evolution are presented
+ how a meta-assembler is made to function 
+as an assembly program is described finally the implication
+of meta-assemblers on compiler design is 
+discussed
+
+cacm march 1966
+
+ferguson d e
+
+ca660312 jb march 3 1978  11:56 am

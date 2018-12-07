@@ -1,0 +1,21 @@
+
+
+
+an optimal real-time algorithm for planar convex hulls
+
+an algorithm is described for the construction in real-time of the
+convex hull of a set of n points in the plane   using an appropriate data
+structure the algorithm constructs the convex hull by successive
+updates each taking time olog n thereby achieving a total
+processing time on log n  
+
+cacm july 1979
+
+preparata f
+
+computational geometry convex hull planar set of
+points real-time algorithms on-line algorithms  
+
+4.49 5.25 5.32
+
+ca790702 dh august 22 1979  2:07 pm

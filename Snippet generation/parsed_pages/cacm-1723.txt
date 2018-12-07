@@ -1,0 +1,26 @@
+
+
+
+computer construction of project networks
+
+project networks are used in pert and cpm
+ an algorithm is given for constructing project 
+networks directly from the project precedence relations
+ the algorithm creates dummy activities and 
+topologically orders the arcs and nodes  the number of
+nodes created is minimal for the given precedence 
+relations  it has been experimentally programmed
+in fortran ii for the ibm 7094
+
+cacm july 1968
+
+fisher a c
+liebman j s
+nemhauser g l
+
+project networks pert cpm topological
+ordering network construction by computer
+
+5.32
+
+ca680706 jb february 22 1978  12:07 pm

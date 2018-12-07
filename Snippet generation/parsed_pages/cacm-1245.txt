@@ -1,0 +1,10 @@
+
+
+
+a fortran n-ary counter
+
+cacm june 1965
+
+kent w
+
+ca650610 jb march 6 1978  10:13 pm

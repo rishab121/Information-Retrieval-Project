@@ -1,0 +1,14 @@
+
+
+
+remark on uniform insertion in structured data structures
+
+cacm april 1977
+
+hollander c
+
+data structures directed graphs uniform insertion
+
+4.34
+
+ca770407 jb december 29 1977  5:04 am

@@ -1,0 +1,20 @@
+
+
+
+string similarity and misspellings
+
+the problem of programming a computer to determine
+whether or not a string of characters is 
+a misspelling of a given word was considered  a numberof
+algorithms were evaluated-some proposed by 
+other writers some by the author  these techniques
+were tested on a collection of misspellings made 
+by students at various grade levels  while many of
+the methods were clearly unsatisfactory some gave 
+as few as 2.1 percent incorrect determinations
+
+cacm june 1967
+
+alberga c n
+
+ca670510 jb february 28 1978  10:28 am

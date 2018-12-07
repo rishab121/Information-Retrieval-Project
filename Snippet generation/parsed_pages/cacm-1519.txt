@@ -1,0 +1,26 @@
+
+
+
+george 3-a general purpose time sharing and operating system
+
+an operating system is described which will
+run on a wide variety of configurations of the 
+i 1900 and can handle a large number of online console
+users while at the same time running several 
+off line background jobs  the system is not oriented
+towards either mode and can be either a batch 
+processing system such as the atlas supervisor ibsys
+or gecos or a multiaccess system resembling 
+to the user ctss or multics or both simultaneously
+depending on the installation which can adjust 
+the schedulers  both online users and off line jobs use
+a common command language  the system includes 
+a multilevel device-independent file store
+
+cacm november 1967
+
+oestreicher m d
+bailey m j
+strauss j i
+
+ca671101 jb february 27 1978  1:47 pm

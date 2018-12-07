@@ -1,0 +1,15 @@
+
+
+
+a method for finding hamilton paths and knights tours
+
+the use of warnsdorffs rule for finding a
+knights tour is generalized and applied to the 
+problem of finding a hamilton path in a graph  a graph-theoretic
+justification for the method is given
+
+cacm july 1967
+
+pohl i
+
+ca670710 jb february 28 1978  8:28 am

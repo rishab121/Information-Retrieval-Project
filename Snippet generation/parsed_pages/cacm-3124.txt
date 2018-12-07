@@ -1,0 +1,27 @@
+
+
+
+recursive data structures in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms  
+
+cacm february 1979
+
+gullw
+jenkins m
+
+nested arrays apl arrays recursive data structures
+trees data-driven algorithms theory of arrays
+
+4.22 5.29
+
+ca790203 dh april 10 1979  3:41 pm

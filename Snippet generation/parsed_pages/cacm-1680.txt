@@ -1,0 +1,42 @@
+
+
+
+a general-purpose display processing and tutorial system
+
+adept a display-expedited processing and tutorial
+system is described  this system was designed 
+to improve man-computer communications by employing
+a display unit to interleave tutoring with other 
+computer operations such as simulation programming and
+information retrieval  it is written in fortran 
+iv g for the ibm system/360 model 40 and the ibm 2250
+display unit under operating system/360  adept 
+is a cataloged program that controls the standard operating
+system by terminating and rescheduling itself 
+automatically relinquishing computer resources allocated
+to it and surrendering control to the operating 
+system to perform other jobs  it expands the power
+and flexibility of computer-assisted instruction 
+by making immediately available to students teachers
+and other users the full resources system-cataloged 
+programs of the operating system  language processors
+and compilers simulation models mathematical 
+solution techniques stored data and all other library and
+user programs can be incorporated into instructional 
+material without reprogramming  illustrations of the various
+applications are presented and their implications 
+are discussed
+
+cacm october 1968
+
+engvold k j
+hughes j l
+
+computer-assisted instruction tutorial systems
+programming simulation modeling information 
+retrieval operating systems graphics displays man-machine
+interface on-line computing graphic programming
+
+1.5 3.3 3.5 3.8 4.0 4.3
+
+ca681007 jb february 21 1978  3:36 pm

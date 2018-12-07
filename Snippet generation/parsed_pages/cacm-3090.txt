@@ -1,0 +1,32 @@
+
+
+
+automated welfare client-tracking and service
+integration the political economy of computing
+
+the impacts of an automated client-tracking
+system on the clients caseworkers administrators 
+and operations of the welfare agencies that use it are
+reported  the major impact of this system was 
+to enhance the administrative  attractiveness of the
+using agencies in the eyes of funders rather than 
+to increase their internal administrative efficiency 
+this impact is a joint product of both the technical 
+features of the computer-based system and of the organizational
+demands placed upon different agencies 
+administrators and caseworkers  it illustrates the
+way successful automated information systems fit 
+the political economies of the groups that use them    
+
+cacm june 1978
+
+kling r
+
+social impacts of computing organizational impacts
+of computing management information systems 
+sociology of computing information systems and
+service integration urban information systems
+
+2.11 3.53
+
+ca780607 dh february 12 1979  11:01 am

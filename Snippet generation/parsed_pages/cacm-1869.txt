@@ -1,0 +1,29 @@
+
+
+
+block structures indirect addressing and garbage collection
+
+programming languages have included explicit
+or implicit block structures to provide a naming 
+convenience for the programmer  however when indirect
+addressing is used as in snobol naming constraints 
+may be introduced  two modifications to snobol are described
+resulting in two desirable consequences 
+1 naming constraints disappear even when there is
+indirect addressing within function definitions 
+and 2 there is a significant saving in the number of
+calls to the garbage collector because some garbage 
+is collected at little expense each time a function
+returns to its calling program  these modifications 
+have been implemented as an extension to a snobol dialect
+
+cacm july 1969
+
+kain r y
+
+block structures indirect addressing
+garbage collection local names snobol
+
+4.22
+
+ca690711 jb february 15 1978  6:49 pm

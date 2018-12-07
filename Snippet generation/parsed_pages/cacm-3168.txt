@@ -1,0 +1,15 @@
+
+
+
+comment on an optimal evaluation of boolean
+expressions in an online query system
+
+cacm october 1979
+
+laird p
+
+query boolean expression information retrieval file organization
+
+3.53.70 3.73 3.74
+
+ca791001 db january 16 1980  4:50 pm

@@ -1,0 +1,35 @@
+
+
+
+on the optimal detection of curves in noisy pictures
+
+a technique for recognizing systems of lines
+is presented  in this technique the heuristic 
+of the problem is not embedded in the recognition algorithm
+but is expressed in a figure of merit   
+a multistage decision process is then able to recognize
+in the input picture the optimal system of lines 
+according to the given figure of merit  due to the
+global approach greater flexibility and adequacy 
+in the particular problem is achieved  the relation
+between the structure of the figure of merit and 
+the complexity of the optimization process is then discussed
+ the method described is suitable for parallel 
+processing because the operations relative to each
+state can be computed in parallel and the number
+of stages is equal to the length n of the curves or
+to log2 n if the approximate method is used
+
+cacm may 1971
+
+montanari u
+
+picture processing picture recognition picture
+description curve detection line detection 
+edge detectionoptimal detection heuristic methods
+global recognition parallel processing dynamic 
+programming interaction graph secondary optimization problem
+
+3.63 3.66 5.42
+
+ca710504 jb february 3 1978  2:49 pm

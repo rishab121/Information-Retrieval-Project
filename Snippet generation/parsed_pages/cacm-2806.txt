@@ -1,0 +1,21 @@
+
+
+
+two hadamard numbers for matrices
+
+a discussion is given of two functions of the entries
+of a square matrix both related to hadamards 
+determinant theorem which have some merits as alternatives
+to norm-bound condition numbers  one for 
+linear systems is known the other for eigen systems seems to be new
+
+cacm january 1975
+
+birkhoff g
+
+matrices eigenvalues norms condition numbers
+error analysis gram-schmidt orthogonalization
+
+5.11 5.14
+
+ca750105 jb january 12 1978  10:37 am

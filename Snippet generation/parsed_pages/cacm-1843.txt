@@ -1,0 +1,22 @@
+
+
+
+the choice of base
+
+a digital computer is considered whose memory
+words are composed on n r-state devices plus 
+two sign bits two state devices  the choice of base
+b for the internal representation of floating-point 
+numbers on such a computer is discussed  it is
+shown that in a certain sense b r is best
+
+cacm october 1969
+
+brown w s
+richman p l
+
+floating-point accuracy base choice number representations
+
+5.11 6.32
+
+ca691003 jb february 15 1978  3:33 pm

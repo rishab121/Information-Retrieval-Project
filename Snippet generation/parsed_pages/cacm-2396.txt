@@ -1,0 +1,39 @@
+
+
+
+muse a model to understand simple english
+
+muse is a computer model for natural language
+processing based on a semantic memory network 
+like that of quillians tlc  muse from a model to understand
+simple english processes english sentences 
+of unrestricted content but somewhat restricted format
+ the model first applies syntactic analysis to 
+eliminate some interpretations and then employs a simplified
+semantic intersection procedure to find 
+a valid interpretation of the input  while the semantic
+processing is similar to tlcs the syntactic 
+component includes the early use of parse trees and special
+purpose rules  the relational triple notation 
+used during interpretation of input is compatible with muses
+memory structures allowing direct verification 
+of familiar concepts and the addition of new ones 
+muse also has a repertoire of actions which range 
+from editing and reporting the contents of its own
+memory to an indirect form of question answering 
+ examples are presented to demonstrate how the model interprets
+text resolves ambiguities adds information 
+to memory generalizes from examples and performs various actions
+
+cacm january 1972
+
+mccalla g i
+sampson j r
+
+natural language processing semantic memory text
+comprehension question answering artificial 
+intelligence human memory simulation
+
+3.36 3.42 3.62 3.65 3.74
+
+ca720107 jb february 1 1978  9:20 am

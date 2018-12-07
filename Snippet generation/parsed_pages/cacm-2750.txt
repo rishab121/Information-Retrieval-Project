@@ -1,0 +1,37 @@
+
+
+
+a cost oriented algorithm for data set allocation in storage hierarchies
+
+data set allocation in todays multilevel
+storage systems is usually based on qualitative 
+ad hoc decisions  while it would be desirable to obtain
+an optimal solution to this allocation problem 
+it is clear that the number of parameters involved makes
+it intractable to straight-forward solution 
+ in such a situation we must find a set of assumptions
+which simplify the problem greatly but which 
+still provide a basis for considering all significant
+cost elements this paper presents such a first 
+quantitative allocation step  it considers many of the
+significant detailed costs of system utilization 
+data storage data staging and data migration  although
+many avenues of further improvement are available 
+the present algorithm seems to be usefully accurate
+as such it can aid in quantifying the problems 
+of data set allocation storage system configuration and new device designs
+
+cacm june 1975
+
+lum v y
+senko m e
+wang c p
+ling h
+
+data set allocation hierarchical storage storage
+system configuration data staging data migration 
+storage allocation analysis
+
+3.5 3.9 6.2
+
+ca750603 jb january 9 1978  1:31 pm

@@ -1,0 +1,26 @@
+
+
+
+register allocation via usage counts
+
+this paper introduces the notion of usage counts
+shows how usage counts can be developed by 
+algorithms that eliminate redundant computations and
+describes how usage counts can provide the basis 
+for register allocation  the paper compares register
+allocation based on usage counts to other commonly 
+used register allocation techniques and presents evidence
+which shows that the usage count technique 
+is significantly better than these other techniques
+
+cacm november 1974
+
+freiburghouse r a
+
+optimization redundant computations common subexpressions
+register allocation compilers programming 
+languages virtual memory demand paging
+
+4.12 4.2 4.39
+
+ca741105 jb january 16 1978  10:24 am

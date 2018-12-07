@@ -1,0 +1,16 @@
+
+
+
+eigenvalues and eigen vectors of a
+real general matrix algorithm 343 $f
+
+cacm february 1970
+
+knoble h d
+
+norm characteristic equation degenerate eigen-system
+diagonalizable matrix defective matrix  
+
+5.14
+
+ca700216 jb february 14 1978  9:43 am

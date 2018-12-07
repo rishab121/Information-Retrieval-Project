@@ -1,0 +1,26 @@
+
+
+
+a general purpose graphic language
+
+interactive use of computers with graphic terminals
+will permit many new problems to be solved 
+using machines  in order to handle a variety of applications
+it is expedient to develop a general purpose 
+graphic language that is useful on a number of graphic
+devices  a system has been designed to produce 
+such a language quickly and cheaply  a model graphic
+language which has been developed with the system 
+is presented
+
+cacm april 1968
+
+kulsrud h e
+
+graphic language interactive incremental compilation
+language design metacompiler syntax specified 
+language
+
+4.12 4.22
+
+ca680403 jb february 23 1978  11:17 am

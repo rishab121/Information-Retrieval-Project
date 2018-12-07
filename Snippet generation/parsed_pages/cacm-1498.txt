@@ -1,0 +1,18 @@
+
+
+
+the alcor illinois 7090/7094 post mortem dump
+
+a dump technique for programs written in algol
+60 is described  this technique provides an 
+intelligible analysis of an unsuccessful computation
+process in terms of the original source program
+
+cacm december 1967
+
+bayer r
+gries d
+paul m
+wiehle h r
+
+ca671209 jb february 26 1978  2:18 pm

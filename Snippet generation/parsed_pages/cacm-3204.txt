@@ -1,0 +1,18 @@
+
+
+
+   an on-line program for non-numerical algebra
+
+   the goal of this program is to make a step toward te design of an automated
+mathematical assistant some requirements for such a program are it must be
+easy to access and that the result must be obtained in a reasonably short
+time accordingly the program is written for a time-shared computer the q-32
+computer as system development corporation santa monica california was 
+chosen because it also had a lisp 1.5 compiler programming and debugging was
+done from a remote teletype console at stanford university
+
+cacm august 1966
+
+korsvold k
+
+ca660818 es march 17 1982 10:10 am

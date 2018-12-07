@@ -1,0 +1,39 @@
+
+
+
+computing polynomial resultants bezouts determinant
+vs collins reduced p algorithm
+
+algorithms for computing the resultant of two
+polynomials in several variables a key repetitive 
+step of computation in solving systems of polynomial
+equations by elimination are studied  determining 
+the best algorithm for computer implementation depends
+upon the extent to which extraneous factors are 
+introduced the extent of propagation of errors caused by
+truncation of real coefficients memory requirements 
+and computing speed  preliminary considerations narrow
+the choice of the best algorithm to bezouts 
+determinant and collins reduced polynomial remainder sequence
+prs algorithm  detailed tests performed 
+on sample problems conclusively show that bezouts determinant
+is superior in all respects except for 
+univariate polynomials in which case collins reduced
+prs algorithm is somewhat faster  in particular 
+bezouts determinant proves to be strikingly superior in
+numerical accuracy displaying excellent stability 
+with regard to round-off errors results of tests are reported in detail
+
+cacm january 1969
+
+ku s y
+adler r j
+
+resultant algorithm gcd algorithm polynomial
+resultant elimination bezouts determinant 
+sylvesters determinant reduced prs algorithm euclidean
+algorithm multivariate polynomial equations
+
+4.40 5.10 5.15 5.41
+
+ca690103 jb february 20 1978  12:10 pm

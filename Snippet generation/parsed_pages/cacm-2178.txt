@@ -1,0 +1,37 @@
+
+
+
+a language extension for graph processing and its formal semantics
+
+a simple programming language extension
+graspe for processing directed graphs is defined 
+ graspe consists of a type of directed graph data structure
+and a set of primitive operations for manipulating 
+these structures  graspe may be most easily implemented
+by embedding it in a host language  emphasis 
+is placed both on graspe itself and on its method of
+definition  commonly the definition of a language 
+involves definition of the syntactic elements and explanation
+of the meaning to be assigned them the 
+semantics  the definition of graspe here is solely in
+terms of its semantics that is the data structures 
+and operations are defined precisely but without assignment
+of a particular syntactic representation 
+ only when the language is implemented is assignment
+of an explicit syntax necessary  an example of 
+an implementation of graspe embedded in lisp is given as
+an illustration  the advantages and disadvantages 
+of the definition of a language in terms of its semantics are discussed
+
+cacm july 1971
+
+pratt t w
+friedman d p
+
+graph processing programming language formal semantics
+directed graph lisp network data structure 
+flowchart syntax language definition
+
+4.20 4.22 5.23 5.24 5.32
+
+ca710704 jb february 3 1978  9:24 am

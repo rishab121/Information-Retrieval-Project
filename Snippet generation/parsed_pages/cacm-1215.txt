@@ -1,0 +1,19 @@
+
+
+
+some techniques used in the alcor illinois 7090
+
+an algol compiler has been written by the
+alcor group for the ibm 7090  some little known 
+but significant techniques in compiler writing together
+with organizational details of this compiler 
+are described  timing estimates and an indication
+of compiler requirements are also given
+
+cacm august 1965
+
+gries d
+paul m
+wiehle h r
+
+ca650809 jb march 6 1978  8:13 pm

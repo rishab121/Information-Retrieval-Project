@@ -1,0 +1,29 @@
+
+
+
+interval arithmetic determinant evaluation
+and its use in testing for a chebyshev system
+
+two recent papers one by hansen and one by
+hansen and r r smith have shown how interval 
+arithmetic i can be used effectively to bound errors
+in matrix computations  in the present paper 
+a method proposed by hasen and r r smith is compared
+with straightforward use of i in determinant 
+evaluation  computational results show the accuracy
+and running times that can be expected when using 
+i for determinant evaluation  an application using
+i determinants in a program to test a set of 
+functions to see if they form a chebyshev system is then presented
+
+cacm february 1969
+
+smith l b
+
+interval arithmetic range arithmetic error bounds
+determinant evaluation chebyshev system 
+mathematical proof by computer
+
+5.11 5.13 5.14
+
+ca690207 jb february 20 1978  10:49 am

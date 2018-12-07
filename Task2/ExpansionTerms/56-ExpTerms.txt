@@ -1,9 +1,9 @@
-system
 program
+system
+formal
 jb
 language
 cacm
-formal
 string
 1978
 context-free

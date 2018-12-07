@@ -1,0 +1,10 @@
+
+
+
+a generalized polyphase merge algorithm
+
+cacm august 1961
+
+reynolds s w
+
+ca610805 jb march 16 1978  10:10 pm

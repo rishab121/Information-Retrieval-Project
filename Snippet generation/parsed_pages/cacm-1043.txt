@@ -1,0 +1,19 @@
+
+
+
+talk-a high-level source language debugging
+technique with real-time data extraction
+
+talk meaning take a look is a debugging technique
+which aids substantially in debugging complex 
+real-time programming systems by interrupting the users
+program at desired points to extract previously 
+specified data  the extracted data is later edited
+listing the associated data with its high-level 
+source language identification
+
+cacm july 1964
+
+versteeg r l
+
+ca640704 jb march 9 1978  8:24 pm

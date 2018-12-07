@@ -1,0 +1,22 @@
+
+
+
+an improved hash code for scatter storage
+
+introduced is a hash coding method based on
+fixed-point division rather than multiplication 
+or logical operations  this new method allows the
+hash table to have almost any length  also a new 
+method of handling collisions is discussed  known as
+quadratic search this method is faster than random 
+search and free from the clusters that build up with a linear search
+
+cacm january 1968
+
+maurer w d
+
+hash code hash table scatter storage searching 
+
+3.74 4.11 4.12 4.9
+
+ca680108 jb february 23 1978  2:31 pm

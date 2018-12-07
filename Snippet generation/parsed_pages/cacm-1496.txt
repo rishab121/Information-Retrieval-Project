@@ -1,0 +1,19 @@
+
+
+
+a formal semantics for computer languages
+and its application in a compiler-compiler
+
+a semantic meta-language has been developed
+for representing the meanings of statements in 
+a large class of computer languages  this meta-language
+has been the basis for construction of an efficient 
+functioning compiler-compiler  an informal discussion
+of the meta-language based on the example of a 
+complete translator for a small language is presented
+
+cacm january 1966 
+
+feldman j a
+
+ca660101 jb march 3 1978  4:31 pm

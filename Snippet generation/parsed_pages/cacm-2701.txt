@@ -1,0 +1,35 @@
+
+
+
+a fast and usually linear algorithm for global
+flow analysis abstract only-complete paper jacm 
+23,1 january 1976
+
+a new algorithm for global flow analysis on
+reducible graphs is presented the algorithm is 
+shown to treat a very general class of function spaces
+ for a graph of e edges the algorithm has a 
+worst case time bound of oe log e function operations
+ it is also shown that in programming terms 
+the number of operations is proportional to e plus the
+number of exits from program loops  consequently 
+a restriction to one-entry one-exit control structures
+linearity  the algorithm can be extended to yet 
+larger classes of function spaces and graphs by relaxing
+the time bound  examples are given of code 
+improvement problems which can be solved using the algorithm
+
+cacm december 1975
+
+graham s l
+wegman m
+
+global flow analysis data flow code optimization
+common subexpression elimination live-dead 
+analysis information propagation flow graph reducibility
+go-to-less programming depth-first search 
+path compression
+
+4.12 5.24 5.25 5.32
+
+ca751206 jb january 5 1978  4:08 pm

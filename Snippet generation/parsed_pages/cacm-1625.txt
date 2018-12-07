@@ -1,0 +1,24 @@
+
+
+
+on the automatic simplification of source-language programs
+
+methods of simplification that can be applied
+automatically to programs written in an algol-like 
+language are discussed  the simplifications are based
+on the form of the program and the knowledge obtained 
+by a processor without any understanding of what the
+program is supposed to do  these methods have 
+been implemented in a processor called sure that accepts
+a program written in jovial and outputs an equivalent 
+jovial program that may be shorter and may be executed
+faster than the original  sure is described 
+some of the problems encountered in automatic improvement
+at the source-language level are discussed 
+and further types of automatic program improvement are suggested
+
+cacm march 1967
+
+clark e r
+
+ca670304 jb february 28 1978  1:33 pm

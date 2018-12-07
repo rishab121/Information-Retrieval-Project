@@ -1,8 +1,8 @@
 algorithm
 cacm
 jb
-sorting
 problem
+sorting
 1978
 analysis
 bound

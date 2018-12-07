@@ -1,0 +1,26 @@
+
+
+
+remarks on the practical solution of characteristic value problems
+
+this paper is concerned with the practical
+solution of characteristic value problem for an 
+ordinary differential equation  it is at once apparent
+that sequential computers be they digital or 
+analog solve initial value problems rather than boundary
+value problems and some mathematical process 
+must be found to compensate for the machines inadequacy
+ compensating for machine imperfection is 
+of course the normal activity of the numerical analyst
+ a number of other papers have applied particular 
+devices to particular problems  the purpose of this
+note is to establish a mathematical framework or 
+model for these practical procedures and thus assist in
+the use and extension of the ideas in other particular 
+problems
+
+cacm june 1959
+
+wouk a
+
+ca590606 jb march 22 1978  6:30 pm

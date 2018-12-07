@@ -1,0 +1,15 @@
+
+
+
+finiteness assumptions and intellectual isolation of computer scientists
+
+cacm december 1970
+
+wagner r a
+
+algol vs fortran finiteness assumptions intellectual isolation
+integer variable range memory finiteness finite word size
+
+2.2 4.22 5.23
+
+ca701215 jb february 9 1978  2:38 pm

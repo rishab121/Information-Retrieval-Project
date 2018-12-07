@@ -1,0 +1,41 @@
+
+
+
+the multics virtual memory concepts and design
+
+as experience with use of on-line operating
+systems has grown the need to share information 
+among system users has become increasingly apparent
+ many contemporary systems permit some degree of 
+sharing  usually sharing is accomplished by allowing
+several users to share data via input and output 
+of information stored in files kept in secondary storage
+ through the use of segmentation however 
+multics provides direct hardware addressing by user and
+system programs of all information independent 
+of its physical storage location  information is stored
+in segments each of which is potentially sharable 
+and carries its own independent attributes of size and access
+privilege  here the design and implementation 
+considerations of segmentation and sharing in multics
+are first discussed under the assumption that all 
+information resides in large segmented main memory 
+since the size of main memory on contemporary systems 
+is rather limited it is then shown how the multics
+software achieves the effect of a large segmented 
+main memory through the use of the honeywell
+645 segmentation and paging hardware
+
+cacm may 1972
+
+bensoussan a
+clingen c t
+daley r c
+
+operating system multics virtual memory segmentation
+information sharing paging memory management 
+memory hierarchy
+
+4.30 4.31 4.32
+
+ca720502 jb january 31 1978  11:24 am

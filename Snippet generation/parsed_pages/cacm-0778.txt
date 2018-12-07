@@ -1,0 +1,11 @@
+
+
+
+associated legendre functions of the first kind
+for real or imaginary arguments algorithm 47
+
+cacm august 1963
+
+george r
+
+ca630820 jb march 13 1978  8:26 pm

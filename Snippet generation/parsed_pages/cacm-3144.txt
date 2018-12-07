@@ -1,0 +1,21 @@
+
+
+
+a model for and discussion of multi-interpreter systems
+
+a multi-interpreter system is a system in which programs execute
+by virtue of being interpreted by other programs which themselves may
+either be interpreted ie nested interpreters or run directly on
+the host machine  the model reveals the anatomy of interpreters
+and how these differ from procedures and exhibits links
+to protection domains and multiprocessor architectures
+
+cacm may 1979
+
+manthey m
+
+interpreters transfer-of-control hierarchies
+
+4.13 3.65
+
+ca790505 dh august 21 19791:14 pm

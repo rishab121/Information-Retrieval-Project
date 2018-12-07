@@ -1,0 +1,27 @@
+
+
+
+synchronization of communicating processes
+
+formalization of a well-defined synchronization
+mechanism can be used to prove that concurrently 
+running processes of a system communicate correctly
+ this is demonstrated for a system consisting of 
+many sending processes which deposit messages in a buffer
+and many receiving processes which remove messages 
+from that buffer  the formal description of the synchronization
+mechanism makes it very easy to prove 
+that the buffer will neither overflow nor underflow
+that senders and receivers will never operate on 
+the same message frame in the buffer nor will they run into a deadlock 
+
+cacm march 1972
+
+habermann a n
+
+parallel programming multiprogramming program correctness
+process communication process scheduling
+
+4.30 4.32 4.39 4.9
+
+ca720305 jb january 31 1978  2:44 pm

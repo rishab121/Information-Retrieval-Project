@@ -1,0 +1,27 @@
+
+
+
+levels of language for portable software
+
+an increasing amount of software is being
+implemented in a portable form  a popular way of 
+accomplishing this is to encode the software in a specially
+designed machine-independent language and 
+then to map this language often using a macro processor
+into the assembly language of each desired 
+object machine  the design of the machine-independent
+language is the key factor in this operation 
+ this paper discusses the relative merits of pitching
+this language at a high level or a low level and 
+presents some comparative results
+
+cacm december 1972
+
+brown p j
+
+portable software level of language machine
+independent macro processor efficiency
+
+4.12 4.21 4.22
+
+ca721209 jb january 27 1978  11:02 am

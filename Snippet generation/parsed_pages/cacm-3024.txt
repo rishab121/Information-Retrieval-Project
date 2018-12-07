@@ -1,0 +1,34 @@
+
+
+
+the cray-1 computer system
+
+this paper describes the cray-1 discusses
+the evolution of its architecture and gives an 
+account of some of the problems that were overcome during
+its manufacture  the cray-1 is the only computer 
+to have been built to date that satisfies erdas class
+vi requirement a computer capable of processing 
+from 20 to 60 million floating point operations per
+second 1  the cray-1s fortran compiler cft 
+is designed to give the scientific user immediate access
+to the benefits of the cray-1s vector processing 
+architecture  an optimizing compiler cft vectorizes
+innermost do loops  compatible with the ansi 
+1966 fortran standard and with many commonly supported
+fortran extensions cft does not require any source 
+program modifications or the use of additional nonstandard
+fortran statements to achieve vectorization 
+ thus the users investment of hundreds of man months
+of effort to develop fortran programs for other 
+contemporary computers is protected
+
+cacm january 1978
+
+russell r
+
+architecture computer systems
+
+1.2 6.2 6.3
+
+ca780106 jb march 28 1978  5:24 pm

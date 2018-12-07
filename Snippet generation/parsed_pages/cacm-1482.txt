@@ -1,0 +1,21 @@
+
+
+
+bugsys a programming system for picture processing-not for debugging
+
+bugsys is a picture processing and measuring
+system that depends upon a pictorial input to 
+the computers memory  bugsys can be used for many
+types of applications  in particular the authors 
+have used the system for the analysis of linear graphs
+ the main concept of the system is the use of 
+a collection of programmable pointers which
+are visualized as a family of bugs
+
+cacm february 1966
+
+ledley r s
+jacobsen j
+belson m
+
+ca660205 jb march 3 1978  3:16 pm

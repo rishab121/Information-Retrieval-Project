@@ -1,0 +1,34 @@
+
+
+
+the multistore parser for hierarchical syntactic structures
+
+a syntactic parser is described for hierarchical concatenation patterns
+that are presented to the analyzer in the form of linear strings  particular
+emphasis is given to the system of significant addresses by means
+of which processing times for large-scale matching procedures
+can be substantially reduced  the description makes frequent use
+of examples taken from the fully operational implementation of the
+parser in an experimental english sentence analyzer  by structuring
+an area of the computers central core storage in such a way
+that the individual locations of bytes and bits come to represent the
+data involved in the matching procedure the shifting of information
+is reduced to a minimum and the searching of lists is eliminated
+altogether  the matches are traced by means of binary masks
+and the state of single bits determines the operational flow of the
+procedure  the method could be implemented with any interpretive
+grammar provided it can be expressed by the functional classification
+of the items composing the input hierarchical structures
+
+cacm february 1970
+
+von glasersfeld e
+
+parsing syntactic analysis natural-language analysis linguistic data
+processing computational linguistics correlational grammar structure
+recognition pattern recognition matching procedures tree-structure 
+interpretation machine translation automatic abstracting
+
+3.42 3.49 3.63 3.70 3.71
+
+ca700202 jb february 14 1978  12:57 pm

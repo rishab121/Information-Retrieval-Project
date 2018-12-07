@@ -1,0 +1,11 @@
+
+
+
+on a floating-point number representation
+for use with algorithmic languages
+
+cacm march 1962
+
+grau a a
+
+ca620304 jb march 20 1978  3:09 pm

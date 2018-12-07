@@ -1,0 +1,19 @@
+
+
+
+a graphical servicesystem with variable syntax
+
+man-machine interaction in many fields of endeavor
+should be greatly facilitated in the near 
+future through the use of interactive graphical languages
+ to provide a variety of display scope communication 
+procedures a graphic service system which functions
+as a generalized graphical language translator 
+is being developed to aid the definition as
+well as the use of new graphical languages
+
+cacm march 1966
+
+roberts l g
+
+ca660305 jb march 3 1978  1:49 pm

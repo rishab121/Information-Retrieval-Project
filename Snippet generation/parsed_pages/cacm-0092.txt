@@ -1,0 +1,21 @@
+
+
+
+a checklist of intelligence for programming systems
+
+a remarkable variation exists in the degree
+of sophistication of various programming systems 
+ a particular manifestation is the jungle of assorted
+devices for reproducing limited human decision 
+procedures  an attempt is made here to begin a systematic
+classification of the various devices for 
+educating the computer to take over the decision-making
+functions of one or many human operators both 
+those that have been demonstrated feasible to date and
+those that are highly desirable for the future
+
+cacm march 1959
+
+bemer r w
+
+ca590304 jb march 22 1978  8:01 pm

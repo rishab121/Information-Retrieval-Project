@@ -1,0 +1,15 @@
+
+
+
+average binary search length for dense ordered lists
+
+cacm september 1971
+
+flores i
+madpis g
+
+searching binary searching record retrieval
+
+3.74
+
+ca710907 jb february 2 1978  1:42 pm

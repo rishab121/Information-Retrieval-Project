@@ -1,0 +1,30 @@
+
+
+
+the denotational semantics of programming languages
+
+this paper is a tutorial introduction to the
+theory of programming language semantics developed 
+by d scott and c strachey  the application of the theory
+to formal language specification is demonstrated 
+and other applications are surveyed the first language
+considered loop is very elementary and its 
+definition merely introduces the notation and methodology
+of the approach  then the semantic concepts
+of environments stores and continuations are introduced
+to model classes of programming language features 
+and the underlying mathematical theory of computation
+due to scott is motivated and outlined  finally 
+the paper presents a formal definition of the language gedanken
+
+cacm august 1976
+
+tennent r d
+
+semantics programming language applicative imperative
+environment store continuation theory 
+of computation higher-order function recursive definition loop gedanken
+
+4.22 5.24
+
+ca760802 jb january 4 1978  10:33 am

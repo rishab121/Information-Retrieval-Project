@@ -1,0 +1,21 @@
+
+
+
+scatter storage techniques
+
+scatter storage techniques as a method for
+implementing the symbol tables of assemblers and 
+compilers are reviewed and a number of ways of using
+them more effectively are presented  many of the 
+most useful variants of the techniques are documented
+
+cacm january 1968
+
+morris r
+
+scatter storage hash addressing searching
+file searching file addressing storage layout
+
+3.73 3.74
+
+ca680109 jb february 23 1978  2:26 pm

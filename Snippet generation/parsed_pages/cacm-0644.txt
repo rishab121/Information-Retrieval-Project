@@ -1,0 +1,25 @@
+
+
+
+a string language for symbol manipulation based on algol 60
+
+an artificial computer programming language
+is proposed for describing the manipulation of 
+strings of characters and symbols  the concept of strings
+introduced in the algol 60 report is extended 
+by adding 1 the declaration of strings substrings
+and string arrays with explicit lengths 2 the 
+ability to concatenate and shift strings and 3 the
+ranking of symbols for comparing stings in boolean 
+relations  a primer or informal description of the
+language is followed by examples a description of 
+experiments with the language on an ibm 704 computer
+and a formal description which taken with the 
+algol 60 report defines the proposed string language
+
+cacm january 1962
+
+wegstein j h
+youden w w
+
+ca620115 jb march 20 1978  4:02 pm

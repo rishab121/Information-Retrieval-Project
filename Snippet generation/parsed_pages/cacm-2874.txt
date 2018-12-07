@@ -1,0 +1,23 @@
+
+
+
+a comparative evaluation of versions of basic
+
+from its inception the basic language has
+grown in terms of its usage scope of usage and 
+its features  this article compares ten of the current
+versions of basic with each other with two earlier 
+versions and with the proposed standard for minimal
+basic the comparison is arranged by the features 
+of the versions and by computational comparison
+of computation and times and processing costs
+
+cacm april 1976
+
+lientz b p
+
+basic interpretive language summary
+
+4.20 4.6
+
+ca760402 jb january 4 1978  4:34 pm

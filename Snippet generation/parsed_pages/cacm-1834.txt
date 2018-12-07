@@ -1,0 +1,29 @@
+
+
+
+an axiomatic basis for computer programming
+
+in this paper an attempt is made to explore
+the logical foundations of computer programming 
+by use of techniques which were first applied in the
+study of geometry and have later been extended to 
+other branches of mathematics  this involves the elucidation
+of sets of axioms and rules of inference 
+which can be used in proofs of the properties of computer
+programs  examples are given of such axioms 
+and rules and a formal proof of a simple theorem is
+displayed  finally it is argued that important 
+advantages both theoretical and practical may
+follow from a pursuance of these topics
+
+cacm october 1969
+
+hoare c a r
+
+axiomatic method theory of programming proofs of
+programs formal language definition programming 
+language design machine-independent programming program documentation
+
+4.0 4.21 4.22 5.20 5.21 5.23 5.24
+
+ca691012 jb february 15 1978  1:48 pm

@@ -1,0 +1,10 @@
+
+
+
+character structure and character parity sense
+for parallel-by-bit data communication in ascii 
+proposed american standard
+
+cacm september 1966
+
+ca660912 jb march 2 1978  4:26 pm
