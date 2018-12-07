@@ -62,7 +62,7 @@ def populateOutputRelevantDictionary(path):
 	file.close()
 
 
-def populateResponseList(path):
+def populateResponseList(path,plotname):
 	global relevant_documents
 	responseDict = defaultdict()
 	# print relevant_documents
@@ -82,9 +82,9 @@ def populateResponseList(path):
 				responseList.append('N')
 		responseDict[queryId] = responseList
 
-	calculatePrecisionAndRecall(responseDict,docsConsidered,path)
+	calculatePrecisionAndRecall(responseDict,docsConsidered,path,plotname)
 
-def calculatePrecisionAndRecall(responseDict,docsConsidered,path):
+def calculatePrecisionAndRecall(responseDict,docsConsidered,path,plotname):
 	for query in responseDict:
 		responseList = responseDict[query]
 		# print responseList
@@ -130,9 +130,9 @@ def calculatePrecisionAndRecall(responseDict,docsConsidered,path):
 			average_precision = average_precision/no_of_relevant_docs
 		global mean_average_precision
 		mean_average_precision+= average_precision
-		writeOutputToFile(responseList,precisionList,recallList,query,docsConsidered,average_precision,reciprocal_rank_of_first_relevant_document,path)
+		writeOutputToFile(responseList,precisionList,recallList,query,docsConsidered,average_precision,reciprocal_rank_of_first_relevant_document,path,plotname)
 
-def writeOutputToFile(responseList,precisionList,recallList,queryId,docsConsidered,average_precision,reciprocal_rank,path):
+def writeOutputToFile(responseList,precisionList,recallList,queryId,docsConsidered,average_precision,reciprocal_rank,path,plotname):
 		count = 1
 		file_name = str(path) + str(queryId) + '.txt'
 		docs = output_relevant_documents[queryId]
@@ -173,17 +173,32 @@ def writeOutputToFile(responseList,precisionList,recallList,queryId,docsConsider
 				dmr = queryId-documents_with_no_relevance_judgements
 				f.write("Mean Average precision: " + str(mean_average_precision/dmr)+"\n")
 				f.write("Mean Reciprocal rank: " + str(float(mean_reciprocal_rank/dmr)) + "\n")
+		# populateFileForPlot(precisionList,recallList,queryId,plotname,docs)
+
+
+# def populateFileForPlot(precisionList,recallList,queryId,plotname,docs):
+# 	count = 0
+# 	with open('plot_file.txt', 'a+') as f:
+# 		for x in range(0, len(precisionList)):
+# 			if(count <2 and precisionList[x] > 0.7 and recallList[x]>0.7):
+# 				count+=1
+# 				f.write(str(queryId) + " " + str(precisionList[x]) + " " + str(recallList[x]) + " " + str(plotname) + " " + str(docs[x]) + "\n")
+# 	f.close()
+
+
+
+
 
 
 populateRelevantDictionary()
 # populateOutputRelevantDictionary('TF-IDF_output')
-# populateResponseList('TF-IDF_EvaluationOutput/')
+# populateResponseList('TF-IDF_EvaluationOutput/','tfidf')
 
 # populateOutputRelevantDictionary('TF-IDF_Output_Stopping')
-# populateResponseList('TF-IDF_Evaluation_Stopping_Output/')
+# populateResponseList('TF-IDF_Evaluation_Stopping_Output/','tfidf_stop')
 
-# populateOutputRelevantDictionary('BM_Output')
-# populateResponseList('BM_EvaluationOutput/')
+populateOutputRelevantDictionary('BM_Output')
+populateResponseList('BM_EvaluationOutput/','bm25')
 
 # populateOutputRelevantDictionary('JM_Output')
 # populateResponseList('JM_EvaluationOutput/')
@@ -194,8 +209,10 @@ populateRelevantDictionary()
 # populateOutputRelevantDictionary('BM_OutputWithFeedback')
 # populateResponseList('BM_QueryEnrichmentEvaluationOutput/')
 
-populateOutputRelevantDictionary('BM_Output_Stopping')
-populateResponseList('BM_Evaluation_Stopping_Output/')
+# populateOutputRelevantDictionary('BM_Output_Stopping')
+# populateResponseList('BM_Evaluation_Stopping_Output/')
+
+
 
 
 
