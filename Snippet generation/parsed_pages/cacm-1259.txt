@@ -1,0 +1,19 @@
+
+
+
+applications of binary numbers in computer routines
+
+a binary number can be thought of as an alternate
+form of expression for either a set of letters 
+or a decimal number  there are then three equivalent
+expressions easily translatable to one another 
+each having different characteristics  four examples
+are given in which the form of an expression is 
+changed to an equivalent expression to save space or gain power
+
+cacm may 1965
+
+weldon r j
+baker r l
+
+ca650512 jb march 7 1978  1:05 pm

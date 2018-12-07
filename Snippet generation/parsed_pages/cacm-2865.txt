@@ -1,0 +1,32 @@
+
+
+
+verifying properties of parallel programs an axiomatic approach
+
+an axiomatic method for proving a number
+of properties of parallel programs is presented  
+hoare has given a set of axioms for partial correctness
+but they are not strong enough in most cases 
+ this paper defines a more powerful deductive system which
+is in some sense complete for partial correctness 
+ a crucial axiom provides for the use of auxiliary variables
+which are added to a parallel program as 
+an aid to proving it correct  the information in a partial
+correctness proof can be used to prove such 
+properties as mutual exclusion freedom from deadlock
+and program termination  techniques for verifying 
+these properties are presented and illustrated by
+application to the dining philosophers problem
+
+cacm may 1976
+
+owicki s
+gries d
+
+structured multiprogramming correctness proofs program
+verification concurrent processes synchronization 
+mutual exclusion deadlock
+
+4.32 4.35 5.21 5.24
+
+ca760506 jb january 4 1978  3:23 pm

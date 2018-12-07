@@ -1,0 +1,34 @@
+
+
+
+improving the access time for random access files
+
+clustering in the key set is decreased by
+smoothing the key-to-address transformation and 
+by adding shadow buckets to an open chaining file  the
+keys are pre-hashed before the address division 
+to remove the effect of sequential properties in the
+key set  shadow buckets in the key search sequence 
+reduce the effect of nonuniformity in file loading
+and decrease the number of maximum probes needed 
+to locate a record  the combined effects of these techniques
+lead to improved file performance for secondary 
+storage devices as shown by empirical studies
+
+cacm march 1977
+
+clapson p
+
+hashing hashing techniques hashing methods hash
+coding keys key transformation key-to-address 
+transformation direct addressing direct access direct
+access method randomizing random access file 
+addressing file organizations file structures scatter
+storage search method collisions synonyms 
+clustering information retrieval open addressing open
+chaining buckets bucket size shadow buckets 
+combinatorics
+
+3.7 3.72 3.73 3.74 4.9 5.39
+
+ca770301 jb december 30 1977  2:00 am

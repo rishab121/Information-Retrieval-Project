@@ -1,0 +1,18 @@
+
+
+
+mathematical experimentation in time-lag modulation
+
+equations of the form du/dt  gutuht
+arise in a number of scientific contexts  the 
+authors point out some interesting properties of the
+solution ut  -ut-1-ksinwt+sinat  these 
+properties were obtained by means of numerical solution
+
+cacm october 1966
+
+bellman r
+buell j
+kalaba r
+
+ca661003 jb march 2 1978  4:08 pm

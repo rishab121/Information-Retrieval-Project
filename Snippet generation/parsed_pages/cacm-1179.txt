@@ -1,0 +1,26 @@
+
+
+
+pufft-the purdue university fast fortran translator
+
+a core resident compile-and-go system designed
+for the ibm 7090/7094 computer is described 
+ in little more than half of the 32k word core memory
+pufft provides a monitor for job sequencing a 
+translator for the full fortran iv language the fortran
+subroutine library an input-output system 
+for use at compile time and at execute time and a rather
+elaborate diagnostic message writing routine 
+ batches of small and medium-sized fortran iv source
+language programs are processed at very high speeds 
+ language compatibility has been maintained so that
+programs may be debugged in the pufft system and 
+then recompiled and run in the ibjob-ibftc system supplied by the manufacturer
+
+cacm november 1965
+
+rosen s
+spurgeon a
+donnelly j k
+
+ca651102 jb march 6 1978  6:17 pm

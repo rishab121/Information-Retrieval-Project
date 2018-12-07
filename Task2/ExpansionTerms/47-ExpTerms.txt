@@ -2,9 +2,9 @@ data
 systems
 jb
 cacm
-query
 1978
 language
+query
 paper
-documents
 model
+documents

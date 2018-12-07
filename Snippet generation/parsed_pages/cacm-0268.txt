@@ -1,0 +1,10 @@
+
+
+
+stochastic evaluation of a static storage allocation
+
+cacm october 1961
+
+cohen l j
+
+ca611013 jb march 16 1978  12:48 pm

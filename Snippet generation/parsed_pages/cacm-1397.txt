@@ -1,0 +1,24 @@
+
+
+
+proceedings of the acm symposium on symbolic and algebraic manipulation
+
+the acm symposium on symbolic and algebraic
+manipulation brought together over four hundred 
+people interested in programming languages designed
+for manipulation of algebraic formulas and symbol 
+strings in their applications and in algorithms for
+their implementation  twenty-eight papers were 
+presented followed by a lively panel discussion of
+future directions  evening meetings were arranged 
+for several interest groups  the conference was sponsored
+by the acm special interest committee on symbolic 
+and algebraic manipulation  the program committee consisted
+of chairman jean e sammet paul abrahams 
+thomas e cheatham max goldstein and douglas mcllroy
+ conference arrangements were made by lewis c 
+clapp daniel bobrow and james h griesmer-robert w floyd editor
+
+cacm august 1966
+
+ca660801 jb march 2 1978  8:17 pm

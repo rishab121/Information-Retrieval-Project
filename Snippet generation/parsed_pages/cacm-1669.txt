@@ -1,0 +1,18 @@
+
+
+
+algol procedures for the fast fourier transform algorithm 338 c6
+
+cacm november 1968
+
+singleton r c
+
+fast fourier transform complex fourier transform
+multivariate fourier transform fourier series 
+harmonic analysis spectral analysis orthogonal polynomials
+orthogonal transformation virtual core 
+memory permutation
+
+3.15 3.83 5.12 5.14
+
+ca681110 jb february 21 1978  2:29 pm

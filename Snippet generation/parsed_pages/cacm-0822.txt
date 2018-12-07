@@ -1,0 +1,16 @@
+
+
+
+real-time programming specifications
+
+problems in the implementation of large real-time
+applications are treated and suggested guidelines 
+for both program and file specifications are developed
+ the problems delineated also occur in systems 
+programming
+
+cacm july 1963
+
+head r v
+
+ca630702 jb march 14 1978  8:50 am

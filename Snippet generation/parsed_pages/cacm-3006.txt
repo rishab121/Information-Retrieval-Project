@@ -1,0 +1,31 @@
+
+
+
+anomalies with variable partition paging algorithms
+
+five types of anomalous behavior which may
+occur in paged virtual memory operating systems 
+a redefined  one type of anomaly for example concerns
+the fact that with certain reference strings 
+and paging algorithms an increase in mean memory allocation
+may result in an increase in fault rate 
+ two paging algorithms are examined in terms of their
+anomaly potential and reference string examples 
+of various anomalies are presented  two paging algorithm
+properties the inclusion property and the 
+generalized inclusion property are discussed and the
+anomaly implications of these properties presented
+
+cacm march 1978
+
+franklin m
+graham g
+gupta r
+
+anomaly memory management program behavior stack
+algorithms virtual memory working set page 
+fault frequency paging algorithms
+
+4.32 4.35 4.6 8.1
+
+ca780307 jb march 28,1978  1:01 pm

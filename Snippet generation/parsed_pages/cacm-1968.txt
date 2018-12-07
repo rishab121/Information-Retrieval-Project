@@ -1,0 +1,17 @@
+
+
+
+eigenvalues and eigenvectors of a real
+general matrix algorithm 343 $f1
+
+cacm november 1970
+
+knight w
+mersereau w
+
+eigenvalues eigenvectors latent roots householders
+method qr algorithm inverse iteration
+
+5.14
+
+ca701111 jb february 9 1978  4:30 pm

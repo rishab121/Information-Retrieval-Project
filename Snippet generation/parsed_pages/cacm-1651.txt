@@ -1,0 +1,32 @@
+
+
+
+an interpretive input routine for linear programming
+
+in this descriptive article an input code
+is presented which greatly simplifies data input 
+to any linear programming solution routine for subsequent
+use either as a pedagogical device or for 
+solving rather small lp problems  this latter limited
+use derives not at all from inherent limitations 
+in the code itself but from an efficiency evaluation
+large lp problems would doubtless benefit from 
+an input system more suited for bulk data handling than
+the input code described  from a users standpoint 
+input appears almost exactly as a textbook presentation
+of the lp problem limited only by a keypunchs 
+inability to write subscripts etc  the input interpreter
+scans column wise thus no fixed format 
+data preparation is required  the user may also under
+very general requirements only liberally use 
+editorial comments throughout the input deck as an
+aid in identification eg of row constraints  
+the article includes examples of input output from a
+solution routine presently in use and a skeleton 
+flowchart of the input interpreter
+
+cacm january 1967
+
+aigner d j
+
+ca670104 jb march 1 1978  8:58 am

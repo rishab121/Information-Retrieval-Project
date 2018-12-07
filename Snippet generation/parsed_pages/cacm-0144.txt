@@ -1,0 +1,26 @@
+
+
+
+do it by the numbers-digital shorthand
+
+present communications systems transmit single
+characters in groups of coded pulses between 
+simple terminal equipments  since english words form only
+a sparse set of all possible alphabetic combinations 
+present methods are inefficient when computer systems
+are substituted for these terminals  using numeric 
+representations of entire words or common phrases rather
+than character-by-character representations 
+requires approximately one-third of present transmission
+time  this saving is reflected in overall costs 
+ other benefits accrue in code and language translation
+schemes provision is made for transmission of 
+purely numeric and/or binary streams and for single
+character-transmission of non-dictionary words such 
+as the names of people or places
+
+cacm october 1960 
+
+bemer r w
+
+ca601004 jb march 20 1978  8:27 pm

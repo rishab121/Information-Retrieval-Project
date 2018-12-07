@@ -1,0 +1,31 @@
+
+
+
+a computer generated aid for cluster analysis
+
+a computer generated graphic method which
+can be used in conjunction with any hierarchical 
+scheme of cluster analysis is described and illustrated
+ the graphic principle used is the representation 
+of the elements of a data matrix of similarities or dissimilarities
+by computer printed symbols of character 
+overstrikes of various shades of darkness where a
+dark symbol corresponds to a small dissimilarity 
+ the plots applied to a data matrix before clustering
+and to the rearranged matrix after clustering 
+show at a glance whether clustering brought forth any
+distinctive clusters  a well-known set of data 
+consisting of the correlations of 24 psychological tests
+is used to illustrate the comparison of groupings 
+by four methods of factor analysis and two methods of cluster analysis
+
+cacm june 1973
+
+ling r f
+
+computer graphics cluster analysis numerical
+taxonomy hierarchical clustering factor analysis
+
+3.10 3.30 3.36 4.49
+
+ca730606 jb january 23 1978  2:20 pm

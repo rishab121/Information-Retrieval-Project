@@ -1,0 +1,12 @@
+
+
+
+orthogonal polynomial least squares surface fit algorithm 164
+
+cacm april 1963
+
+clark r e
+kubik r n
+phillips l p
+
+ca630407 jb march 14 1978  12:25 pm

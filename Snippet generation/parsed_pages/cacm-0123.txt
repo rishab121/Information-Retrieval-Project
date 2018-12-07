@@ -1,0 +1,20 @@
+
+
+
+compilation for two computers with neliac
+
+neliac a compiler based on algol was developed
+at the u navy electronics laboratory san 
+diegocalifornia as aboot-strap compiler for the remington
+rand univac countess computer this compiler 
+was used to generate a version of itself which running
+as a countess program generated machine code 
+for the control data corporation cdc-1604  all three
+versions of neliac accepted essentially identical 
+input language
+
+cacm november 1960
+
+masterson jr k s
+
+ca601112 jb march 20 1978  7:03 pm

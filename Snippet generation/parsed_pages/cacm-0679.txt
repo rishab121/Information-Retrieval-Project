@@ -1,0 +1,25 @@
+
+
+
+recent improvements in madcap
+
+madcap is a programming language admitting subscripts
+superscripts and certain forms of displayed 
+formulas  the basic implementation of this language was
+described in a previous paper madcap a scientific 
+compiler for a displayed formula textbook language comm
+acm 4 jan 61 31-36  this paper discusses 
+recent improvements in the language in three areas complex
+display logical control and subprogramming 
+ in the area of complex display the most prominent improvements
+are a notation for integration and for 
+the binomial coefficients  in the area of logical control
+the chief new feature is a notation for variably 
+nested looping  the discussion of subprogramming is focused
+on madcaps notation for and use of procedures
+
+cacm november 1963
+
+wells m b
+
+ca631113 jb march 13 1978  3:39 pm

@@ -1,0 +1,43 @@
+
+
+
+a set of basic input-output procedures algorithm 335 15
+
+by means of the primitives in symbol outsymbol
+and length as requested by this journals 
+algorithms policy comm acm 10 nov 67 729 a basic
+set of input-output procedures is defined aiming 
+at quality and flexibility  outreal for instance is
+written as a derived procedure it outputs using 
+the fixed point or the floating point representation
+and rounds properly  variants can easily be written 
+because of the explicit call of the procedures decompose
+integer and decompose real  the highly recommended 
+practice of echoing input is made easy with one subset
+of derived procedures ioi ior iob ioa  the 
+documentation of output in the form of equivalent algol
+statements is also provided when use is made 
+of the subset oti otr otb ota  the berkeley style
+of providing information on the form of output 
+using prior calls of procedures such as real format is
+defined  a use of the parameter outchannel to 
+provide information for simultaneous output to several
+channels is suggested  interrelationship between 
+the declared procedures is furnished in tabular form
+
+cacm august 1968
+
+de vogelaere r
+
+input output transput input output procedures
+input echo quality output decompose integer 
+decompose real style berkeley style procedures relationship
+output documentation equivalent algol 
+statements algol algol 60 integer format real formatout
+integer read real input output boolean 
+input output array fixed point representation floating
+point representation output channel interpretation
+
+4.0 4.41
+
+ca680809 jb february 22 1978  10:32 am

@@ -1,0 +1,15 @@
+
+
+
+a note on some compiling algorithms
+
+two compiling generators for arithmetic expressions
+are discussed one presently in use in 
+an experimental compiler and an improvement
+suggested by k speierman of burroughs
+
+cacm march 1964
+
+anderson j p
+
+ca640309 jb march 10 1978  3:33 am

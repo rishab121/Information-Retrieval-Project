@@ -1,0 +1,26 @@
+
+
+
+a comparison of error improvement estimates
+for adaptive trapezoid integration
+
+various simple choices of error improvement estimates for the trapezoid
+rule are studied to demonstrate a comparison procedure which is
+relatively independent of the profusion of adaptive search and stopping
+strategies  comparisons are based on x^r ` the inclusion
+of the noninteger powers makes this more realistic than the usual polynomial
+based comparison  behavior near the singularity was found
+to be the dominant factor and a new estimate based on a constant
+curvature assumption and parametric differences was considered
+slightly better than the other choices considered
+
+cacm march 1970
+
+schweikert d g
+
+adaptive integration error improvement estimate
+trapezoid rule nonpolynomial error criteria
+
+5.16
+
+ca700305 jb february 13 1978  4:47 pm

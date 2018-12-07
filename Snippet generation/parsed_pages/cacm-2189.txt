@@ -1,0 +1,38 @@
+
+
+
+generation of rosary permutations expressed in hamiltonian circuits
+
+systematic generation of a specific class
+of permutations fundamental to scheduling problems 
+is described  in a nonoriented complete graph with
+n vertices hamitonian circuits equivalent to .5n 
+ 1 specific permutations of n elements termed rosary
+permutations can be defined  each of them 
+corresponds to two circular permutations which mirror-image
+each other and is generated successively 
+by a number system covering 34n-1 sets of edges
+ every set of edges ek 1  ek  k 
+3  k  n-1 is determined recursively by constructing
+a hamiltonian circuit with k vertices from 
+a hamiltonian circuit with k-1 vertices starting with
+the hamiltonian circuit of 3 vertices  the basic 
+operation consists of transposition of a pair of adjacent
+vertices where the position of the pair in 
+the permutation is determined by ek  two algorithms
+treating the same example for five vertices 
+are presented  it is very easy to derive all possible n
+permutations  from the .5n  1  rosary permutations 
+be cycling the permutations and by taking them in the
+reverse order-procedures which can be performed 
+fairly efficiently by computer 
+
+cacm june 1971
+
+harada k
+
+permutation graph theory scheduling combinatorial algebra
+
+5.32 5.39
+
+ca710601 jb february 3 1978  1:55 pm

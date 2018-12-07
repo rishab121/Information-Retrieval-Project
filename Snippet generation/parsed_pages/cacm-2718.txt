@@ -1,0 +1,28 @@
+
+
+
+a preliminary system for the design of dbtg data structures
+
+the functional approach to database design is
+introduced  in this approach the goal of design 
+is to derive a data structure which is capable of supporting
+a set of anticipated queries rather than 
+a structure which models the business in some other
+way an operational computer program is described 
+which utilizers the functional approach to design data
+structures conforming to the data base task group 
+specifications  the automatic programming technology
+utilized by this program although typically used 
+to generate procedure is here used to generate declaratives
+
+cacm october 1975
+
+gerritsen r
+
+network model of databases data base task group database
+design data structure automatic programming 
+translation nonprocedural languages
+
+3.5 3.64 3.7 4.2 5.23
+
+ca751001 jb january 6 1978  2:02 pm

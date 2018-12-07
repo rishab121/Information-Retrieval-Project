@@ -1,0 +1,24 @@
+
+
+
+the distribution of a program in primary and fast buffer storage
+
+a virtual memory computer system with a fast
+buffer cache memory between primary memory and 
+the central processing unit is considered  the optimal
+distribution of a program between the buffer 
+and primary memory is studied using the programs lifetime
+function  expressions for the distribution 
+of a program which maximizes the useful fraction of
+the cost-time integral of primary and fast buffer 
+storage are obtained for swapping and nonswapping buffer management policies
+
+cacm july 1973
+
+gelenbe e
+
+cache virtual memory lifetime function cost-time integral fast buffer
+
+4.3 6.2 6.3
+
+ca730705 jb january 23 1978  12:41 pm

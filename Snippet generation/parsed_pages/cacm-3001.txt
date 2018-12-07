@@ -1,0 +1,36 @@
+
+
+
+detection of combined occurrences
+
+in this paper it is supposed that the variables
+x1xn each have finite range with the variable 
+xi taking on pi possible values and that the values of the
+variables are changing with time  it is supposed 
+further that it is desired to detect occurrences in which
+some subset of the variables achieve particular 
+values  finally it is supposed that the problem involves
+the detection of a large number of combined 
+occurrences for a large number of changes of values of
+variables  two efficient solutions for this problem 
+are described  both methods have the unusual property
+of being faster for systems where the sum p1 +  
++ pn is larger the first solution is error-free
+and suitable for most cases  the second solution 
+is slightly more elegant and allows negation as well
+as conjunction but is subject to the possibility 
+of errors  an error analysis is given for the second
+method and an empirical study is reported
+
+cacm january 1977
+
+zobrist a l
+carlson f r jr
+
+coding hash coding retrieval secondary keys pattern
+recognition artificial in telligence demons 
+n-tuples sorting chess
+
+3.63 5.31
+
+ca770104jb january 3 1978  12:15 am

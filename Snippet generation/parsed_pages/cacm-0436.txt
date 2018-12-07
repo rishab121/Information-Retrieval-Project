@@ -1,0 +1,10 @@
+
+
+
+evaluation of polynomials by computer
+
+cacm december 1962
+
+knuth d e
+
+ca621203 jb march 17 1978  5:16 pm

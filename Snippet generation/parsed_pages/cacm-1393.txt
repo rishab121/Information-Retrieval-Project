@@ -1,0 +1,12 @@
+
+
+
+pm a system for polynomial manipulation
+
+pm is an ibm 7094 program system for formal manipulation
+of polynomials in any number of variables 
+with integral coefficients unrestricted in size  some
+of the formal operations which can be performed 
+by the system are sums differences products quotients
+derivatives substitutions and greater common 
+divisors  pm

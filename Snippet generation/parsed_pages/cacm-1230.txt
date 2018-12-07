@@ -1,0 +1,16 @@
+
+
+
+method for hyphenating at the end of a printed line
+
+a description of a method of hyphenation is
+presented as a result of application of several 
+general rules  the character sets considered by the
+routine and the method are briefly outlined
+
+cacm july 1965
+
+rich r p
+stone a g
+
+ca650705 jb march 6 1978  9:03 pm

@@ -1,0 +1,15 @@
+
+
+
+heaps applied to event driven mechanisms
+
+cacm july 1976
+
+gonnet g h
+
+discrete event simulation event-scanning
+mechanisms priority queues heaps
+
+4.34 8.1
+
+ca760709 jb january 4 1978  11:05 am

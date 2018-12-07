@@ -1,0 +1,11 @@
+
+
+
+incomplete beta ratio algorithm 179 s14
+
+cacm june 1967
+
+pike m c
+hill i d
+
+ca670607c jb march 23 1978  3:29 pm

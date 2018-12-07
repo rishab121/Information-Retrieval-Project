@@ -1,0 +1,17 @@
+
+
+
+automatic integration of a function with a parameter
+
+two efficient methods for automatic numerical
+integration are romberg integration and adaptive 
+simpson integration  for integrands of the form fxgxa
+where a is a parameter it is shown that 
+rombergs method is more efficient  a fortran program
+shows how to achieve this greater efficiency
+
+cacm november 1966
+
+rabinowitz p
+
+ca661106 jb march 2 1978  3:35 pm

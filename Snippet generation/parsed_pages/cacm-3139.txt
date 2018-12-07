@@ -1,0 +1,25 @@
+
+
+
+new methods to color the vertices of a graph
+
+this paper describes efficient new heuristic
+methods to color the vertices of a graph which rely
+upon the comparison of the degrees and structure of a graph  a method
+is developed which is exact for bipartite graphs and is an
+important part of heuristic procedures to find maximal cliques in general
+graphs  finally an exact method is given which performs better
+than the randall-brown algorithm and is able to color larger
+graphs and the new heuristic methods the classical methods and
+the exact method are compared  
+
+cacm april 1979
+
+brelaz d
+
+np-complete graph structure balancing graph
+coloring scheduling comparison of the methods
+
+5.25 5.32
+
+ca790405 dh june 5 1979  2:05 pm

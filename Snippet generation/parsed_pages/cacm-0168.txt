@@ -1,0 +1,11 @@
+
+
+
+multiprogram scheduling parts 3 and 4 scheduling
+algorithm and external constraints
+
+cacm july 1960
+
+codd e f
+
+ca600705 jb march 20 1978  9:16 pm

@@ -1,0 +1,32 @@
+
+
+
+on the interface between computers and data communications systems
+
+future systems that combine computers digital
+terminals and communications equipment present 
+design optimization problems that require reconsideration
+of the traditional functional responsibilities 
+of the respective subsystems  several standard interfaces
+by means of which computers and digital 
+terminals connect to the communications systems will
+be required  when specifying these interfaces 
+consideration must be given to problems of coordination
+synchronization error control signaling stream 
+multiplexing and switch control in addition to minimizing
+the technological interdependence of specific 
+subsystem designs  a focus on some of the problems is
+obtained in a discussion of a detailed specification 
+for a particular computer-communications system interface
+
+cacm july 1972
+
+fraser a g
+
+communications standard interface communications
+protocol virtual channel multiplexed input/output 
+coordination of input/output
+
+3.81 6.0 6.35
+
+ca720707 jb january 30 1978  2:46 pm

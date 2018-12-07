@@ -1,0 +1,19 @@
+
+
+
+an algorithm for locating adjacent storage blocks in the buddy system
+
+a simple scheme for the determination of the
+location of a block of storage relative to other 
+blocks is described  this scheme is applicable
+to the buddy type storage allocation systems
+
+cacm april 1975
+
+hinds j a
+
+dynamic storage allocation buddy system generalized fibonacci sequences
+
+3.89 4.32 4.39
+
+ca750409 jb january 9 1978  3:46 pm

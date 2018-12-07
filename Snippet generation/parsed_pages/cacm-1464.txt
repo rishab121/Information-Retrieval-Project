@@ -1,0 +1,23 @@
+
+
+
+an algol compiler construction and use
+in relation to an elaborate operating system
+
+an algol translator has been prepared and integrated
+into the ibsys operating system  assembly 
+and go features of ibsys permit immediate execution with
+optional listings decks and debugging information 
+ using the chain feature of ibsys links written in
+map or fortran as well as algol may be called by 
+the algol main program  in addition procedures coded
+in map may be included in any algol program  
+although assembly plus loading time exceeds compilation
+time the total time is satisfactory and the 
+user gets ease and facility which are fully compensating
+
+cacm march 1966
+
+boussard j c
+
+ca660308 jb march 3 1978  1:41 pm

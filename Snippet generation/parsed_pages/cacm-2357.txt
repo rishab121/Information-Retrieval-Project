@@ -1,0 +1,30 @@
+
+
+
+mux a simple approach to on-line computing
+
+an on-line system operating as part of a normal
+batch system for the cdc 6600 computer is described 
+ the system which required one man-year for initial
+software implementation although basically simple
+provides the necessary elements to input and modify files
+submit them for batch execution and provide 
+results at the users terminal  a multiplexer designed
+and developed as part of the project cost one 
+man-year for design and checkout and $16,000 for parts
+and fabrication  all aspects of the system are 
+described including design criteria implementation
+cost overhead and user reactions
+
+cacm may 1972
+
+christman r d
+
+time-sharing remote computing on-line access
+on-line computing remote file manager real time 
+multiplexer implementation effort operating overhead
+user reactions remote terminals operating system
+
+3.79 3.89 4.39 4.41
+
+ca720503 jb january 31 1978  11:04 am

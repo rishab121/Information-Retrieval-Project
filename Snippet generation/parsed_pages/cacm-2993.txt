@@ -1,0 +1,34 @@
+
+
+
+occurrences of cycling and other phenomena
+arising in a class of linear programming models
+
+an investigation into the average queue size
+for a certain class of queues has resulted in 
+the formulation of linear programming problems which
+are ill-conditioned in some cases  in attempting 
+to solve these linear programming models using ibms
+mps package instances of cycling were encountered 
+ small perturbations in the input data resulted in problems
+which did not cycle  this fact plus several 
+other observed phenomena suggest that the primary reason
+that cycling is not known to occur more frequently 
+is the round-off errors in the computations perturb
+the problem sufficiently to prevent cycling or at 
+least to prevent indefinite cycling  in one case maximizing
+and minimizing an objective function subject 
+to the same constrain t set was attempted but mps solved
+only one of these while giving an indication 
+of infeasibility for the other
+
+cacm february 1977
+
+kotiah t c t
+steinberg d i
+
+linear programming cycling queueing models
+
+5.41 5.9
+
+ca770208 jb december 30 1977  2:11 am

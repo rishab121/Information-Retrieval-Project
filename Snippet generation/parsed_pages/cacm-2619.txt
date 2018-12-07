@@ -1,0 +1,31 @@
+
+
+
+graph coloring conditions for the existence
+of solutions to the timetable problem
+
+a necessary and sufficient condition is presented
+for the existence of a solution to the gotlieb 
+class-teacher timetable problem  several relationships
+are established between the class-teacher timetable 
+problem and graphs with preconditions  these preconditions
+place additional restrictions on the coloration 
+of a graph  the preconditions correspond to the unavailability
+constraints and preassigned meetings 
+in the class-teacher timetable problem  using some recent
+results that convert graphs with preconditions 
+to graphs without them it is shown that the existence
+of a coloration of a graph is the required necessary 
+and sufficient condition
+
+cacm august 1974
+
+neufeld g a
+tartar j
+
+graphs coloration preassignment prevention
+of assignment class-teacher timetables
+
+3.9 5.30 5.32 5.59
+
+ca740805 jb january 17 1978  9:55 am

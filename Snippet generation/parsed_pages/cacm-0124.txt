@@ -1,0 +1,17 @@
+
+
+
+an algorithm for the assignment problem
+
+the assignment problem is formulated and briefly
+discussed  an efficient algorithm for its 
+solution is presented in algol code  an empirical relation
+between solution time and the size of the 
+problem is given based on extensive experiments
+carried out on a digital computer
+
+cacm november 1960
+
+silver r
+
+ca601111 jb march 20 1978  7:05 pm

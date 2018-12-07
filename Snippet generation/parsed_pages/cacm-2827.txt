@@ -1,0 +1,32 @@
+
+
+
+a parametric algorithm for drawing pictures
+of solid objects composed of quadric surfaces
+
+an algorithm for drawing pictures of three-dimensional
+objects with surfaces made up of patches 
+of quadric surfaces is described  the emphasis of
+this algorithm is on calculating the intersections 
+of quadric surfaces a parameterization scheme is used
+ each quadric surface intersection curve qsic 
+is represented as a set of coefficients and parameter
+limits  each value of the parameter represents 
+at most two points and these may easily be distinguished
+ this scheme can find the coordinates of points 
+of even quartic fourth-order intersection curves using
+equations of no more than second order  methods 
+of parameterization for each type of osic are discussed
+as well as surface bounding and hidden surface 
+removal
+
+cacm october 1976
+
+levin j
+
+computer graphics hidden surface removal
+quadric surface intersection curves
+
+3.41 5.12 5.13 5.19 8.2
+
+ca761004 jb january 3 1978  4:32 pm

@@ -1,0 +1,26 @@
+
+
+
+translator writing systems
+
+a critical review of recent efforts to automate
+the writing of translators of programming languages 
+is presented  the formal study of syntax and its application
+to translator writing are discussed in 
+section ii  various approaches to automating the post syntactic
+semantic aspects of translator writing 
+are discussed in section iii and several related topics in section iv
+
+cacm february 1968
+
+feldman j
+gries d
+
+compiler compiler-compiler translator translator
+writing systems metacompiler syntax semantics 
+syntax-directed meta-assembler macroprocessor
+parser syntactic analysis generator
+
+4.1 4.10 4.12 4.22 5.23
+
+ca680201 jb february 23 1978  2:02 pm

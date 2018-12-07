@@ -1,0 +1,29 @@
+
+
+
+simple lrk grammars
+
+a class of context-free grammars called the
+simple lrk or slrk grammars is defined 
+ this class has been shown to include weak precedence
+and simple precedence grammars as proper subsets 
+ how to construct parsers for the slrk grammars is
+also shown  these parser-construction techniques 
+are extendible to cover all of the lrk grammars of
+knuth they have been implemented and by direct 
+comparison proved to be superior to precedence techniques
+not only in the range of grammars covered 
+but also in the speed of parser construction and
+in the size and speed of the resulting parsers
+
+cacm july 1971
+
+deremer f l
+
+context-free grammar lrk grammar precedence
+grammar syntactic analysis parsing algorithm 
+parser finite-state machine deterministic pushdown automaton
+
+4.12 5.22 5.23
+
+ca710703 jb february 3 1978  9:31 am

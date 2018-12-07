@@ -1,0 +1,30 @@
+
+
+
+a programming system for the on-line analysis of biomedical images
+
+a preliminary description of the software for a computer-display
+system is given with special emphasis on the  man-machine interaction this 
+system is intended for a wide variety of biomedical applications
+as an example the methods are applied to the karyotyping of chromosomes  the 
+system is separated into four programming tasks picture transformations file 
+maintenance picture structuring and display management  picture structuring
+is considered as the vehicle for man-machine communication
+a prototype data format for pictures called a picture-form is developed
+structure operators are defined which manipulate picture-forms to produce 
+new pictures-forms  many of the ideas are taken from the symbolic mathematical 
+laboratory at mit conceived by marvin minsky
+
+cacm may 1970
+
+hodes l
+
+image processing biomedical image processing on-line image processing
+semiautomatic image processing data structure structure operators
+picture processing biomedical picture processing on-line picture
+processing semiautomatic picture processing semiautomatic
+karyotyping karyotyping list processing picture processing
+
+3.12 3.34 3.63 4.39 6.29
+
+ca700501 jb february 13 1978  2:27 pm

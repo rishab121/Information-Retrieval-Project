@@ -1,0 +1,27 @@
+
+
+
+analysis of algorithms for the zero-one programming problem
+
+this paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming problem  computational experience
+is summarized  the machine time and storage 
+requirements of several of the algorithms are compared
+over several test problems of small and intermediate 
+size  computer experiments still provide little hope
+of solving problems with over 100 variables with 
+a reasonable amount of machine time
+
+cacm december 1968
+
+gue r l
+liggett j c
+cain k c
+
+operations research optimization theory integer
+programming zero-one variables algorithms
+
+5.39 5.41
+
+ca681208 jb february 21 1978  1:31 pm

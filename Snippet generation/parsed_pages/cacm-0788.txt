@@ -1,0 +1,11 @@
+
+
+
+mullers method for finding roots of
+an arbitrary function algorithm 196
+
+cacm august 1963
+
+roman r d
+
+ca630810 jb march 13 1978  8:38 pm

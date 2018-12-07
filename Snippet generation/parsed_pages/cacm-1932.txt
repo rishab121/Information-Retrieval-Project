@@ -1,0 +1,29 @@
+
+
+
+the logarithmic error and newtons method for the square root
+
+the problem of obtaining optimal starting values
+for the calculation of the square root using 
+newtons method is considered  it has been pointed out
+elsewhere that if relative error is used as the 
+measure of goodness of fit optimal results are not
+obtained when the initial approximation is a best 
+fit  it is shown here that if instead the so-called
+logarithmic error is used then a best initial 
+fit is optimal for both types of error  moreover use
+of the logarithmic error appears to simplify the 
+problem of determining the optimal initial approximation
+
+cacm february 1969
+
+king r f
+phillips d l
+
+square root newtons method relative error logarithmic
+error best fit optimal approximation 
+maximal error recurrence relation integer root error curve
+
+5.12 5.13
+
+ca690206 jb february 20 1978  10:55 am

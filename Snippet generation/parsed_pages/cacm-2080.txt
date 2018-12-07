@@ -1,0 +1,24 @@
+
+
+
+the nucleus of a multiprogramming system
+
+this paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+requirements of program scheduling and resource allocation  the system
+nucleus simulates an environment in which program execution and input/output
+are handled uniformly as parallel cooperating process
+es  a fundamental set of primitives allows the dynamic creation and control
+of a hierarchy of processes as well as the communication among them
+
+cacm april 1970
+
+hansen p b
+
+multiprogramming operating systems parallel processes process concept
+process communication message buffering process
+hierarchy process creation process removal
+
+4.30 4.31 4.32 4.41
+
+ca700404 jb february 13 1978  3:10 pm

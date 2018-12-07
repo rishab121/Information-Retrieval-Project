@@ -1,0 +1,21 @@
+
+
+
+an algorithm for the approximate solution
+of wiener-hopf integral equations
+
+an explicit approximate solution is given for
+an equation  where it is assumed that the classical 
+wiener-hopf technique may be applied  it is furthermore
+assumed that fourier transforms are known explicitly 
+ the approximate solution depends on two positive parameters
+
+cacm november 1973
+
+stenger f
+
+integral equations wiener-hopf convolution approximate solution
+
+5.18
+
+ca731117 jb january 19 1978  3:36 pm

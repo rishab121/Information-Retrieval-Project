@@ -1,0 +1,44 @@
+
+
+
+anomalous behavior of the fifty-percent
+rule in dynamic memory allocation
+
+this paper reports simulation data showing
+that in dynamic memory allocation the average 
+free-to-allocated-block ratio can differ considerably
+and in both directions from the predictions of 
+the 50 percent rule  a new derivation is given and it
+is shown that previous derivations make an assumption 
+that may be violated frequently  on the basis of the simulation
+data and the derivation it is hypothesized 
+that the anomalous behavior results from the combined
+effects of systematic placement and the statistics 
+of the release process  additional simulations support
+this hypothesis  systematic placement which 
+refers to the natural convention of always allocating
+storage requests against the same end of the free 
+block selected by the allocation strategy tends to
+order blocks within contiguous groups according to 
+their allocation time  the degree of anomalous behavior
+depends on the extent to which allocated blocks 
+are released in the order of their allocation  for
+non-markovian release processes the extent of the 
+correlation between allocation order and release order
+varies approximately inversely with the coefficient 
+of variation of the memory residence time distribution
+ the simulations show that allocation efficiency 
+depends strongly on the residence time distribution efficiency
+decreases as the distributions coefficient 
+of variation increases  some practical implications are briefly discussed
+
+cacm november 1977
+
+shore j e
+
+dynamic memory allocation storage fragmentation
+fifty-percent rule first-fit simulation
+
+3.73 4.32 4.34 4.35
+
+ca771105 jb december 27 1977  7:37 am

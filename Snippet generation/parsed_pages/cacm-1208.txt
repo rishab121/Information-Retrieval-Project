@@ -1,0 +1,10 @@
+
+
+
+simulation of computer logic by fortran arithmetic
+
+cacm august 1965
+
+weingarten f w
+
+ca650816 jb march 6 1978  7:53 pm

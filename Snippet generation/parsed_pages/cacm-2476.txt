@@ -1,0 +1,15 @@
+
+
+
+equivalence between and/or graphs and context-free grammars
+
+cacm july 1973
+
+hall p a v
+
+artificial intelligence and/or graphs
+language theory context-free grammars
+
+3.60 3.64 5.23
+
+ca730710 jb january 23 1978  11:21 am

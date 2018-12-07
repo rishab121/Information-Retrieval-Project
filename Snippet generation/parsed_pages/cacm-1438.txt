@@ -1,0 +1,14 @@
+
+
+
+a method for locating zeros of complex functions
+
+a method for computing the index or winding
+number is developed and applied to the problem 
+of finding zeros of functions from the plane into the plane
+
+cacm april 1966
+
+cain jr g l
+
+ca660411 jb march 3 1978  10:23 am

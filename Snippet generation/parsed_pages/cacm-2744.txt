@@ -1,0 +1,25 @@
+
+
+
+addition in an arbitrary base without radix conversion
+
+this paper presents a generalization of an
+old programming technique using itone may add 
+and subtract numbers represented in any radix including
+a mixed radix and stored one digit per byte 
+in bytes of sufficient size  radix conversion is unnecessary
+no looping is required and numbers may 
+even be stored in a display i/o format  applications
+to cobol mix and hexadecimal sums are discussed 
+
+cacm june 1975
+
+soule s
+
+addition subtraction decimal arithmetic arbitrary
+radix arithmetic radix conversion mix arithmetic 
+cobol display arithmetic mixed radix arithmetic
+
+4.49 4.9 5.9
+
+ca750609 jb january 9 1978  12:52 pm

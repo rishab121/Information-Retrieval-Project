@@ -1,0 +1,17 @@
+
+
+
+an algorithm for generating projective reduction
+formulas for matrix elements of many-electron 
+wavefunctions
+
+an algol procedure is given for automatically
+generating formulas for matrix elements arising 
+in the variational solution of the schrodinger
+equation for many-electron systems
+
+cacm april 1966
+
+reeves c m
+
+ca660405 jb march 3 1978  10:44 am

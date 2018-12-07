@@ -1,0 +1,16 @@
+
+
+
+correction to logical arithmetic on computers
+with twos complement binary arithmetic
+
+cacm november 1970
+
+ehrman j r
+
+binary arithmetic unsigned operand arithmetic maximum
+significance arithmetic full-precision arithmetic
+
+3.15 5.11
+
+ca701114 jb february 9 1978  4:25 pm

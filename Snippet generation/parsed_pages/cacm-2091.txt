@@ -1,0 +1,28 @@
+
+
+
+pdel-a language for partial differential equations
+
+conventional computer methods available to solve
+continuous system problems characterized by partial
+differential equations are very time-consuming and cumbersome  a
+convenient easy to learn and to use high level problem oriented
+language to solve and study partial differential equation problems
+has been designed a practical translator for the language has also
+been designed and a working version of it has been constructed
+for a significant portion of the language  this partial differential
+equation language pdel is outlined and the highlights
+of the translator are briefly summarized
+
+cacm march 1970
+
+cardenas a f
+karplus w j
+
+problem oriented or digital simulation language
+partial differential equations translator
+pl/1 preprocessor pl/1 finite difference algorithms
+
+3.1 3.2 4.22 5.17
+
+ca700307 jb february 13 1978  4:18 pm

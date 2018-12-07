@@ -1,0 +1,14 @@
+
+
+
+an algorithm for converting integers from base a to base b
+
+a little known simple algorithm for integer
+conversion between number systems is presented 
+and proved
+
+cacm april 1964
+
+gladwin h t
+
+ca640411 jb march 10 1978  1:30 am

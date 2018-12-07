@@ -1,0 +1,37 @@
+
+
+
+regular right part grammars and their parsers
+
+this paper in troduces an alternative to context-free
+grammars called regular right part rrp 
+grammars which resemble pascal syntax diagrams  formally
+rrp grammars have production right parts 
+which are nondeterministic finite state machines fsms
+and as a special case regular expressions 
+since these can be converted to fsms  rrp grammars
+describe the syntax of programming languages more 
+concisely and more understandably than is possible with
+cf grammars  also in troduced is a class of parsers 
+rrp lrm k parsers which includes the cf lrk parsers
+and provides the same advantages  informally 
+an rrp lrm k parser can determine the right end of
+each handle by considering at most k symbols to 
+the right of the handle and the left end after the
+right end has been found by considering at most 
+m symbols to the left of the handle  a mechanism for
+determining the left end is required because there 
+is no bound on the length of the handle
+
+cacm october 1977
+
+lalonde w r
+
+finite state machines automata regular expressions
+syntax diagramslrk grammars parser construction 
+parsing programming languages language generation
+formal definition compilers translators scanners
+
+4.2 5.21 5.23
+
+ca771005 jb december 27 1977  11:01 am

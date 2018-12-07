@@ -1,0 +1,23 @@
+
+
+
+sequential formula translation
+
+the syntax of an algorithmic language such
+as algol is conveniently described as a sequence 
+of states indicated by an element called cellar  transitions
+are controlled by admissible state-symbol 
+pairs which may be represented by a transition matrix
+this description of syntax furnishes at the same 
+time an extremely simple rule for translating into machine
+programs statements in the algorithmic language 
+ sequential treatment however is not feasible in the case
+of certain optimizing processes such as recursive 
+address calculation
+
+cacm february 1960
+
+samelson k
+bauer f l
+
+ca600208 jb march 22 1978  2:17 pm

@@ -1,0 +1,25 @@
+
+
+
+an interactive display for approximation by linear programming
+
+an interactive program
+with a graphical display has been developed for the approximation of
+data by means of a linear combination of functions including
+splines selected by the user  the coefficients of the approximation
+are determined by linear programming so as to minimize the error
+in either the l1 or l-infinity norm  auxiliary conditions such as
+monotonicity or convexity of the approximation can also be imposed this
+interactive system is described and several examples of its use are given
+
+cacm november 1970
+
+lafata p
+rosen j b
+
+approximation data fitting functional approximation linear
+programming interactive graphical display spline functions
+
+5.13 5.41
+
+ca701101 jb february 10 1978  9:06 am

@@ -1,0 +1,26 @@
+
+
+
+monitors an operating system structuring concept
+
+this paper develops brinch-hansens concept of
+a monitor as a method of structuring an operating 
+system  it introduces a form of synchronization describes
+a possible method of implementation in terms 
+of semaphores and gives a suitable proof rule  illustrative
+examples include a single resource scheduler 
+a bounded buffer an alarm clock a buffer pool a
+disk head optimizer and a version of the problem 
+of readers and writers
+
+cacm october 1974
+
+hoare c a r
+
+monitors operating systems scheduling mutual
+exclusion synchronization system implementation 
+languages structured multiprogramming
+
+4.31 4.22
+
+ca741001 jb january 16 1978  1:23 pm

@@ -1,0 +1,27 @@
+
+
+
+syntax-directed least-errors analysis for
+context-free languages a practical approach
+
+a least-errors recognizer is developed informally
+using the well-known recognizer of earley 
+along with elements of bellmans dynamic programming
+ the analyzer takes a general class of context-free 
+grammars as drivers and any finite string as input
+ recognition consists of a least-errors count for 
+a corrected version of the input relative to the driver
+grammar the algorithm design emphasizes practical 
+aspects which help in programming it
+
+cacm january 1974
+
+lyon g
+
+arbitrary input strings context-free grammars
+parsing dynamic programming stored subanalyses 
+separability state merging least-errors correction
+
+4.12 5.23 5.42
+
+ca740101 jb january 18 1978   2:57 pm

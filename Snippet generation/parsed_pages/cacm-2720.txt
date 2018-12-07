@@ -1,0 +1,31 @@
+
+
+
+optimal balancing of i/o requests to disks
+
+determining a policy for efficient allocation
+and utilization of a set of disk drives with 
+differing operational characteristics is examined using
+analytical techniques  using standard queueing 
+theory each disk drive is characterized by a queueing
+model with service time of a disk drive represented 
+by the probability density function of the sum of two
+uniform distributions total response time of the 
+set of disk models is then minimized under varying
+load conditions the results indicate that faster 
+devices should have higher utilization factors and that
+the number of different device types utilized 
+tends to decrease with decreasing load  specific examples
+using 2314 and 3330 combinations are examined
+
+cacm september 1975
+
+piepmeier w f
+
+disk drive hierarchies system evaluation input/output
+modeling queueing theory balancing 
+scheduling device assignment
+
+2.44 4.35 5.15 5.5 6.35 8.1 8.3
+
+ca750904 jb january 6 1978  2:42 pm

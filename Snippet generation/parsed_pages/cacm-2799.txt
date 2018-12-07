@@ -1,0 +1,27 @@
+
+
+
+stably updating mean and standard deviation of data
+
+by considering the sample mean of a set of
+data as a fit to this data by a constant function 
+a computational method is given based on a matrix formulation
+and givens transformations the sample 
+mean and standard deviation can be updated as data
+accumulates  the procedure is numerically stable 
+and does not require storage of the data  methods for
+dealing with weighted data and data removal are 
+presented  when updating the mean and square of the
+standard deviation the process requires no square 
+roots
+
+cacm january 1975
+
+hanson r j
+
+mean standard deviation least squares givens
+transformation updating estimates removing data
+
+5.5 5.19
+
+ca750112 jb january 12 1978  9:05 am

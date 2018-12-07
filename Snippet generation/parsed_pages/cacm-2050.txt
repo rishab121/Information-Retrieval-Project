@@ -1,0 +1,26 @@
+
+
+
+automatic parsing for content analysis
+
+although automatic syntactic and semantic analysis is not yet possible for
+all of an unrestricted natural language text some applications of which 
+content analysis is one do not have such a stringent coverage requirement
+preliminary studies show that the harvard syntactic analyzer can
+produce correct and unambiguous identification of the subject and
+object of certain verbs for approximately half of the relevant occurrences 
+this provides a degree of coverage for content analysis variables which 
+compares favorably to manual methods in variables which compares favorably 
+to manual methods in which only a sample of the total available text is 
+normally processed
+
+cacm june 1970
+
+damerau f j
+
+content analysis parsing syntactic analysis natural language processing
+information retrieval language analysis text processing
+
+3.42 3.71
+
+ca700605 jb february 13 1978  11:43 am

@@ -1,0 +1,29 @@
+
+
+
+dynamic storage allocation systems
+
+in many recent computer system designs hardware
+facilities have been provided for easing the 
+problems of storage allocation  a method of characterizing
+dynamic storage allocation systems-according 
+to the functional capabilities provided and the underlying
+techniques used-is presented  the basic purpose 
+of the paper is to provide a useful perspective from
+which the utility of various hardware facilities 
+may be assessed  a brief survey of storage allocation
+facilities in several representative computer 
+systems is included as an appendix
+
+cacm may 1968
+
+randell b
+kuehner c j
+
+segmentation paging multiprogramming storage
+allocation storage management virtual memories 
+storage fragmentation storage hierarchies addressing mechanisms
+
+4.30 6.20
+
+ca680502 jb february 23 1978  9:49 am

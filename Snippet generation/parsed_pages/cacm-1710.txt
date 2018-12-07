@@ -1,0 +1,29 @@
+
+
+
+asp-a ring implemented associative structure package
+
+asp is a general purpose associative data
+structure package in which an arbitrary number of 
+data items and an arbitrary number of the relationships
+between these data items may be represented 
+ a special picture language is described which has proved
+very useful for drawing asp structures on paper 
+ asp structures are built and manipulated by means
+of a series of macro calls which are outlined in 
+the appendix  emphasis is on the philosophy of the system
+rather than a particular implementation though 
+sufficient information is included to enable the
+reader to produce his own implementation of asp
+
+cacm august 1968
+
+lang c a
+gray j c
+
+associative data structure ring structure lists
+list structure set languages modeling graphics
+
+4.20 4.22
+
+ca680804 jb february 22 1978  11:02 am

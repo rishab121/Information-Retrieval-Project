@@ -1,0 +1,36 @@
+
+
+
+computer generation of gamma random variates
+with non-integral shape parameters
+
+when the shape parameter a is integral
+generating gamma random variables with a digital 
+computer is straightforward  there is no simple method
+for generating gamma random variates with non-integral 
+shape parameters  a common procedure is to approximately
+generate such random variables by use of the 
+so-called probability switch method  another procedure
+which is exact is due to johnk  this paper 
+presents a rejection method for exactly generating
+gamma random variables when a is greater than 1  
+the efficiency of the rejection method is shown to
+be better than the efficiency of johnks method  
+the paper concludes that when a is non-integral the following
+mix of procedures yields the best combination 
+of accuracy and efficiency 1 when a is less than
+1 use johnks method 2 when 1 is less than a 
+and a is less than 5 use the rejection method 3 when
+a is greater than 5 use the probability switch 
+method
+
+cacm december,1974
+
+wallace n d
+
+simulation gamma random variables
+probability distribution random numbers
+
+5.5 8.1
+
+ca741205 jb january 16 1978  9:35 am

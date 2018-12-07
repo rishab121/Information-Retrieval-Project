@@ -1,0 +1,21 @@
+
+
+
+continued operation notation for symbol
+manipulation and array processing
+
+a brief account is given of a notational device
+that is very useful in the formal representation 
+of syntaxes string relationships and string transformation
+procedures and also of computing procedures 
+that deal with arrays of functions of many variables 
+the device consists of the use of certain continued 
+operation or collective symbols that are analogous to the summation
+symbol sigma and continued multiplication 
+symbol pi of conventional mathematics
+
+cacm august 1963
+
+barnett m p
+
+ca630839 jb march 13 1978  8:02 pm

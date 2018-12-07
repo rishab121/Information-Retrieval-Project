@@ -1,0 +1,28 @@
+
+
+
+computing standard deviations accuracy
+
+four algorithms for the numerical computation
+of the standard deviation of unweighted sampled data
+are analyzed  two of the algorithms are well-known in the statistical
+and computational literature the other two are new algorithms
+specifically intended for automatic computation  our discussion is 
+expository with emphasis on reaching a suitable definition of
+accuracy  each of the four algorithms is analyzed for the conditions
+under which it will be accurate  we conclude that all four
+algorithms will provide accurate answers for many problems but two
+of the algorithms one new one old are substantially more accurate
+on difficult problems than are the other two
+
+cacm september 1979
+
+chan t
+lewis j
+
+mean standard deviation least squares updating
+estimates rounding error analysis condition number
+
+5.5 5.11 5.19
+
+ca790907 db january 16 1980  4:23 pm

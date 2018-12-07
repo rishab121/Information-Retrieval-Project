@@ -1,0 +1,32 @@
+
+
+
+a model for masking rotational latency by dynamic disk allocation
+
+this paper presents the background and algorithms
+for masking the rotational latency of a disk 
+or drum  it discusses the anticipatory input and output
+of blocks of data to buffer and primary memories 
+for a mono-programmed computer system  a basic permutation
+algorithm and several variations are given 
+  because of the anticipatory nature of the i/o scheduling
+these algorithms are restricted to classes 
+of programs with predictable behavior  while the methods
+are not restricted to numerical computations 
+matrix and partial differential equation methods are
+typical examples of their use  it is shown that 
+latency may be masked using a small amount of buffer
+memory  the methods discussed are independent of 
+the overall size of the data base being considered
+
+cacm may 1974
+
+gold d e
+kuck d j
+
+buffer memory memory hierarchy permutation algorithm
+rotational latency staging storage allocation
+
+4.41 6.20
+
+ca740507 jb january 17 1978  3:59 pm

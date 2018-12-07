@@ -1,0 +1,27 @@
+
+
+
+a new method for the solution of the
+cauchy problem for parabolic equations
+
+an integral equation representation is given
+for parabolic partial differential equations 
+ when the equations are defined in unbounded domains as
+in the initial value cauchy problem the solution 
+of the integral equation by the method of successive
+approximation has inherent advantages over other 
+methods  error bounds for the methods are of order h^3/2
+and h^7/2 his the increment size depending 
+on the finite difference approximations involved
+
+cacm december 1972
+
+moore j
+robinson p
+
+parabolic equations the cauchy problem
+method of successive approximations
+
+5.17
+
+ca721207 jb january 27 1978  11:13 am

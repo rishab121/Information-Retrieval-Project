@@ -1,0 +1,27 @@
+
+
+
+inductive methodsfor proving properties of programs
+
+there are two main purposes in this paper
+first clarification and extension of known results 
+about computation of recursive programs with emphasis
+on the difference between the theoretical and 
+practical approaches second presentation and examination
+of various known methods for proving properties 
+of recursive programs  discussed in detail are two
+powerful inductive methods computational induction 
+and structural induction including examples of their applications
+
+cacm august 1973
+
+manna z
+nes s
+vuillemin j
+
+recursive programs least fixed point computational
+induction structural induction
+
+4.2 5.23 5.24
+
+ca730817 jb january 23 1978  10:24 am

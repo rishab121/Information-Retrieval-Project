@@ -1,0 +1,14 @@
+
+
+
+generator of set-partitions to exactly r subsets g7 algorithm a477
+
+cacm april 1974
+
+ehrich g
+
+partitions subset generation permutations
+
+5.39
+
+ca740416 jb january 17 1978  4:46 pm

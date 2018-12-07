@@ -1,0 +1,19 @@
+
+
+
+reducing truncation errors by programming
+
+in accumulating a sum such as in a numerical
+integration with a large number of intervals 
+the sum itself becomes much larger than the individual
+addends  this may produce a less accurate sum 
+as the number of intervals is increased  separate variables
+can be established as accumulators to hold 
+partial sums within various distinct intervals  thus
+the extensive successive truncations are eliminated
+
+cacm june 1964
+
+wolfe j m
+
+ca640615 jb march 9 1978  9:22 pm

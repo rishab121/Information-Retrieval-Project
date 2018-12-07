@@ -1,0 +1,26 @@
+
+
+
+gauss harmonic interpolation formulas
+
+let r be an open bounded simply connected
+region in the xy-plane and let xy be a 
+point in r  assuming r is starlike with respect to
+xy we discuss a method for computing gauss 
+harmonic interpolation formulas for r and the point xy
+ such formulas approximate a harmonic function 
+at xy in terms of a linear combination of its
+values at certain selected points on the boundary 
+of r  such formulas are useful for approximating
+the solution of the dirichlet problem for r
+
+cacm august 1974
+
+stroud a h
+
+interpolation quadrature harmonic interpolation
+harmonic quadrature dirichlet problem
+
+5.13 5.16 5.17
+
+ca740814 jb january 17 1978  9:23 am

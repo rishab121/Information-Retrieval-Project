@@ -1,0 +1,11 @@
+
+
+
+generalized least squared fit by orthogonal
+polynomials algorithm 296 e2
+
+cacm february 1967
+
+makinson g j
+
+ca670203b jb march 23 1978  4:13 pm

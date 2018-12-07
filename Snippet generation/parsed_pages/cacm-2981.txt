@@ -1,0 +1,32 @@
+
+
+
+subgoal induction
+
+a proof method subgoal induction is presented
+as an alternative or supplement to the commonly 
+used inductive assertion method  its major virtue is that
+it can often be used to prove a loops correctness 
+directly from its input-output specification without the
+use of an invariant  the relation between subgoal 
+induction and other commonly used induction rules is explored
+and in particular it is shown that subgoal 
+induction can be viewed as a specialized form of computation
+induction  a set of sufficient conditions 
+are presented which guarantee that an input-output specification
+is strong enough for the induction steps 
+of a proof by subgoal induction to be valid
+
+cacm april 1977
+
+morris j h jr
+wegbreit b
+
+program verification proving programs correct
+induction rule computation induction inductive 
+assertions structural induction proof rule
+recursive programs iterative programs
+
+4.19 4.22 5.21 5.24
+
+ca770401 jb december 29 1977  6:31 am

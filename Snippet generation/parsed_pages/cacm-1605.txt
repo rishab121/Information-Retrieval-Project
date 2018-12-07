@@ -1,0 +1,33 @@
+
+
+
+an experimental comparison of time sharing and batch processing
+
+the effectiveness for program development
+of the mit compatible time-sharing system ctss 
+was compared with that of the ibm ibsys batch-processing
+system by means of a statistically designed 
+experiment  an identical set of four programming problems
+was assigned to each of a group of four programming 
+subjects  influences external to the systems such as
+the sequence of problem solution and programmer 
+and problem characteristics were specified as design
+factors in the experiment  data was obtained for 
+six variables eg programmer time computer time
+elapsed time etc which were considered to be 
+definitive of system effectiveness and analysis of
+variance techniques were employed to estimate system 
+differences in these variables after differences due to
+the design factors had been eliminated  statistical 
+analysis of the experimental results provided strong
+evidence of important system differences as well 
+as a critique of the experimental design itself
+with implications for further experimentation
+
+cacm may 1967
+
+schatzoff m
+tsao r
+wiig r
+
+ca670501 jb february 28 1978  11:09 am

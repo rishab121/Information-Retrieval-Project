@@ -1,0 +1,25 @@
+
+
+
+a comparison of batch processing and instant turnaround
+
+a study of the programming efforts of students
+in an introductory programming course is presented 
+and the effects of having instant turnaround a few minutes
+as opposed to conventional batch processing 
+with turnaround times of a few hours are examined  among
+the items compared are the number of computer 
+runs per trip to the computation center program preparation
+time keypunching time debugging time 
+number of runs and elapsed time from the first run
+to the last run on each problem  even though the 
+results are influenced by the fact that bonus points
+were given for completion of a programming problem
+in less than a specified number of runs there
+is evidence to support instant over batch
+
+cacm august 1967
+
+smith l b
+
+ca670805 jb february 27 1978  4:32 pm

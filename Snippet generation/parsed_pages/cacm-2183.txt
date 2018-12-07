@@ -1,0 +1,14 @@
+
+
+
+binary summation
+
+cacm july 1971
+
+walker r j
+
+summation binary summation floating-point addition round-off errors
+
+5.11
+
+ca710607 jb february 3 1978  9:50 am

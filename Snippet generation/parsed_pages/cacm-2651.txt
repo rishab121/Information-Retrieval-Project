@@ -1,0 +1,30 @@
+
+
+
+the treatment of data types in el1
+
+in constructing a general purpose programming
+language a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation  the el1 language contains
+a number of features specifically designed to 
+simultaneously satisfy both requirements  the resulting
+treatment of data types includes provision for 
+programmer-defined data types data types and generic
+routines programmer control over type conversion 
+and very flexible data type behavior in a context that
+allows efficient compiled code and compact data 
+representation
+
+cacm may 1974
+
+wegbreit b
+
+data types modes mode unions type conversion
+coercion generic functions extensible languages 
+data type definition data description language compilation
+
+4.12 4.13 4.22
+
+ca740502 jb january 17 1978  4:32 pm

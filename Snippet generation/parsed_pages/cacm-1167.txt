@@ -1,0 +1,18 @@
+
+
+
+on the translation of machine language programs
+
+automatic translation of machine language
+programs is becoming a highly desirable goal with 
+the advent of new large-scale computers  the pitfalls that
+make it difficult to achieve completely automatic 
+translations are analyzed and it is shown that these are
+primarily of a semantic nature  a semi-automatic 
+procedure for resolving semantic problems is suggested
+
+cacm december 1965
+
+gaines r s
+
+ca651202 jb march 6 1978  4:23 pm

@@ -1,0 +1,40 @@
+
+
+
+dynamic microprogramming processor organization and programming
+
+a dynamically microprogrammed processor is characterized
+by a small 4^k 64-bit word read-write 
+micro storage  the access time of this storage is
+similar to the cycle time of the machine 50-100 
+nsec  this microstorage is used to contain both data
+and subroutines  the micro instructions in 
+such a processor differ from the conventional in that
+they perform only purely combinatorial operations 
+sequencing is under the control of the microinstruction
+the presence of the read-write microstorage 
+permits a more flexible assignment of resources than the
+read-only storage  in particular the processor 
+developed in this paper stresses the simultaneous operation
+within the microinstruction of the adder 
+shifter masker and testing facilities of the processor
+ a microassembly language is developed and 
+the overhead involved in subroutine linkages is analyzed
+ the efficiency of a flexible software linkage 
+scheme is examined as to its overhead for various subroutine
+characteristics  finally three examples 
+of problem-oriented programming are considered and the
+resulting coding is compared against a system/360 
+assembly language version with the technology normalized
+
+cacm april 1971
+
+tucker a b
+flynn m j
+
+microprogrammingread-write microstorage
+subroutine linkage execution speed 
+
+6.2
+
+ca710403 jb february 3 1978  3:58 pm

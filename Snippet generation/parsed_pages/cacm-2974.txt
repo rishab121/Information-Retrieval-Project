@@ -1,0 +1,15 @@
+
+
+
+comment on weighted increment linear search for scatter tables
+
+cacm april 1977
+
+bandyopadhyay s k
+
+hash address primary clustering index
+sequence complementary relation search
+
+3.73 3.74 4.9 4.11 4.12
+
+ca770408 jb december 29 1977  5:02 am

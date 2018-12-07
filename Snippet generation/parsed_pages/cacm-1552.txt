@@ -1,0 +1,26 @@
+
+
+
+the aed free storage package
+
+the most fundamental underlying problem in sophisticated
+software systems involving elaborate 
+changing data structure is dynamic storage allocation
+for flexible problem modeling  the free storage 
+package of the aed-1 compiler systems allows blocks
+of available storage to be obtained and returned 
+for reuse  the total available space is partitioned
+into a hierarchy of free storage zones each of 
+which has its own characteristics  blocks may be of
+any size and special provisions allow efficient 
+handling of selected sizes control of shattering and
+garbage collection and sharing of physical space 
+between zones  the routines of the package perform
+high level functions automatically but also allow 
+access and control of fine internal details as well
+
+cacm august 1967
+
+ross d t
+
+ca670803 jb february 27 1978  4:40 pm

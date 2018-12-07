@@ -1,0 +1,17 @@
+
+
+
+some basic terminology connected with
+mechanical languages and their processors
+
+the suggestions in this paper are part of the
+terminology used in work for the university of 
+pennsylvanias office of computer research and education
+ the work is jointly supported by the national 
+science foundation and the air force office of scientific research
+
+cacm august 1961
+
+gorn s
+
+ca610801 jb march 16 1978  10:16 pm

@@ -1,0 +1,16 @@
+
+
+
+across machine lines in cobol
+
+the production of a large file-maintenance-and-retrieval
+program system written in cobol is 
+described  the cobol language was used specifically to
+enable the system to operate on three ibm computers
+
+cacm december 1965
+
+fredericks d s
+warburtin c r
+
+ca651201 jb march 6 1978  4:26 pm

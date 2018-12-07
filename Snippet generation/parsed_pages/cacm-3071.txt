@@ -1,0 +1,29 @@
+
+
+
+an algorithm using symbolic techniques for the
+bel-petrov classification of gravitational fields
+
+in this note an algorithm is presented for the
+symbolic calculation of certain algebraic invariants 
+of the weyl tensor which permits the determination
+of the bel-petrov types of a gravitational field 
+ this algorithm although more specialized than that
+of dinverno and russell-clark requires neither 
+the use of a special coordinate system nor the spin coefficient
+formalism  the algorithm has been implemented 
+in formac and is designed to complete the classification
+scheme proposed by petrov in his book  an appendix 
+contains examples illustrating the use of the algorithm
+
+cacm september 1978
+
+harris r
+zund j
+
+general relativity bel-petrov types
+formac symbolic manipulation tensors
+
+3.11 3.15 3.17
+
+ca780901 dh february 5 1979  3:43 pm

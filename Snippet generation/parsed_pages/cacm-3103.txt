@@ -1,0 +1,31 @@
+
+
+
+automatic data structure selection an example and overview
+
+the use of several levels of abstraction has
+proved to be very helpful in constructing and 
+maintaining programs  when programs are designed with abstract
+data types such as sets and lists programmer 
+time can be saved by automating the process of filling
+in low-level implementation details  in the past 
+programming systems have provided only a single general
+purpose implementation for an abstract type 
+ thus the programs produced using abstract types were
+then inefficient in space or time  in this paper 
+a system for automatically choosing efficient implementations
+for abstract types from a library of implementations 
+is discussed  this process is discussed in detail for
+an example program  general issues in data structure 
+selection are also reviewed 
+
+cacm may 1978
+
+low j
+
+abstract data types automatic programming data
+structures optimizing compilers sets lists
+
+4.12 4.22 4.6
+
+ca780504 dh february 26 1979  1:51 pm

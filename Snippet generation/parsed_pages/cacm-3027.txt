@@ -1,0 +1,31 @@
+
+
+
+the development of the mu5 computer system
+
+following a brief outline of the background
+of the mu5 project the aims and ideas for mu5 
+are discussed  a description is then given of the instruction
+set which includes a number of features 
+conducive to the production of efficient compiled code
+from high-level language source programs  the 
+design of the processor is then traced from the initial
+ideas for an associatively addressed name store 
+to the final multistage pipeline structure involving
+a prediction mechanism for instruction prefetching 
+and a function queue for array element accessing  an
+overall view of the complete mu5 complex is presented 
+together with a brief indication of its performance
+
+cacm january 1978
+
+ibbett r
+capon p
+
+architecture naming virtual storage instruction
+set descriptor pipeline instruction buffering 
+associative storage function queue computer complex
+
+4.10 4.12 6.21 6.33
+
+ca780103 jb march 28 1978  5:44 pm

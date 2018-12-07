@@ -1,0 +1,22 @@
+
+
+
+expected time bounds for selection
+
+a new selection algorithm is presented which
+is shown to be very efficient on the average 
+both theoretically and practically  the number of comparisons
+used to select the ith smallest of n numbers 
+is n+minin-i+on  a lower bound within 9
+percent of the above formula is also derived
+
+cacm march 1975
+
+floyd r w
+rivest r l
+
+selection computational complexity medians tournaments quantiles
+
+5.30 5.39
+
+ca750304 jb january 9 1978  4:52 pm

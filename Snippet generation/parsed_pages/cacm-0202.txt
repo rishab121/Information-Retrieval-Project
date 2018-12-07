@@ -1,0 +1,20 @@
+
+
+
+a control system for logical block diagnosis with data loading
+
+this paper describes a section of an integrated
+diagnostic monitor system which facilitates 
+the checking of sections of instructions or subroutines
+anywhere in the object program  a new method 
+of specifying all diagnostic operations in a format similar
+to a computer program makes the system convenient 
+to use and relatively simple to understand  the paper
+also describes a number of other novel diagnostic 
+features which can be included in the system
+
+cacm april 1960
+
+senko m e
+
+ca600409 jb march 22 1978 1:45 pm

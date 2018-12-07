@@ -1,0 +1,17 @@
+
+
+
+code extension procedures for information
+interchange proposed usa standard
+
+cacm december 1968
+
+standard code code information interchange characters
+shift out shift in escape data link 
+escape control functions standard procedures
+code extension code table bit pattern
+
+1.0 2.0 2.43 3.20 3.24 3.50 3.51 3.52 3.53 3.54 3.55 3.56 3.57 3.70 3.71 3.72 
+3.73 3.74 3.75 3.80 3.81 3.82 3.83 5.0 5.1 6.2 6.21 6.22
+
+ca681211 jb february 21 1978  12:16 pm

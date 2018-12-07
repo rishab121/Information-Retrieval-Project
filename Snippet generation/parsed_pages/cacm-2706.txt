@@ -1,0 +1,21 @@
+
+
+
+a note on the set basis problem related
+to the compaction of character sets
+
+this note discusses the reduction of the
+set basis problem to the clique cover problem
+
+cacm november 1975 
+
+kou l t
+wong c k
+
+compaction of character sets set basis set covering
+computational complexity polynomial completeness 
+clique cover 
+
+4.9 5.25 5.39
+
+ca751106 jb january 6 1978  8:55 am

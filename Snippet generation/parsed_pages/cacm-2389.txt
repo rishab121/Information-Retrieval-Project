@@ -1,0 +1,25 @@
+
+
+
+preliminary report on a system for general space planning
+
+a computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space planning
+problems  the language is an extension of algol 
+and includes means to represent spaces and objects to manipulate
+them and to test the resulting arrangements 
+according to a variety of constraints  the algorithms
+used to solve problems expressed in this language 
+rely on heuristic programming  both the language
+and the search algorithms are detailed
+
+cacm february 1972
+
+eastman c m
+
+automated design architecture heuristic programs space planning
+
+3.20 3.40 3.64 3.66
+
+ca720202 jb january 31 1978  4:35 pm

@@ -1,0 +1,25 @@
+
+
+
+numerical integration of a differential-difference
+equation with a decreasing time-lag
+
+systems in which variable time-lags are present
+are of common occurrence in biology  variable 
+flow rates are a common cause of these variable lags
+ at present no extensive body of knowledge exists 
+concerning the effects which these variable lags can
+cause  shown here is a method of reducing some 
+differential-difference equations to ordinary differential
+equations which can then be studied numerically 
+with ease  subsequent study will deal with situations
+in which multiple-lags and lags dependent on the 
+solution itself are present
+
+cacm april 1965
+
+bellman r e
+buell j d
+kalaba r e
+
+ca650411 jb march 7 1978  3:46 pm

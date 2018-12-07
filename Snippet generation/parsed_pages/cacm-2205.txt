@@ -1,0 +1,15 @@
+
+
+
+difsub for solution of ordinary differential
+equations d2 algorithm 407
+
+cacm march 1971
+
+gear c w
+
+differential equations stiff differential equations
+
+5.17
+
+ca710307 jb february 3 1978  4:16 pm

@@ -1,0 +1,11 @@
+
+
+
+a fortran post-mortem procedure
+
+cacm january 1964
+
+kahan w
+leppik j j
+
+ca640104 jb march 10 1978  5:37 am

@@ -1,0 +1,10 @@
+
+
+
+decoding combinations of the first n integers taken k at a time
+
+cacm april 1960
+
+brown r m
+
+ca600408 jb march 22 1978  1:46 pm

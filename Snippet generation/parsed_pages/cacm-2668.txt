@@ -1,0 +1,31 @@
+
+
+
+computation of page fault probability from program transition diagram
+
+an algorithm is given for calculating page fault
+probability in a virtual memory system operating 
+under demand paging with various memory sizes and replacement
+rules  a first order markov model of program 
+behavior is assumed and a representation of the system
+based on memory states control states and memory 
+substates is presented  the algorithm is general in
+the sense that the page fault probabilities can 
+be calculated for nonpredictive replacement rules applied
+to any program represented by a one-step markov 
+chain  a detailed example is given to illustrate the
+algorithm for random and least recently used lru 
+replacement rules
+
+cacm april 1974
+
+franklin m a
+gupta r k
+
+virtual memory demand paging replacement rule
+program model program behavior markov model 
+page fault page fault probability
+
+4.30 6.20
+
+ca740402 jb january 18 1978  10:31 am

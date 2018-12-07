@@ -1,0 +1,15 @@
+
+
+
+equivalence of hough curve detection to template matching
+
+cacm november 1977
+
+stockman g c
+
+picture processing pattern recognition curve
+detection hough transformation template matching
+
+3.63 6.9
+
+ca771106 jb december 27 1977  7:23 am

@@ -1,0 +1,36 @@
+
+
+
+multiprocessing compactifying garbage collection
+
+algorithms for a multiprocessing compactifying
+garbage collector are presented and discussed 
+ the simple case of two processors one performing lisp-like
+list operations and the other performing 
+garbage collection continuously is thoroughly examined
+the necessary capabilities of each processor 
+are defined as well as interprocessor communication
+and interlocks complete procedures for garbage 
+collection and for standard list processing primitives
+are presented and thoroughly explained  particular 
+attention is given to the problems of marking and relocating
+list cells while another processor may be 
+operating on them  the primary aim throughout is to
+allow the list processor to run unimpeded while 
+the other processor reclaims list storage  the more
+complex cases involving several list processors 
+and one or more garbage collection processors are also briefly discussed
+
+cacm september 1975
+
+steele g l jr
+
+garbage collection storage reclamation reclaimer
+storage allocation multiprocessing synchronization 
+semaphores parallel processing compactification relocation
+lisp list processing free storage pointers 
+data structures gc processor
+
+4.19 4.32 4.40 4.49 4.9
+
+ca750901 jb january 6 1978  3:39 pm

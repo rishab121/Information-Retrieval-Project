@@ -1,0 +1,34 @@
+
+
+
+a unifying computational method for the
+analysis of complete factorial experiments
+
+a computational method which may be used for
+the calculation of sums of squares in the analysis 
+of variance of complete factorial experiments and in
+the computation of main effect or interaction means 
+is described  the method is elucidated as unifying since
+one method can be used for a variety of purposes 
+each previously requiring different methods  the programming
+advantages of such a method are obvious 
+ the following variants are discussed 1 the standard
+analysis of variance 2 analyses omitting certain 
+levels of one or more factors 3 separate analyses
+for some levels of a factor or for combinations 
+of levels of more than one factor  these are performed
+simultaneously 4 the calculation of main effect 
+or interaction means  the mean expects the data in standard
+order and it leaves the data in that order 
+so that many analyses of the same data can be performed
+without rearrangement  the total sum of squares 
+excluding a replication sum of squares is partitioned
+into all polynomial partitions and their interactions 
+each with one degree of freedom  this is so even
+if factors have unequally spaced factor levels
+
+cacm january 1967
+
+cooper b e
+
+ca670105 jb february 28 1978  4:49 pm

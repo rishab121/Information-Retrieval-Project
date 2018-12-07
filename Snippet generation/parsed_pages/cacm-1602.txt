@@ -1,0 +1,28 @@
+
+
+
+pose a language for posing problems to a computer
+
+a language pose is described which is a drastic
+departure from the fortran/algol type though 
+it does utilize fortran formula and logic representations
+and actually contains fortran vi as a subset 
+ with the new language the user need only describe
+his problem in equation-like form the method 
+of solution is automatically provided in conjunction
+with the translation from equation form to computer 
+instruction in this way the pose language user can
+solve difficult computational problems like the 
+solution of differential equation without requiring
+a knowledge of numerical methods or the intricacies 
+of computer subroutine logic essentially all clerical
+operations now required for fortran programming 
+have been automated so that the pose programmer
+need not be concerned with these details
+
+cacm may 1967
+
+schlesinger s
+sashkin l
+
+ca670504 jb february 28 1978  10:53 am

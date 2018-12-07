@@ -1,0 +1,18 @@
+
+
+
+tensor calculations on computer appendix
+
+in the main text of the paper comm acm 9
+12 dec 196 864 a formac program was discussed 
+which is capable of calculating various quantities
+of interest in tensor calculus  this appendix is 
+intended as an example of the program output  chrisoffel
+symbols calculated for 12 basic orthogonal 
+coordinate systems are listed
+
+cacm march 1967
+
+walton j j
+
+ca670312 jb february 28 1978  12:58 pm

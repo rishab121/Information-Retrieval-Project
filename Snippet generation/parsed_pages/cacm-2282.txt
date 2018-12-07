@@ -1,0 +1,14 @@
+
+
+
+a comparison of floating point summation methods
+
+cacm september 1972
+
+gregory j
+
+summation floating-point addition truncation error error propagation
+
+5.11
+
+ca720908 jb january 27 1978  4:20 pm

@@ -1,0 +1,27 @@
+
+
+
+record linkage
+
+special difficulties are encountered in devising
+reliable systems for searching and updating 
+any large files of documents that must be identified
+primarily on the basis of names and other personal 
+particulars  the underlying problem is that of making nearly
+maximum use of items of identifying information 
+that are individually unreliable but that may collectively
+be of considerable discriminating power  
+rules that can be applied generally to name retrieval
+systems have been developed in a methodological 
+study of the linkage of vital and health records into
+family groupings for demographic research purposes 
+ these rules are described and the ways in which information
+utilization for matching may be optimized 
+are discussed
+
+cacm november 1962
+
+newcombe h b
+kennedy j m
+
+ca621121 jb march 17 1978  5:51 pm

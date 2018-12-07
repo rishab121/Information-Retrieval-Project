@@ -1,0 +1,26 @@
+
+
+
+structure of a lisp system using two-level storage
+
+in an ideal list-processing system there would
+be enough core memory to contain all the data 
+and programs  described in this paper are a number
+of techniques that have been used to build a lisp 
+system utilizing a drum for its principal storage medium
+ with a surprisingly low time penalty for use 
+of this slow storage device  the techniques include
+careful segmentation of system programs allocation 
+of virtual memory to allow address arithmetic for type
+determination and a special algorithm for building 
+reasonably linearized lists  a scheme for binding variables
+is described which is good in this environment 
+and allows for complete compatibility between compiled
+and interpreted programs with no special declarations
+
+cacm march 1967
+
+bobrow d g
+murphy d l
+
+ca670303 jb february 28 1978  1:39 pm

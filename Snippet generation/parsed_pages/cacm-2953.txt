@@ -1,0 +1,25 @@
+
+
+
+notes on recursion elimination
+
+various methods of recursion elimination are
+applied to the schematic recursive procedure 
+proc sx px then nx sfx sgx mx fi  procedures
+with this general form arise in connection 
+with tree traversal and sorting algorithms  each method
+of recursion removal involves the use of one 
+or more stacks and the solutions are compared
+on the basis of their running time
+
+cacm june 1977
+
+bird r s
+
+recursion elimination optimization of programs
+stacks trees sorting algorithms computational 
+induction
+
+4.0 4.2 5.20 5.24 5.25 5.31
+
+ca770610 jb december 28 1977  12:50 pm

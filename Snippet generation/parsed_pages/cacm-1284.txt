@@ -1,0 +1,10 @@
+
+
+
+bessel function for a set of integer orders
+
+cacm april,1965
+
+stafford j
+
+ca650407 jb march 7 1978  3:54 pm

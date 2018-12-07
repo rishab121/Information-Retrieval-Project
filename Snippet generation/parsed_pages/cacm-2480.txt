@@ -1,0 +1,32 @@
+
+
+
+teaching about programming
+
+this paper presents the goals and organization
+of a course about programming designed to provide 
+entering students in a graduate program with a cultural
+enrichment in their professional lives  the 
+students are expected to have taken at least two programming
+courses prior to this one and therefore 
+to be familiar with at least two programming languages
+both as students and users  teaching someone 
+how to program is similar to teaching him to play a musical
+instrument neither skill can be taught-they 
+must be learned  however the teacher still serves
+several vital purposes to present a set of rules 
+for producing well-formed utterances to offer numerous
+demonstrations of his own skill and to function 
+as an involved critic  finally the teacher is the
+source of information about the process in which 
+the student is involved
+
+cacm july 1973
+
+rosin r f
+
+education programming concepts professionalism
+
+1.52 2.2 4.22
+
+ca730706 jb january 23 1978  12:36 pm

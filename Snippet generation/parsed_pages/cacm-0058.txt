@@ -1,0 +1,19 @@
+
+
+
+lem-1 small size general purpose digital
+computer using magnetic ferrite elements
+
+the paper examines some of the questions of
+development and construction of a general purpose 
+digital computer using contactless magnetic ferrite
+and capacitive dezu long duration capacitive 
+memory elements developed at the laboratory of electrical
+modeling vinityi an sssr under the supervision 
+of professor l gutenmacher
+
+cacm october 1959
+
+machmudov u a
+
+ca591001 jb march 22 1978  4:21 pm

@@ -1,0 +1,16 @@
+
+
+
+error-free methods for statistical computations
+
+neely has discussed computational error generated
+by some algorithms used to compute various 
+statistics  in the present paper methods are described
+which are error-free simple in concept and 
+usually less costly in machine time than those mentioned by neely
+
+cacm march 1967
+
+rodden b e
+
+ca670310 jb february 28 1978  1:02 pm

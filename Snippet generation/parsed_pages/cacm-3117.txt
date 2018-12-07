@@ -1,0 +1,28 @@
+
+
+
+the impact and use of computer technology by the police
+
+over the past decade there has been a significant growth
+in the use of computer technology by u police departments  this
+growth however has been at a slower rate than predicted in the
+early 1970s  further when computer applications extend
+beyond routine uses to nonroutine efforts such as resource allocation
+or computer-aided-dispatch systems where the machine begins to become
+a tool for decision making strategic planning and person/machine
+interaction the results of the technology to date have been
+mixed  this paper reports on case studies and surveys which provinsights 
+on the implementation and impact of police computer technology
+and the relationship of this technology to law enforcement and society
+
+cacm january 1979
+
+colton k
+
+computer technology innovation police resource allocation police command 
+and control computer aided dispatch
+law enforcement technology transfer
+
+2.1 2.11 2.12 2.45 3.33 3.39
+
+ca790102 dh april 10 1979  11:32 am

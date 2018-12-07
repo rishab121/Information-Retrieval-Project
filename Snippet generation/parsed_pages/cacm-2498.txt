@@ -1,0 +1,25 @@
+
+
+
+minimizing wasted space in partitioned segmentation
+
+a paged virtual memory system using a finite
+number of page sizes is considered  two algorithms 
+for assigning pages to segments are discussed  both
+of these algorithm are simple to implement  the 
+problem of choosing the page sizes to minimize the expected
+value of total wasted space in internal fragmentation 
+and in a page table per segment is then solved for a
+probability density function of segment size which 
+may be expressed as a convex combination of erlang densities
+
+cacm june 1973
+
+gelenbe e
+
+dynamic storage allocation virtual memory paging
+multiple page sizes fragmentation segmentation
+
+4.0 4.3 4.32 6.34 8.3
+
+ca730602 jb january 23 1978  3:38 pm

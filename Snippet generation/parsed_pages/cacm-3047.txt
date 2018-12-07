@@ -1,0 +1,35 @@
+
+
+
+using synthetic images to register real images with surface models
+
+a number of image analysis tasks can benefit
+from registration of the image with a model of 
+the surface being imaged  automatic navigation using visible
+light or radar images requires exact alignment 
+of such images with digital terrain models  in addition
+automatic classification of terrain using 
+satellite imagery requires such alignment to deal correctly
+with the effects of varying sun angle and 
+surface slope  even inspection techniques for certain
+industrial parts may be improved by this means 
+we achieve the required alignment by matching the real
+image with a synthetic image obtained from a surface 
+model and known positions of the light sources  the
+synthetic image intensity is calculated using the 
+reflectance map a convenient way of describing surface reflection
+as a function of surface gradient 
+ we illustrate the technique using landsat images and digital terrain models
+
+cacm november 1978
+
+horn b
+bachman b
+
+image registration synthetic images surface models
+automatic hill shading digital terrain models 
+image transformation image matching shaded images 
+
+3.63 3.11 3.14 8.2 3.83
+
+ca781104 dh january 26 1979  11:16 am

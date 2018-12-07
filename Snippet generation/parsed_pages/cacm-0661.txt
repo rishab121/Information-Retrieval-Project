@@ -1,0 +1,14 @@
+
+
+
+indexing and the lambda-notation
+
+some methods of indexing sequentially stored
+elements of sparse multi-dimensional arrays are 
+described in the scheme a notation
+
+cacm december 1963
+
+barnett m p
+
+ca631213 jb march 13 1978  2:51 pm

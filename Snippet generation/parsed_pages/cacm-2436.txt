@@ -1,0 +1,22 @@
+
+
+
+a note on the confinement problem
+
+this note explores the problem of confining
+a program during its execution so that it cannot 
+transmit information to any other program except its
+caller  a set of examples attempts to stake out 
+the boundaries of the problem  necessary conditions
+for a solution are stated and informally justified
+
+cacm october 1973
+
+lampson b w
+
+protection confinement proprietary program
+privacy security leakage of data
+
+2.11 4.30
+
+ca731004 jb january 20 1978  11:41 am

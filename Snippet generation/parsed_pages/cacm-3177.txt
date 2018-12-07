@@ -1,0 +1,23 @@
+
+
+
+how to share a secret
+
+in this paper we show how to divide data d into
+n pieces in such a way that d is easily reconstructable from any
+k pieces but even complete knowledge of k  1 pieces reveals
+olutely no information about d  this technique enables the construction
+of robust key management schemes for cryptographic systems
+that can function securely and reliably even when misfortunes destroy
+half the pieces and security breaches expose all but one of the
+remaining pieces
+
+cacm november 1979
+
+shamir a
+
+cryptography key management interpolation
+
+5.39 5.6
+
+ca791105 db january 23 1980  11:48 am

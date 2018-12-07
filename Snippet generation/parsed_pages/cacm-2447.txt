@@ -1,0 +1,20 @@
+
+
+
+sard kernels for certain bivariate cubatures
+
+an error analysis for some bivariate cubatures
+is given  the remainders are obtained by the 
+use of sard kernels  numerical results and computer
+graphs are given for some of the kernel functions
+
+cacm september 1973
+
+barnhill r e
+pilcher d t
+
+cubatures sard kernels numerical integration remainder formulas
+
+5.13 5.16
+
+ca730908 jb january 23 1978  8:52 am

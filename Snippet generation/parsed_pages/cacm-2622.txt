@@ -1,0 +1,43 @@
+
+
+
+a user authentication scheme not requiring secrecy in the computer
+
+in many computer operating systems a user authenticates
+himself by entering a secret password 
+known solely to himself and the system  the system compares
+this password with one recorded in a password 
+table which is available to only the authentication
+program  the integrity of the system depends on 
+keeping the table secret  in this paper a password
+scheme is presented which does not require secrecy 
+in the computer    all aspects of the system including
+all relevant code and data bases may be known 
+by anyone attempting to intrude  the scheme is based
+on using a function h which the would-be intruder 
+is unable to invert  this function is applied to the
+users password and the result compared to a table 
+entry a match being interpreted as authentication of
+the user  the intruder may know all about h and 
+have access to the table but he can penetrate the system
+only if he can invert h to determine an input 
+that produces a given output  this paper discusses
+issues surrounding selection of a suitable h  two 
+different plausible arguments are given that penetration
+would be exceedingly difficult and it is then 
+argued that more rigorous results are unlikely  finally
+some human engineering problems relating to 
+the scheme are discussed
+
+cacm august 1974
+
+evans a jr
+kantrowitz w
+weiss e
+
+operating system security security authentication
+passwords one-way encryption cryptology
+
+4.39 5.39
+
+ca740802 jb january 17 1978  10:19 am

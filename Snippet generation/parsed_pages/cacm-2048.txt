@@ -1,0 +1,23 @@
+
+
+
+comparison of several adaptive newton-cotes quadrature routines
+in evaluating definite integrals with peaked integrands
+
+this report compares the performance of five different adaptive quadrature 
+schemes based on newton-cotes 2n + 1 point rules n  1 2 3 4 5 in
+approximating the set of definite integrals integral$1/x^2 + p^2 dx with 
+relative accuracy e
+
+cacm june 1970
+
+hillstrom k e
+
+adaptive newton-cotes quadrature quadrature scheme comparison
+definite integral evaluation adaptive numerical in tegration newton-cotes 
+integration peaked integrand integration quadrature efficiently
+plot new-cotes rules applications newton-cotes rules modifications
+
+5.10 5.16
+
+ca700607 jb february 13 1978  11:08 am

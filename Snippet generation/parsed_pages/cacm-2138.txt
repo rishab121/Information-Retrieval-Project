@@ -1,0 +1,30 @@
+
+
+
+bliss a language for systems programming
+
+a language bliss is described  this language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine the pdp-10 compilers operating 
+systems etc  prime design goals of the design are the
+ability to produce highly efficient object code 
+to allow access to all relevant hardware features of
+the host machine and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs  a major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure
+
+cacm december 1971
+
+wulf w a
+russell d b
+
+programming languages implementation language
+systems programming data structures
+
+4.12 4.21 4.22
+
+ca711205 jb february 2 1978  10:09 am

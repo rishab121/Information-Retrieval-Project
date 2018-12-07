@@ -1,0 +1,23 @@
+
+
+
+boundary networks
+
+a feasible computer procedure is described
+for determining the total or partial inclusion of 
+arbitrarily given points and lines with respect to a
+set of general polygonal domains which partition 
+a plane bounded region  a scheme for the computer representation
+of the boundaries of the domains and 
+an algorithm based on this  scheme for evaluating
+the inclusion relations are specified in detail 
+ the method employs several levels of selection criteria
+for the purpose of reducing the number of accesses 
+to auxiliary storage devices and the amount of boundary
+data for which processing is required
+
+cacm january 1965
+
+loomis r g
+
+ca650111 jb march 8 1978  2:31 pm

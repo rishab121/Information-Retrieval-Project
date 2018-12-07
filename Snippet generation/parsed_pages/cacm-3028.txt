@@ -1,0 +1,28 @@
+
+
+
+the manchester mark i and atlas a his torical perspective
+
+in 30 years of computer design at manchester university
+two systems stand out the mark i developed 
+over the period 1946-49 and the atlas 1955-62 
+this paper places each computer in its his torical 
+context and then describes the architecture and system
+software in present-day terminology  several 
+design concepts such as address-generation and store
+management have evolved in the progression from 
+mark i to atlas  the wider impact of manchester innovations
+in these and other areas is discussed and 
+the contemporary performance of the mark i and atlas is evaluated
+
+cacm january 1978
+
+lavington s
+
+architecture index registers paging virtual
+storage extra codes compilers operating systems 
+ferranti manchester mark i atlas icl
+
+1.2 4.22 4.32 6.21 6.30
+
+ca780102 jb march 28,1978  5:50 pm

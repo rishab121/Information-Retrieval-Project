@@ -1,0 +1,38 @@
+
+
+
+a case study of a new code generation technique for compilers
+
+recent developments in optimizing techniques
+have allowed a new design for compilers to emerge 
+ such a compiler translates the parsed source code into
+lower level code by a sequence of steps  each 
+step expands higher level statements into blocks of
+lower level code and then performs optimizations 
+on the result  each statement has only one possible
+expansion-the task of tailoring this code to take 
+advantage of any special cases is done by the optimizations
+ this paper provides evidence that this 
+strategy can indeed result in good object code  the
+traditionally difficult pl/i concatenate statement 
+was investigated as a detailed example  a set of fairly
+simple optimizations was identified which allow 
+the compiler to produce good code more elaborate optimizations
+can further improve the object code 
+ for most contexts of the concatenate statement the code
+produced by a compiler using the expansion-optimization 
+strategy described above compares favorably with the
+code produced by a conventional pl/i optimizing 
+compiler
+
+cacm december 1977
+
+carter j l
+
+compiler structure optimizing compiler code
+generation pl/i compiler concatenation program 
+optimization optimization techniques data flow analysis
+
+4.12 4.13 4.22
+
+ca771203 jb february 1 1980  3:54 am

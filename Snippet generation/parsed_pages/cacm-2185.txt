@@ -1,0 +1,22 @@
+
+
+
+a note on compiling fixed point binary multiplications
+
+an algorithm is developed for compiling as
+a sequence of shifts additionsand subtractions 
+many fixed point binary multiplications involving a
+constant  the most significant characteristics of 
+the algorithm are the simplicity of the test which
+determines if the algorithm should be applied and 
+the degree to which it suggests efficient object code
+
+cacm june 1971
+
+glaswin h t
+
+compiling multiplications fixed point arithmetic
+
+4.12
+
+ca710605 jb february 3 1978  10:04 am

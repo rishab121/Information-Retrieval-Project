@@ -1,0 +1,26 @@
+
+
+
+an interactive command generating facility
+
+a facility to permit conversationally controlled tasks
+to be executed in a noninteractive environment is proposed
+a means by which programs can generate interactive time-sharing commands
+and receive the corresponding output response is presented  the commands 
+will be invoked as if they had been typed at a console keyboard  it is 
+argued that this facility will help overcome some of the current limitations 
+in man-computer communication a set of functions to accomplish the above 
+which could be embedded into any string processing language is suggested 
+and necessary information pertinent to implementation of the facility on 
+existing time-sharing systems is given
+
+cacm july 1970
+
+grant c a
+
+time-sharing command languages pseudo-teletype interaction
+conditional job control operating systems
+
+3.80 3.81 4.29 4.39
+
+ca700701 jb february 13 1978  9:43 am

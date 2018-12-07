@@ -1,0 +1,20 @@
+
+
+
+list tracing in systems allowing multiple cell-types
+
+list-processing systems have each allowed the
+use of only a single size and configuration of 
+list cell  in this paper a system is described which
+allows the use of arbitrarily many different sizes 
+and configurations of list cells possibly not specified until run time
+
+cacm august 1971
+
+fenichel r r
+
+list-processing storage allocation lisp slip based storage pointers
+
+4.49
+
+ca710804 jb february 2 1978  3:45 pm

@@ -1,0 +1,10 @@
+
+
+
+multi-dimensional least-squares polynomial curve fitting
+
+cacm september 1959
+
+lesh f h
+
+ca590907 jb march 22 1978  4:44 pm

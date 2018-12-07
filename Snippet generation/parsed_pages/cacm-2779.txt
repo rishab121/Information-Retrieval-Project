@@ -1,0 +1,22 @@
+
+
+
+discrete least squares polynomial fits
+
+the recurrence relation between orthogonal polynomials
+is widely used for discrete least squares 
+data fitting  a variant of the classical algorithm
+which has better numerical properties is presented 
+and the reason for its improved performance is explained
+
+cacm march 1975
+
+shampine l f
+
+orthogonal polynomials data fitting least squares
+recurrence relation between orthogonal polynomials 
+residual
+
+5.11 5.13
+
+ca750309 jb january 9 1978  4:29 pm

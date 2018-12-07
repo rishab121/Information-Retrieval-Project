@@ -1,0 +1,10 @@
+
+
+
+remark on certification of matrix inversion procedures
+
+cacm july 1963
+
+moler c
+
+ca630718 jb march 14 1978  8:21 am

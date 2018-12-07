@@ -1,0 +1,29 @@
+
+
+
+protection in operating systems
+
+a model of protection mechanisms in computing
+systems is presented and its appropriateness 
+is argued  the safety problem for protection systems
+under this model is to determine in a given situation 
+whether a subject can acquire a particular right to
+an object   in restricted cases it can be shown 
+that this problem is decidable ie there is an algorithm
+to determine whether a system in a particular 
+configuration is safe  in general and under surprisingly
+weak assumptions it cannot be decided if 
+a situation is safe various implications of this fact are discussed
+
+cacm august 1976
+
+harrison m a
+ruzzo w l
+ullman j d
+
+protection protection system operating
+system decidability turing machine
+
+4.30 4.31 5.24
+
+ca760804 jb january 4 1978  10:12 am

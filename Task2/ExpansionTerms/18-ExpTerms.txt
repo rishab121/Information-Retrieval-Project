@@ -1,10 +1,10 @@
 programming
 systems
 language
-cacm
 machine
-expressions
+cacm
 system
-1978
+expressions
 jb
-pm
+1978
+lexical

@@ -1,0 +1,25 @@
+
+
+
+computational aspects of multiple covariance
+analysis on a multifactor structure
+
+the computational procedure for the analysis
+of multiple covariance in statistics is discussed 
+with reference to the analysis of variance  a special
+operator calculus developed by hartly for programming 
+analysis of variance for multifactor experiments is extended
+to cover the analysis of covariance  this 
+extension is accomplished by utilizing the connection
+between the analysis of covariance and the analysis 
+of variance and by introducing a new operator  the
+results are illustrated by a numerical example for 
+analysis of covariance in which the basic computations
+are shown to be carried out by an analysis-of-variance 
+program
+
+cacm july 1966
+
+peng k c
+
+ca660708 jb march 2 1978  9:18 pm

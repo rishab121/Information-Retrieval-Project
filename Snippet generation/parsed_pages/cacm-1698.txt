@@ -1,0 +1,33 @@
+
+
+
+a statistical model for console behavior in multiuser computers
+
+the ability of a computer system to communicate
+with the outside world efficiently is as important 
+as its ability to perform computations efficiently 
+it is quite difficult to characterize a particular 
+user but rather easy to characterize the entire user community
+ based on the properties of this community 
+we have postulated a hypothetical virtual console
+ no claim is made that a virtual console behaves 
+like any actual console but the entire collection of
+virtual consoles models the collection of actual 
+consoles  using the model we answer questions like 
+how many processes are suspended waiting for console 
+input  what is the maximum rate at which a process can
+execute  what bounds can be set on overall buffer 
+requirements  answers to these and similar questions
+are needed in certain aspects of operating system 
+design
+
+cacm september 1968
+
+denning p j
+
+statistical models for input-output operating
+system design input-output design
+
+4.30 4.41 5.5
+
+ca680903 jb february 22 1978  9:21 am

@@ -1,0 +1,23 @@
+
+
+
+a proposal for definitions in algol
+
+an extension to algol is proposed for adding
+new data types and operators to the language 
+ definitions may occur in any block heading and terminate
+with the block  they are an integral part 
+of the program and are not fixed in the language  even
+the behavior of existing operators may be redefined 
+ the processing of text containing defined contexts features
+a replacement rule that eliminates unnecessary 
+iterations and temporary storage  examples of definition sets
+are given for real and complex matrices 
+complex numbers file processing and list manipulation
+
+cacm april 1967
+
+galler b a
+perlis a j
+
+ca670401 jb february 28 1978  11:43 am

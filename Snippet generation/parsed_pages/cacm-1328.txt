@@ -1,0 +1,10 @@
+
+
+
+further remarks on reducing truncation errors
+
+cacm january 1965
+
+kahan w
+
+ca650109 jb march 8 1978  2:37 pm

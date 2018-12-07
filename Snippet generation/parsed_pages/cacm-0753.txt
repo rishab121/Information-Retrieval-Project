@@ -1,0 +1,11 @@
+
+
+
+a procedure for converting logic table conditions
+into an efficient sequence of test instructions
+
+cacm september 1963
+
+egler j f
+
+ca630905 jb march 13 1978  7:40 pm

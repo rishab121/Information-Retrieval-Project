@@ -1,0 +1,34 @@
+
+
+
+a practical method for constructing lrk processors
+
+a practical method for constructing lrk processors
+is developed  these processors are capable 
+of recognizing and parsing an input during a single
+no-backup scan in a number of steps equal to the 
+length of the input plus the number of steps in its
+derivation  the technique presented here is based 
+on the original method described by knuth but decreases
+both the effort required to construct the processor 
+and the size of the processor produced  this procedure
+involves partitioning the given grammar into 
+a number of smaller parts  if an lrk processor can be
+constructed for each part using knuths algorithm 
+and if certain conditions relating these individual
+processors are satisfied then an lrk processor 
+for the entire grammar can be constructed for them
+ using this procedure an lr1 parser for algol 
+has been obtained
+
+cacm november 1969
+
+korenjak a j
+
+lrk grammar syntactic analysis parser deterministic
+language syntax-directed compiler language
+processor context-free language algol
+
+4.12 5.2 5.23
+
+ca691105 jb february 15 1978  12:52 pm

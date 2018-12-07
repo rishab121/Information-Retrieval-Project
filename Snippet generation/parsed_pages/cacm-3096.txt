@@ -1,0 +1,31 @@
+
+
+
+an optimal method for deletion in one-sided height-balanced trees
+
+a one-sided height-balanced tree is a binary
+tree in which every nodes right subtree has a 
+height which is equal to or exactly one greater than the
+height of its left subtree  it has an advantage 
+over the more general avl tree in that only one bit
+of balancing information is required two bits are 
+required for the acl tree  it is shown that deletion of
+an arbitrary node of such a tree can be accomplished 
+in ologn operations where n is the number of nodes
+in the tree  moreover the method is optimal in 
+the sense that its complexity cannot be reduced in order
+of magnitude  this result coupled with earlier 
+results by hirschberg indicates that of the three basic
+problems of insertion deletion and retrieval 
+only insertion is adversely affected by this modification of an avl tree   
+
+cacm june 1978
+
+zweben s
+mcdonald m
+
+balanced binary search trees
+
+3.73 3.74 4.34 5.25 5.31
+
+ca780601 dh february 26 1979  12:48 pm

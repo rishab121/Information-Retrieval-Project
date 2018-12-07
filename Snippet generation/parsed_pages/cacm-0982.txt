@@ -1,0 +1,20 @@
+
+
+
+an inductive approach to language translation
+
+the possibility of natural language translation
+by means of fixed operations on example translations 
+is considered  the conception of sentence translation
+which motivates the work is informally presented 
+and the measurement of physical similarity in pairs of
+strings is discussed a notion which plays a central 
+role in the proposed type of translator  experimental
+evidence is presented in support of the premise 
+upon which this conception is based
+
+cacm november 1964
+
+faulk r d
+
+ca641101 jb march 9 1978  4:28 pm

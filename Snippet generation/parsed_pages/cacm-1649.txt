@@ -1,0 +1,22 @@
+
+
+
+data directed input-output in fortran
+
+a statement which is similar to the namelist
+statement of fortran iv has been incorporated 
+in the fortran 63 compiler  the fortran 63 implementation
+allows a greater flexibility and simplicity 
+than the fortran iv feature  the hollerith names the
+location the mode and the dimensions of a variable 
+can be discovered by means of standard fortran statements
+ methods of using this information are illustrated 
+in relation to general purpose data directed input and
+output routines some other uses such as matrix 
+manipulation are discussed
+
+cacm january 1967
+
+hassitt a
+
+ca670106 jb february 28 1978  4:41 pm

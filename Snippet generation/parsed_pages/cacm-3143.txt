@@ -1,0 +1,23 @@
+
+
+
+reasoning about arrays
+
+a variety of concepts laws and notations are presented which facilitate
+reasoning about arrays  the basic concepts include intervals and their
+partitions functional restriction images pointwise extension of relations
+ordering single-point variation of functions various equivalence relations 
+for array values and concatenation  the effectiveness
+of these ideas is illustrated by informal descriptions of
+algorithms for binary search and merging and by a short formal proof
+
+cacm may 1979
+
+reynolds j
+
+arrays assertions program proving intervals partitions pointwise
+extension ordering concatenation binary search merging
+
+4.0 4.22 5.21 5.24
+
+ca790504 dh june 5 1979  3:33 pm

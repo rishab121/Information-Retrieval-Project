@@ -1,0 +1,37 @@
+
+
+
+a comparison of list-processing computer languages
+including a detailed comparison of comit 
+ipl-v lisp 1.5 and slip
+
+a detailed comparison is presented of comit
+ipl-v lisp 1.5 and slip  four well-known computer 
+programming languages which among them exhibit all the
+principal characteristics of existing list-processing 
+languages  important common features of list-processing
+languages are reviewed forms of data structures 
+which are manipulated necessity for dynamic allocation
+of storage use of pushdown stores and use of 
+recursive operations  principal differences between the
+four languages under consideration are detailed 
+representations of data both by the programmer and within
+the machine methods for storage allocation 
+programming formalisms and special processes available
+including arithmetic facilities and usability 
+in terms of availability documentation learning aids
+and debugging facilities  a rough comparison 
+shows that all the languages discussed have approximately
+the same speed  finally the authors give 
+some heuristics to aid in the selection of one of these
+languages for use in particular problem applications 
+concluding that no one of the languages considered is
+distinctly superior in all possible list-processing 
+applications
+
+cacm april 1964
+
+bobrow d g
+raphael b
+
+ca640410 jb march 10 1978  1:37 am

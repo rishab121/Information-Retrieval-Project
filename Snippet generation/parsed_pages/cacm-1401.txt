@@ -1,0 +1,18 @@
+
+
+
+quasilinearization and the calculation of eigenvalues
+
+several eigenvalue problems for systems of
+ordinary differential equations are considered 
+ they are resolved computationally using the quasilinerization
+technique a quadratically convergent 
+successive approximation scheme related to
+the newton-raphson-kantorovich method
+
+cacm july 1966
+
+bellman r kagiwada h
+kalaba r
+
+ca660711 jb march 2 1978  8:40 pm

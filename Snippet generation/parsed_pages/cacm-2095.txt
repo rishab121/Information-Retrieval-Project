@@ -1,0 +1,27 @@
+
+
+
+measurements of segment size
+
+distributions of segment sizes measured under routine operating con
+ditions on a computer system which utilizes variable sized segments
+the burroughs b5500 are discussed  the most striking feature
+of the measurements is the large number of small segments-about 60
+percent of the segments in use contain less than 40 words  although
+the results are certainly not installation independent and although they 
+are particularly influenced by features of the b5500 algol system they 
+should be relevant to the design of new computer systems
+especially with respect to the organization of paging schemes
+
+cacm march 1970
+
+batson a
+ju s
+wood d c
+
+storage allocation segmentation segment sizes page sizes
+paging resource allocation memory allocation core utilization
+
+4.32 6.2 6.34 6.9
+
+ca700303 jb february 13 1978  4:58 pm

@@ -1,0 +1,36 @@
+
+
+
+buffer allocation in merge-sorting
+
+a fixed buffer allocation for merge-sorting
+is presented here which minimizes the number of 
+input-output operations for a given order of merge
+ when sorting on movable arm disks the number of 
+seeks is equal to the number of input-output operations
+and the seek time usually controls the sort 
+time  first some standard terminology is introduced 
+then the input buffer allocation method is described 
+followed by an analysis of the improvement to be expected
+over more conventional allocation  this analysis 
+makes use of a particular distribution function  an
+analysis of a completely different distribution 
+is given which yields similar results  this suggests
+that the results do not depend on a particular 
+distribution function  an optimum output buffer size
+is also determined  it is concluded that this 
+buffering allocation can significantly reduce the time
+of merge sorting on movable arm disks when the 
+input data are not random and that this output buffer
+allocation should be used whether the data is 
+random or not
+
+cacm july 1971
+
+ferguson d e
+
+file item string merge sort seek time gamma distribution function
+
+4.41 5.31
+
+ca710706 jb february 3 1978  8:41 am

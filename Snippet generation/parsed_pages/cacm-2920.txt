@@ -1,0 +1,30 @@
+
+
+
+game interpretation of the deadlock avoidance problem
+
+the deadlock avoidance problem may be defined
+informally as the determination from some a 
+priori information about the processes resources operating
+system etc of the safe situations which 
+may be realized without endangering the smooth running
+of the system  when each process specifies its 
+future needs by a flowchart of need-defined steps a global
+approach to the phenomenon and its in terpretation 
+as a game between the operating system and the processes
+allows formalization of risk and safety concepts 
+ the bipartite graph representation of this game may
+then be used to construct explicitly the set of safe 
+states and to study their properties
+
+cacm october 1977
+
+devillers r
+
+operating system multiprogramming time-sharing
+resource allocation deadlock in terlock deadly 
+embrace deadlock avoidance flowchart
+
+4.30 4.32
+
+ca771006 jb december 27 1977  10:50 am

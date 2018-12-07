@@ -1,0 +1,21 @@
+
+
+
+a note on conditional expressions
+
+evaluation of a conditional expression may succeed
+even when the deciding predicate diverges 
+and the alternatives are records or nodes whose fields have different content
+
+cacm november 1978
+
+friedman d
+wise d
+
+parallel evaluation suspending cons lisp conditional
+forms if-then-else ambiguous function
+infinite structures
+
+4.2 4.13 4.32 5.24
+
+ca781107 dh january 26 1979  10:44 am

@@ -1,0 +1,23 @@
+
+
+
+a modification of warshalls algorithm for
+the transitive closure of binary relations
+
+an algorithm is given for computing the transitive
+closure of a binary relation that is represented 
+by a boolean matrix the algorithm is similar to warshalls
+although it executes faster for sparse matrices
+on most computers particularly in a paging environment
+
+cacm april 1975
+
+warren h s jr
+
+warshalls algorithm transitive closure reachability
+matrix directed graph digraph boolean 
+matrix binary relation
+
+5.30 5.32
+
+ca750408 jb january 9 1978  3:49 pm

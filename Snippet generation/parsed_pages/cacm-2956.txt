@@ -1,0 +1,27 @@
+
+
+
+some ideas on data types in high-level languages
+
+a number of issues are explored concerning the
+notion that a data type is a set of values together 
+with a set of primitive operations on those values  among
+these are the need for a notation for iterating 
+over the elements of any finite set instead of the
+more narrow for i 1 to n notation the use of 
+the domain of an array as a data type the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters but in a restrictive fashion
+and resulting problems with conversion of 
+values from one type to another
+
+cacm june 1977
+
+gries d
+gehani n
+
+data types generic procedures programming languages
+
+4.12 4.20 4.22
+
+ca770607 jb december 28 1977  1:27 pm

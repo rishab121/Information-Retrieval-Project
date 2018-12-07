@@ -1,0 +1,30 @@
+
+
+
+the working set model for program behavior
+
+probably the most basic reason behind the absence
+of a general treatment of resource allocation 
+in modern computer systems is an adequate model for
+program behavior  in this paper a new model the 
+working set model is developed the working set
+of pages associated with a process defined to be 
+the collection of its most recently used pages provides
+knowledge vital to the dynamic management of 
+paged memories  process and working set are shown to
+be manifestations of the same ongoing computational 
+activity then processor demand and memory demand
+are defined and resource allocation is formulated 
+as the problem of balancing demands against available equipment
+
+cacm may 1968
+
+denning p j
+
+general operating system concepts multiprocessing
+multiprogramming operating systems program 
+behavior program models resource allocation scheduling storage allocation
+
+4.30 4.32
+
+ca680505 jb february 23 1978  9:33 am

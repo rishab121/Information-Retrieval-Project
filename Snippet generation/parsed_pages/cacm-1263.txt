@@ -1,0 +1,15 @@
+
+
+
+metalanguage and syntax specification
+
+two metalanguages are described one sufficient
+for the table specification of the algol syntax 
+the other with additional metaoperators adequate and used
+for the formal table description of basic fortran
+
+cacm may 1965
+
+burkhardt w h
+
+ca650508 jb march 7 1978  2:19 pm

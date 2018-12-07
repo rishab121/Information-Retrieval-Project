@@ -1,0 +1,15 @@
+
+
+
+extension of existing compilers by sophisticated use of macros
+
+a description is presented of an application
+in which macros and string concatenation were 
+employed to add a new facility to belfap
+
+cacm september 1964
+
+benett r k
+neumann h d
+
+ca640904 jb march 9 1978  6:13 pm

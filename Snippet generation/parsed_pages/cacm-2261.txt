@@ -1,0 +1,28 @@
+
+
+
+an approximate method for generating symmetric random variables
+
+a method for generating values of continuous
+symmetric random variables that is relatively 
+fast requires essentially no computer memory and is
+easy to use is developed  the method which uses 
+a uniform zero-one random number source is based on
+the inverse function of the lambda distribution 
+of turkey  since it approximates many of the continuous
+theoretical distributions and empirical distributions 
+frequently used in simulations the method should
+be useful to simulation practitioners
+
+cacm november 1972
+
+ramberg j s
+schmeiser b w
+
+simulation monte carlo probability statistics
+approximations random variables random numbers 
+moments distribution
+
+5.5 8.1
+
+ca721108 jb january 27 1978  1:47 pm

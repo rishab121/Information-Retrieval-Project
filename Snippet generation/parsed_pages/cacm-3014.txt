@@ -1,0 +1,38 @@
+
+
+
+is sometime sometimes better than always intermittent
+assertions in proving program correctness
+
+this paper explores a technique for proving the
+correctness and termination of programs simultaneously 
+ this approach the intermittent-assertion method involves
+documenting the program with assertions that 
+must be true at some time when control passes through
+the corresponding point but that need not be true 
+every time  the method introduced by burstall promises
+to provide a valuable complement to the more 
+conventional methods  the intermittent-assertion method
+is presented with a number of examples of correctness 
+and termination proofs  some of these proofs are markedly
+simpler than their conventional counterparts 
+ on the other hand it is shown that a proof of correctness
+or termination by any of the conventional 
+techniques can be rephrased directly as a proof using
+intermittent assertions  finally it is shown 
+how the intermittent-assertion method can be applied
+to prove the validity of program transformations 
+and the correctness of continuously operating programs
+
+cacm february 1978
+
+manna z
+waldinger r
+
+intermittent assertions correctness of programs
+termination of programs program verification 
+program transformation continuously operating programs
+
+5.24
+
+ca780209 jb march 28 1978  2:04 pm

@@ -1,0 +1,27 @@
+
+
+
+the stage hypothesis and the s-curve some contradictory evidence
+
+this paper presents the results of a study
+testing the s-shaped budget curve of nolans stage 
+model of computer development in an organization  research
+on the data processing budgets of california 
+counties fails to support the s-shaped curve or the use
+of budgets as a basis for a stage model  however 
+the results do not invalidate the concept of a stage
+model  the analysis suggests an alternative model 
+of budget growth and a separation between models of budgeting
+growth and growth stages in the development 
+of the computer resource
+
+cacm april 1977
+
+lucac h c jr
+sutton j a
+
+budgets stage theories stage hypothesis
+
+3.50 3.59
+
+ca770405 jb december 29 1977  5:12 am

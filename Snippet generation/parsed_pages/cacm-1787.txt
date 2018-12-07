@@ -1,0 +1,25 @@
+
+
+
+use of transition matrices in compiling
+
+an algorithms is described which constructs
+from a suitable bnf grammar an efficient left-right 
+recognizer for sentences of the corresponding language
+ the type of recognizer used in a number of 
+compilers operates with a pushdown stack and with
+a transition matrix  two examples illustrate how 
+such recognizers may be used effectively for other
+purposes besides the usual syntax checking
+
+cacm january 1968
+
+gries d
+
+transition matrices compilation translation
+grammar context-free language formal language 
+parsing
+
+4.12 5.23
+
+ca680107 jb february 23 1978  2:35 pm

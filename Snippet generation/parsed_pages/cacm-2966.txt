@@ -1,0 +1,26 @@
+
+
+
+the choice of reference poin ts in best-match file searching
+
+improvements to the exhaustive search method
+of best-match file searching have previously been 
+achieved by doing a preprocessing step involving the
+calculation of distances from a reference poin t 
+  this paper discusses the proper choice of reference
+poin ts and extends the previous algorithm to use 
+more than one reference poin t  it is shown that reference
+poin ts should be located outside of data clusters 
+ the results of computer simulations are presented which
+show that large improvements can be achieved 
+by the proper choice and location of multiple reference poin ts
+
+cacm may 1977
+
+shapiro m
+
+matching file searching best match nearest-neighbor classification
+
+3.73 3.74
+
+ca770506 jb december 29 1977  1:57 am

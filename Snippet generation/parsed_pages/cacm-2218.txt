@@ -1,0 +1,31 @@
+
+
+
+an analysis of some time-sharing techniques
+
+the effectiveness of certain time-sharing techniques
+such as program relocation disk rotational 
+delay minimization and swap volume minimization is
+investigated  summary data is presented and the 
+findings are discussed  the vehicle for this investigation
+was a simula based simulation model reflecting 
+an early framework for a planned burroughs b6500 time-sharing
+system  inasmuch as the b6500 system is 
+based upon the use of variable sized segments and a
+dynamic overlay procedure data is also presented 
+which provides some indication of the effectiveness of this
+type of organization in a time-sharing environment 
+ the design characteristics and operational capabilities
+of the simulation model are also described
+
+cacm february 1971
+
+nielsen n r
+
+b6500 bulk core usage operating system model relocation
+rotational delay minimization simulation 
+swap volume minimization system simulation time-sharing
+
+3.9 4.32
+
+ca710203 jb february 8 1978  9:40 am

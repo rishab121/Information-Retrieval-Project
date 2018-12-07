@@ -1,0 +1,35 @@
+
+
+
+algebraic simplification a guide for the perplexed
+
+algebraic simplification is examined first from
+the point of view of a user who needs to comprehend 
+a large expression and second from the point of view
+of a designer who wants to construct a useful and 
+efficient system  first we describe various techniques
+akin to substitution  these techniques can be 
+used to decrease thesize of an expression and make it
+more intelligible to a user  then we delineate 
+the spectrum of approaches to the design of automatic simplification
+capabilities in an algebraic manipulation 
+system  systems are divided into five types  each type
+provides different facilities for the manipulation 
+and simplification of expressions finally we discuss
+some of the theoretical results related to algebraic 
+simplification  we describe several positive results
+about the existence of powerful simplification 
+algorithms and the number-theoretic conjectures on which
+they rely  results about the nonexistence of 
+algorithms for certain classes of expressions are included
+
+cacm august 1971
+
+moses j
+
+algebraic manipulation algebraic simplification
+canonical simplification
+
+3.1 3.2 3.6 4.9 5.2 5.9
+
+ca710805 jb february 2 1978  3:42 pm

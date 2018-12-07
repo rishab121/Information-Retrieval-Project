@@ -1,0 +1,16 @@
+
+
+
+some experiments in algebraic manipulation by computer 
+
+a set of subroutines to allow algebraic manipulations
+on the ibm 7094 computer has been written 
+a list processor slip  a series of four problems of increasing
+difficulty were solved using these routines
+
+cacm august 1965
+
+lapidus a
+goldstein m
+
+ca650810 jb march 6 1978  8:10 pm

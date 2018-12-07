@@ -1,0 +1,26 @@
+
+
+
+an analytic model of the hasp execution task monitor
+
+the hasp execution task monitor periodically
+rearranges the os/360 dispatching chain to give 
+tasks preemptive execution priority in inverse order to
+that of their cpu utilization history  the effect 
+is to keep the i/o bound tasks active and to prevent
+cpu bound tasks from locking out other tasks  this 
+paper develops a simple model of the execution task
+monitor and employs it to study the effectiveness 
+of the monitor in improving system performance  a
+modified strategy monitor control is investigated 
+for the case of task execution in a memory hierarchy of varying speeds
+
+cacm december 1974
+
+strauss j c
+
+hasp os/360 dispatching scheduling modeling performance evaluation
+
+4.32 8.1
+
+ca741203 jb january 16 1978  9:51 am

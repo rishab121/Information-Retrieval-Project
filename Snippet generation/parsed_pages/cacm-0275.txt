@@ -1,0 +1,10 @@
+
+
+
+dynamic storage allocation for an information retrieval system
+
+cacm october 1961
+
+sams b h
+
+ca611006 jb march 16 1978  12:58 pm

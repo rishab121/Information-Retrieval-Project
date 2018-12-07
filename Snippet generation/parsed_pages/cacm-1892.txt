@@ -1,0 +1,35 @@
+
+
+
+degree of multiprogramming in page-on-demand systems
+
+a simple stochastic model is described which
+offers a base for understanding the relationship 
+between the number of programs permitted to share memory
+the degree of multiprogramming drum traffic 
+rates and central processing unit utilization in page-on-demand
+multiprogrammed time-shared computer 
+systems  the model preserves as a key feature the
+property of page-demand statistics which implies 
+a burst of page demands at the beginning of any job
+or quantum execution  the model a markov chain 
+is analyzed numerically and the results are presented graphically
+for a wide range of key environment-descriptive 
+parameters  implications of the results to time-shared
+system design and programming are discussed 
+and a calculation of the optimal degree of multiprogramming
+for a wide range of parameters is presented 
+graphically 
+
+cacm june 1969
+
+wallace v l
+mason d l
+
+page-on-demand demand paging time-sharing multiprogramming
+markovian computer models scheduling 
+strategies operating systems memory management
+
+2.44 4.32 4.39 6.20 6.21
+
+ca690601 jb february 17 1978  1:43 pm

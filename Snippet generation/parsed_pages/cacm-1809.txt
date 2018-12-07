@@ -1,0 +1,25 @@
+
+
+
+numerical analysis in a ph computer science program
+
+numerical analysis is the study of methods and
+procedures used to obtain approximate solutions 
+to mathematical problems  much of the emphasis is on scientific
+calculation  the difficulties of education 
+in such a broad area center around the question of background
+and emphasis  the numerical analysis program 
+in the computer science department should emphasize an
+awareness of the problems of computer implementation 
+and experimental procedures  nevertheless there is a
+need for a solid background in applied mathematics
+
+cacm december 1969
+
+parter s v
+
+ph program numerical analysis course separation education
+
+1.52
+
+ca691203 jb february 15 1978  4:25 pm

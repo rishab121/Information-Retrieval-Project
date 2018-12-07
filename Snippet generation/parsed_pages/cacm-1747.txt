@@ -1,0 +1,42 @@
+
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features  three possible criteria of this
+kind are input recordability input specifiability 
+and asynchronous reproducibility of output  these criteria
+imply that a user can if he desires either 
+know or control all the influences affecting the content
+and extent of his computers output  to define 
+the scope of the criteria the notion of an abstract
+machine of a programming language and the notion 
+of a virtual computer are explained  examples of applications
+of the criteria concern the reading of 
+a time-of-day clock  the synchronization of parallel
+processes protection in multiprogrammed systems 
+and the assignment of capability indexes
+
+cacm may 1968
+
+van horn e c
+
+computer design computer design criteria computer
+systems computer systems design input equipment 
+input equipment design operating systems operating
+systems design multiprogramming multiprogrammed 
+systems multiprogrammed system design virtual computers
+programming languages programming language 
+design program semantics programming language semantics
+determinism reproducibility repeatability 
+deterministic computers protection memory protection
+information security information privacy computing 
+reliability debugging program debugging program testing
+parallel processing parallel programming 
+multiprocessing
+
+2.11 4.12 4.13 4.20 4.30 4.42 4.43 5.24 6.20 6.35
+
+ca680509 jb february 23 1978  9:06 am

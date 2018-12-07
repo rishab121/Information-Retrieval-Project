@@ -1,0 +1,15 @@
+
+
+
+peephole optimization
+
+redundant instructions may be discarded during
+the final stage of compilation by using a simple 
+optimizing technique called peephole optimization
+the method is described and examplesare given
+
+cacm july 1965
+
+mckeeman w m
+
+ca650704 jb march 6 1978  9:05 pm

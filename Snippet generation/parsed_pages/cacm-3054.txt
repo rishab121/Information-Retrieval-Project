@@ -1,0 +1,27 @@
+
+
+
+implementing quicksort programs
+
+this paper is a practical study of how to
+implement the quicksort sorting algorithm and its 
+best variants on real computers including how to apply
+various code optimization techniques  a detailed 
+implementation combining the most effective improvements
+to quicksort is given along with a discussion 
+of how to implement it in assembly language  analytic
+results describing the performance of the programs 
+are summarized  a variety of special situations are considered
+from a practical standpoint to illustrate 
+quicksorts wide applicability as an internal sorting
+method which requires negligible extra storage 
+
+cacm october 1978
+
+sedgewick r
+
+quicksort analysis of algorithms code optimization sorting
+
+4.0 4.6 5.25 5.31 5.5
+
+ca781007 dh january 29 1979  5:40 pm

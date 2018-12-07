@@ -1,0 +1,11 @@
+
+
+
+two subroutines for symbol manipulation with an algebraic compiler
+
+cacm february 1961
+
+carr iii j w
+hanson j w
+
+ca610205 jb march 17 1978  12:59 am

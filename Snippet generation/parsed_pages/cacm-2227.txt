@@ -1,0 +1,26 @@
+
+
+
+proof of a program find
+
+a proof is given of the correctness of the
+algorithm find  first a informal description 
+is given of the purpose of the program and the method
+used  a systematic technique is described for 
+constructing the program proof during the process of coding
+it in such a way as to prevent the intrusion 
+of logical errors  the proof of termination is treated
+as a separate exercise  finally some conclusions 
+relating to general programming methodology are drawn
+
+cacm january 1971
+
+hoare c a r
+
+proofs of programs programming methodology program
+documentation program correctness theory 
+of programming
+
+4.0 4.22 5.21 5.23 5.24
+
+ca710107 jb february 8 1978  10:40 am

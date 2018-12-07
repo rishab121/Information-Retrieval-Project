@@ -1,0 +1,18 @@
+
+
+
+   generating permutations by nested cycling
+
+   the purpose of this letter is two_fold first to give due credit to the
+tompkins-paige algorithm and second to clarify a comment by hill cr review
+13891 on programs for permutations
+
+cacm june 1968
+
+langdon glen g
+
+permutations
+
+5.39
+
+ca680617 es march 18 1982 10:00 am

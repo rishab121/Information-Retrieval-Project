@@ -1,0 +1,20 @@
+
+
+
+simula-an algol-based simulation language
+
+this paper is an introduction to simula a
+programming language designed to provide a systems 
+analyst with unified concepts which facilitate the
+concise description of discrete event systems  a 
+system description also serves as a source language simulation
+program  simula is an extension of algol 
+60 in which the most important new concepts
+is that of quasi-parallel processing
+
+cacm september 1966
+
+dahl o j
+nygaard k
+
+ca660907 jb march 2 1978  6:21 pm

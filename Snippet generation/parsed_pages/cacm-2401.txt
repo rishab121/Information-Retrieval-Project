@@ -1,0 +1,33 @@
+
+
+
+on shrinking binary picture patterns
+
+a parallel processing algorithm for shrinking
+binary patterns to obtain single isolated elements 
+one for each pattern is presented  this procedure
+may be used for counting patterns on a matrix and 
+a hardware implementation of the algorithm using large
+scale integrated technology is envisioned  the 
+principal features of this method are the very small
+window employed two-by-two elements the parallel 
+nature of the process and the possibility of shrinking
+any pattern regardless of the complexity of 
+its configuration  problems regarding merging and disconnection
+of patterns during the process as well 
+as the determination of the maximum number of steps
+necessary to obtain a single isolated element from 
+a pattern are reviewed and discussed  an analogy with a
+neural network description in terms of mcculloch-pitts 
+neurons is presented
+
+cacm january 1972
+
+levialdi s
+
+counting binary patterns shrinking parallel
+processing multiple connected pictures
+
+3.63
+
+ca720102 jb february 1 1978  9:43 am

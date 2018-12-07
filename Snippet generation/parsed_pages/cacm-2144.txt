@@ -1,0 +1,34 @@
+
+
+
+on accurate floating-point summation
+
+the accumulation of floating-point sums is
+considered on a computer which performs t-digit 
+base b floating-point addition with exponents in the range
+-m to m  an algorithm is given for accurately 
+summing n t-digit floating-point numbers  each of
+these n numbers is split into q parts forming qn 
+t-digit floating-point numbers  each of these is then
+added to the appropriate one of n auxiliary t-digit 
+accumulators  finally the accumulators are added together
+to yield the computed sum  in all qn+n-1 
+t-digit floating-point additions are performed  under
+usual conditions the relative error in the computed 
+sum is at most t+1/vb^1-t for some v  further
+with an additional q+n-1 t-digit additions the 
+computed sum can be corrected to full t-digit accuracy
+ for example for the ibm/360 b16 t14 m63 
+m64 typical values for q and n are q2 and n32 
+in this case  becomes n  32,768 and we have 
+t+1/vb^1-t  4x16^-13
+
+cacm november 1971
+
+malcolm m a
+
+floating-point summation error analysis
+
+5.11 5.19
+
+ca711105 jb february 2 1978  10:48 am

@@ -1,0 +1,19 @@
+
+
+
+stat-pack a biostatistical programming package
+
+a package of fortran statistical programs for use
+on almost any small to medium size 40k characters 
+or 8k words for which a fortran ii compiler exists
+is described and its availability is announced  
+the major design criteria of ease of use ease of modification
+flexibility of input and detail of output 
+are described
+
+cacm february 1967
+
+shannon s
+henschke c
+
+ca670213 jb february 28,1978  1:57 pm

@@ -1,0 +1,16 @@
+
+
+
+data code for calendar date for machine-to-machine
+data interchange proposed usa standard
+
+cacm april 1968
+
+usa standard data code calendar date machine-to-machine
+data interchange recording calendar 
+date data group identifier
+
+2.0 2.11 2.19 2.3 2.40 2.43 2.49 3.50 3.52 3.53 3.55 3.56 3.59 3.70 3.71 3.73
+3.74 3.79 3.81 4.1 4.9
+
+ca680413 jb february 23 1978  10:18 am

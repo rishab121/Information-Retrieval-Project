@@ -1,0 +1,24 @@
+
+
+
+a rapid method for digital filtering
+
+since much of the computer time spent in time-series
+analysis is used for multiplications 
+a minimum multiplication method was devised for digital
+filtering with the expectation that it would 
+be useful in the on line real-time analysis of biological
+data  the filters are constructed from a succession 
+of readily analyzable components in a manner that facilitates
+cascading  the repertoire of frequency 
+response curves includes relatively good low-pass and
+band-pass designs  programs are available for 
+implementing both the synthesis of these filters and
+their application on computers whose assemblers 
+allow the definition of recursive macros
+
+cacm september 1964
+
+whittlesey j r b
+
+ca640909 jb march 9 1978  5:03 pm

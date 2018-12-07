@@ -1,0 +1,14 @@
+
+
+
+restricted partition generator algorithm 374 $a1
+
+cacm february 1970
+
+white j s
+
+partitions restricted partitions sums of integers restricted sums
+
+5.39
+
+ca700212 jb february 14 1978  9:49 am

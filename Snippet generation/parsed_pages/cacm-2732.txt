@@ -1,0 +1,27 @@
+
+
+
+guarded commands nondeterminacy and formal derivation of programs
+
+so-called guarded commands are introduced
+as a building block for alternative and repetitive 
+constructs that allow nondeterministic program components
+for which at least the activity evoked but 
+possible even the final state is not necessarily uniquely
+determined by the initial state  for the 
+formal derivation of programs expressed in terms
+of these constructs a calculus will be shown
+
+cacm august 1975
+
+dijkstra e w
+
+programming languages sequencing primitives program
+semantics programming language semantics 
+nondeterminacy case-construction repetition termination
+correctness proof derivation of programs 
+programming methodology
+
+4.20 4.22
+
+ca750803 jb january 6 1978  4:46 pm

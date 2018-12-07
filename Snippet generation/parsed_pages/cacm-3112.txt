@@ -1,0 +1,40 @@
+
+
+
+list processing in real time on a serial computer
+
+a real-time list processing system is one
+in which the time required by the elementary list 
+operations eg cons car cdr rplaca replacd eq
+and atom in lisp is bounded by a small constant 
+ classical implementations of list processing systems
+lack this property because allocating a list cell 
+from the heap may cause a garbage collection which process
+requires time proportional to the heap size 
+to finish  a real-time list processing system is presented
+which continuously reclaims garbage including 
+directed cycles while linearizing and compacting the
+accessible cells into contiguous locations to avoid 
+fragmenting the free storage pool  the program is small
+and requires no time-sharing interrupts making 
+it suitable for microcode  finally the system requires
+the same average time and not more than twice 
+the space of a classical implementation and those
+space requirements can be reduced to approximately 
+classical proportions by compact list representation
+ arrays of different sizes a program stack and 
+hash linking are simple extensions to our system and
+reference counting is found to be inferior for 
+many applications
+
+cacm april 1978
+
+baker h
+
+real-time compactinggarbage collection list processing
+virtual memory file or database management 
+storage management storage allocation lisp cdr-coding reference counting  
+
+3.50 3.60 3.73 3.80 4.13 4.22 4.32 4.33 4.35 4.49
+
+ca780404 dh february 26,1979  4:32 pm

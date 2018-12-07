@@ -2,9 +2,9 @@ input
 program
 jb
 cacm
-1978
 symbolic
+1978
 analysis
 systems
-paper
 execution
+paper

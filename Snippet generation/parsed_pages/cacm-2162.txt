@@ -1,0 +1,25 @@
+
+
+
+an efficient bit table technique for dynamic
+storage allocation of 2^n-word blocks
+
+an efficient bit table technique for dynamic storage
+allocation of 2^n-word blocks which requires 
+a minimized amount of memory for bookkeeping purposes
+is described the technique has been tested in 
+an implementation of the list processing language l^6
+ a number of ideas incorporated in the processor 
+are also described
+
+cacm september 1971
+
+isoda s
+goto e
+
+bit table dynamic storage allocation buddy
+system l^6 list processing free storage
+
+3.89 4.12 4.9
+
+ca710902 jb february 2 1978  2:33 pm

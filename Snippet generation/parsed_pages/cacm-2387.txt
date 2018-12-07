@@ -1,0 +1,22 @@
+
+
+
+maximum computing power and cost factors in the centralization problem
+
+a simple analysis of some computer-economic factors
+involved in comparing multimachine installations 
+versus large single machine installations is given and
+a mathematical model is derived to assist policy 
+decisions 
+
+cacm february 1972
+
+oldehoeft a e
+halstead m h
+
+centralization decentralization economics of
+computers computer management economies of scale
+
+2.41
+
+ca720204 jb january 31 1978  4:25 pm

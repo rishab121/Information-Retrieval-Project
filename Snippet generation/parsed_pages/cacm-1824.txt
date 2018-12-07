@@ -1,0 +1,39 @@
+
+
+
+aparel-a parse-request language
+
+aparel is described this language is an extension
+to an algorithmic language pl/i that provides 
+the pattern-matching capabilities normally found only
+in special purpose languages such as snobol4 and 
+tmg  this capability is provided through parse-requests
+stated in a bnf-like format  these parse-requests 
+form their own programming language with special sequencing
+rules  upon successfully completing a parse-request 
+an associated piece of pl/i code is executed  this
+code has available for use as normal pl/i strings 
+the various pieces at all levels of the parse  it
+also has available as normal pl/i variables the
+information concerning which of the various alternatives
+were successful  convenient facilities for 
+multiple input-output streams the initiation of sequences
+of parse-requests as a subroutine and parse-time 
+semantic checks are also included  aparel has proven convenient
+ in building a powerful syntax and function 
+macro system an algebraic language preprocessor debugging
+system an on-line command parser a translator 
+for dataless programming and as a general string manipulator
+
+cacm november 1969
+
+balzer r m
+farber d j
+
+text processing string processing symbol manipulation
+pl/i bnf syntax parser translator 
+pattern matching
+
+4.12 4.13 4.20 4.22 4.29
+
+ca691106 jb february 15 1978  12:44 pm

@@ -1,0 +1,32 @@
+
+
+
+significant event simulation
+
+this paper compares a new method of simulation
+organization called the significant event method 
+with an old one called the clock pulse method using
+as examples two automobile traffic models  the 
+significant event method is found to be more efficient
+than the clock pulse method at low levels of system 
+interaction and less efficient at high levels  a simple
+mathematical model for the trade-off in the 
+relative running time of the two methods is developed 
+the model aids in choosing between the two simulation 
+methods for a particular experiment  it is concluded
+that the significant event method can be of value 
+in the simulation of some systems when computational
+efficiency is of sufficient importance
+
+cacm june 1975
+
+babich a f
+grason j
+parnas d l
+
+simulation organization event simulation clock
+pulse simulation significant event simulation
+
+8.1
+
+ca750604 jb january 9 1978  1:20 pm

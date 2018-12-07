@@ -1,10 +1,10 @@
 algorithm
-jb
-cacm
-text
 program
+jb
+text
+cacm
 1978
 language
 memory
 pm
-search
+problem

@@ -1,0 +1,33 @@
+
+
+
+the programmers workbench-a machine for software development
+
+on almost all software development projects the
+assumption is made that the program development 
+function will be done on the same machine on which the
+eventual system will run  it is only when this 
+production machine is unavailable or when its programming
+environment is totally inadequate that alternatives 
+are considered  in this paper it is suggested that
+there are many other situations where it would be 
+advantageous to separate the program development and
+main tenance function onto a specialized computer 
+which is dedicated to that purpose  such a computer
+is here called a programmers workbench  the four 
+basic sections of the paper in troduce the subjectoutline
+the general concept discuss areas where such 
+an approach may prove beneficial and describe
+an operational system utilizing this concept
+
+cacm october 1977
+
+ivie e l
+
+computer configurations computer networks software
+development software engineering software 
+main tenance unix
+
+3.2 3.5 3.7 3.8 4.0
+
+ca771007 jb december 27 1977  10:37 am

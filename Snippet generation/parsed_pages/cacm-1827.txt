@@ -1,0 +1,41 @@
+
+
+
+performance monitoring in a time-sharing system
+
+a software measurement facility which is part of
+a general purpose time-sharing system is described 
+ the date collection facility dcf has been implemented
+in the michigan terminal system mts for the 
+system/360 model 67  it exists for the purpose of monitoring
+operating system and user program behavior 
+and performance  the overall structure of mts is outlined
+in order to explain the implementation of 
+the dcf  events in the system are identified and recorded
+from within the supervisor and dumped to 
+magnetic tape by an auxiliary program for off-line processing
+ events in user programs which are unrelated 
+to system actions are recorded with a supervisor call
+ the time of occurrence of each event is accurately 
+recorded and data items are further identified by job and
+type  the overhead associated with data collection 
+and its interference with normal jobs is carefully analyzed
+and both are shown to be minimal  several 
+examples are given of information obtained with the
+facility and of applications in which it has been 
+useful  some general guidelines are offered for
+the construction of future monitoring programs
+
+cacm november 1969
+
+pinkerton t b
+
+performance monitoring performance measurement
+program behavior performance data multiprogramming 
+performance software measurement time-sharing performance
+system evaluation software monitor software 
+instrumentation
+
+4.31 4.32 4.39 4.42 4.43
+
+ca691103 jb february 15 1978  1:07 pm

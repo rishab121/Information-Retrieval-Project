@@ -1,0 +1,30 @@
+
+
+
+convert a high level translation
+definition language for data conversion
+
+this paper describes a high level and nonprocedural
+translation definition language convert 
+which provides very powerful and highly flexible data
+restructuring capabilities its design is based 
+on the simple underlying concept of a form which enables
+the users to visualize the translation processes 
+and thus makes data translation a much simpler task 
+convert has been chosen for conveying the purpose 
+of the language and should not be confused with any
+other language or program bearing the same name
+
+cacm october 1975
+
+shu n c
+housel b c
+lum v y
+
+data conversion data restructuring data translation
+database reorganization translation definition 
+utility program programming languages nonprocedural languages
+
+3.50 3.75 4.29 4.4 4.9
+
+ca751002 jb january 6 1978  1:45 pm

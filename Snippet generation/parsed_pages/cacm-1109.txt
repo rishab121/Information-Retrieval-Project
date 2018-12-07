@@ -1,0 +1,17 @@
+
+
+
+conversion of a power to a series of chebyshev polynomials
+
+even slowly convergent power series can be
+rearranged as series in chebyshev polynomials if 
+appropriate sequence transformations are used in evaluating
+the coefficients  the method is illustrated 
+by computing the coefficients for the expansion
+of the logarithm and dilogarithm
+
+cacm march 1964
+
+thacher jr h c
+
+ca640323 jb march 10 1978  2:05 am

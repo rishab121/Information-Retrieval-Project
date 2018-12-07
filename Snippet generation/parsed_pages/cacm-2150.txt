@@ -1,0 +1,27 @@
+
+
+
+concurrent control with readers and writers
+
+the problem of the mutual exclusion of several
+independent processes from simultaneous access 
+to a critical section is discussed for the case where
+there are two distinct classes of processes known 
+as readers and writers  the readers may share
+the section with each other but the writers must 
+have exclusive access  two solutions are presented
+one of the case where we wish minimum delay for 
+the readers the other for the case where we wish
+writing to take place as early as possible
+
+cacm october 1971
+
+courois p j
+heymans f
+parnas d l
+
+mutual exclusion critical section shared access to resources
+
+4.30 4.32
+
+ca711006 jb february 2 1978  11:58 am

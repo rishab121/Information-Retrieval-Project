@@ -1,0 +1,29 @@
+
+
+
+the notions of consistency and predicate locks in a database system
+
+in database systems users access shared data
+under the assumption that the data satisfies 
+certain consistency constraints  this paper defines the
+concepts of transaction consistency and schedule 
+and shows that consistency requires that a transaction
+cannot request new locks after releasing a lock 
+ then it is argued that a transaction needs to lock a logical
+rather than a physical subset of the database 
+ these subsets may be specified by predicates  an
+implementation of predicate locks which satisfies 
+the consistency condition is suggested
+
+cacm november 1976
+
+eswarran k
+gray j
+lorie r
+traiger i l
+
+consistency lock database concurrency transaction
+
+4.32 4.33
+
+ca761106 jb january 3 1978  3:14 pm

@@ -1,0 +1,18 @@
+
+
+
+a computer system for inference execution and data retrieval
+
+this paper presents a rand project concerned
+with the use of computers as assistants in the 
+logical analysis of large collections of factual data
+ a system called relational data file was developed 
+for this purpose  the relational data file is briefly
+detailed and problems arising from its implementation 
+are discussed
+
+cacm november 1967
+
+levien r e
+
+ca671105 jb february 26 1978  3:02 pm

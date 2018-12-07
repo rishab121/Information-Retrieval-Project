@@ -1,0 +1,26 @@
+
+
+
+multi-tape and infinite-state automata  a survey
+
+a survey of machines which are more powerful
+than finite automata and less powerful than general 
+turing machines is presented  it is felt that the machines
+in this category are as closely related to 
+digital computers as either the finite automata or the
+unrestricted turing machines  intermediate machines 
+can be created by adjoining on infinite-state memory
+to a finite-state machine and then performing any 
+or all of the following 1 restrict the manner in
+which the unbounded portion of the memory can be 
+accessed 2 bound the number of steps allowed for a
+computation by some increasing recursive function 
+of the length of the input 3 restrict the total amount
+of memory available in the same manner  examples 
+from all three classes and their properties are discussed
+
+cacm december 1965
+
+fischer p c
+
+ca651215 jb march 6 1978  3:24 pm

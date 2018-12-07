@@ -1,0 +1,14 @@
+
+
+
+a parts breakdown technique using list structures
+
+list structured parts breakdown is proposed
+and discussed  implementation facts are presented 
+on operating program using these techniques
+
+cacm june 1964
+
+brian w j
+
+ca640617 jb march 9 1978  9:09 pm

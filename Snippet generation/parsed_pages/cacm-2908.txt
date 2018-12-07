@@ -1,0 +1,14 @@
+
+
+
+a note on reflection-free permutation enumeration
+
+cacm november 1977
+
+roy m k
+
+permutations reflection-free generation
+
+5.30
+
+ca771108 jb december 27 1977  7:17 am

@@ -1,0 +1,34 @@
+
+
+
+compressed tries
+
+this paper presents a new data structure
+called a compressed trie or c-trie to be used in 
+information retrieval systems  it has the same underlying
+m-ary tree structure as a trie where m is 
+a parameter of the trie but whereas the fields of the
+nodes in a trie have to be large enough to hold 
+a key or at least a pointer the fields in a c-trie are
+only one bit long  in the analysis part of the 
+paper it will be shown that for a collection of n keys the
+retrieval time measured in terms of bit inspections 
+of one key is of the order logmn and the storage
+requirement of the order nm+log2 n bits  this 
+improvement in storage requirements and retrieval time
+is achieved at the cost of decreasing the flexibility 
+of the structure and therefore updating costs are increased
+ first the c-trie is analyzed as a data 
+structure and then several methods of its use
+for relatively static databases are discussed
+
+cacm july 1976
+
+maly k
+
+data structure database m-ary tree trie
+retrieval time storage requirement keys
+
+3.70 3.74 3.75
+
+ca760707 jb january 4 1978  12:26 pm

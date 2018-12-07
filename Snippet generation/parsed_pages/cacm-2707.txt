@@ -1,0 +1,28 @@
+
+
+
+backtrack programming techniques
+
+the purpose of this paper is twofold  first
+a brief exposition of the general backtrack technique 
+and its history is given  second it is shown how the use
+of macros can considerably shorten the computation 
+time in many cases  in particular this technique has allowed
+the solution of two previously open combinatorial 
+problems the computation of new terms in a well-known
+series and the substantial reduction in computation 
+time for the solution to another combinatorial problem
+
+cacm november 1975
+
+bitner j r
+reingold e m
+
+backtrack depth-first search exhaustive search
+macros combinatorial computing non-attacking 
+queens problem difference-preserving codes pentominoes
+tiling problems squaring the square
+
+5.30
+
+ca751105 jb january 6 1978  9:03 am

@@ -1,0 +1,17 @@
+
+
+
+another advantage of keyword notation for
+parameter communication with subprograms
+
+cacm august 1977
+
+francez n
+
+keyword notation positional notation parameters
+transmission subprograms readability call 
+by value call by reference call by name compile-time errors
+
+4.2 4.20 4.22
+
+ca770810 jb december 28 1977  6:57 am

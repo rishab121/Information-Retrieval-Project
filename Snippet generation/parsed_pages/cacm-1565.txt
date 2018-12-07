@@ -1,0 +1,18 @@
+
+
+
+a language-independent macro processor
+
+a macro processor is described which can be
+used with almost any source language  it provides 
+all features normally associated with a macro facility
+plus the ability to make arbitrary transformations 
+of the argument strings  the program is used at the
+basser computing department university of sydney 
+sydney australia to process text for eight different compilers
+
+cacm july 1967
+
+waite w m
+
+ca670708 jb february 28 1978  8:35 am

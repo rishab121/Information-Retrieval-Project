@@ -1,0 +1,25 @@
+
+
+
+enumerating full-time programmers
+
+data from the 1970 census and the department
+of labors area wage surveys are used to derive 
+estimates of the number of full-time programmers employed
+during the years 1969 through 1973  the 1973 
+figure of 180,000 is considerably less than suggested in
+earlier reports  it is recommended that educational 
+administrators consider whether the many courses aimed
+at training programmers are justified on a vocational 
+basis
+
+cacm october 1974
+
+gilchrist b
+weber r e
+
+programmer employment 1970 census area wage survey
+
+1.50 2.2 2.42
+
+ca741014 jb january 16 1978  11:00 am

@@ -1,0 +1,39 @@
+
+
+
+characteristics of application software maintenance
+
+maintenance and enhancement of application
+software consume a major portion of the total life 
+cycle cost of a system  rough estimates of the total
+systems and programming resources consumed range 
+as high as 75-80 percent in each category  however
+the area has been given little attention in the 
+literature  to analyze the problems in this area a
+questionnaire was developed and pretested  it was 
+then submitted to 120 organizations  respondents totaled
+69  responses were analyzed with the spss 
+statistical package  the results of the analysis indicate
+that 1 maintenance and enhancement do consume 
+much of the total resources of systems and programming
+groups 2 maintenance and enhancement tend to 
+be viewed by management as at least somewhat more important
+than new application software development 
+3 in maintenance and enhancement problems of a management
+orientation tend to be more significant 
+than those of a technical orientation and 4 user
+demands for enhancements and extension constitute 
+the most important management problem area
+
+cacm june 1978
+
+lientz b
+swanson e
+tompkins g
+
+software maintenance use of productivity
+aids management and technical issues 
+
+3.50 4.6
+
+ca780605 dh february 26 1979  11:59 am

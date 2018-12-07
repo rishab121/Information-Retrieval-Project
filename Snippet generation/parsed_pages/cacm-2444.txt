@@ -1,0 +1,17 @@
+
+
+
+finding all cliques of an undirected graph algorithm a457
+
+cacm september 1973
+
+bron c
+kerbosch j
+
+cliques maximal complete subgraphs clusters backtracking
+algorithm branch and bound technique 
+recursion
+
+3.71 5.32
+
+ca730911 jb january 23 1978  8:44 am

@@ -1,0 +1,32 @@
+
+
+
+music and computer composition
+
+the problem discussed is that of simulating human
+composition of western popular music by computer 
+and some relevant theories of music and harmony are given
+ problems with this kind of program and several 
+schemes that are known not to work are discussed  several
+previous computer compositions are discussed 
+including the illiac suite  a program to generate short
+melody fragments was written to simulate some 
+of the aspects of human composition  five samples of
+its output are presented and discussed  it was 
+discovered that although the fragments show many of
+the characteristics of popular melodies they have 
+a strangely alien sound  it is theorized that this
+is because the relevant probabilities which would 
+discriminate against unfamiliar sequences were not used
+
+cacm february 1972
+
+moorer j a
+
+artificial intelligence heuristic programming
+models of cognitive processes computer music 
+computer composition music theory
+
+3.44 3.65
+
+ca720208 jb january 31 1978  3:54 pm

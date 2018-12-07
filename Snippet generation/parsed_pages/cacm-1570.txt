@@ -1,0 +1,21 @@
+
+
+
+string processing techniques
+
+the internal organization of string processing
+systems is discussed  six techniques for data 
+structures are presented and evaluated on the basis of
+1 creation of strings 2 examination of strings 
+and 3 alteration of strings  speed of operation storage
+requirements effect on paging and programmer 
+convenience are also considered  one of the techniques
+single-word linked blocks is used in an example 
+demonstrating an implementation of a snobol string
+processing language on an ibm system/360
+
+cacm july 1967
+
+madnick s e
+
+ca670703 jb february 28 1978  9:04 am

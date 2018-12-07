@@ -1,0 +1,14 @@
+
+
+
+an optimal evaluation of boolean expressions in an online query system
+
+cacm may 1977
+
+hanani m z
+
+query boolean expression information retrieval file organization
+
+3.5 3.70 3.74
+
+ca770507 jb december 29 1977  1:51 am

@@ -1,0 +1,16 @@
+
+
+
+approximating block accesses in database organizations
+
+cacm april 1977
+
+yao s b
+
+database inverted file organization database performance
+and measurement information retrieval 
+query answering
+
+3.70 3.72 4.33
+
+ca770406 jb december 29 1977  5:06 am

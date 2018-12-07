@@ -1,0 +1,29 @@
+
+
+
+on the design of display processors
+
+the flexibility and power needed in the data
+channel for a computer display are considered 
+ to work efficiently such a channel must have a sufficient number
+of instructions that it is best understood 
+as a small processor rather than a powerful channel
+ as it was found that successive improvements to 
+the display processor design lie on a circular path by
+making improvements one can return to the original 
+simple design plus one new general purpose computer for
+each trip around  the degree of physical separation 
+between display and parent computer is a key factor in display processor design
+
+cacm june 1968
+
+myer t h
+
+display processor design display system computer
+graphics graphic terminal displays graphics 
+display generator display channel display programming
+graphical interaction remote displays
+
+2.44 6.22 6.29 6.35
+
+ca680603 jb february 22 1978  4:41 pm

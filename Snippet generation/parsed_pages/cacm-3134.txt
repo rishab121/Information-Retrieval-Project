@@ -1,0 +1,33 @@
+
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems using the normal multiplication table as a directory
+for the information system  algorithms for the organization an
+d retrieval of information are described  this method is particularly
+suitable for queries requesting a group of information items
+ all of which possess a particular set of attributes and possibly
+some other attributes as well  several examples are given the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches  algorithms evaluating
+the appropriateness of the above approach to a given information system
+are described  for a certain class of information systems
+the normal multiplication table method yields far more rapid retrieval
+with a more economical space requirement than conventional systems  
+moreover this method incorporates an improved modification of the inverted 
+file technique
+
+cacm march 1979
+
+motzkin d
+
+information retrieval inverted files multiattribute retrieval
+multilist file normal multiplication table queries
+rapid retrieval space economy
+
+3.70 3.73 3.79
+
+ca790305 dh may 21 1979  9:46 am

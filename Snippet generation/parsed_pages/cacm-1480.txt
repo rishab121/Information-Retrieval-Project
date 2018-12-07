@@ -1,0 +1,10 @@
+
+
+
+computation of chebyshev series coefficients algorithm 277c6
+
+cacm february 1966
+
+smith l b
+
+ca660206c jb march 23 1978  7:28 pm

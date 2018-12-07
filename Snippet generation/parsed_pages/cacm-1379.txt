@@ -1,0 +1,30 @@
+
+
+
+a final solution to the dangling else of algol 60 and related languages
+
+the dangling else problem consists of a class
+of potential ambiguities in algol-like conditional 
+statements whose basic form is if b1 then if b2 then
+s1 else s2 where b1 and b2 are boolean expressions 
+and s1 and s2 are basic statements  the difficulty
+lies in whether to attach the else to the first if 
+or to the second one  existing solutions to the problem
+are either ambiguous or unnecessarily restrictive 
+ let sand s1 be statements  we define s to be closed
+if s else s1 is not a statement and to be open 
+if s else s1 is a statement  thus an unconditional
+statement is  a closed statement  open and closed 
+conditional statements are defined by syntax equations
+in such a way as to preserve openness and closure 
+ in each case an else must always be preceded by a closed
+statement  it is shown that the syntax equations 
+are unambiguous and that may change in the statement
+types required within the syntax equations would 
+lead to either ambiguity or unnecessary restriction
+
+cacm september 1966
+
+abrahams p w
+
+ca660908 jb march 2 1978  6:18 pm

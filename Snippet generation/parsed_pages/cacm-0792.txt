@@ -1,0 +1,12 @@
+
+
+
+multiple-precision binary-to-decimal integer
+conversion using only addition and subtraction
+
+cacm august 1963
+
+keyes d f
+moore d p
+
+ca630806 jb march 13 1978  8:42 pm

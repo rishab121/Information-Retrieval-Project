@@ -1,0 +1,27 @@
+
+
+
+process management and resource sharing in the multiaccess system esope
+
+the main design principles of the multiaccess system esope are described
+emphasis is placed on basic ideas underlying the design rather
+than on implementation details  the main features of the system
+include the ability given to any user to schedule his own parallel
+processes using system primitive operations the file-memory relationship
+and the allocation-scheduling policy which dynamically
+takes into account recent information about user behavior
+
+cacm december 1970
+
+betourne c
+boulenger j
+ferrie j
+kaiser c
+krakowiak s
+mossiere j
+
+time-sharing multiprogramming process scheduling resource allocation
+
+4.32
+
+ca701203 jb february 9 1978  4:02 pm

@@ -1,0 +1,17 @@
+
+
+
+generalized least squares fit by orthogonal
+polynomials algorithm 296 e2
+
+cacm november 1969
+
+watson w t
+
+least squares curve fitting orthogonal polynomials
+three-term recurrence polynomial regression 
+approximation forsythes method
+
+5.13 5.5
+
+ca691114 jb february 15 1978  12:06 pm

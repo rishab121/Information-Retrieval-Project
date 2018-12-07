@@ -1,0 +1,10 @@
+
+
+
+an algorithm defining algol assignment statements
+
+cacm march 1960
+
+floyd r w
+
+ca600304 jb march 22 1978  2:01 pm

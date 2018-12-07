@@ -1,0 +1,40 @@
+
+
+
+a model for type checking
+
+most current programming languages treat computation
+over different classes of objects eg 
+numbers strings labels and functions  for correct
+compilation and execution the following question 
+then arises is a program properly constructed so that
+its operations and operands are compatible  the 
+activity of answering this question is usually called
+type checking  this paper attempts to isolate 
+the notion of type checking and presents a partial
+solution to the type checking problem based on the 
+notions of abstraction and application of functions 
+in particular a program is mapped into an expression 
+within a decidable subset of the lambda calculus which
+characterizes the type relations within the program 
+and eliminates all other information  the determination
+of the type-wise correctness or incorrectness 
+of the program is resolved by reducing its corresponding
+lambda calculus expression to one of two normal 
+forms the constant correct for a type-wise correct
+program or the constant error  an application 
+to type checking in algol 60 is made and the attendant
+problems faced for any notion of type checking 
+are discussed
+
+cacm november 1972
+
+ledgard h f
+
+type checking types lambda calculus models for
+programming languages syntax semantics compiler 
+writing language implementation formal definition
+
+4.12 4.22 5.2 5.21 5.23
+
+ca721104 jb january 27 1978  2:30 pm

@@ -1,0 +1,27 @@
+
+
+
+early experience with mesa
+
+the experiences of mesas first users-primarily
+its implementers-are discussed and some implications 
+for mesa and similar programming languages are suggested
+the specific topics addressed are module structure 
+and its use in defining abstractions data-structuring
+facilities in mesa an equivalence algorithm for 
+types and type coercions the benefits of the type system
+and why it is breached occasionally and the 
+difficulty of making the treatment of variant records safe
+
+cacm august 1977
+
+geschke c m
+morris j h jr
+satterthwaite e h
+
+programming languages types modules
+data structures systems programming
+
+4.22
+
+ca770802 jb december 28 1977  8:07 am

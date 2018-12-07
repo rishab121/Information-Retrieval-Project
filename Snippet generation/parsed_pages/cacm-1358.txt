@@ -1,0 +1,20 @@
+
+
+
+syntax macros and extended translation
+
+a translation approach is described which allows
+one to extended the syntax and semantics of 
+a given high-level base language by the use of a new
+formalism called a syntax-macro  syntax-macros 
+define string transformations based on syntactic elements
+of the base language  two types of macros 
+are discussed and examples are given of their use  the
+conditional generation of macros based on options 
+and alternatives recognized by the scan are also described
+
+cacm november 1966
+
+leavenworth b m
+
+ca661102 jb march 2 1978  3:46 pm

@@ -1,0 +1,28 @@
+
+
+
+virtual memory processes and sharing in multics
+
+some basic concepts involved in the design
+of the multics operating system are introduced 
+ multics concepts of processes address space and virtual
+memory are defined and the use of paging and 
+segmentation is explained  the means by which users
+may share procedures and data is discussed and the 
+mechanism by which symbolic references are dynamically
+transformed into virtual machine addresses is 
+described in detail
+
+cacm may 1968
+
+daley r c
+dennis j b
+
+virtual memory information sharing shared procedures
+data sharing dynamic linking segmentation 
+paging multiprogramming storage management
+storage hierarchies file maintenance
+
+3.73 4.32
+
+ca680503 jb february 23 1978  9:44 am

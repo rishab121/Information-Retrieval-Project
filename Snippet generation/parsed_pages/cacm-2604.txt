@@ -1,0 +1,28 @@
+
+
+
+an interactive graphic display for region
+partitioning by linear programming
+
+using linear programming an interactive graphic
+display system has been implemented to solve 
+the region design problem of partitioning a region into
+n nonoverlapping subregions in such a way that 
+their areas are in specified proportions and that the
+total cost of servicing them is a minimum  in 
+a conversational manner a user can easily obtain different
+partitionings by specifying and modifying 
+the boundary the service centers locations the area
+proportions and the cost functions  examples 
+are included
+
+cacm september 1974
+
+cheung t
+
+interactive graphic display region partitioning
+area specification linear programming
+
+5.41 8.2 8.3
+
+ca740904 jb january 17 1978  8:56 am

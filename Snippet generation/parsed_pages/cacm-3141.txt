@@ -1,0 +1,24 @@
+
+
+
+an improved algorithm for decentralized extrema-finding
+in circular configurations of processes
+
+this note presents an improvement to lelanns
+algorithm for finding the largest or smallest of a set of uniquely
+numbered processes arranged in a circle in which no central
+controller exists and the number of processes is not known a priori
+this decentralized algorithm uses a technique of selective
+message extinction in order to achieve an average number of
+message passes of order n log n rather than on2  
+
+cacm may 1979
+
+chang e
+roberts r
+
+decentralized algorithms distributed systems operating systems
+
+4.32 4.35 5.25 5.32
+
+ca790502 dh june 5 1979  2:35 pm

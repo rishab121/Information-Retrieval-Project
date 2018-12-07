@@ -1,0 +1,24 @@
+
+
+
+a method for overlapping and erasure of lists
+
+an important property of the newell-shaw-simon
+scheme for computer storage of lists is that 
+data having multiple occurrences need not be stored
+at more than one place in the computer  that is 
+lists may be overlapped  unfortunately overlapping
+poses a problem for subsequent erasure  given 
+a list that is no longer needed it is desired to erase
+just those parts that do not overlap other lists 
+ in lisp mccarthy employs an elegant but inefficient solution
+to the problem  the present paper describes 
+a general method which enables efficient erasure  the
+method employs interspersed reference counts to 
+describe the extent of the overlapping
+
+cacm december 1960
+
+collins g e
+
+ca601210 jb march 20 1978  6:33 pm

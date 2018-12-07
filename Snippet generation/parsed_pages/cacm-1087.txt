@@ -1,0 +1,16 @@
+
+
+
+problems in automatic abstracting
+
+a variety of problems concerning the design
+and operation of an automatic abstracting system 
+are discussed  the purpose is to a general view of
+several major problem areas  no attempt is made 
+to discuss details or to indicate preferences among alternative solutions
+
+cacm april 1964
+
+edmundson h p
+
+ca640422 jb march 10 1978  12:21 am

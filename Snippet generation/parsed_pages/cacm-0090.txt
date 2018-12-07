@@ -1,0 +1,12 @@
+
+
+
+binary arithmetic for discretely variable
+word length in a serial computer
+
+cacm april 1959
+
+ercoli p
+vacca r
+
+ca590402 jb march 22 1978  7:13 pm

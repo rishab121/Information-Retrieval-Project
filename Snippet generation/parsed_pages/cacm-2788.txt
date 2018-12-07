@@ -1,0 +1,16 @@
+
+
+
+finding circles by an array of accumulators
+
+cacm february 1975
+
+kimme c
+balard d
+sklansky j
+
+picture processing pattern recognition curve detectionline fitting
+
+3.63
+
+ca750211 jb january 10 1978  9:15 am

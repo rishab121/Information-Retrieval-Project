@@ -1,0 +1,30 @@
+
+
+
+the technology of computer center management a
+proposed course for graduate professional programs 
+in computer science or in information systems
+
+mcfarlan and nolan have made a strong case for
+adding a course on information systems administration 
+to the 13 courses proposed by the acm curriculum committee
+on computer education for management for graduate 
+professional programs in information systems  this paper
+is a report on a course entitled the technology 
+of computer center management which has been offered
+at purdue for the past four years  the course 
+is suitable either for graduate professional programs
+in information systems or for graduate professional 
+programs in computer science
+
+cacm july 1976
+
+conte s d
+halstead m h
+
+education information systems administration computer
+center management computer system performance
+
+1.52 2.4 3.51 4.6
+
+ca760701 jb january 4 1978  1:31 pm

@@ -1,0 +1,29 @@
+
+
+
+syntax-directed documentation for pl 360
+
+the language pl 360 together with its phrase structure grammar is used as a 
+concrete basis for illustrating an idea called syntax-directed documentation 
+this idea is 1 to use the phrase structure of a program to define the 
+structure of a formal documentation for that program 2 to use the syntactic 
+types and identifiers in the resulting structure to trigger the automatic
+formation of questions to the programmer whose answers will
+become part of that documentation and 3 to provide automatic storage
+and retrieval facilities so that other programmers who want
+to understand or modify the program can access the resulting documentation
+which is cross-indexed in various ways by syntactic types
+and objects  a small pl 360 program already found
+in the literature is worked out as an example
+
+cacm april 1970
+
+mills h d
+
+documentation syntax analysis pl 360 enforced documentation
+indexed documentation automatic interrogation
+phase structured grammar syntax-directed documentation syntax processing
+
+3.59 3.79 4.19 4.43
+
+ca700402 jb february 13 1978  3:28 pm

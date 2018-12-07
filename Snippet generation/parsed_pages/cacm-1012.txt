@@ -1,0 +1,32 @@
+
+
+
+formal parsing systems
+
+automatic syntactic analysis has recently become
+important for both natural language data processing 
+and syntax-directed compilers  a formal parsing system
+g  vutr consists of two finite disjoint 
+vocabularies v and t a many-many map u from v onto
+t and a recursive set r of strings in t called 
+syntactic sentence classes  every program for automatic
+syntactic analysis determines a formal parsing 
+system  a directed production analyzer itxp is a
+nondeterministic pushdown-store machine with internal 
+vocabulary i input vocabulary t and all productions
+of p in the form  za  ay1  ym where  z 
+yi are elements of the set i and a is an element of the
+set t  every context-free language can be analyzed 
+by a directed production analyzer  the kuno-oettinger
+multiple-path syntactic analyzer for english is 
+a concrete example of a directed production analyzer
+and of a working parsing algorithm  the connection 
+between structures assigned by the analyzer and those of
+a conventional phrase structure grammar is examined 
+in this paper
+
+cacm august 1964
+
+greibach s a
+
+ca640818 jb march 9 1978  6:30 pm

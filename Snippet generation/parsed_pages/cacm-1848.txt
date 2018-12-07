@@ -1,0 +1,16 @@
+
+
+
+the damped taylors series method for minimizing
+a sum of squares and for solving systems of 
+nonlinear equations algorithm 315 e4 c5
+
+cacm september 1969
+
+silverman g
+
+solution of equations least squares approximation newtons method
+
+5.13 5.14 5.15
+
+ca690907 jb february 15 1978  4:32 pm

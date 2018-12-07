@@ -1,0 +1,11 @@
+
+
+
+symbol manipulation by threaded lists corrigendum
+
+cacm june 1960
+
+perlis a j
+thornton c
+
+ca600614 jb march 20 1978  9:26 pm

@@ -1,0 +1,17 @@
+
+
+
+octal diagrams of binary conception and
+their applicability to computer design logic
+
+this paper dates back the genesis of binary
+conception circa 5000 years ago and octal diagrams 
+about 4800 years ago as derived by the chinese ancients
+ it analyzes the applicability of binary trinities 
+of the octal diagrams to modern electronic-digital-computer design logic
+
+cacm september 1959
+
+li s t
+
+ca590906 jb march 22 1978  4:47 pm

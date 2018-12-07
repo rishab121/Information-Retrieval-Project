@@ -1,0 +1,22 @@
+
+
+
+   algem  an algebraic manipulator
+
+   algem is a package of subprograms written in slip fortran iv and map 7094 
+ii to manipulate algebraic expressions algems basic algebraic operations are 
+additions subtractions multiplications division and exponentiation it is 
+capable of handling any number of single letter variables variable exponents 
+and of finding the highest common factor of two polynomials also included are
+such functions as substitution differentiation determining coefficients of
+specified variables solving a linear equation basic i/o routines plus other
+special purpose and arithmetic routines the major innovation of algem over 
+other manipulators is the assignment of types to all expressions and the use 
+of a standard ordering procedure
+
+cacm august 1966
+
+gotlieb c c
+novak r j
+
+ca660813 es march 17 1982 10:10 am

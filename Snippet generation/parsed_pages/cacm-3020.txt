@@ -1,0 +1,31 @@
+
+
+
+systematic recursion removal
+
+the recursion removal algorithm presented
+by strong and walker is amplified and applied to 
+a relatively complex pl/i program  the aim is to demonstrate
+systematic recursion-removal techniques 
+on something more complex than knuths sturdy toddler
+and to obtain measurements of the cost of procedure 
+linkage in pl/i and the savings achievable via procedure
+integration in the presence of recursion  first 
+the paper describes the recursion-removal process and the
+example on which it will be illustrated  recursion 
+removal is then applied to the two major parts of this
+example and the final result of the process is 
+displayed  our performance comparison results are presented
+and our conclusions are briefly discussed 
+
+cacm february 1978
+
+auslander m
+strong h
+
+recursion removal recursion elimination optimization
+procedure linkage procedure integration
+
+4.19 4.49 4.9 5.24
+
+ca780203 jb march 28 1978  4:26 pm

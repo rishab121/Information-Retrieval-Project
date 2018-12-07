@@ -1,0 +1,28 @@
+
+
+
+the structure of yet another algol compiler
+
+a high-speed top down method of syntax analysis
+which completely eliminates back-up of 
+the source string has been implemented in a convenient
+macro-language  a technique of  simulation at 
+compile time of the use of a conventional run-time stack
+enables the generation of code for expressions 
+which minimizes stores fetches and stack-pointer motion
+at run time while properly trating recursion 
+and side effects of procedures  block structure and
+recursion are handled without need for interpretive 
+methods at run times  the context problem in the transmission
+to recursive procedures of parameters 
+called by name is solved in a manner which permits the
+handling of the common cases of simple expressions 
+and array identifiers with particular efficiency
+
+cacm july 1965
+
+kanner h
+kosinski p
+robinson c l
+
+ca650701 jb march 6 1978  9:29 pm

@@ -1,0 +1,26 @@
+
+
+
+automatic error analysis for determining precision
+
+the problem considered is that of evaluating a
+rational expression to within any desired tolerance 
+on a computer which performs variable-precision floating-point
+arithmetic operations    an automatic 
+error analysis technique is given for determining directly
+from the results of a trial low-precision 
+interval arithmetic calculation just how much precision
+and data accuracy are required to achieve a 
+desired final accuracy  the technique given generalize
+easily to the evaluation of many nonrational 
+expressions
+
+cacm september 1972
+
+richman p l
+
+error analysis interval arithmetic precision control
+
+5.11
+
+ca720904 jb january 27 1978  4:39 pm

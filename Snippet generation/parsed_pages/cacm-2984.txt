@@ -1,0 +1,23 @@
+
+
+
+cost/utilization a measure of system performance
+
+a method is presented for evaluating computer
+system performance in terms of a cost/utilization 
+factor and a measure of imbalance  these coefficients
+indicate the extent to which the total system 
+cost is effectively utilized  the method includes a
+technique for the visual representation of system 
+performance
+
+cacm march 1977
+
+borovits i
+ein-dor p
+
+computer system performance evaluation cost/utilization system balance
+
+2.44
+
+ca770308 jb december 29 1977  6:41 am

@@ -1,0 +1,23 @@
+
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a distributed information system in presented  the model
+describes the major costs of using an information
+system from the perspective of the end-user  the making evident the effect of
+various design and operating parameters on overall cost per transaction
+ the technique is illustrated by application to the design
+of an interactive transaction processing system
+
+cacm april 1979
+
+bucci g
+streeter d
+
+distributed processing system design cost minimization distributed
+database interactive computing economic modeling transaction processing
+
+4.32 4.33 6.2 8.1
+
+ca790403 dh may 21 1979  1:25 pm

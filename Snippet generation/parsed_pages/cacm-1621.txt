@@ -1,0 +1,20 @@
+
+
+
+computer typesetting of algol
+
+an application of computer-aided typesetting
+is introduced  a working method is described 
+for publishing algol by computerized translation from
+hardware into reference representation computerized 
+planning of typographical lay-out and computerized control
+of a typesetting machine  the point is made 
+that experts in science technology and programming are
+guaranteed a correct algol documentation without 
+spending valuable time and power on typographic considerations and proofreading
+
+cacm march 1967
+
+sydow l v
+
+ca670308 jb february 28 1978  1:12 pm

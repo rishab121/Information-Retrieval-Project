@@ -1,0 +1,26 @@
+
+
+
+proving monitors
+
+interesting scheduling and sequential properties
+of monitors can be proved by using state variables 
+which record the monitors history and by defining extended
+proof rules for their wait and signal operations 
+ these two techniques are defined discussed and applied
+to examples to prove properties such as freedom 
+from indefinitely repeated overtaking or unnecessary waiting
+upper bounds on queue lengths and historical 
+behavior
+
+cacm may 1976
+
+howard j
+
+monitors correctness proof rules historical variables
+concurrency scheduling bounded buffer 
+semaphores alarm clock disk head
+
+4.32 4.35 5.24
+
+ca760505 jb january 4 1978  3:28 pm

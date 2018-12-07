@@ -1,0 +1,25 @@
+
+
+
+synthesis of decision rules
+
+decision tables can be used as an effective
+tool during an interview to record the logic of 
+processes to be automated  the result of such an interview
+is not a structure of complete decision tables 
+but rather sets of decision rules  the purpose of this
+paper is to provide a procedure for synthesizing 
+the decision rules and thus provide an aid in developing
+a structure of complete decision tables
+
+cacm july 1976
+
+cheng c
+rabin j
+
+decision rules decision tables logical tables
+logical design system design specification language
+
+3.50 4.33
+
+ca760705 jb january 4 1978  12:39 pm

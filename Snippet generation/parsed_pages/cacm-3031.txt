@@ -1,0 +1,33 @@
+
+
+
+abstract data types and software validation
+
+a data abstraction can be naturally specified
+using algebraic axioms  the virtue of these 
+axioms is that they permit a representation-independent
+formal specification of a data type  an example 
+is given which shows how to employ algebraic axioms at
+successive levels of implementation  the  major 
+thrust of the paper is twofold  first it is shown how
+the use of algebraic axiomatizations can simplify 
+the process of proving the correctness of an implementation
+of an abstract data type  second semi-automatic 
+tools are described which can be used both to automate
+such proofs of correctness and to derive an immediate 
+implementation from the axioms  this implementation
+allows for limited testing of programs at design 
+time before a conventional implementation is accomplished
+
+cacm december 1978
+
+guttag j
+horowitz e
+musser d
+
+abstract data type correctness proof
+data type data structure specification 
+
+4.34 5.24
+
+ca781208 dh january 18 1979  2:51 pm

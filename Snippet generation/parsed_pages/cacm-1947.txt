@@ -1,0 +1,27 @@
+
+
+
+object code optimization
+
+methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency
+ dominance relationships indicating which 
+statements are necessarily executed before others are
+used to do global common expression elimination 
+and loop identification  implementation of these and other
+optimizations in os/360 fortran h are described
+
+cacm january 1969
+
+lowry e s
+medlock c w
+
+compilers data flow analysis dominance efficiency
+fortran  graph theory loop structure machine 
+instructions object code optimization redundancy
+elimination register assignment system/360
+
+4.12 5.24 5.32
+
+ca690102 jb february 20 1978  12:15 pm

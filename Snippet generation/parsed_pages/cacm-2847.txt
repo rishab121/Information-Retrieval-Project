@@ -1,0 +1,25 @@
+
+
+
+sampling from the gamma distribution on a computer
+
+this paper describes a method of generating
+gamma variates that appears to be less costly than 
+wallaces recently suggested method  for large shape parameter
+a the cost of computation is proportional 
+to a whereas wallaces method is proportional to a
+ experimentation by robinson and lewis indicates 
+that for small a the method suggested here also dominates
+methods recently suggested by dieter and 
+ahrens albeit those methods dominate for large a  the
+method suggested here uses the rejection technique
+
+cacm july 1976
+
+fishman g s
+
+gamma variates reflection method sampling
+
+5.5 8.1 8.3
+
+ca760706 jb january 4 1978  12:34 pm

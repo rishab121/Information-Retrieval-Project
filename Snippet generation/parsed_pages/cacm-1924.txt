@@ -1,0 +1,33 @@
+
+
+
+organizing matrices and matrix operations for paged memory systems
+
+matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory system  it is shown that
+carefully designed matrix algorithms can lead to 
+enormous savings in the number of page faults occurring
+when only a small part of the total matrix can 
+be in main memory at one time  examination of addition
+multiplication and inversion algorithms shows 
+that a partitioned matrix representation ie one submatrix
+or partition per page in most cases induced 
+fewer page faults than a row-by-row representation
+ the number of page-pulls required by these matrix 
+manipulation algorithms is also studied as a function
+of the number of pages of main memory available 
+to the algorithm
+
+cacm march 1969
+
+mckellar a c
+coffman jr e g
+
+matrix algorithms array processing paging algorithms
+paged memory systems virtual memory systems 
+array storage allocation storage allocation
+
+4.12 4.39 5.14
+
+ca690303 jb february 20 1978  9:35 am

@@ -1,10 +1,10 @@
 system
 computer
 time-sharing
-cacm
 memory
-1978
+cacm
 jb
+1978
 scheduling
 sharing
-algorithms
+communication

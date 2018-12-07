@@ -1,0 +1,18 @@
+
+
+
+on the representation of symmetric polynomials
+
+relations are given between certain symmetric
+polynomials in the light of the theory of the 
+symmetric group  such an approach unifies earlier work
+and lends insight to previously published work 
+by aaron booker  a generalization of graeffes root-squaring
+technique for the determination of the 
+roots of a polynomial is suggested
+
+cacm july 1967
+
+mckay j k s
+
+ca670706 jb february 28 1978  8:56 am

@@ -1,0 +1,24 @@
+
+
+
+generating prime implicants via ternary encoding and decimal arithmetic
+
+decimal arithmetic ternary encoding of cubes
+and topological considerations are used in an 
+algorithm to obtain the extremals and prime implicants
+of boolean functions the algorithm which has 
+been programmed in the fortran language generally requires
+less memory than other minimization procedures 
+and treats dont care terms in an efficient manner
+
+cacm july 1968
+
+dietmeyer d l
+duley j r
+
+prime implicants extremal switching function
+minimization cubical complexes ternary encoding
+
+3.24 6.1
+
+ca680712 jb february 22 1978  11:30 am

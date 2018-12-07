@@ -1,0 +1,22 @@
+
+
+
+an algorithm for the probability of
+the union of a large number of events
+
+an algorithm is presented which efficiently evaluates
+the probability for the union of n independent 
+and not mutually exclusive events the problem is that
+of evaluating the sums of the products of all 
+possible combinations of n variables in minimum time and storage space
+
+cacm september 1968
+
+miller g d
+
+algorithm probability optimum storage vs time
+compromise set union mutually exclusive events
+
+5.12 5.5 5.6
+
+ca680907 jb february 22 1978  8:45 am

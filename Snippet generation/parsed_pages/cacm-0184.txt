@@ -1,0 +1,11 @@
+
+
+
+a short method for measuring error in a least-squares power series
+
+cacm june 1960
+
+robinson s m
+struble g w
+
+ca600606 jb march 20 1978  9:41 pm

@@ -1,0 +1,11 @@
+
+
+
+recursive functions of symbolic expressions
+and their computation by machine part i
+
+cacm april 1960
+
+mccarthy j
+
+ca600401 jb march 22 1978  1:57 pm

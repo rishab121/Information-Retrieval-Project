@@ -1,0 +1,28 @@
+
+
+
+an implementation of structured walk-throughs
+in teaching cobol programming
+
+the effectiveness of structured
+walk-throughs in teaching introductory cobol programming was empirically
+assessed with a sample of 215 under-graduate business administration
+majors  cobol proficiency was measured by a final examination
+testing a knowledge of language rules b ability to read
+and debug a program and c the ability to write a program  analysis
+of multiple covariance was used to statistically adjust test
+scores for age and conditional reasoning scores the findings provide
+empirical support for incorporating structured walk-throughs
+into the programming learning process more effectively
+develop student proficiency in writing cobol programs
+
+cacm june 1979
+
+lemos r
+
+structured walk-throughs cobol programming teaching
+of programming testing programming proficiency
+
+3.51 1.52 2.42 4.22
+
+ca790601 dh august 21 1979 3:19 pm

@@ -1,0 +1,25 @@
+
+
+
+the lemniscate constants
+
+the lemniscate constants and indeed some
+of the methods used for actually computing them 
+have played an enormous part in the development of
+mathematics  an account is given here of some of 
+the methods used-most of the derivations can be made
+by elementary methods  this material can be used 
+for teaching purposes and there is much relevant and
+interesting historical material  the acceleration 
+methods developed for the purpose of evaluating
+these constants are useful in other problems
+
+cacm january 1975
+
+todd j
+
+lemniscate acceleration elliptic functions euler transformation
+
+1.2 5.0
+
+ca750103 jb january 12 1978  10:51 am

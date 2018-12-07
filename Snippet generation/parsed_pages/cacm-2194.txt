@@ -1,0 +1,36 @@
+
+
+
+how to keep the addresses short
+
+an algorithm is presented for minimizing the
+sum of the lengths of the blocks of coding produced 
+by an assembler or compiler when 1 the length of
+each computer instruction is assumed to be either 
+long or short long if the memory location addressed
+is more than a predetermined distance from 
+the current location short otherwise and 2
+there are blocks of instructions whose beginnings 
+origins are separated by prespecified amounts for example
+some computers permit either 8-bit addressing 
+interpreted relative to the location counter or full
+16-bit addressing of all of memory  when assembling 
+or compiling two or more blocks of instructions which
+have many mutual references in such a computer 
+there is no simple iterative procedure for keeping
+as many of the addresses short as possible  this 
+paper demonstrates that a wide class of problems of
+this type can be formulated as covering problems 
+solvable by means of elementary arithmetic operations
+on the column vectors of a ternary matrix
+
+cacm may 1971
+
+richards d l
+
+addressing assembler covering problem integer
+programming variable-length addressing
+
+4.11 4.12 4.21 5.41
+
+ca710505 jb february 3 1978  2:40 pm

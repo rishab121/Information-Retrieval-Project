@@ -1,0 +1,26 @@
+
+
+
+interactive consulting via natural language
+
+interactive programming systems often contain
+help commands to give the programmer on-line 
+instruction regarding the use of the various systems
+commands  it is argued that it would be relatively 
+easy to make these help commands significantly more
+helpful by having them accept requests in natural 
+language  as a demonstration weizenbaums eliza program
+has been provided with a script that turns 
+it into a natural language system consultant
+
+cacm august 1975
+
+sharo s c
+kwasny s c
+
+interactive programming time-sharing systems natural
+language processing computer assisted instruction
+
+3.32 3.42 3.79 4.49
+
+ca750805 dmm january 30 1978  4:13 pm

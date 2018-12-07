@@ -1,0 +1,15 @@
+
+
+
+a note on best one-sided approximations
+
+cacm september 1971
+
+phillips d l
+
+best approximation one-sided approximation
+logarithmic error relative error
+
+5.11 5.13
+
+ca710905 jb february 2 1978  2:15 pm

@@ -1,0 +1,20 @@
+
+
+
+a storage allocation scheme for algol 60
+
+a storage allocation scheme for a machine
+with a 2048 instruction core store and a magnetic 
+drum is described  the use of the drum for storing
+program blocks and/or data must be directed by the 
+programmer through auxiliary information in the algol
+program  the administrative routines controlling 
+the storage at run time are described in full  a detailed example is given
+
+cacm october 1961
+
+jensen j
+mondrup p
+naur p
+
+ca611009 jb march 16 1978  12:54 pm

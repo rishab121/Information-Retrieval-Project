@@ -1,0 +1,29 @@
+
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax 
+in particular of algol is described in this paper 
+a fortran ii computer program for carrying out the 
+elimination algorithm of gornsimilar to gaussian elimination
+for linear systems of algebraic equations 
+is described  this was applied to numerous smaller
+languages including some sublanguage of algol  
+a hand calculation result of the application of the algorithm
+to all of algol is given thus expressing 
+the revised algol 1960 syntax in completely nonrecursive
+terms as far as its context-free portion is 
+concerned  this description in many ways is far more
+intuitively understood than the previous recursive 
+description it is suggested  the paper also includes
+results of the machine program which does not 
+include a simplification algorithm
+
+cacm april 1966
+
+carr iii j w
+weiland j
+
+ca660402 jb march 3 1978  11:02 am

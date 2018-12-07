@@ -1,0 +1,28 @@
+
+
+
+topological sorting of large networks
+
+topological sorting is a procedure required
+for many problems involving analysis of networks 
+ an example of one such problem is pert  the present
+paper presents a very general method for obtaining 
+topological order  it permits treatment of larger networks
+than can be handled on present procedures 
+and achieves this with greater efficiency  although
+the procedure can be adapted to any machine it 
+is discussed in terms of the 7090  a pert network of
+30,000 activities can be ordered in less than one 
+hour of machine time  the method was developed as
+a byproduct of procedures needed by westinghouse 
+baltimore  it has not been programmed and at present
+there are no plans to implement it  in regard 
+to the techniques described westinghouses present
+and anticipated needs are completely served by the 
+lockheed program which is in current use
+
+cacm november 1962
+
+kahn a b
+
+ca621120 jb march 17 1978  5:58 pm

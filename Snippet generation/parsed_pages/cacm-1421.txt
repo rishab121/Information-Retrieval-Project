@@ -1,0 +1,23 @@
+
+
+
+a contribution to the development of algol
+
+a programming language similar in many respects
+to algol 60 but incorporating a large number 
+of improvements based on six years experience with that
+language is described in detail  part i consists 
+of an introduction to the new language and a summary
+of the changes made to algol 60 together with a 
+discussion of the motives behind there visions  part ii
+is a rigorous definition of the proposed language 
+ part iii describes a set of proposed standard procedures
+to be used with the language including facilities 
+for input/output
+
+cacm june 1966
+
+wirth n
+hoare c a r
+
+ca660601 jb march 3 1978  9:07 am

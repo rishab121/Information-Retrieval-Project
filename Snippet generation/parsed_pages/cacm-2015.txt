@@ -1,0 +1,26 @@
+
+
+
+a technique for generating almost optimal
+floyd-evans productions for precedence grammars
+
+a technique is developed for generating almost optimal floyd-evans productions 
+given a precedence grammar a graph formulation is used for the problem of 
+merging productions  the productions generated correspond to the minimum cost 
+inverse-arborescence of that graph  the validity of the technique is
+demonstrated for weak precedence grammars defined here but the productions
+mechanically generated for any precedence grammar can often be modified in 
+such a way that correct almost optimal parsers are obtained
+
+cacm august 1970
+
+ichbiah j d
+morse s p
+
+translator writing systems syntactic analysis floyd-evans
+productions precedence grammars translator optimization
+merger algorithm minimum cost inverse-arborescence graph theory
+
+4.12 5.23 5.32
+
+ca700806 jb february 10 19783:38 pm

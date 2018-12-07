@@ -1,0 +1,19 @@
+
+
+
+testing a random number generator
+
+the first 1,000,000 numbers produced by the
+random number generator used in the general purpose 
+systems simulator gpss were subjected to statistical
+tests  the tests are described and the results 
+of the tests are presented  these particular tests indicate
+that the numbers are satisfactory  it is 
+recommended that suitable tests be applied to all
+random numbers used in computer simulations
+
+cacm february 1967
+
+gorenstein s
+
+ca670211 jb february 28 1978  2:10 pm

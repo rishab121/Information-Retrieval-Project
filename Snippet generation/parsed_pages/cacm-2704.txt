@@ -1,0 +1,24 @@
+
+
+
+exception handling issues and a proposed notation
+
+this paper defines exception conditions discusses
+the requirements exception handling language 
+features must satisfy and proposes some new language
+features for dealing with exceptions in an orderly 
+and reliable way  the proposed language features serve
+to highlight exception handling issues by showing 
+how deficiencies in current approaches can be remedied
+
+cacm december 1975
+
+goodenough j b
+
+multilevel exit goto statement error conditions
+structured programming on conditions programming 
+languages
+
+4.22
+
+ca751203 jb january 5 1978  4:47 pm

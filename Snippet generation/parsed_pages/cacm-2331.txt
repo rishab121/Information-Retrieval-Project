@@ -1,0 +1,15 @@
+
+
+
+an integer programming problem algorithm r397
+
+cacm june 1972
+
+johnson s c
+kernighan b w
+
+integer programming change-making problem
+
+5.41
+
+ca720614 jb january 30 1978  3:55 pm

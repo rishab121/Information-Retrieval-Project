@@ -1,0 +1,22 @@
+
+
+
+a reprogramming machine
+
+in this paper a description is given of a model
+programming system which is directed by a programming 
+language and has a library for storing the users items
+ rules are given for transforming programs written 
+in the language and for rearranging the items in the
+library so that they share their common parts  
+some speculations are made about how the mechanical
+detection of common parts or patterns of library 
+items could help a user to solve his problems and about
+the relationships between the behavior of the 
+reprogramming machine and human intelligent behavior
+
+cacm february 1966
+
+burge w h
+
+ca660201 jb march 3 1978  3:50 pm

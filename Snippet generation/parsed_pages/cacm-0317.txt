@@ -1,0 +1,10 @@
+
+
+
+on the approximation of curves by line segments using dynamic programming
+
+cacm june 1961
+
+bellman r
+
+ca610608 jb march 16 1978  10:31 pm

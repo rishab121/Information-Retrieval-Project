@@ -1,0 +1,29 @@
+
+
+
+detection of logical errors in decision table programs
+
+in this paper an algorithm to detect logical
+errors in a limited-entry decision table and in 
+loop-free programs with embedded decision tables is developed
+ all the conditions in the decision tables 
+are assumed to be inequalities or equalities relating
+linear expressions  it is also assumed that actions 
+in a decision table are linear in variables which occur
+in the condition stub of the decision table or 
+tables to which control is transferred from the table
+ the algorithm is based on determining whether 
+a set of linear inequalities has or does not have a
+solution  the algorithm described in the paper is 
+implemented in fortran iv
+
+cacm december 1978
+
+ibramsha m
+rajaraman v
+
+error diagnostics decision tables
+
+3.5 4.1 4.42 5.24
+
+ca781205 dh january 18 1979  4:06 pm

@@ -1,0 +1,28 @@
+
+
+
+a generalization of avl trees
+
+a generalization of avl trees is proposed in
+which imbalances up to triangle shape is a small 
+integer  an experiment is performed to compare these
+trees with standard avl trees and with balanced 
+trees on the basis of mean retrieval time of amount
+of restructuring expected and on the worst case 
+of retrieval time  it is shown that by permitting
+imbalances of up to five units the retrieval time 
+is increased a small amount while the amount of restructuring
+required is decreased by a factor of ten 
+ a few theoretical results are derived including the correction
+of an earlier paper and are duly compared 
+with the experimental data  reasonably good correspondence is found
+
+cacm august 1973
+
+foster c c
+
+avl trees balanced trees information storage and retrieval
+
+3.7 3.72 4.49 5.31
+
+ca730819 jb january 23 1978  10:13 am

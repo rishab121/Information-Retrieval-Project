@@ -1,0 +1,18 @@
+
+
+
+data input by question and answer
+
+a data input scheme for a time-sharing computer
+is described in this paper  instead of using
+format statements to determine the input the computer
+asks the user for the required values one at a 
+time  the computer converses with the user during the
+input process checks for errors provides standard 
+data and allows editing of values input
+
+cacm april 1965
+
+pyle i c
+
+ca650410 jb march 7 1978  3:48 pm

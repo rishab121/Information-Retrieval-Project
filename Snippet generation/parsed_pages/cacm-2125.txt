@@ -1,0 +1,26 @@
+
+
+
+a note on minimal length polygonal approximation to a digitized contour
+
+a method for extracting a smooth polygonal
+contour from a digitized image is illustrated
+the ordered sequence of contour points and the connection graph of
+the image are first obtained by a modified ledley algorithm in one
+image scan  a minimal perimeter polygon subjected to specified constraints
+is then chosen as the approximating contour  the determination of the minimal 
+polygon can be reduced to a nonlinear programming
+problem solved by an algorithm which takes into account
+the weak bonds between variables  some examples are presented
+and the corresponding computing times are listed
+
+cacm january 1970
+
+montanari u
+
+digitized image connection tree minimal polygon
+optimal approximation nonlinear programming
+
+3.63 5.13 5.17
+
+ca700106 jb february 14 1978  2:00 pm

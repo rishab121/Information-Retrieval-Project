@@ -1,0 +1,21 @@
+
+
+
+a crt editing system
+
+a test-editing and manipulation program is described
+ the program operates from low-cost cathode-ray 
+tube entry and display stations with keyboard and 13
+function buttons applications potential economy 
+of operation and some aspects of implementation are discussed
+
+cacm january 1972
+
+irons e t
+djorup f m
+
+editing text cathode-ray tube entry display time-sharing
+
+3.7 4.3
+
+ca720104 jb february 1 1978  9:31 am

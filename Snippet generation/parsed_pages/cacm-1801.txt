@@ -1,0 +1,16 @@
+
+
+
+analysis of variance for balanced experiments algorithm 367 g2
+
+cacm december 1969
+
+claringbold p j
+
+analysis of variance analysis of covariance regression
+analysis experimental design balanced 
+experiment missing data interblock estimate intra block estimate
+
+5.14 5.5
+
+ca691211 jb february 15 1978  2:14 pm

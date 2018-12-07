@@ -1,0 +1,33 @@
+
+
+
+a back-end computer for data base management
+
+it is proposed that the data base management
+function be placed on a dedicated back-end computer 
+which accepts commands in a relatively high level language
+such as the codasyl data base task group 
+april 1971 report from a host computer accesses the
+data base on secondary storage and returns results 
+ the advantages of such a configuration are discussed  an
+experimental implementation called the experimental 
+data management system xdms is described and certain
+conclusions about the back-end approach are drawn 
+from this implementation
+
+cacm october 1974
+
+canaday r h
+harrison r d
+ivie e l
+ryder j l
+wehr l a
+
+data base management information retrieval computer
+configurations computer networks data base 
+task group language data base protection
+data base portability back-end computer
+
+3.79 4.22 4.33 4.35
+
+ca741005 jb january 16,1978  12:35 pm

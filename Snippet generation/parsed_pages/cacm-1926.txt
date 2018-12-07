@@ -1,0 +1,26 @@
+
+
+
+description of format a text-processing program
+
+format is a production program which facilitates
+the editing and printing of finished documents 
+directly on the printer of a relatively small 64k computer
+system  it features good performance totally 
+free-form input very flexible formatting capabilities
+including up to eight columns per page automatic 
+capitalization aids for index construction and a
+minimum of nontext items  it is written entirely 
+in fortran iv
+
+cacm march 1969
+
+berns g m
+
+text processing indexing printing documentation
+text editing formatting frequency dictionary 
+right justification vocabulary
+
+3.74 3.75 3.9
+
+ca690301 jb february 20 1978 9:45 am

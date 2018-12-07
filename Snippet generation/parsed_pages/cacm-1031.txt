@@ -1,0 +1,14 @@
+
+
+
+a note on starting the newton-raphson method
+
+determination of a suitable initial estimate
+for a root of an equation fx  0 by means of 
+computing the roots of a sequence of related equations is described
+
+cacm july 1964
+
+beyer w a
+
+ca640716 jb march 9 1978  7:44 pm

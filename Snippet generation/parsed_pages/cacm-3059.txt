@@ -1,0 +1,33 @@
+
+
+
+models for parallel processing within programs
+application to cpui/o and i/oi/o overlap
+
+approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed 
+system are developed in this paper  the solution technique
+is developed by network decomposition  the 
+models are formulated in terms of cpui/o and i/oi/o overlap
+and applied to the analysis of these problems 
+ the percentage performance improvement from cpui/o
+overlap is found to be greatest for systems which 
+are in approximate cpui/o utilization balance and for
+low degrees of multiprogramming  the percentage 
+improvement from i/oi/o overlap is found to be greatest
+for systemtems in which the i/o system is more 
+utilized than the cpu
+
+cacm october 1978
+
+towsley d
+chandy k
+browne j
+
+multiprogramming parallel processing queueing
+network models multiprocessing of computation 
+and i/o 
+
+4.32 8.1
+
+ca781002 dh january 29 1979  6:23 pm

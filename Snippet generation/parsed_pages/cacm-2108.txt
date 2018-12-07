@@ -1,0 +1,18 @@
+
+
+
+a variation on sorting by address calculation
+
+the principles of address calculation and merging are combined to yield an
+efficient sorting technique detailed flowcharts of the most important program
+steps are included the characteristics of the proposed sort are discussed
+
+cacm february 1970
+
+jones b
+
+sorting address calculation merging order sequence creation
+
+4.49 5.31
+
+ca700207 jb february 14 1978  10:24 am

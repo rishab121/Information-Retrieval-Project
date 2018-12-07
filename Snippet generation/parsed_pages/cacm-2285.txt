@@ -1,0 +1,22 @@
+
+
+
+computer routine for quadratic and linear
+programming problems h algorithm a431
+
+a computer program based on lemkes complementary
+pivot algorithm is presented  this can be 
+used to solve linear and quadratic programming problems
+ the program has been extensively tested on
+a wide range of problems and the results have been extremely satisfactory
+
+cacm september 1972
+
+ravindran a 
+
+linear program quadratic program complementary
+problem lemkes algorithm simplex method
+
+5.41
+
+ca720905 jb january 27 1978  4:34 pm

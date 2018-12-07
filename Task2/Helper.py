@@ -26,8 +26,8 @@ class Helper:
                         tf_doc = int(element.split(':')[1].strip())
                         self.unigram_inverted_index[term][doc_id] = tf_doc
                     except IndexError as e:
-                        print (line_list)
-                        print (element)
+                        print line_list
+                        print element
 
     def create_number_of_terms_doc_dict(self):
         with open('number_of_terms_unigram.txt', 'r') as f:

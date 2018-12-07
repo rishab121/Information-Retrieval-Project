@@ -1,0 +1,19 @@
+
+
+
+on the proof of correctness of a calendar program
+
+a formal specification is given for a simple calendar
+program and the derivation and proof of correctness of the program are 
+sketched  the specification is easy to understand and its correctness is 
+manifest to humans
+
+cacm october,1979
+
+lamport l
+
+program specification program verification inductive assertions
+
+5.24
+
+ca791003 db january 16 1980  5:02 pm

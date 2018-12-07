@@ -1,0 +1,37 @@
+
+
+
+optimal shift strategy for a block-transfer ccd memory
+
+for the purposes of this paper a block-transfer
+ccd memory is composed of serial shift registers 
+whose shift rate can vary but which have a definite minimum
+shift rate the refresh rate and a definite 
+maximum shift rate  the bits iin the shift registers
+are numbered 0 to n  1 and blocks of n bits are 
+always transferred always starting at bit 0   what
+is the best shift strategy so that a block transfer 
+request occurring at a random time will have to wait the
+minimal amount of time before bit 0 can be reached 
+ the minimum shift rate requirement does not allow one
+to  simply park at bit 0 and wait for a transfer 
+request  the optimal strategy involves shifting as slowly
+as possible until bit 0 is passed then shifting 
+as quickly as possible until a critical boundary is
+reached shortly before bit 0 comes around again 
+ this is called the hurry up and wait strategy and is well
+known outside the computer field  the block-transfer 
+ccd memory can also be viewed as a paging drum
+with a variable bounded rotation speed
+
+cacm may,1978
+
+sites r
+
+paging drum charge coupled devices shift register
+memory memory hierarchy electronic drum 
+latency
+
+3.72 5.39 6.34 6.35
+
+ca780510 dh february 26 1979  1:05 pm

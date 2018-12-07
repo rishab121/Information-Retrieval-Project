@@ -1,0 +1,41 @@
+
+
+
+computer simulation-discussion of the
+technique and comparison of languages 
+
+the purpose of this paper is to present a comparison
+of some computer simulation languages 
+and of some of the involved in comparing software packages
+for digital computers are discussed in part 
+i  the issue is obvious users of digital computers
+must choose from available languages or write their 
+own  substantial costs can occur particularly in training
+implementation and computer time if an inappropriate 
+language is chosenore and more computer simulation
+languages are being developed comparisons and 
+evaluations of existing languages are useful for designers
+and implementers as well as users  the second 
+part is devoted to computer simulation and simulation
+languages  the computational characteristics of 
+simulation are discussed with  special attention being
+paid to a distinction between continuous and discrete 
+change models  part iii presents a detailed comparison
+of six simulation languages and packages simscript 
+clp csl gasp cpss and sol  the characteristics of
+each are summarized in a series of tables  the 
+implications of this analysis for designers of languages
+for users and for implementers are developed 
+ the conclusion of the paper is that the packages now
+available for computer simulation offer features 
+which none of the more general-purpose packages do and
+that analysis of strengths and weaknesses of each 
+suggests ways in which both current and future simulation
+languages and packages can be improved
+
+cacm october 1966
+
+teichroew d
+lubin j f
+
+ca661001 jb march 2 1978  4:23 pm
