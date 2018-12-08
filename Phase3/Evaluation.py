@@ -197,20 +197,23 @@ populateRelevantDictionary()
 # populateOutputRelevantDictionary('TF-IDF_Output_Stopping')
 # populateResponseList('TF-IDF_Evaluation_Stopping_Output/','tfidf_stop')
 
-populateOutputRelevantDictionary('BM_Output')
-populateResponseList('BM_EvaluationOutput/','bm25')
+# populateOutputRelevantDictionary('BM_Output')
+# populateResponseList('BM_EvaluationOutput/','bm25')
 
 # populateOutputRelevantDictionary('JM_Output')
-# populateResponseList('JM_EvaluationOutput/')
+# populateResponseList('JM_EvaluationOutput/','jm')
 
 # populateOutputRelevantDictionary('JM_Output_Stopping')
-# populateResponseList('JM_Evaluation_Stopping_Output/')
+# populateResponseList('JM_Evaluation_Stopping_Output/','jm_stop')
 
 # populateOutputRelevantDictionary('BM_OutputWithFeedback')
-# populateResponseList('BM_QueryEnrichmentEvaluationOutput/')
+# populateResponseList('BM_QueryEnrichmentEvaluationOutput/','bm_queryEnrichment')
 
 # populateOutputRelevantDictionary('BM_Output_Stopping')
-# populateResponseList('BM_Evaluation_Stopping_Output/')
+# populateResponseList('BM_Evaluation_Stopping_Output/','bm_stop')
+
+# populateOutputRelevantDictionary('LuceneOutput')
+# populateResponseList('Lucene_EvaluationOutput/','lucene')
 
 
 
