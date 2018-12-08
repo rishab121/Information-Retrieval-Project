@@ -1,0 +1,100 @@
+cacm-3175 : breaking substitution ciphers using 
+cacm-2497 : synchronizing processors with memory-content-generated 
+cacm-1409 : nebula a digital computer 
+cacm-2514 : an array grammar programming 
+cacm-2515 : minimal event-node network of 
+cacm-1660 : index by subject to 
+cacm-2903 : applied to two <b>algorithms</b> which solve pattern matching 
+cacm-1471 : programming semantics for multiprogrammed 
+cacm-1928 : exclusive simulation of activity 
+cacm-2865 : verifying properties of parallel 
+cacm-2175 : subexpression ordering in the 
+cacm-2785 : glypnir-a programming language for 
+cacm-2080 : the nucleus of a 
+cacm-2283 : thinning <b>algorithms</b> on rectangular hexagonal and 
+cacm-2674 : scan conversion <b>algorithms</b> for a cell organized 
+cacm-3075 : fast parallel sorting <b>algorithms</b> a parallel bucket-sort algorithm 
+cacm-2007 : <b>algorithms</b> policy/revised august 1970 cacm 
+cacm-0950 : parallel methods for integrating 
+cacm-0392 : comment on a paper 
+cacm-2714 : merging with parallel processors 
+cacm-2838 : of <b>algorithms</b> 3.69 3.89 4.19 4.29 
+cacm-2433 : parallel <b>algorithms</b> are described cacm october 
+cacm-1325 : remote on-line real-time computer 
+cacm-3059 : models for parallel processing 
+cacm-3044 : a note on conditional 
+cacm-2401 : on shrinking binary picture 
+cacm-1811 : a case study in 
+cacm-1200 : on reversible subroutines and 
+cacm-1158 : program structures for parallel 
+cacm-3156 : parallel processing <b>algorithms</b> transitive closure connected component 
+cacm-2146 : dispersion <b>algorithms</b> for the polyphase sorting 
+cacm-3166 : <b>algorithms</b> for the numerical computation 
+cacm-2898 : a conceptual framework for 
+cacm-1536 : dynamic computation of derivatives 
+cacm-2727 : multiple byte processing with 
+cacm-2342 : interference between communicating parallel 
+cacm-3006 : <b>algorithms</b> five types of anomalous 
+cacm-2723 : multiprocessing compactifying garbage collection 
+cacm-2226 : of <b>algorithms</b> for the zero-one programming 
+cacm-2973 : computer two <b>algorithms</b> are presented for sorting 
+cacm-2289 : the determination of <b>algorithms</b> that exploit the possibilities 
+cacm-2692 : family of clipping <b>algorithms</b> is described these <b>algorithms</b> are able to clip 
+cacm-0371 : remarks on <b>algorithms</b> 2 and 3 algorithm 
+cacm-2767 : list <b>algorithms</b> four <b>algorithms</b> are considered which can 
+cacm-2266 : l parallel numerical <b>algorithms</b> real polynomials real zeros 
+cacm-2863 : realizable variable space <b>algorithms</b> cacm may 1976 prieve 
+cacm-2570 : a comparison of list 
+cacm-0804 : exponentiation of series <b>algorithms</b> 134 cacm july 1963 
+cacm-2896 : an exercise in proving 
+cacm-1569 : implementing phrase-structure productions in 
+cacm-2273 : mask two <b>algorithms</b> for generating computer programs 
+cacm-1613 : one-pass compilation of arithmetic 
+cacm-1846 : on simulating networks of 
+cacm-2195 : on the optimal detection 
+cacm-1342 : transportation problem <b>algorithms</b> 293 h cacm december 
+cacm-0141 : some thoughts on parallel 
+cacm-1008 : scheduling meetings with a 
+cacm-1957 : defined and <b>algorithms</b> for its use are 
+cacm-2376 : synchronization of communicating processes 
+cacm-1873 : accelerating lp <b>algorithms</b> it is shown how 
+cacm-2490 : efficient <b>algorithms</b> for graph manipulation h 
+cacm-1795 : optimal code for serial 
+cacm-1960 : process management and resource 
+cacm-1374 : <b>algorithms</b> 41f3 269f3 cacm september 
+cacm-2325 : <b>algorithms</b> continuous <b>algorithms</b> 1.3 5.0 5.1 5.25 
+cacm-1341 : levels of computer systems 
+cacm-1554 : a computer technique for 
+cacm-1854 : on multiprogramming machine coding 
+cacm-2967 : a comparison of hardware 
+cacm-0270 : techniques for storage allocation 
+cacm-1747 : three criteria for designing 
+cacm-1959 : an interrupt based organization 
+cacm-1468 : <b>algorithms</b> was proposed by the 
+cacm-1551 : on compiling <b>algorithms</b> for arithmetic expressions this 
+cacm-2884 : <b>algorithms</b> classical permutation enumeration <b>algorithms</b> encounter special cases requiring 
+cacm-2557 : <b>algorithms</b> are presented which properly 
+cacm-1796 : subject to <b>algorithms</b> 1960 1968 comm acm 
+cacm-2851 : formal verification of parallel 
+cacm-2950 : for classifying scheduling <b>algorithms</b> based on an abstract 
+cacm-3073 : communicating sequential processes this 
+cacm-1302 : parallel signaling speeds for 
+cacm-2902 : other <b>algorithms</b> simple <b>algorithms</b> operating on memory ordered 
+cacm-2182 : interrupt driven programming cacm 
+cacm-2700 : reduction a method of 
+cacm-1828 : synchronization in a parallel-accessed 
+cacm-1601 : <b>algorithms</b> cacm may 1967 shedler 
+cacm-2895 : a language for formal 
+cacm-2685 : the parallel execution of 
+cacm-2819 : file four new <b>algorithms</b> for this operation are 
+cacm-2936 : previously published <b>algorithms</b> first the new <b>algorithms</b> performance is quite insensitive 
+cacm-1392 : manipulation <b>algorithms</b> are discussed concrete examples 
+cacm-1924 : matrix <b>algorithms</b> can lead to enormous 
+cacm-2114 : <b>algorithms</b> which retrieve records from 
+cacm-1658 : analysis of <b>algorithms</b> for the zero-one programming 
+cacm-2627 : <b>algorithms</b> known for minimizing mean 
+cacm-0320 : logic-structure tables logic tables 
+cacm-1603 : a multiprogramming monitor for 
+cacm-1952 : index by subject to 
+cacm-1262 : procedure-oriented language statements to 
+cacm-2740 : a large semaphore based 

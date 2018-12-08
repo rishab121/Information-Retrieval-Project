@@ -1,0 +1,100 @@
+cacm-1496 : a formal semantics <b>for</b> computer <b>languages</b> and its application in 
+cacm-3175 : in <b>parallel</b> <b>for</b> all code letters using 
+cacm-2112 : context-free <b>languages</b> a formal procedure is 
+cacm-1409 : easily modifiable hardware <b>for</b> basic research in computer 
+cacm-2514 : rasterrandom <b>parallel</b> examples are given involving 
+cacm-2515 : precedence relations without <b>parallel</b> activities is presented a 
+cacm-3077 : combining forms <b>for</b> building new programs from 
+cacm-1309 : can be prepared <b>for</b> every manager the system 
+cacm-2705 : programming <b>languages</b> natural <b>languages</b> and mathematics some social 
+cacm-1471 : programming semantics <b>for</b> multiprogrammed computations the semantics 
+cacm-1928 : and a facility <b>for</b> handling simultaneous activities the 
+cacm-2406 : however the need <b>for</b> data definition <b>languages</b> which describe both the 
+cacm-2865 : verifying properties of <b>parallel</b> programs an axiomatic approach 
+cacm-2175 : in <b>parallel</b> or in a combination 
+cacm-1341 : levels of computer systems 
+cacm-2080 : handled uniformly as <b>parallel</b> cooperating process es a 
+cacm-1325 : of a system <b>for</b> the remote online real-time 
+cacm-3148 : high level programming <b>for</b> distributed computing programming <b>for</b> distributed and other loosely 
+cacm-0628 : <b>for</b> use with algorithmic <b>languages</b> cacm march 1962 grau 
+cacm-0950 : <b>parallel</b> methods <b>for</b> integrating ordinary differential equations 
+cacm-2931 : logic and programming <b>languages</b> logic has been long 
+cacm-0392 : <b>parallel</b> processing cacm february 1961 
+cacm-2714 : f <b>parallel</b> processing <b>parallel</b> merging <b>parallel</b> binary insertion 5.31 ca751005 
+cacm-2838 : a list processor <b>for</b> the long times that 
+cacm-2081 : some complete calculi <b>for</b> matrices a matrix calculus 
+cacm-2842 : <b>languages</b> this paper is a 
+cacm-2433 : structures suitable <b>for</b> exploiting illiac iv parallelism 
+cacm-3059 : models <b>for</b> <b>parallel</b> processing within programs application 
+cacm-2685 : are developed <b>for</b> the <b>parallel</b> execution of different iterations 
+cacm-1366 : <b>for</b> designers of <b>languages</b> <b>for</b> users and <b>for</b> implementers are developed the 
+cacm-2401 : a <b>parallel</b> processing algorithm <b>for</b> shrinking binary patterns to 
+cacm-1811 : <b>for</b> parallel-processors an affirmative partial 
+cacm-3105 : suitable <b>for</b> extending <b>languages</b> that support the notion 
+cacm-1158 : program structures <b>for</b> <b>parallel</b> processing constructs <b>for</b> organizing and explicating <b>parallel</b> program segments are discussed 
+cacm-1216 : made of list-processing <b>languages</b> the chain rule is 
+cacm-3150 : beyond programming <b>languages</b> as computer technology matures 
+cacm-3156 : permitted <b>for</b> fetch instructions but not 
+cacm-3075 : fast <b>parallel</b> sorting algorithms a <b>parallel</b> bucket-sort algorithm is presented 
+cacm-2898 : a conceptual framework <b>for</b> a nonprocedural programming language 
+cacm-3073 : and that <b>parallel</b> composition of communicating sequential 
+cacm-2727 : which allows <b>parallel</b> processing of packed data 
+cacm-2342 : interference between communicating <b>parallel</b> processes various kinds of 
+cacm-2723 : complete procedures <b>for</b> garbage collection and <b>for</b> standard list processing primitives 
+cacm-2973 : computer <b>parallel</b> sorting <b>parallel</b> merge routing and comparison 
+cacm-2289 : cellular arrays <b>for</b> the solution of graph 
+cacm-1098 : these <b>languages</b> <b>for</b> use in particular problem 
+cacm-1200 : nomenclature is suggested <b>for</b> their classification cacm september 
+cacm-2266 : suitable <b>for</b> <b>parallel</b> <b>computation</b> determines its own starting 
+cacm-2316 : future of programming <b>languages</b> higher level <b>languages</b> some of the difficulties 
+cacm-2570 : <b>for</b> <b>parallel</b> processing systems the problem 
+cacm-2896 : programs correct a <b>parallel</b> program dijkstras on-the-fly garbage 
+cacm-1569 : and statements <b>parallel</b> the structure and notation 
+cacm-1613 : <b>for</b> a <b>parallel</b> processor under the assumption 
+cacm-2295 : <b>languages</b> algol semantics recursive composition 
+cacm-1846 : which admits solution <b>for</b> a majority of commonly 
+cacm-2195 : technique <b>for</b> recognizing systems of lines 
+cacm-0141 : some thoughts on <b>parallel</b> processing cacm october 1960 
+cacm-1923 : interfaces <b>for</b> high level <b>languages</b> using basic input/output support 
+cacm-2645 : two <b>languages</b> <b>for</b> estimating program efficiency two 
+cacm-0651 : a survey of <b>languages</b> and systems <b>for</b> information retrieval cacm january 
+cacm-1008 : it was developed <b>for</b> the 1960 meeting of 
+cacm-1957 : construct <b>for</b> evaluating set expressions the 
+cacm-2376 : is demonstrated <b>for</b> a system consisting of 
+cacm-2254 : dynamic partitioning <b>for</b> array <b>languages</b> the classical process of 
+cacm-2814 : roster of programming <b>languages</b> <b>for</b> 1974-75 cacm december 1976 
+cacm-1795 : optimal code <b>for</b> serial and <b>parallel</b> <b>computation</b> cacm december 1969 fateman 
+cacm-1960 : his own <b>parallel</b> processes using system primitive 
+cacm-2710 : called square intended <b>for</b> use in ad hoc 
+cacm-2497 : been developed <b>for</b> a dual dec pdp-10 
+cacm-2785 : <b>parallel</b> <b>computation</b> <b>parallel</b> architecture 4.2 4.21 4.22 
+cacm-1554 : a computer technique <b>for</b> displaying n-dimensional hyperobjects a 
+cacm-1854 : basis <b>for</b> the construction of operating 
+cacm-2967 : evaluation <b>parallel</b> processing database management 3.71 
+cacm-1459 : requirements <b>for</b> real-time <b>languages</b> real-time <b>languages</b> have different requirements from 
+cacm-1747 : program testing <b>parallel</b> processing <b>parallel</b> programming multiprocessing 2.11 4.12 
+cacm-1959 : <b>for</b> the design and coding 
+cacm-1468 : labeling techniques using <b>parallel</b> processing algorithms was proposed 
+cacm-1536 : how wengerts procedure <b>for</b> <b>computation</b> of derivatives can be 
+cacm-2265 : <b>languages</b> treat <b>computation</b> over different classes of 
+cacm-1485 : <b>for</b> linking elementary statements together 
+cacm-1306 : <b>languages</b> discussed in this paper 
+cacm-2557 : as <b>parallel</b> computers is discussed algorithms 
+cacm-2851 : <b>parallel</b> <b>computation</b> are presented an abstract 
+cacm-2470 : data structures description <b>languages</b> models of <b>computation</b> 4.22 5.21 5.24 5.26 
+cacm-1302 : <b>parallel</b> signaling speeds <b>for</b> data transmission proposed american 
+cacm-2182 : monitors debugging <b>parallel</b> processing associative memories microprogramming 
+cacm-2700 : properties of <b>parallel</b> programs when proving that 
+cacm-1828 : j <b>parallel</b> accessing <b>parallel</b> search file search data 
+cacm-1601 : <b>parallel</b> numerical methods <b>for</b> the solution of equations 
+cacm-2895 : a language <b>for</b> formal problem specification a 
+cacm-3044 : wise d <b>parallel</b> evaluation suspending cons lisp 
+cacm-2603 : <b>languages</b> and deterministic <b>languages</b> the class of reducing 
+cacm-1852 : of processors <b>for</b> programming <b>languages</b> is described this algorithm 
+cacm-2326 : theory of <b>computation</b> following the fix point 
+cacm-2114 : a formal system <b>for</b> information retrieval from files 
+cacm-0320 : <b>for</b> writing and using logic 
+cacm-1603 : a multiprogramming monitor <b>for</b> small machines int a 
+cacm-1262 : <b>parallel</b> processing two statements are 
+cacm-0249 : specification <b>languages</b> <b>for</b> mechanical <b>languages</b> and their processors-a bakers 
+cacm-2740 : a large semaphore based 

@@ -1,0 +1,100 @@
+cacm-2059 : extension <b>to</b> algol 60 and it 
+cacm-1047 : simple similarity transformations <b>to</b> generate full <b>matrices</b> from canonical forms the 
+cacm-2442 : a <b>sparse</b> matrix package algorithm r408 
+cacm-2568 : <b>to</b> this number is the 
+cacm-0891 : and is <b>applicable</b> <b>to</b> many different types of 
+cacm-0856 : <b>applicable</b> <b>to</b> a variety of record 
+cacm-2290 : immediate predominators in a 
+cacm-3128 : are shown <b>to</b> be <b>applicable</b> <b>to</b> situations where confinement of 
+cacm-1587 : method is <b>applicable</b> <b>to</b> iterative processes in which 
+cacm-2405 : matrix <b>sparse</b> matrix 5.14 ca731203 jb 
+cacm-1501 : is given <b>to</b> obtain the eigenvectors of 
+cacm-1153 : <b>applicable</b> <b>to</b> both binary and decimal 
+cacm-0144 : only a <b>sparse</b> set of all possible 
+cacm-3094 : <b>applicable</b> <b>to</b> a specific machine the 
+cacm-1504 : <b>algorithms</b> for finding a fundamental 
+cacm-2883 : methods <b>to</b> edge and contour detection 
+cacm-2199 : a <b>sparse</b> matrix package part i 
+cacm-2453 : previously published heuristic <b>algorithms</b> compared <b>to</b> the optimal algorithm of 
+cacm-2189 : permutations fundamental <b>to</b> scheduling problems is described 
+cacm-0944 : may be used <b>to</b> construct numeric alphabetic or 
+cacm-3164 : progressive acyclic digraphs-a tool 
+cacm-3152 : in order <b>to</b> multiply <b>matrices</b> while minimizing the number 
+cacm-2081 : <b>matrices</b> can be described and 
+cacm-2630 : <b>algorithms</b> are presented that construct 
+cacm-2787 : <b>matrices</b> which arise in some 
+cacm-3088 : are directly <b>applicable</b> <b>to</b> any configuration consisting of 
+cacm-2216 : <b>applicable</b> <b>to</b> a family of sorting 
+cacm-3040 : variables subject <b>to</b> a set of constraints 
+cacm-3115 : <b>matrices</b> applied <b>to</b> text encryption nonsingular binary 
+cacm-2780 : <b>sparse</b> <b>matrices</b> triangular factorization elements of 
+cacm-2877 : <b>algorithms</b> compilers 4.12 5.24 ca760303 
+cacm-2430 : the elementary circuits of 
+cacm-3156 : <b>to</b> find the connected components 
+cacm-2752 : generation of all the 
+cacm-1847 : a pushdown list <b>to</b> await examination one stage 
+cacm-2905 : <b>applicable</b> directly <b>to</b> small sets some methods 
+cacm-1390 : described which is <b>applicable</b> <b>to</b> problems conveniently described by 
+cacm-2289 : the determination of <b>algorithms</b> that exploit the possibilities 
+cacm-2134 : <b>to</b> rectangular <b>matrices</b> the assignment problem together 
+cacm-2768 : scheme is <b>applicable</b> <b>to</b> the buddy type storage 
+cacm-1417 : <b>to</b> be <b>applicable</b> <b>to</b> much of the data 
+cacm-3124 : <b>to</b> define an apl array 
+cacm-2803 : paper is devoted <b>to</b> the study of connections 
+cacm-0799 : are largely <b>applicable</b> <b>to</b> the construction of algol 
+cacm-2986 : operations on <b>sparse</b> relations various computations on 
+cacm-2172 : graph plotter j6 algorithm 
+cacm-2484 : different relations and <b>algorithms</b> results in different information 
+cacm-2619 : existence of solutions <b>to</b> the timetable problem a 
+cacm-1886 : <b>algorithms</b> are also <b>applicable</b> <b>to</b> the problem of factoring 
+cacm-2142 : is desirable <b>to</b> estimate the gray levels 
+cacm-3018 : here shown <b>to</b> be equivalent <b>to</b> the problem of covering 
+cacm-0678 : techniques are <b>applicable</b> <b>to</b> any general-purpose computer cacm 
+cacm-2824 : an improvement <b>to</b> martins algorithm for computation 
+cacm-0661 : elements of <b>sparse</b> multi-dimensional arrays are described 
+cacm-0962 : equally <b>applicable</b> <b>to</b> the second large computer 
+cacm-2554 : <b>matrices</b> <b>to</b> band form the calculation 
+cacm-1457 : text <b>sparse</b> <b>matrices</b> and tree or list 
+cacm-1423 : all <b>matrices</b> it also has many 
+cacm-2273 : 2 the new <b>algorithms</b> combine <b>to</b> a certain degree the 
+cacm-2506 : a <b>sparse</b> matrix package algorithm r408 
+cacm-2972 : is also <b>applicable</b> <b>to</b> semi-automatic and automatic proofs 
+cacm-2177 : belong <b>to</b> different blocks for both 
+cacm-2052 : scheduling <b>to</b> reduce conflict in meetings 
+cacm-2805 : <b>matrices</b> the problem considered is 
+cacm-2314 : are <b>applicable</b> <b>to</b> the design of advanced 
+cacm-2557 : <b>matrices</b> the minimum time required 
+cacm-1435 : <b>to</b> the design of computer 
+cacm-2769 : for <b>sparse</b> <b>matrices</b> on most computers particularly 
+cacm-2806 : related <b>to</b> hadamards determinant theorem which 
+cacm-1738 : techniques <b>applicable</b> <b>to</b> most online debugging programs 
+cacm-1787 : use of transition <b>matrices</b> in compiling an <b>algorithms</b> is described which constructs 
+cacm-3139 : new methods <b>to</b> color the vertices of 
+cacm-3176 : storing a <b>sparse</b> table the problem of 
+cacm-2141 : compression alternatives <b>to</b> avoid comparing all of 
+cacm-2490 : efficient <b>algorithms</b> for graph manipulation h 
+cacm-2192 : another recursion induction principle 
+cacm-2695 : class of <b>sparse</b> <b>matrices</b> which can be tridiagonalized 
+cacm-1180 : transformed according <b>to</b> a table of axioms 
+cacm-0828 : the method is <b>applicable</b> <b>to</b> computer use cacm june 
+cacm-2632 : of new operations <b>applicable</b> <b>to</b> a given type sharing 
+cacm-0955 : a class of <b>matrices</b> <b>to</b> test inversion procedures cacm 
+cacm-0241 : references <b>to</b> memory required by the 
+cacm-0185 : <b>applicable</b> <b>to</b> a wide class of 
+cacm-1961 : <b>to</b> find all of the 
+cacm-1432 : <b>to</b> handle input/output with nonstandard 
+cacm-1563 : generalized and applied <b>to</b> the problem of finding 
+cacm-2701 : algorithm is shown <b>to</b> treat a very general 
+cacm-1947 : compilation are applied <b>to</b> transforming the program <b>to</b> improve object time efficiency 
+cacm-2368 : graph <b>algorithms</b> the two players in 
+cacm-1924 : e g matrix <b>algorithms</b> array processing paging <b>algorithms</b> paged memory systems virtual 
+cacm-2811 : enough <b>to</b> be <b>applicable</b> <b>to</b> other waveforms cacm december 
+cacm-2766 : the method is <b>applicable</b> <b>to</b> fixed or variable size 
+cacm-2894 : <b>applicable</b> <b>to</b> in teractive computer service 
+cacm-1116 : timetable problem <b>to</b> theorems on <b>matrices</b> of zeros and ones 
+cacm-1347 : <b>to</b> initial condition and parameter 
+cacm-1707 : real matrix <b>to</b> be similar <b>to</b> a positive matrix this 
+cacm-2934 : comment on computing the 
+cacm-1727 : <b>to</b> the j-th instruction in 
+cacm-1963 : <b>matrices</b> condition numbers pei <b>matrices</b> eigenvectors eigenvalues 5.14 ca701116 
+cacm-1292 : or minus one <b>to</b> the estimate <b>to</b> obtain the exact quotient 

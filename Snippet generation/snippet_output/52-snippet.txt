@@ -1,0 +1,100 @@
+cacm-1674 : their use <b>in</b> combinations some one-line random 
+cacm-1030 : techniques for the <b>simulation</b> of computer logic the 
+cacm-2261 : computer memory <b>and</b> is easy to use 
+cacm-1435 : design of computer <b>simulation</b> experiments for industrial systems 
+cacm-1208 : <b>simulation</b> of computer logic by 
+cacm-1928 : ease <b>and</b> economy <b>in</b> model generation economy <b>in</b> execution time <b>and</b> space <b>and</b> a facility for handling 
+cacm-1711 : automate certain operations <b>and</b> <b>in</b> complying with statutes <b>and</b> regulation relating to record 
+cacm-2749 : l <b>simulation</b> organization event <b>simulation</b> clock pulse <b>simulation</b> significant event <b>simulation</b> 8.1 ca750604 jb january 
+cacm-1518 : mechanized <b>in</b> simscript <b>and</b> consists of some 1750 
+cacm-0238 : <b>simulation</b> <b>and</b> analysis of biochemical systems 
+cacm-2844 : heaps applied to event 
+cacm-2396 : <b>and</b> then employs a simplified 
+cacm-2062 : to <b>simulation</b> an example inventory model 
+cacm-2931 : long <b>in</b> terested <b>in</b> whether answers to certain 
+cacm-2970 : achieving specific accuracy <b>in</b> <b>simulation</b> output analysis this paper 
+cacm-2375 : analytical <b>and</b> <b>simulation</b> results are obtained the 
+cacm-1261 : modeling <b>and</b> <b>simulation</b> of digital networks the 
+cacm-1728 : program operating behavior <b>in</b> those multiprogramming systems <b>in</b> which programs are organized 
+cacm-1912 : <b>simulation</b> of outpatient appointment systems 
+cacm-2829 : texture <b>and</b> reflection <b>in</b> computer generated images <b>in</b> 1974 catmull developed a 
+cacm-2276 : between slower <b>and</b> shorter algorithms <b>and</b> faster but space consuming 
+cacm-3051 : <b>simulation</b> event set none cacm 
+cacm-1890 : <b>simulation</b> of traffic flows <b>in</b> a network a computer 
+cacm-1207 : remarks on <b>simulation</b> of boolean functions cacm 
+cacm-1366 : <b>in</b> which both current <b>and</b> future <b>simulation</b> languages <b>and</b> packages can be improved 
+cacm-0678 : optimizing bit-time computer <b>simulation</b> a major component of 
+cacm-2742 : event <b>simulation</b> <b>simulation</b> models of large complex 
+cacm-0757 : <b>simulation</b> of a traffic network 
+cacm-2077 : is presented <b>and</b> some new simulated results 
+cacm-3048 : computers by deterministic <b>simulation</b> <b>simulation</b> is presented as a 
+cacm-1380 : simula-an algol-based <b>simulation</b> language this paper is 
+cacm-0104 : storage capacities <b>and</b> processing rates <b>in</b> the other air traffic 
+cacm-2091 : are very time-consuming <b>and</b> cumbersome a convenient easy 
+cacm-2349 : density gaussian distribution <b>simulation</b> monte carlo 5.5 ca720511 
+cacm-1199 : a computer center <b>simulation</b> project todays computation centers 
+cacm-1856 : <b>simulation</b> program <b>and</b> theory of language the 
+cacm-1288 : <b>in</b> this paper are the 
+cacm-2535 : <b>and</b> <b>simulation</b> results are based on 
+cacm-1517 : computer <b>simulation</b> experiments this paper addresses 
+cacm-1234 : implemented <b>in</b> a convenient macro-language a 
+cacm-2767 : a comparison of <b>simulation</b> event list algorithms four 
+cacm-2955 : <b>in</b> ternal external <b>and</b> total fragmentation cacm june 
+cacm-0675 : automatic storage <b>and</b> retrieval a series of 
+cacm-1637 : problems <b>in</b> the statistical analysis of 
+cacm-1427 : useful <b>in</b> the <b>simulation</b> of the output of 
+cacm-0633 : <b>simulation</b> <b>and</b> analysis of biochemical systems 
+cacm-1933 : generator an algorithm <b>and</b> coding technique is presented 
+cacm-1846 : processes <b>in</b> which simultaneous events may 
+cacm-2918 : advantages <b>in</b> terms of <b>in</b> terference <b>and</b> reliability for general purpose 
+cacm-3070 : model <b>in</b> which both discrete-event <b>simulation</b> <b>and</b> analytic techniques are combined 
+cacm-1166 : calls to i/o <b>simulation</b> subroutines cacm december 1965 
+cacm-1870 : numbers <b>in</b> computer <b>simulation</b> an algorithm is described 
+cacm-2057 : random vectors uniform <b>in</b> solid angle algorithm 381 
+cacm-1894 : <b>simulation</b> probability distribution frequency distribution 
+cacm-3061 : simulations of dynamic sequential 
+cacm-2734 : first-fit <b>and</b> best-fit <b>and</b> a better understanding of 
+cacm-2233 : signature <b>simulation</b> <b>and</b> certain cryptographic codes three 
+cacm-3064 : e <b>simulation</b> discrete systems <b>simulation</b> discrete event <b>simulation</b> time-flow mechanisms 3.65 3.74 
+cacm-0643 : <b>simulation</b> <b>and</b> analysis of biochemcial systems 
+cacm-2262 : by discussion <b>and</b> by <b>simulation</b> cacm november 1972 baecker 
+cacm-2951 : assisting the user <b>in</b> participating <b>in</b> the vast store of 
+cacm-2218 : <b>and</b> swap volume minimization is 
+cacm-2344 : system performance <b>in</b> a predictable manner <b>and</b> would not benefit from 
+cacm-1752 : scheduling <b>and</b> resource balancing for a 
+cacm-2272 : extensive <b>simulation</b> results are presented <b>and</b> various implications <b>and</b> further applications are discussed 
+cacm-2721 : for <b>and</b> the digital <b>simulation</b> <b>in</b> fortran iv of phytoplankton 
+cacm-1165 : <b>in</b> the rca 301 object 
+cacm-1805 : itself <b>and</b> its co-residents <b>and</b> <b>simulation</b> has been the best 
+cacm-2188 : selecting major subsystems <b>in</b> an intelligent way each 
+cacm-2798 : conflict buffer <b>simulation</b> monte carolo <b>simulation</b> 5.5 6.34 ca750201 jb 
+cacm-0605 : computer <b>simulation</b> of city traffic <b>in</b> simulating traffic flow on 
+cacm-1426 : a <b>simulation</b> of hospital admission policy 
+cacm-2967 : software associative memories <b>in</b> the context of computer 
+cacm-1845 : ibm-360 <b>and</b> univac-1108 a critique of 
+cacm-2725 : a comparison of <b>simulation</b> event list algorithms corrigendum 
+cacm-2435 : system <b>simulation</b> fibonacci fragmentation 3.89 4.32 
+cacm-2911 : reports <b>simulation</b> data showing that <b>in</b> dynamic memory allocation the 
+cacm-1253 : <b>simulation</b> language based on simscript 
+cacm-2542 : a software design <b>and</b> evaluation system a critical 
+cacm-1680 : as <b>simulation</b> programming <b>and</b> information retrieval it is 
+cacm-1329 : <b>simulation</b> of boolean functions <b>in</b> a decimal computer cacm 
+cacm-1541 : <b>and</b> experimental aspects of <b>simulation</b> studies the ability to 
+cacm-1812 : monte carlo <b>simulation</b> 5.5 ca691118 jb february 
+cacm-2549 : <b>simulation</b> monte carlo 3.17 5.5 
+cacm-2902 : <b>simulation</b> <b>simulation</b> memory management <b>simulation</b> techniques space allocation storage 
+cacm-1716 : generator <b>simulation</b> probability distribution frequency distribution 
+cacm-0557 : <b>simulation</b> of computer timing device 
+cacm-2882 : <b>and</b> cellular list organizations <b>and</b> hybrid combinations of these 
+cacm-1572 : <b>simulation</b> model to assist <b>in</b> the investigation of these 
+cacm-2936 : the <b>simulation</b> event set recently algorithms 
+cacm-2452 : evaluation <b>and</b> selection of file organization-a 
+cacm-1653 : measurement <b>in</b> performance evaluation <b>and</b> <b>in</b> the development of evaluation 
+cacm-1484 : are discussed <b>and</b> a dialect of algol 
+cacm-2686 : an approximate method for 
+cacm-3107 : advantages <b>in</b> both speed <b>and</b> programming simplicity over previous 
+cacm-1695 : by the network <b>and</b> to store <b>and</b> retrieve networks <b>and</b> data from a library 
+cacm-2105 : <b>and</b> specifies description is transmitted 
+cacm-1591 : the terminal exercises <b>in</b> <b>simulation</b> <b>and</b> gaming could also be 
+cacm-2652 : <b>in</b> compilation cost achievable by 
+cacm-2914 : depth distribution for <b>simulation</b> of paging behavior two 

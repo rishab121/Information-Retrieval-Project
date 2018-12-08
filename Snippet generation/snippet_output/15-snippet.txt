@@ -1,0 +1,100 @@
+cacm-2858 : the assignment <b>of</b> instruction addresses <b>and</b> formats under the following 
+cacm-2722 : n <b>and</b> <b>optimization</b> guarantees logarithmic performance <b>of</b> searches o n log 
+cacm-3125 : redundant computations <b>and</b> the moving <b>of</b> invariant computations out <b>of</b> <b>loops</b> are often done separately 
+cacm-2903 : matching algorithm <b>of</b> knuth morris <b>and</b> pratt can be derived 
+cacm-2423 : words <b>of</b> 60-bit core memory <b>of</b> which 140 words are 
+cacm-2541 : <b>of</b> the concurrent design <b>of</b> the language operating system 
+cacm-3069 : a call <b>on</b> the procedure <b>and</b> <b>all</b> <b>of</b> its subcalls the algorithm 
+cacm-2940 : t <b>of</b> interaction between data <b>and</b> the control structure <b>of</b> the language itself a 
+cacm-2827 : drawing pictures <b>of</b> three-dimensional objects <b>with</b> surfaces made up <b>of</b> patches <b>of</b> quadric surfaces is described 
+cacm-3080 : start <b>of</b> the program <b>and</b> the detection <b>and</b> pinpointing <b>of</b> a wide class <b>of</b> errors in the low 
+cacm-1951 : estimates <b>of</b> distributions <b>of</b> random variables for certain 
+cacm-2699 : from above <b>and</b> below <b>and</b> the single-valuedness <b>of</b> tabulated mappings to be 
+cacm-2883 : a figure <b>of</b> merit <b>and</b> the edge detection problem 
+cacm-2396 : early use <b>of</b> parse trees <b>and</b> <b>special</b> purpose rules the relational 
+cacm-2065 : system is given <b>with</b> <b>special</b> <b>emphasis</b> <b>on</b> the man-machine interaction this 
+cacm-2836 : <b>of</b> a weighted derivation tree 
+cacm-2451 : <b>and</b> that <b>of</b> an intuitively attractive ideal 
+cacm-3053 : unsuccessful searches <b>and</b> auxiliary cost functions compared 
+cacm-2388 : <b>global</b> <b>and</b> local <b>optimization</b> sorting recursion 3.74 5.31 
+cacm-3018 : <b>with</b> the objective <b>of</b> minimizing the number <b>of</b> complete subgraphs a relationship 
+cacm-2081 : saving memory space <b>and</b> superfluous operations sequences <b>of</b> matrices <b>and</b> sequences <b>of</b> sequences <b>of</b> matrices are considered <b>and</b> matrix operators areext ended 
+cacm-1548 : <b>on</b> the parsing <b>of</b> decision tables <b>with</b> regard to <b>horizontal</b> <b>and</b> vertical data structures job 
+cacm-2433 : means <b>of</b> expressing data <b>and</b> control structures suitable for 
+cacm-2944 : deutsch <b>and</b> bobrow the necessary features 
+cacm-0243 : <b>of</b> encoding <b>and</b> error detection are based 
+cacm-1626 : compiled <b>and</b> interpreted programs <b>with</b> no <b>special</b> declarations cacm march 1967 
+cacm-2929 : is analyzed the <b>optimization</b> consists <b>of</b> replacing a procedure invocation 
+cacm-2003 : <b>of</b> the features <b>of</b> the two high level 
+cacm-2953 : connection <b>with</b> tree traversal <b>and</b> sorting algorithms each method 
+cacm-3005 : 93 percent <b>of</b> <b>all</b> executable statements <b>special</b> care is given to 
+cacm-2835 : the detection <b>of</b> recursive use <b>of</b> procedures is presented for 
+cacm-0104 : the objective being <b>optimization</b> <b>of</b> parameters such as storage 
+cacm-3157 : <b>and</b> are <b>of</b> a complexity out <b>of</b> proportion to the program 
+cacm-2146 : estimate <b>of</b> the total number <b>of</b> unit strings before the 
+cacm-3166 : is expository <b>with</b> <b>emphasis</b> <b>on</b> reaching a suitable definition 
+cacm-1719 : industry <b>of</b> the criteria for <b>and</b> methods <b>of</b> calculating <b>and</b> optimizing data processing system 
+cacm-2897 : lower level code <b>and</b> then performs optimizations <b>on</b> the result each statement 
+cacm-1223 : <b>of</b> common subexpression recognition <b>optimization</b> such as the effective 
+cacm-0693 : an extension <b>of</b> fibonaccian search to several 
+cacm-2134 : an extension <b>of</b> the munkres algorithm for 
+cacm-1808 : dealt <b>with</b> <b>special</b> <b>emphasis</b> is paid to the 
+cacm-1878 : recovery <b>of</b> reentrant list structures in 
+cacm-2188 : the capabilities <b>of</b> the graphics hardware <b>and</b> <b>of</b> the computational requirements <b>of</b> the graphics application the 
+cacm-2174 : original work <b>of</b> gale <b>and</b> shapley <b>on</b> an assignment method using 
+cacm-2570 : <b>and</b> that the b-schedule <b>of</b> coffman <b>and</b> graham is near-optimal a 
+cacm-1974 : source program <b>and</b> operates <b>on</b> it to produce a 
+cacm-1750 : the general design <b>of</b> the hardware arrangement <b>and</b> the software components <b>and</b> functions <b>of</b> such a system are 
+cacm-1410 : systems the <b>optimization</b> <b>of</b> time-shared system performance requires 
+cacm-1886 : code <b>optimization</b> sequencing <b>of</b> operations detection <b>of</b> common subexpressions factorization <b>of</b> boolean expressions 4.12 6.1 
+cacm-2142 : in a large <b>and</b> varied number <b>of</b> fields the most important 
+cacm-2195 : the structure <b>of</b> the figure <b>of</b> merit <b>and</b> the complexity <b>of</b> the <b>optimization</b> process is then discussed 
+cacm-2321 : interfaces by means <b>of</b> which computers <b>and</b> digital terminals connect to 
+cacm-2877 : the program <b>and</b> <b>all</b> the definitions that are 
+cacm-2253 : a by-product <b>of</b> the symbolic manipulation <b>of</b> expressions in the matrix 
+cacm-2015 : for the problem <b>of</b> merging productions the productions 
+cacm-2611 : <b>optimization</b> algorithm r454 cacm august 
+cacm-2964 : <b>of</b> storage parameters in databases 
+cacm-1807 : a linear analysis <b>of</b> the definition points <b>of</b> the variables <b>and</b> the branching <b>and</b> do loop structure <b>of</b> the program the objectives 
+cacm-2943 : conventional logical reasoning <b>with</b> the help <b>of</b> a few axioms <b>and</b> rules <b>of</b> inference for the <b>special</b> lucid functions as a 
+cacm-1906 : <b>with</b> a regular pattern <b>of</b> lines pins terminals <b>and</b> vias feed-through holes is 
+cacm-1676 : possesses a number <b>of</b> different computers <b>and</b> which frequently acquires new 
+cacm-1795 : sequencing <b>of</b> operations detection <b>of</b> common subexpressions 4.12 ca691217 
+cacm-2680 : <b>and</b> reducing the number <b>of</b> mounts thus decreases turnaround 
+cacm-2537 : method relies <b>on</b> hand selection <b>of</b> a set <b>of</b> text strings which are 
+cacm-2616 : <b>on</b> the conversion <b>of</b> programs to decision tables 
+cacm-2133 : <b>optimization</b> theory assignment problem rectangular 
+cacm-3020 : sturdy toddler <b>and</b> to obtain measurements <b>of</b> the cost <b>of</b> procedure linkage in pl/i 
+cacm-3002 : data-items the probabilities <b>of</b> access <b>and</b> the distribution <b>of</b> each data-items length are 
+cacm-0972 : components the major <b>emphasis</b> <b>of</b> the paper is <b>on</b> the technique <b>of</b> using the definition <b>of</b> a finite-state automaton for 
+cacm-0695 : between disk <b>and</b> core storage <b>with</b> minimum delaying <b>and</b> interruption <b>of</b> the arithmetic unit dumps 
+cacm-2344 : <b>on</b> the <b>optimization</b> <b>of</b> performance <b>of</b> time-sharing systems by simulation 
+cacm-2800 : is concerned <b>with</b> stability <b>and</b> accuracy <b>of</b> families <b>of</b> linear k-step formulas depending 
+cacm-2851 : own local variables <b>and</b> permits shared <b>global</b> variables correctness <b>of</b> certain forms <b>of</b> implementation is also discussed 
+cacm-1752 : <b>and</b> the effects <b>of</b> program mix <b>and</b> loading variations are also 
+cacm-2715 : implementation <b>of</b> a structured english query 
+cacm-2716 : <b>global</b> query <b>optimization</b> 2 exploiting disjoint <b>and</b> pipelined concurrency 3 coordinating 
+cacm-2411 : proof <b>of</b> programs semantics <b>of</b> programming languages structured programming 
+cacm-2210 : <b>of</b> both recursive <b>and</b> iterative programs operating <b>on</b> natural numberslists <b>and</b> trees in order to 
+cacm-3087 : illustrated <b>with</b> detailed examples <b>of</b> the operation <b>of</b> system components <b>and</b> examples <b>of</b> overall system operation the 
+cacm-3054 : sorting algorithm <b>and</b> its best variants <b>on</b> real computers including how 
+cacm-2314 : modified made efficient <b>and</b> run <b>on</b> data because <b>of</b> this general frameworkthe requirements 
+cacm-1961 : to find <b>all</b> <b>of</b> the elementary circuits <b>of</b> a graph the algorithm 
+cacm-1197 : simultaneously <b>all</b> the zeros <b>of</b> a polynomial developed by 
+cacm-1564 : using queueing techniques <b>and</b> extensive indexing <b>and</b> also by outputting the 
+cacm-2701 : new algorithm for <b>global</b> flow analysis <b>on</b> reducible graphs is presented 
+cacm-2969 : <b>with</b> an example <b>and</b> a possible application <b>of</b> the model cacm may 
+cacm-2923 : <b>of</b> recent work <b>on</b> advanced methods <b>of</b> program certification <b>and</b> <b>optimization</b> this paper proposes a 
+cacm-1195 : <b>of</b> processing <b>on</b> the ibm 7090 system 
+cacm-1947 : used to do <b>global</b> common expression elimination <b>and</b> loop identification implementation <b>of</b> these <b>and</b> other optimizations in os/360 
+cacm-2290 : program <b>optimization</b> optimizing compiler 4.12 5.32 
+cacm-1231 : peephole <b>optimization</b> redundant instructions may be 
+cacm-1658 : provide little hope <b>of</b> solving problems <b>with</b> over 100 variables <b>with</b> a reasonable amount <b>of</b> machine time cacm december 
+cacm-1710 : <b>of</b> data items <b>and</b> an arbitrary number <b>of</b> the relationships between these 
+cacm-2181 : a summary <b>of</b> the <b>discussions</b> a condensation <b>of</b> the pedagogic <b>and</b> substantive concerns raised <b>and</b> consideration <b>of</b> the resource allocation issues 
+cacm-2464 : j l <b>optimization</b> constrained <b>optimization</b> boxs algorithm 5.41 ca730810 
+cacm-2579 : <b>of</b> usage counts shows how 
+cacm-2000 : a variation <b>of</b> the goodman-lance method for 
+cacm-2812 : consists <b>of</b> a set <b>of</b> procedures <b>and</b> computer programs specifically designed 
+cacm-2904 : package <b>of</b> local <b>optimization</b> algorithms cacm november 1977 
+cacm-2495 : sets available <b>on</b> present-day computers cacm june 

@@ -1,0 +1,100 @@
+cacm-1170 : <b>relation</b> of a word to 
+cacm-3037 : that multiplication of <b>integers</b> not larger than n 
+cacm-1935 : <b>mathematical</b> model is developed for 
+cacm-1834 : an axiomatic basis for 
+cacm-1186 : computing <b>binomial</b> coefficients several specific problems 
+cacm-2229 : two approaches the <b>binomial</b> theorem and the iteration 
+cacm-2059 : a language for treating 
+cacm-1933 : number generator <b>modulo</b> 231 1 a prime 
+cacm-2739 : sentence plus a <b>group</b> of restrictions to which 
+cacm-2373 : the <b>relation</b> to lru least recently 
+cacm-0495 : a procedure for inverting 
+cacm-1867 : recursion <b>relation</b> generating function meromorphic function 
+cacm-0725 : <b>group</b> participation computer demonstration cacm 
+cacm-1455 : strings <b>integers</b> and boolean vector variables 
+cacm-2391 : reverse synthetic division <b>binomial</b> coefficients 5.11 5.30 5.5 
+cacm-0453 : enlargement of a <b>group</b> algorithm 136 cacm november 
+cacm-2081 : <b>mathematical</b> programming the paper investigates 
+cacm-2842 : and the underlying <b>mathematical</b> theory of computation due 
+cacm-0139 : <b>binomial</b> coefficients algorithm 19 cacm 
+cacm-2032 : their <b>relation</b> to trees studied in 
+cacm-2031 : <b>integers</b> a new version of 
+cacm-0852 : a method of comparing 
+cacm-3077 : can programming be liberated 
+cacm-1836 : a new method for 
+cacm-0248 : is proprietary in <b>mathematical</b> programming was sponsored by 
+cacm-1099 : to any systems <b>group</b> before the blind could 
+cacm-0203 : n <b>integers</b> taken k at a 
+cacm-2149 : entcaf and entcre evaluation 
+cacm-3010 : value orientation of computer 
+cacm-0616 : report-language structure <b>group</b> of the codasyl development 
+cacm-0536 : a <b>relation</b> with certain parameters a1an 
+cacm-3156 : computing connected components on 
+cacm-1308 : a <b>mathematical</b> model for mechanical part 
+cacm-2416 : matrix transposition in place 
+cacm-1707 : generation of positive test 
+cacm-1533 : a <b>mathematical</b> model of a computers 
+cacm-1887 : a recursive <b>relation</b> for the determinant of 
+cacm-2327 : in <b>mathematical</b> development of the theory 
+cacm-0382 : statistical programs at the 
+cacm-2289 : cellular arrays for the 
+cacm-2134 : and a <b>relation</b> between solution time and 
+cacm-1694 : an algorithm for the 
+cacm-0514 : <b>binomial</b> coefficients algorithm 19 cacm 
+cacm-1423 : a simple algorithm for 
+cacm-3124 : a <b>mathematical</b> study of three approaches 
+cacm-2986 : sparse <b>relation</b> boolean matrix directed graph 
+cacm-2484 : a note on information 
+cacm-1914 : programming linear algebra <b>mathematical</b> programming matrix condition matrix 
+cacm-3204 : an automated <b>mathematical</b> assistant some requirements for 
+cacm-2195 : achieved the <b>relation</b> between the structure of 
+cacm-1066 : <b>mathematical</b> algorithm ie the simplex 
+cacm-1870 : uniform pseudorandom <b>integers</b> may be used to 
+cacm-1609 : then scheduling each <b>group</b> at a different period 
+cacm-2096 : experiments with the m 
+cacm-2613 : transitivity sets g7 algorithm 
+cacm-0048 : shift-register code for indexing 
+cacm-2220 : conversion of limited-entry decision 
+cacm-0241 : machine calculation of moments 
+cacm-0373 : correlation coefficients with matrix 
+cacm-1649 : <b>relation</b> to general purpose data 
+cacm-2052 : the <b>relation</b> of the activities in 
+cacm-1752 : <b>relation</b> to a combined batch 
+cacm-0671 : telefile-a case study of 
+cacm-2710 : with limited <b>mathematical</b> background cacm november 1975 
+cacm-1403 : sets of positive <b>integers</b> the minimum value of 
+cacm-2028 : <b>integers</b> and multipliers $a1 algorithm 
+cacm-2545 : a theory of discrete 
+cacm-2769 : matrix binary <b>relation</b> 5.30 5.32 ca750408 jb 
+cacm-2648 : for storing multiprecise <b>integers</b> the package has been 
+cacm-2476 : equivalence between and/or graphs 
+cacm-2806 : two hadamard numbers for 
+cacm-2169 : the altran system for 
+cacm-2420 : experiments with an automatic 
+cacm-1683 : boolean matrix methods for 
+cacm-2536 : telecommunications using a front-end 
+cacm-2834 : the compositions of <b>integers</b> and the permutations of 
+cacm-2569 : computer generation of gamma 
+cacm-2446 : the symmetric <b>group</b> algorithm a455 cacm september 
+cacm-2720 : optimal balancing of i/o 
+cacm-2851 : formal verification of parallel 
+cacm-1691 : <b>modulo</b> multiplicative congruential pseudorandom generator 
+cacm-0679 : the <b>binomial</b> coefficients in the area 
+cacm-2298 : <b>group</b> in the project each 
+cacm-2470 : <b>relation</b> it is argued that 
+cacm-2210 : <b>mathematical</b> induction must be applied 
+cacm-2981 : an invariant the <b>relation</b> between subgoal induction and 
+cacm-3108 : encoding of the <b>integers</b> 3.57 3.81 5.6 ca780408 
+cacm-1543 : <b>mathematical</b> techniques employed with the 
+cacm-1961 : give a <b>relation</b> between speed and complexity 
+cacm-1365 : tool for performing <b>mathematical</b> analysis it is an 
+cacm-0717 : <b>integers</b> algorithm are described which 
+cacm-0269 : core allocation based on 
+cacm-1817 : computation of fourier coefficients 
+cacm-2326 : fix point approach to 
+cacm-1948 : computers in <b>group</b> theory a survey computers 
+cacm-2520 : <b>integers</b> and multipliers algorithm c386 
+cacm-1567 : the symmetric <b>group</b> such an approach unifies 
+cacm-0727 : on the approximate solution 
+cacm-2340 : a boolean matrix method 
+cacm-0569 : <b>binomial</b> coefficients algorithm 19 cacm 

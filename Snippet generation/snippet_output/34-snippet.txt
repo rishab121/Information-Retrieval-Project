@@ -1,0 +1,100 @@
+cacm-1051 : the use <b>of</b> two or <b>more</b> consecutive words as one 
+cacm-0616 : the first phase <b>of</b> the work <b>of</b> the language structure group 
+cacm-2722 : k <b>is</b> the dimensionality <b>of</b> the search space as 
+cacm-2229 : construction <b>of</b> rational and negative powers 
+cacm-0397 : a variety <b>of</b> reference files <b>in</b> information processing <b>an</b> 80-column ibm card <b>is</b> divided into two fields-reference 
+cacm-2423 : <b>is</b> applied <b>in</b> the parse <b>of</b> a program typical one-pass 
+cacm-1623 : <b>an</b> application <b>of</b> formac a nonlinear circuit 
+cacm-1046 : space the purpose <b>of</b> this paper <b>is</b> purely expository except <b>in</b> some very small details 
+cacm-1844 : a bank <b>of</b> interchangeable computers each <b>of</b> which <b>is</b> a memory/processor pair that 
+cacm-2345 : <b>in</b> organizations <b>is</b> discussed and a curriculum 
+cacm-1620 : <b>of</b> nested multiplication <b>is</b> commonly used <b>in</b> function evaluation routines to 
+cacm-1433 : <b>is</b> <b>an</b> improportionality fast rise <b>in</b> the consumption <b>of</b> computer timeo cut down 
+cacm-0278 : interludes <b>an</b> existence proof <b>in</b> terms <b>of</b> a completely interpretive m 
+cacm-2660 : addendum to m l 
+cacm-1908 : time-sharing and batch-processing <b>an</b> experimental comparison <b>of</b> their values <b>in</b> a problem solving situation 
+cacm-0670 : some legal implications <b>of</b> the use <b>of</b> computers <b>in</b> the banking business the 
+cacm-3001 : detection <b>of</b> combined occurrences <b>in</b> this paper it <b>is</b> supposed that the variables 
+cacm-2306 : <b>old</b> babylonian tablets many <b>of</b> which have never before 
+cacm-1601 : the <b>root</b> <b>in</b> question a technique <b>is</b> given for the development 
+cacm-0848 : for square <b>root</b> and logarithm <b>there</b> was the germ <b>of</b> <b>an</b> idea <b>in</b> two previous papers 1,2 
+cacm-1867 : the replacement-selecting technique <b>of</b> sorting one <b>is</b> <b>interested</b> <b>in</b> the ratio lj <b>of</b> the expected length <b>of</b> the j-th sequence generated 
+cacm-2749 : method can be <b>of</b> value <b>in</b> the simulation <b>of</b> some systems when computational 
+cacm-2931 : enter <b>in</b> giving descriptions <b>of</b> processes the definition <b>of</b> the precise meaning <b>of</b> a program then requires 
+cacm-2946 : implemented <b>more</b> efficiently <b>an</b> implementation <b>of</b> this primitive <b>in</b> terms <b>of</b> p and v operations 
+cacm-1949 : <b>of</b> computer scientists cacm december 
+cacm-1495 : <b>an</b> algorithm <b>is</b> developed for expressing the 
+cacm-2808 : enormous part <b>in</b> the development <b>of</b> mathematics <b>an</b> account <b>is</b> given here <b>of</b> some <b>of</b> the methods used-most <b>of</b> the derivations can be 
+cacm-2742 : amount <b>of</b> bookkeeping time <b>is</b> required to keep future 
+cacm-1134 : <b>of</b> the machine that <b>is</b> <b>more</b> easily manipulated <b>in</b> improving object program efficiency 
+cacm-1253 : a brief description <b>of</b> simscript <b>is</b> included as <b>is</b> a sufficient description <b>of</b> 20-gate to render this 
+cacm-0585 : that follows <b>is</b> a description <b>of</b> the evolution <b>of</b> the programming and hardware 
+cacm-1626 : storage <b>in</b> <b>an</b> ideal list-processing system <b>there</b> would be enough core 
+cacm-2657 : and lee <b>in</b> 1969 <b>is</b> given <b>in</b> the <b>old</b> algorithm the program-synthesizing problem 
+cacm-3166 : a suitable definition <b>of</b> accuracy each <b>of</b> the four algorithms <b>is</b> analyzed for the conditions 
+cacm-1893 : <b>root</b> finders roots <b>of</b> polynomial equations polynomial zeros 
+cacm-2500 : <b>of</b> resources <b>is</b> to be maintained a 
+cacm-2324 : <b>of</b> integer and continuous nonlinear 
+cacm-2897 : for compilers <b>recent</b> developments <b>in</b> optimizing techniques have allowed 
+cacm-3142 : they corrected what <b>is</b> the reaction <b>of</b> consumers to errors-to a 
+cacm-1014 : factors increases <b>is</b> the exponential rise <b>in</b> the number <b>of</b> interactions even though the 
+cacm-1875 : <b>in</b> each <b>of</b> which quadratic programming <b>is</b> used to provide both 
+cacm-2266 : zeros <b>an</b> algorithm <b>is</b> described based on newtons 
+cacm-1726 : <b>is</b> not necessary <b>an</b> unsupervised mode <b>is</b> advocated here the textual 
+cacm-1763 : roots <b>of</b> low-order polynomial equations algorithm 
+cacm-1476 : march 1965 <b>is</b> retained here <b>in</b> summary form many <b>of</b> the concepts and principles 
+cacm-2921 : describe the syntax <b>of</b> programming languages <b>more</b> concisely and <b>more</b> understandably than <b>is</b> possible with cf grammars 
+cacm-1524 : <b>root</b> <b>of</b> a polynomial it <b>is</b> generally difficult to know 
+cacm-2450 : allocation <b>there</b> <b>is</b> a dearth <b>of</b> published data on program 
+cacm-3127 : a large set <b>of</b> machines it <b>is</b> currently running on two 
+cacm-1456 : storage and retrieval <b>of</b> aspects <b>of</b> meaning <b>in</b> directed graph structures <b>an</b> experimental system that uses 
+cacm-2999 : arrays <b>of</b> data <b>is</b> presented attention <b>is</b> first given to some 
+cacm-2486 : <b>in</b> the information system <b>of</b> the american institute <b>of</b> physics they include the 
+cacm-0464 : additional discussion <b>of</b> the work <b>in</b> relation to the <b>more</b> general questions <b>of</b> problem-oriented languages and string 
+cacm-0435 : deal <b>of</b> time and effort <b>is</b> being spent on the 
+cacm-2709 : theoretical completeness <b>of</b> if-then-else and while-do <b>is</b> discussed several <b>recent</b> ideas on control structures 
+cacm-0492 : calculation <b>of</b> <b>an</b> address from the identification 
+cacm-2744 : <b>of</b> <b>an</b> <b>old</b> programming technique using itone 
+cacm-2702 : np-complete when k <b>is</b> expressed <b>in</b> unary when k <b>is</b> expressed <b>in</b> binary the problem <b>is</b> complete for nondeterministic exponential 
+cacm-1650 : for the calculation <b>of</b> sums <b>of</b> squares <b>in</b> the analysis <b>of</b> variance <b>of</b> complete factorial experiments and 
+cacm-2194 : <b>of</b> the lengths <b>of</b> the blocks <b>of</b> coding produced by <b>an</b> assembler or compiler when 
+cacm-2254 : the classical process <b>of</b> partitioning <b>an</b> array into subarrays <b>is</b> extended to a <b>more</b> useful array language operation 
+cacm-2840 : decidable ie <b>there</b> <b>is</b> <b>an</b> algorithm to determine whether 
+cacm-1615 : <b>an</b> algorithm for generating <b>root</b> locus diagrams a technique 
+cacm-0497 : given n <b>of</b> the n points <b>of</b> subdivision <b>of</b> a given interval ab 
+cacm-1667 : <b>root</b> finders roots <b>of</b> polynomial equations polynomial zeros 
+cacm-1386 : coefficients <b>is</b> presented the algorithm <b>is</b> <b>an</b> extension <b>of</b> a technique used by 
+cacm-0116 : adder a survey <b>of</b> the <b>more</b> available literature on the 
+cacm-0531 : linkage <b>in</b> the updating <b>of</b> files <b>is</b> accomplished <b>in</b> many establishments through the 
+cacm-1426 : <b>there</b> types <b>of</b> policies were examined admission 
+cacm-3060 : fortran 77 <b>there</b> <b>is</b> a new standard fortran 
+cacm-1315 : purchased radioisotopes <b>is</b> written <b>in</b> format fortran for the 
+cacm-2598 : savings <b>in</b> execution time <b>there</b> <b>is</b> <b>an</b> analogy between the problem 
+cacm-1333 : number <b>of</b> quantities as <b>in</b> numerical integration the sum 
+cacm-2893 : computers as <b>an</b> innovation <b>in</b> american local governments computers 
+cacm-1931 : <b>in</b> matrix computations <b>in</b> the present paper a 
+cacm-1032 : for <b>an</b> evaluation function <b>of</b> relevancy <b>is</b> developed which rewards the 
+cacm-1259 : examples are given <b>in</b> which the form <b>of</b> <b>an</b> expression <b>is</b> changed to <b>an</b> equivalent expression to save 
+cacm-1488 : <b>of</b> one two or <b>more</b> table conditions it <b>is</b> further shown that multi-state 
+cacm-2135 : class <b>of</b> selections <b>of</b> q which includes the 
+cacm-2696 : <b>is</b> <b>an</b> extension <b>of</b> the method <b>of</b> univariate interpolation developed earlier 
+cacm-2307 : role <b>of</b> computers <b>in</b> automatic document processing <b>is</b> briefly outlined and some 
+cacm-1346 : on the application <b>of</b> the process <b>of</b> equalization <b>of</b> maxima to obtain rational 
+cacm-1633 : for polynomials <b>is</b> discussed it <b>is</b> assumed one has approximations 
+cacm-1197 : was achieved <b>in</b> most <b>of</b> the cases tried with 
+cacm-1550 : a study <b>of</b> the programming efforts <b>of</b> students <b>in</b> <b>an</b> introductory programming course <b>is</b> presented and the effects 
+cacm-0332 : transformation <b>is</b> reviewed <b>in</b> <b>more</b> detail <b>an</b> efficient generalization <b>of</b> the chaining method which 
+cacm-1591 : <b>an</b> operating system <b>of</b> a large computer <b>is</b> described the model transferred 
+cacm-1999 : no division it <b>is</b> preferable to use <b>an</b> iterative scheme for the 
+cacm-1852 : the base <b>of</b> <b>an</b> implementation by bootstrapping <b>of</b> processors for programming languages 
+cacm-1049 : from questions <b>of</b> reality and uniqueness <b>there</b> <b>is</b> no established numerical technique 
+cacm-1454 : <b>in</b> this paper <b>is</b> used to write computer 
+cacm-2526 : <b>is</b> presented <b>of</b> some <b>of</b> the system implications <b>of</b> memory hierarchies <b>in</b> which the backing or 
+cacm-2181 : computer-based information systems <b>an</b> analysis <b>of</b> the minutes <b>of</b> the meetings revealed a 
+cacm-2297 : numerically that <b>an</b> increase <b>is</b> obtain able <b>in</b> the average execution interval 
+cacm-1932 : the calculation <b>of</b> the square <b>root</b> using newtons method <b>is</b> considered it has been 
+cacm-1031 : <b>of</b> computing the roots <b>of</b> a sequence <b>of</b> related equations <b>is</b> described cacm july 1964 
+cacm-2644 : under consideration <b>in</b> automated theorem proving <b>there</b> <b>is</b> a need for developing 
+cacm-2812 : and development <b>of</b> <b>an</b> integrated financial management system 
+cacm-0319 : approximations <b>of</b> eulers formula <b>is</b> derived with the corresponding 
+cacm-3114 : <b>is</b> the comparing <b>of</b> two versions <b>of</b> a source program or 

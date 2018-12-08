@@ -1,0 +1,100 @@
+cacm-2849 : <b>and</b> a packet protocol <b>for</b> error controlled communication <b>are</b> included <b>for</b> completeness cacm july 1976 
+cacm-2514 : in a derivation <b>or</b> parse <b>using</b> weighted programming matrices he 
+cacm-1674 : instruction <b>are</b> discussed <b>and</b> some short fortran programs 
+cacm-2986 : computation <b>of</b> precedence relations <b>for</b> a context-free grammar <b>can</b> <b>be</b> done by a practical 
+cacm-2062 : given levels <b>of</b> <b>statistical</b> precision is calculated also 
+cacm-1433 : <b>are</b> given <b>for</b> the moments <b>using</b> a result from a 
+cacm-1605 : the sequence <b>of</b> problem solution <b>and</b> programmer <b>and</b> problem characteristics were specified 
+cacm-2217 : program <b>and</b> the proving program <b>and</b> <b>for</b> analyzing <b>and</b> summarizing results data was 
+cacm-2188 : the parameters <b>of</b> the model <b>are</b> functions <b>of</b> the capabilities <b>of</b> the graphics hardware <b>and</b> <b>of</b> the computational requirements <b>of</b> the graphics application the 
+cacm-1629 : major design criteria <b>of</b> ease <b>of</b> use ease <b>of</b> modification flexibility <b>of</b> input <b>and</b> detail <b>of</b> output <b>are</b> described cacm february 1967 
+cacm-1206 : <b>of</b> reliability <b>of</b> each measured item <b>of</b> information <b>are</b> used to compute the 
+cacm-1474 : tests <b>of</b> probabilistic models <b>for</b> propagation <b>of</b> roundoff errors in any 
+cacm-2373 : <b>t</b> is the set <b>of</b> distinct pages among the 
+cacm-2167 : nonexistence <b>of</b> algorithms <b>for</b> certain classes <b>of</b> expressions <b>are</b> included cacm august 1971 
+cacm-1697 : <b>and</b> operation <b>of</b> the current system <b>are</b> described <b>and</b> a discussion <b>of</b> the relative merits <b>of</b> such a system is 
+cacm-1252 : symbolic notations <b>for</b> <b>statistical</b> tables <b>and</b> an approach towards automatic 
+cacm-1454 : need <b>for</b> the elegance <b>and</b> redundancy <b>of</b> a highly syntax-oriented language 
+cacm-1709 : multiple <b>linear</b> <b>regression</b> <b>statistical</b> recurrence formulas correlation <b>linear</b> <b>statistical</b> models <b>statistical</b> computer programs curve fitting 
+cacm-2970 : the use <b>of</b> the regenerative property <b>of</b> queueing systems in the 
+cacm-1455 : <b>of</b> trac to accept <b>and</b> store definitions <b>of</b> procedures the capabilities <b>of</b> the language <b>can</b> <b>be</b> indefinitely extended <b>and</b> <b>can</b> deal with character strings 
+cacm-0944 : storage <b>and</b> search properties <b>of</b> a tree-organized memory system 
+cacm-1420 : the usual <b>statistical</b> tests <b>and</b> in addition the <b>least</b> significant bits appear to 
+cacm-1764 : dr organick <b>and</b> edited by him <b>and</b> the panelists some remarks 
+cacm-2722 : data structure <b>for</b> storage <b>of</b> information to <b>be</b> retrieved by associative searches 
+cacm-2604 : region partitioning by <b>linear</b> programming <b>using</b> <b>linear</b> programming an interactive graphic 
+cacm-1946 : <b>are</b> introduced the extent <b>of</b> propagation <b>of</b> errors caused by truncation 
+cacm-2820 : <b>of</b> his error most <b>components</b> <b>of</b> caps <b>are</b> table driven both to 
+cacm-1366 : tables the implications <b>of</b> this analysis <b>for</b> designers <b>of</b> languages <b>for</b> users <b>and</b> <b>for</b> implementers <b>are</b> developed the conclusion <b>of</b> the paper is that 
+cacm-2343 : <b>of</b> the details <b>of</b> the final overlay configuration 
+cacm-1650 : method which may <b>be</b> used <b>for</b> the calculation <b>of</b> sums <b>of</b> <b>squares</b> in the analysis <b>of</b> variance <b>of</b> complete factorial experiments <b>and</b> in the computation <b>of</b> main effect <b>or</b> interaction means is described 
+cacm-2216 : cases <b>of</b> uniform <b>and</b> nonuniform distribution <b>of</b> branching ratio <b>and</b> <b>for</b> the second moment in 
+cacm-2215 : trees <b>can</b> easily <b>be</b> incorporated either directly <b>or</b> by analogy into spr 
+cacm-1698 : process <b>can</b> execute what bounds <b>can</b> <b>be</b> set on overall buffer 
+cacm-3092 : a technical orientation <b>and</b> 4 user demands <b>for</b> enhancements <b>and</b> extension constitute the most 
+cacm-1464 : optional listings decks <b>and</b> debugging information <b>using</b> the chain feature <b>of</b> ibsys links written in 
+cacm-3150 : will not <b>be</b> adequate <b>for</b> building <b>and</b> maintaining systems <b>of</b> the complexity called <b>for</b> by the tasks we 
+cacm-3166 : algorithms <b>for</b> the numerical computation <b>of</b> the standard deviation <b>of</b> unweighted sampled data <b>are</b> analyzed two <b>of</b> the algorithms <b>are</b> well-known in the <b>statistical</b> <b>and</b> computational literature the other 
+cacm-1856 : factual assertions <b>for</b> the memory <b>and</b> the capabilities <b>for</b> correctly relating text to 
+cacm-2753 : topological <b>and</b> metric constraints to <b>be</b> tested <b>and</b> the design to <b>be</b> easily updated dps has 
+cacm-2525 : paper presents the <b>statistical</b> results <b>of</b> tests <b>of</b> the accuracy <b>of</b> certain arithmetic systems in 
+cacm-2828 : <b>of</b> the shapes <b>of</b> three-dimensional objects <b>and</b> environments is used not 
+cacm-2402 : this information <b>can</b> <b>be</b> the basis <b>of</b> a technique <b>for</b> structure determination that <b>can</b> make effective use <b>of</b> an interactive graphics system 
+cacm-3142 : <b>be</b> learned by designers <b>of</b> large management <b>packages</b> from such data results 
+cacm-1609 : small expenditure <b>of</b> time results <b>of</b> experiments <b>using</b> these techniques <b>are</b> given these <b>are</b> encouraging <b>and</b> indicate that further experimentation 
+cacm-1948 : use <b>are</b> described <b>and</b> contrasted <b>and</b> results which have been 
+cacm-1875 : <b>of</b> its derivations <b>of</b> specified <b>sign</b> over the whole range 
+cacm-1835 : powerful features <b>are</b> included a discussion <b>of</b> design principles to <b>be</b> followed in a student 
+cacm-1619 : error-free methods <b>for</b> <b>statistical</b> computations neely has discussed 
+cacm-1264 : output <b>of</b> this system <b>or</b> <b>of</b> executing programs may <b>be</b> in either english <b>or</b> braille even though this 
+cacm-0865 : average 2n <b>for</b> random input records <b>and</b> that reading writing <b>and</b> processing <b>can</b> <b>be</b> accomplished simultaneously if the 
+cacm-2395 : method <b>of</b> nonlinear <b>regression</b> with <b>linear</b> constraints the <b>regression</b> method is published in 
+cacm-2994 : matrix prin ter <b>using</b> only <b>sign</b> testing <b>and</b> elementary addition <b>and</b> subtraction this paper describes 
+cacm-2484 : <b>of</b> a data base <b>can</b> <b>be</b> represented by a tree 
+cacm-1410 : assumed to <b>be</b> stationary <b>and</b> to <b>be</b> defined by the interarrival 
+cacm-1470 : forms <b>of</b> each <b>of</b> these <b>components</b> <b>are</b> described compared <b>and</b> evaluated many examples frequently 
+cacm-2999 : <b>of</b> general-purpose computer-based <b>statistical</b> <b>and</b> data processing capabilities <b>for</b> handling multidimensional arrays <b>of</b> data is presented attention 
+cacm-2145 : performance function <b>for</b> each point-to-point <b>and</b> point-to-line connection it <b>can</b> bring the number <b>of</b> successful wiring connections very 
+cacm-2993 : formulation <b>of</b> <b>linear</b> programming problems which <b>are</b> ill-conditioned in some cases 
+cacm-2645 : analysis <b>of</b> algorithms <b>and</b> some <b>of</b> the directions <b>for</b> further research <b>are</b> also discussed cacm june 
+cacm-1169 : n computer <b>components</b> <b>for</b> each permutation <b>of</b> the elements e1 e2 
+cacm-1423 : a simple algorithm <b>for</b> computing the <b>generalized</b> inverse <b>of</b> a matrix the <b>generalized</b> inverse <b>of</b> a matrix is important 
+cacm-1957 : algorithms <b>for</b> its use <b>are</b> given the list set 
+cacm-2771 : allows a class <b>of</b> solid objects to <b>be</b> synthesized <b>and</b> stored <b>using</b> a computer synthesis begins 
+cacm-1844 : master <b>or</b> control computer <b>and</b> supervises the collection <b>and</b> distribution <b>of</b> messages from <b>and</b> to the remote terminals 
+cacm-2670 : nonlinear <b>least</b> <b>squares</b> problems nonlinear <b>least</b> <b>squares</b> frequently arise <b>for</b> which the variables to 
+cacm-1977 : developed <b>for</b> the approximation <b>of</b> data by means <b>of</b> a <b>linear</b> combination <b>of</b> functions including splines selected 
+cacm-2951 : analytical simulation <b>and</b> <b>statistical</b> performance evaluation tools <b>are</b> employed to investigate the 
+cacm-2398 : shows how students <b>can</b> mix the advantages <b>of</b> independent <b>or</b> solo mode computing with 
+cacm-0867 : <b>least</b> <b>squares</b> fitting <b>of</b> planes to surfaces <b>using</b> dynamic programming dynamic programming 
+cacm-2534 : design <b>and</b> implementation <b>of</b> a diagnostic compiler <b>for</b> pl/i pl/c is a 
+cacm-3131 : hardware arithmetic <b>for</b> many applications algorithms <b>for</b> 8-bit <b>and</b> 16-bit implementations <b>of</b> focus <b>are</b> included cacm march 1979 
+cacm-1554 : <b>can</b> <b>be</b> <b>generalized</b> to n-dimensions <b>and</b> applied to any n-dimensional 
+cacm-1171 : a comparison <b>of</b> the primal-simplex <b>and</b> primal-dual algorithms <b>for</b> <b>linear</b> programming a <b>statistical</b> comparison <b>of</b> the primal-dual <b>and</b> the more commonly used 
+cacm-1816 : <b>generalized</b> <b>least</b> <b>squares</b> fit by orthogonal polynomials 
+cacm-2787 : <b>for</b> reduction <b>of</b> the binary matrices which 
+cacm-2665 : <b>are</b> presented <b>for</b> list structure copying <b>using</b> bounded workspace the first 
+cacm-1637 : the spectrum <b>of</b> the generating process <b>and</b> estimation <b>of</b> the quantities <b>of</b> interest is described the 
+cacm-3049 : <b>of</b> sembegs <b>and</b> outlines the major <b>components</b> <b>of</b> the system the design 
+cacm-1631 : to <b>statistical</b> tests the tests <b>are</b> described <b>and</b> the results <b>of</b> the tests <b>are</b> presented these particular tests 
+cacm-2695 : comparisons the number <b>of</b> assignments <b>and</b> the number <b>of</b> increments <b>are</b> <b>linear</b> in n this compares 
+cacm-2851 : includes the capability <b>for</b> the representation <b>of</b> an infinite set <b>of</b> control states by allowing 
+cacm-1691 : a comparison <b>of</b> the correlational behavior <b>of</b> random number generators <b>for</b> the ibm 360 hutchinson 
+cacm-2786 : the design <b>and</b> implementation <b>of</b> a system <b>for</b> typesetting mathematics the language 
+cacm-2470 : questions <b>of</b> local <b>and</b> global environments <b>and</b> <b>of</b> various modes <b>of</b> function calling <b>and</b> parameter passing <b>are</b> touched upon the theory 
+cacm-2825 : the bmd <b>and</b> bmdp series <b>of</b> <b>statistical</b> computer programs cacm october 
+cacm-1398 : <b>of</b> the type <b>of</b> <b>multivariate</b> problem that is found 
+cacm-3087 : the relational database <b>and</b> optimize the order <b>of</b> searching relations methods <b>are</b> discussed <b>for</b> handling vague <b>or</b> complex questions <b>and</b> <b>for</b> providing browsing ability also 
+cacm-2906 : three different sublanguages <b>or</b> <b>components</b> one <b>for</b> defining the business forms 
+cacm-1572 : design <b>and</b> development <b>of</b> new time-sharing algorithms <b>or</b> techniques <b>for</b> the sake <b>of</b> efficiency <b>and</b> greater applicability the model 
+cacm-3138 : additional row <b>of</b> data in a <b>linear</b> <b>least</b> <b>squares</b> problem a column <b>or</b> row is dropped by 
+cacm-1768 : a number <b>of</b> artificial grammars <b>and</b> on a subset <b>of</b> algol a number <b>of</b> the routines <b>for</b> extracting data about a 
+cacm-1916 : segmentation <b>of</b> instructions <b>and</b> data <b>for</b> a time-shared environment as 
+cacm-1665 : task lexical processors <b>for</b> aed-o <b>and</b> mad <b>are</b> among the many which 
+cacm-0536 : sum <b>of</b> <b>squares</b> <b>of</b> differences between observed <b>and</b> calculated values <b>of</b> a distinguished observable say 
+cacm-1877 : in the light <b>of</b> the current allocation <b>of</b> resources <b>and</b> determine whether <b>or</b> not the granting <b>of</b> the request will introduce 
+cacm-1344 : presented fixes mixed <b>and</b> random analysis <b>of</b> variance models <b>are</b> considered a procedure <b>for</b> obtaining variance <b>components</b> <b>and</b> calculated f statistics <b>for</b> the model terms is 
+cacm-1066 : <b>of</b> the <b>components</b> <b>of</b> such a system <b>are</b> translation <b>of</b> problem statement in terms 
+cacm-2634 : various types <b>of</b> <b>statistical</b> <b>packages</b> <b>for</b> general use among those 
+cacm-1695 : specification <b>and</b> modification <b>of</b> a network <b>and</b> extensive error-checking capabilities <b>are</b> provided data resulting from 
+cacm-1978 : easy to use <b>and</b> also take advantage <b>of</b> the insight <b>and</b> visual capabilities <b>of</b> the human problem solver 

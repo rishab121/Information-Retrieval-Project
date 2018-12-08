@@ -1,0 +1,100 @@
+cacm-1713 : can occur <b>in</b> multiprogramming <b>systems</b> when scheduling is <b>based</b> primarily on preassigned priorities 
+cacm-2795 : <b>information</b> <b>retrieval</b> and deduction capabilities <b>of</b> the memory model the 
+cacm-3177 : <b>knowledge</b> <b>of</b> k 1 pieces reveals 
+cacm-1527 : for the automatic <b>retrieval</b> <b>of</b> certain segments <b>of</b> stored <b>information</b> either explicitly or implicitly 
+cacm-2168 : list tracing <b>in</b> <b>systems</b> allowing multiple cell-types list-processing 
+cacm-2583 : <b>information</b> <b>systems</b> regulations social and behavioral 
+cacm-1233 : symbols <b>in</b> the preparation <b>of</b> flowcharts for <b>information</b> processing <b>systems</b> a standard working paper 
+cacm-3125 : <b>of</b> invariant computations out <b>of</b> loops are often done 
+cacm-2358 : output <b>of</b> <b>information</b> stored <b>in</b> files kept <b>in</b> secondary storage through the 
+cacm-1935 : for <b>information</b> <b>retrieval</b> <b>systems</b> cacm february 1969 arora 
+cacm-1711 : using copyrighted material <b>in</b> <b>information</b> storage and <b>retrieval</b> <b>systems</b> including the pending copyright 
+cacm-2311 : processing hardware <b>systems</b> software <b>systems</b> <b>systems</b> development process functional <b>systems</b> management <b>systems</b> 2.0 3.50 4.0 6.20 
+cacm-0651 : a survey <b>of</b> languages and <b>systems</b> for <b>information</b> <b>retrieval</b> cacm january 1962 grems 
+cacm-2345 : l education management <b>systems</b> <b>systems</b> analysis management <b>information</b> <b>systems</b> <b>information</b> <b>systems</b> development <b>information</b> analysis system design 1.52 
+cacm-2882 : database organization <b>in</b> data <b>retrieval</b> <b>systems</b> experimental work <b>in</b> the valuation <b>of</b> large scale data <b>retrieval</b> <b>systems</b> has been scarce due 
+cacm-1627 : <b>retrieval</b> <b>systems</b> the concept <b>of</b> level changing is introduced 
+cacm-0239 : inefficiency <b>of</b> the use <b>of</b> boolean functions for <b>information</b> <b>retrieval</b> <b>systems</b> cacm december 1961 verhoeff 
+cacm-1267 : <b>information</b> transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> <b>information</b> bits trib <b>of</b> residual errors and <b>of</b> standard measurement conditions the 
+cacm-2318 : the <b>role</b> <b>of</b> computer system models <b>in</b> performance evaluation models constitute 
+cacm-3012 : the use <b>of</b> an interactive <b>information</b> storage and <b>retrieval</b> system <b>in</b> medical research this paper 
+cacm-2288 : for designing an <b>information</b> <b>retrieval</b> system <b>based</b> on the consecutive <b>retrieval</b> property is also discussed 
+cacm-1728 : program operating behavior <b>in</b> those multiprogramming <b>systems</b> <b>in</b> which programs are organized 
+cacm-2451 : a standard <b>information</b> <b>retrieval</b> operation is to determine 
+cacm-2479 : programs <b>in</b> <b>information</b> <b>systems</b> recommended addendum on <b>information</b> <b>systems</b> administration an addendum to 
+cacm-2888 : <b>information</b> reference coding items <b>in</b> business <b>systems</b> have to be identified 
+cacm-2985 : relationship <b>of</b> <b>in</b> ternal pricing <b>systems</b> for computer services chargeout 
+cacm-3144 : <b>of</b> multi-interpreter <b>systems</b> a multi-interpreter system is 
+cacm-0440 : name <b>retrieval</b> <b>systems</b> have been developed <b>in</b> a methodological study <b>of</b> the linkage <b>of</b> vital and health records 
+cacm-1135 : complex applications <b>in</b> terms <b>of</b> tables <b>of</b> control expressions which express 
+cacm-0730 : <b>of</b> mathematical formulas entirely <b>in</b> standard textbook notation the 
+cacm-2482 : operating <b>systems</b> multiprogramming hierarchical <b>systems</b> 4.30 4.32 ca730704 jb 
+cacm-1199 : operation <b>of</b> a computation center <b>in</b> terms <b>of</b> <b>information</b> nets decision processes and 
+cacm-2988 : memory requirements <b>in</b> queueing network models <b>of</b> computer <b>systems</b> empirical analyses and analytic 
+cacm-2342 : formulated as questions <b>of</b> inclusion between sets <b>of</b> states or <b>of</b> the existence <b>of</b> certain sequences a mechanical 
+cacm-2561 : inference <b>in</b> fact <b>retrieval</b> <b>systems</b> heuristic procedures are presented 
+cacm-2402 : the use <b>of</b> chemical <b>information</b> to frame structural hypotheses 
+cacm-3011 : <b>of</b> management <b>information</b> <b>systems</b> mis bear little relation 
+cacm-1808 : ciphers secrecy <b>systems</b> security <b>systems</b> confidential <b>information</b> processing 1.3 2.12 2.19 
+cacm-2876 : intentional resolution <b>of</b> privacy protection <b>in</b> database <b>systems</b> traditionally privacy protection <b>in</b> database <b>systems</b> is understood to be 
+cacm-2852 : <b>in</b> computer science or <b>in</b> <b>information</b> <b>systems</b> mcfarlan and nolan have 
+cacm-2650 : applications <b>in</b> <b>information</b> <b>retrieval</b> artificial intelligence and spelling 
+cacm-2711 : the density <b>of</b> the object space <b>in</b> particular <b>retrieval</b> performance may correlate inversely 
+cacm-1959 : an interrupt <b>based</b> organization for management <b>information</b> <b>systems</b> a programming structure language 
+cacm-0652 : use <b>of</b> semantic structure <b>in</b> <b>information</b> <b>systems</b> cacm january 1962 sable 
+cacm-0616 : the first phase <b>of</b> the work <b>of</b> the language structure group 
+cacm-1750 : one million words <b>of</b> extended core storage <b>in</b> the generalization <b>of</b> such a design special 
+cacm-2741 : taken <b>in</b> order to identify <b>in</b> multiprogramming paging <b>systems</b> i unstable regimes <b>of</b> operations and ii critical 
+cacm-3090 : social impacts <b>of</b> computing organizational impacts <b>of</b> computing management <b>information</b> <b>systems</b> sociology <b>of</b> computing <b>information</b> <b>systems</b> and service integration urban 
+cacm-1846 : some <b>of</b> the problems <b>of</b> simulating discrete event <b>systems</b> particularly computer <b>systems</b> on a conventional digital 
+cacm-1886 : finding a set <b>of</b> subexpressions each <b>of</b> which occurs <b>in</b> two or more other 
+cacm-1457 : <b>in</b> automatic <b>information</b> <b>retrieval</b> automatic <b>information</b> <b>retrieval</b> programs require the manipulation 
+cacm-2765 : data base <b>systems</b> <b>in</b> a hierarchical level by 
+cacm-1699 : experimental evaluation <b>of</b> <b>information</b> <b>retrieval</b> through a teletypewriter experiments 
+cacm-0637 : <b>of</b> a project completed <b>in</b> may 1961 <b>in</b> which the neliac system 
+cacm-1751 : <b>of</b> a general treatment <b>of</b> resource allocation <b>in</b> modern computer <b>systems</b> is an adequate model 
+cacm-2092 : and illustrated examples <b>of</b> the <b>systems</b> performance and <b>of</b> the limitations <b>of</b> its question-answering capability are 
+cacm-1415 : improving the performance <b>of</b> automatic message <b>retrieval</b> <b>systems</b> they may have practical 
+cacm-2160 : structure for attribute <b>based</b> <b>retrieval</b> is proposed <b>in</b> this paper it allows 
+cacm-2840 : protection <b>in</b> operating <b>systems</b> a model <b>of</b> protection mechanisms <b>in</b> computing <b>systems</b> is presented and its 
+cacm-2522 : them recent research <b>in</b> time-sharing paging <b>systems</b> has developed the working 
+cacm-1236 : is used <b>in</b> the <b>retrieval</b> process by leaving the 
+cacm-2046 : and natural growth <b>in</b> the types <b>of</b> stored <b>information</b> existing noninferential formatted data 
+cacm-1280 : decreasing time-lag <b>systems</b> <b>in</b> which variable time-lags are 
+cacm-2127 : natural language question-answering <b>systems</b> 1969 recent experiments <b>in</b> programming natural language question-answering 
+cacm-2163 : management <b>information</b> <b>systems</b> education <b>in</b> colleges and universities under 
+cacm-3142 : the <b>role</b> <b>of</b> poor man agement packages 
+cacm-2798 : the distribution <b>of</b> the number <b>of</b> memory modules <b>in</b> operation during a memory 
+cacm-2111 : spelling correction <b>in</b> <b>systems</b> programs several specialized techniques 
+cacm-1681 : translator document <b>retrieval</b> conversational mode <b>information</b> <b>retrieval</b> language symbolic command language 
+cacm-1489 : <b>in</b> business data processing <b>systems</b> it is necessary to 
+cacm-3181 : effort <b>of</b> considerable scale <b>in</b> addition research has revealed 
+cacm-1349 : paucity <b>of</b> professional interchange <b>of</b> <b>knowledge</b> the effects <b>of</b> these constraints are explicated 
+cacm-3134 : <b>of</b> attribute <b>based</b> <b>information</b> <b>systems</b> using the normal multiplication 
+cacm-1680 : instruction tutorial <b>systems</b> programming simulation modeling <b>information</b> <b>retrieval</b> operating <b>systems</b> graphics displays man-machine interface 
+cacm-1032 : theoretical considerations <b>in</b> <b>information</b> <b>retrieval</b> <b>systems</b> <b>information</b> storage and <b>retrieval</b> <b>systems</b> are composed <b>of</b> three major components a 
+cacm-1226 : many <b>systems</b> the selection <b>of</b> an organization for the 
+cacm-1725 : elementary aspects <b>of</b> the structure <b>of</b> sets <b>of</b> binary numbers is presented 
+cacm-1541 : simulating dynamic <b>systems</b> the general objective <b>of</b> this language is to 
+cacm-2307 : <b>role</b> <b>of</b> computers <b>in</b> automatic document processing is 
+cacm-3087 : <b>of</b> important issues <b>in</b> programming natural language <b>systems</b> for limited domains and 
+cacm-2319 : great deal <b>of</b> <b>information</b> and a large number 
+cacm-2314 : the productivity <b>of</b> programmers working <b>in</b> such domains a system 
+cacm-2990 : <b>of</b> <b>information</b> <b>retrieval</b> <b>systems</b> can be evaluated <b>in</b> a number <b>of</b> different ways much <b>of</b> the published evaluation work 
+cacm-2947 : r m <b>information</b> <b>retrieval</b> text editing minicomputers crtstime 
+cacm-2372 : on the implementation <b>of</b> security measures <b>in</b> <b>information</b> <b>systems</b> the security <b>of</b> an <b>information</b> system may be represented 
+cacm-2198 : host language <b>systems</b> and those found <b>in</b> self-contained <b>systems</b> after some discussion <b>of</b> the problems <b>of</b> data independence and bindingthe 
+cacm-1652 : <b>in</b> area such as <b>information</b> <b>retrieval</b> document classification computer-aided teaching 
+cacm-2390 : explosion <b>of</b> papers <b>in</b> the mathematical sciences and 
+cacm-2631 : searching <b>in</b> direct access <b>systems</b> using direct access computer 
+cacm-1924 : as a function <b>of</b> the number <b>of</b> pages <b>of</b> main memory available to 
+cacm-2407 : undergraduate curricula management <b>systems</b> <b>information</b> <b>systems</b> <b>information</b> analysis system design <b>systems</b> analysis 1.52 3.51 ca731201 
+cacm-1514 : <b>retrieval</b> <b>systems</b> the expected gain and 
+cacm-0982 : the measurement <b>of</b> physical similarity <b>in</b> pairs <b>of</b> strings is discussed a 
+cacm-2846 : <b>of</b> n keys the <b>retrieval</b> time measured <b>in</b> terms <b>of</b> bit inspections <b>of</b> one key is <b>of</b> the order logmn and 
+cacm-1066 : placing on such <b>systems</b> some <b>of</b> the components <b>of</b> such a system are 
+cacm-2519 : on the problem <b>of</b> communicating complex <b>information</b> the nature <b>of</b> the difficulty involved <b>in</b> communicating mathematical results between 
+cacm-2812 : the statement <b>of</b> requirements was written <b>in</b> ads accurately defined <b>systems</b> and analyzed by a 
+cacm-2968 : path length analysis <b>of</b> algorithms <b>information</b> storage and <b>retrieval</b> 3.7 3.72 3.74 5.31 
+cacm-0987 : programming language for <b>information</b> processing on automatic data 
+cacm-2577 : data management <b>retrieval</b> <b>systems</b> 3.36 3.70 3.73 3.89 

@@ -1,0 +1,100 @@
+cacm-1170 : system based <b>on</b> pattern recognition and learning 
+cacm-3175 : breaking substitution ciphers <b>is</b> represented as a probabilistic 
+cacm-0084 : survey of progress and 
+cacm-0718 : verification and <b>what</b> <b>is</b> the cost of this 
+cacm-0248 : discussion <b>on</b> <b>what</b> <b>is</b> proprietary in mathematical programming 
+cacm-0397 : the identification <b>is</b> rigid the reference material 
+cacm-3128 : new synchronization mechanism <b>is</b> proposed using abstract objects 
+cacm-2541 : algorithms decision of <b>what</b> to do without endangering 
+cacm-3112 : <b>on</b> a serial computer a 
+cacm-1711 : legal problems focus <b>is</b> also <b>on</b> trouble spots in contracting 
+cacm-2749 : event method <b>is</b> found to be more 
+cacm-2739 : it <b>is</b> based <b>on</b> ten years experience parsing 
+cacm-1518 : <b>is</b> formidable one general technique 
+cacm-2457 : programs with emphasis <b>on</b> the difference between the 
+cacm-3134 : method <b>is</b> particularly suitable for queries 
+cacm-1112 : a test run <b>on</b> garbled <b>text</b> correct identifications were made 
+cacm-1908 : conducted at mit <b>is</b> described in this paper 
+cacm-2396 : simple english muse <b>is</b> a computer model for 
+cacm-1267 : <b>on</b> procedures for determining a 
+cacm-1248 : <b>what</b> it <b>is</b> supposed to do cacm 
+cacm-2802 : <b>is</b> known as stepwise program 
+cacm-1383 : <b>what</b> <b>is</b> interesting in mathematics the 
+cacm-1453 : particular of algol <b>is</b> described in this paper 
+cacm-2375 : time <b>is</b> introduced as another meaningful 
+cacm-3089 : under intermittent failures <b>is</b> proposed the system <b>is</b> assumed to operate with 
+cacm-2931 : <b>is</b> a machine <b>what</b> <b>is</b> a computable process how 
+cacm-2479 : addendum <b>on</b> information systems administration an 
+cacm-3173 : <b>what</b> does a person know 
+cacm-2864 : <b>is</b> made more explicit through 
+cacm-2343 : proposal <b>is</b> presented which utilizes several 
+cacm-1652 : computer-aided teaching and <b>text</b> editing this code called 
+cacm-3088 : general equations for idealized 
+cacm-1099 : through computer use <b>including</b> that of programmer <b>is</b> important for future rehabilitation 
+cacm-1164 : systems <b>on</b> ibm system/360 cacm december 
+cacm-2356 : secondary goal <b>is</b> to include in the 
+cacm-2835 : of procedures <b>is</b> presented for use in 
+cacm-2985 : computer-based information systems <b>is</b> investigated evidence <b>is</b> provided that the relationship 
+cacm-2390 : that this places <b>on</b> research it <b>is</b> suggested that a tree 
+cacm-2030 : the algorithm <b>is</b> essentially no more than 
+cacm-2909 : <b>what</b> can we do about 
+cacm-1457 : different data structures <b>including</b> linear <b>text</b> sparse matrices and tree 
+cacm-1461 : discussion summary <b>on</b> operating systems cacm march 
+cacm-1616 : tensor calculations <b>on</b> computer appendix in the 
+cacm-2989 : are based <b>on</b> analysis of traces of 
+cacm-3006 : anomalies with variable partition 
+cacm-1625 : of <b>what</b> the program <b>is</b> supposed to do these 
+cacm-3011 : us local governments <b>what</b> exists <b>is</b> management-oriented computing involving the 
+cacm-2764 : <b>on</b> <b>what</b> we call semantic density 
+cacm-2631 : <b>is</b> made to overcome one 
+cacm-0855 : data <b>on</b> bryant disc file memory 
+cacm-2582 : <b>is</b> described the method <b>is</b> particularly suited to those 
+cacm-1926 : input very flexible <b>formatting</b> capabilities <b>including</b> up to eight columns 
+cacm-0724 : <b>on</b> the part of their 
+cacm-1750 : <b>is</b> placed <b>on</b> estimating expected gains when 
+cacm-1413 : <b>on</b> <b>what</b> time scale this ignorance 
+cacm-1470 : specifications a command <b>is</b> an imperative statement that 
+cacm-0195 : <b>what</b> <b>is</b> a code cacm may 
+cacm-1046 : paper <b>is</b> purely expository except in 
+cacm-3097 : bit 0 <b>what</b> <b>is</b> the best shift strategy 
+cacm-3065 : insertion algorithm <b>is</b> inherently much more difficult 
+cacm-2092 : the system <b>is</b> written in lisp 1.5 
+cacm-2629 : <b>is</b> a general-purpose multi-user interactive 
+cacm-2738 : use of the concept 
+cacm-1001 : this paper <b>is</b> concerned with the question 
+cacm-2876 : over <b>what</b> a user <b>is</b> allowed to do with 
+cacm-3142 : man agement packages <b>including</b> poor software <b>is</b> indicated while most management 
+cacm-2572 : <b>what</b> <b>is</b> proposed 5 take steps 
+cacm-2597 : monitors an operating system 
+cacm-1681 : console easy english <b>is</b> a natural command language 
+cacm-1747 : three criteria for designing 
+cacm-2927 : storage requirement <b>is</b> described using <b>on</b> logn/log logn bits as 
+cacm-1828 : <b>what</b> are the rules for 
+cacm-2305 : <b>what</b> today <b>is</b> termed a program although 
+cacm-2312 : <b>is</b> given of <b>what</b> can be expected to 
+cacm-2344 : <b>on</b> the optimization of performance 
+cacm-1485 : the structure of programming 
+cacm-2988 : tractable methodology for <b>including</b> accurately the effects of 
+cacm-2871 : user termination <b>is</b> not proven and incorrect 
+cacm-1739 : <b>is</b> described and an implementation 
+cacm-2624 : have been implemented <b>on</b> a limited number of 
+cacm-2341 : programmed <b>on</b> a printer in <b>what</b> appears to be an 
+cacm-2786 : interfaces directly with <b>text</b> <b>formatting</b> programs so mixtures of 
+cacm-2580 : method <b>is</b> described for composing musical 
+cacm-2622 : scheme <b>is</b> based <b>on</b> using a function h 
+cacm-2632 : multi-mini-processor this philosophy <b>is</b> realized through the introduction 
+cacm-2893 : <b>is</b> <b>what</b> might explain the differences 
+cacm-2314 : than focusing just <b>on</b> language features since algorithms 
+cacm-2882 : the model <b>is</b> designed to estimate the 
+cacm-1698 : world efficiently <b>is</b> as important as its 
+cacm-2947 : <b>text</b> handling and <b>text</b> analysis system for nontechnical 
+cacm-1196 : applications of differential equations 
+cacm-1462 : <b>is</b> built <b>on</b> the well-established need for 
+cacm-2987 : <b>what</b> <b>is</b> essentially a binary tree 
+cacm-3179 : sought to discover <b>what</b> <b>is</b> currently known about eft 
+cacm-0320 : tables <b>is</b> explained by means of 
+cacm-2519 : <b>is</b> examined the problem <b>is</b> analyzed in terms of 
+cacm-2859 : the limiting value <b>is</b> derived for the relative 
+cacm-1854 : <b>on</b> multiprogramming machine coding and 
+cacm-2852 : systems this paper <b>is</b> a report <b>on</b> a course entitled the 
+cacm-2165 : of general relativity <b>including</b> the derivation of the 

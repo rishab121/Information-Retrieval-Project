@@ -1,0 +1,100 @@
+cacm-2232 : vector <b>and</b> <b>descriptions</b> <b>of</b> alternate widths <b>all</b> widths are calculated for 
+cacm-3037 : easily extended to <b>find</b> the prime factorization <b>of</b> <b>all</b> integers between 2 <b>and</b> n <b>in</b> time proportional to n 
+cacm-2795 : base a model <b>of</b> natural language <b>based</b> <b>on</b> an underlying language-free representation 
+cacm-3141 : a set <b>of</b> uniquely numbered <b>processes</b> arranged <b>in</b> a circle <b>in</b> which no central controller 
+cacm-2833 : <b>systems</b> which use <b>multiple</b> levels <b>of</b> storage <b>and</b> large virtual address space 
+cacm-2168 : list tracing <b>in</b> <b>systems</b> allowing <b>multiple</b> cell-types list-processing <b>systems</b> have each allowed the 
+cacm-2378 : an <b>operating</b> system <b>based</b> <b>on</b> the concept <b>of</b> a supervisory computer an 
+cacm-2358 : <b>and</b> implementation considerations <b>of</b> segmentation <b>and</b> sharing <b>in</b> multics are first discussed 
+cacm-2217 : improve performance <b>on</b> problems <b>in</b> a specific domain <b>and</b> <b>on</b> problems <b>in</b> a variety <b>of</b> domains some variations <b>of</b> the learning program were 
+cacm-1928 : are improved ease <b>and</b> economy <b>in</b> model generation economy <b>in</b> execution time <b>and</b> space <b>and</b> a facility for <b>handling</b> simultaneous activities the main 
+cacm-1677 : or programming <b>systems</b> simplicity <b>of</b> programmed addressing flexibility <b>of</b> data structures efficiency <b>of</b> memory utilization variability <b>of</b> system composition during execution 
+cacm-1844 : <b>on</b> both the size <b>and</b> power <b>of</b> the machines used <b>and</b> the computation requirements <b>of</b> the particular mix <b>of</b> users this system organization 
+cacm-2345 : management <b>systems</b> <b>systems</b> analysis management information <b>systems</b> information <b>systems</b> development information analysis system 
+cacm-2080 : <b>and</b> control <b>of</b> a hierarchy <b>of</b> <b>processes</b> as well as the 
+cacm-2524 : searching the problem <b>of</b> searching the set <b>of</b> keys <b>in</b> a <b>file</b> to <b>find</b> a key which is 
+cacm-1962 : <b>and</b> edit functions <b>of</b> time a program which 
+cacm-3134 : retrieval <b>of</b> attribute <b>based</b> information <b>systems</b> using the normal multiplication 
+cacm-2060 : <b>on</b> the principle <b>of</b> completeness <b>and</b> the reference concept gedanken 
+cacm-1749 : number <b>of</b> sequential <b>processes</b> these sequential <b>processes</b> are placed at various 
+cacm-2424 : dynamic verification <b>of</b> <b>operating</b> system decisions dynamic verification 
+cacm-3148 : <b>on</b> primitive notions <b>of</b> module <b>message</b> <b>and</b> transaction key the methodology 
+cacm-2396 : <b>of</b> familiar concepts <b>and</b> the addition <b>of</b> new ones muse also 
+cacm-2931 : giving <b>descriptions</b> <b>of</b> <b>processes</b> the definition <b>of</b> the precise meaning <b>of</b> a program then requires 
+cacm-2801 : <b>based</b> <b>on</b> the fixed-length combination <b>of</b> two variable field-length encodings 
+cacm-2317 : programming <b>systems</b> <b>and</b> languages 1965-1975 <b>in</b> spite <b>of</b> impressive gains by pl/i 
+cacm-1976 : <b>of</b> <b>multiple</b> accesses <b>in</b> many cases 2 the 
+cacm-2339 : was placed <b>on</b> computerized construction <b>of</b> a reference <b>file</b> <b>of</b> verbal <b>descriptions</b> for use by the 
+cacm-1003 : thermal diffusion <b>in</b> biochemical <b>systems</b> <b>in</b> the thermal detection <b>of</b> rapid biochemical reactions it 
+cacm-0243 : new family <b>of</b> codes for detecting <b>and</b> correcting <b>multiple</b> errors <b>in</b> a binary-coded <b>message</b> the <b>message</b> itself is arranged conceptually 
+cacm-1753 : virtual memory <b>processes</b> <b>and</b> sharing <b>in</b> multics some basic concepts 
+cacm-2750 : <b>in</b> todays multilevel storage <b>systems</b> is usually <b>based</b> <b>on</b> qualitative ad hoc decisions 
+cacm-2003 : <b>and</b> efficient <b>in</b> order to perform <b>all</b> the functions needed <b>in</b> computer-aided circuit design the 
+cacm-1854 : termination <b>and</b> synchronization <b>of</b> parallel <b>processes</b> a set <b>of</b> routines representing these instructions 
+cacm-2920 : the <b>operating</b> system <b>and</b> the <b>processes</b> allows formalization <b>of</b> risk <b>and</b> safety concepts the bipartite 
+cacm-3026 : architecture is <b>based</b> <b>on</b> a 36-bit word ones 
+cacm-2342 : <b>and</b> associated subproblems <b>in</b> the form <b>of</b> parallel programs <b>and</b> informal proofs <b>of</b> correctness have been given 
+cacm-1135 : <b>of</b> the class <b>of</b> <b>all</b> batch <b>file</b> <b>processes</b> this new philosophy has 
+cacm-3157 : <b>of</b> production <b>systems</b> programs defined <b>in</b> terms <b>of</b> sets <b>of</b> rewriting rules cacm august 
+cacm-2482 : method <b>based</b> <b>on</b> the concept <b>of</b> the hierarchical <b>operating</b> system for constructing appropriate 
+cacm-1199 : operation <b>of</b> a computation center <b>in</b> terms <b>of</b> information nets decision <b>processes</b> <b>and</b> control functions experiments performed 
+cacm-3073 : programming <b>and</b> that parallel composition <b>of</b> communicating sequential <b>processes</b> is a fundamental program 
+cacm-2017 : <b>of</b> virtual memory machines <b>descriptions</b> <b>of</b> the experimental sort programs 
+cacm-1747 : <b>of</b> parallel <b>processes</b> protection <b>in</b> multiprogrammed <b>systems</b> <b>and</b> the assignment <b>of</b> capability indexes cacm may 
+cacm-0409 : distinct data <b>descriptions</b> <b>and</b> the content <b>and</b> use <b>of</b> such <b>descriptions</b> are discussed <b>in</b> some detail cacm january 
+cacm-2379 : the design <b>of</b> the venus <b>operating</b> system the venus <b>operating</b> system is an experimental 
+cacm-2535 : <b>and</b> simulation results are <b>based</b> <b>on</b> the model <b>of</b> the computer-communications system being 
+cacm-3074 : size <b>of</b> the storage area <b>and</b> <b>in</b> a space <b>of</b> the order <b>of</b> one bit for each 
+cacm-1517 : f-test two <b>multiple</b> comparison methods <b>and</b> a <b>multiple</b> ranking method we illustrate 
+cacm-2188 : the capabilities <b>of</b> the graphics hardware <b>and</b> <b>of</b> the computational requirements <b>of</b> the graphics application the 
+cacm-0696 : automatically records <b>all</b> incoming <b>and</b> outgoing data <b>on</b> magnetic tape to be 
+cacm-2582 : interactive text editor <b>and</b> the <b>file</b> system module <b>of</b> an <b>operating</b> system have shown its 
+cacm-2949 : problem <b>in</b> networks distributed <b>operating</b> system store <b>and</b> forward packet switching store 
+cacm-1959 : <b>of</b> associating program structures <b>and</b> interrupt generating conditions with 
+cacm-1698 : entire user community <b>based</b> <b>on</b> the properties <b>of</b> this community we have 
+cacm-1350 : whose rules are <b>all</b> <b>of</b> the form z cy1 
+cacm-1750 : the general design <b>of</b> the hardware arrangement <b>and</b> the software components <b>and</b> functions <b>of</b> such a system are 
+cacm-2407 : to information <b>systems</b> <b>in</b> organizations is discussed <b>and</b> a curriculum is proposed 
+cacm-3023 : multiprocessing debugging <b>and</b> monitoring error <b>handling</b> <b>and</b> input/output operations a final 
+cacm-1846 : some <b>of</b> the problems <b>of</b> simulating discrete event <b>systems</b> particularly computer <b>systems</b> <b>on</b> a conventional digital computer 
+cacm-3127 : <b>of</b> communicating <b>processes</b> by providing efficient interprocess 
+cacm-2688 : attribute <b>based</b> <b>file</b> organization <b>in</b> a paged memory environment 
+cacm-2376 : consisting <b>of</b> many sending <b>processes</b> which deposit messages <b>in</b> a buffer <b>and</b> many receiving <b>processes</b> which remove messages from 
+cacm-2629 : the nature <b>and</b> implementation <b>of</b> the <b>file</b> system <b>and</b> <b>of</b> the user command interface 
+cacm-2522 : the design <b>and</b> implementation <b>of</b> a dispatcher <b>based</b> <b>on</b> the working set principle 
+cacm-2438 : a model <b>and</b> stack implementation <b>of</b> <b>multiple</b> environments many control <b>and</b> access environment structures require 
+cacm-2138 : permitting the definition <b>of</b> the representation <b>of</b> <b>all</b> data structures <b>in</b> terms <b>of</b> the access algorithm for 
+cacm-1706 : may be declared <b>and</b> called <b>in</b> a standard algol context 
+cacm-2890 : constructed one to <b>find</b> the optimal <b>message</b> routing <b>and</b> the other to illustrate 
+cacm-3002 : a record <b>and</b> <b>file</b> partitioning model one <b>of</b> the main objectives <b>in</b> the design <b>of</b> a <b>file</b> system is the reduction 
+cacm-1388 : <b>in</b> a system <b>of</b> such equations <b>and</b> then generates the expansions 
+cacm-2174 : original work <b>of</b> gale <b>and</b> shapley <b>on</b> an assignment method using 
+cacm-1264 : output <b>of</b> this system or <b>of</b> executing programs may be 
+cacm-3049 : the contents <b>of</b> these files <b>on</b> a variety <b>of</b> graphical hardware <b>and</b> for performing graphical batch 
+cacm-1349 : <b>in</b> western europe <b>in</b> the summer <b>of</b> 1966 gives brief <b>descriptions</b> <b>of</b> computing activities at each 
+cacm-2266 : approximating <b>all</b> zeros <b>of</b> a polynomial with only 
+cacm-2542 : is <b>based</b> <b>on</b> a simple high level 
+cacm-1032 : self-organization <b>of</b> the <b>file</b> <b>based</b> <b>on</b> its history <b>and</b> past performance <b>and</b> the second is a 
+cacm-1226 : many <b>systems</b> the selection <b>of</b> an organization for the 
+cacm-2950 : implementing flexible schedulers <b>in</b> real <b>operating</b> <b>systems</b> the policy-driven scheduler <b>of</b> bernstein <b>and</b> sharp is discussed as 
+cacm-1752 : <b>and</b> the effects <b>of</b> program mix <b>and</b> loading variations are also 
+cacm-2622 : require secrecy <b>in</b> the computer <b>all</b> aspects <b>of</b> the system including <b>all</b> relevant code <b>and</b> data bases may be 
+cacm-2623 : techniques involve special <b>handling</b> <b>of</b> leading <b>and</b> trailing blanks <b>and</b> the encoding <b>of</b> other symbols <b>in</b> groups <b>of</b> fixed size as unique 
+cacm-2002 : functions <b>of</b> positioning locating <b>and</b> scaling <b>in</b> the layout <b>of</b> <b>multiple</b> subplots <b>of</b> axes labels <b>and</b> <b>all</b> other elements <b>of</b> the plot are handled 
+cacm-1961 : to <b>find</b> <b>all</b> <b>of</b> the elementary circuits <b>of</b> a graph the algorithm 
+cacm-2947 : a low-cost <b>in</b> teractive text <b>handling</b> <b>and</b> text analysis system for 
+cacm-2357 : for design <b>and</b> checkout <b>and</b> $16,000 for parts <b>and</b> fabrication <b>all</b> aspects <b>of</b> the system are described 
+cacm-2184 : <b>of</b> a programming language <b>and</b> the <b>file</b> names <b>of</b> an <b>operating</b> system the two functions 
+cacm-2819 : experiments <b>in</b> text <b>file</b> compression a system for 
+cacm-3081 : <b>in</b> addition <b>multiple</b> <b>processes</b> can be active <b>in</b> the same environment structure 
+cacm-1462 : <b>operating</b> <b>systems</b> this implies that <b>all</b> applications-no matter how large 
+cacm-2160 : canonical structure <b>in</b> attribute <b>based</b> <b>file</b> organization a new <b>file</b> structure for attribute <b>based</b> retrieval is proposed <b>in</b> this paper it allows 
+cacm-3119 : the impact <b>of</b> distributions <b>and</b> disciplines <b>on</b> <b>multiple</b> processor <b>systems</b> simple queueing models are 
+cacm-3039 : allows nearly <b>all</b> <b>of</b> the activity needed for 
+cacm-1514 : a <b>file</b> adjustment procedure <b>based</b> <b>on</b> maximizing the bayes expected 
+cacm-1066 : placing <b>on</b> such <b>systems</b> some <b>of</b> the components <b>of</b> such a system are 
+cacm-2519 : terms <b>of</b> psychological <b>and</b> information-processing <b>processes</b> <b>and</b> what turns out to 
+cacm-0825 : the analysis <b>of</b> spark-chamber data an <b>operating</b> computer program that <b>processes</b> photographically recorded data is 
+cacm-2307 : the early promise <b>of</b> library automation <b>and</b> <b>of</b> the mechanization <b>of</b> documentation <b>processes</b> has not been fulfilled 
+cacm-2320 : <b>operating</b> <b>systems</b> concurrent <b>processes</b> shared data mutual exclusion 
+cacm-2740 : cooperating sequential <b>processes</b> the <b>processes</b> synchronize by means <b>of</b> semaphores <b>and</b> extended semaphores queue semaphores 

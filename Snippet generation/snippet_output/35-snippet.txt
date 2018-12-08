@@ -1,0 +1,100 @@
+cacm-3175 : relaxation <b>algorithm</b> substitution ciphers are codes 
+cacm-1696 : compared <b>with</b> <b>those</b> <b>of</b> another recently propose method 
+cacm-2956 : is a set <b>of</b> values together <b>with</b> a set <b>of</b> primitive operations <b>on</b> <b>those</b> values among these are 
+cacm-1387 : solution <b>of</b> systems <b>of</b> <b>polynomial</b> equations by elimination the 
+cacm-1862 : universities <b>especially</b> <b>those</b> <b>with</b> strong european traditions adapt 
+cacm-2217 : <b>and</b> the proving program <b>and</b> for analyzing <b>and</b> summarizing results data was 
+cacm-1935 : the mean <b>and</b> variance <b>of</b> the number <b>of</b> trials to recover a 
+cacm-0284 : manipulation <b>of</b> <b>algebraic</b> expressions an <b>algorithm</b> for algebraically manipulating expressions 
+cacm-2414 : arithmetic overa <b>finite</b> field a1 <b>algorithm</b> a469 cacm november 1973 
+cacm-2704 : for <b>dealing</b> <b>with</b> exceptions in an orderly 
+cacm-1474 : <b>of</b> experiments for <b>testing</b> the validity <b>of</b> these models it is 
+cacm-2167 : powerful simplification <b>algorithms</b> <b>and</b> the number-theoretic conjectures <b>on</b> which they rely results 
+cacm-2283 : produced by each <b>of</b> the <b>algorithms</b> are presented <b>and</b> the relative performances <b>of</b> the <b>algorithms</b> are compared it is 
+cacm-2170 : <b>of</b> <b>symbolic</b> computation techniques to problems 
+cacm-2850 : <b>symbolic</b> execution <b>and</b> program <b>testing</b> this paper describes the 
+cacm-0719 : basis <b>of</b> compiler decoding <b>algorithms</b> the proper use <b>of</b> machines <b>of</b> this class for compilation 
+cacm-1806 : <b>and</b> a critical review <b>of</b> relating literature is presented 
+cacm-2166 : <b>of</b> the applications <b>of</b> automated <b>algebraic</b> manipulation which have been 
+cacm-2437 : in accordance <b>with</b> the <b>algorithm</b> <b>and</b> the average performance <b>of</b> the transformation methods <b>on</b> these files will be 
+cacm-1393 : manipulation <b>of</b> polynomials in any number 
+cacm-2931 : giving descriptions <b>of</b> processes the definition <b>of</b> the precise meaning <b>of</b> a program then requires 
+cacm-3203 : <b>symbolic</b> <b>algebraic</b> manipulation <b>and</b> differentiation the general recursive 
+cacm-0762 : some remarks <b>on</b> the syntax <b>of</b> <b>symbolic</b> programming languages cacm august 
+cacm-1144 : activity <b>and</b> homogeneity <b>of</b> an alpha source it 
+cacm-2997 : convex hulls <b>of</b> <b>finite</b> sets <b>of</b> poin ts in two 
+cacm-2681 : model <b>of</b> a multiprogramming system is 
+cacm-2946 : writers problem <b>and</b> the problem <b>of</b> information streams sharing a 
+cacm-2090 : algebra <b>symbolic</b> multiplication <b>algebraic</b> distribution <b>algebraic</b> multiplication distribution <b>algorithm</b> multiplication <b>algorithm</b> product <b>algorithm</b> <b>polynomial</b> distribution <b>polynomial</b> expansion 3.10 3.17 3.20 
+cacm-2410 : another a generalization <b>of</b> a scheme <b>of</b> hamming for converting a 
+cacm-2932 : problems <b>and</b> methods illustrative examples <b>of</b> practical <b>and</b> theoretical significance are given 
+cacm-1664 : the emphasis is <b>on</b> theoretical considerations <b>and</b> methodology rather than <b>on</b> programming details results are 
+cacm-2516 : consist <b>on</b> n-levels <b>of</b> linearly connected memory hardware 
+cacm-1216 : prints out the <b>symbolic</b> derivative <b>of</b> an absolutely continuous elementary 
+cacm-1394 : computation <b>of</b> <b>algebraic</b> properties <b>of</b> elementary particle reactions using 
+cacm-1946 : the choice <b>of</b> the best <b>algorithm</b> to bezouts determinant <b>and</b> collins reduced <b>polynomial</b> remainder sequence prs <b>algorithm</b> detailed tests performed <b>on</b> sample problems conclusively show 
+cacm-1893 : <b>of</b> <b>polynomial</b> equations <b>polynomial</b> zeros root-squaring operations graeffe 
+cacm-1847 : that <b>of</b> welch <b>and</b> superior to that <b>of</b> gotlieb <b>and</b> corneil testsshow our <b>algorithm</b> to be remarkably efficient 
+cacm-0892 : the retrieval <b>and</b> manipulation <b>of</b> data file records the 
+cacm-2402 : pictorial pattern recognition <b>and</b> the phase problem <b>of</b> x-ray crystallography the availability 
+cacm-1397 : proceedings <b>of</b> the acm symposium <b>on</b> <b>symbolic</b> <b>and</b> <b>algebraic</b> manipulation the acm symposium 
+cacm-2323 : j <b>algebraic</b> manipulation special functions <b>algebraic</b> simplification <b>symbolic</b> integration <b>algebraic</b> geometry differential algebra 1.50 
+cacm-2289 : bits <b>of</b> memory <b>and</b> a small amount <b>of</b> combinational logic <b>and</b> communicates mainly <b>with</b> its immediate neighbors in 
+cacm-0644 : describing the manipulation <b>of</b> strings <b>of</b> characters <b>and</b> symbols the concept <b>of</b> strings introduced in the 
+cacm-1948 : <b>of</b> <b>finite</b> groups character tables <b>and</b> commutator calculus group theory 
+cacm-2560 : results are presented <b>of</b> an analysis <b>of</b> a probabilistic model <b>of</b> a multiprogrammed computer system 
+cacm-2767 : <b>and</b> limitations <b>of</b> the <b>algorithms</b> the end-order tree <b>algorithm</b> is shown to be 
+cacm-2266 : all zeros <b>of</b> a <b>polynomial</b> <b>with</b> only real zeros the 
+cacm-2081 : saving memory space <b>and</b> superfluous operations sequences <b>of</b> matrices <b>and</b> sequences <b>of</b> sequences <b>of</b> matrices are considered <b>and</b> matrix operators areext ended 
+cacm-0265 : <b>symbolic</b> languages <b>and</b> for use within fortran 
+cacm-0393 : <b>with</b> an <b>algebraic</b> compiler cacm february 1961 
+cacm-1334 : by the program <b>and</b> typeset photographically <b>on</b> an s-560 photon system 
+cacm-1524 : the root <b>of</b> a <b>polynomial</b> it is generally difficult 
+cacm-2450 : for the design <b>of</b> scheduling <b>and</b> paging <b>algorithms</b> although the words working 
+cacm-1846 : <b>of</b> <b>dealing</b> <b>with</b> simultaneous events in separate 
+cacm-1392 : experience <b>with</b> formac <b>algorithm</b> design various facets <b>of</b> the design <b>and</b> implementation <b>of</b> mathematical expression manipulation <b>algorithms</b> are discussed concrete examples 
+cacm-1365 : estimation tensor analysis <b>and</b> generation <b>of</b> the coefficients <b>of</b> equations in keplerian motion 
+cacm-0111 : degree <b>of</b> accuracy <b>and</b> rapid convergence are realized 
+cacm-2253 : a by-product <b>of</b> the <b>symbolic</b> manipulation <b>of</b> expressions in the matrix 
+cacm-2645 : to knuths work <b>on</b> the analysis <b>of</b> <b>algorithms</b> <b>and</b> some <b>of</b> the directions for further 
+cacm-2939 : kinds <b>of</b> abstractions-procedural control <b>and</b> <b>especially</b> data abstractions-are useful in 
+cacm-1396 : capabilities <b>of</b> differentiation integration <b>and</b> the supporting capabilities <b>of</b> simplification displays <b>and</b> input/output editing <b>and</b> precision arithmetic general systems-both 
+cacm-2719 : the mechanization <b>of</b> such analysis <b>and</b> describes a system metric 
+cacm-1699 : emphasis <b>on</b> interactive man-machine language <b>and</b> <b>on</b> some <b>of</b> the mechanical <b>and</b> psychological limitations in their 
+cacm-1214 : <b>of</b> subroutines to allow <b>algebraic</b> manipulations <b>on</b> the ibm 7094 computer 
+cacm-1012 : by the analyzer <b>and</b> <b>those</b> <b>of</b> a conventional phrase structure 
+cacm-0731 : capable <b>of</b> calling functions <b>and</b> subroutines coded in machine 
+cacm-2567 : but to be <b>especially</b> efficient when <b>dealing</b> <b>with</b> stiff systems <b>of</b> differential equations it is 
+cacm-1391 : some <b>of</b> the objects <b>of</b> modern algebra <b>finite</b> groups maps <b>and</b> sets <b>of</b> maps subsets <b>and</b> sets <b>of</b> subsets constant integers <b>and</b> truth-values designed to operate 
+cacm-2165 : general relativity <b>and</b> the application <b>of</b> <b>algebraic</b> manipulative systems the paper 
+cacm-1667 : <b>of</b> <b>polynomial</b> equations <b>polynomial</b> zeros root-squaring operations graeffe 
+cacm-1386 : <b>finite</b> number <b>of</b> steps the <b>algorithm</b> consists <b>of</b> factoring single-variable instances <b>of</b> the given <b>polynomial</b> by kroneckers method <b>and</b> introducing the remaining variables 
+cacm-3131 : <b>algorithms</b> for 8-bit <b>and</b> 16-bit implementations <b>of</b> focus are included cacm 
+cacm-1589 : <b>and</b> numeric input <b>and</b> display online <b>and</b> off line program preparation 
+cacm-2169 : be installed quickly <b>and</b> easily <b>on</b> a variety <b>of</b> computing machines in this 
+cacm-1154 : than <b>finite</b> automata <b>and</b> less powerful than general 
+cacm-1388 : <b>on</b> a <b>finite</b> taylor series expansion that 
+cacm-2094 : permit the application <b>of</b> special <b>algorithms</b> mainly based <b>on</b> the exchange <b>algorithms</b> <b>of</b> remes 1934 1935 for 
+cacm-2490 : components <b>and</b> simple paths the <b>algorithm</b> for partitioning <b>of</b> a graph into simple 
+cacm-3134 : requesting a group <b>of</b> information items all <b>of</b> which possess a particular 
+cacm-1180 : in accordance <b>with</b> definitions <b>of</b> <b>symbolic</b> terms presented systematically in 
+cacm-2341 : any <b>of</b> three dimensions <b>and</b> merged <b>on</b> the basis <b>of</b> program-defined connection points some 
+cacm-2580 : <b>of</b> productions together <b>with</b> sets <b>of</b> applicability rules <b>and</b> weight rules which operate 
+cacm-2135 : rapid computation <b>of</b> general interpolation formulas <b>and</b> mechanical quadrature rules let 
+cacm-1628 : <b>with</b> an enormous variety <b>of</b> activities <b>and</b> is carried <b>on</b> by people <b>with</b> a great variety <b>of</b> backgrounds it seems clear 
+cacm-2644 : because <b>of</b> the large number <b>of</b> strategies <b>and</b> inference rules presently under 
+cacm-2314 : program composition entry <b>testing</b> debugging editing optimization <b>and</b> packaging implementation <b>of</b> a generalized environment structure 
+cacm-2836 : the correctness <b>of</b> the <b>algorithm</b> is established the method 
+cacm-2268 : runge-kutta <b>and</b> extrapolation methods both <b>polynomial</b> <b>and</b> rational the <b>testing</b> procedure is described together 
+cacm-0717 : partitioning <b>algorithms</b> for <b>finite</b> sets the partitions <b>of</b> a set <b>with</b> n elements are represented 
+cacm-2499 : weightings may depend <b>on</b> allocation <b>algorithms</b> these are not arbitrary 
+cacm-2987 : a fast <b>algorithm</b> for <b>testing</b> the inclusion <b>of</b> a poin t in 
+cacm-3071 : calculation <b>of</b> certain <b>algebraic</b> invariants <b>of</b> the weyl tensor which 
+cacm-2164 : <b>and</b> to horowitz <b>and</b> tobeys reexamination <b>of</b> the hermite <b>algorithm</b> for integrating rational functions 
+cacm-3201 : <b>symbolic</b> manipulation <b>of</b> poisson series poisson series 
+cacm-1543 : <b>symbolic</b> <b>algebraic</b> manipulation <b>and</b> differentiation to illustrate the 
+cacm-1619 : generated by some <b>algorithms</b> used to compute various 
+cacm-1210 : simplicity some comments <b>on</b> two years use <b>of</b> these subroutines are given 
+cacm-0319 : <b>on</b> a class <b>of</b> iteration formulas <b>and</b> some historical notes the 
+cacm-3121 : <b>of</b> computation <b>and</b> thus do not modify 
+cacm-3031 : <b>of</b> proving the correctness <b>of</b> an implementation <b>of</b> an abstract data type 

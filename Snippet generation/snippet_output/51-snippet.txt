@@ -1,0 +1,100 @@
+cacm-0670 : statutes <b>and</b> regulations it also is 
+cacm-0763 : formal language <b>processors</b> cacm august 1963 eickel 
+cacm-1825 : lrk <b>processors</b> is developed these <b>processors</b> are capable of recognizing 
+cacm-2068 : multiprogramming <b>paging</b> modeling 4.32 ca700416 jb 
+cacm-2358 : <b>and</b> <b>paging</b> hardware cacm may 1972 
+cacm-2017 : sorting in a <b>paging</b> environment this sorting study 
+cacm-2175 : memory <b>and</b> processor time requirements this 
+cacm-2434 : <b>and</b> new assumptions are introduced 
+cacm-2373 : working-set model <b>paging</b> <b>paging</b> <b>algorithms</b> program behavior program modeling 
+cacm-0303 : mechanical languages <b>and</b> their <b>processors</b> the suggestions in this 
+cacm-2080 : philosophy <b>and</b> structure of a multiprogramming 
+cacm-1554 : <b>and</b> automatic plotter have been 
+cacm-2859 : by several <b>processors</b> simultaneously using several memory 
+cacm-2166 : series <b>and</b> a typical problem in 
+cacm-2069 : wallace <b>and</b> mason cacm april 1970 
+cacm-1810 : 1969 sayre d <b>paging</b> automatic <b>paging</b> demand <b>paging</b> folding automatic folding storage 
+cacm-1884 : <b>paging</b> machines demand <b>paging</b> replacement algorithm 4.30 ca690609 
+cacm-1728 : <b>algorithms</b> <b>and</b> for assessing the effects 
+cacm-1570 : on <b>paging</b> <b>and</b> programmer convenience are also 
+cacm-2714 : <b>and</b> p pm parallel <b>processors</b> working synchronously the paper 
+cacm-3152 : computation in a <b>paging</b> environment in order to 
+cacm-2881 : <b>paging</b> a counterexample is exhibited 
+cacm-2433 : this storage method <b>and</b> express parallel <b>algorithms</b> are described cacm october 
+cacm-3059 : of cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied to the analysis 
+cacm-2401 : <b>and</b> a hardware implementation of 
+cacm-3088 : <b>processors</b> main storage partitions <b>and</b> user tasks examples are 
+cacm-1811 : of the other <b>processors</b> communication between cooperating <b>processors</b> is by means of 
+cacm-2668 : demand <b>paging</b> with various memory sizes 
+cacm-2667 : memory <b>paging</b> demand <b>paging</b> software monitor program execution 
+cacm-2838 : <b>and</b> analyzed to determine sufficient 
+cacm-1158 : constructs for organizing <b>and</b> explicating parallel program segments 
+cacm-2365 : <b>paging</b> the efficiency of conventional 
+cacm-2085 : j r h <b>paging</b> machines demand <b>paging</b> replacement algorithm 4.30 ca700313 
+cacm-3156 : n$n$log2n <b>processors</b> the algorithm can be 
+cacm-3075 : <b>processors</b> <b>and</b> time a realistic model 
+cacm-2016 : probing <b>and</b> recording tools <b>and</b> specialized measurement facilities some 
+cacm-3073 : suggests that input <b>and</b> output are basic primitives 
+cacm-1471 : memory segments <b>and</b> other computing objects the 
+cacm-2342 : <b>and</b> associated subproblems in the 
+cacm-3006 : <b>and</b> <b>paging</b> <b>algorithms</b> an increase in mean 
+cacm-2723 : involving several list <b>processors</b> <b>and</b> one or more garbage 
+cacm-2973 : computer two <b>algorithms</b> are presented for sorting 
+cacm-2289 : array <b>and</b> typical row <b>and</b> column operations are readily 
+cacm-2692 : family of clipping <b>algorithms</b> is described these <b>algorithms</b> are able to clip 
+cacm-2266 : l parallel numerical <b>algorithms</b> real polynomials real zeros 
+cacm-1665 : operation since 1966 <b>and</b> <b>processors</b> generated have compared favorably 
+cacm-2872 : <b>paging</b> corrigendum cacm april 1976 
+cacm-2570 : more <b>processors</b> to minimize the execution 
+cacm-2896 : an exercise in proving 
+cacm-1569 : <b>and</b> statements parallel the structure 
+cacm-2450 : <b>and</b> <b>paging</b> <b>algorithms</b> although the words working 
+cacm-2114 : structure directory decoding <b>and</b> record retrieval are defined 
+cacm-2669 : saltzer j h <b>paging</b> demand <b>paging</b> memory models program models 
+cacm-2380 : file <b>and</b> i/o capabilities <b>and</b> clean flexible system structure 
+cacm-3070 : structure <b>and</b> operation of a hybrid 
+cacm-2195 : approach greater flexibility <b>and</b> adequacy in the particular 
+cacm-1389 : underlie such list <b>processors</b> as ipl lisp comit 
+cacm-1964 : <b>paging</b> working set <b>paging</b> rate multiprogramming 4.30 4.32 
+cacm-1923 : <b>processors</b> cacm march 1969 rosin 
+cacm-2645 : the analysis of <b>algorithms</b> <b>and</b> some of the directions 
+cacm-2863 : described <b>and</b> shown to be optimum 
+cacm-1957 : defined <b>and</b> <b>algorithms</b> for its use are 
+cacm-2262 : systems <b>and</b> compares them with traditional 
+cacm-1684 : <b>and</b> discussed <b>and</b> a procedure for producing 
+cacm-1752 : <b>and</b> <b>paging</b> <b>algorithms</b> that were implemented <b>and</b> the results of comparative 
+cacm-2522 : the design implementation <b>and</b> evaluation of a working 
+cacm-2497 : the <b>processors</b> <b>and</b> a special read-interlock cycle 
+cacm-2785 : the characteristics goals <b>and</b> philosophy of the language 
+cacm-3028 : 1946-49 <b>and</b> the atlas 1955-62 this 
+cacm-0082 : in language <b>processors</b> substitution of computer-oriented symbols 
+cacm-2740 : semaphores <b>and</b> extended semaphores queue semaphores 
+cacm-0320 : <b>and</b> expressing the logic required 
+cacm-1747 : input specifiability <b>and</b> asynchronous reproducibility of output 
+cacm-1468 : <b>algorithms</b> was proposed by the 
+cacm-1988 : a formalism for translator 
+cacm-2557 : vectors column vectors <b>and</b> square matrices the minimum 
+cacm-1680 : system language <b>processors</b> <b>and</b> compilers simulation models mathematical 
+cacm-2851 : conceptual model <b>and</b> a parallel-program model the 
+cacm-1795 : optimal code for serial 
+cacm-2298 : microprogramming <b>and</b> emulation the development of 
+cacm-2664 : the number of <b>processors</b> cacm april 1974 even 
+cacm-2128 : <b>processors</b> <b>and</b> thereby reduce over-head the 
+cacm-1324 : programmed <b>and</b> operating are described <b>and</b> reviewed the systems range 
+cacm-1601 : environment are developed <b>and</b> measurements of these statistics 
+cacm-0950 : parallel methods for integrating 
+cacm-2137 : <b>paging</b> environment the system described 
+cacm-2685 : the parallel execution of 
+cacm-1742 : <b>processors</b> the flexibility <b>and</b> power needed in the 
+cacm-1753 : the use of <b>paging</b> <b>and</b> segmentation is explained the 
+cacm-3153 : or <b>and</b> <b>paging</b> <b>and</b> file devices with fixed 
+cacm-1852 : of <b>processors</b> for programming languages is 
+cacm-1924 : of addition multiplication <b>and</b> inversion <b>algorithms</b> shows that a partitioned 
+cacm-2741 : decomposability instabilities <b>and</b> saturation in multiprogramming systems 
+cacm-2579 : by <b>algorithms</b> that eliminate redundant computations 
+cacm-2498 : two <b>algorithms</b> for assigning pages to 
+cacm-2022 : <b>paging</b> machines demand <b>paging</b> replacement algorithm 4.30 ca700715 
+cacm-2297 : s <b>paging</b> machines demand <b>paging</b> operating systems studies queuing 
+cacm-1591 : operating system language <b>processors</b> compilers library <b>and</b> users programs were at 
+cacm-2277 : demand <b>paging</b> scheme <b>and</b> the associate memory which 
+cacm-1262 : do together <b>and</b> hold these serve partly 

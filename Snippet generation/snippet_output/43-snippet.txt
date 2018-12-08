@@ -1,0 +1,100 @@
+cacm-2303 : preceding the founding <b>of</b> acm was dominated <b>by</b> the first large computer 
+cacm-2232 : <b>recognition</b> <b>and</b> the geometrical concept itself 
+cacm-3055 : most <b>by</b> 1/3 <b>of</b> a swap <b>and</b> asymptotically <b>by</b> 1/4 <b>of</b> a swap the algorithm 
+cacm-2151 : the implementation <b>of</b> such a system <b>and</b> the characteristics <b>of</b> this implementation are reported 
+cacm-2847 : to a experimentation <b>by</b> robinson <b>and</b> lewis indicates that for 
+cacm-1170 : infer word classes <b>and</b> rules <b>of</b> syntactic combination from experience 
+cacm-2113 : matches are traced <b>by</b> means <b>of</b> binary masks <b>and</b> the state <b>of</b> single bits determines the 
+cacm-1404 : analysis <b>of</b> covariance <b>and</b> the analysis <b>of</b> variance <b>and</b> <b>by</b> introducing a new operator 
+cacm-2903 : improving programs <b>by</b> the introduction <b>of</b> recursion a new technique 
+cacm-1590 : the <b>recognition</b> <b>of</b> the peak structure <b>of</b> the speech waveform is 
+cacm-1528 : signs <b>and</b> upper <b>and</b> lower case greek letters 
+cacm-1518 : an experimental model <b>of</b> system/360 the problem <b>of</b> predicting the performance <b>of</b> modern computer systems is 
+cacm-1844 : power <b>of</b> the machines used <b>and</b> the computation requirements <b>of</b> the particular mix <b>of</b> users this system organization 
+cacm-2959 : experts-nonprogrammers-can describe <b>and</b> execute their applications on 
+cacm-2302 : computers <b>and</b> employment the relationship <b>of</b> computers <b>and</b> automation to employment is 
+cacm-2988 : <b>and</b> job swap time <b>and</b> performance measures such as 
+cacm-2966 : be achieved <b>by</b> the proper choice <b>and</b> location <b>of</b> multiple reference poin ts 
+cacm-2883 : the <b>shape</b> <b>of</b> the contour <b>of</b> an object can be 
+cacm-0670 : some legal implications <b>of</b> the use <b>of</b> computers in the banking 
+cacm-2801 : code <b>by</b> simple removal <b>of</b> redundant 0 bits a 
+cacm-0950 : <b>by</b> algorithm which consist <b>of</b> several subtasks which can 
+cacm-0531 : errors because <b>of</b> name misspellings changes <b>of</b> name upon marriage <b>and</b> other problems we are 
+cacm-2339 : computerized construction <b>of</b> a reference file <b>of</b> verbal descriptions for use 
+cacm-2829 : <b>shape</b> <b>and</b> size <b>of</b> this weighting function are 
+cacm-1366 : computer simulation-discussion <b>of</b> the technique <b>and</b> comparison <b>of</b> languages the purpose <b>of</b> this paper is to 
+cacm-2980 : <b>of</b> the large number <b>of</b> spurious regions that result 
+cacm-3047 : with the effects <b>of</b> varying sun angle <b>and</b> surface slope even inspection 
+cacm-2455 : basis <b>of</b> mean retrieval time <b>of</b> amount <b>of</b> restructuring expected <b>and</b> on the worst case 
+cacm-3135 : detection <b>of</b> three-dimensional patterns <b>of</b> atoms in chemical structures 
+cacm-1771 : <b>of</b> service courses minors <b>and</b> continuing education in computer 
+cacm-2367 : the effects <b>of</b> computers on society <b>and</b> the responsibilities <b>of</b> computer scientists to society 
+cacm-1135 : <b>of</b> business <b>and</b> file processing applications is 
+cacm-1399 : on top-to-bottom <b>recognition</b> <b>and</b> left recursion a procedure 
+cacm-1265 : <b>of</b> diverse <b>recognition</b> procedures that have been 
+cacm-1517 : <b>of</b> analyzing data generated <b>by</b> computer simulations <b>of</b> economic systems we first 
+cacm-2030 : grammars <b>and</b> general rewriting systems <b>and</b> the difference between the 
+cacm-2308 : <b>of</b> the use <b>of</b> computers in urban society 
+cacm-2828 : the shapes <b>of</b> three-dimensional objects <b>and</b> environments is used not 
+cacm-3098 : fishmans <b>and</b> ahrens <b>and</b> dieters methods the core 
+cacm-2402 : pictorial pattern <b>recognition</b> <b>and</b> the phase problem <b>of</b> x-ray crystallography the availability 
+cacm-1350 : as is generated <b>by</b> g <b>and</b> whose rules are all 
+cacm-1003 : <b>of</b> fouriers law <b>of</b> heat conduction <b>and</b> the chemical rate equation 
+cacm-2196 : the field <b>of</b> man-machine interaction <b>and</b> in the field <b>of</b> artificial intelligence cacm may 
+cacm-2289 : bits <b>of</b> memory <b>and</b> a small amount <b>of</b> combinational logic <b>and</b> communicates mainly with its 
+cacm-2692 : an ordered sequence <b>of</b> vertices without repetition <b>of</b> first <b>and</b> last in marked contrast 
+cacm-1808 : <b>of</b> information processed <b>by</b> computers are dealt with 
+cacm-2287 : algorithm the problem <b>of</b> detection <b>and</b> <b>recognition</b> <b>of</b> contour lines is solved 
+cacm-2310 : humanities science <b>of</b> the humanities pattern <b>recognition</b> pattern generation interdisciplinary cooperation 
+cacm-1726 : scanner is implemented <b>by</b> means <b>of</b> a joystick <b>and</b> a crt display this 
+cacm-3011 : <b>of</b> computing <b>and</b> tends to control computing 
+cacm-1653 : appraisal the state <b>of</b> the art <b>of</b> system performance evaluation is 
+cacm-1381 : the ideas <b>of</b> programming <b>and</b> logical structure which have 
+cacm-2999 : the development <b>of</b> general-purpose computer-based statistical <b>and</b> data processing capabilities for 
+cacm-2924 : created <b>by</b> the combination <b>of</b> a number <b>of</b> shapes that have been 
+cacm-2746 : any <b>of</b> a finite number <b>of</b> keywords in a string 
+cacm-0464 : <b>and</b> a description <b>of</b> the syntax that is 
+cacm-2754 : peak amplitude duration <b>and</b> <b>shape</b> the algorithm is <b>of</b> sufficient speed to allow 
+cacm-0462 : pattern classification <b>and</b> <b>recognition</b> devices is one phase 
+cacm-1260 : for convergence <b>and</b> <b>by</b> imposing physical constraints on 
+cacm-2771 : the synthesis <b>of</b> solids bounded <b>by</b> many faces a technique 
+cacm-2556 : adaptive correction <b>of</b> program statements a method 
+cacm-1553 : <b>of</b> the level <b>of</b> understanding achieved in a 
+cacm-1855 : a number <b>of</b> examples <b>of</b> output produced <b>by</b> the program are given 
+cacm-2494 : is the representation <b>of</b> the elements <b>of</b> a data matrix <b>of</b> similarities or dissimilarities <b>by</b> computer printed symbols <b>of</b> character overstrikes <b>of</b> various shades <b>of</b> darkness where a dark 
+cacm-2547 : or intersection <b>of</b> two closed boundaries <b>and</b> determine the neighboring boundaries 
+cacm-0825 : the analysis <b>of</b> spark-chamber data an operating 
+cacm-3100 : the training examples <b>and</b> the adequacy <b>of</b> interference matching are discussed 
+cacm-2871 : diagnosis <b>and</b> correction <b>of</b> logical errors cacm april 
+cacm-3046 : methods given <b>by</b> fishman wallace <b>and</b> tadikamalla <b>and</b> is faster than these 
+cacm-2524 : <b>by</b> metrics <b>and</b> <b>by</b> graph-theoretic concepts some empirical 
+cacm-2682 : number <b>of</b> i/o activities <b>and</b> synthetic workload with 88 
+cacm-0633 : simulation <b>and</b> analysis <b>of</b> biochemical systems iii analysis 
+cacm-3049 : storing retrieving <b>and</b> manipulating the descriptions <b>of</b> graphical entities provided <b>by</b> <b>and</b> received <b>by</b> application programs graphics packages 
+cacm-2569 : <b>shape</b> parameters when the <b>shape</b> parameter a is integral 
+cacm-2341 : any <b>of</b> three dimensions <b>and</b> merged on the basis 
+cacm-3149 : <b>by</b> smooth-curved faces the property 
+cacm-3143 : <b>of</b> concepts laws <b>and</b> notations are presented which 
+cacm-1604 : times <b>and</b> loading times <b>of</b> over 10,000 jobs serviced 
+cacm-2751 : <b>perception</b> <b>and</b> the fundamental laws <b>of</b> optics are considered in 
+cacm-1769 : automatic processing <b>of</b> information is impeded <b>by</b> nine principal barriers geography 
+cacm-1543 : certain types <b>of</b> computer problems <b>by</b> the use <b>of</b> tensor calculus <b>and</b> a computer language designed 
+cacm-3165 : approximation <b>of</b> polygonal maps <b>by</b> cellular maps the approximation 
+cacm-2947 : handling <b>and</b> text analysis system for 
+cacm-2910 : equivalence <b>of</b> hough curve detection to 
+cacm-2372 : are decision rules <b>and</b> whose row <b>and</b> column indices are users 
+cacm-1706 : programmed together concatenation <b>and</b> a variant <b>of</b> snobols pattern matching make 
+cacm-2703 : extension <b>of</b> context-free grammars devised <b>by</b> knuth as a mechanism 
+cacm-2153 : a classroom-independent course <b>of</b> study <b>and</b> has been used for 
+cacm-3125 : redundant computations <b>and</b> the moving <b>of</b> invariant computations out <b>of</b> loops are often done 
+cacm-3197 : structures <b>of</b> standards-processing organizations in the 
+cacm-1427 : simulation <b>of</b> radioisotope scans <b>by</b> computer in radioisotope scanning 
+cacm-2811 : structural pattern <b>recognition</b> <b>of</b> carotid pulse waves using 
+cacm-3078 : analysis <b>of</b> the availability <b>of</b> computer systems using computer 
+cacm-1272 : the amount <b>of</b> condensation <b>of</b> text in language processing 
+cacm-0320 : procedures operations systems <b>and</b> circuits a set <b>of</b> rules for writing <b>and</b> using logic tables is 
+cacm-2054 : h a speech <b>recognition</b> word <b>recognition</b> pattern-matching pattern <b>recognition</b> time-sharing remote access voice 
+cacm-2812 : <b>of</b> a set <b>of</b> procedures <b>and</b> computer programs specifically designed 
+cacm-2968 : a comparison <b>of</b> tree-balancing algorithms several algorithms-height-balance 
+cacm-3107 : <b>shape</b> parameters a new rejection 
+cacm-2841 : assume no knowledge <b>of</b> them <b>by</b> the user <b>of</b> the system also examined 

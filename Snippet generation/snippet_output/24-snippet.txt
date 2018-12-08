@@ -1,0 +1,100 @@
+cacm-2953 : notes on recursion elimination 
+cacm-1540 : more <b>stochastic</b> than monte carlo in 
+cacm-2795 : models of cognitive <b>processes</b> semantic representation 3.42 3.60 
+cacm-1198 : solution of a problem 
+cacm-3141 : <b>processes</b> this note presents an 
+cacm-2705 : programming languages natural languages 
+cacm-1233 : conventions for the use 
+cacm-2378 : independent <b>processes</b> are described the supervisor 
+cacm-2912 : transmitting messages between <b>processes</b> these solutions do not 
+cacm-3128 : synchronization of concurrent <b>processes</b> requires controlling the relative 
+cacm-2255 : <b>processes</b> computer music computer composition 
+cacm-3120 : an event-driven compiling technique 
+cacm-1696 : of a <b>stochastic</b> matrix an algorithm for 
+cacm-2504 : cognitive <b>processes</b> computer music computer compositionmusic 
+cacm-1518 : <b>processes</b> the model is mechanized 
+cacm-1110 : a fourier series method 
+cacm-1706 : <b>processes</b> may conveniently be programmed 
+cacm-1410 : of the <b>stochastic</b> <b>processes</b> governing the user inputs 
+cacm-2080 : hierarchy of <b>processes</b> as well as the 
+cacm-2844 : heaps applied to event 
+cacm-1749 : of sequential <b>processes</b> these sequential <b>processes</b> are placed at various 
+cacm-1382 : desired computer impact on 
+cacm-2320 : shared by concurrent <b>processes</b> with operations defined on 
+cacm-2848 : of <b>processes</b> to be automated the 
+cacm-1886 : generation of optimal code 
+cacm-0293 : the applied mathematics laboratory 
+cacm-1383 : implications of the digital 
+cacm-2931 : logic and programming languages 
+cacm-0224 : optimizing <b>processes</b> such as recursive address 
+cacm-0618 : man-man-machine <b>processes</b> are characterized in five 
+cacm-3072 : for the <b>processes</b> executing on the cpu 
+cacm-2742 : such as slow <b>stochastic</b> convergence however an additional 
+cacm-0111 : on programming the numerical 
+cacm-3184 : revised report on the 
+cacm-1678 : automata formal languages abstract 
+cacm-2920 : <b>processes</b> resources operating system etc 
+cacm-2203 : key-to-address transform techniques a 
+cacm-3020 : systematic recursion removal the 
+cacm-1135 : <b>processes</b> of such class permits 
+cacm-3140 : social <b>processes</b> and proofs of theorems 
+cacm-1199 : nets decision <b>processes</b> and control functions experiments 
+cacm-3073 : communicating sequential <b>processes</b> this paper suggests that 
+cacm-2342 : <b>processes</b> and symmetry between <b>processes</b> is not required cacm 
+cacm-2383 : cognitive <b>processes</b> computer music computer composition 
+cacm-2379 : multiprogramming virtual machines <b>processes</b> process communication virtual devices 
+cacm-2535 : multiplexing changes the <b>stochastic</b> nature of the arrival 
+cacm-2327 : toward an automata theory 
+cacm-2717 : the translation <b>processes</b> and thus makes data 
+cacm-1587 : <b>processes</b> in which input data 
+cacm-0412 : recursive <b>processes</b> and algol translation cacm 
+cacm-1194 : and <b>stochastic</b> search through linked index 
+cacm-0942 : many different numerical <b>processes</b> that were required could 
+cacm-1892 : systems a simple <b>stochastic</b> model is described which 
+cacm-1846 : <b>processes</b> in which simultaneous events 
+cacm-3127 : communicating <b>processes</b> by providing efficient interprocess 
+cacm-1673 : approximate solution of initial 
+cacm-2865 : <b>processes</b> synchronization mutual exclusion deadlock 
+cacm-1748 : connections between <b>processes</b> and protection are analyzed 
+cacm-1008 : scheduling meetings with a 
+cacm-2228 : to certain <b>processes</b> are not possible it 
+cacm-2376 : synchronization of communicating <b>processes</b> formalization of a well-defined 
+cacm-2672 : of cognitive <b>processes</b> computer music computer composition 
+cacm-2629 : asynchronous <b>processes</b> 4 system command language 
+cacm-1441 : methods of numerical integration 
+cacm-2522 : <b>processes</b> competing for them recent 
+cacm-2371 : between <b>processes</b> in a time-sharing system 
+cacm-2866 : proving monitors interesting scheduling 
+cacm-2409 : an algorithm for the 
+cacm-1435 : design of computer simulation 
+cacm-1554 : a computer technique for 
+cacm-1707 : generation of positive test 
+cacm-3056 : <b>processes</b> cacm october 1978 morris 
+cacm-1438 : a method for locating 
+cacm-2767 : set of typical <b>stochastic</b> scheduling distributions especially chosen 
+cacm-0268 : <b>stochastic</b> evaluation of a static 
+cacm-1631 : testing a random number 
+cacm-1458 : the <b>processes</b> related to producing and 
+cacm-0020 : accelerating convergence of iterative 
+cacm-1541 : a language for modeling 
+cacm-2210 : toward automatic program synthesis 
+cacm-3043 : distributed <b>processes</b> a concurrent programming concept 
+cacm-1828 : synchronization in a parallel-accessed 
+cacm-2882 : a <b>stochastic</b> evaluation model for database 
+cacm-2836 : weighted derivation trees the 
+cacm-2895 : communicating parallel <b>processes</b> is described the specifications 
+cacm-1235 : a <b>stochastic</b> approach to the grammatical 
+cacm-1563 : a method for finding 
+cacm-1960 : his own parallel <b>processes</b> using system primitive operations 
+cacm-1753 : virtual memory <b>processes</b> and sharing in multics 
+cacm-1216 : symbolic derivatives without list 
+cacm-3078 : and semi-markov <b>processes</b> the potential range of 
+cacm-3039 : on-the-fly garbage collection an 
+cacm-1272 : <b>processes</b> as factor analysis applications 
+cacm-2185 : a note on compiling 
+cacm-2519 : psychological and information-processing <b>processes</b> and what turns out 
+cacm-0825 : <b>processes</b> photographically recorded data is 
+cacm-2150 : <b>processes</b> from simultaneous access to 
+cacm-2581 : speech recognizer lpars <b>processes</b> a string of phonemes 
+cacm-0927 : linear programming applied to 
+cacm-2740 : of cooperating sequential <b>processes</b> the <b>processes</b> synchronize by means of 
