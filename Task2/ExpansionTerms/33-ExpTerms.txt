@@ -1,10 +1,10 @@
 matrix
 algorithm
-1978
 method
-jb
+1978
 problem
 cacm
-solution
+jb
 january
 tridiagonal
+solution

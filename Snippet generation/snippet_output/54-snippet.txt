@@ -1,100 +1,100 @@
-cacm-1496 : languages <b>and</b> its application in a 
-cacm-3055 : most by 1/3 <b>of</b> a swap <b>and</b> asymptotically by 1/4 <b>of</b> a swap the algorithm 
-cacm-2112 : set <b>of</b> translation equations the <b>specifications</b> for a pushdown translator 
-cacm-1834 : <b>of</b> sets <b>of</b> axioms <b>and</b> rules <b>of</b> inference which can be 
-cacm-2956 : use <b>of</b> the domain <b>of</b> an array as a 
-cacm-2705 : ie programs <b>of</b> general utility <b>and</b> studies <b>of</b> questions related to program 
-cacm-1469 : the next 700 <b>programming</b> languages a family <b>of</b> unimplemented computing languages is 
-cacm-3188 : semiotics <b>and</b> <b>programming</b> languages i have based 
-cacm-1247 : and/or recursive programs <b>and</b> <b>programming</b> systems the available services 
-cacm-3128 : synchronization with eventcounts <b>and</b> sequencers synchronization <b>of</b> concurrent processes requires controlling 
-cacm-1471 : <b>programming</b> semantics for multiprogrammed computations 
-cacm-1421 : <b>of</b> algol a <b>programming</b> language similar in many 
-cacm-2940 : program <b>specifications</b> <b>programming</b> languages <b>programming</b> methodology <b>proofs</b> <b>of</b> correctness types verification 4.20 
-cacm-3091 : <b>of</b> programs <b>and</b> experience characteristics <b>of</b> programmers <b>and</b> program development time the 
-cacm-1677 : or <b>programming</b> systems simplicity <b>of</b> programmed addressing flexibility <b>of</b> <b>data</b> structures efficiency <b>of</b> memory utilization variability <b>of</b> system composition during execution 
-cacm-1902 : programs <b>and</b> no special recognition <b>of</b> exercises by the operators 
-cacm-1198 : one <b>and</b> only one <b>of</b> them is engaged in 
-cacm-1749 : the logical soundness <b>of</b> the design <b>and</b> the correctness <b>of</b> its implementation cacm may 
-cacm-3142 : the timeliness <b>and</b> the number <b>of</b> designs <b>of</b> very large linked program 
-cacm-2931 : the theories <b>of</b> automata <b>and</b> <b>of</b> nets though most in 
-cacm-2937 : the number <b>of</b> errors <b>and</b> the number <b>of</b> runs containing errors shows 
-cacm-2684 : the development <b>of</b> bnf the definition <b>of</b> the syntax <b>of</b> <b>programming</b> languages has been almost 
-cacm-2317 : <b>programming</b> systems <b>and</b> languages 1965-1975 in spite 
-cacm-2946 : <b>and</b> writers problem <b>and</b> the problem <b>of</b> information streams sharing a 
-cacm-2178 : consists <b>of</b> a type <b>of</b> directed graph <b>data</b> structure <b>and</b> a set <b>of</b> primitive operations for manipulating 
-cacm-2958 : <b>abstract</b> <b>data</b> types <b>and</b> the development <b>of</b> <b>data</b> structures <b>abstract</b> <b>data</b> types can play a 
-cacm-1213 : dynamic format <b>specifications</b> the use <b>and</b> implementation <b>of</b> two new fortran format 
-cacm-2787 : a more compact <b>data</b> representation <b>and</b> more efficient processing techniques 
-cacm-3077 : transitions their division <b>of</b> <b>programming</b> into a world <b>of</b> expressions <b>and</b> a world <b>of</b> statements their inability to 
-cacm-2148 : design <b>of</b> <b>programming</b> languages <b>data</b> structures 1.3 4.2 4.22 
-cacm-2204 : <b>of</b> tasks into subtasks <b>and</b> <b>of</b> <b>data</b> into <b>data</b> structures the process <b>of</b> successive refinement <b>of</b> <b>specifications</b> is illustrated by a 
-cacm-3039 : frequent manipulations <b>of</b> a large shared <b>data</b> space a technique is 
-cacm-2870 : permit concise formulations <b>of</b> the security requirements <b>of</b> different existing systems <b>and</b> facilitate the construction <b>of</b> mechanisms that enforce security 
-cacm-1099 : especially suited for <b>programming</b> work because <b>of</b> intense training in <b>and</b> constant experience with locating 
-cacm-1678 : automata formal languages <b>abstract</b> switching <b>and</b> computability in a ph 
-cacm-3104 : program correctness <b>proofs</b> <b>of</b> program correctness tend to 
-cacm-2941 : <b>and</b> the difficulty <b>of</b> making the treatment <b>of</b> variant records safe cacm 
-cacm-1135 : <b>of</b> a digital compute <b>programming</b> language which covers a 
-cacm-2842 : the <b>denotational</b> semantics <b>of</b> <b>programming</b> languages this paper is 
-cacm-3157 : <b>and</b> are <b>of</b> a complexity out <b>of</b> proportion to the program 
-cacm-2051 : frequency <b>of</b> occurrence in the <b>data</b> <b>and</b> a separate listing <b>of</b> each correspondence with all 
-cacm-3073 : <b>programming</b> <b>and</b> that parallel composition <b>of</b> communicating sequential processes is 
-cacm-2342 : <b>of</b> parallel programs <b>and</b> informal <b>proofs</b> <b>of</b> correctness have been given 
-cacm-0409 : <b>and</b> retrieving both descriptions <b>and</b> instances <b>of</b> large <b>and</b> complex <b>data</b> sets as well as 
-cacm-2886 : <b>of</b> <b>programming</b> languages <b>and</b> compilers a formal definition 
-cacm-2939 : means <b>of</b> <b>programming</b> examples the utility <b>of</b> the three kinds <b>of</b> abstractions in program construction 
-cacm-1098 : storage allocation <b>programming</b> formalisms <b>and</b> special processes available <b>including</b> arithmetic facilities <b>and</b> usability in terms <b>of</b> availability documentation learning aids 
-cacm-1835 : structure <b>and</b> a variety <b>of</b> <b>data</b> types several novel <b>and</b> powerful features are included 
-cacm-2316 : the history <b>and</b> future <b>of</b> <b>programming</b> languages higher level languages 
-cacm-2733 : deterministic parsing <b>of</b> ambiguous grammars methods <b>of</b> describing the syntax <b>of</b> <b>programming</b> languages in ways that 
-cacm-2703 : exponential amount <b>of</b> timen improved version <b>of</b> knuths circularity testing algorithm 
-cacm-2594 : <b>programming</b> <b>data</b> structures <b>data</b> base management system 3.50 
-cacm-2732 : guarded commands nondeterminacy <b>and</b> formal derivation <b>of</b> programs so-called guarded commands 
 cacm-2295 : design <b>of</b> <b>programming</b> languages <b>data</b> structures 1.3 4.2 4.22 
-cacm-1470 : the structure <b>of</b> <b>programming</b> languages the following are 
-cacm-3014 : examples <b>of</b> correctness <b>and</b> termination <b>proofs</b> some <b>of</b> these <b>proofs</b> are markedly simpler than 
-cacm-3198 : microprogramming emulators <b>and</b> <b>programming</b> languages the problem we 
-cacm-0949 : integer <b>and</b> signed constants in algol 
-cacm-1358 : <b>of</b> macros are discussed <b>and</b> examples are given <b>of</b> their use the conditional 
-cacm-1457 : the manipulation <b>of</b> a variety <b>of</b> different <b>data</b> structures <b>including</b> linear text sparse matrices 
-cacm-2155 : the implementation <b>of</b> some <b>of</b> his <b>data</b> structures in order to 
-cacm-2254 : language <b>data</b> structure tree structure <b>programming</b> language design array control 
-cacm-2651 : <b>data</b> types <b>data</b> types <b>and</b> generic routines programmer control 
-cacm-2943 : be written <b>and</b> <b>proofs</b> <b>of</b> programs carried out the 
-cacm-3081 : general <b>and</b> reversible <b>and</b> is optional in the 
-cacm-2865 : a number <b>of</b> properties <b>of</b> parallel programs is presented 
-cacm-2127 : order <b>of</b> complexity <b>and</b> require the invention <b>and</b> development <b>of</b> entirely different approaches to 
-cacm-2616 : <b>and</b> objectives the problems <b>of</b> converting programs to decision 
-cacm-2092 : are all described <b>and</b> illustrated examples <b>of</b> the systems performance <b>and</b> <b>of</b> the limitations <b>of</b> its question-answering capability are 
-cacm-2111 : restricted keyword <b>and</b> symbol tables <b>and</b> the consideration <b>of</b> a limited class <b>of</b> spelling errors sample 360 
-cacm-3103 : <b>abstract</b> <b>data</b> types automatic <b>programming</b> <b>data</b> structures optimizing compilers sets 
-cacm-3185 : modest <b>and</b> elegant <b>programming</b> languages provided that we 
-cacm-1747 : an <b>abstract</b> machine <b>of</b> a <b>programming</b> language <b>and</b> the notion <b>of</b> a virtual computer are 
-cacm-1323 : expressions <b>of</b> algol 60 <b>and</b> expressions in a modified 
-cacm-2265 : on the notions <b>of</b> abstraction <b>and</b> application <b>of</b> functions in particular a 
-cacm-2972 : in terms <b>of</b> levels <b>of</b> abstraction each level <b>of</b> which can be described 
+cacm-2946 : <b>and</b> writers problem <b>and</b> the problem <b>of</b> information streams sharing a 
 cacm-2949 : a correctness proof <b>of</b> a topology information main 
-cacm-2192 : functions equivalent <b>and</b> thus applicable in <b>proofs</b> about interpreters for <b>programming</b> languages cacm may 1971 
-cacm-1604 : times <b>and</b> loading times <b>of</b> over 10,000 jobs serviced 
-cacm-2871 : diagnosis <b>and</b> correction <b>of</b> logical errors cacm april 
-cacm-2851 : an <b>abstract</b> conceptual model <b>and</b> a parallel-program model the 
-cacm-2341 : any <b>of</b> three dimensions <b>and</b> merged on the basis 
-cacm-1781 : writing <b>of</b> translators <b>of</b> <b>programming</b> languages is presented the 
-cacm-2411 : <b>programming</b> language design proof <b>of</b> programs semantics <b>of</b> <b>programming</b> languages structured <b>programming</b> 4.12 4.22 5.24 ca731115 
-cacm-3105 : a liskovb <b>programming</b> languages access control <b>data</b> types <b>abstract</b> <b>data</b> types type checking capabilities 
-cacm-2700 : reduction a method <b>of</b> proving properties <b>of</b> parallel programs when proving 
-cacm-2314 : specified would allow <b>programming</b> <b>of</b> various control regimes <b>including</b> multiprocesses coroutines <b>and</b> backtracking alternative methods <b>of</b> procedure invocation required include 
-cacm-2470 : questions <b>of</b> local <b>and</b> global environments <b>and</b> <b>of</b> various modes <b>of</b> function calling <b>and</b> parameter passing are touched 
-cacm-2895 : <b>specifications</b> <b>of</b> the readers/writers problem <b>and</b> the writer priority <b>of</b> the second readers/writers problem 
-cacm-2701 : in <b>programming</b> terms the number <b>of</b> operations is proportional to 
-cacm-2945 : certification <b>of</b> programs for secure information 
-cacm-2718 : design <b>of</b> dbtg <b>data</b> structures the functional approach 
+cacm-1678 : automata formal languages <b>abstract</b> switching <b>and</b> computability in a ph 
 cacm-2632 : <b>of</b> a generalized notion <b>of</b> resource both physical <b>and</b> virtual called an object 
-cacm-2326 : <b>of</b> various properties <b>of</b> computer programs <b>including</b> correctness termination <b>and</b> equivalence cacm july 1972 
-cacm-1484 : purpose the inadequacies <b>of</b> the standard <b>programming</b> languages for the description 
-cacm-2264 : <b>of</b> the concepts <b>of</b> value <b>and</b> side-effect are derived in 
-cacm-2227 : <b>proofs</b> <b>of</b> programs <b>programming</b> methodology program documentation program 
-cacm-3133 : syntactic variant <b>of</b> the clausal form <b>of</b> logic by virtue <b>of</b> its relationship with logic 
-cacm-2597 : <b>and</b> a version <b>of</b> the problem <b>of</b> readers <b>and</b> writers cacm october 1974 
 cacm-3031 : process <b>of</b> proving the correctness <b>of</b> an implementation <b>of</b> an <b>abstract</b> <b>data</b> type second semi-automatic tools 
+cacm-2651 : <b>data</b> types <b>data</b> types <b>and</b> generic routines programmer control 
+cacm-2178 : consists <b>of</b> a type <b>of</b> directed graph <b>data</b> structure <b>and</b> a set <b>of</b> primitive operations for manipulating 
+cacm-2733 : deterministic parsing <b>of</b> ambiguous grammars methods <b>of</b> describing the syntax <b>of</b> <b>programming</b> languages in ways that 
+cacm-2227 : <b>proofs</b> <b>of</b> programs <b>programming</b> methodology program documentation program 
+cacm-3103 : <b>abstract</b> <b>data</b> types automatic <b>programming</b> <b>data</b> structures optimizing compilers sets 
+cacm-1902 : programs <b>and</b> no special recognition <b>of</b> exercises by the operators 
+cacm-3157 : <b>and</b> are <b>of</b> a complexity out <b>of</b> proportion to the program 
+cacm-2941 : <b>and</b> the difficulty <b>of</b> making the treatment <b>of</b> variant records safe cacm 
+cacm-1834 : <b>of</b> sets <b>of</b> axioms <b>and</b> rules <b>of</b> inference which can be 
+cacm-2204 : <b>of</b> tasks into subtasks <b>and</b> <b>of</b> <b>data</b> into <b>data</b> structures the process <b>of</b> successive refinement <b>of</b> <b>specifications</b> is illustrated by a 
+cacm-2092 : are all described <b>and</b> illustrated examples <b>of</b> the systems performance <b>and</b> <b>of</b> the limitations <b>of</b> its question-answering capability are 
+cacm-2865 : a number <b>of</b> properties <b>of</b> parallel programs is presented 
+cacm-3073 : <b>programming</b> <b>and</b> that parallel composition <b>of</b> communicating sequential processes is 
+cacm-2871 : diagnosis <b>and</b> correction <b>of</b> logical errors cacm april 
+cacm-2051 : frequency <b>of</b> occurrence in the <b>data</b> <b>and</b> a separate listing <b>of</b> each correspondence with all 
+cacm-2314 : specified would allow <b>programming</b> <b>of</b> various control regimes <b>including</b> multiprocesses coroutines <b>and</b> backtracking alternative methods <b>of</b> procedure invocation required include 
+cacm-2931 : the theories <b>of</b> automata <b>and</b> <b>of</b> nets though most in 
+cacm-2317 : <b>programming</b> systems <b>and</b> languages 1965-1975 in spite 
+cacm-2958 : <b>abstract</b> <b>data</b> types <b>and</b> the development <b>of</b> <b>data</b> structures <b>abstract</b> <b>data</b> types can play a 
+cacm-2956 : use <b>of</b> the domain <b>of</b> an array as a 
+cacm-1135 : <b>of</b> a digital compute <b>programming</b> language which covers a 
+cacm-2701 : in <b>programming</b> terms the number <b>of</b> operations is proportional to 
+cacm-1470 : the structure <b>of</b> <b>programming</b> languages the following are 
+cacm-2895 : <b>specifications</b> <b>of</b> the readers/writers problem <b>and</b> the writer priority <b>of</b> the second readers/writers problem 
+cacm-3014 : examples <b>of</b> correctness <b>and</b> termination <b>proofs</b> some <b>of</b> these <b>proofs</b> are markedly simpler than 
+cacm-1421 : <b>of</b> algol a <b>programming</b> language similar in many 
+cacm-2192 : functions equivalent <b>and</b> thus applicable in <b>proofs</b> about interpreters for <b>programming</b> languages cacm may 1971 
+cacm-2148 : design <b>of</b> <b>programming</b> languages <b>data</b> structures 1.3 4.2 4.22 
+cacm-3039 : frequent manipulations <b>of</b> a large shared <b>data</b> space a technique is 
+cacm-1677 : or <b>programming</b> systems simplicity <b>of</b> programmed addressing flexibility <b>of</b> <b>data</b> structures efficiency <b>of</b> memory utilization variability <b>of</b> system composition during execution 
+cacm-3185 : modest <b>and</b> elegant <b>programming</b> languages provided that we 
+cacm-2703 : exponential amount <b>of</b> timen improved version <b>of</b> knuths circularity testing algorithm 
+cacm-1471 : <b>programming</b> semantics for multiprogrammed computations 
+cacm-1099 : especially suited for <b>programming</b> work because <b>of</b> intense training in <b>and</b> constant experience with locating 
+cacm-1098 : storage allocation <b>programming</b> formalisms <b>and</b> special processes available <b>including</b> arithmetic facilities <b>and</b> usability in terms <b>of</b> availability documentation learning aids 
+cacm-2470 : questions <b>of</b> local <b>and</b> global environments <b>and</b> <b>of</b> various modes <b>of</b> function calling <b>and</b> parameter passing are touched 
+cacm-2684 : the development <b>of</b> bnf the definition <b>of</b> the syntax <b>of</b> <b>programming</b> languages has been almost 
+cacm-2265 : on the notions <b>of</b> abstraction <b>and</b> application <b>of</b> functions in particular a 
+cacm-2597 : <b>and</b> a version <b>of</b> the problem <b>of</b> readers <b>and</b> writers cacm october 1974 
+cacm-2700 : reduction a method <b>of</b> proving properties <b>of</b> parallel programs when proving 
+cacm-2254 : language <b>data</b> structure tree structure <b>programming</b> language design array control 
+cacm-3091 : <b>of</b> programs <b>and</b> experience characteristics <b>of</b> programmers <b>and</b> program development time the 
+cacm-3104 : program correctness <b>proofs</b> <b>of</b> program correctness tend to 
+cacm-2972 : in terms <b>of</b> levels <b>of</b> abstraction each level <b>of</b> which can be described 
+cacm-3077 : transitions their division <b>of</b> <b>programming</b> into a world <b>of</b> expressions <b>and</b> a world <b>of</b> statements their inability to 
+cacm-2787 : a more compact <b>data</b> representation <b>and</b> more efficient processing techniques 
+cacm-3105 : a liskovb <b>programming</b> languages access control <b>data</b> types <b>abstract</b> <b>data</b> types type checking capabilities 
+cacm-0949 : integer <b>and</b> signed constants in algol 
+cacm-2842 : the <b>denotational</b> semantics <b>of</b> <b>programming</b> languages this paper is 
+cacm-1358 : <b>of</b> macros are discussed <b>and</b> examples are given <b>of</b> their use the conditional 
+cacm-2316 : the history <b>and</b> future <b>of</b> <b>programming</b> languages higher level languages 
+cacm-2945 : certification <b>of</b> programs for secure information 
+cacm-2943 : be written <b>and</b> <b>proofs</b> <b>of</b> programs carried out the 
+cacm-2127 : order <b>of</b> complexity <b>and</b> require the invention <b>and</b> development <b>of</b> entirely different approaches to 
+cacm-1835 : structure <b>and</b> a variety <b>of</b> <b>data</b> types several novel <b>and</b> powerful features are included 
+cacm-2939 : means <b>of</b> <b>programming</b> examples the utility <b>of</b> the three kinds <b>of</b> abstractions in program construction 
+cacm-2341 : any <b>of</b> three dimensions <b>and</b> merged on the basis 
+cacm-3133 : syntactic variant <b>of</b> the clausal form <b>of</b> logic by virtue <b>of</b> its relationship with logic 
+cacm-1781 : writing <b>of</b> translators <b>of</b> <b>programming</b> languages is presented the 
+cacm-2732 : guarded commands nondeterminacy <b>and</b> formal derivation <b>of</b> programs so-called guarded commands 
+cacm-2155 : the implementation <b>of</b> some <b>of</b> his <b>data</b> structures in order to 
+cacm-1749 : the logical soundness <b>of</b> the design <b>and</b> the correctness <b>of</b> its implementation cacm may 
+cacm-2112 : set <b>of</b> translation equations the <b>specifications</b> for a pushdown translator 
+cacm-1604 : times <b>and</b> loading times <b>of</b> over 10,000 jobs serviced 
+cacm-3128 : synchronization with eventcounts <b>and</b> sequencers synchronization <b>of</b> concurrent processes requires controlling 
+cacm-1457 : the manipulation <b>of</b> a variety <b>of</b> different <b>data</b> structures <b>including</b> linear text sparse matrices 
+cacm-1323 : expressions <b>of</b> algol 60 <b>and</b> expressions in a modified 
+cacm-2264 : <b>of</b> the concepts <b>of</b> value <b>and</b> side-effect are derived in 
+cacm-2940 : program <b>specifications</b> <b>programming</b> languages <b>programming</b> methodology <b>proofs</b> <b>of</b> correctness types verification 4.20 
+cacm-2616 : <b>and</b> objectives the problems <b>of</b> converting programs to decision 
+cacm-1469 : the next 700 <b>programming</b> languages a family <b>of</b> unimplemented computing languages is 
+cacm-2111 : restricted keyword <b>and</b> symbol tables <b>and</b> the consideration <b>of</b> a limited class <b>of</b> spelling errors sample 360 
+cacm-1747 : an <b>abstract</b> machine <b>of</b> a <b>programming</b> language <b>and</b> the notion <b>of</b> a virtual computer are 
+cacm-0409 : <b>and</b> retrieving both descriptions <b>and</b> instances <b>of</b> large <b>and</b> complex <b>data</b> sets as well as 
+cacm-3198 : microprogramming emulators <b>and</b> <b>programming</b> languages the problem we 
+cacm-3081 : general <b>and</b> reversible <b>and</b> is optional in the 
+cacm-3188 : semiotics <b>and</b> <b>programming</b> languages i have based 
+cacm-2705 : ie programs <b>of</b> general utility <b>and</b> studies <b>of</b> questions related to program 
+cacm-2342 : <b>of</b> parallel programs <b>and</b> informal <b>proofs</b> <b>of</b> correctness have been given 
+cacm-1213 : dynamic format <b>specifications</b> the use <b>and</b> implementation <b>of</b> two new fortran format 
+cacm-2411 : <b>programming</b> language design proof <b>of</b> programs semantics <b>of</b> <b>programming</b> languages structured <b>programming</b> 4.12 4.22 5.24 ca731115 
+cacm-3142 : the timeliness <b>and</b> the number <b>of</b> designs <b>of</b> very large linked program 
+cacm-2870 : permit concise formulations <b>of</b> the security requirements <b>of</b> different existing systems <b>and</b> facilitate the construction <b>of</b> mechanisms that enforce security 
+cacm-1484 : purpose the inadequacies <b>of</b> the standard <b>programming</b> languages for the description 
+cacm-2326 : <b>of</b> various properties <b>of</b> computer programs <b>including</b> correctness termination <b>and</b> equivalence cacm july 1972 
+cacm-2718 : design <b>of</b> dbtg <b>data</b> structures the functional approach 
+cacm-2937 : the number <b>of</b> errors <b>and</b> the number <b>of</b> runs containing errors shows 
+cacm-2594 : <b>programming</b> <b>data</b> structures <b>data</b> base management system 3.50 
+cacm-1198 : one <b>and</b> only one <b>of</b> them is engaged in 
+cacm-3055 : most by 1/3 <b>of</b> a swap <b>and</b> asymptotically by 1/4 <b>of</b> a swap the algorithm 
+cacm-1247 : and/or recursive programs <b>and</b> <b>programming</b> systems the available services 
+cacm-1496 : languages <b>and</b> its application in a 
+cacm-2886 : <b>of</b> <b>programming</b> languages <b>and</b> compilers a formal definition 
+cacm-2851 : an <b>abstract</b> conceptual model <b>and</b> a parallel-program model the 

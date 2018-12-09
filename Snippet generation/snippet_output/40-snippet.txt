@@ -1,100 +1,100 @@
-cacm-1051 : a given process <b>on</b> <b>the</b> <b>data</b> <b>following</b> a brief description of 
-cacm-2833 : scheme to reorganize <b>all</b> storage at <b>the</b> users discretion <b>are</b> proposed <b>the</b> algorithms <b>are</b> designed to work well 
-cacm-1309 : large <b>data</b> banks containing <b>data</b> <b>in</b> elementary form use of 
-cacm-2705 : programming <b>languages</b> natural <b>languages</b> and mathematics some social 
-cacm-3188 : semiotics and programming <b>languages</b> i <b>have</b> based my paper <b>on</b> semiotics and its three 
 cacm-2295 : comment <b>on</b> <b>the</b> composition of semantics <b>in</b> algol 68 cacm august 
-cacm-1612 : suitable rearrangement of <b>the</b> productions defining <b>the</b> grammar <b>the</b> essential weakness of <b>the</b> method is <b>in</b> <b>dealing</b> <b>with</b> complicated syntactic <b>structures</b> which <b>are</b> <b>in</b> practice only sparsely occupied 
-cacm-2940 : over <b>the</b> implementation of abstract <b>data</b> <b>types</b> <b>in</b> this paper <b>the</b> abstraction techniques <b>are</b> extended from simple <b>data</b> representation and function definition 
-cacm-2406 : <b>structures</b> most <b>data</b> definition <b>languages</b> concentrate <b>on</b> <b>the</b> declaration of logical <b>data</b> <b>structures</b> <b>with</b> little concern for how 
-cacm-2957 : <b>data</b> abstraction relational database <b>data</b> <b>type</b> aggregation database design <b>data</b> structure knowledge representation <b>data</b> definition language 3.65 3.69 
-cacm-1046 : presented a very <b>interesting</b> programming system <b>that</b> they <b>have</b> developed for <b>the</b> ferranti atlas computer <b>the</b> present paper describes some 
-cacm-2699 : <b>data</b> <b>structures</b> becomes possible <b>the</b> methods employed <b>are</b> based upon and extend 
-cacm-1324 : programmed and operating <b>are</b> described and reviewed <b>the</b> systems range from a 
-cacm-1902 : three different <b>languages</b> including assembly language <b>in</b> this computer-controlled grading scheme 
-cacm-2060 : declarations <b>are</b> not permitted <b>the</b> functional approach to <b>data</b> <b>structures</b> and <b>the</b> use of references insure 
-cacm-2320 : <b>with</b> operations defined <b>on</b> it this clarifies <b>the</b> meaning of programs and 
-cacm-2317 : <b>the</b> <b>languages</b> <b>in</b> which most of <b>the</b> worlds production programs <b>are</b> written and will remain 
-cacm-2051 : related <b>languages</b> <b>the</b> investigator must arrange <b>data</b> for input by aligning 
-cacm-2684 : <b>the</b> development of bnf <b>the</b> definition of <b>the</b> syntax of programming <b>languages</b> has been almost universally 
-cacm-2931 : <b>are</b> computable <b>in</b> principle since <b>the</b> outcome puts bounds <b>on</b> <b>the</b> possibilities of formalization more 
-cacm-1641 : requested <b>the</b> page <b>in</b> core having <b>the</b> longest period of inactivity 
-cacm-2081 : <b>with</b> <b>the</b> intention of developing <b>data</b> <b>structures</b> suitable for a high 
-cacm-2546 : of <b>the</b> examples submitted by <b>the</b> designer <b>the</b> implementation is presently restricted 
-cacm-1614 : program and <b>are</b> not fixed <b>in</b> <b>the</b> language even <b>the</b> behavior of existing operators 
-cacm-1282 : <b>the</b> use of fortran <b>in</b> subroutines <b>with</b> cobol main programs by 
-cacm-2148 : <b>the</b> composition of semantics <b>in</b> algol 68 <b>the</b> main features of algol 
-cacm-1162 : present <b>the</b> greatest difficulty assembly <b>languages</b> generally provide a one-for-one 
-cacm-2003 : order to perform <b>all</b> <b>the</b> functions needed <b>in</b> computer-aided circuit design <b>the</b> second one is coif 
-cacm-3185 : elegant programming <b>languages</b> provided <b>that</b> we respect <b>the</b> intrinsic limitations of <b>the</b> human mind and approach 
-cacm-1035 : removes <b>the</b> restrictions <b>on</b> <b>the</b> complexity of <b>the</b> list of quantities to 
-cacm-1678 : listed <b>in</b> <b>the</b> area describe as automata 
-cacm-2390 : <b>the</b> problems created by <b>the</b> explosion of <b>papers</b> <b>in</b> <b>the</b> mathematical sciences and <b>the</b> drawbacks <b>that</b> this places <b>on</b> research it is suggested 
-cacm-2941 : <b>types</b> and <b>type</b> coercions <b>the</b> benefits of <b>the</b> <b>type</b> system and why it 
-cacm-1135 : represented <b>in</b> <b>the</b> <b>languages</b> as opposed to emphasizing 
-cacm-2198 : final section outlines <b>the</b> ten major topics <b>in</b> <b>the</b> main body of <b>the</b> full report cacm may 
-cacm-2036 : some of <b>the</b> current limitations <b>in</b> man-computer communication a set 
-cacm-2956 : some ideas <b>on</b> <b>data</b> <b>types</b> <b>in</b> high-level <b>languages</b> a number of issues 
-cacm-3073 : suggests <b>that</b> input and output <b>are</b> basic primitives of programming 
-cacm-1847 : depends <b>on</b> <b>the</b> <b>type</b> of graph involved g 
-cacm-1769 : understanding <b>are</b> basic to <b>all</b> progress <b>with</b> <b>the</b> computer this complex but 
-cacm-2264 : implementation involves checking <b>that</b> <b>the</b> definitions derived <b>in</b> <b>the</b> step <b>above</b> <b>are</b> an acceptable formalization of 
-cacm-2886 : important aspects <b>are</b> included <b>the</b> paper concentrates <b>on</b> <b>the</b> evaluation of semantic attributes 
-cacm-2717 : based <b>on</b> <b>the</b> simple underlying concept of 
-cacm-2876 : to him by <b>the</b> database <b>the</b> ability to condition <b>the</b> supply of information <b>on</b> its intended use is 
-cacm-2138 : a mechanism permitting <b>the</b> definition of <b>the</b> representation of <b>all</b> <b>data</b> <b>structures</b> <b>in</b> terms of <b>the</b> access algorithm for elements 
-cacm-2767 : replacement for <b>the</b> algorithm <b>in</b> use <b>with</b> current simulation <b>languages</b> <b>the</b> most promising algorithm uses 
-cacm-1485 : discussed and <b>the</b> paper concludes <b>with</b> <b>the</b> suggestion <b>that</b> programming <b>languages</b> evolve toward one which 
-cacm-1223 : preceding pass <b>in</b> essentially <b>the</b> reverse of <b>the</b> order <b>in</b> which it was generated 
-cacm-0265 : symbolic <b>languages</b> and for use within 
-cacm-1861 : well as <b>on</b> much of <b>the</b> motivation behind <b>the</b> form <b>in</b> which definitions <b>are</b> written some conclusions <b>are</b> drawn about future definitional 
-cacm-0616 : represents <b>the</b> results of <b>the</b> first phase of <b>the</b> work of <b>the</b> language structure group <b>the</b> goal of this work 
-cacm-2450 : dearth of published <b>data</b> <b>on</b> program measurements <b>in</b> <b>the</b> hope <b>that</b> workers <b>in</b> <b>the</b> field <b>might</b> find experimental evidence upon 
-cacm-1470 : <b>the</b> structure of programming <b>languages</b> <b>the</b> <b>following</b> <b>are</b> identified as major components 
-cacm-1456 : of meaning <b>in</b> directed graph <b>structures</b> an experimental system <b>that</b> uses lisp to make 
-cacm-3164 : <b>in</b> which there <b>are</b> constraints <b>on</b> <b>the</b> permissible sequences of actions 
-cacm-3132 : central hyperplanes <b>are</b> tested <b>on</b> three <b>data</b> sets although <b>frequently</b> used practice <b>the</b> modified relaxation algorithm is 
-cacm-1366 : <b>are</b> developed <b>the</b> conclusion of <b>the</b> paper is <b>that</b> <b>the</b> packages now available for 
-cacm-3198 : <b>are</b> preoccupied <b>with</b> <b>the</b> subject of language <b>in</b> <b>the</b> areas of language investigation 
-cacm-2253 : complicated <b>data</b> <b>structures</b> <b>the</b> paper is therefore preoccupied 
-cacm-0435 : is being spent <b>on</b> <b>the</b> development of bigger and 
-cacm-1457 : these programming <b>languages</b> for <b>the</b> retrieval application <b>are</b> examined and suggestions <b>are</b> made for <b>the</b> design of programming facilities 
-cacm-2939 : <b>languages</b> <b>data</b> <b>types</b> <b>data</b> abstractions control abstractions programming 
-cacm-2254 : partitioning <b>are</b> defined for different <b>types</b> of arrays so <b>that</b> subarrays may vary over 
-cacm-2651 : <b>the</b> treatment of <b>data</b> <b>types</b> <b>in</b> el1 <b>in</b> constructing a general purpose 
-cacm-2201 : <b>the</b> inherent disadvantages associated <b>with</b> conventional computer animation techniqueshe 
-cacm-1425 : <b>the</b> second only two <b>in</b> <b>the</b> second part of <b>the</b> paper <b>the</b> second method is applied 
-cacm-1098 : rough comparison shows <b>that</b> <b>all</b> <b>the</b> <b>languages</b> discussed <b>have</b> approximately <b>the</b> same speed finally <b>the</b> authors give some heuristics 
-cacm-3030 : predict substantial increases <b>in</b> productivity and <b>in</b> <b>the</b> reliability of <b>the</b> programs produced <b>in</b> this paper we describe 
-cacm-3103 : by automating <b>the</b> process of filling <b>in</b> low-level implementation details <b>in</b> <b>the</b> past programming systems <b>have</b> provided only a single 
-cacm-1835 : <b>the</b> iitran programming language <b>the</b> iitran language developed to 
-cacm-2998 : lisp programs <b>are</b> reported and analyzed <b>in</b> this paper these measurements 
-cacm-1264 : or <b>all</b> of <b>the</b> <b>following</b> users specified functions assemble 
-cacm-1350 : and whose rules <b>are</b> <b>all</b> of <b>the</b> form z cy1 ym 
-cacm-2265 : <b>type</b> relations within <b>the</b> program and eliminates <b>all</b> other information <b>the</b> determination of <b>the</b> type-wise correctness or incorrectness 
-cacm-2710 : iii database <b>data</b> sublanguages relations query <b>languages</b> casual user relational <b>data</b> model tabular <b>data</b> interactive problem solving nonprocedural 
-cacm-1237 : is presumed <b>that</b> <b>the</b> reader is familiar <b>with</b> <b>the</b> nature of decision tables 
-cacm-2341 : justification and preparation <b>have</b> been programmed <b>on</b> a printer <b>in</b> what appears to be 
-cacm-2470 : system <b>the</b> technique is contrasted <b>with</b> <b>the</b> use of <b>the</b> paradoxical combinator y <b>the</b> questions of local and 
-cacm-2632 : <b>are</b> presented for <b>dealing</b> <b>with</b> objects including <b>the</b> creation of new <b>types</b> specification of new operations 
-cacm-3105 : liskovb programming <b>languages</b> access control <b>data</b> <b>types</b> abstract <b>data</b> <b>types</b> <b>type</b> checking capabilities 4.20 4.35 
-cacm-0321 : discussed remarks <b>are</b> based <b>on</b> <b>the</b> authors interpretations of <b>the</b> algol 60 report cacm 
-cacm-2002 : <b>the</b> elements common to <b>all</b> <b>types</b> of <b>data</b> plots <b>are</b> outlined and <b>the</b> way <b>in</b> which these elements may 
-cacm-2252 : essential points of <b>the</b> method <b>are</b> 1 <b>the</b> syntax of <b>the</b> language is restricted insof 
-cacm-2314 : <b>languages</b> design of programming <b>languages</b> interactive systems control <b>structures</b> <b>data</b> <b>structures</b> programming primitives semantics advanced 
-cacm-1936 : contains <b>the</b> limiting restriction <b>that</b> <b>all</b> terminal nodes lie <b>on</b> <b>the</b> same level of <b>the</b> tree this paper considers 
-cacm-1379 : <b>that</b> <b>the</b> syntax equations <b>are</b> unambiguous and <b>that</b> may change <b>in</b> <b>the</b> statement <b>types</b> required within <b>the</b> syntax equations would lead 
-cacm-2947 : delimiting <b>the</b> context <b>in</b> which <b>the</b> hit is to be 
-cacm-2906 : at business <b>data</b> processing problems <b>the</b> concepts <b>in</b> bdl mimic those which 
-cacm-2652 : used by <b>the</b> algorithm <b>are</b> removed from <b>the</b> language <b>the</b> cost of compiling <b>the</b> algorithm decreases moderately but 
-cacm-1265 : <b>the</b> turing machine <b>on</b> <b>the</b> univac m-460 computer several 
-cacm-1852 : been used as <b>the</b> base of an implementation 
-cacm-2326 : theory of computation <b>following</b> <b>the</b> fix point theory of 
-cacm-1588 : operations upon <b>the</b> <b>data</b> list <b>structures</b> these two problems <b>have</b> been eliminated <b>in</b> <b>the</b> list-processing facilities of pl/i 
-cacm-2078 : area <b>are</b> defined and compared <b>with</b> current computer graphic <b>languages</b> four alternative <b>data</b> <b>structures</b> <b>that</b> allow automated space planning 
-cacm-1710 : calls which <b>are</b> outlined <b>in</b> <b>the</b> appendix emphasis is <b>on</b> <b>the</b> philosophy of <b>the</b> system rather than a 
-cacm-2929 : <b>that</b> <b>in</b> programs <b>with</b> a low degree of 
-cacm-1459 : requirements for real-time <b>languages</b> real-time <b>languages</b> <b>have</b> different requirements from other 
-cacm-1463 : linkage <b>that</b> were embodied <b>in</b> <b>the</b> authors previous paper <b>on</b> <b>the</b> em concepts and to 
 cacm-2034 : provided by stage2 <b>are</b> summarized and <b>the</b> implementation techniques which <b>have</b> made it possible to 
+cacm-1463 : linkage <b>that</b> were embodied <b>in</b> <b>the</b> authors previous paper <b>on</b> <b>the</b> em concepts and to 
+cacm-2317 : <b>the</b> <b>languages</b> <b>in</b> which most of <b>the</b> worlds production programs <b>are</b> written and will remain 
+cacm-1852 : been used as <b>the</b> base of an implementation 
+cacm-1612 : suitable rearrangement of <b>the</b> productions defining <b>the</b> grammar <b>the</b> essential weakness of <b>the</b> method is <b>in</b> <b>dealing</b> <b>with</b> complicated syntactic <b>structures</b> which <b>are</b> <b>in</b> practice only sparsely occupied 
+cacm-1265 : <b>the</b> turing machine <b>on</b> <b>the</b> univac m-460 computer several 
+cacm-2651 : <b>the</b> treatment of <b>data</b> <b>types</b> <b>in</b> el1 <b>in</b> constructing a general purpose 
+cacm-3132 : central hyperplanes <b>are</b> tested <b>on</b> three <b>data</b> sets although <b>frequently</b> used practice <b>the</b> modified relaxation algorithm is 
+cacm-2717 : based <b>on</b> <b>the</b> simple underlying concept of 
+cacm-2002 : <b>the</b> elements common to <b>all</b> <b>types</b> of <b>data</b> plots <b>are</b> outlined and <b>the</b> way <b>in</b> which these elements may 
+cacm-2138 : a mechanism permitting <b>the</b> definition of <b>the</b> representation of <b>all</b> <b>data</b> <b>structures</b> <b>in</b> terms of <b>the</b> access algorithm for elements 
+cacm-3103 : by automating <b>the</b> process of filling <b>in</b> low-level implementation details <b>in</b> <b>the</b> past programming systems <b>have</b> provided only a single 
+cacm-1902 : three different <b>languages</b> including assembly language <b>in</b> this computer-controlled grading scheme 
+cacm-2078 : area <b>are</b> defined and compared <b>with</b> current computer graphic <b>languages</b> four alternative <b>data</b> <b>structures</b> <b>that</b> allow automated space planning 
+cacm-1456 : of meaning <b>in</b> directed graph <b>structures</b> an experimental system <b>that</b> uses lisp to make 
+cacm-1588 : operations upon <b>the</b> <b>data</b> list <b>structures</b> these two problems <b>have</b> been eliminated <b>in</b> <b>the</b> list-processing facilities of pl/i 
+cacm-2941 : <b>types</b> and <b>type</b> coercions <b>the</b> benefits of <b>the</b> <b>type</b> system and why it 
+cacm-3164 : <b>in</b> which there <b>are</b> constraints <b>on</b> <b>the</b> permissible sequences of actions 
+cacm-1847 : depends <b>on</b> <b>the</b> <b>type</b> of graph involved g 
+cacm-1936 : contains <b>the</b> limiting restriction <b>that</b> <b>all</b> terminal nodes lie <b>on</b> <b>the</b> same level of <b>the</b> tree this paper considers 
+cacm-3030 : predict substantial increases <b>in</b> productivity and <b>in</b> <b>the</b> reliability of <b>the</b> programs produced <b>in</b> this paper we describe 
+cacm-1379 : <b>that</b> <b>the</b> syntax equations <b>are</b> unambiguous and <b>that</b> may change <b>in</b> <b>the</b> statement <b>types</b> required within <b>the</b> syntax equations would lead 
+cacm-3073 : suggests <b>that</b> input and output <b>are</b> basic primitives of programming 
+cacm-2060 : declarations <b>are</b> not permitted <b>the</b> functional approach to <b>data</b> <b>structures</b> and <b>the</b> use of references insure 
+cacm-1282 : <b>the</b> use of fortran <b>in</b> subroutines <b>with</b> cobol main programs by 
+cacm-2051 : related <b>languages</b> <b>the</b> investigator must arrange <b>data</b> for input by aligning 
+cacm-2314 : <b>languages</b> design of programming <b>languages</b> interactive systems control <b>structures</b> <b>data</b> <b>structures</b> programming primitives semantics advanced 
+cacm-2929 : <b>that</b> <b>in</b> programs <b>with</b> a low degree of 
+cacm-2931 : <b>are</b> computable <b>in</b> principle since <b>the</b> outcome puts bounds <b>on</b> <b>the</b> possibilities of formalization more 
+cacm-2833 : scheme to reorganize <b>all</b> storage at <b>the</b> users discretion <b>are</b> proposed <b>the</b> algorithms <b>are</b> designed to work well 
+cacm-1051 : a given process <b>on</b> <b>the</b> <b>data</b> <b>following</b> a brief description of 
+cacm-2406 : <b>structures</b> most <b>data</b> definition <b>languages</b> concentrate <b>on</b> <b>the</b> declaration of logical <b>data</b> <b>structures</b> <b>with</b> little concern for how 
+cacm-2390 : <b>the</b> problems created by <b>the</b> explosion of <b>papers</b> <b>in</b> <b>the</b> mathematical sciences and <b>the</b> drawbacks <b>that</b> this places <b>on</b> research it is suggested 
+cacm-1135 : represented <b>in</b> <b>the</b> <b>languages</b> as opposed to emphasizing 
+cacm-2876 : to him by <b>the</b> database <b>the</b> ability to condition <b>the</b> supply of information <b>on</b> its intended use is 
+cacm-1470 : <b>the</b> structure of programming <b>languages</b> <b>the</b> <b>following</b> <b>are</b> identified as major components 
 cacm-2704 : <b>with</b> exceptions <b>in</b> an orderly and reliable 
+cacm-1678 : listed <b>in</b> <b>the</b> area describe as automata 
+cacm-1641 : requested <b>the</b> page <b>in</b> core having <b>the</b> longest period of inactivity 
+cacm-2201 : <b>the</b> inherent disadvantages associated <b>with</b> conventional computer animation techniqueshe 
+cacm-2198 : final section outlines <b>the</b> ten major topics <b>in</b> <b>the</b> main body of <b>the</b> full report cacm may 
+cacm-1350 : and whose rules <b>are</b> <b>all</b> of <b>the</b> form z cy1 ym 
+cacm-3185 : elegant programming <b>languages</b> provided <b>that</b> we respect <b>the</b> intrinsic limitations of <b>the</b> human mind and approach 
+cacm-2003 : order to perform <b>all</b> <b>the</b> functions needed <b>in</b> computer-aided circuit design <b>the</b> second one is coif 
+cacm-2998 : lisp programs <b>are</b> reported and analyzed <b>in</b> this paper these measurements 
+cacm-2341 : justification and preparation <b>have</b> been programmed <b>on</b> a printer <b>in</b> what appears to be 
+cacm-1098 : rough comparison shows <b>that</b> <b>all</b> <b>the</b> <b>languages</b> discussed <b>have</b> approximately <b>the</b> same speed finally <b>the</b> authors give some heuristics 
+cacm-2470 : system <b>the</b> technique is contrasted <b>with</b> <b>the</b> use of <b>the</b> paradoxical combinator y <b>the</b> questions of local and 
+cacm-1485 : discussed and <b>the</b> paper concludes <b>with</b> <b>the</b> suggestion <b>that</b> programming <b>languages</b> evolve toward one which 
+cacm-2684 : <b>the</b> development of bnf <b>the</b> definition of <b>the</b> syntax of programming <b>languages</b> has been almost universally 
+cacm-2265 : <b>type</b> relations within <b>the</b> program and eliminates <b>all</b> other information <b>the</b> determination of <b>the</b> type-wise correctness or incorrectness 
+cacm-1459 : requirements for real-time <b>languages</b> real-time <b>languages</b> <b>have</b> different requirements from other 
+cacm-1710 : calls which <b>are</b> outlined <b>in</b> <b>the</b> appendix emphasis is <b>on</b> <b>the</b> philosophy of <b>the</b> system rather than a 
+cacm-2767 : replacement for <b>the</b> algorithm <b>in</b> use <b>with</b> current simulation <b>languages</b> <b>the</b> most promising algorithm uses 
+cacm-2326 : theory of computation <b>following</b> <b>the</b> fix point theory of 
+cacm-1425 : <b>the</b> second only two <b>in</b> <b>the</b> second part of <b>the</b> paper <b>the</b> second method is applied 
+cacm-3105 : liskovb programming <b>languages</b> access control <b>data</b> <b>types</b> abstract <b>data</b> <b>types</b> <b>type</b> checking capabilities 4.20 4.35 
+cacm-1162 : present <b>the</b> greatest difficulty assembly <b>languages</b> generally provide a one-for-one 
+cacm-1264 : or <b>all</b> of <b>the</b> <b>following</b> users specified functions assemble 
+cacm-1046 : presented a very <b>interesting</b> programming system <b>that</b> they <b>have</b> developed for <b>the</b> ferranti atlas computer <b>the</b> present paper describes some 
+cacm-1769 : understanding <b>are</b> basic to <b>all</b> progress <b>with</b> <b>the</b> computer this complex but 
+cacm-2254 : partitioning <b>are</b> defined for different <b>types</b> of arrays so <b>that</b> subarrays may vary over 
+cacm-2450 : dearth of published <b>data</b> <b>on</b> program measurements <b>in</b> <b>the</b> hope <b>that</b> workers <b>in</b> <b>the</b> field <b>might</b> find experimental evidence upon 
+cacm-2939 : <b>languages</b> <b>data</b> <b>types</b> <b>data</b> abstractions control abstractions programming 
+cacm-1861 : well as <b>on</b> much of <b>the</b> motivation behind <b>the</b> form <b>in</b> which definitions <b>are</b> written some conclusions <b>are</b> drawn about future definitional 
+cacm-1324 : programmed and operating <b>are</b> described and reviewed <b>the</b> systems range from a 
+cacm-1309 : large <b>data</b> banks containing <b>data</b> <b>in</b> elementary form use of 
+cacm-2947 : delimiting <b>the</b> context <b>in</b> which <b>the</b> hit is to be 
+cacm-2699 : <b>data</b> <b>structures</b> becomes possible <b>the</b> methods employed <b>are</b> based upon and extend 
+cacm-2253 : complicated <b>data</b> <b>structures</b> <b>the</b> paper is therefore preoccupied 
+cacm-1457 : these programming <b>languages</b> for <b>the</b> retrieval application <b>are</b> examined and suggestions <b>are</b> made for <b>the</b> design of programming facilities 
+cacm-2264 : implementation involves checking <b>that</b> <b>the</b> definitions derived <b>in</b> <b>the</b> step <b>above</b> <b>are</b> an acceptable formalization of 
+cacm-2940 : over <b>the</b> implementation of abstract <b>data</b> <b>types</b> <b>in</b> this paper <b>the</b> abstraction techniques <b>are</b> extended from simple <b>data</b> representation and function definition 
+cacm-0265 : symbolic <b>languages</b> and for use within 
+cacm-0616 : represents <b>the</b> results of <b>the</b> first phase of <b>the</b> work of <b>the</b> language structure group <b>the</b> goal of this work 
+cacm-2632 : <b>are</b> presented for <b>dealing</b> <b>with</b> objects including <b>the</b> creation of new <b>types</b> specification of new operations 
+cacm-0321 : discussed remarks <b>are</b> based <b>on</b> <b>the</b> authors interpretations of <b>the</b> algol 60 report cacm 
+cacm-2652 : used by <b>the</b> algorithm <b>are</b> removed from <b>the</b> language <b>the</b> cost of compiling <b>the</b> algorithm decreases moderately but 
+cacm-3198 : <b>are</b> preoccupied <b>with</b> <b>the</b> subject of language <b>in</b> <b>the</b> areas of language investigation 
+cacm-2956 : some ideas <b>on</b> <b>data</b> <b>types</b> <b>in</b> high-level <b>languages</b> a number of issues 
+cacm-2906 : at business <b>data</b> processing problems <b>the</b> concepts <b>in</b> bdl mimic those which 
+cacm-3188 : semiotics and programming <b>languages</b> i <b>have</b> based my paper <b>on</b> semiotics and its three 
+cacm-2705 : programming <b>languages</b> natural <b>languages</b> and mathematics some social 
+cacm-1237 : is presumed <b>that</b> <b>the</b> reader is familiar <b>with</b> <b>the</b> nature of decision tables 
+cacm-2036 : some of <b>the</b> current limitations <b>in</b> man-computer communication a set 
+cacm-2546 : of <b>the</b> examples submitted by <b>the</b> designer <b>the</b> implementation is presently restricted 
+cacm-2886 : important aspects <b>are</b> included <b>the</b> paper concentrates <b>on</b> <b>the</b> evaluation of semantic attributes 
+cacm-2148 : <b>the</b> composition of semantics <b>in</b> algol 68 <b>the</b> main features of algol 
+cacm-2710 : iii database <b>data</b> sublanguages relations query <b>languages</b> casual user relational <b>data</b> model tabular <b>data</b> interactive problem solving nonprocedural 
+cacm-1223 : preceding pass <b>in</b> essentially <b>the</b> reverse of <b>the</b> order <b>in</b> which it was generated 
+cacm-1614 : program and <b>are</b> not fixed <b>in</b> <b>the</b> language even <b>the</b> behavior of existing operators 
+cacm-1035 : removes <b>the</b> restrictions <b>on</b> <b>the</b> complexity of <b>the</b> list of quantities to 
+cacm-2957 : <b>data</b> abstraction relational database <b>data</b> <b>type</b> aggregation database design <b>data</b> structure knowledge representation <b>data</b> definition language 3.65 3.69 
+cacm-1835 : <b>the</b> iitran programming language <b>the</b> iitran language developed to 
+cacm-0435 : is being spent <b>on</b> <b>the</b> development of bigger and 
+cacm-2320 : <b>with</b> operations defined <b>on</b> it this clarifies <b>the</b> meaning of programs and 
+cacm-2081 : <b>with</b> <b>the</b> intention of developing <b>data</b> <b>structures</b> suitable for a high 
+cacm-2252 : essential points of <b>the</b> method <b>are</b> 1 <b>the</b> syntax of <b>the</b> language is restricted insof 
+cacm-1366 : <b>are</b> developed <b>the</b> conclusion of <b>the</b> paper is <b>that</b> <b>the</b> packages now available for 

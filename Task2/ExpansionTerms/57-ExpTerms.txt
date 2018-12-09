@@ -2,9 +2,9 @@ program
 1978
 output
 symbolic
-jb
 execution
-procedures
+jb
 proximity
-input
+procedures
 pm
+computer

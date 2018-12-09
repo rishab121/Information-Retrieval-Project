@@ -1,10 +1,10 @@
 processing
 time
 cacm
-jb
 1978
+jb
 set
-solution
 presented
-algorithm
+solution
+list
 zeros

@@ -1,100 +1,100 @@
-cacm-2232 : recognition <b>and</b> the geometrical concept itself 
-cacm-3055 : by dijkstra 1 <b>and</b> meyer 3 dijkstra starts 
-cacm-2795 : language analyzer <b>and</b> a combined memory <b>and</b> inference model in generating 
-cacm-1409 : similar to large <b>parallel</b> machines <b>and</b> uses flip-flop arithmetic <b>and</b> control registers throughout all 
-cacm-1834 : axioms <b>and</b> rules <b>and</b> a formal proof of 
-cacm-1051 : newell simon <b>and</b> shaw specified single computer 
-cacm-1309 : a fundamental vehicle <b>for</b> accomplishing both manipulation <b>and</b> computation cacm february 1965 
-cacm-1825 : <b>and</b> if certain conditions <b>relating</b> these individual processors are 
-cacm-3175 : are updated in <b>parallel</b> <b>for</b> all code letters using 
-cacm-1925 : of problems <b>relating</b> to contour maps one 
-cacm-1928 : in execution time <b>and</b> space <b>and</b> a facility <b>for</b> handling simultaneous activities the 
-cacm-1711 : lawyer possible liability <b>for</b> negligence <b>for</b> other torts such as 
-cacm-1933 : <b>for</b> 261 2 <b>and</b> a primitive root <b>for</b> 261 1 the next 
-cacm-1887 : a recursive relation <b>for</b> the determinant of a 
-cacm-2200 : <b>for</b> devising division operations that 
-cacm-2702 : on the <b>complexity</b> of lrk testing the 
-cacm-2889 : <b>for</b> maintaining hbk trees <b>for</b> k1 are also independent 
-cacm-2076 : minimal storage <b>and</b> computation <b>and</b> permits easy trade-off of 
-cacm-1382 : the supply <b>and</b> demand <b>for</b> mathematicians in the united 
-cacm-2918 : from previous work <b>and</b> are used <b>for</b> comparison trace-driven simulations are 
-cacm-1806 : method <b>for</b> solving complex equations fz 
-cacm-1368 : <b>for</b> a combinatorial matrix which 
-cacm-2927 : is the computational <b>complexity</b> of finding all the 
-cacm-2931 : <b>complexity</b> <b>theory</b> these however are applications 
-cacm-2898 : a conceptual framework <b>for</b> a nonprocedural programming language 
-cacm-3084 : search retrieval searching <b>uniform</b> distribution 4.4 4.6 5.25 
-cacm-3045 : parsing time space <b>and</b> <b>complexity</b> of both the parser 
-cacm-3059 : models <b>for</b> <b>parallel</b> processing within programs application 
-cacm-1143 : a <b>uniform</b> technique both <b>for</b> running the experiments <b>and</b> <b>for</b> analyzing the data <b>and</b> then to consider as 
-cacm-2628 : drum <b>and</b> moving-head drum <b>and</b> moving-head disk storage units 
-cacm-2401 : a <b>parallel</b> processing algorithm <b>for</b> shrinking binary patterns to 
-cacm-2216 : <b>for</b> the generating function <b>for</b> binary tree values the 
-cacm-2932 : research in the <b>theory</b> of <b>complexity</b> of computations is described 
-cacm-1664 : an algorithm <b>for</b> deriving the equations of 
-cacm-1158 : program structures <b>for</b> <b>parallel</b> processing constructs <b>for</b> organizing <b>and</b> explicating <b>parallel</b> program segments are discussed 
-cacm-2985 : ternal pricing systems <b>for</b> computer services chargeout systems 
-cacm-3163 : however the insertion <b>and</b> deletion algorithms <b>for</b> oshb trees appear much 
-cacm-2430 : graph <b>theory</b> circuit search algorithm path 
-cacm-3156 : d graph <b>theory</b> <b>parallel</b> processing algorithms transitive closure 
-cacm-1424 : automatic analysis of electronic 
-cacm-2337 : a sorting problem <b>and</b> its <b>complexity</b> a technique <b>for</b> proving min-max norms of 
-cacm-1856 : factual assertions <b>for</b> the memory <b>and</b> the capabilities <b>for</b> correctly <b>relating</b> text to the memorys 
-cacm-2342 : of <b>parallel</b> programs <b>and</b> informal proofs of correctness 
-cacm-1566 : optimal starting values <b>for</b> newton-raphson calculation of sqrtx 
-cacm-0678 : are discussed <b>for</b> increasing the sophistication of 
-cacm-2227 : of the program <b>and</b> the method used a 
-cacm-2327 : m a automata <b>theory</b> brain <b>theory</b> network <b>complexity</b> resolution of redundancy of 
-cacm-2289 : of the possibilities <b>for</b> <b>parallel</b> processing in this paper 
-cacm-2134 : algorithm <b>for</b> the assignment problem to 
-cacm-1595 : <b>for</b> enumerating finite topologies <b>and</b> computed results are given 
-cacm-1792 : to account <b>for</b> results <b>and</b> suggestions are made <b>for</b> further research cacm january 
-cacm-2631 : maintenance <b>and</b> use of large dictionaries 
-cacm-2560 : are obtained <b>for</b> the long-run probability that 
-cacm-2333 : random vectors <b>uniform</b> is solid angle algorithm 
-cacm-2790 : the elementary circuits of 
-cacm-2784 : expected time bounds <b>for</b> selection a new selection 
-cacm-2484 : <b>and</b> an algorithm <b>for</b> selecting an element from 
-cacm-2380 : comprehensive <b>uniform</b> file <b>and</b> i/o capabilities <b>and</b> clean flexible system structure 
-cacm-2726 : method <b>for</b> finding prime implicants if 
-cacm-2195 : of merit <b>and</b> the <b>complexity</b> of the optimization process 
-cacm-1870 : some techniques <b>for</b> using pseudorandom numbers in 
-cacm-2924 : <b>for</b> man-machine communication <b>and</b> software <b>for</b> static or dynamic graphics 
-cacm-3086 : on the <b>complexity</b> of computing the measure 
-cacm-2734 : outperformed best-fit but <b>for</b> normal <b>and</b> <b>uniform</b> distributions <b>and</b> <b>for</b> exponential distributions distorted in 
-cacm-2220 : proposed an algorithm <b>for</b> converting decision tables into 
-cacm-2649 : digits <b>and</b> roundoff errors generalized logarithmic 
-cacm-3065 : deletion are provided <b>for</b> the class of right 
-cacm-0335 : method <b>for</b> nonlinear parabolic <b>and</b> ellipticboundary-value problems using a 
-cacm-2110 : unambiguous grammars <b>and</b> it runs in linear 
-cacm-2469 : petri nets <b>and</b> speed independent design petri 
-cacm-1957 : a whole <b>and</b> in <b>parallel</b> rather than evaluating subexpressions 
-cacm-1948 : <b>and</b> commutator calculus group <b>theory</b> programs range from simple 
-cacm-1648 : <b>uniform</b> random algorithm 294 g5 
-cacm-2975 : remark on <b>uniform</b> insertion in structured data 
-cacm-1911 : work of transformational <b>theory</b> to account <b>for</b> these phenomena it is 
-cacm-2263 : two new algorithms <b>for</b> deriving optimal <b>and</b> near-optimal flowcharts from limited 
-cacm-2598 : extending the information <b>theory</b> approach to converting limited-entry 
-cacm-0252 : inputs <b>and</b> continually cross-check the intermediate 
 cacm-2720 : <b>for</b> efficient allocation <b>and</b> utilization of a set 
-cacm-2596 : indicate that <b>for</b> a <b>uniform</b> request distribution the buddy 
-cacm-2580 : that full-blown music <b>theory</b> is not needed <b>for</b> rounds-all the hardware required 
-cacm-2470 : than set <b>theory</b> or its derivatives <b>for</b> the concise <b>and</b> accurate description of program 
-cacm-2622 : solely to himself <b>and</b> the system the system 
-cacm-2809 : positivity <b>and</b> norms following some lines 
-cacm-2620 : execution time requirements <b>for</b> encipherment programs although encipherment 
-cacm-1725 : ordered-retrieval theorem <b>for</b> associative memories an efficient 
+cacm-2337 : a sorting problem <b>and</b> its <b>complexity</b> a technique <b>for</b> proving min-max norms of 
+cacm-1424 : automatic analysis of electronic 
+cacm-2628 : drum <b>and</b> moving-head drum <b>and</b> moving-head disk storage units 
+cacm-3045 : parsing time space <b>and</b> <b>complexity</b> of both the parser 
 cacm-2595 : considered <b>and</b> an exact expression <b>for</b> average working set size 
-cacm-1961 : relation between speed <b>and</b> <b>complexity</b> extensions to undirected <b>and</b> s-graphs are discussed cacm 
-cacm-0950 : <b>parallel</b> methods <b>for</b> integrating ordinary differential equations 
-cacm-1266 : considerations <b>relating</b> to purpose of fortran 
-cacm-1888 : spline function methods <b>for</b> nonlinear boundary-value problems the 
-cacm-2685 : are developed <b>for</b> the <b>parallel</b> execution of different iterations 
-cacm-3096 : an optimal method <b>for</b> deletion in one-sided height-balanced 
-cacm-2326 : <b>theory</b> of computation following the 
-cacm-2709 : <b>and</b> theorems <b>relating</b> the relative power of 
-cacm-0320 : <b>for</b> writing <b>and</b> using logic tables is 
-cacm-1603 : <b>and</b> task scheduling <b>and</b> provides <b>parallel</b> processing capability user programs 
-cacm-2515 : precedence relations without <b>parallel</b> activities is presented a 
+cacm-1948 : <b>and</b> commutator calculus group <b>theory</b> programs range from simple 
+cacm-2263 : two new algorithms <b>for</b> deriving optimal <b>and</b> near-optimal flowcharts from limited 
+cacm-2560 : are obtained <b>for</b> the long-run probability that 
+cacm-1957 : a whole <b>and</b> in <b>parallel</b> rather than evaluating subexpressions 
+cacm-2227 : of the program <b>and</b> the method used a 
+cacm-1911 : work of transformational <b>theory</b> to account <b>for</b> these phenomena it is 
+cacm-2790 : the elementary circuits of 
+cacm-3065 : deletion are provided <b>for</b> the class of right 
+cacm-3059 : models <b>for</b> <b>parallel</b> processing within programs application 
+cacm-1870 : some techniques <b>for</b> using pseudorandom numbers in 
+cacm-1834 : axioms <b>and</b> rules <b>and</b> a formal proof of 
+cacm-2216 : <b>for</b> the generating function <b>for</b> binary tree values the 
+cacm-2889 : <b>for</b> maintaining hbk trees <b>for</b> k1 are also independent 
+cacm-2726 : method <b>for</b> finding prime implicants if 
+cacm-2931 : <b>complexity</b> <b>theory</b> these however are applications 
+cacm-2596 : indicate that <b>for</b> a <b>uniform</b> request distribution the buddy 
+cacm-1825 : <b>and</b> if certain conditions <b>relating</b> these individual processors are 
 cacm-0103 : need <b>for</b> a quick accurate <b>uniform</b> operator test <b>and</b> training aid the authors 
+cacm-2076 : minimal storage <b>and</b> computation <b>and</b> permits easy trade-off of 
+cacm-2232 : recognition <b>and</b> the geometrical concept itself 
+cacm-0950 : <b>parallel</b> methods <b>for</b> integrating ordinary differential equations 
+cacm-2333 : random vectors <b>uniform</b> is solid angle algorithm 
+cacm-2702 : on the <b>complexity</b> of lrk testing the 
+cacm-3086 : on the <b>complexity</b> of computing the measure 
+cacm-2784 : expected time bounds <b>for</b> selection a new selection 
+cacm-2709 : <b>and</b> theorems <b>relating</b> the relative power of 
+cacm-1664 : an algorithm <b>for</b> deriving the equations of 
+cacm-2809 : positivity <b>and</b> norms following some lines 
+cacm-2200 : <b>for</b> devising division operations that 
+cacm-1051 : newell simon <b>and</b> shaw specified single computer 
+cacm-2975 : remark on <b>uniform</b> insertion in structured data 
 cacm-2189 : <b>for</b> five vertices are presented 
+cacm-3084 : search retrieval searching <b>uniform</b> distribution 4.4 4.6 5.25 
+cacm-3156 : d graph <b>theory</b> <b>parallel</b> processing algorithms transitive closure 
+cacm-2470 : than set <b>theory</b> or its derivatives <b>for</b> the concise <b>and</b> accurate description of program 
+cacm-1888 : spline function methods <b>for</b> nonlinear boundary-value problems the 
+cacm-1368 : <b>for</b> a combinatorial matrix which 
+cacm-1158 : program structures <b>for</b> <b>parallel</b> processing constructs <b>for</b> organizing <b>and</b> explicating <b>parallel</b> program segments are discussed 
+cacm-1928 : in execution time <b>and</b> space <b>and</b> a facility <b>for</b> handling simultaneous activities the 
+cacm-2469 : petri nets <b>and</b> speed independent design petri 
+cacm-1566 : optimal starting values <b>for</b> newton-raphson calculation of sqrtx 
+cacm-2515 : precedence relations without <b>parallel</b> activities is presented a 
+cacm-2898 : a conceptual framework <b>for</b> a nonprocedural programming language 
+cacm-2734 : outperformed best-fit but <b>for</b> normal <b>and</b> <b>uniform</b> distributions <b>and</b> <b>for</b> exponential distributions distorted in 
+cacm-2430 : graph <b>theory</b> circuit search algorithm path 
+cacm-1806 : method <b>for</b> solving complex equations fz 
+cacm-2326 : <b>theory</b> of computation following the 
+cacm-1925 : of problems <b>relating</b> to contour maps one 
+cacm-0678 : are discussed <b>for</b> increasing the sophistication of 
+cacm-1961 : relation between speed <b>and</b> <b>complexity</b> extensions to undirected <b>and</b> s-graphs are discussed cacm 
+cacm-2795 : language analyzer <b>and</b> a combined memory <b>and</b> inference model in generating 
+cacm-2484 : <b>and</b> an algorithm <b>for</b> selecting an element from 
+cacm-2195 : of merit <b>and</b> the <b>complexity</b> of the optimization process 
+cacm-1409 : similar to large <b>parallel</b> machines <b>and</b> uses flip-flop arithmetic <b>and</b> control registers throughout all 
+cacm-2110 : unambiguous grammars <b>and</b> it runs in linear 
+cacm-1266 : considerations <b>relating</b> to purpose of fortran 
+cacm-2134 : algorithm <b>for</b> the assignment problem to 
+cacm-2401 : a <b>parallel</b> processing algorithm <b>for</b> shrinking binary patterns to 
+cacm-0252 : inputs <b>and</b> continually cross-check the intermediate 
+cacm-1382 : the supply <b>and</b> demand <b>for</b> mathematicians in the united 
+cacm-1309 : a fundamental vehicle <b>for</b> accomplishing both manipulation <b>and</b> computation cacm february 1965 
+cacm-0320 : <b>for</b> writing <b>and</b> using logic tables is 
+cacm-2598 : extending the information <b>theory</b> approach to converting limited-entry 
+cacm-2620 : execution time requirements <b>for</b> encipherment programs although encipherment 
+cacm-1648 : <b>uniform</b> random algorithm 294 g5 
+cacm-2924 : <b>for</b> man-machine communication <b>and</b> software <b>for</b> static or dynamic graphics 
+cacm-2932 : research in the <b>theory</b> of <b>complexity</b> of computations is described 
+cacm-2622 : solely to himself <b>and</b> the system the system 
+cacm-2985 : ternal pricing systems <b>for</b> computer services chargeout systems 
+cacm-2918 : from previous work <b>and</b> are used <b>for</b> comparison trace-driven simulations are 
+cacm-3175 : are updated in <b>parallel</b> <b>for</b> all code letters using 
+cacm-2580 : that full-blown music <b>theory</b> is not needed <b>for</b> rounds-all the hardware required 
+cacm-2327 : m a automata <b>theory</b> brain <b>theory</b> network <b>complexity</b> resolution of redundancy of 
+cacm-1143 : a <b>uniform</b> technique both <b>for</b> running the experiments <b>and</b> <b>for</b> analyzing the data <b>and</b> then to consider as 
+cacm-3163 : however the insertion <b>and</b> deletion algorithms <b>for</b> oshb trees appear much 
+cacm-1792 : to account <b>for</b> results <b>and</b> suggestions are made <b>for</b> further research cacm january 
+cacm-2342 : of <b>parallel</b> programs <b>and</b> informal proofs of correctness 
+cacm-2289 : of the possibilities <b>for</b> <b>parallel</b> processing in this paper 
+cacm-1725 : ordered-retrieval theorem <b>for</b> associative memories an efficient 
+cacm-3096 : an optimal method <b>for</b> deletion in one-sided height-balanced 
+cacm-1856 : factual assertions <b>for</b> the memory <b>and</b> the capabilities <b>for</b> correctly <b>relating</b> text to the memorys 
+cacm-2927 : is the computational <b>complexity</b> of finding all the 
+cacm-2380 : comprehensive <b>uniform</b> file <b>and</b> i/o capabilities <b>and</b> clean flexible system structure 
+cacm-1933 : <b>for</b> 261 2 <b>and</b> a primitive root <b>for</b> 261 1 the next 
+cacm-2649 : digits <b>and</b> roundoff errors generalized logarithmic 
+cacm-1887 : a recursive relation <b>for</b> the determinant of a 
+cacm-1711 : lawyer possible liability <b>for</b> negligence <b>for</b> other torts such as 
+cacm-2220 : proposed an algorithm <b>for</b> converting decision tables into 
+cacm-3055 : by dijkstra 1 <b>and</b> meyer 3 dijkstra starts 
+cacm-1595 : <b>for</b> enumerating finite topologies <b>and</b> computed results are given 
+cacm-1603 : <b>and</b> task scheduling <b>and</b> provides <b>parallel</b> processing capability user programs 
+cacm-2685 : are developed <b>for</b> the <b>parallel</b> execution of different iterations 
+cacm-2631 : maintenance <b>and</b> use of large dictionaries 
+cacm-0335 : method <b>for</b> nonlinear parabolic <b>and</b> ellipticboundary-value problems using a 

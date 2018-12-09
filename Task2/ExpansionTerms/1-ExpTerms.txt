@@ -1,10 +1,10 @@
 computer
-jb
-1978
 design
+1978
 cacm
-program
+jb
 input
+program
 pm
 user
 experimental

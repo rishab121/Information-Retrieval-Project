@@ -1,10 +1,10 @@
 method
 methods
 gamma
-random
 cacm
+random
 1978
 variables
 rejection
 generating
-variates
+january

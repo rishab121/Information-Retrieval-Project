@@ -2,9 +2,9 @@ data
 access
 organization
 base
-jb
 computer
 cacm
-retrieval
+jb
 storage
+retrieval
 1978

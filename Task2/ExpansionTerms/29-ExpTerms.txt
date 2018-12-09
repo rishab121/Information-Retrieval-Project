@@ -1,10 +1,10 @@
 complement
 cacm
-jb
-1978
 arithmetic
+1978
+jb
 simplification
+division
 problems
 system
-division
 cellular

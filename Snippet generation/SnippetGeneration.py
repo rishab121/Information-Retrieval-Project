@@ -9,6 +9,7 @@ class SnippetGeneration:
     def __init__(self):
         self.query = []
         self.helper = Helper()
+        self.main()
 
 
 
@@ -79,4 +80,6 @@ class SnippetGeneration:
         for qId in queries.keys():
             self.query = queries[qId].split()
             self.calcScore(qId)
+
+s = SnippetGeneration()
 

@@ -1,10 +1,10 @@
 algorithm
 cacm
-jb
-problem
 sorting
-1978
+problem
+jb
 analysis
-bound
+1978
 precedence
 5.25
+bound

@@ -1,100 +1,100 @@
-cacm-2232 : <b>pattern</b> <b>recognition</b> <b>and</b> the geometrical concept itself 
-cacm-2048 : report compares the <b>performance</b> of five different adaptive 
-cacm-1935 : the mean <b>and</b> variance of the number 
-cacm-2849 : the receiving stations <b>using</b> packet address <b>recognition</b> design principles <b>and</b> implementation are described based 
-cacm-2019 : n <b>pattern</b> <b>recognition</b> character <b>recognition</b> normalization projective transformation central 
-cacm-2788 : j picture processing <b>pattern</b> <b>recognition</b> curve detectionline fitting 3.63 
-cacm-2113 : grammar structure <b>recognition</b> <b>pattern</b> <b>recognition</b> matching procedures tree-structure interpretation 
-cacm-1030 : <b>techniques</b> for the simulation of 
-cacm-1915 : sequentially <b>and</b> all planes which hide 
-cacm-2991 : <b>and</b> by adding shadow buckets 
-cacm-0204 : proving theorems by <b>pattern</b> <b>recognition</b> i cacm april 1960 
-cacm-2268 : particular problems <b>and</b> criteria used in the 
-cacm-3091 : of programs <b>and</b> experience characteristics of programmers 
-cacm-0851 : design <b>and</b> characteristics of a variable-length 
-cacm-2882 : database <b>performance</b> <b>and</b> <b>evaluation</b> invented list threaded list 
-cacm-1973 : per probe <b>and</b> <b>using</b> few probes per lookup 
-cacm-2883 : a graph <b>and</b> can be solved <b>using</b> well-known graph search algorithms 
-cacm-2400 : processing <b>pattern</b> <b>recognition</b> line detection curve detection 
-cacm-3001 : keys <b>pattern</b> <b>recognition</b> artificial in telligence demons 
-cacm-2859 : of program behavior <b>and</b> simulations of systems <b>using</b> memory references from real 
-cacm-2318 : models in <b>performance</b> <b>evaluation</b> models constitute a useful 
-cacm-2910 : processing <b>pattern</b> <b>recognition</b> curve detection hough transformation 
-cacm-3089 : reliability <b>and</b> system <b>performance</b> <b>evaluation</b> 3.72 3.73 4.33 4.35 
-cacm-2231 : <b>pattern</b> <b>recognition</b> integral geometry 3.63 5.30 
-cacm-2451 : <b>performance</b> <b>and</b> that of an intuitively 
-cacm-0961 : limited bit manipulation <b>using</b> fortran ii <b>techniques</b> are developed for manipulating 
-cacm-2829 : <b>using</b> these new <b>techniques</b> are included cacm october 
-cacm-2258 : <b>techniques</b> a fundamental <b>performance</b> study on large existing 
-cacm-2401 : a <b>pattern</b> are reviewed <b>and</b> discussed an analogy with 
-cacm-1726 : nagy g <b>pattern</b> <b>recognition</b> character <b>recognition</b> text reading information retrieval 
-cacm-2454 : strategies <b>and</b> order of <b>evaluation</b> are examined in some 
-cacm-3072 : distribution-driven <b>and</b> trace-driven <b>techniques</b> even relatively simple dynamic 
-cacm-2215 : <b>techniques</b> to sequential <b>pattern</b> <b>recognition</b> a sequential <b>pattern</b> <b>recognition</b> spr procedure does not 
-cacm-3135 : a three-dimensional <b>pattern</b> <b>recognition</b> chemical structure search information 
-cacm-2902 : <b>performance</b> of 35 dynamic memory 
-cacm-2203 : key-to-address transform <b>techniques</b> a fundamental <b>performance</b> study on large existing 
-cacm-3048 : <b>performance</b> <b>evaluation</b> of highly concurrent computers 
-cacm-2903 : solve <b>pattern</b> matching problems by <b>using</b> recursion in troduction algorithms 
-cacm-2017 : programs <b>and</b> analysis of the <b>performance</b> measurement results obtained for 
-cacm-2402 : pictorial <b>pattern</b> <b>recognition</b> <b>and</b> the phase problem of 
-cacm-1938 : <b>performance</b> <b>evaluation</b> cacm january 1969 stimler 
-cacm-2698 : <b>using</b> the well-known recognizer of 
-cacm-2310 : <b>pattern</b> <b>recognition</b> <b>pattern</b> generation interdisciplinary cooperation 1.3 
-cacm-1334 : <b>using</b> simple array manipulation <b>techniques</b> to perform the algebraic 
-cacm-1170 : system based on <b>pattern</b> <b>recognition</b> <b>and</b> learning logic was developed 
-cacm-2741 : dynamic behavior <b>and</b> evaluate the <b>performance</b> of computing systems is 
-cacm-2711 : retrieval or other <b>pattern</b> matching environment where stored 
-cacm-1427 : <b>and</b> present research <b>using</b> the output of the 
-cacm-3013 : processing <b>pattern</b> <b>recognition</b> edge detection 3.63 ca780210 
-cacm-2811 : structural <b>pattern</b> <b>recognition</b> of carotid pulse waves 
-cacm-2669 : demand paging <b>performance</b> predicting the <b>performance</b> of a proposed automatically 
-cacm-3070 : simulation <b>and</b> analytic <b>techniques</b> are combined to produce 
-cacm-2107 : discussed <b>and</b> a new hashing method 
-cacm-1870 : some <b>techniques</b> for <b>using</b> pseudorandom numbers in computer 
-cacm-3132 : classification in two-class <b>pattern</b> <b>recognition</b> it is a standard 
-cacm-2746 : <b>and</b> then <b>using</b> the <b>pattern</b> matching machine to process 
-cacm-2561 : base <b>using</b> nonnumerical clustering algorithms they 
-cacm-0462 : computer <b>pattern</b> <b>recognition</b> <b>techniques</b> electrocardiographic diagnosis the use 
-cacm-1805 : in processor memory <b>and</b> proceeding each <b>using</b> the same central processor 
-cacm-0893 : several numerical experiments <b>using</b> this mode are described 
-cacm-2892 : switching <b>performance</b> <b>evaluation</b> <b>and</b> efficiency resource sharing 3.81 
-cacm-2951 : analytical simulation <b>and</b> statistical <b>performance</b> <b>evaluation</b> tools are employed to 
-cacm-2641 : clustering <b>pattern</b> <b>recognition</b> feature selection minimal spanning 
-cacm-1855 : of english words <b>and</b> that it pursues all 
-cacm-2494 : is described <b>and</b> illustrated the graphic principle 
-cacm-1542 : compiler <b>and</b> interpreter <b>performance</b> obtained the role of 
-cacm-2871 : <b>and</b> incorrect programs are not 
-cacm-2683 : this is tedious <b>and</b> error prone producing a 
-cacm-1827 : b <b>performance</b> monitoring <b>performance</b> measurement program behavior <b>performance</b> data multiprogramming <b>performance</b> software measurement time-sharing <b>performance</b> system <b>evaluation</b> software monitor software instrumentation 
-cacm-1526 : system <b>using</b> a page on demand 
-cacm-2571 : modeling <b>performance</b> <b>evaluation</b> 4.32 8.1 ca741203 jb 
-cacm-0633 : analysis <b>and</b> <b>pattern</b> <b>recognition</b> cacm february 1962 garfinkel 
-cacm-2344 : on system <b>performance</b> system <b>performance</b> is based upon the 
-cacm-3149 : graphics <b>pattern</b> <b>recognition</b> 3.2 3.6 8.2 ca790605 
-cacm-2720 : characteristics is examined <b>using</b> analytical <b>techniques</b> <b>using</b> standard queueing theory each 
-cacm-2542 : input to <b>performance</b> analysis <b>and</b> simulation routines <b>using</b> the <b>performance</b> information obtained from these 
-cacm-1931 : expected when <b>using</b> i for determinant <b>evaluation</b> an application <b>using</b> i determinants in a 
-cacm-1032 : its history <b>and</b> past <b>performance</b> <b>and</b> the second is a 
-cacm-1050 : on operating program <b>using</b> these <b>techniques</b> cacm june 1964 brian 
-cacm-2716 : optimizing the <b>performance</b> of a relational algebra 
-cacm-1543 : of motion <b>using</b> tensor notation a means 
-cacm-2319 : operating system <b>performance</b> <b>evaluation</b> <b>performance</b> measurement measurement <b>techniques</b> modularity layering structured programming 
-cacm-2370 : <b>recognition</b> <b>and</b> signal processing an interactive 
-cacm-1534 : the design <b>and</b> implementation of the c 
-cacm-2314 : <b>and</b> function <b>evaluation</b> syntax directed input <b>and</b> output of data would 
-cacm-2990 : effective information retrieval <b>using</b> term accuracy the <b>performance</b> of information retrieval systems 
-cacm-2437 : with the algorithm <b>and</b> the average <b>performance</b> of the transformation methods 
-cacm-1908 : of problem-solving <b>using</b> time-sharing <b>and</b> batch-processing computer systems conducted 
 cacm-2287 : <b>and</b> <b>recognition</b> of contour lines is 
-cacm-2217 : <b>and</b> the proving program <b>and</b> for analyzing <b>and</b> summarizing results data was 
-cacm-2452 : <b>evaluation</b> <b>and</b> selection of file organization-a 
-cacm-1653 : art of system <b>performance</b> <b>evaluation</b> is reviewed <b>and</b> <b>evaluation</b> goals <b>and</b> problems are examined throughput 
-cacm-2980 : processing <b>pattern</b> <b>recognition</b> segmentation region editing 3.63 
-cacm-3119 : multiprocessing scheduling disciplines <b>performance</b> <b>evaluation</b> queueing models 4.32 4.6 
+cacm-2720 : characteristics is examined <b>using</b> analytical <b>techniques</b> <b>using</b> standard queueing theory each 
+cacm-1938 : <b>performance</b> <b>evaluation</b> cacm january 1969 stimler 
+cacm-3091 : of programs <b>and</b> experience characteristics of programmers 
+cacm-1915 : sequentially <b>and</b> all planes which hide 
+cacm-3070 : simulation <b>and</b> analytic <b>techniques</b> are combined to produce 
+cacm-2203 : key-to-address transform <b>techniques</b> a fundamental <b>performance</b> study on large existing 
+cacm-2859 : of program behavior <b>and</b> simulations of systems <b>using</b> memory references from real 
+cacm-2400 : processing <b>pattern</b> <b>recognition</b> line detection curve detection 
+cacm-2849 : the receiving stations <b>using</b> packet address <b>recognition</b> design principles <b>and</b> implementation are described based 
+cacm-1334 : <b>using</b> simple array manipulation <b>techniques</b> to perform the algebraic 
 cacm-3078 : computer systems <b>using</b> computer aided algebra analytical 
-cacm-2894 : <b>techniques</b> the nbs network measurement 
+cacm-2494 : is described <b>and</b> illustrated the graphic principle 
+cacm-2980 : processing <b>pattern</b> <b>recognition</b> segmentation region editing 3.63 
+cacm-1032 : its history <b>and</b> past <b>performance</b> <b>and</b> the second is a 
+cacm-1935 : the mean <b>and</b> variance of the number 
+cacm-1870 : some <b>techniques</b> for <b>using</b> pseudorandom numbers in computer 
+cacm-2017 : programs <b>and</b> analysis of the <b>performance</b> measurement results obtained for 
+cacm-2370 : <b>recognition</b> <b>and</b> signal processing an interactive 
+cacm-1526 : system <b>using</b> a page on demand 
+cacm-3089 : reliability <b>and</b> system <b>performance</b> <b>evaluation</b> 3.72 3.73 4.33 4.35 
+cacm-1543 : of motion <b>using</b> tensor notation a means 
+cacm-2902 : <b>performance</b> of 35 dynamic memory 
+cacm-2641 : clustering <b>pattern</b> <b>recognition</b> feature selection minimal spanning 
+cacm-2314 : <b>and</b> function <b>evaluation</b> syntax directed input <b>and</b> output of data would 
+cacm-1534 : the design <b>and</b> implementation of the c 
+cacm-2716 : optimizing the <b>performance</b> of a relational algebra 
+cacm-2683 : this is tedious <b>and</b> error prone producing a 
+cacm-1170 : system based on <b>pattern</b> <b>recognition</b> <b>and</b> learning logic was developed 
+cacm-2882 : database <b>performance</b> <b>and</b> <b>evaluation</b> invented list threaded list 
+cacm-2991 : <b>and</b> by adding shadow buckets 
+cacm-3001 : keys <b>pattern</b> <b>recognition</b> artificial in telligence demons 
+cacm-2232 : <b>pattern</b> <b>recognition</b> <b>and</b> the geometrical concept itself 
+cacm-2310 : <b>pattern</b> <b>recognition</b> <b>pattern</b> generation interdisciplinary cooperation 1.3 
+cacm-2318 : models in <b>performance</b> <b>evaluation</b> models constitute a useful 
+cacm-2048 : report compares the <b>performance</b> of five different adaptive 
 cacm-2634 : to cost <b>and</b> <b>performance</b> cacm june 1974 slysz 
+cacm-1542 : compiler <b>and</b> interpreter <b>performance</b> obtained the role of 
+cacm-2561 : base <b>using</b> nonnumerical clustering algorithms they 
+cacm-2215 : <b>techniques</b> to sequential <b>pattern</b> <b>recognition</b> a sequential <b>pattern</b> <b>recognition</b> spr procedure does not 
+cacm-2871 : <b>and</b> incorrect programs are not 
+cacm-2894 : <b>techniques</b> the nbs network measurement 
+cacm-2454 : strategies <b>and</b> order of <b>evaluation</b> are examined in some 
+cacm-2437 : with the algorithm <b>and</b> the average <b>performance</b> of the transformation methods 
+cacm-1805 : in processor memory <b>and</b> proceeding each <b>using</b> the same central processor 
+cacm-1908 : of problem-solving <b>using</b> time-sharing <b>and</b> batch-processing computer systems conducted 
+cacm-2451 : <b>performance</b> <b>and</b> that of an intuitively 
+cacm-2113 : grammar structure <b>recognition</b> <b>pattern</b> <b>recognition</b> matching procedures tree-structure interpretation 
+cacm-2268 : particular problems <b>and</b> criteria used in the 
+cacm-2344 : on system <b>performance</b> system <b>performance</b> is based upon the 
+cacm-2746 : <b>and</b> then <b>using</b> the <b>pattern</b> matching machine to process 
+cacm-2542 : input to <b>performance</b> analysis <b>and</b> simulation routines <b>using</b> the <b>performance</b> information obtained from these 
+cacm-2571 : modeling <b>performance</b> <b>evaluation</b> 4.32 8.1 ca741203 jb 
+cacm-0204 : proving theorems by <b>pattern</b> <b>recognition</b> i cacm april 1960 
+cacm-2258 : <b>techniques</b> a fundamental <b>performance</b> study on large existing 
+cacm-2452 : <b>evaluation</b> <b>and</b> selection of file organization-a 
+cacm-2829 : <b>using</b> these new <b>techniques</b> are included cacm october 
+cacm-2217 : <b>and</b> the proving program <b>and</b> for analyzing <b>and</b> summarizing results data was 
 cacm-2054 : h a speech <b>recognition</b> word <b>recognition</b> pattern-matching <b>pattern</b> <b>recognition</b> time-sharing remote access voice 
-cacm-2812 : <b>and</b> <b>performance</b> <b>evaluation</b> there are four major 
+cacm-2892 : switching <b>performance</b> <b>evaluation</b> <b>and</b> efficiency resource sharing 3.81 
+cacm-0462 : computer <b>pattern</b> <b>recognition</b> <b>techniques</b> electrocardiographic diagnosis the use 
+cacm-2401 : a <b>pattern</b> are reviewed <b>and</b> discussed an analogy with 
+cacm-2698 : <b>using</b> the well-known recognizer of 
+cacm-1050 : on operating program <b>using</b> these <b>techniques</b> cacm june 1964 brian 
+cacm-3048 : <b>performance</b> <b>evaluation</b> of highly concurrent computers 
 cacm-2984 : <b>performance</b> a method is presented 
+cacm-2903 : solve <b>pattern</b> matching problems by <b>using</b> recursion in troduction algorithms 
+cacm-3135 : a three-dimensional <b>pattern</b> <b>recognition</b> chemical structure search information 
+cacm-0893 : several numerical experiments <b>using</b> this mode are described 
+cacm-1855 : of english words <b>and</b> that it pursues all 
+cacm-3119 : multiprocessing scheduling disciplines <b>performance</b> <b>evaluation</b> queueing models 4.32 4.6 
+cacm-2741 : dynamic behavior <b>and</b> evaluate the <b>performance</b> of computing systems is 
+cacm-3149 : graphics <b>pattern</b> <b>recognition</b> 3.2 3.6 8.2 ca790605 
+cacm-0961 : limited bit manipulation <b>using</b> fortran ii <b>techniques</b> are developed for manipulating 
+cacm-2812 : <b>and</b> <b>performance</b> <b>evaluation</b> there are four major 
+cacm-2711 : retrieval or other <b>pattern</b> matching environment where stored 
+cacm-1653 : art of system <b>performance</b> <b>evaluation</b> is reviewed <b>and</b> <b>evaluation</b> goals <b>and</b> problems are examined throughput 
+cacm-3013 : processing <b>pattern</b> <b>recognition</b> edge detection 3.63 ca780210 
+cacm-1030 : <b>techniques</b> for the simulation of 
+cacm-3072 : distribution-driven <b>and</b> trace-driven <b>techniques</b> even relatively simple dynamic 
+cacm-2811 : structural <b>pattern</b> <b>recognition</b> of carotid pulse waves 
+cacm-2910 : processing <b>pattern</b> <b>recognition</b> curve detection hough transformation 
+cacm-2107 : discussed <b>and</b> a new hashing method 
+cacm-2019 : n <b>pattern</b> <b>recognition</b> character <b>recognition</b> normalization projective transformation central 
+cacm-2669 : demand paging <b>performance</b> predicting the <b>performance</b> of a proposed automatically 
+cacm-2788 : j picture processing <b>pattern</b> <b>recognition</b> curve detectionline fitting 3.63 
+cacm-2883 : a graph <b>and</b> can be solved <b>using</b> well-known graph search algorithms 
+cacm-0851 : design <b>and</b> characteristics of a variable-length 
+cacm-2319 : operating system <b>performance</b> <b>evaluation</b> <b>performance</b> measurement measurement <b>techniques</b> modularity layering structured programming 
+cacm-2951 : analytical simulation <b>and</b> statistical <b>performance</b> <b>evaluation</b> tools are employed to 
+cacm-2990 : effective information retrieval <b>using</b> term accuracy the <b>performance</b> of information retrieval systems 
+cacm-0633 : analysis <b>and</b> <b>pattern</b> <b>recognition</b> cacm february 1962 garfinkel 
+cacm-2231 : <b>pattern</b> <b>recognition</b> integral geometry 3.63 5.30 
+cacm-1726 : nagy g <b>pattern</b> <b>recognition</b> character <b>recognition</b> text reading information retrieval 
+cacm-1931 : expected when <b>using</b> i for determinant <b>evaluation</b> an application <b>using</b> i determinants in a 
+cacm-1427 : <b>and</b> present research <b>using</b> the output of the 
+cacm-1827 : b <b>performance</b> monitoring <b>performance</b> measurement program behavior <b>performance</b> data multiprogramming <b>performance</b> software measurement time-sharing <b>performance</b> system <b>evaluation</b> software monitor software instrumentation 
+cacm-3132 : classification in two-class <b>pattern</b> <b>recognition</b> it is a standard 
+cacm-2402 : pictorial <b>pattern</b> <b>recognition</b> <b>and</b> the phase problem of 
+cacm-1973 : per probe <b>and</b> <b>using</b> few probes per lookup 

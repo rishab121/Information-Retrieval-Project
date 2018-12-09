@@ -1,100 +1,100 @@
-cacm-3175 : <b>for</b> all <b>code</b> letters using joint letter 
-cacm-2112 : <b>and</b> left-context sensitive semantics <b>for</b> context-free languages a formal 
-cacm-1409 : similar to large <b>parallel</b> machines <b>and</b> uses flip-flop arithmetic <b>and</b> control registers throughout all 
-cacm-2514 : <b>and</b> test array grammars the 
-cacm-0670 : <b>highly</b> regulated by government <b>and</b> hence is subject to 
-cacm-3066 : testing <b>and</b> <b>code</b> walkthroughs/inspections this paper describes 
-cacm-2423 : a parser-generating system <b>for</b> constructing compressed <b>compilers</b> this paper describes a 
-cacm-3110 : assembling <b>code</b> <b>for</b> machines with span-dependent instructions 
-cacm-3156 : permitted <b>for</b> fetch instructions but not 
-cacm-2633 : <b>for</b> phone line transmission methods 
-cacm-2175 : in <b>parallel</b> or in a combination 
-cacm-1324 : programmed <b>and</b> operating are described <b>and</b> reviewed the systems range 
-cacm-3148 : high level programming <b>for</b> distributed computing programming <b>for</b> distributed <b>and</b> other loosely coupled systems 
-cacm-1163 : <b>and</b> binary levels a translation 
-cacm-3075 : fast <b>parallel</b> sorting algorithms a <b>parallel</b> bucket-sort algorithm is presented 
-cacm-3093 : of levy <b>and</b> graham <b>and</b> rhodes appears to provide 
-cacm-2231 : <b>horizontal</b> <b>and</b> vertical projections of a 
-cacm-2684 : actual <b>and</b> formal parameters <b>and</b> issues arising from block 
-cacm-2714 : <b>parallel</b> processing <b>parallel</b> merging <b>parallel</b> binary insertion 5.31 ca751005 
-cacm-0205 : languages macroinstruction <b>compilers</b> constructed from a small 
-cacm-1844 : design <b>and</b> organization of a general 
-cacm-1548 : with regard to <b>horizontal</b> <b>and</b> vertical data structures job 
-cacm-2433 : these features <b>for</b> data layout <b>and</b> algorithm structure are discussed 
-cacm-0243 : n-dimensional codes <b>for</b> detecting <b>and</b> correcting multiple errors the 
-cacm-2685 : are developed <b>for</b> the <b>parallel</b> execution of different iterations 
-cacm-1906 : to resolve conflicts <b>for</b> lines <b>and</b> vias below the aperture 
-cacm-1811 : <b>for</b> parallel-processors an affirmative partial 
-cacm-1099 : <b>especially</b> suited <b>for</b> programming work because of 
-cacm-1738 : flexible <b>and</b> <b>highly</b> efficient to use communication 
-cacm-2723 : interprocessor communication <b>and</b> interlocks complete procedures <b>for</b> garbage collection <b>and</b> <b>for</b> standard list processing primitives 
-cacm-3005 : length 1-byte op <b>code</b> <b>and</b> address fields the most 
-cacm-3150 : be adequate <b>for</b> building <b>and</b> maintaining systems of the 
-cacm-1135 : class of business <b>and</b> file processing applications is 
-cacm-2064 : vectors matrices <b>and</b> higher dimensional storage arrays 
-cacm-2253 : generate <b>code</b> <b>for</b> handling the tedious address 
+cacm-1795 : optimal <b>code</b> <b>for</b> serial <b>and</b> <b>parallel</b> computation cacm december 1969 
 cacm-2146 : dispersion algorithms <b>for</b> the polyphase sorting procedure 
-cacm-3073 : programming <b>and</b> that <b>parallel</b> composition of communicating sequential 
-cacm-2989 : is in troduced <b>and</b> used to answer questions 
-cacm-2897 : new <b>code</b> generation technique <b>for</b> <b>compilers</b> recent developments in optimizing 
-cacm-1223 : object <b>code</b> a three-pass compiler with 
-cacm-3074 : a time <b>and</b> space efficient garbage <b>compaction</b> algorithm given an area 
-cacm-2289 : of the possibilities <b>for</b> <b>parallel</b> processing in this paper 
+cacm-1852 : a base <b>for</b> a mobile programming system 
+cacm-2112 : <b>and</b> left-context sensitive semantics <b>for</b> context-free languages a formal 
+cacm-2633 : <b>for</b> phone line transmission methods 
+cacm-1463 : the facility <b>for</b> providing system control over 
+cacm-2034 : <b>and</b> the implementation techniques which 
+cacm-2514 : <b>and</b> test array grammars the 
+cacm-2651 : efficient compiled <b>code</b> <b>and</b> compact data representation cacm 
 cacm-2692 : <b>code</b> is reentered <b>for</b> clipping against subsequent boundaries 
 cacm-2717 : definition language <b>for</b> data conversion this paper 
-cacm-2252 : has been received <b>and</b> 4 the parsing <b>and</b> compilation are factored into 
-cacm-2138 : <b>especially</b> suitable <b>for</b> use in writing production 
-cacm-2767 : event notices <b>and</b> another uses an indexed 
+cacm-1738 : flexible <b>and</b> <b>highly</b> efficient to use communication 
+cacm-2723 : interprocessor communication <b>and</b> interlocks complete procedures <b>for</b> garbage collection <b>and</b> <b>for</b> standard list processing primitives 
+cacm-2253 : generate <b>code</b> <b>for</b> handling the tedious address 
 cacm-2266 : a <b>highly</b> <b>parallel</b> algorithm <b>for</b> approximating all zeros of 
-cacm-2886 : grammars <b>and</b> their use <b>for</b> the definition of programming 
-cacm-2570 : <b>for</b> <b>parallel</b> processing systems the problem 
-cacm-2896 : it <b>especially</b> difficult to understand <b>and</b> complicates the proof greatly 
-cacm-2921 : fsms <b>and</b> as a special case 
-cacm-1824 : piece of pl/i <b>code</b> is executed this <b>code</b> has available <b>for</b> use as normal pl/i 
-cacm-0799 : same compiler <b>for</b> smaller machines require only 
-cacm-1613 : <b>for</b> a <b>parallel</b> processor under the assumption 
-cacm-3127 : the system <b>and</b> application programs which use 
-cacm-1389 : <b>code</b> in order to write 
-cacm-1923 : interfaces <b>for</b> high level languages using 
 cacm-2645 : two languages <b>for</b> estimating program efficiency two 
-cacm-2939 : <b>and</b> <b>especially</b> data abstractions-are useful in 
-cacm-2534 : <b>for</b> a dialect <b>for</b> pl/i the design objective 
-cacm-3080 : optimized <b>code</b> a system <b>for</b> proving that programs written 
-cacm-1807 : of the variables <b>and</b> the branching <b>and</b> do loop structure of 
-cacm-0637 : in building <b>compilers</b> with <b>compilers</b> indeed it pointed out 
-cacm-2651 : efficient compiled <b>code</b> <b>and</b> compact data representation cacm 
-cacm-2567 : faster <b>for</b> some <b>highly</b> stiff systems cacm december 
-cacm-1826 : a lisp garbage-collector <b>for</b> virtual-memory computer systems in 
-cacm-1795 : optimal <b>code</b> <b>for</b> serial <b>and</b> <b>parallel</b> computation cacm december 1969 
-cacm-2706 : <b>compaction</b> of character sets this 
-cacm-1425 : given set <b>and</b> of the basic mappings 
-cacm-2497 : been developed <b>for</b> a dual dec pdp-10 
-cacm-2785 : <b>parallel</b> computation <b>parallel</b> architecture 4.2 4.21 4.22 
-cacm-3171 : technique is described <b>for</b> run-time line number administration 
-cacm-1747 : three criteria <b>for</b> designing computing systems to 
-cacm-2998 : atoms <b>and</b> <b>especially</b> among poin ters to 
+cacm-3074 : a time <b>and</b> space efficient garbage <b>compaction</b> algorithm given an area 
 cacm-1988 : a formalism <b>for</b> translator interactions a formalism 
-cacm-1463 : the facility <b>for</b> providing system control over 
-cacm-1680 : system language processors <b>and</b> <b>compilers</b> simulation models mathematical solution 
-cacm-2341 : <b>and</b> text justification <b>and</b> preparation have been programmed 
-cacm-2298 : an environment <b>for</b> research in microprogramming <b>and</b> emulation the development of 
-cacm-2411 : tree-structured programs cacm november 
-cacm-1159 : of techniques <b>for</b> transferring programs <b>and</b> <b>especially</b> <b>compilers</b> from one computer to 
-cacm-2644 : is a need <b>for</b> developing a language <b>especially</b> oriented toward automated theorem 
-cacm-2495 : adapting optimal <b>code</b> generation <b>for</b> arithmetic expressions to the 
+cacm-3093 : of levy <b>and</b> graham <b>and</b> rhodes appears to provide 
+cacm-1826 : a lisp garbage-collector <b>for</b> virtual-memory computer systems in 
 cacm-0303 : mechanical languages <b>and</b> their processors the suggestions 
-cacm-0950 : take full advantage <b>for</b> real-time computations of <b>highly</b> <b>parallel</b> computers as can be 
-cacm-2820 : needed <b>for</b> implementation <b>and</b> to increase the flexibility 
-cacm-2819 : a system <b>for</b> the compression of data 
-cacm-2061 : <b>and</b> a compiler <b>for</b> it cacm may 1970 
-cacm-1947 : object <b>code</b> optimization methods of analyzing 
-cacm-1852 : a base <b>for</b> a mobile programming system 
+cacm-2175 : in <b>parallel</b> or in a combination 
+cacm-2896 : it <b>especially</b> difficult to understand <b>and</b> complicates the proof greatly 
+cacm-2644 : is a need <b>for</b> developing a language <b>especially</b> oriented toward automated theorem 
+cacm-3073 : programming <b>and</b> that <b>parallel</b> composition of communicating sequential 
+cacm-2567 : faster <b>for</b> some <b>highly</b> stiff systems cacm december 
+cacm-0243 : n-dimensional codes <b>for</b> detecting <b>and</b> correcting multiple errors the 
 cacm-1665 : task lexical processors <b>for</b> aed-o <b>and</b> mad are among the 
-cacm-2929 : size of compiled <b>code</b> <b>and</b> a small savings in 
-cacm-2579 : computations <b>and</b> describes how usage counts 
-cacm-1603 : <b>and</b> task scheduling <b>and</b> provides <b>parallel</b> processing capability user programs 
-cacm-2034 : <b>and</b> the implementation techniques which 
+cacm-1159 : of techniques <b>for</b> transferring programs <b>and</b> <b>especially</b> <b>compilers</b> from one computer to 
+cacm-2433 : these features <b>for</b> data layout <b>and</b> algorithm structure are discussed 
+cacm-1135 : class of business <b>and</b> file processing applications is 
+cacm-2495 : adapting optimal <b>code</b> generation <b>for</b> arithmetic expressions to the 
+cacm-0205 : languages macroinstruction <b>compilers</b> constructed from a small 
 cacm-1591 : flexibility <b>for</b> industrial <b>and</b> executive training as well 
-cacm-2904 : cocke j <b>compilers</b> optimization of compiled <b>code</b> program analysis operator strength 
-cacm-3107 : <b>especially</b> <b>for</b> difficult combinations of parameter 
+cacm-2497 : been developed <b>for</b> a dual dec pdp-10 
+cacm-2298 : an environment <b>for</b> research in microprogramming <b>and</b> emulation the development of 
+cacm-1163 : <b>and</b> binary levels a translation 
+cacm-2706 : <b>compaction</b> of character sets this 
+cacm-1824 : piece of pl/i <b>code</b> is executed this <b>code</b> has available <b>for</b> use as normal pl/i 
+cacm-3075 : fast <b>parallel</b> sorting algorithms a <b>parallel</b> bucket-sort algorithm is presented 
+cacm-3066 : testing <b>and</b> <b>code</b> walkthroughs/inspections this paper describes 
+cacm-2341 : <b>and</b> text justification <b>and</b> preparation have been programmed 
+cacm-2998 : atoms <b>and</b> <b>especially</b> among poin ters to 
+cacm-3110 : assembling <b>code</b> <b>for</b> machines with span-dependent instructions 
+cacm-2684 : actual <b>and</b> formal parameters <b>and</b> issues arising from block 
+cacm-3080 : optimized <b>code</b> a system <b>for</b> proving that programs written 
+cacm-1409 : similar to large <b>parallel</b> machines <b>and</b> uses flip-flop arithmetic <b>and</b> control registers throughout all 
+cacm-3148 : high level programming <b>for</b> distributed computing programming <b>for</b> distributed <b>and</b> other loosely coupled systems 
 cacm-2740 : semaphores <b>and</b> extended semaphores queue semaphores 
+cacm-2929 : size of compiled <b>code</b> <b>and</b> a small savings in 
+cacm-2767 : event notices <b>and</b> another uses an indexed 
+cacm-2714 : <b>parallel</b> processing <b>parallel</b> merging <b>parallel</b> binary insertion 5.31 ca751005 
+cacm-1099 : <b>especially</b> suited <b>for</b> programming work because of 
+cacm-1680 : system language processors <b>and</b> <b>compilers</b> simulation models mathematical solution 
+cacm-1425 : given set <b>and</b> of the basic mappings 
+cacm-3156 : permitted <b>for</b> fetch instructions but not 
+cacm-2570 : <b>for</b> <b>parallel</b> processing systems the problem 
+cacm-1947 : object <b>code</b> optimization methods of analyzing 
+cacm-2820 : needed <b>for</b> implementation <b>and</b> to increase the flexibility 
+cacm-2989 : is in troduced <b>and</b> used to answer questions 
+cacm-2904 : cocke j <b>compilers</b> optimization of compiled <b>code</b> program analysis operator strength 
+cacm-2939 : <b>and</b> <b>especially</b> data abstractions-are useful in 
+cacm-0637 : in building <b>compilers</b> with <b>compilers</b> indeed it pointed out 
+cacm-0670 : <b>highly</b> regulated by government <b>and</b> hence is subject to 
+cacm-1548 : with regard to <b>horizontal</b> <b>and</b> vertical data structures job 
+cacm-2411 : tree-structured programs cacm november 
+cacm-1389 : <b>code</b> in order to write 
+cacm-2579 : computations <b>and</b> describes how usage counts 
+cacm-1613 : <b>for</b> a <b>parallel</b> processor under the assumption 
+cacm-2785 : <b>parallel</b> computation <b>parallel</b> architecture 4.2 4.21 4.22 
+cacm-1324 : programmed <b>and</b> operating are described <b>and</b> reviewed the systems range 
+cacm-3127 : the system <b>and</b> application programs which use 
+cacm-0799 : same compiler <b>for</b> smaller machines require only 
+cacm-2138 : <b>especially</b> suitable <b>for</b> use in writing production 
+cacm-1807 : of the variables <b>and</b> the branching <b>and</b> do loop structure of 
+cacm-2534 : <b>for</b> a dialect <b>for</b> pl/i the design objective 
+cacm-2819 : a system <b>for</b> the compression of data 
+cacm-1923 : interfaces <b>for</b> high level languages using 
+cacm-1811 : <b>for</b> parallel-processors an affirmative partial 
+cacm-2064 : vectors matrices <b>and</b> higher dimensional storage arrays 
+cacm-3175 : <b>for</b> all <b>code</b> letters using joint letter 
+cacm-1747 : three criteria <b>for</b> designing computing systems to 
+cacm-2921 : fsms <b>and</b> as a special case 
+cacm-0950 : take full advantage <b>for</b> real-time computations of <b>highly</b> <b>parallel</b> computers as can be 
+cacm-3005 : length 1-byte op <b>code</b> <b>and</b> address fields the most 
+cacm-1844 : design <b>and</b> organization of a general 
+cacm-3150 : be adequate <b>for</b> building <b>and</b> maintaining systems of the 
+cacm-2252 : has been received <b>and</b> 4 the parsing <b>and</b> compilation are factored into 
+cacm-3171 : technique is described <b>for</b> run-time line number administration 
+cacm-1223 : object <b>code</b> a three-pass compiler with 
+cacm-3107 : <b>especially</b> <b>for</b> difficult combinations of parameter 
+cacm-2897 : new <b>code</b> generation technique <b>for</b> <b>compilers</b> recent developments in optimizing 
+cacm-1906 : to resolve conflicts <b>for</b> lines <b>and</b> vias below the aperture 
+cacm-2231 : <b>horizontal</b> <b>and</b> vertical projections of a 
+cacm-2423 : a parser-generating system <b>for</b> constructing compressed <b>compilers</b> this paper describes a 
+cacm-1603 : <b>and</b> task scheduling <b>and</b> provides <b>parallel</b> processing capability user programs 
+cacm-2685 : are developed <b>for</b> the <b>parallel</b> execution of different iterations 
+cacm-2886 : grammars <b>and</b> their use <b>for</b> the definition of programming 
+cacm-2061 : <b>and</b> a compiler <b>for</b> it cacm may 1970 
+cacm-2289 : of the possibilities <b>for</b> <b>parallel</b> processing in this paper 

@@ -2,9 +2,9 @@ programming
 language
 cacm
 1978
-program
 design
 pm
 systems
+program
 zeros
-system
+computer

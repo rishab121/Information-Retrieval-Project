@@ -1,10 +1,10 @@
 system
-paging
 data
+paging
 storage
 model
-allocation
 algorithms
-jb
+allocation
 cacm
-program
+jb
+computer

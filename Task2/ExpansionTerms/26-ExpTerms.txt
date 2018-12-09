@@ -6,5 +6,5 @@ storage
 design
 access
 cacm
-jb
 1978
+memory

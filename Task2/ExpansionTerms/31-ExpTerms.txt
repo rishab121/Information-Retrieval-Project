@@ -1,10 +1,10 @@
 picture
 scan
-display
 computer
+display
 algorithms
 1978
 cacm
 jb
 programming
-surface
+raster

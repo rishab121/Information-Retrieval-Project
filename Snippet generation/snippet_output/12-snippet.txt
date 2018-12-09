@@ -1,100 +1,100 @@
-cacm-2621 : g b <b>operating</b> <b>systems</b> time sharing <b>systems</b> security cryptography 4.35 ca740803 
-cacm-2849 : to build <b>systems</b> which can be viewed 
-cacm-2424 : dynamic verification of <b>operating</b> system decisions dynamic verification 
-cacm-3025 : <b>systems</b> covering a price range 
-cacm-2378 : <b>operating</b> <b>systems</b> supervisors multiprogramming time-sharing cooperating 
-cacm-2358 : use of on-line <b>operating</b> <b>systems</b> has grown the need 
-cacm-2541 : for <b>operating</b> <b>systems</b> separation of the scheduling 
-cacm-0322 : <b>operating</b> a computer efficiently in 
-cacm-1472 : the <b>operating</b> system for the univac 
-cacm-1930 : extremely <b>portable</b> random number generator extremely 
-cacm-1751 : <b>systems</b> is an adequate model 
-cacm-1951 : communications time-sharing <b>operating</b> <b>systems</b> optimization models 3.80 3.81 
-cacm-1750 : <b>systems</b> multiprocessor <b>operating</b> <b>systems</b> control data corporation 6600 
-cacm-2080 : <b>operating</b> <b>systems</b> to suit diverse requirements 
-cacm-2283 : the algorithm <b>operating</b> with the triangular array 
-cacm-3050 : <b>systems</b> design education a gaming 
-cacm-2796 : monitors an <b>operating</b> system structuring concept corrigendum 
-cacm-2878 : the <b>systems</b> queues are derived cacm 
-cacm-2069 : <b>operating</b> <b>systems</b> memory management 2.44 4.32 
-cacm-1728 : system simulation <b>operating</b> <b>systems</b> supervisor simulation machine language 
-cacm-1810 : most computing <b>systems</b> cacm december 1969 sayre 
-cacm-2317 : s languages <b>operating</b> <b>systems</b> programming <b>systems</b> multiprogramming history 1.2 4.22 
-cacm-2867 : family of <b>operating</b> <b>systems</b> this paper describes the 
-cacm-1752 : n time-sharing <b>operating</b> <b>systems</b> resource management task scheduling 
-cacm-2246 : a <b>portable</b> form a popular way 
-cacm-2597 : monitors <b>operating</b> <b>systems</b> scheduling mutual exclusion synchronization 
-cacm-2920 : processes resources <b>operating</b> system etc of the 
-cacm-1698 : certain aspects of <b>operating</b> system design cacm september 
-cacm-1464 : elaborate <b>operating</b> system an algol translator 
-cacm-2342 : interference mutual exclusion <b>operating</b> <b>systems</b> parallel processes 4.0 4.10 
-cacm-2365 : <b>operating</b> system which uses paging 
-cacm-2151 : <b>systems</b> multiprogramming <b>systems</b> time-sharing <b>systems</b> software measurement user program 
-cacm-2482 : resource allocation <b>operating</b> <b>systems</b> multiprogramming hierarchical <b>systems</b> 4.30 4.32 ca730704 jb 
-cacm-3141 : <b>systems</b> <b>operating</b> <b>systems</b> 4.32 4.35 5.25 5.32 
-cacm-3137 : of distributed information <b>systems</b> a macro model of 
-cacm-2036 : control <b>operating</b> <b>systems</b> 3.80 3.81 4.29 4.39 
-cacm-1461 : discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 
-cacm-1747 : design <b>operating</b> <b>systems</b> <b>operating</b> <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual 
-cacm-3196 : <b>portable</b> the reactive typewriter should 
-cacm-3006 : paged virtual memory <b>operating</b> <b>systems</b> a redefined one type 
-cacm-2379 : <b>operating</b> system the venus <b>operating</b> system is an experimental 
-cacm-2535 : algorithms <b>operating</b> <b>systems</b> 3.80 3.81 6.20 ca730304 
-cacm-3174 : thompson k <b>operating</b> <b>systems</b> passwords computer security 2.41 
-cacm-1647 : 7040/44 <b>operating</b> system fortran iv was 
-cacm-1517 : one of five <b>operating</b> plans where each plan 
-cacm-2374 : and <b>operating</b> efficiency over fixed partitioning 
-cacm-2138 : pdp-10 compilers <b>operating</b> <b>systems</b> etc prime design goals 
-cacm-0696 : company <b>operating</b> data to a central 
-cacm-2582 : <b>operating</b> system have shown its 
-cacm-1755 : on <b>operating</b> system principles cacm may 
-cacm-1247 : an <b>operating</b> environment for dynamic-recursive computer 
-cacm-1892 : <b>systems</b> a simple stochastic model 
-cacm-1050 : <b>operating</b> program using these techniques 
-cacm-3127 : thoth a <b>portable</b> real-time <b>operating</b> system thoth isa real-time 
-cacm-3014 : continuously <b>operating</b> programs 5.24 ca780209 jb 
-cacm-1657 : implementation of the sharer2 
-cacm-1923 : r f <b>operating</b> <b>systems</b> interfaces input-output high level 
-cacm-1877 : of <b>operating</b> <b>systems</b> is the selection of 
-cacm-1519 : sharing and <b>operating</b> system an <b>operating</b> system is described which 
-cacm-2840 : protection in <b>operating</b> <b>systems</b> a model of protection 
-cacm-2522 : <b>systems</b> supervisory <b>systems</b> 4.31 4.32 ca730406 jb 
-cacm-1236 : document retrieval system <b>operating</b> on the ibm 7094 
-cacm-0856 : the <b>operating</b> environment the second defines 
-cacm-3068 : data security in <b>operating</b> <b>systems</b> program verification applied to 
-cacm-3028 : extra codes compilers <b>operating</b> <b>systems</b> ferranti manchester mark i 
-cacm-2625 : <b>systems</b> the direct use of 
-cacm-2111 : and <b>operating</b> <b>systems</b> these include the use 
-cacm-1854 : <b>operating</b> <b>systems</b> which are prime examples 
-cacm-1069 : internal <b>operating</b> speeds of computers cacm 
-cacm-3002 : file <b>systems</b> may be derived from 
-cacm-2536 : within an <b>operating</b> system are discussed and 
-cacm-1264 : blnsys-a 1401 <b>operating</b> system with braille capabilities 
-cacm-3105 : <b>systems</b> by access control mechanisms 
-cacm-2972 : <b>systems</b> cacm april 1977 robinson 
-cacm-2542 : devaney d b <b>operating</b> system development language processing 
-cacm-1680 : <b>operating</b> <b>systems</b> graphics displays man-machine interface 
-cacm-2624 : computer <b>systems</b> eg cp-67 on the 
-cacm-1226 : the <b>systems</b> <b>operating</b> efficiency this paper provides 
-cacm-2950 : in real <b>operating</b> <b>systems</b> the policy-driven scheduler of 
-cacm-2629 : larger <b>operating</b> <b>systems</b> including 1 a hierarchical 
-cacm-2622 : in many computer <b>operating</b> <b>systems</b> a user authenticates himself 
-cacm-2632 : multiprocessor <b>operating</b> system this paper describes 
-cacm-2319 : about modularizing <b>operating</b> and computer <b>systems</b> cacm july 1972 lynch 
-cacm-1534 : dad the c <b>operating</b> system the design and 
-cacm-1324 : language question-answering <b>systems</b> which are programmed and 
-cacm-3026 : 1100 series <b>systems</b> are sperry univacs large-scale 
-cacm-0698 : <b>operating</b> system is described which 
-cacm-2357 : <b>operating</b> as part of a 
-cacm-2184 : in programming <b>systems</b> it is assumed that 
-cacm-2372 : languages and <b>operating</b> <b>systems</b> cacm april 1972 conway 
-cacm-1462 : multilevel <b>operating</b> <b>systems</b> the basic software for 
-cacm-2868 : reflections on an <b>operating</b> system design the main 
-cacm-2219 : time-sharing <b>operating</b> system can be characterized 
 cacm-2297 : demand paging <b>operating</b> <b>systems</b> studies queuing analysis memory 
-cacm-0825 : an <b>operating</b> computer program that processes 
-cacm-2095 : routine <b>operating</b> con ditions on a 
-cacm-1591 : an <b>operating</b> system of a large 
+cacm-2582 : <b>operating</b> system have shown its 
+cacm-3006 : paged virtual memory <b>operating</b> <b>systems</b> a redefined one type 
 cacm-2777 : d l <b>operating</b> <b>systems</b> co-operating processesprocess synchronization primitives 
-cacm-2320 : only within <b>operating</b> <b>systems</b> but also within user 
+cacm-2868 : reflections on an <b>operating</b> system design the main 
+cacm-3141 : <b>systems</b> <b>operating</b> <b>systems</b> 4.32 4.35 5.25 5.32 
+cacm-2867 : family of <b>operating</b> <b>systems</b> this paper describes the 
+cacm-2849 : to build <b>systems</b> which can be viewed 
+cacm-1461 : discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 
+cacm-2972 : <b>systems</b> cacm april 1977 robinson 
+cacm-3002 : file <b>systems</b> may be derived from 
+cacm-3068 : data security in <b>operating</b> <b>systems</b> program verification applied to 
+cacm-2138 : pdp-10 compilers <b>operating</b> <b>systems</b> etc prime design goals 
+cacm-1680 : <b>operating</b> <b>systems</b> graphics displays man-machine interface 
+cacm-2080 : <b>operating</b> <b>systems</b> to suit diverse requirements 
+cacm-2522 : <b>systems</b> supervisory <b>systems</b> 4.31 4.32 ca730406 jb 
+cacm-3028 : extra codes compilers <b>operating</b> <b>systems</b> ferranti manchester mark i 
+cacm-2629 : larger <b>operating</b> <b>systems</b> including 1 a hierarchical 
+cacm-2840 : protection in <b>operating</b> <b>systems</b> a model of protection 
+cacm-1854 : <b>operating</b> <b>systems</b> which are prime examples 
+cacm-1892 : <b>systems</b> a simple stochastic model 
+cacm-2625 : <b>systems</b> the direct use of 
+cacm-0696 : company <b>operating</b> data to a central 
+cacm-1534 : dad the c <b>operating</b> system the design and 
+cacm-2317 : s languages <b>operating</b> <b>systems</b> programming <b>systems</b> multiprogramming history 1.2 4.22 
+cacm-2219 : time-sharing <b>operating</b> system can be characterized 
+cacm-1951 : communications time-sharing <b>operating</b> <b>systems</b> optimization models 3.80 3.81 
+cacm-1264 : blnsys-a 1401 <b>operating</b> system with braille capabilities 
+cacm-1464 : elaborate <b>operating</b> system an algol translator 
+cacm-1591 : an <b>operating</b> system of a large 
+cacm-1751 : <b>systems</b> is an adequate model 
+cacm-1647 : 7040/44 <b>operating</b> system fortran iv was 
+cacm-3014 : continuously <b>operating</b> programs 5.24 ca780209 jb 
+cacm-1050 : <b>operating</b> program using these techniques 
+cacm-1069 : internal <b>operating</b> speeds of computers cacm 
+cacm-1472 : the <b>operating</b> system for the univac 
+cacm-2920 : processes resources <b>operating</b> system etc of the 
+cacm-2878 : the <b>systems</b> queues are derived cacm 
+cacm-2535 : algorithms <b>operating</b> <b>systems</b> 3.80 3.81 6.20 ca730304 
+cacm-1462 : multilevel <b>operating</b> <b>systems</b> the basic software for 
+cacm-2622 : in many computer <b>operating</b> <b>systems</b> a user authenticates himself 
+cacm-1930 : extremely <b>portable</b> random number generator extremely 
+cacm-2283 : the algorithm <b>operating</b> with the triangular array 
+cacm-2095 : routine <b>operating</b> con ditions on a 
+cacm-2365 : <b>operating</b> system which uses paging 
+cacm-2358 : use of on-line <b>operating</b> <b>systems</b> has grown the need 
 cacm-2740 : structuring of <b>operating</b> <b>systems</b> the project management and 
+cacm-3174 : thompson k <b>operating</b> <b>systems</b> passwords computer security 2.41 
+cacm-1236 : document retrieval system <b>operating</b> on the ibm 7094 
+cacm-2542 : devaney d b <b>operating</b> system development language processing 
+cacm-2246 : a <b>portable</b> form a popular way 
+cacm-2796 : monitors an <b>operating</b> system structuring concept corrigendum 
+cacm-3105 : <b>systems</b> by access control mechanisms 
+cacm-2372 : languages and <b>operating</b> <b>systems</b> cacm april 1972 conway 
+cacm-2536 : within an <b>operating</b> system are discussed and 
+cacm-1750 : <b>systems</b> multiprocessor <b>operating</b> <b>systems</b> control data corporation 6600 
+cacm-2621 : g b <b>operating</b> <b>systems</b> time sharing <b>systems</b> security cryptography 4.35 ca740803 
+cacm-3050 : <b>systems</b> design education a gaming 
+cacm-2069 : <b>operating</b> <b>systems</b> memory management 2.44 4.32 
+cacm-1657 : implementation of the sharer2 
+cacm-1517 : one of five <b>operating</b> plans where each plan 
+cacm-2424 : dynamic verification of <b>operating</b> system decisions dynamic verification 
+cacm-3026 : 1100 series <b>systems</b> are sperry univacs large-scale 
+cacm-2357 : <b>operating</b> as part of a 
+cacm-0825 : an <b>operating</b> computer program that processes 
+cacm-1755 : on <b>operating</b> system principles cacm may 
+cacm-0322 : <b>operating</b> a computer efficiently in 
+cacm-1728 : system simulation <b>operating</b> <b>systems</b> supervisor simulation machine language 
+cacm-0856 : the <b>operating</b> environment the second defines 
+cacm-1324 : language question-answering <b>systems</b> which are programmed and 
+cacm-3127 : thoth a <b>portable</b> real-time <b>operating</b> system thoth isa real-time 
+cacm-2597 : monitors <b>operating</b> <b>systems</b> scheduling mutual exclusion synchronization 
+cacm-2541 : for <b>operating</b> <b>systems</b> separation of the scheduling 
+cacm-1247 : an <b>operating</b> environment for dynamic-recursive computer 
+cacm-2184 : in programming <b>systems</b> it is assumed that 
+cacm-1923 : r f <b>operating</b> <b>systems</b> interfaces input-output high level 
+cacm-2632 : multiprocessor <b>operating</b> system this paper describes 
+cacm-2378 : <b>operating</b> <b>systems</b> supervisors multiprogramming time-sharing cooperating 
+cacm-2111 : and <b>operating</b> <b>systems</b> these include the use 
+cacm-1747 : design <b>operating</b> <b>systems</b> <b>operating</b> <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual 
+cacm-1752 : n time-sharing <b>operating</b> <b>systems</b> resource management task scheduling 
+cacm-0698 : <b>operating</b> system is described which 
+cacm-1519 : sharing and <b>operating</b> system an <b>operating</b> system is described which 
+cacm-2151 : <b>systems</b> multiprogramming <b>systems</b> time-sharing <b>systems</b> software measurement user program 
+cacm-2342 : interference mutual exclusion <b>operating</b> <b>systems</b> parallel processes 4.0 4.10 
+cacm-3196 : <b>portable</b> the reactive typewriter should 
+cacm-2036 : control <b>operating</b> <b>systems</b> 3.80 3.81 4.29 4.39 
+cacm-2482 : resource allocation <b>operating</b> <b>systems</b> multiprogramming hierarchical <b>systems</b> 4.30 4.32 ca730704 jb 
+cacm-1877 : of <b>operating</b> <b>systems</b> is the selection of 
+cacm-3025 : <b>systems</b> covering a price range 
+cacm-2950 : in real <b>operating</b> <b>systems</b> the policy-driven scheduler of 
+cacm-2319 : about modularizing <b>operating</b> and computer <b>systems</b> cacm july 1972 lynch 
+cacm-2379 : <b>operating</b> system the venus <b>operating</b> system is an experimental 
+cacm-2374 : and <b>operating</b> efficiency over fixed partitioning 
+cacm-1810 : most computing <b>systems</b> cacm december 1969 sayre 
+cacm-3137 : of distributed information <b>systems</b> a macro model of 
+cacm-2624 : computer <b>systems</b> eg cp-67 on the 
+cacm-2320 : only within <b>operating</b> <b>systems</b> but also within user 
+cacm-1698 : certain aspects of <b>operating</b> system design cacm september 
+cacm-1226 : the <b>systems</b> <b>operating</b> efficiency this paper provides 

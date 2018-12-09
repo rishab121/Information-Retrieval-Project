@@ -1,10 +1,10 @@
 data
 systems
-jb
 cacm
+jb
 1978
 language
-query
 paper
-model
+query
 documents
+model

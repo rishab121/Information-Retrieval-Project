@@ -1,10 +1,10 @@
 system
 set
 cacm
-program
-computer
-process
 termination
-jb
+computer
+program
+process
 1978
+jb
 programs

@@ -1,10 +1,10 @@
 time
-system
 memory
+system
 execution
 cacm
 processing
-operating
 algorithm
+operating
 1978
 processor

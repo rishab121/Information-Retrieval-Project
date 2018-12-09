@@ -1,100 +1,100 @@
-cacm-3158 : secure personal <b>computing</b> in an insecure network 
-cacm-3037 : between 2 <b>and</b> n in time proportional 
-cacm-2849 : among locally distributed <b>computing</b> stations the packet transport 
+cacm-2780 : on <b>computing</b> certain elements of the 
+cacm-1275 : code <b>structures</b> for protection <b>and</b> manipulation of variable length 
+cacm-2949 : topology since nodes <b>and</b> links sometimes crash a 
+cacm-2832 : the search rapid <b>algorithms</b> for addition <b>and</b> deletion of data <b>and</b> for garbage collection are 
 cacm-3141 : controller exists <b>and</b> the number of processes 
-cacm-3025 : origin <b>and</b> evolution of the hardware 
-cacm-1862 : <b>computing</b> capabilities at argentine <b>and</b> chilean universities the author 
-cacm-3128 : synchronization with eventcounts <b>and</b> sequencers synchronization of concurrent 
-cacm-3082 : time clocks <b>and</b> the ordering of events 
-cacm-2355 : discusses the strategy <b>and</b> various error estimates <b>and</b> summarizes experience with a 
-cacm-2406 : a data definition <b>and</b> mapping language a data 
-cacm-2578 : self-stabilizing systems in spite 
 cacm-1153 : general use <b>and</b> is readily applicable to 
+cacm-2849 : among locally distributed <b>computing</b> stations the packet transport 
+cacm-2926 : within the file <b>and</b> if a wide distribution 
+cacm-2954 : copying cyclic <b>structures</b> a new algorithm is 
+cacm-1010 : education <b>and</b> research present-day <b>computing</b> facilities are limited in 
+cacm-1946 : <b>and</b> <b>computing</b> speed preliminary considerations narrow 
+cacm-2723 : collector are presented <b>and</b> discussed the simple case 
+cacm-2756 : <b>computing</b> medicine <b>and</b> health care 2.11 2.12 
+cacm-2169 : run time data <b>structures</b> <b>and</b> implementation is given cacm 
+cacm-3164 : requests <b>and</b> maintains a graph in 
+cacm-2092 : <b>and</b> complex-relation-forming operators <b>and</b> the question-answering procedures which 
+cacm-1873 : accelerating lp <b>algorithms</b> it is shown how 
+cacm-2216 : branching ratios <b>and</b> therefore is applicable to 
+cacm-2828 : surface <b>algorithms</b> hidden surface <b>algorithms</b> hierarchical data <b>structures</b> geometric models 5.31 8.2 
+cacm-1411 : deviations <b>and</b> correlation coefficients several <b>algorithms</b> for computation of basic 
+cacm-3082 : time clocks <b>and</b> the ordering of events 
+cacm-0088 : an efficient method for 
 cacm-2373 : <b>and</b> the interreference-interval distribution may 
-cacm-2816 : updates <b>and</b> insertions by reorganizing the 
-cacm-2524 : defined three file <b>structures</b> are presented together with 
-cacm-2665 : copying list <b>structures</b> using bounded workspace two 
-cacm-0657 : information <b>structures</b> for processing <b>and</b> retrieving cacm january 1962 
+cacm-2314 : programmable control <b>structures</b> <b>and</b> sophisticated data communication mechanisms 
+cacm-2355 : discusses the strategy <b>and</b> various error estimates <b>and</b> summarizes experience with a 
+cacm-2596 : a weighted buddy method 
+cacm-1745 : information systems <b>computing</b> <b>and</b> free enterprise <b>computing</b> economics computer installation management 
+cacm-2406 : a data definition <b>and</b> mapping language a data 
+cacm-2433 : <b>and</b> express parallel <b>algorithms</b> are described cacm october 
+cacm-2197 : development educational <b>computing</b> network <b>computing</b> regional <b>computing</b> networks remote <b>computing</b> shared <b>computing</b> 1.52 2.11 ca710502 jb 
+cacm-1423 : are fairly complicated <b>and</b> require considerable storage space 
+cacm-1780 : harmonic analysis for symmetrically 
+cacm-0759 : syntaxes string relationships <b>and</b> string transformation procedures <b>and</b> also of <b>computing</b> procedures that deal with 
+cacm-3086 : <b>computing</b> the measure of the 
+cacm-2709 : results on control <b>structures</b> <b>and</b> explores their practical implications 
+cacm-2838 : time data <b>structures</b> analysis of <b>algorithms</b> 3.69 3.89 4.19 4.29 
+cacm-3043 : <b>and</b> synchronize by means of 
+cacm-3158 : secure personal <b>computing</b> in an insecure network 
 cacm-2060 : <b>structures</b> <b>and</b> the use of references 
-cacm-2883 : methods to edge <b>and</b> contour detection this paper 
+cacm-2524 : defined three file <b>structures</b> are presented together with 
+cacm-2198 : systems <b>and</b> discusses the differences <b>and</b> similarities between capabilities found 
+cacm-1417 : economies of scale <b>and</b> the ibm system/360 cost 
+cacm-3084 : interpolation search -a log 
+cacm-2454 : computational <b>algorithms</b> for closed queueing networks 
+cacm-3156 : <b>computing</b> connected components on parallel 
+cacm-0052 : an efficient method for 
 cacm-3148 : <b>computing</b> programming for distributed <b>and</b> other loosely coupled systems 
-cacm-2594 : structured data <b>structures</b> programming systems which permit 
-cacm-2615 : procedures for <b>computing</b> smoothing <b>and</b> interpolating natural splines e1 
-cacm-1810 : et al <b>and</b> by nelson on an 
+cacm-2371 : system is described <b>and</b> the communication system is 
+cacm-1224 : actual data collection <b>and</b> reduction is described <b>and</b> the results of one 
+cacm-3058 : <b>structures</b> must be used <b>and</b> binary searching is not 
+cacm-1889 : introducing <b>computing</b> to smaller colleges <b>and</b> universities a progress report 
+cacm-2402 : pictorial pattern recognition <b>and</b> the phase problem of 
+cacm-1525 : algorithm for <b>computing</b> complex fourier transform <b>and</b> have shown major time 
+cacm-2130 : <b>structures</b> based on connectivity <b>and</b> processor timing time-shared multiprogrammed 
 cacm-3166 : <b>computing</b> standard deviations accuracy four 
 cacm-2833 : <b>structures</b> <b>and</b> a linearizing compacting copying 
-cacm-1780 : harmonic analysis for symmetrically 
-cacm-1224 : actual data collection <b>and</b> reduction is described <b>and</b> the results of one 
-cacm-2838 : time data <b>structures</b> analysis of <b>algorithms</b> 3.69 3.89 4.19 4.29 
-cacm-2780 : on <b>computing</b> certain elements of the 
-cacm-1946 : <b>and</b> <b>computing</b> speed preliminary considerations narrow 
-cacm-2433 : <b>and</b> express parallel <b>algorithms</b> are described cacm october 
 cacm-2276 : choice between slower <b>and</b> shorter <b>algorithms</b> <b>and</b> faster but space consuming 
-cacm-2630 : on <b>computing</b> sets of shortest paths 
-cacm-2900 : <b>and</b> other aids to finding 
-cacm-3035 : the <b>computing</b> effort in higher education 
-cacm-2216 : branching ratios <b>and</b> therefore is applicable to 
-cacm-0052 : an efficient method for 
-cacm-2169 : run time data <b>structures</b> <b>and</b> implementation is given cacm 
-cacm-1158 : program <b>structures</b> for parallel processing constructs 
-cacm-2081 : be described <b>and</b> utilized for efficient <b>computing</b> by saving memory space 
-cacm-2766 : copying cyclic list <b>structures</b> in linear time using 
-cacm-1889 : introducing <b>computing</b> to smaller colleges <b>and</b> universities a progress report 
-cacm-3156 : <b>computing</b> connected components on parallel 
-cacm-3137 : distributed database interactive <b>computing</b> economic modeling transaction processing 
-cacm-1745 : information systems <b>computing</b> <b>and</b> free enterprise <b>computing</b> economics computer installation management 
-cacm-0088 : an efficient method for 
-cacm-2828 : surface <b>algorithms</b> hidden surface <b>algorithms</b> hierarchical data <b>structures</b> geometric models 5.31 8.2 
-cacm-2402 : pictorial pattern recognition <b>and</b> the phase problem of 
-cacm-2723 : collector are presented <b>and</b> discussed the simple case 
-cacm-2130 : <b>structures</b> based on connectivity <b>and</b> processor timing time-shared multiprogrammed 
-cacm-3011 : of <b>computing</b> <b>and</b> tends to control <b>computing</b> decisions <b>and</b> where department users have 
-cacm-0371 : remarks on <b>algorithms</b> 2 <b>and</b> 3 algorithm 15 <b>and</b> <b>algorithms</b> 25 <b>and</b> 26 cacm march 1961 
-cacm-2963 : <b>algorithms</b> for finding the longest 
-cacm-2954 : copying cyclic <b>structures</b> a new algorithm is 
-cacm-2741 : of operations <b>and</b> ii critical <b>computing</b> loads which bring the 
-cacm-3124 : recursive data <b>structures</b> trees data-driven <b>algorithms</b> theory of arrays 4.22 
-cacm-2756 : <b>computing</b> medicine <b>and</b> health care 2.11 2.12 
-cacm-2197 : development educational <b>computing</b> network <b>computing</b> regional <b>computing</b> networks remote <b>computing</b> shared <b>computing</b> 1.52 2.11 ca710502 jb 
+cacm-2452 : file <b>structures</b> <b>and</b> to facilitate as much 
 cacm-2484 : different relations <b>and</b> <b>algorithms</b> results in different information 
-cacm-3090 : impacts of <b>computing</b> organizational impacts of <b>computing</b> management information systems sociology 
-cacm-0759 : syntaxes string relationships <b>and</b> string transformation procedures <b>and</b> also of <b>computing</b> procedures that deal with 
-cacm-3164 : requests <b>and</b> maintains a graph in 
-cacm-2999 : for data <b>structures</b> <b>computing</b> techniques time series cross 
-cacm-1275 : code <b>structures</b> for protection <b>and</b> manipulation of variable length 
-cacm-0111 : are presented for <b>computing</b> the roots of polynomial 
-cacm-3086 : <b>computing</b> the measure of the 
-cacm-2155 : <b>structures</b> this paper presents a 
-cacm-1423 : are fairly complicated <b>and</b> require considerable storage space 
-cacm-3084 : interpolation search -a log 
 cacm-2810 : professionalism in the <b>computing</b> field the term professional 
-cacm-1873 : accelerating lp <b>algorithms</b> it is shown how 
-cacm-2092 : <b>and</b> complex-relation-forming operators <b>and</b> the question-answering procedures which 
-cacm-3058 : <b>structures</b> must be used <b>and</b> binary searching is not 
-cacm-1525 : algorithm for <b>computing</b> complex fourier transform <b>and</b> have shown major time 
-cacm-3165 : <b>algorithms</b> for area computation <b>and</b> point inclusion the algorithm 
+cacm-2630 : on <b>computing</b> sets of shortest paths 
+cacm-2357 : design <b>and</b> checkout <b>and</b> $16,000 for parts <b>and</b> fabrication all aspects of 
+cacm-2900 : <b>and</b> other aids to finding 
+cacm-3037 : between 2 <b>and</b> n in time proportional 
+cacm-2816 : updates <b>and</b> insertions by reorganizing the 
+cacm-2155 : <b>structures</b> this paper presents a 
+cacm-3137 : distributed database interactive <b>computing</b> economic modeling transaction processing 
+cacm-2822 : 1976 association for <b>computing</b> machinery inc general permission 
+cacm-0111 : are presented for <b>computing</b> the roots of polynomial 
+cacm-2999 : for data <b>structures</b> <b>computing</b> techniques time series cross 
+cacm-1604 : times <b>and</b> loading times of over 
+cacm-2665 : copying list <b>structures</b> using bounded workspace two 
+cacm-0371 : remarks on <b>algorithms</b> 2 <b>and</b> 3 algorithm 15 <b>and</b> <b>algorithms</b> 25 <b>and</b> 26 cacm march 1961 
+cacm-3128 : synchronization with eventcounts <b>and</b> sequencers synchronization of concurrent 
 cacm-2890 : message routing <b>and</b> the other to illustrate 
-cacm-1411 : deviations <b>and</b> correlation coefficients several <b>algorithms</b> for computation of basic 
+cacm-3124 : recursive data <b>structures</b> trees data-driven <b>algorithms</b> theory of arrays 4.22 
+cacm-2741 : of operations <b>and</b> ii critical <b>computing</b> loads which bring the 
+cacm-3165 : <b>algorithms</b> for area computation <b>and</b> point inclusion the algorithm 
+cacm-2969 : optimal program <b>and</b> data locations in computer 
 cacm-3032 : of a network <b>algorithms</b> for accomplishing this delivery 
 cacm-2834 : reflected gray code <b>and</b> its applications <b>algorithms</b> are presented to generate 
-cacm-2454 : computational <b>algorithms</b> for closed queueing networks 
-cacm-2926 : within the file <b>and</b> if a wide distribution 
-cacm-1417 : economies of scale <b>and</b> the ibm system/360 cost 
-cacm-1604 : times <b>and</b> loading times of over 
-cacm-2949 : topology since nodes <b>and</b> links sometimes crash a 
-cacm-2596 : a weighted buddy method 
-cacm-2822 : 1976 association for <b>computing</b> machinery inc general permission 
-cacm-2709 : results on control <b>structures</b> <b>and</b> explores their practical implications 
+cacm-2963 : <b>algorithms</b> for finding the longest 
+cacm-0657 : information <b>structures</b> for processing <b>and</b> retrieving cacm january 1962 
 cacm-1431 : data <b>structures</b> are reviewed <b>and</b> an efficient algorithm is 
-cacm-3043 : <b>and</b> synchronize by means of 
-cacm-2314 : programmable control <b>structures</b> <b>and</b> sophisticated data communication mechanisms 
-cacm-2357 : design <b>and</b> checkout <b>and</b> $16,000 for parts <b>and</b> fabrication all aspects of 
-cacm-2969 : optimal program <b>and</b> data locations in computer 
-cacm-2198 : systems <b>and</b> discusses the differences <b>and</b> similarities between capabilities found 
-cacm-2452 : file <b>structures</b> <b>and</b> to facilitate as much 
-cacm-2032 : data <b>structures</b> tree <b>structures</b> file <b>structures</b> scatter tables hashing functions 
-cacm-2114 : structure directory decoding <b>and</b> record retrieval are defined 
-cacm-2832 : the search rapid <b>algorithms</b> for addition <b>and</b> deletion of data <b>and</b> for garbage collection are 
+cacm-3025 : origin <b>and</b> evolution of the hardware 
+cacm-2578 : self-stabilizing systems in spite 
+cacm-2594 : structured data <b>structures</b> programming systems which permit 
+cacm-1862 : <b>computing</b> capabilities at argentine <b>and</b> chilean universities the author 
+cacm-1158 : program <b>structures</b> for parallel processing constructs 
 cacm-2855 : list <b>structures</b> using no storage apart 
-cacm-1010 : education <b>and</b> research present-day <b>computing</b> facilities are limited in 
-cacm-2371 : system is described <b>and</b> the communication system is 
+cacm-1810 : et al <b>and</b> by nelson on an 
+cacm-3090 : impacts of <b>computing</b> organizational impacts of <b>computing</b> management information systems sociology 
+cacm-2615 : procedures for <b>computing</b> smoothing <b>and</b> interpolating natural splines e1 
+cacm-3035 : the <b>computing</b> effort in higher education 
+cacm-2032 : data <b>structures</b> tree <b>structures</b> file <b>structures</b> scatter tables hashing functions 
+cacm-3011 : of <b>computing</b> <b>and</b> tends to control <b>computing</b> decisions <b>and</b> where department users have 
+cacm-2766 : copying cyclic list <b>structures</b> in linear time using 
+cacm-2081 : be described <b>and</b> utilized for efficient <b>computing</b> by saving memory space 
+cacm-2883 : methods to edge <b>and</b> contour detection this paper 
+cacm-2114 : structure directory decoding <b>and</b> record retrieval are defined 

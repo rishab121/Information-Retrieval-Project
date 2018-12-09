@@ -1,100 +1,100 @@
-cacm-1935 : for <b>information</b> <b>retrieval</b> systems cacm february 1969 
-cacm-0292 : an <b>information</b> <b>retrieval</b> language for legal studies 
-cacm-0670 : use of computers <b>in</b> the banking business the 
-cacm-1527 : the automatic <b>retrieval</b> of certain segments of 
-cacm-2722 : <b>information</b> <b>retrieval</b> system nearest neighbor queries 
-cacm-2455 : <b>information</b> storage and <b>retrieval</b> 3.7 3.72 4.49 5.31 
-cacm-2991 : <b>in</b> the key set shadow 
-cacm-0634 : manipulation of trees <b>in</b> <b>information</b> <b>retrieval</b> cacm february 1962 salton 
-cacm-2795 : <b>information</b> <b>retrieval</b> and deduction capabilities of 
-cacm-1711 : using copyrighted material <b>in</b> <b>information</b> storage and <b>retrieval</b> systems including the pending 
-cacm-2865 : the <b>information</b> <b>in</b> a partial correctness proof 
-cacm-2175 : be evaluated <b>in</b> serials <b>in</b> parallel or <b>in</b> a combination of these 
-cacm-2990 : effective <b>information</b> <b>retrieval</b> using term accuracy the 
-cacm-1627 : and <b>information</b> <b>retrieval</b> systems the concept of 
-cacm-0239 : boolean functions for <b>information</b> <b>retrieval</b> systems cacm december 1961 
-cacm-1601 : to the root <b>in</b> question a technique is 
-cacm-3012 : <b>information</b> storage and <b>retrieval</b> system <b>in</b> medical research this paper 
-cacm-2288 : <b>retrieval</b> <b>information</b> <b>retrieval</b> record organization query structure 
-cacm-0944 : such trees have <b>information</b> storage and <b>retrieval</b> properties applicable to problems 
+cacm-2046 : data is organized <b>in</b> the machine the internal 
+cacm-2070 : <b>retrieval</b> from files cacm april 
+cacm-1359 : function <b>in</b> <b>information</b> storage and <b>retrieval</b> applications data string manipulation 
+cacm-1665 : generate lexical <b>processors</b> is dealt with <b>in</b> this tutorial article by 
+cacm-3134 : d <b>information</b> <b>retrieval</b> inverted files multiattribute <b>retrieval</b> multilist file normal multiplication 
 cacm-1831 : l e <b>information</b> <b>retrieval</b> file searching tree structures 
-cacm-2451 : tree file <b>information</b> storage and <b>retrieval</b> clustering search data structure 
-cacm-2714 : merging with parallel <b>processors</b> consider two linearly ordered 
-cacm-2032 : <b>in</b> the past is explainedesults 
-cacm-2258 : storage <b>information</b> <b>retrieval</b> 3.7 3.72 3.73 3.74 
-cacm-3169 : evaluation <b>information</b> <b>retrieval</b> 3.50 3.70 3.74 ca791002 
-cacm-2916 : computational complexity <b>information</b> <b>retrieval</b> linear time bound pattern 
-cacm-3096 : <b>in</b> one-sided height-balanced trees a 
-cacm-2388 : the algorithm quicksort <b>in</b> an average time proportional 
-cacm-1811 : of the other <b>processors</b> communication between cooperating <b>processors</b> is by means of 
-cacm-1675 : r <b>information</b> <b>retrieval</b> relevance indexing classification 3.70 
-cacm-3135 : structure search <b>information</b> <b>retrieval</b> crystal -structure analysis drug 
 cacm-2516 : hierarchical storage <b>in</b> <b>information</b> <b>retrieval</b> a probabilistic analysis is 
 cacm-1681 : translator document <b>retrieval</b> conversational mode <b>information</b> <b>retrieval</b> language symbolic command language 
-cacm-3168 : boolean expression <b>information</b> <b>retrieval</b> file organization 3.53.70 3.73 
-cacm-2532 : string substring hashing <b>information</b> storage and <b>retrieval</b> 3.74 5.30 5.5 ca730307 
-cacm-1409 : <b>in</b> a special seminar were 
-cacm-3156 : n vertices <b>in</b> time olog2n an olog2n 
-cacm-2140 : inverted files <b>information</b> <b>retrieval</b> query multi-attribute <b>retrieval</b> file update 3.73 3.74 
-cacm-3075 : <b>processors</b> the algorithm makes use 
 cacm-0275 : <b>information</b> <b>retrieval</b> system cacm october 1961 
-cacm-2561 : inference <b>in</b> fact <b>retrieval</b> systems heuristic procedures are 
-cacm-2723 : <b>processors</b> one performing lisp-like list 
-cacm-1700 : punched card <b>information</b> <b>retrieval</b> methods has been mated 
-cacm-2552 : hash chaining <b>information</b> <b>retrieval</b> collision 3.7 4.9 ca730109 
-cacm-2631 : often associated with <b>information</b> <b>retrieval</b> namely the maintenance and 
-cacm-1665 : generate lexical <b>processors</b> is dealt with <b>in</b> this tutorial article by 
-cacm-2650 : applications <b>in</b> <b>information</b> <b>retrieval</b> artificial intelligence and spelling 
-cacm-2711 : automatic indexing <b>in</b> a document <b>retrieval</b> or other pattern matching 
-cacm-2278 : trees search trees <b>information</b> storage <b>information</b> <b>retrieval</b> 3.70 3.73 3.74 ca720912 
-cacm-2781 : method randomizing <b>information</b> <b>retrieval</b> 3.7 ca750307 jb january 
-cacm-0651 : systems for <b>information</b> <b>retrieval</b> cacm january 1962 grems 
-cacm-2493 : <b>in</b> certain data base organization 
-cacm-2965 : query boolean expression <b>information</b> <b>retrieval</b> file organization 3.5 3.70 
-cacm-2484 : <b>information</b> <b>retrieval</b> <b>information</b> structure file organization storage 
-cacm-2307 : role of computers <b>in</b> automatic document processing is 
-cacm-1846 : processes <b>in</b> which simultaneous events may 
-cacm-1456 : storage and <b>retrieval</b> of aspects of meaning 
-cacm-0655 : various types of <b>information</b> <b>retrieval</b> programs presented here is 
-cacm-2412 : hashing <b>information</b> storage and <b>retrieval</b> scatter storage searching symbol 
+cacm-0944 : such trees have <b>information</b> storage and <b>retrieval</b> properties applicable to problems 
+cacm-1527 : the automatic <b>retrieval</b> of certain segments of 
 cacm-2645 : <b>in</b> the first language a 
-cacm-1457 : <b>in</b> automatic <b>information</b> <b>retrieval</b> automatic <b>information</b> <b>retrieval</b> programs require the manipulation 
-cacm-1699 : e <b>information</b> <b>retrieval</b> testing <b>information</b> system evaluation experimental document 
-cacm-2141 : three methods and <b>in</b> four directions relationships are 
-cacm-2092 : of semantic <b>information</b> <b>in</b> deductive question answering greatly 
-cacm-2967 : software associative memories <b>in</b> the context of computer 
-cacm-1359 : function <b>in</b> <b>information</b> storage and <b>retrieval</b> applications data string manipulation 
-cacm-2160 : based <b>retrieval</b> is proposed <b>in</b> this paper it allows 
-cacm-1960 : <b>in</b> the multiaccess system esope 
-cacm-1236 : is used <b>in</b> the <b>retrieval</b> process by leaving the 
-cacm-2046 : data is organized <b>in</b> the machine the internal 
-cacm-2497 : <b>processors</b> <b>in</b> a multiprocessor system usually 
-cacm-0082 : <b>in</b> language <b>processors</b> substitution of computer-oriented symbols 
-cacm-2530 : r a <b>information</b> <b>retrieval</b> coding text compression 3.70 
-cacm-1747 : protection <b>information</b> security <b>information</b> privacy computing reliability debugging 
-cacm-2070 : <b>retrieval</b> from files cacm april 
-cacm-1959 : management <b>information</b> systems a programming structure 
-cacm-1830 : <b>retrieval</b> times for a packed 
-cacm-1194 : <b>in</b> the provision of <b>information</b> services 1 easy accessibility 
-cacm-3134 : d <b>information</b> <b>retrieval</b> inverted files multiattribute <b>retrieval</b> multilist file normal multiplication 
-cacm-1680 : and <b>information</b> <b>retrieval</b> it is written <b>in</b> fortran iv g for 
-cacm-1032 : theoretical considerations <b>in</b> <b>information</b> <b>retrieval</b> systems <b>information</b> storage and <b>retrieval</b> systems are composed of 
-cacm-1725 : ordered <b>information</b> <b>retrieval</b> ordered <b>retrieval</b> theorem column digit values 
 cacm-0891 : everymans <b>information</b> <b>retrieval</b> system the <b>information</b> <b>retrieval</b> problem whose solution is 
+cacm-1935 : for <b>information</b> <b>retrieval</b> systems cacm february 1969 
+cacm-1700 : punched card <b>information</b> <b>retrieval</b> methods has been mated 
+cacm-1456 : storage and <b>retrieval</b> of aspects of meaning 
+cacm-0670 : use of computers <b>in</b> the banking business the 
+cacm-2175 : be evaluated <b>in</b> serials <b>in</b> parallel or <b>in</b> a combination of these 
+cacm-2092 : of semantic <b>information</b> <b>in</b> deductive question answering greatly 
+cacm-2722 : <b>information</b> <b>retrieval</b> system nearest neighbor queries 
+cacm-1194 : <b>in</b> the provision of <b>information</b> services 1 easy accessibility 
 cacm-1976 : multi-attribute <b>retrieval</b> with combined indexes <b>in</b> this paper a file 
+cacm-2258 : storage <b>information</b> <b>retrieval</b> 3.7 3.72 3.73 3.74 
+cacm-2916 : computational complexity <b>information</b> <b>retrieval</b> linear time bound pattern 
+cacm-2714 : merging with parallel <b>processors</b> consider two linearly ordered 
 cacm-2882 : database organization <b>in</b> data <b>retrieval</b> systems experimental work <b>in</b> the valuation of large 
-cacm-2947 : a low-cost <b>in</b> teractive text handling and 
-cacm-2570 : more <b>processors</b> to minimize the execution 
-cacm-1652 : <b>in</b> area such as <b>information</b> <b>retrieval</b> document classification computer-aided teaching 
-cacm-2623 : for other <b>information</b> coding techniques cacm august 
-cacm-2987 : processing graphic data <b>retrieval</b> <b>in</b> tersection of curves line-drawing 
-cacm-2114 : <b>retrieval</b> from files a generalized 
-cacm-2976 : measurement <b>information</b> <b>retrieval</b> query answering 3.70 3.72 
-cacm-1937 : <b>retrieval</b> and display system the 
-cacm-1514 : typical <b>information</b> <b>retrieval</b> system cacm november 1967 
-cacm-2846 : to be used <b>in</b> <b>information</b> <b>retrieval</b> systems it has the 
-cacm-2139 : subset signature <b>information</b> compression <b>information</b> <b>retrieval</b> searching 3.74 5.30 5.6 
-cacm-2519 : d complex <b>information</b> <b>information</b> communication mathematics proof interactive 
+cacm-2991 : <b>in</b> the key set shadow 
+cacm-2552 : hash chaining <b>information</b> <b>retrieval</b> collision 3.7 4.9 ca730109 
 cacm-1927 : coursescomputer science curriculum <b>information</b> science <b>information</b> organization <b>information</b> <b>retrieval</b> data <b>retrieval</b> language analysis <b>information</b> processing 1.52 3.42 3.70 
+cacm-0655 : various types of <b>information</b> <b>retrieval</b> programs presented here is 
+cacm-3012 : <b>information</b> storage and <b>retrieval</b> system <b>in</b> medical research this paper 
+cacm-2388 : the algorithm quicksort <b>in</b> an average time proportional 
+cacm-2967 : software associative memories <b>in</b> the context of computer 
+cacm-2497 : <b>processors</b> <b>in</b> a multiprocessor system usually 
+cacm-1699 : e <b>information</b> <b>retrieval</b> testing <b>information</b> system evaluation experimental document 
+cacm-2561 : inference <b>in</b> fact <b>retrieval</b> systems heuristic procedures are 
+cacm-1032 : theoretical considerations <b>in</b> <b>information</b> <b>retrieval</b> systems <b>information</b> storage and <b>retrieval</b> systems are composed of 
+cacm-3075 : <b>processors</b> the algorithm makes use 
+cacm-1652 : <b>in</b> area such as <b>information</b> <b>retrieval</b> document classification computer-aided teaching 
+cacm-3156 : n vertices <b>in</b> time olog2n an olog2n 
+cacm-0292 : an <b>information</b> <b>retrieval</b> language for legal studies 
+cacm-2650 : applications <b>in</b> <b>information</b> <b>retrieval</b> artificial intelligence and spelling 
+cacm-1675 : r <b>information</b> <b>retrieval</b> relevance indexing classification 3.70 
+cacm-1711 : using copyrighted material <b>in</b> <b>information</b> storage and <b>retrieval</b> systems including the pending 
+cacm-2781 : method randomizing <b>information</b> <b>retrieval</b> 3.7 ca750307 jb january 
+cacm-2623 : for other <b>information</b> coding techniques cacm august 
+cacm-3169 : evaluation <b>information</b> <b>retrieval</b> 3.50 3.70 3.74 ca791002 
+cacm-2976 : measurement <b>information</b> <b>retrieval</b> query answering 3.70 3.72 
+cacm-2455 : <b>information</b> storage and <b>retrieval</b> 3.7 3.72 4.49 5.31 
+cacm-2519 : d complex <b>information</b> <b>information</b> communication mathematics proof interactive 
+cacm-1236 : is used <b>in</b> the <b>retrieval</b> process by leaving the 
+cacm-1680 : and <b>information</b> <b>retrieval</b> it is written <b>in</b> fortran iv g for 
+cacm-2865 : the <b>information</b> <b>in</b> a partial correctness proof 
+cacm-2570 : more <b>processors</b> to minimize the execution 
+cacm-2846 : to be used <b>in</b> <b>information</b> <b>retrieval</b> systems it has the 
+cacm-1601 : to the root <b>in</b> question a technique is 
+cacm-2795 : <b>information</b> <b>retrieval</b> and deduction capabilities of 
+cacm-2484 : <b>information</b> <b>retrieval</b> <b>information</b> structure file organization storage 
+cacm-1959 : management <b>information</b> systems a programming structure 
+cacm-2160 : based <b>retrieval</b> is proposed <b>in</b> this paper it allows 
+cacm-2288 : <b>retrieval</b> <b>information</b> <b>retrieval</b> record organization query structure 
+cacm-1747 : protection <b>information</b> security <b>information</b> privacy computing reliability debugging 
 cacm-2050 : processing <b>information</b> <b>retrieval</b> language analysis text processing 
+cacm-1514 : typical <b>information</b> <b>retrieval</b> system cacm november 1967 
+cacm-0634 : manipulation of trees <b>in</b> <b>information</b> <b>retrieval</b> cacm february 1962 salton 
+cacm-2947 : a low-cost <b>in</b> teractive text handling and 
+cacm-2032 : <b>in</b> the past is explainedesults 
+cacm-2532 : string substring hashing <b>information</b> storage and <b>retrieval</b> 3.74 5.30 5.5 ca730307 
+cacm-3135 : structure search <b>information</b> <b>retrieval</b> crystal -structure analysis drug 
+cacm-1457 : <b>in</b> automatic <b>information</b> <b>retrieval</b> automatic <b>information</b> <b>retrieval</b> programs require the manipulation 
+cacm-0239 : boolean functions for <b>information</b> <b>retrieval</b> systems cacm december 1961 
+cacm-1409 : <b>in</b> a special seminar were 
+cacm-1811 : of the other <b>processors</b> communication between cooperating <b>processors</b> is by means of 
+cacm-2140 : inverted files <b>information</b> <b>retrieval</b> query multi-attribute <b>retrieval</b> file update 3.73 3.74 
+cacm-2451 : tree file <b>information</b> storage and <b>retrieval</b> clustering search data structure 
+cacm-2530 : r a <b>information</b> <b>retrieval</b> coding text compression 3.70 
+cacm-2412 : hashing <b>information</b> storage and <b>retrieval</b> scatter storage searching symbol 
+cacm-2711 : automatic indexing <b>in</b> a document <b>retrieval</b> or other pattern matching 
+cacm-2139 : subset signature <b>information</b> compression <b>information</b> <b>retrieval</b> searching 3.74 5.30 5.6 
+cacm-2493 : <b>in</b> certain data base organization 
+cacm-2114 : <b>retrieval</b> from files a generalized 
+cacm-1725 : ordered <b>information</b> <b>retrieval</b> ordered <b>retrieval</b> theorem column digit values 
+cacm-3096 : <b>in</b> one-sided height-balanced trees a 
+cacm-1937 : <b>retrieval</b> and display system the 
 cacm-0440 : <b>in</b> which <b>information</b> utilization for matching may 
+cacm-2307 : role of computers <b>in</b> automatic document processing is 
+cacm-2141 : three methods and <b>in</b> four directions relationships are 
+cacm-2723 : <b>processors</b> one performing lisp-like list 
+cacm-3168 : boolean expression <b>information</b> <b>retrieval</b> file organization 3.53.70 3.73 
+cacm-1830 : <b>retrieval</b> times for a packed 
+cacm-0082 : <b>in</b> language <b>processors</b> substitution of computer-oriented symbols 
+cacm-1960 : <b>in</b> the multiaccess system esope 
+cacm-2990 : effective <b>information</b> <b>retrieval</b> using term accuracy the 
+cacm-1627 : and <b>information</b> <b>retrieval</b> systems the concept of 
+cacm-2965 : query boolean expression <b>information</b> <b>retrieval</b> file organization 3.5 3.70 
+cacm-1846 : processes <b>in</b> which simultaneous events may 
+cacm-2278 : trees search trees <b>information</b> storage <b>information</b> <b>retrieval</b> 3.70 3.73 3.74 ca720912 
+cacm-2987 : processing graphic data <b>retrieval</b> <b>in</b> tersection of curves line-drawing 
+cacm-0651 : systems for <b>information</b> <b>retrieval</b> cacm january 1962 grems 
+cacm-2631 : often associated with <b>information</b> <b>retrieval</b> namely the maintenance and 

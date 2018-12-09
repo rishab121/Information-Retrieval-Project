@@ -1,10 +1,10 @@
-query
 data
+query
 systems
-model
-jb
 cacm
+jb
+model
 1978
 search
-secondary
 index
+tree

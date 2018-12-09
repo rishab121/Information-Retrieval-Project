@@ -1,10 +1,10 @@
 data
 computer
 distributed
-simulation
 switching
+simulation
 cacm
-jb
-1978
-system
 broadcast
+1978
+jb
+system

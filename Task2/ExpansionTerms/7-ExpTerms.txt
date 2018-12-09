@@ -1,10 +1,10 @@
 problem
-systems
 cacm
+systems
 synchronization
-information
 parallel
-program
+information
+4.32
 jb
 system
-process
+program

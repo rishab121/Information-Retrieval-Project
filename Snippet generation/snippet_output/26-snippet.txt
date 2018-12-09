@@ -1,100 +1,100 @@
-cacm-2621 : <b>operating</b> <b>systems</b> time sharing <b>systems</b> security cryptography 4.35 ca740803 
-cacm-0300 : simplified merchandise <b>control</b> problem has been chosen 
-cacm-0084 : automatic data processing <b>in</b> business and management <b>control</b> <b>systems</b> of the federal government 
+cacm-2297 : varies <b>in</b> time these changes <b>in</b> memory configuration are represented 
+cacm-1463 : <b>control</b> over program-to-program and program-to-data 
+cacm-2317 : rosen s languages <b>operating</b> <b>systems</b> programming <b>systems</b> multiprogramming history 1.2 4.22 
+cacm-2632 : multiprocessor <b>operating</b> system this paper describes 
+cacm-2867 : modularization and hierarchy <b>in</b> a family of <b>operating</b> <b>systems</b> this paper describes the 
 cacm-2849 : to build <b>systems</b> which can be viewed 
+cacm-1461 : discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 
+cacm-0086 : automatic data processing <b>in</b> business and management <b>control</b> <b>systems</b> of the federal government 
+cacm-3068 : data security <b>in</b> <b>operating</b> <b>systems</b> program verification applied to 
+cacm-2721 : cycle <b>in</b> determining such patterns <b>in</b> addition the study demonstrates 
+cacm-2138 : suitable for use <b>in</b> writing production software <b>systems</b> for a specific machine 
+cacm-2870 : <b>mechanisms</b> that guarantee secure information 
+cacm-2080 : <b>operating</b> <b>systems</b> to suit diverse requirements 
+cacm-2522 : research <b>in</b> time-sharing paging <b>systems</b> has developed the working 
+cacm-3028 : codes compilers <b>operating</b> <b>systems</b> ferranti manchester mark i 
+cacm-2949 : <b>in</b> order for the nodes 
+cacm-2840 : protection <b>in</b> <b>operating</b> <b>systems</b> a model of protection 
+cacm-0084 : automatic data processing <b>in</b> business and management <b>control</b> <b>systems</b> of the federal government 
+cacm-2626 : <b>mechanisms</b> described include access <b>control</b> lists hierarchical <b>control</b> of access specifications identification 
+cacm-2668 : page fault probability <b>in</b> a virtual memory system 
+cacm-0104 : <b>systems</b> the discrete flow <b>systems</b> discussed are characterized by 
+cacm-3064 : same points <b>in</b> simulated time that infinite 
+cacm-3073 : communicating sequential processes this 
+cacm-0696 : facilities located <b>in</b> van nuys and sunnyvale 
+cacm-2060 : other unorthodox <b>control</b> <b>mechanisms</b> a variety of programming 
+cacm-2314 : interactive <b>systems</b> <b>control</b> structures data structures programming 
+cacm-1534 : dad the c <b>operating</b> system the design and 
+cacm-1033 : man-machine interaction <b>in</b> a general-purpose problem-solving environment 
 cacm-3141 : algorithms distributed <b>systems</b> <b>operating</b> <b>systems</b> 4.32 4.35 5.25 5.32 
-cacm-3025 : <b>systems</b> covering a price range 
+cacm-2020 : illustrative pricing <b>systems</b> are also discussed <b>in</b> order to demonstrate the 
+cacm-2876 : <b>in</b> database <b>systems</b> traditionally privacy protection <b>in</b> database <b>systems</b> is understood to be 
+cacm-2844 : <b>mechanisms</b> cacm july 1976 gonnet 
+cacm-1591 : <b>control</b> to the <b>operating</b> system to execute functions 
+cacm-1751 : resource allocation <b>in</b> modern computer <b>systems</b> is an adequate model 
+cacm-1290 : of second-level <b>control</b> <b>in</b> the earlier tutorial paper 
+cacm-3014 : always intermittent assertions <b>in</b> proving program correctness this 
+cacm-2817 : predicate locks <b>in</b> a database system <b>in</b> database <b>systems</b> users access shared data 
+cacm-0300 : simplified merchandise <b>control</b> problem has been chosen 
+cacm-0059 : automatic data processing <b>in</b> business and management <b>control</b> <b>systems</b> of the federal government 
+cacm-2621 : <b>operating</b> <b>systems</b> time sharing <b>systems</b> security cryptography 4.35 ca740803 
+cacm-1677 : storage organization <b>in</b> programming <b>systems</b> the system of program 
+cacm-2558 : protection <b>in</b> programming languages linguistic <b>mechanisms</b> which can be used 
+cacm-2878 : joining policies <b>in</b> a multipriority multiclass batch 
+cacm-0251 : <b>control</b> <b>systems</b> the cam profile generated 
+cacm-1485 : <b>in</b> this paper the major 
+cacm-2597 : r monitors <b>operating</b> <b>systems</b> scheduling mutual exclusion synchronization 
+cacm-2321 : and data communications <b>systems</b> future <b>systems</b> that combine computers digital 
 cacm-2358 : use of on-line <b>operating</b> <b>systems</b> has grown the need 
+cacm-2938 : complexity of reasoning <b>in</b> program validation sequential programming 
+cacm-2716 : <b>in</b> detail squiral seeks to 
+cacm-1805 : computer operation <b>in</b> which two or more 
+cacm-1236 : document retrieval system <b>operating</b> on the ibm 7094 
+cacm-1680 : <b>control</b> to the <b>operating</b> system to perform other 
+cacm-1476 : has been presented <b>in</b> earlier papers <b>control</b> procedures for data communication 
+cacm-3105 : and is supported <b>in</b> <b>operating</b> <b>systems</b> by access <b>control</b> <b>mechanisms</b> this paper shows how 
+cacm-1462 : multilevel <b>operating</b> <b>systems</b> the basic software for 
+cacm-2372 : <b>control</b> confidentiality <b>operating</b> <b>systems</b> access management data banks 
+cacm-1264 : blnsys-a 1401 <b>operating</b> system with braille capabilities 
+cacm-1750 : <b>systems</b> multiprocessor <b>operating</b> <b>systems</b> <b>control</b> data corporation 6600 <b>operating</b> system with ecs 4.30 
+cacm-2439 : <b>control</b> <b>in</b> a time-sharing environment user-written 
+cacm-2377 : <b>in</b> a system which uses 
+cacm-3050 : <b>systems</b> design education a gaming 
+cacm-2374 : for use <b>in</b> multiprogramming <b>systems</b> the storage requirement of 
+cacm-2939 : abstraction <b>mechanisms</b> <b>in</b> clu clu is a 
+cacm-2424 : fabry r s <b>operating</b> <b>systems</b> data security fault tolerance 
+cacm-2936 : discrete event simulation <b>systems</b> several exhibited a performance 
+cacm-3026 : 1100 series <b>systems</b> are sperry univacs large-scale 
+cacm-1728 : program <b>operating</b> behavior <b>in</b> those multiprogramming <b>systems</b> <b>in</b> which programs are organized 
+cacm-1324 : language question-answering <b>systems</b> which are programmed and 
+cacm-3153 : the <b>control</b> of response times <b>in</b> multi-class <b>systems</b> by memory allocations the 
+cacm-2821 : cobol under <b>control</b> a sample set of 
 cacm-3128 : implementation <b>in</b> distributed <b>systems</b> the mechanism is defined 
 cacm-2541 : <b>operating</b> system and machine via 
-cacm-2578 : self-stabilizing <b>systems</b> <b>in</b> spite of distributed <b>control</b> cacm november 1974 dijkstra 
-cacm-1677 : storage organization <b>in</b> programming <b>systems</b> the system of program 
-cacm-1751 : resource allocation <b>in</b> modern computer <b>systems</b> is an adequate model 
-cacm-2439 : <b>control</b> <b>in</b> a time-sharing environment user-written 
-cacm-2080 : <b>operating</b> <b>systems</b> to suit diverse requirements 
-cacm-2844 : <b>mechanisms</b> cacm july 1976 gonnet 
-cacm-2060 : other unorthodox <b>control</b> <b>mechanisms</b> a variety of programming 
-cacm-3050 : <b>systems</b> design education a gaming 
-cacm-2320 : <b>operating</b> <b>systems</b> but also within user 
-cacm-2878 : joining policies <b>in</b> a multipriority multiclass batch 
-cacm-2069 : <b>operating</b> <b>systems</b> memory management 2.44 4.32 
-cacm-1728 : program <b>operating</b> behavior <b>in</b> those multiprogramming <b>systems</b> <b>in</b> which programs are organized 
-cacm-2036 : <b>control</b> <b>operating</b> <b>systems</b> 3.80 3.81 4.29 4.39 
-cacm-2317 : rosen s languages <b>operating</b> <b>systems</b> programming <b>systems</b> multiprogramming history 1.2 4.22 
-cacm-2867 : modularization and hierarchy <b>in</b> a family of <b>operating</b> <b>systems</b> this paper describes the 
-cacm-0059 : automatic data processing <b>in</b> business and management <b>control</b> <b>systems</b> of the federal government 
-cacm-0618 : <b>systems</b> <b>control</b> an industrial viewpoint man-man-machine 
-cacm-2111 : correction algorithms <b>in</b> to compilers and <b>operating</b> <b>systems</b> these include the use 
-cacm-1636 : unstable linear <b>systems</b> of ordinary differential equations 
 cacm-2742 : improved event-scanning <b>mechanisms</b> for discrete event simulation 
-cacm-2668 : page fault probability <b>in</b> a virtual memory system 
-cacm-3105 : and is supported <b>in</b> <b>operating</b> <b>systems</b> by access <b>control</b> <b>mechanisms</b> this paper shows how 
-cacm-1247 : <b>systems</b> presented <b>in</b> this paper is a 
-cacm-1290 : of second-level <b>control</b> <b>in</b> the earlier tutorial paper 
-cacm-2985 : <b>control</b> of computer-based <b>systems</b> development and main tenance 
-cacm-0104 : <b>systems</b> the discrete flow <b>systems</b> discussed are characterized by 
-cacm-2151 : <b>systems</b> multiprogramming <b>systems</b> time-sharing <b>systems</b> software measurement user program 
-cacm-2482 : resource allocation <b>operating</b> <b>systems</b> multiprogramming hierarchical <b>systems</b> 4.30 4.32 ca730704 jb 
-cacm-2558 : protection <b>in</b> programming languages linguistic <b>mechanisms</b> which can be used 
-cacm-3073 : communicating sequential processes this 
-cacm-1461 : discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 
-cacm-2342 : mutual exclusion <b>operating</b> <b>systems</b> parallel processes 4.0 4.10 
-cacm-2020 : illustrative pricing <b>systems</b> are also discussed <b>in</b> order to demonstrate the 
-cacm-3006 : paged virtual memory <b>operating</b> <b>systems</b> a redefined one type 
-cacm-2374 : for use <b>in</b> multiprogramming <b>systems</b> the storage requirement of 
-cacm-3011 : the information <b>systems</b> currently <b>in</b> use by top management 
-cacm-2876 : <b>in</b> database <b>systems</b> traditionally privacy protection <b>in</b> database <b>systems</b> is understood to be 
-cacm-2138 : suitable for use <b>in</b> writing production software <b>systems</b> for a specific machine 
-cacm-0696 : facilities located <b>in</b> van nuys and sunnyvale 
-cacm-0086 : automatic data processing <b>in</b> business and management <b>control</b> <b>systems</b> of the federal government 
-cacm-1485 : <b>in</b> this paper the major 
-cacm-2949 : <b>in</b> order for the nodes 
-cacm-1476 : has been presented <b>in</b> earlier papers <b>control</b> procedures for data communication 
-cacm-2626 : <b>mechanisms</b> described include access <b>control</b> lists hierarchical <b>control</b> of access specifications identification 
-cacm-1750 : <b>systems</b> multiprocessor <b>operating</b> <b>systems</b> <b>control</b> data corporation 6600 <b>operating</b> system with ecs 4.30 
-cacm-1754 : dynamic storage allocation <b>systems</b> <b>in</b> many recent computer system 
-cacm-3014 : always intermittent assertions <b>in</b> proving program correctness this 
-cacm-2821 : cobol under <b>control</b> a sample set of 
-cacm-2321 : and data communications <b>systems</b> future <b>systems</b> that combine computers digital 
-cacm-2939 : abstraction <b>mechanisms</b> <b>in</b> clu clu is a 
-cacm-3064 : same points <b>in</b> simulated time that infinite 
-cacm-0251 : <b>control</b> <b>systems</b> the cam profile generated 
-cacm-2629 : larger <b>operating</b> <b>systems</b> including 1 a hierarchical 
-cacm-1951 : communications time-sharing <b>operating</b> <b>systems</b> optimization models 3.80 3.81 
-cacm-2840 : protection <b>in</b> <b>operating</b> <b>systems</b> a model of protection 
-cacm-2522 : research <b>in</b> time-sharing paging <b>systems</b> has developed the working 
-cacm-2866 : proving monitors interesting scheduling 
-cacm-1236 : document retrieval system <b>operating</b> on the ibm 7094 
-cacm-2424 : fabry r s <b>operating</b> <b>systems</b> data security fault tolerance 
-cacm-2817 : predicate locks <b>in</b> a database system <b>in</b> database <b>systems</b> users access shared data 
-cacm-2721 : cycle <b>in</b> determining such patterns <b>in</b> addition the study demonstrates 
-cacm-1341 : levels of computer <b>systems</b> <b>in</b> building current computer <b>systems</b> we tend to break 
-cacm-3068 : data security <b>in</b> <b>operating</b> <b>systems</b> program verification applied to 
-cacm-3028 : codes compilers <b>operating</b> <b>systems</b> ferranti manchester mark i 
-cacm-2938 : complexity of reasoning <b>in</b> program validation sequential programming 
-cacm-2597 : r monitors <b>operating</b> <b>systems</b> scheduling mutual exclusion synchronization 
-cacm-1747 : design <b>operating</b> <b>systems</b> <b>operating</b> <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual 
-cacm-1033 : man-machine interaction <b>in</b> a general-purpose problem-solving environment 
-cacm-1264 : blnsys-a 1401 <b>operating</b> system with braille capabilities 
-cacm-1805 : computer operation <b>in</b> which two or more 
-cacm-2297 : varies <b>in</b> time these changes <b>in</b> memory configuration are represented 
 cacm-2888 : <b>in</b> business <b>systems</b> associated with large collections 
-cacm-1680 : <b>control</b> to the <b>operating</b> system to perform other 
-cacm-1226 : processing system <b>in</b> many <b>systems</b> the selection of an 
+cacm-2985 : <b>control</b> of computer-based <b>systems</b> development and main tenance 
+cacm-1636 : unstable linear <b>systems</b> of ordinary differential equations 
+cacm-2111 : correction algorithms <b>in</b> to compilers and <b>operating</b> <b>systems</b> these include the use 
+cacm-1747 : design <b>operating</b> <b>systems</b> <b>operating</b> <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual 
+cacm-1951 : communications time-sharing <b>operating</b> <b>systems</b> optimization models 3.80 3.81 
+cacm-2151 : <b>systems</b> multiprogramming <b>systems</b> time-sharing <b>systems</b> software measurement user program 
+cacm-2342 : mutual exclusion <b>operating</b> <b>systems</b> parallel processes 4.0 4.10 
+cacm-3006 : paged virtual memory <b>operating</b> <b>systems</b> a redefined one type 
+cacm-1247 : <b>systems</b> presented <b>in</b> this paper is a 
+cacm-2036 : <b>control</b> <b>operating</b> <b>systems</b> 3.80 3.81 4.29 4.39 
+cacm-2482 : resource allocation <b>operating</b> <b>systems</b> multiprogramming hierarchical <b>systems</b> 4.30 4.32 ca730704 jb 
+cacm-2629 : larger <b>operating</b> <b>systems</b> including 1 a hierarchical 
+cacm-3025 : <b>systems</b> covering a price range 
+cacm-2578 : self-stabilizing <b>systems</b> <b>in</b> spite of distributed <b>control</b> cacm november 1974 dijkstra 
+cacm-1754 : dynamic storage allocation <b>systems</b> <b>in</b> many recent computer system 
 cacm-2950 : <b>in</b> real <b>operating</b> <b>systems</b> the policy-driven scheduler of 
-cacm-2716 : <b>in</b> detail squiral seeks to 
-cacm-2632 : multiprocessor <b>operating</b> system this paper describes 
-cacm-2319 : <b>operating</b> and computer <b>systems</b> cacm july 1972 lynch 
-cacm-1534 : dad the c <b>operating</b> system the design and 
-cacm-2314 : interactive <b>systems</b> <b>control</b> structures data structures programming 
-cacm-1324 : language question-answering <b>systems</b> which are programmed and 
-cacm-3026 : 1100 series <b>systems</b> are sperry univacs large-scale 
-cacm-2372 : <b>control</b> confidentiality <b>operating</b> <b>systems</b> access management data banks 
-cacm-2870 : <b>mechanisms</b> that guarantee secure information 
-cacm-2936 : discrete event simulation <b>systems</b> several exhibited a performance 
-cacm-1462 : multilevel <b>operating</b> <b>systems</b> the basic software for 
-cacm-3153 : the <b>control</b> of response times <b>in</b> multi-class <b>systems</b> by memory allocations the 
-cacm-2377 : <b>in</b> a system which uses 
-cacm-1463 : <b>control</b> over program-to-program and program-to-data 
-cacm-1591 : <b>control</b> to the <b>operating</b> system to execute functions 
+cacm-1341 : levels of computer <b>systems</b> <b>in</b> building current computer <b>systems</b> we tend to break 
 cacm-3183 : that eft <b>systems</b> have the potential to 
+cacm-2319 : <b>operating</b> and computer <b>systems</b> cacm july 1972 lynch 
+cacm-2866 : proving monitors interesting scheduling 
+cacm-2069 : <b>operating</b> <b>systems</b> memory management 2.44 4.32 
+cacm-0618 : <b>systems</b> <b>control</b> an industrial viewpoint man-man-machine 
+cacm-3011 : the information <b>systems</b> currently <b>in</b> use by top management 
+cacm-2320 : <b>operating</b> <b>systems</b> but also within user 
+cacm-1226 : processing system <b>in</b> many <b>systems</b> the selection of an 

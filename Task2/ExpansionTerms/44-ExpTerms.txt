@@ -1,10 +1,10 @@
 algorithm
-jb
 1978
 cacm
+jb
 problem
 fourier
-surface
-pm
 method
+pm
+surface
 systems

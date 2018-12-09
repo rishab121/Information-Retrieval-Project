@@ -1,10 +1,10 @@
 algorithm
 matrix
 cacm
-jb
 method
+jb
 information
-january
 relations
-1978
+january
+hashing
 precedence

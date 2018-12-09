@@ -1,100 +1,100 @@
-cacm-2059 : a <b>language</b> <b>for</b> treating graphs a <b>language</b> <b>for</b> the representation <b>of</b> graph is described <b>and</b> the formulation <b>of</b> graph operations such as 
-cacm-0028 : request <b>for</b> <b>methods</b> <b>or</b> programs cacm april 1958 
-cacm-1051 : <b>items</b> the multiword <b>items</b> <b>are</b> introduced then variable-length <b>items</b> <b>are</b> described along with the 
-cacm-1527 : between the grammatical <b>and</b> ungrammatical sentences <b>of</b> a <b>natural</b> <b>language</b> it is possible <b>to</b> make use <b>of</b> a recognition device <b>of</b> this sort <b>for</b> the following reason much 
-cacm-0095 : <b>of</b> subroutines <b>for</b> numerical solution by electronic 
-cacm-2229 : <b>are</b> described <b>for</b> the generation <b>of</b> fractional <b>and</b> negative powers <b>of</b> any formal series such 
-cacm-1408 : the rate <b>of</b> <b>accessing</b> <b>for</b> drums so defined this 
-cacm-2423 : <b>words</b> <b>of</b> 60-bit core memory <b>of</b> which 140 <b>words</b> <b>are</b> parsing table entries <b>and</b> 82 <b>words</b> <b>are</b> links <b>to</b> code generators cacm november 
-cacm-1703 : the <b>methods</b> adopted <b>for</b> trac t-64 interactive <b>language</b> <b>and</b> its <b>related</b> family <b>of</b> languages oppressive rigidity <b>usually</b> associated with standardization is 
-cacm-1711 : <b>of</b> credit <b>and</b> <b>for</b> liability under theories <b>of</b> express <b>or</b> implied warranty guarantees <b>are</b> discussed <b>and</b> legal complications <b>are</b> explained so that users 
-cacm-1930 : paper by coveyou <b>and</b> macpherson 1967sing their <b>methods</b> fourier analysis is <b>applied</b> <b>to</b> the probability function <b>for</b> the consecutive n-tuples provided 
-cacm-0096 : spherical bessel functions <b>are</b> investigated these <b>methods</b> <b>are</b> desk machine evaluation <b>of</b> a finite series integration 
-cacm-0144 : <b>and</b> <b>for</b> single character-transmission <b>of</b> non-dictionary <b>words</b> such as the names 
-cacm-2060 : <b>and</b> labels <b>are</b> permissible results <b>of</b> functions <b>and</b> values <b>of</b> variables 2 assignment <b>and</b> indirect addressing <b>are</b> formalized by introducing values 
-cacm-1112 : a technique <b>for</b> computer detection <b>and</b> correction <b>of</b> <b>spelling</b> errors the method described 
-cacm-1888 : <b>of</b> difference equations which <b>are</b> block tridiagonal <b>and</b> so <b>are</b> easily solved by relaxation 
-cacm-1592 : string similarity <b>and</b> misspellings the problem <b>of</b> programming a computer <b>to</b> determine whether <b>or</b> not a string <b>of</b> characters is a misspelling 
-cacm-1886 : set <b>of</b> expressions which <b>are</b> <b>to</b> be compiled <b>methods</b> <b>are</b> presented <b>for</b> increasing the efficiency <b>of</b> the object code produced 
-cacm-0944 : the purpose <b>of</b> this paper is <b>to</b> examine the storage <b>and</b> search properties <b>of</b> a tree-organized storage system 
-cacm-0719 : use <b>of</b> machines <b>of</b> this class <b>for</b> compilation has advantages over 
-cacm-2931 : statics <b>of</b> the problem <b>and</b> how they <b>are</b> <b>to</b> be transformed the dynamics 
-cacm-0531 : which is subject <b>to</b> various errors because <b>of</b> name misspellings changes <b>of</b> name upon marriage <b>and</b> other problems we <b>are</b> interested in the maintenance 
-cacm-1641 : composed <b>of</b> <b>fast</b> core <b>and</b> slow disk <b>or</b> drum memories the space 
-cacm-1309 : makes possible <b>fast</b> preparation <b>of</b> management reports regardless <b>of</b> computational complexity <b>or</b> format variety costs <b>are</b> sufficiently low so that 
-cacm-1184 : ones in half <b>and</b> the larger blocks <b>are</b> reconstituted if <b>and</b> when their parts <b>are</b> simultaneously free cacm october 
-cacm-1650 : <b>for</b> some levels <b>of</b> a factor <b>or</b> <b>for</b> combinations <b>of</b> levels <b>of</b> more than one factor 
-cacm-2953 : <b>methods</b> <b>of</b> recursion elimination <b>are</b> <b>applied</b> <b>to</b> the schematic recursive procedure 
-cacm-3040 : values <b>for</b> a set <b>of</b> variables subject <b>to</b> a set <b>of</b> constraints a theory <b>of</b> consistency levels in such 
-cacm-2203 : terms <b>of</b> the number <b>of</b> accesses required <b>to</b> get <b>to</b> a record <b>and</b> the number <b>of</b> overflow records created by 
-cacm-1216 : <b>of</b> one <b>or</b> several variables no use 
-cacm-2572 : a prudent <b>and</b> decentralized approach <b>to</b> the question <b>of</b> the design <b>and</b> desirability <b>of</b> computerized community information utilities 
-cacm-2091 : <b>language</b> <b>to</b> solve <b>and</b> study partial differential equation 
-cacm-1483 : only those <b>items</b> which <b>are</b> different from <b>or</b> have been added <b>to</b> fortran ii <b>are</b> shown cacm february 1966 
-cacm-2860 : <b>for</b> the design <b>of</b> record addressing algorithms <b>and</b> discusses the applicability <b>of</b> these rules <b>to</b> large commercial databases guidelines 
-cacm-1856 : <b>for</b> the memory <b>and</b> the capabilities <b>for</b> correctly relating text <b>to</b> the memorys prior content 
-cacm-1379 : b1 <b>and</b> b2 <b>are</b> boolean expressions <b>and</b> s1 <b>and</b> s2 <b>are</b> basic statements the difficulty 
-cacm-2753 : objects <b>to</b> create feasible <b>or</b> optimal solutions <b>for</b> problems involving topological <b>and</b> metric spatial constraints the 
-cacm-2828 : <b>of</b> the shapes <b>of</b> three-dimensional objects <b>and</b> environments is used not 
-cacm-2989 : paper presents <b>methods</b> <b>for</b> empirical evaluation <b>of</b> features <b>of</b> instruction set processors isps 
-cacm-3101 : is part <b>of</b> the sl5 programming <b>language</b> is well suited <b>to</b> goal-oriented problems <b>and</b> <b>to</b> other problems that <b>are</b> more readily programmed by 
-cacm-1700 : peekabit computer offspring <b>of</b> punched card peekaboo <b>for</b> <b>natural</b> <b>language</b> searching the peekaboo idea 
-cacm-2196 : <b>for</b> special forms <b>of</b> the problem <b>or</b> <b>for</b> problems with a moderate 
-cacm-2267 : the radix <b>and</b> number <b>of</b> digits <b>of</b> the floating-point numbers <b>and</b> whether rounding <b>or</b> chopping is done by 
-cacm-1517 : <b>methods</b> <b>for</b> analyzing data from computer 
-cacm-2310 : be the establishing <b>of</b> such a sciencehus <b>for</b> those areas <b>of</b> the humanities <b>for</b> which rigor <b>and</b> precision <b>are</b> necessary eg analyzing literature 
 cacm-0695 : arm motion <b>and</b> disk rotation <b>are</b> discussed applications <b>of</b> disk usage <b>are</b> discussed separately <b>for</b> problem programs <b>and</b> <b>for</b> systems programs such as 
-cacm-2711 : used <b>to</b> choose an optimum <b>indexing</b> vocabulary <b>for</b> a collection <b>of</b> documents typical evaluation results 
-cacm-1272 : the amount <b>of</b> condensation <b>of</b> text in <b>language</b> processing operations <b>and</b> then contends that editing 
-cacm-2484 : information organization <b>and</b> storage is reduced <b>to</b> that <b>of</b> defining relations <b>and</b> formulating algorithms under a 
-cacm-1470 : several alternative forms <b>of</b> each <b>of</b> these components <b>are</b> described compared <b>and</b> evaluated many examples frequently 
-cacm-1602 : pose a <b>language</b> <b>for</b> posing problems <b>to</b> a computer a <b>language</b> pose is described which 
-cacm-3014 : with a number <b>of</b> examples <b>of</b> correctness <b>and</b> termination proofs some <b>of</b> these proofs <b>are</b> markedly simpler than their 
-cacm-0078 : <b>of</b> other papers have <b>applied</b> particular devices <b>to</b> particular problems the purpose 
-cacm-2486 : breaks ie <b>words</b> <b>or</b> formulas placed partly at 
-cacm-2688 : typical <b>of</b> most inverted file <b>and</b> similar approaches <b>to</b> multi-key <b>retrieval</b> this article analyses that 
-cacm-2924 : <b>for</b> man-machine communication <b>and</b> software <b>for</b> static <b>or</b> dynamic graphics display the 
-cacm-1307 : required <b>to</b> learn <b>or</b> remember the vocabulary <b>of</b> the <b>language</b> because the vocabulary is 
-cacm-1457 : <b>of</b> these programming languages <b>for</b> the <b>retrieval</b> application <b>are</b> examined <b>and</b> suggestions <b>are</b> made <b>for</b> the design <b>of</b> programming facilities <b>to</b> aid in information <b>retrieval</b> cacm march 1966 salton 
-cacm-2233 : <b>words</b> <b>are</b> simply numbered consecutively <b>and</b> first letters <b>of</b> these <b>words</b> <b>are</b> sought out at random 
-cacm-2273 : <b>of</b> mask <b>methods</b> with those <b>of</b> tree <b>methods</b> cacm october 1972 dathe 
-cacm-1699 : <b>of</b> use learning time <b>and</b> effectiveness <b>of</b> actual <b>retrieval</b> three experiments <b>and</b> the conclusions resulting from 
-cacm-3065 : deletion <b>are</b> provided <b>for</b> the class <b>of</b> right <b>or</b> one-sided brother trees which 
-cacm-1553 : <b>of</b> conversing in <b>natural</b> <b>language</b> is discussed the importance 
-cacm-1359 : data filtering <b>applied</b> <b>to</b> information storage <b>and</b> <b>retrieval</b> applications manipulation <b>of</b> data strings is the 
-cacm-1855 : limits <b>and</b> <b>for</b> avoiding the need <b>for</b> dynamic application <b>of</b> certain transformational rules <b>are</b> described a number <b>of</b> examples <b>of</b> output produced by the 
-cacm-0185 : 2 introduction <b>and</b> theory in order <b>to</b> exploit fully a <b>fast</b> computer which possesses simultaneous 
-cacm-2494 : <b>to</b> illustrate the comparison <b>of</b> groupings by four <b>methods</b> <b>of</b> factor analysis <b>and</b> two <b>methods</b> <b>of</b> cluster analysis cacm june 
-cacm-1402 : adams-bashforth method <b>of</b> integration <b>of</b> differential equations this method 
 cacm-2046 : <b>for</b> data base relations <b>and</b> the concept <b>of</b> a universal form <b>for</b> data base relations <b>and</b> the concept <b>of</b> a universal data sublanguage 
-cacm-1929 : widely used <b>for</b> the processing <b>of</b> information <b>and</b> data <b>of</b> all kinds including the 
-cacm-2127 : order <b>of</b> complexity <b>and</b> require the invention <b>and</b> development <b>of</b> entirely different approaches <b>to</b> semantic analysis <b>and</b> questions answering cacm january 
-cacm-1674 : advantages <b>are</b> speed avoiding linkage <b>to</b> <b>and</b> from a subroutine convenience 
-cacm-3046 : requirements <b>and</b> the programming effort <b>for</b> the proposed method <b>are</b> similar <b>to</b> those <b>of</b> wallaces <b>or</b> tadikamallas <b>methods</b> the computational times <b>for</b> the proposed method remain 
-cacm-2787 : <b>for</b> reduction <b>of</b> the binary matrices which 
-cacm-1486 : <b>language</b> <b>and</b> has a library <b>for</b> storing the users <b>items</b> rules <b>are</b> given <b>for</b> transforming programs written in 
-cacm-2646 : the <b>methods</b> <b>are</b> not restricted <b>to</b> numerical computations matrix <b>and</b> partial differential equation <b>methods</b> <b>are</b> typical examples <b>of</b> their use it is 
-cacm-2998 : lists pointers <b>to</b> atoms <b>are</b> found <b>to</b> obey roughly zipfs law 
-cacm-2354 : by a modification <b>of</b> the <b>fast</b> fourier transform <b>and</b> all three problems overcome 
-cacm-2265 : <b>and</b> functions <b>for</b> correct compilation <b>and</b> execution the following question 
-cacm-3100 : description <b>of</b> the training examples <b>and</b> the adequacy <b>of</b> interference matching <b>are</b> discussed <b>and</b> directions <b>for</b> future research <b>are</b> considered cacm may 1978 
-cacm-1725 : <b>of</b> ordered <b>retrieval</b> <b>of</b> binary <b>words</b> from an associative memory 
-cacm-1504 : estimates <b>and</b> storage requirements <b>for</b> both <b>methods</b> <b>are</b> presented cacm december 1967 
-cacm-1976 : use <b>of</b> redundancy <b>and</b> storing keys <b>or</b> access numbers <b>of</b> the records that satisfy 
-cacm-3087 : <b>for</b> the relational database <b>and</b> optimize the order <b>of</b> searching relations <b>methods</b> <b>are</b> discussed <b>for</b> handling vague <b>or</b> complex questions <b>and</b> <b>for</b> providing browsing ability also 
-cacm-2523 : <b>applied</b> <b>to</b> the <b>construction</b> <b>of</b> cloud cover maps from 
-cacm-3041 : a discussion <b>of</b> the application <b>of</b> msts <b>to</b> dictionary lookup <b>for</b> english is presented <b>and</b> the performance obtained is 
-cacm-2437 : approach <b>to</b> the analysis <b>of</b> performance <b>of</b> the various key-to-address transformation 
-cacm-1235 : a small dictionary <b>of</b> function <b>words</b> <b>and</b> frequently occurring <b>lexical</b> <b>words</b> some suffix tests <b>and</b> logical-decision rules <b>are</b> employed <b>to</b> code additional <b>words</b> finally the remaining <b>words</b> <b>are</b> assigned <b>to</b> one class <b>or</b> another on the basis 
-cacm-2906 : very high level <b>language</b> nonprocedural <b>language</b> data flow <b>language</b> business application business data 
-cacm-2517 : <b>of</b> ambiguous decision tables <b>and</b> their conversion <b>to</b> computer programs this paper 
-cacm-3138 : is <b>to</b> add a column <b>or</b> row analogous <b>to</b> adding an additional row 
-cacm-2153 : <b>of</b> effectiveness student acceptance <b>and</b> operational cost <b>are</b> the result <b>of</b> testing the system independent 
-cacm-1652 : system with respect <b>to</b> non-numeric applications <b>and</b> <b>to</b> maximize the transfer rate 
-cacm-2905 : applicable directly <b>to</b> small sets some <b>methods</b> <b>to</b> extend these results <b>to</b> larger sets <b>are</b> also presented a rough 
-cacm-1665 : the multicharacter <b>items</b> <b>or</b> <b>of</b> <b>words</b> allowable in a <b>language</b> given in terms <b>of</b> a subset <b>of</b> regular expressions the output 
-cacm-1456 : storage <b>and</b> <b>retrieval</b> <b>of</b> aspects <b>of</b> meaning in directed graph 
-cacm-2846 : <b>and</b> then several <b>methods</b> <b>of</b> its use <b>for</b> relatively static databases <b>are</b> discussed cacm july 1976 
-cacm-2210 : the automatic <b>construction</b> <b>of</b> both recursive <b>and</b> iterative programs operating on 
-cacm-2307 : <b>of</b> library automation <b>and</b> <b>of</b> the mechanization <b>of</b> documentation processes has not 
 cacm-1292 : in a correction <b>of</b> at most plus <b>or</b> minus one <b>to</b> the estimate <b>to</b> obtain the exact quotient 
+cacm-1359 : data filtering <b>applied</b> <b>to</b> information storage <b>and</b> <b>retrieval</b> applications manipulation <b>of</b> data strings is the 
+cacm-1051 : <b>items</b> the multiword <b>items</b> <b>are</b> introduced then variable-length <b>items</b> <b>are</b> described along with the 
+cacm-2646 : the <b>methods</b> <b>are</b> not restricted <b>to</b> numerical computations matrix <b>and</b> partial differential equation <b>methods</b> <b>are</b> typical examples <b>of</b> their use it is 
+cacm-3100 : description <b>of</b> the training examples <b>and</b> the adequacy <b>of</b> interference matching <b>are</b> discussed <b>and</b> directions <b>for</b> future research <b>are</b> considered cacm may 1978 
+cacm-2753 : objects <b>to</b> create feasible <b>or</b> optimal solutions <b>for</b> problems involving topological <b>and</b> metric spatial constraints the 
+cacm-2267 : the radix <b>and</b> number <b>of</b> digits <b>of</b> the floating-point numbers <b>and</b> whether rounding <b>or</b> chopping is done by 
+cacm-2203 : terms <b>of</b> the number <b>of</b> accesses required <b>to</b> get <b>to</b> a record <b>and</b> the number <b>of</b> overflow records created by 
+cacm-2494 : <b>to</b> illustrate the comparison <b>of</b> groupings by four <b>methods</b> <b>of</b> factor analysis <b>and</b> two <b>methods</b> <b>of</b> cluster analysis cacm june 
+cacm-1674 : advantages <b>are</b> speed avoiding linkage <b>to</b> <b>and</b> from a subroutine convenience 
+cacm-0944 : the purpose <b>of</b> this paper is <b>to</b> examine the storage <b>and</b> search properties <b>of</b> a tree-organized storage system 
+cacm-1235 : a small dictionary <b>of</b> function <b>words</b> <b>and</b> frequently occurring <b>lexical</b> <b>words</b> some suffix tests <b>and</b> logical-decision rules <b>are</b> employed <b>to</b> code additional <b>words</b> finally the remaining <b>words</b> <b>are</b> assigned <b>to</b> one class <b>or</b> another on the basis 
+cacm-3065 : deletion <b>are</b> provided <b>for</b> the class <b>of</b> right <b>or</b> one-sided brother trees which 
+cacm-2153 : <b>of</b> effectiveness student acceptance <b>and</b> operational cost <b>are</b> the result <b>of</b> testing the system independent 
+cacm-2905 : applicable directly <b>to</b> small sets some <b>methods</b> <b>to</b> extend these results <b>to</b> larger sets <b>are</b> also presented a rough 
+cacm-1700 : peekabit computer offspring <b>of</b> punched card peekaboo <b>for</b> <b>natural</b> <b>language</b> searching the peekaboo idea 
+cacm-1456 : storage <b>and</b> <b>retrieval</b> <b>of</b> aspects <b>of</b> meaning in directed graph 
+cacm-2059 : a <b>language</b> <b>for</b> treating graphs a <b>language</b> <b>for</b> the representation <b>of</b> graph is described <b>and</b> the formulation <b>of</b> graph operations such as 
+cacm-1408 : the rate <b>of</b> <b>accessing</b> <b>for</b> drums so defined this 
+cacm-0096 : spherical bessel functions <b>are</b> investigated these <b>methods</b> <b>are</b> desk machine evaluation <b>of</b> a finite series integration 
+cacm-1976 : use <b>of</b> redundancy <b>and</b> storing keys <b>or</b> access numbers <b>of</b> the records that satisfy 
+cacm-1379 : b1 <b>and</b> b2 <b>are</b> boolean expressions <b>and</b> s1 <b>and</b> s2 <b>are</b> basic statements the difficulty 
+cacm-2828 : <b>of</b> the shapes <b>of</b> three-dimensional objects <b>and</b> environments is used not 
+cacm-2060 : <b>and</b> labels <b>are</b> permissible results <b>of</b> functions <b>and</b> values <b>of</b> variables 2 assignment <b>and</b> indirect addressing <b>are</b> formalized by introducing values 
+cacm-2931 : statics <b>of</b> the problem <b>and</b> how they <b>are</b> <b>to</b> be transformed the dynamics 
+cacm-1703 : the <b>methods</b> adopted <b>for</b> trac t-64 interactive <b>language</b> <b>and</b> its <b>related</b> family <b>of</b> languages oppressive rigidity <b>usually</b> associated with standardization is 
+cacm-1272 : the amount <b>of</b> condensation <b>of</b> text in <b>language</b> processing operations <b>and</b> then contends that editing 
+cacm-1553 : <b>of</b> conversing in <b>natural</b> <b>language</b> is discussed the importance 
+cacm-2310 : be the establishing <b>of</b> such a sciencehus <b>for</b> those areas <b>of</b> the humanities <b>for</b> which rigor <b>and</b> precision <b>are</b> necessary eg analyzing literature 
+cacm-1307 : required <b>to</b> learn <b>or</b> remember the vocabulary <b>of</b> the <b>language</b> because the vocabulary is 
+cacm-1486 : <b>language</b> <b>and</b> has a library <b>for</b> storing the users <b>items</b> rules <b>are</b> given <b>for</b> transforming programs written in 
+cacm-1470 : several alternative forms <b>of</b> each <b>of</b> these components <b>are</b> described compared <b>and</b> evaluated many examples frequently 
+cacm-3014 : with a number <b>of</b> examples <b>of</b> correctness <b>and</b> termination proofs some <b>of</b> these proofs <b>are</b> markedly simpler than their 
+cacm-2953 : <b>methods</b> <b>of</b> recursion elimination <b>are</b> <b>applied</b> <b>to</b> the schematic recursive procedure 
+cacm-2924 : <b>for</b> man-machine communication <b>and</b> software <b>for</b> static <b>or</b> dynamic graphics display the 
+cacm-1641 : composed <b>of</b> <b>fast</b> core <b>and</b> slow disk <b>or</b> drum memories the space 
+cacm-1699 : <b>of</b> use learning time <b>and</b> effectiveness <b>of</b> actual <b>retrieval</b> three experiments <b>and</b> the conclusions resulting from 
+cacm-2229 : <b>are</b> described <b>for</b> the generation <b>of</b> fractional <b>and</b> negative powers <b>of</b> any formal series such 
+cacm-2688 : typical <b>of</b> most inverted file <b>and</b> similar approaches <b>to</b> multi-key <b>retrieval</b> this article analyses that 
+cacm-1504 : estimates <b>and</b> storage requirements <b>for</b> both <b>methods</b> <b>are</b> presented cacm december 1967 
+cacm-3041 : a discussion <b>of</b> the application <b>of</b> msts <b>to</b> dictionary lookup <b>for</b> english is presented <b>and</b> the performance obtained is 
+cacm-2354 : by a modification <b>of</b> the <b>fast</b> fourier transform <b>and</b> all three problems overcome 
+cacm-1652 : system with respect <b>to</b> non-numeric applications <b>and</b> <b>to</b> maximize the transfer rate 
+cacm-2998 : lists pointers <b>to</b> atoms <b>are</b> found <b>to</b> obey roughly zipfs law 
+cacm-1888 : <b>of</b> difference equations which <b>are</b> block tridiagonal <b>and</b> so <b>are</b> easily solved by relaxation 
+cacm-1527 : between the grammatical <b>and</b> ungrammatical sentences <b>of</b> a <b>natural</b> <b>language</b> it is possible <b>to</b> make use <b>of</b> a recognition device <b>of</b> this sort <b>for</b> the following reason much 
+cacm-1930 : paper by coveyou <b>and</b> macpherson 1967sing their <b>methods</b> fourier analysis is <b>applied</b> <b>to</b> the probability function <b>for</b> the consecutive n-tuples provided 
+cacm-2265 : <b>and</b> functions <b>for</b> correct compilation <b>and</b> execution the following question 
+cacm-0144 : <b>and</b> <b>for</b> single character-transmission <b>of</b> non-dictionary <b>words</b> such as the names 
+cacm-1711 : <b>of</b> credit <b>and</b> <b>for</b> liability under theories <b>of</b> express <b>or</b> implied warranty guarantees <b>are</b> discussed <b>and</b> legal complications <b>are</b> explained so that users 
+cacm-2860 : <b>for</b> the design <b>of</b> record addressing algorithms <b>and</b> discusses the applicability <b>of</b> these rules <b>to</b> large commercial databases guidelines 
+cacm-3101 : is part <b>of</b> the sl5 programming <b>language</b> is well suited <b>to</b> goal-oriented problems <b>and</b> <b>to</b> other problems that <b>are</b> more readily programmed by 
+cacm-0185 : 2 introduction <b>and</b> theory in order <b>to</b> exploit fully a <b>fast</b> computer which possesses simultaneous 
+cacm-1483 : only those <b>items</b> which <b>are</b> different from <b>or</b> have been added <b>to</b> fortran ii <b>are</b> shown cacm february 1966 
+cacm-0095 : <b>of</b> subroutines <b>for</b> numerical solution by electronic 
+cacm-3138 : is <b>to</b> add a column <b>or</b> row analogous <b>to</b> adding an additional row 
+cacm-1665 : the multicharacter <b>items</b> <b>or</b> <b>of</b> <b>words</b> allowable in a <b>language</b> given in terms <b>of</b> a subset <b>of</b> regular expressions the output 
+cacm-1402 : adams-bashforth method <b>of</b> integration <b>of</b> differential equations this method 
+cacm-2210 : the automatic <b>construction</b> <b>of</b> both recursive <b>and</b> iterative programs operating on 
+cacm-2273 : <b>of</b> mask <b>methods</b> with those <b>of</b> tree <b>methods</b> cacm october 1972 dathe 
+cacm-2846 : <b>and</b> then several <b>methods</b> <b>of</b> its use <b>for</b> relatively static databases <b>are</b> discussed cacm july 1976 
+cacm-1592 : string similarity <b>and</b> misspellings the problem <b>of</b> programming a computer <b>to</b> determine whether <b>or</b> not a string <b>of</b> characters is a misspelling 
+cacm-2484 : information organization <b>and</b> storage is reduced <b>to</b> that <b>of</b> defining relations <b>and</b> formulating algorithms under a 
+cacm-2486 : breaks ie <b>words</b> <b>or</b> formulas placed partly at 
+cacm-1517 : <b>methods</b> <b>for</b> analyzing data from computer 
+cacm-2127 : order <b>of</b> complexity <b>and</b> require the invention <b>and</b> development <b>of</b> entirely different approaches <b>to</b> semantic analysis <b>and</b> questions answering cacm january 
+cacm-3040 : values <b>for</b> a set <b>of</b> variables subject <b>to</b> a set <b>of</b> constraints a theory <b>of</b> consistency levels in such 
+cacm-1184 : ones in half <b>and</b> the larger blocks <b>are</b> reconstituted if <b>and</b> when their parts <b>are</b> simultaneously free cacm october 
+cacm-2989 : paper presents <b>methods</b> <b>for</b> empirical evaluation <b>of</b> features <b>of</b> instruction set processors isps 
+cacm-1602 : pose a <b>language</b> <b>for</b> posing problems <b>to</b> a computer a <b>language</b> pose is described which 
+cacm-2523 : <b>applied</b> <b>to</b> the <b>construction</b> <b>of</b> cloud cover maps from 
+cacm-1309 : makes possible <b>fast</b> preparation <b>of</b> management reports regardless <b>of</b> computational complexity <b>or</b> format variety costs <b>are</b> sufficiently low so that 
+cacm-3087 : <b>for</b> the relational database <b>and</b> optimize the order <b>of</b> searching relations <b>methods</b> <b>are</b> discussed <b>for</b> handling vague <b>or</b> complex questions <b>and</b> <b>for</b> providing browsing ability also 
+cacm-2196 : <b>for</b> special forms <b>of</b> the problem <b>or</b> <b>for</b> problems with a moderate 
+cacm-2517 : <b>of</b> ambiguous decision tables <b>and</b> their conversion <b>to</b> computer programs this paper 
+cacm-1457 : <b>of</b> these programming languages <b>for</b> the <b>retrieval</b> application <b>are</b> examined <b>and</b> suggestions <b>are</b> made <b>for</b> the design <b>of</b> programming facilities <b>to</b> aid in information <b>retrieval</b> cacm march 1966 salton 
+cacm-1855 : limits <b>and</b> <b>for</b> avoiding the need <b>for</b> dynamic application <b>of</b> certain transformational rules <b>are</b> described a number <b>of</b> examples <b>of</b> output produced by the 
+cacm-2437 : approach <b>to</b> the analysis <b>of</b> performance <b>of</b> the various key-to-address transformation 
+cacm-2787 : <b>for</b> reduction <b>of</b> the binary matrices which 
+cacm-2091 : <b>language</b> <b>to</b> solve <b>and</b> study partial differential equation 
+cacm-2711 : used <b>to</b> choose an optimum <b>indexing</b> vocabulary <b>for</b> a collection <b>of</b> documents typical evaluation results 
+cacm-1929 : widely used <b>for</b> the processing <b>of</b> information <b>and</b> data <b>of</b> all kinds including the 
+cacm-1650 : <b>for</b> some levels <b>of</b> a factor <b>or</b> <b>for</b> combinations <b>of</b> levels <b>of</b> more than one factor 
+cacm-2906 : very high level <b>language</b> nonprocedural <b>language</b> data flow <b>language</b> business application business data 
+cacm-1216 : <b>of</b> one <b>or</b> several variables no use 
+cacm-1725 : <b>of</b> ordered <b>retrieval</b> <b>of</b> binary <b>words</b> from an associative memory 
+cacm-1886 : set <b>of</b> expressions which <b>are</b> <b>to</b> be compiled <b>methods</b> <b>are</b> presented <b>for</b> increasing the efficiency <b>of</b> the object code produced 
+cacm-0719 : use <b>of</b> machines <b>of</b> this class <b>for</b> compilation has advantages over 
+cacm-1856 : <b>for</b> the memory <b>and</b> the capabilities <b>for</b> correctly relating text <b>to</b> the memorys prior content 
+cacm-2307 : <b>of</b> library automation <b>and</b> <b>of</b> the mechanization <b>of</b> documentation processes has not 
+cacm-2572 : a prudent <b>and</b> decentralized approach <b>to</b> the question <b>of</b> the design <b>and</b> desirability <b>of</b> computerized community information utilities 
+cacm-3046 : requirements <b>and</b> the programming effort <b>for</b> the proposed method <b>are</b> similar <b>to</b> those <b>of</b> wallaces <b>or</b> tadikamallas <b>methods</b> the computational times <b>for</b> the proposed method remain 
+cacm-0028 : request <b>for</b> <b>methods</b> <b>or</b> programs cacm april 1958 
+cacm-1112 : a technique <b>for</b> computer detection <b>and</b> correction <b>of</b> <b>spelling</b> errors the method described 
+cacm-0078 : <b>of</b> other papers have <b>applied</b> particular devices <b>to</b> particular problems the purpose 
+cacm-2233 : <b>words</b> <b>are</b> simply numbered consecutively <b>and</b> first letters <b>of</b> these <b>words</b> <b>are</b> sought out at random 
+cacm-2423 : <b>words</b> <b>of</b> 60-bit core memory <b>of</b> which 140 <b>words</b> <b>are</b> parsing table entries <b>and</b> 82 <b>words</b> <b>are</b> links <b>to</b> code generators cacm november 
+cacm-0531 : which is subject <b>to</b> various errors because <b>of</b> name misspellings changes <b>of</b> name upon marriage <b>and</b> other problems we <b>are</b> interested in the maintenance 

@@ -6,7 +6,7 @@ import operator
 
 
 class BM25WithFeedback:
-    def __init__(self, k1,k2, b):
+    def __init__(self, k1=1.2,k2=100,b=0.75):
         self.helper = Helper()
         self.k1 = k1
         self.k2 = k2
@@ -70,7 +70,7 @@ class BM25WithFeedback:
         rank = 0
         for tup in sortedDict:
             rank += 1
-            file.write(str(qId) + " Q0 " + str(tup[0]) + " " + str(rank) + " " + str(tup[1]) + " BM25NoStem\n")
+            file.write(str(qId) + " Q0 " + str(tup[0]) + " " + str(rank) + " " + str(tup[1]) + " BM25WithFeedbackNoStemNoStop\n")
             if rank == 100:
                 break
 
@@ -87,3 +87,5 @@ class BM25WithFeedback:
             self.createQueryFrequencyDict(queryAr)
             self.score(q, queryAr)
             self.printScores(q)
+
+b = BM25WithFeedback()

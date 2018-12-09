@@ -3,8 +3,8 @@ language
 interactive
 on-line
 systems
-jb
 1978
-graphic
 cacm
-program
+jb
+graphic
+monitor

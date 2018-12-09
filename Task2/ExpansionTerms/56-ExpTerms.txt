@@ -1,10 +1,10 @@
-program
 system
-formal
-jb
+program
 language
 cacm
+jb
+formal
 string
+machine
 1978
 context-free
-machine

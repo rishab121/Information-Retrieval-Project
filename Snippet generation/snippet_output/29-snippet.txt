@@ -1,100 +1,100 @@
-cacm-2606 : with gragg-bulirsh-stoer <b>and</b> the taylor series method 
-cacm-2232 : recognition <b>and</b> the geometrical concept itself 
-cacm-3037 : finding <b>prime</b> numbers a new algorithm 
-cacm-1834 : axioms <b>and</b> rules <b>and</b> a formal proof of 
-cacm-2424 : on the <b>prime</b> system being designed <b>and</b> constructed at the university 
-cacm-2229 : construction of rational <b>and</b> negative powers of a 
-cacm-2378 : supervisor <b>and</b> a set of independent 
-cacm-3055 : by dijkstra 1 <b>and</b> meyer 3 dijkstra starts 
-cacm-1862 : in argentina <b>and</b> chile during november 1968 
-cacm-1537 : <b>prime</b> <b>number</b> generator 1 algorithm 310 
-cacm-2355 : <b>and</b> experience clenshaw-curtis quadrature is 
-cacm-2770 : a <b>prime</b> <b>number</b> previous work on quadratic 
-cacm-1933 : <b>prime</b> mersenne <b>number</b> with produces 231 2 
-cacm-2200 : produce both quotient <b>and</b> remainder in complement form 
-cacm-2167 : large expression <b>and</b> second from the point 
-cacm-1257 : <b>number</b> of lines at any 
-cacm-2283 : <b>and</b> triangular arrays in this 
-cacm-1504 : large <b>number</b> of nodes <b>and</b> edges when storage is 
-cacm-0670 : statutes <b>and</b> regulations it also is 
-cacm-2031 : presented the <b>number</b> of arithmetic operations <b>and</b> the <b>number</b> of storage locations are 
-cacm-2462 : an efficient <b>prime</b> <b>number</b> generator algorithm r357 cacm 
-cacm-3021 : factorization <b>prime</b> <b>number</b> electronic mail message-passing electronic 
-cacm-2927 : <b>prime</b> <b>number</b> generation <b>number</b> theory linked list preprocessing 
-cacm-0944 : storage <b>and</b> search properties of a 
-cacm-3164 : requests <b>and</b> maintains a graph in 
-cacm-1420 : <b>prime</b> within accumulator capacity <b>and</b> the multiplier is a 
-cacm-1295 : pert time calculations without 
-cacm-1874 : j random <b>number</b> uniform distribution pseudo-random <b>number</b> random <b>number</b> generator multiplicative congruential generator 
-cacm-2507 : mixed radix conversion <b>prime</b> <b>number</b> linear equations gaussian elimination 
-cacm-1946 : coefficients memory requirements <b>and</b> computing speed preliminary considerations 
-cacm-2276 : slower <b>and</b> shorter algorithms <b>and</b> faster but space consuming 
-cacm-2794 : in problem-reduction <b>and</b> theorem proving <b>and</b> the terminology used to 
-cacm-2683 : this is tedious <b>and</b> error prone producing a 
-cacm-1840 : an efficient <b>prime</b> <b>number</b> generator algorithm 357 a1 
-cacm-1099 : <b>especially</b> suited for programming work 
-cacm-1717 : extremals <b>and</b> <b>prime</b> implicants of boolean functions 
-cacm-3027 : <b>and</b> ideas for mu5 are 
-cacm-2657 : proposed by waldinger <b>and</b> lee in 1969 is 
 cacm-2146 : total <b>number</b> of unit strings read 
-cacm-1841 : a <b>prime</b> <b>number</b> generator using the treesort 
-cacm-2402 : pictorial pattern recognition <b>and</b> the phase problem of 
-cacm-2067 : generalized <b>prime</b> implicants minimal forms minimization 
-cacm-2267 : the radix <b>and</b> <b>number</b> of digits of the 
-cacm-2289 : array <b>and</b> typical row <b>and</b> column operations are readily 
-cacm-2764 : an intelligent analyzer <b>and</b> understander of english the 
-cacm-2544 : polynomials with real <b>and</b> complex roots <b>and</b> one example for the 
-cacm-1385 : items <b>and</b> periodical literature for the 
-cacm-2138 : operating systems etc <b>prime</b> design goals of the 
-cacm-2767 : event notices <b>and</b> another uses an indexed 
-cacm-2723 : <b>involving</b> several list processors <b>and</b> one or more garbage 
-cacm-0804 : exponentiation of series algorithms 
-cacm-2896 : <b>especially</b> difficult to understand <b>and</b> complicates the proof greatly 
-cacm-2220 : <b>and</b> the communications concept of 
-cacm-2986 : relations <b>and</b> whose operators are composition 
-cacm-1497 : divisor in divide <b>and</b> correct methods this paper 
-cacm-1697 : for graphically inputting <b>and</b> outputting nonstandard characters on 
-cacm-2726 : method for finding <b>prime</b> implicants if some of 
-cacm-2142 : a large <b>and</b> varied <b>number</b> of fields the most 
-cacm-2561 : conditions <b>involving</b> incomplete <b>and</b> inconsistent data cacm december 
-cacm-2939 : <b>and</b> <b>especially</b> data abstractions-are useful in 
-cacm-2089 : <b>prime</b> <b>number</b> algorithm 310 $a1 cacm 
-cacm-1957 : from any expression <b>involving</b> sets <b>and</b> set operators the efficiency 
-cacm-3079 : fast <b>and</b> complete for ground formulas 
-cacm-2555 : <b>and</b> ei denotes the error 
-cacm-2948 : computer <b>and</b> its terminals the system 
-cacm-2325 : numerical mathematics <b>and</b> computer science numerical mathematics 
-cacm-1967 : <b>number</b> theory <b>prime</b> numbers complex numbers 5.39 
-cacm-1386 : <b>number</b> of steps the algorithm 
-cacm-3131 : system <b>and</b> supporting computational algorithms <b>especially</b> useful for microcomputer control 
-cacm-0116 : evolution <b>and</b> present status of the 
-cacm-1171 : of constraints <b>and</b> the <b>number</b> of variables but also 
-cacm-2806 : two hadamard numbers for 
-cacm-2111 : restricted keyword <b>and</b> symbol tables <b>and</b> the consideration of a 
-cacm-1538 : <b>prime</b> <b>number</b> generator 2 algorithm 311 
-cacm-1094 : <b>prime</b> twins algorithm 223 cacm 
-cacm-2998 : atoms <b>and</b> <b>especially</b> among poin ters to 
-cacm-2341 : formation <b>and</b> text justification <b>and</b> preparation have been programmed 
-cacm-2490 : v is the <b>number</b> of vertices <b>and</b> e is the <b>number</b> of edges each algorithm 
-cacm-1539 : <b>prime</b> <b>number</b> generator 1 <b>prime</b> <b>number</b> generator 2 algorithm 35a1 
-cacm-1691 : behavior of random <b>number</b> generators for the ibm 
-cacm-1725 : reduces considerably the <b>number</b> of memory accesses necessary 
-cacm-2109 : that <b>prime</b> <b>number</b> can be searched cacm 
-cacm-1159 : <b>and</b> <b>especially</b> compilers from one computer 
-cacm-2210 : of both recursive <b>and</b> iterative programs operating on 
-cacm-2644 : of strategies <b>and</b> inference rules presently under 
-cacm-2252 : has been received <b>and</b> 4 the parsing <b>and</b> compilation are factored into 
-cacm-0063 : <b>and</b> their applicability to computer 
-cacm-1879 : <b>and</b> program segmentation the main 
-cacm-2605 : <b>number</b> is bounded in an 
 cacm-0942 : research <b>involving</b> extensive computations on a 
-cacm-1924 : organizing matrices <b>and</b> matrix operations for paged 
+cacm-2306 : science a <b>number</b> of old babylonian tablets 
+cacm-1840 : an efficient <b>prime</b> <b>number</b> generator algorithm 357 a1 
+cacm-2267 : the radix <b>and</b> <b>number</b> of digits of the 
+cacm-1879 : <b>and</b> program segmentation the main 
+cacm-1834 : axioms <b>and</b> rules <b>and</b> a formal proof of 
+cacm-1946 : coefficients memory requirements <b>and</b> computing speed preliminary considerations 
+cacm-1957 : from any expression <b>involving</b> sets <b>and</b> set operators the efficiency 
+cacm-2031 : presented the <b>number</b> of arithmetic operations <b>and</b> the <b>number</b> of storage locations are 
+cacm-2138 : operating systems etc <b>prime</b> design goals of the 
+cacm-0944 : storage <b>and</b> search properties of a 
+cacm-2325 : numerical mathematics <b>and</b> computer science numerical mathematics 
+cacm-2770 : a <b>prime</b> <b>number</b> previous work on quadratic 
+cacm-0670 : statutes <b>and</b> regulations it also is 
+cacm-3164 : requests <b>and</b> maintains a graph in 
+cacm-2896 : <b>especially</b> difficult to understand <b>and</b> complicates the proof greatly 
+cacm-2644 : of strategies <b>and</b> inference rules presently under 
+cacm-2462 : an efficient <b>prime</b> <b>number</b> generator algorithm r357 cacm 
+cacm-2142 : a large <b>and</b> varied <b>number</b> of fields the most 
+cacm-1538 : <b>prime</b> <b>number</b> generator 2 algorithm 311 
+cacm-2200 : produce both quotient <b>and</b> remainder in complement form 
+cacm-2726 : method for finding <b>prime</b> implicants if some of 
+cacm-0804 : exponentiation of series algorithms 
+cacm-1420 : <b>prime</b> within accumulator capacity <b>and</b> the multiplier is a 
+cacm-3079 : fast <b>and</b> complete for ground formulas 
+cacm-1159 : <b>and</b> <b>especially</b> compilers from one computer 
+cacm-1933 : <b>prime</b> mersenne <b>number</b> with produces 231 2 
+cacm-1257 : <b>number</b> of lines at any 
+cacm-2232 : recognition <b>and</b> the geometrical concept itself 
+cacm-1679 : n/2 complex multiply <b>and</b> add operations <b>and</b> which require only n 
 cacm-2114 : structure directory decoding <b>and</b> record retrieval are defined 
+cacm-2067 : generalized <b>prime</b> implicants minimal forms minimization 
+cacm-0063 : <b>and</b> their applicability to computer 
+cacm-2806 : two hadamard numbers for 
+cacm-2206 : representation mixed-radix conversion <b>prime</b> <b>number</b> linear equations gaussian elimination 
+cacm-2723 : <b>involving</b> several list processors <b>and</b> one or more garbage 
+cacm-2229 : construction of rational <b>and</b> negative powers of a 
+cacm-2561 : conditions <b>involving</b> incomplete <b>and</b> inconsistent data cacm december 
+cacm-1504 : large <b>number</b> of nodes <b>and</b> edges when storage is 
+cacm-2794 : in problem-reduction <b>and</b> theorem proving <b>and</b> the terminology used to 
+cacm-2605 : <b>number</b> is bounded in an 
+cacm-1295 : pert time calculations without 
+cacm-1099 : <b>especially</b> suited for programming work 
+cacm-3131 : system <b>and</b> supporting computational algorithms <b>especially</b> useful for microcomputer control 
+cacm-2507 : mixed radix conversion <b>prime</b> <b>number</b> linear equations gaussian elimination 
+cacm-2948 : computer <b>and</b> its terminals the system 
+cacm-2283 : <b>and</b> triangular arrays in this 
+cacm-2095 : is the large <b>number</b> of small segments-about 60 
 cacm-2860 : sizes <b>and</b> loading order <b>and</b> considered particular attention is 
 cacm-1710 : of data items <b>and</b> an arbitrary <b>number</b> of the relationships between 
-cacm-2306 : science a <b>number</b> of old babylonian tablets 
-cacm-2206 : representation mixed-radix conversion <b>prime</b> <b>number</b> linear equations gaussian elimination 
-cacm-1679 : n/2 complex multiply <b>and</b> add operations <b>and</b> which require only n 
-cacm-2095 : is the large <b>number</b> of small segments-about 60 
-cacm-2447 : numerical results <b>and</b> computer graphs are given 
+cacm-2767 : event notices <b>and</b> another uses an indexed 
+cacm-2402 : pictorial pattern recognition <b>and</b> the phase problem of 
+cacm-2355 : <b>and</b> experience clenshaw-curtis quadrature is 
+cacm-2210 : of both recursive <b>and</b> iterative programs operating on 
+cacm-2683 : this is tedious <b>and</b> error prone producing a 
+cacm-2998 : atoms <b>and</b> <b>especially</b> among poin ters to 
+cacm-2276 : slower <b>and</b> shorter algorithms <b>and</b> faster but space consuming 
+cacm-2544 : polynomials with real <b>and</b> complex roots <b>and</b> one example for the 
+cacm-1539 : <b>prime</b> <b>number</b> generator 1 <b>prime</b> <b>number</b> generator 2 algorithm 35a1 
+cacm-2939 : <b>and</b> <b>especially</b> data abstractions-are useful in 
+cacm-2424 : on the <b>prime</b> system being designed <b>and</b> constructed at the university 
+cacm-2490 : v is the <b>number</b> of vertices <b>and</b> e is the <b>number</b> of edges each algorithm 
+cacm-3037 : finding <b>prime</b> numbers a new algorithm 
+cacm-2220 : <b>and</b> the communications concept of 
+cacm-1874 : j random <b>number</b> uniform distribution pseudo-random <b>number</b> random <b>number</b> generator multiplicative congruential generator 
+cacm-1497 : divisor in divide <b>and</b> correct methods this paper 
 cacm-3107 : both theoretically <b>and</b> through computer timings it 
+cacm-2764 : an intelligent analyzer <b>and</b> understander of english the 
+cacm-2555 : <b>and</b> ei denotes the error 
+cacm-2378 : supervisor <b>and</b> a set of independent 
+cacm-2606 : with gragg-bulirsh-stoer <b>and</b> the taylor series method 
+cacm-2111 : restricted keyword <b>and</b> symbol tables <b>and</b> the consideration of a 
+cacm-2089 : <b>prime</b> <b>number</b> algorithm 310 $a1 cacm 
+cacm-1717 : extremals <b>and</b> <b>prime</b> implicants of boolean functions 
+cacm-1967 : <b>number</b> theory <b>prime</b> numbers complex numbers 5.39 
+cacm-2986 : relations <b>and</b> whose operators are composition 
+cacm-1697 : for graphically inputting <b>and</b> outputting nonstandard characters on 
+cacm-2289 : array <b>and</b> typical row <b>and</b> column operations are readily 
+cacm-1691 : behavior of random <b>number</b> generators for the ibm 
+cacm-1725 : reduces considerably the <b>number</b> of memory accesses necessary 
+cacm-2341 : formation <b>and</b> text justification <b>and</b> preparation have been programmed 
+cacm-1385 : items <b>and</b> periodical literature for the 
+cacm-1386 : <b>number</b> of steps the algorithm 
+cacm-2927 : <b>prime</b> <b>number</b> generation <b>number</b> theory linked list preprocessing 
+cacm-1171 : of constraints <b>and</b> the <b>number</b> of variables but also 
+cacm-1537 : <b>prime</b> <b>number</b> generator 1 algorithm 310 
+cacm-1862 : in argentina <b>and</b> chile during november 1968 
+cacm-2167 : large expression <b>and</b> second from the point 
+cacm-1094 : <b>prime</b> twins algorithm 223 cacm 
+cacm-2109 : that <b>prime</b> <b>number</b> can be searched cacm 
+cacm-1841 : a <b>prime</b> <b>number</b> generator using the treesort 
+cacm-3021 : factorization <b>prime</b> <b>number</b> electronic mail message-passing electronic 
+cacm-1924 : organizing matrices <b>and</b> matrix operations for paged 
+cacm-2657 : proposed by waldinger <b>and</b> lee in 1969 is 
+cacm-3055 : by dijkstra 1 <b>and</b> meyer 3 dijkstra starts 
+cacm-0116 : evolution <b>and</b> present status of the 
+cacm-2252 : has been received <b>and</b> 4 the parsing <b>and</b> compilation are factored into 
+cacm-2447 : numerical results <b>and</b> computer graphs are given 
+cacm-3027 : <b>and</b> ideas for mu5 are 

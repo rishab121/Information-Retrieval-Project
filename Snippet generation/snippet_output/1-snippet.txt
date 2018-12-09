@@ -1,100 +1,100 @@
-cacm-2621 : the risks involved <b>with</b> storing the passwords in 
-cacm-1173 : of <b>an</b> automatic <b>system</b> <b>for</b> handling the transfers of 
-cacm-2424 : construction of <b>an</b> <b>operating</b> <b>system</b> <b>which</b> does not make certain 
-cacm-3025 : <b>system</b> 10 the dec <b>system</b> 10 also known as 
+cacm-2297 : multiprogrammed computer <b>system</b> <b>operating</b> under demand paging in 
+cacm-2946 : monitor <b>operating</b> <b>system</b> mutual exclusion synchronization conditional 
+cacm-1938 : some criteria <b>for</b> time-sharing <b>system</b> performance time-sharing systems as 
+cacm-1410 : assumption off <b>an</b> exponential distribution <b>for</b> interarrival time a much 
+cacm-2317 : in the <b>operating</b> <b>system</b> area all major computer 
+cacm-2398 : the <b>system</b> in <b>an</b> urban secondary school setting 
+cacm-3068 : of <b>an</b> <b>operating</b> <b>system</b> <b>which</b> are necessary to assure 
+cacm-1854 : the construction of <b>operating</b> systems <b>which</b> are prime examples of 
 cacm-2378 : a supervisory computer <b>an</b> <b>operating</b> <b>system</b> <b>which</b> is organized as a 
+cacm-3065 : have <b>an</b> insertion algorithm <b>operating</b> in o log2 n 
+cacm-2629 : interactive <b>operating</b> <b>system</b> <b>for</b> the digital equipment corporation 
+cacm-1179 : <b>system</b> designed <b>for</b> the ibm 7090/7094 computer 
 cacm-1408 : <b>operating</b> in real time is 
-cacm-0397 : material normally associated <b>with</b> reference files <b>for</b> books <b>articles</b> programming terms hardware terms 
 cacm-1605 : compatible time-sharing <b>system</b> ctss was compared <b>with</b> that of the ibm 
-cacm-2541 : of the language <b>operating</b> <b>system</b> and machine via microcode 
-cacm-1647 : ibm 7040/44 <b>operating</b> <b>system</b> fortran iv was selected 
+cacm-1526 : multiprogramming <b>for</b> a particular computer <b>system</b> using a page on 
+cacm-0699 : is described <b>for</b> use <b>with</b> the ibm 7090 <b>system</b> and <b>an</b> x y-plotter to produce 
+cacm-1767 : <b>which</b> has been developed <b>with</b> the <b>system</b> is presented cacm april 
 cacm-3069 : and to <b>deal</b> <b>with</b> the sharing of variables 
+cacm-1519 : sharing and <b>operating</b> <b>system</b> <b>an</b> <b>operating</b> <b>system</b> is described <b>which</b> will run on a 
+cacm-1033 : the <b>system</b> is <b>with</b> <b>an</b> interpretive translator on <b>an</b> ibm 1620 computer cacm 
+cacm-1195 : tandem <b>system</b> a series of computer 
+cacm-1161 : <b>for</b> a particular <b>system</b> required tedious conversion as 
+cacm-3025 : <b>system</b> 10 the dec <b>system</b> 10 also known as 
+cacm-2372 : a framework <b>for</b> a proposal <b>for</b> general security <b>system</b> implementation within todays languages 
+cacm-1173 : of <b>an</b> automatic <b>system</b> <b>for</b> handling the transfers of 
+cacm-2536 : within <b>an</b> <b>operating</b> <b>system</b> are discussed and it 
+cacm-1464 : in relation to <b>an</b> elaborate <b>operating</b> <b>system</b> <b>an</b> algol translator has been 
+cacm-1591 : a model <b>for</b> a multifunctional teaching <b>system</b> a teaching <b>system</b> model that was incorporated 
+cacm-2379 : <b>operating</b> <b>system</b> the venus <b>operating</b> <b>system</b> is <b>an</b> experimental multiprogramming <b>system</b> <b>which</b> supports five or six 
+cacm-2624 : formal requirements <b>for</b> virtualizable third generation architectures 
+cacm-1225 : <b>for</b> repetitive path elimination <b>for</b> a predictive analyzer <b>which</b> can now claim efficiency 
 cacm-1046 : a compiler-building <b>system</b> developed by brooker and 
+cacm-2951 : response time information <b>for</b> users wishing to process 
+cacm-1542 : <b>an</b> experimental processing <b>system</b> <b>for</b> the algorithmic language euler 
+cacm-1828 : directories <b>for</b> <b>an</b> on-line file <b>system</b> methods <b>for</b> synchronization of processes are 
+cacm-2201 : <b>system</b> <b>which</b> was designed to overcome 
+cacm-2390 : <b>system</b> users of the <b>system</b> can store in the 
+cacm-2003 : <b>an</b> interactive software <b>system</b> <b>for</b> computers-aided design <b>an</b> application to circuit project 
+cacm-2535 : <b>for</b> certain values of <b>system</b> parameters there is noticeable 
+cacm-1462 : multilevel <b>operating</b> systems the basic software 
+cacm-1393 : pm a <b>system</b> <b>for</b> polynomial manipulation pm is 
+cacm-1506 : a small computer <b>an</b> ibm <b>system</b> 360/30 therefore techniques <b>for</b> resource allocation were important 
+cacm-1264 : <b>operating</b> <b>system</b> designed <b>for</b> a 4k 1401 <b>with</b> common optional features and 
+cacm-2365 : <b>operating</b> <b>system</b> <b>which</b> uses paging cacm april 
+cacm-2358 : r c <b>operating</b> <b>system</b> multics virtual memory segmentation 
+cacm-2740 : the <b>operating</b> <b>system</b> is the first large 
+cacm-1805 : <b>operating</b> <b>system</b> <b>system</b> software supervisors performance time 
+cacm-1236 : document retrieval <b>system</b> <b>operating</b> on the ibm 7094 
+cacm-1680 : tutorial <b>system</b> is described this <b>system</b> was designed to improve 
+cacm-0397 : material normally associated <b>with</b> reference files <b>for</b> books <b>articles</b> programming terms hardware terms 
+cacm-1315 : used a manual <b>system</b> of radioisotope accountability <b>for</b> three years the procedure 
+cacm-1750 : <b>operating</b> <b>system</b> <b>with</b> ecs 4.30 4.32 ca680506 
+cacm-2621 : the risks involved <b>with</b> storing the passwords in 
+cacm-2989 : on the dec <b>system</b> 10 isp cacm march 
+cacm-1657 : c <b>operating</b> <b>system</b> memory protection time-sharing multiprogramming 
+cacm-0637 : in <b>which</b> the neliac <b>system</b> was used to generate 
+cacm-1626 : <b>system</b> utilizing a drum <b>for</b> its principal storage medium 
+cacm-2054 : input to <b>an</b> on-line computer processing <b>system</b> <b>an</b> on-line digital computer processing 
+cacm-2357 : on-line computing <b>an</b> on-line <b>system</b> <b>operating</b> as part of a 
+cacm-1572 : <b>an</b> appropriate hardware configuration <b>for</b> these systems but appropriate 
+cacm-0585 : initial experience <b>with</b> <b>an</b> <b>operating</b> multiprogramming <b>system</b> the lewis research center 
+cacm-1168 : file-maintenance-and-retrieval program <b>system</b> written in cobol is 
+cacm-0414 : drive <b>with</b> interchangeable disk packs but 
+cacm-2424 : construction of <b>an</b> <b>operating</b> <b>system</b> <b>which</b> does not make certain 
+cacm-3048 : <b>system</b> simulation of the <b>system</b> model yields the timing 
+cacm-3127 : <b>system</b> thoth isa real-time <b>operating</b> <b>system</b> <b>which</b> is designed to be 
+cacm-2947 : sitar <b>an</b> interactive text processing <b>system</b> <b>for</b> small computers sitar a 
+cacm-2541 : of the language <b>operating</b> <b>system</b> and machine via microcode 
+cacm-1685 : gan a <b>system</b> <b>for</b> generating and analyzing activity 
+cacm-2764 : <b>for</b> natural language <b>which</b> handles paragraph length input 
+cacm-1923 : pseudofiles <b>an</b> approach to <b>system</b> interfaces <b>for</b> high level languages using 
+cacm-2632 : <b>an</b> <b>operating</b> <b>system</b> <b>for</b> cmmp the carnegie-mellon multi-mini-processor 
+cacm-2080 : allocation the <b>system</b> nucleus simulates <b>an</b> environment in <b>which</b> program execution and input/output 
+cacm-0971 : signal control <b>system</b> consists of a variety 
+cacm-1885 : a computer <b>system</b> <b>for</b> transformational grammar a comprehensive 
+cacm-1747 : <b>operating</b> systems <b>operating</b> systems design multiprogramming multiprogrammed 
+cacm-1113 : a satellite containing <b>an</b> attitude control <b>system</b> in the movie a 
+cacm-0698 : <b>an</b> <b>operating</b> <b>system</b> is described <b>which</b> allows users to call 
+cacm-2151 : software scheme <b>for</b> measuring user programs in 
+cacm-1544 : <b>an</b> existing batch processing <b>system</b> a significant element of 
+cacm-1697 : a <b>system</b> developed at harvard <b>for</b> graphically inputting and outputting 
+cacm-1247 : a computer programming <b>system</b> <b>which</b> can serve as <b>an</b> <b>operating</b> environment <b>for</b> dynamic and/or recursive programs 
+cacm-1226 : systems designer <b>with</b> <b>an</b> information source <b>which</b> describes ten techniques that 
+cacm-1523 : a simple scheme <b>for</b> <b>system</b> extension <b>for</b> a machine <b>with</b> only one relocation and 
+cacm-1753 : the multics <b>operating</b> <b>system</b> are introduced multics concepts 
 cacm-1844 : <b>an</b> alternative approach to the 
 cacm-2380 : <b>system</b> <b>for</b> the pdp-10 tenex is 
-cacm-2080 : allocation the <b>system</b> nucleus simulates <b>an</b> environment in <b>which</b> program execution and input/output 
-cacm-1749 : w <b>operating</b> <b>system</b> multiprogramming <b>system</b> <b>system</b> hierarchy <b>system</b> structure real-time debugging program 
-cacm-2358 : r c <b>operating</b> <b>system</b> multics virtual memory segmentation 
-cacm-1113 : a satellite containing <b>an</b> attitude control <b>system</b> in the movie a 
-cacm-2947 : sitar <b>an</b> interactive text processing <b>system</b> <b>for</b> small computers sitar a 
-cacm-1393 : pm a <b>system</b> <b>for</b> polynomial manipulation pm is 
-cacm-2317 : in the <b>operating</b> <b>system</b> area all major computer 
-cacm-0971 : signal control <b>system</b> consists of a variety 
-cacm-2946 : monitor <b>operating</b> <b>system</b> mutual exclusion synchronization conditional 
-cacm-1572 : <b>an</b> appropriate hardware configuration <b>for</b> these systems but appropriate 
-cacm-1544 : <b>an</b> existing batch processing <b>system</b> a significant element of 
-cacm-2003 : <b>an</b> interactive software <b>system</b> <b>for</b> computers-aided design <b>an</b> application to circuit project 
-cacm-1168 : file-maintenance-and-retrieval program <b>system</b> written in cobol is 
-cacm-1247 : a computer programming <b>system</b> <b>which</b> can serve as <b>an</b> <b>operating</b> environment <b>for</b> dynamic and/or recursive programs 
-cacm-2390 : <b>system</b> users of the <b>system</b> can store in the 
-cacm-1179 : <b>system</b> designed <b>for</b> the ibm 7090/7094 computer 
-cacm-2365 : <b>operating</b> <b>system</b> <b>which</b> uses paging cacm april 
-cacm-1862 : than <b>an</b> ibm 360/40 <b>with</b> some exception computing science 
-cacm-2151 : software scheme <b>for</b> measuring user programs in 
-cacm-0585 : initial experience <b>with</b> <b>an</b> <b>operating</b> multiprogramming <b>system</b> the lewis research center 
-cacm-1685 : gan a <b>system</b> <b>for</b> generating and analyzing activity 
-cacm-2500 : purpose <b>operating</b> <b>system</b> keeps resources relatively active 
-cacm-2989 : on the dec <b>system</b> 10 isp cacm march 
-cacm-1753 : the multics <b>operating</b> <b>system</b> are introduced multics concepts 
-cacm-2379 : <b>operating</b> <b>system</b> the venus <b>operating</b> <b>system</b> is <b>an</b> experimental multiprogramming <b>system</b> <b>which</b> supports five or six 
-cacm-1225 : <b>for</b> repetitive path elimination <b>for</b> a predictive analyzer <b>which</b> can now claim efficiency 
-cacm-2535 : <b>for</b> certain values of <b>system</b> parameters there is noticeable 
-cacm-3011 : governments <b>with</b> professional management practices where 
-cacm-2764 : <b>for</b> natural language <b>which</b> handles paragraph length input 
-cacm-3048 : <b>system</b> simulation of the <b>system</b> model yields the timing 
-cacm-1523 : a simple scheme <b>for</b> <b>system</b> extension <b>for</b> a machine <b>with</b> only one relocation and 
-cacm-0414 : drive <b>with</b> interchangeable disk packs but 
-cacm-2740 : the <b>operating</b> <b>system</b> is the first large 
-cacm-1938 : some criteria <b>for</b> time-sharing <b>system</b> performance time-sharing systems as 
-cacm-1750 : <b>operating</b> <b>system</b> <b>with</b> ecs 4.30 4.32 ca680506 
-cacm-1410 : assumption off <b>an</b> exponential distribution <b>for</b> interarrival time a much 
-cacm-3127 : <b>system</b> thoth isa real-time <b>operating</b> <b>system</b> <b>which</b> is designed to be 
-cacm-1657 : c <b>operating</b> <b>system</b> memory protection time-sharing multiprogramming 
-cacm-1923 : pseudofiles <b>an</b> approach to <b>system</b> interfaces <b>for</b> high level languages using 
-cacm-1805 : <b>operating</b> <b>system</b> <b>system</b> software supervisors performance time 
-cacm-3065 : have <b>an</b> insertion algorithm <b>operating</b> in o log2 n 
-cacm-1161 : <b>for</b> a particular <b>system</b> required tedious conversion as 
-cacm-0637 : in <b>which</b> the neliac <b>system</b> was used to generate 
-cacm-2951 : response time information <b>for</b> users wishing to process 
-cacm-2201 : <b>system</b> <b>which</b> was designed to overcome 
-cacm-1626 : <b>system</b> utilizing a drum <b>for</b> its principal storage medium 
-cacm-1519 : sharing and <b>operating</b> <b>system</b> <b>an</b> <b>operating</b> <b>system</b> is described <b>which</b> will run on a 
-cacm-1960 : in the multiaccess <b>system</b> esope the main design 
-cacm-2398 : the <b>system</b> in <b>an</b> urban secondary school setting 
-cacm-1236 : document retrieval <b>system</b> <b>operating</b> on the ibm 7094 
-cacm-1542 : <b>an</b> experimental processing <b>system</b> <b>for</b> the algorithmic language euler 
-cacm-1341 : <b>system</b> we break our problems 
-cacm-3068 : of <b>an</b> <b>operating</b> <b>system</b> <b>which</b> are necessary to assure 
-cacm-1506 : a small computer <b>an</b> ibm <b>system</b> 360/30 therefore techniques <b>for</b> resource allocation were important 
-cacm-1827 : programs <b>which</b> are unrelated to <b>system</b> actions are recorded <b>with</b> a supervisor call the 
-cacm-1854 : the construction of <b>operating</b> systems <b>which</b> are prime examples of 
-cacm-1526 : multiprogramming <b>for</b> a particular computer <b>system</b> using a page on 
-cacm-1747 : <b>operating</b> systems <b>operating</b> systems design multiprogramming multiprogrammed 
-cacm-1033 : the <b>system</b> is <b>with</b> <b>an</b> interpretive translator on <b>an</b> ibm 1620 computer cacm 
-cacm-2536 : within <b>an</b> <b>operating</b> <b>system</b> are discussed and it 
-cacm-1264 : <b>operating</b> <b>system</b> designed <b>for</b> a 4k 1401 <b>with</b> common optional features and 
-cacm-1885 : a computer <b>system</b> <b>for</b> transformational grammar a comprehensive 
-cacm-1680 : tutorial <b>system</b> is described this <b>system</b> was designed to improve 
-cacm-2624 : formal requirements <b>for</b> virtualizable third generation architectures 
-cacm-1226 : systems designer <b>with</b> <b>an</b> information source <b>which</b> describes ten techniques that 
-cacm-2950 : <b>system</b> <b>which</b> formalizes the notion of 
-cacm-2629 : interactive <b>operating</b> <b>system</b> <b>for</b> the digital equipment corporation 
-cacm-0699 : is described <b>for</b> use <b>with</b> the ibm 7090 <b>system</b> and <b>an</b> x y-plotter to produce 
-cacm-2632 : <b>an</b> <b>operating</b> <b>system</b> <b>for</b> cmmp the carnegie-mellon multi-mini-processor 
-cacm-2319 : various subsystems of <b>an</b> <b>operating</b> <b>system</b> <b>an</b> overall model of the 
-cacm-1828 : directories <b>for</b> <b>an</b> on-line file <b>system</b> methods <b>for</b> synchronization of processes are 
-cacm-1698 : <b>system</b> to communicate <b>with</b> the outside world efficiently 
-cacm-0698 : <b>an</b> <b>operating</b> <b>system</b> is described <b>which</b> allows users to call 
-cacm-2357 : on-line computing <b>an</b> on-line <b>system</b> <b>operating</b> as part of a 
-cacm-2372 : a framework <b>for</b> a proposal <b>for</b> general security <b>system</b> implementation within todays languages 
-cacm-1195 : tandem <b>system</b> a series of computer 
-cacm-1462 : multilevel <b>operating</b> systems the basic software 
-cacm-1464 : in relation to <b>an</b> elaborate <b>operating</b> <b>system</b> <b>an</b> algol translator has been 
-cacm-1315 : used a manual <b>system</b> of radioisotope accountability <b>for</b> three years the procedure 
-cacm-1697 : a <b>system</b> developed at harvard <b>for</b> graphically inputting and outputting 
 cacm-2219 : a policy-driven scheduler <b>for</b> a time-sharing <b>system</b> the service received by 
-cacm-2054 : input to <b>an</b> on-line computer processing <b>system</b> <b>an</b> on-line digital computer processing 
-cacm-2297 : multiprogrammed computer <b>system</b> <b>operating</b> under demand paging in 
-cacm-1767 : <b>which</b> has been developed <b>with</b> the <b>system</b> is presented cacm april 
-cacm-1591 : a model <b>for</b> a multifunctional teaching <b>system</b> a teaching <b>system</b> model that was incorporated 
+cacm-1862 : than <b>an</b> ibm 360/40 <b>with</b> some exception computing science 
+cacm-2950 : <b>system</b> <b>which</b> formalizes the notion of 
+cacm-1341 : <b>system</b> we break our problems 
 cacm-2371 : a <b>system</b> <b>for</b> interprocess communication in a 
+cacm-1960 : in the multiaccess <b>system</b> esope the main design 
+cacm-2319 : various subsystems of <b>an</b> <b>operating</b> <b>system</b> <b>an</b> overall model of the 
+cacm-2500 : purpose <b>operating</b> <b>system</b> keeps resources relatively active 
+cacm-1749 : w <b>operating</b> <b>system</b> multiprogramming <b>system</b> <b>system</b> hierarchy <b>system</b> structure real-time debugging program 
+cacm-1647 : ibm 7040/44 <b>operating</b> <b>system</b> fortran iv was selected 
+cacm-3011 : governments <b>with</b> professional management practices where 
+cacm-1827 : programs <b>which</b> are unrelated to <b>system</b> actions are recorded <b>with</b> a supervisor call the 
+cacm-1698 : <b>system</b> to communicate <b>with</b> the outside world efficiently 

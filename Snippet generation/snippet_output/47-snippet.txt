@@ -1,100 +1,100 @@
-cacm-2795 : structures <b>the</b> program employs both <b>the</b> <b>information</b> <b>retrieval</b> and deduction capabilities <b>of</b> <b>the</b> memory model <b>the</b> model encompasses several diverse 
+cacm-2046 : application programs <b>should</b> remain unaffected <b>when</b> <b>the</b> internal representation <b>of</b> data is changed and 
+cacm-1359 : data filtering applied <b>to</b> <b>information</b> storage and <b>retrieval</b> applications manipulation <b>of</b> data strings is <b>the</b> most complex processing function 
+cacm-2832 : be cached <b>to</b> speed up <b>retrieval</b> <b>a</b> <b>retrieval</b> is started from <b>the</b> position <b>of</b> <b>the</b> previous <b>retrieval</b> and auxiliary structures are 
+cacm-3134 : <b>the</b> appropriateness <b>of</b> <b>the</b> above approach <b>to</b> <b>a</b> given <b>information</b> <b>system</b> are described for <b>a</b> certain class <b>of</b> <b>information</b> systems <b>the</b> normal multiplication table method 
+cacm-2765 : <b>determine</b> <b>the</b> optimum set <b>of</b> index keys cacm may 
+cacm-3096 : <b>the</b> number <b>of</b> nodes in <b>the</b> tree moreover <b>the</b> method is optimal in 
+cacm-2970 : <b>use</b> <b>of</b> <b>the</b> regenerative property <b>of</b> queueing systems in <b>the</b> analysis <b>of</b> simulation <b>output</b> in particular it describes 
+cacm-2968 : <b>a</b> level believed <b>to</b> be language-and compiler-independent <b>the</b> quality <b>of</b> <b>the</b> resulting trees and <b>the</b> overhead spent on building 
+cacm-1681 : illustration <b>of</b> <b>the</b> transformations performed upon <b>a</b> sample request up <b>to</b> <b>the</b> point at which <b>the</b> request string is sent 
+cacm-2390 : <b>of</b> <b>the</b> problems created by <b>the</b> explosion <b>of</b> papers in <b>the</b> mathematical sciences and <b>the</b> drawbacks that this places 
+cacm-0944 : <b>the</b> processing <b>the</b> purpose <b>of</b> this paper is <b>to</b> examine <b>the</b> storage and search properties 
+cacm-2092 : <b>of</b> <b>the</b> systems performance and <b>of</b> <b>the</b> limitations <b>of</b> its question-answering capability are 
+cacm-2645 : <b>user</b> <b>to</b> operate on <b>the</b> formula produced by <b>the</b> first processor examples <b>of</b> <b>the</b> usage <b>of</b> <b>the</b> two languages are included 
+cacm-1935 : <b>the</b> mean and variance <b>of</b> <b>the</b> number <b>of</b> trials <b>to</b> recover <b>a</b> given document in <b>a</b> randomly received list <b>of</b> files <b>the</b> search method described is 
+cacm-1700 : <b>the</b> idea <b>of</b> superimposed punching <b>to</b> produce <b>a</b> programming technique which cuts 
+cacm-1456 : <b>the</b> logic <b>of</b> question answering examples <b>of</b> methods <b>of</b> inputting <b>information</b> and answering simple english 
+cacm-2370 : and <b>output</b> facilities and <b>a</b> variety <b>of</b> other experimental equipment <b>the</b> <b>system</b> design and programming support 
+cacm-1412 : banking <b>information</b> <b>system</b> <b>the</b> banking <b>information</b> <b>system</b> now serves <b>the</b> two-fold purpose <b>of</b> providing real-time responses <b>to</b> inquires about individual account 
+cacm-1526 : average usage <b>of</b> <b>the</b> cpu <b>when</b> <b>user</b> programs are typical <b>of</b> those arising from an 
 cacm-1527 : <b>the</b> subject <b>of</b> this paper is <b>a</b> procedure for <b>the</b> automatic <b>retrieval</b> <b>of</b> certain segments <b>of</b> stored <b>information</b> either explicitly or implicitly 
 cacm-2722 : <b>the</b> dimensionality <b>of</b> <b>the</b> search space as <b>a</b> data structure for storage 
-cacm-2358 : hardware addressing by <b>user</b> and <b>system</b> programs <b>of</b> all <b>information</b> independent <b>of</b> its physical storage location 
-cacm-2991 : decrease <b>the</b> number <b>of</b> maximum probes needed <b>to</b> locate <b>a</b> record <b>the</b> combined effects <b>of</b> these techniques lead <b>to</b> improved file performance for 
-cacm-1935 : <b>the</b> mean and variance <b>of</b> <b>the</b> number <b>of</b> trials <b>to</b> recover <b>a</b> given document in <b>a</b> randomly received list <b>of</b> files <b>the</b> search method described is 
-cacm-1651 : in identification eg <b>of</b> row constraints <b>the</b> article <b>includes</b> examples <b>of</b> input <b>output</b> from <b>a</b> solution routine presently in 
-cacm-2882 : this paper discusses <b>a</b> simulation model <b>of</b> <b>a</b> data <b>retrieval</b> <b>system</b> which has <b>the</b> effect <b>of</b> significantly reducing <b>the</b> cost <b>of</b> experimentation and enabling research 
+cacm-1194 : <b>the</b> ir <b>system</b> applied <b>to</b> its operation <b>the</b> history <b>of</b> <b>the</b> establishment <b>of</b> <b>the</b> acm repository at <b>the</b> moore school university <b>of</b> pennsylvania is reviewed briefly 
+cacm-1976 : 2 <b>the</b> elimination <b>of</b> false drops 3 <b>the</b> elimination <b>of</b> computer time <b>to</b> perform intersection <b>of</b> key sets each qualified 
+cacm-1489 : programs and <b>decision</b> <b>rules</b> in <b>a</b> way that adequately represents 
+cacm-1108 : <b>to</b> define <b>a</b> tracking <b>system</b> for observation <b>of</b> <b>the</b> sight line <b>to</b> <b>the</b> center <b>of</b> <b>a</b> partially illuminated moon <b>the</b> data processing portion <b>of</b> <b>the</b> <b>system</b> is presented in detail 
+cacm-2828 : <b>the</b> resolvable parts <b>of</b> <b>the</b> environment within <b>the</b> field <b>of</b> view fourth frame <b>to</b> frame coherence and clipping 
 cacm-2889 : is <b>a</b> function <b>of</b> <b>the</b> size <b>of</b> <b>the</b> tree is <b>the</b> time <b>to</b> search for an item 
-cacm-1627 : application <b>of</b> level changing <b>to</b> <b>a</b> multilevel storage organization <b>a</b> technique for organizing <b>the</b> devices <b>of</b> <b>a</b> computer storage <b>system</b> is described this technique 
-cacm-2848 : <b>decision</b> <b>rules</b> <b>the</b> purpose <b>of</b> this paper is <b>to</b> provide <b>a</b> procedure for synthesizing <b>the</b> <b>decision</b> <b>rules</b> and thus provide an 
-cacm-2453 : <b>information</b> theory applied <b>to</b> <b>the</b> conversion <b>of</b> <b>decision</b> tables <b>to</b> computer programs using ideas 
-cacm-3095 : process <b>of</b> visiting <b>a</b> minimal number <b>of</b> nodes <b>to</b> retrieve data satisfying <b>the</b> range conditions is called 
 cacm-3070 : model <b>the</b> arrival and activation <b>of</b> jobs and <b>a</b> central-server queueing network <b>models</b> <b>the</b> <b>use</b> <b>of</b> <b>system</b> processors <b>the</b> accuracy and efficiency <b>of</b> <b>the</b> hybrid technique are demonstrated 
-cacm-3012 : influencing <b>the</b> <b>use</b> <b>of</b> this <b>system</b> <b>the</b> implications <b>of</b> <b>the</b> study for <b>the</b> design <b>of</b> similar systems are discussed 
-cacm-2288 : its existence enables <b>the</b> design <b>of</b> an <b>information</b> <b>retrieval</b> <b>system</b> with <b>a</b> minimal search time and 
-cacm-2970 : <b>use</b> <b>of</b> <b>the</b> regenerative property <b>of</b> queueing systems in <b>the</b> analysis <b>of</b> simulation <b>output</b> in particular it describes 
-cacm-0944 : <b>the</b> processing <b>the</b> purpose <b>of</b> this paper is <b>to</b> examine <b>the</b> storage and search properties 
-cacm-1936 : obtained as <b>a</b> function <b>of</b> <b>the</b> number <b>of</b> terminal nodes <b>the</b> storage capacity required <b>to</b> implement <b>the</b> doubly-chained tree structure on 
-cacm-2451 : <b>a</b> standard <b>information</b> <b>retrieval</b> operation is <b>to</b> <b>determine</b> which records in <b>a</b> data collection satisfy <b>a</b> given query expressed in 
+cacm-2314 : overview <b>of</b> <b>a</b> number <b>of</b> <b>system</b> features which <b>the</b> author feels are important 
+cacm-2716 : approach for implementing <b>a</b> smart interface <b>to</b> support <b>a</b> relational view <b>of</b> data is proposed <b>the</b> basic idea is <b>to</b> employ automatic programming techniques 
+cacm-2198 : discussion <b>of</b> <b>the</b> problem <b>of</b> catering <b>to</b> <b>a</b> high volume <b>of</b> transactions initiated from terminals 
+cacm-2786 : describes <b>the</b> design and implementation <b>of</b> <b>a</b> <b>system</b> for typesetting mathematics <b>the</b> language has been designed 
+cacm-2882 : this paper discusses <b>a</b> simulation model <b>of</b> <b>a</b> data <b>retrieval</b> <b>system</b> which has <b>the</b> effect <b>of</b> significantly reducing <b>the</b> cost <b>of</b> experimentation and enabling research 
+cacm-2848 : <b>decision</b> <b>rules</b> <b>the</b> purpose <b>of</b> this paper is <b>to</b> provide <b>a</b> procedure for synthesizing <b>the</b> <b>decision</b> <b>rules</b> and thus provide an 
+cacm-2991 : decrease <b>the</b> number <b>of</b> maximum probes needed <b>to</b> locate <b>a</b> record <b>the</b> combined effects <b>of</b> these techniques lead <b>to</b> improved file performance for 
+cacm-2552 : <b>a</b> note on <b>when</b> <b>to</b> chain overflow items within 
+cacm-1457 : in automatic <b>information</b> <b>retrieval</b> automatic <b>information</b> <b>retrieval</b> programs require <b>the</b> manipulation <b>of</b> <b>a</b> variety <b>of</b> different data structures including 
+cacm-1307 : composing commands <b>to</b> <b>the</b> computer in <b>the</b> <b>system</b> described <b>the</b> <b>user</b> is not required <b>to</b> learn or remember <b>the</b> vocabulary <b>of</b> <b>the</b> language because <b>the</b> vocabulary is displayed before 
 cacm-2388 : is possible <b>to</b> reduce <b>the</b> average <b>retrieval</b> time by restructuring <b>the</b> tree <b>to</b> make <b>the</b> branches as uniform in 
-cacm-2711 : function <b>of</b> <b>the</b> density <b>of</b> <b>the</b> object space in particular 
-cacm-3135 : crystallography fitting <b>a</b> structure or <b>a</b> structural fragment <b>to</b> <b>a</b> set <b>of</b> peaks in <b>the</b> electron-density distribution <b>of</b> <b>a</b> fourier map 3 in 
-cacm-2516 : are derived <b>to</b> predict <b>the</b> effect <b>of</b> such <b>a</b> <b>system</b> on data access times 
+cacm-3095 : process <b>of</b> visiting <b>a</b> minimal number <b>of</b> nodes <b>to</b> retrieve data satisfying <b>the</b> range conditions is called 
 cacm-2203 : terms <b>of</b> <b>the</b> number <b>of</b> accesses required <b>to</b> get <b>to</b> <b>a</b> record and <b>the</b> number <b>of</b> overflow records created by 
-cacm-2390 : <b>of</b> <b>the</b> problems created by <b>the</b> explosion <b>of</b> papers in <b>the</b> mathematical sciences and <b>the</b> drawbacks that this places 
+cacm-1524 : one <b>to</b> terminate <b>the</b> iteration process on <b>the</b> basis <b>of</b> calculated bounds for <b>the</b> roundoff error which occurs 
+cacm-1699 : experimental evaluation <b>of</b> <b>information</b> <b>retrieval</b> through <b>a</b> teletypewriter experiments designed <b>to</b> evaluate <b>the</b> capabilities <b>of</b> mechanized <b>information</b> <b>retrieval</b> systems with emphasis on 
+cacm-2979 : that <b>should</b> have <b>a</b> fairly wide range <b>of</b> applicability <b>the</b> <b>models</b> <b>of</b> human judgment choice and 
+cacm-2561 : available <b>information</b> <b>the</b> procedures make <b>use</b> <b>of</b> <b>a</b> similarity structure which is 
+cacm-3041 : search tree <b>a</b> discussion <b>of</b> <b>the</b> application <b>of</b> msts <b>to</b> dictionary lookup for english 
+cacm-1652 : computer <b>system</b> with respect <b>to</b> non-numeric applications and <b>to</b> maximize <b>the</b> transfer rate <b>of</b> <b>the</b> <b>information</b> channel linking <b>the</b> <b>system</b> and <b>the</b> <b>system</b> <b>user</b> <b>the</b> code has direct application 
+cacm-3084 : <b>the</b> value <b>of</b> <b>the</b> key and <b>the</b> statistical distribution <b>of</b> <b>the</b> keys it is shown 
+cacm-2746 : <b>a</b> simple efficient algorithm <b>to</b> locate all occurrences <b>of</b> any <b>of</b> <b>a</b> finite number <b>of</b> keywords in <b>a</b> string <b>of</b> text <b>the</b> algorithm consists <b>of</b> constructing <b>a</b> finite state pattern matching 
+cacm-1651 : in identification eg <b>of</b> row constraints <b>the</b> article <b>includes</b> examples <b>of</b> input <b>output</b> from <b>a</b> solution routine presently in 
+cacm-2726 : reducing <b>the</b> number <b>of</b> <b>decision</b> <b>rules</b> this often improves <b>the</b> clarity <b>of</b> <b>the</b> <b>decision</b> table <b>to</b> <b>a</b> human reader it will 
+cacm-2650 : reasonable correction for <b>the</b> possibly erroneous string <b>a</b> where <b>a</b> was originally intended <b>to</b> be <b>a</b> string <b>of</b> l <b>the</b> calculation <b>of</b> b by <b>the</b> method presented requires time 
+cacm-2484 : given set <b>of</b> objects <b>the</b> <b>use</b> <b>of</b> different relations and algorithms 
+cacm-1506 : means <b>of</b> <b>a</b> dialogue between <b>a</b> <b>system</b> <b>user</b> and <b>a</b> <b>retrieval</b> application <b>the</b> monitor was designed so 
+cacm-2860 : <b>a</b> number <b>of</b> popular <b>rules</b> <b>of</b> thumb which have been 
+cacm-2535 : <b>the</b> effects <b>of</b> multiplexing on <b>a</b> computer-communications <b>system</b> <b>a</b> study is made <b>of</b> <b>the</b> way in which asynchronous 
+cacm-2358 : hardware addressing by <b>user</b> and <b>system</b> programs <b>of</b> all <b>information</b> independent <b>of</b> its physical storage location 
+cacm-1427 : using <b>the</b> <b>output</b> <b>of</b> <b>the</b> simulator has shown <b>the</b> flexibility <b>of</b> <b>the</b> <b>system</b> <b>to</b> be important <b>the</b> structure <b>of</b> this program can be 
+cacm-1236 : <b>the</b> smart automatic document <b>retrieval</b> system-an illustration <b>a</b> fully automatic document <b>retrieval</b> <b>system</b> operating on <b>the</b> ibm 7094 is described 
+cacm-1680 : <b>the</b> operating <b>system</b> <b>to</b> perform other jobs it 
+cacm-1936 : obtained as <b>a</b> function <b>of</b> <b>the</b> number <b>of</b> terminal nodes <b>the</b> storage capacity required <b>to</b> implement <b>the</b> doubly-chained tree structure on 
+cacm-2372 : on <b>the</b> implementation <b>of</b> security measures in <b>information</b> systems <b>the</b> security <b>of</b> an <b>information</b> <b>system</b> may be represented by 
+cacm-2846 : parameter <b>of</b> <b>the</b> trie but whereas <b>the</b> fields <b>of</b> <b>the</b> nodes in <b>a</b> trie have <b>to</b> be large enough <b>to</b> hold <b>a</b> key or at least 
+cacm-2795 : structures <b>the</b> program employs both <b>the</b> <b>information</b> <b>retrieval</b> and deduction capabilities <b>of</b> <b>the</b> memory model <b>the</b> model encompasses several diverse 
+cacm-1695 : description is presented <b>of</b> plexus <b>a</b> <b>system</b> which enables <b>a</b> <b>user</b> <b>to</b> construct and specify <b>a</b> neural network <b>to</b> analyze <b>the</b> <b>output</b> data produced by <b>the</b> network and <b>to</b> store and retrieve networks 
+cacm-2288 : its existence enables <b>the</b> design <b>of</b> an <b>information</b> <b>retrieval</b> <b>system</b> with <b>a</b> minimal search time and 
+cacm-2669 : will suffice <b>the</b> simple model combines <b>the</b> effect <b>of</b> <b>the</b> <b>information</b> reference pattern with <b>the</b> effect <b>of</b> <b>the</b> automatic management algorithm <b>to</b> produce <b>a</b> single composite statement <b>the</b> mean number <b>of</b> memory references between paging 
+cacm-2516 : are derived <b>to</b> predict <b>the</b> effect <b>of</b> such <b>a</b> <b>system</b> on data access times 
+cacm-1747 : influences affecting <b>the</b> content and extent <b>of</b> his computers <b>output</b> <b>to</b> define <b>the</b> scope <b>of</b> <b>the</b> criteria <b>the</b> notion <b>of</b> an abstract machine <b>of</b> <b>a</b> programming language and <b>the</b> notion <b>of</b> <b>a</b> virtual computer are explained 
+cacm-2033 : size <b>of</b> <b>the</b> hash area space <b>the</b> time required <b>to</b> identify <b>a</b> message as <b>a</b> nonmember <b>of</b> <b>the</b> given set reject time 
+cacm-2580 : applicability <b>rules</b> and weight <b>rules</b> which operate on <b>the</b> productions deciding <b>when</b> and <b>to</b> what extent they are 
+cacm-1514 : evaluates <b>the</b> gain parameters for <b>a</b> typical <b>information</b> <b>retrieval</b> <b>system</b> cacm november 1967 shumway 
+cacm-3087 : detailed examples <b>of</b> <b>the</b> operation <b>of</b> <b>system</b> components and examples <b>of</b> overall <b>system</b> operation <b>the</b> language processing portion <b>of</b> <b>the</b> <b>system</b> uses <b>a</b> number <b>of</b> augmented transition networks each 
+cacm-2947 : function <b>a</b> file and <b>a</b> search template consisting <b>of</b> <b>the</b> textual string desired and 
+cacm-2598 : <b>to</b> explore <b>the</b> limitations <b>of</b> algorithms used <b>to</b> solve <b>the</b> <b>decision</b> table problem <b>the</b> analogy between <b>the</b> two problems is also 
+cacm-3135 : crystallography fitting <b>a</b> structure or <b>a</b> structural fragment <b>to</b> <b>a</b> set <b>of</b> peaks in <b>the</b> electron-density distribution <b>of</b> <b>a</b> fourier map 3 in 
+cacm-3012 : influencing <b>the</b> <b>use</b> <b>of</b> this <b>system</b> <b>the</b> implications <b>of</b> <b>the</b> study for <b>the</b> design <b>of</b> similar systems are discussed 
+cacm-2537 : <b>a</b> mathematical optimization problem <b>determine</b> how each message <b>should</b> <b>use</b> <b>the</b> available phrases <b>to</b> minimize its storage requirement 
+cacm-1855 : certain transformational <b>rules</b> are described <b>a</b> number <b>of</b> examples <b>of</b> <b>output</b> produced by <b>the</b> program are given <b>the</b> <b>output</b> <b>includes</b> timing <b>information</b> cacm august 1969 dewar 
+cacm-2978 : studies which compare <b>the</b> <b>retrieval</b> costs <b>of</b> <b>the</b> alternatives qualitative comparisons <b>of</b> <b>the</b> main tenance costs insertion 
+cacm-2622 : <b>to</b> only <b>the</b> authentication program <b>the</b> integrity <b>of</b> <b>the</b> <b>system</b> depends on keeping <b>the</b> table secret in this 
+cacm-2451 : <b>a</b> standard <b>information</b> <b>retrieval</b> operation is <b>to</b> <b>determine</b> which records in <b>a</b> data collection satisfy <b>a</b> given query expressed in 
+cacm-1032 : theoretical considerations in <b>information</b> <b>retrieval</b> systems <b>information</b> storage and <b>retrieval</b> systems are composed <b>of</b> three major components <b>a</b> identification <b>of</b> <b>information</b> and tagging it for 
+cacm-2453 : <b>information</b> theory applied <b>to</b> <b>the</b> conversion <b>of</b> <b>decision</b> tables <b>to</b> computer programs using ideas 
+cacm-2711 : function <b>of</b> <b>the</b> density <b>of</b> <b>the</b> object space in particular 
 cacm-3163 : <b>the</b> result <b>of</b> this paper gives <b>a</b> negative answer <b>to</b> <b>the</b> question <b>of</b> whether such trees <b>should</b> be <b>the</b> first examples <b>of</b> their kind where deletion 
 cacm-0440 : making nearly maximum <b>use</b> <b>of</b> items <b>of</b> identifying <b>information</b> that are individually unreliable 
-cacm-3096 : <b>the</b> number <b>of</b> nodes in <b>the</b> tree moreover <b>the</b> method is optimal in 
-cacm-2828 : <b>the</b> resolvable parts <b>of</b> <b>the</b> environment within <b>the</b> field <b>of</b> view fourth frame <b>to</b> frame coherence and clipping 
-cacm-1457 : in automatic <b>information</b> <b>retrieval</b> automatic <b>information</b> <b>retrieval</b> programs require <b>the</b> manipulation <b>of</b> <b>a</b> variety <b>of</b> different data structures including 
-cacm-1700 : <b>the</b> idea <b>of</b> superimposed punching <b>to</b> produce <b>a</b> programming technique which cuts 
-cacm-2552 : <b>a</b> note on <b>when</b> <b>to</b> chain overflow items within 
-cacm-2979 : that <b>should</b> have <b>a</b> fairly wide range <b>of</b> applicability <b>the</b> <b>models</b> <b>of</b> human judgment choice and 
-cacm-2631 : <b>retrieval</b> namely <b>the</b> maintenance and <b>use</b> <b>of</b> large dictionaries <b>the</b> greater part <b>of</b> which is used only 
-cacm-2650 : reasonable correction for <b>the</b> possibly erroneous string <b>a</b> where <b>a</b> was originally intended <b>to</b> be <b>a</b> string <b>of</b> l <b>the</b> calculation <b>of</b> b by <b>the</b> method presented requires time 
-cacm-1194 : <b>the</b> ir <b>system</b> applied <b>to</b> its operation <b>the</b> history <b>of</b> <b>the</b> establishment <b>of</b> <b>the</b> acm repository at <b>the</b> moore school university <b>of</b> pennsylvania is reviewed briefly 
-cacm-1427 : using <b>the</b> <b>output</b> <b>of</b> <b>the</b> simulator has shown <b>the</b> flexibility <b>of</b> <b>the</b> <b>system</b> <b>to</b> be important <b>the</b> structure <b>of</b> this program can be 
-cacm-2535 : <b>the</b> effects <b>of</b> multiplexing on <b>a</b> computer-communications <b>system</b> <b>a</b> study is made <b>of</b> <b>the</b> way in which asynchronous 
-cacm-1524 : one <b>to</b> terminate <b>the</b> iteration process on <b>the</b> basis <b>of</b> calculated bounds for <b>the</b> roundoff error which occurs 
-cacm-2484 : given set <b>of</b> objects <b>the</b> <b>use</b> <b>of</b> different relations and algorithms 
-cacm-2669 : will suffice <b>the</b> simple model combines <b>the</b> effect <b>of</b> <b>the</b> <b>information</b> reference pattern with <b>the</b> effect <b>of</b> <b>the</b> automatic management algorithm <b>to</b> produce <b>a</b> single composite statement <b>the</b> mean number <b>of</b> memory references between paging 
-cacm-2726 : reducing <b>the</b> number <b>of</b> <b>decision</b> <b>rules</b> this often improves <b>the</b> clarity <b>of</b> <b>the</b> <b>decision</b> table <b>to</b> <b>a</b> human reader it will 
-cacm-1456 : <b>the</b> logic <b>of</b> question answering examples <b>of</b> methods <b>of</b> inputting <b>information</b> and answering simple english 
-cacm-2860 : <b>a</b> number <b>of</b> popular <b>rules</b> <b>of</b> thumb which have been 
-cacm-2978 : studies which compare <b>the</b> <b>retrieval</b> costs <b>of</b> <b>the</b> alternatives qualitative comparisons <b>of</b> <b>the</b> main tenance costs insertion 
-cacm-1307 : composing commands <b>to</b> <b>the</b> computer in <b>the</b> <b>system</b> described <b>the</b> <b>user</b> is not required <b>to</b> learn or remember <b>the</b> vocabulary <b>of</b> <b>the</b> language because <b>the</b> vocabulary is displayed before 
-cacm-2746 : <b>a</b> simple efficient algorithm <b>to</b> locate all occurrences <b>of</b> any <b>of</b> <b>a</b> finite number <b>of</b> keywords in <b>a</b> string <b>of</b> text <b>the</b> algorithm consists <b>of</b> constructing <b>a</b> finite state pattern matching 
-cacm-2645 : <b>user</b> <b>to</b> operate on <b>the</b> formula produced by <b>the</b> first processor examples <b>of</b> <b>the</b> usage <b>of</b> <b>the</b> two languages are included 
-cacm-2561 : available <b>information</b> <b>the</b> procedures make <b>use</b> <b>of</b> <b>a</b> similarity structure which is 
-cacm-2765 : <b>determine</b> <b>the</b> optimum set <b>of</b> index keys cacm may 
-cacm-3084 : <b>the</b> value <b>of</b> <b>the</b> key and <b>the</b> statistical distribution <b>of</b> <b>the</b> keys it is shown 
-cacm-1699 : experimental evaluation <b>of</b> <b>information</b> <b>retrieval</b> through <b>a</b> teletypewriter experiments designed <b>to</b> evaluate <b>the</b> capabilities <b>of</b> mechanized <b>information</b> <b>retrieval</b> systems with emphasis on 
-cacm-2033 : size <b>of</b> <b>the</b> hash area space <b>the</b> time required <b>to</b> identify <b>a</b> message as <b>a</b> nonmember <b>of</b> <b>the</b> given set reject time 
-cacm-2092 : <b>of</b> <b>the</b> systems performance and <b>of</b> <b>the</b> limitations <b>of</b> its question-answering capability are 
-cacm-1415 : <b>of</b> natural language messages <b>to</b> explore <b>the</b> prospects <b>of</b> such <b>a</b> step <b>the</b> authors attempted in 1963 
-cacm-1855 : certain transformational <b>rules</b> are described <b>a</b> number <b>of</b> examples <b>of</b> <b>output</b> produced by <b>the</b> program are given <b>the</b> <b>output</b> <b>includes</b> timing <b>information</b> cacm august 1969 dewar 
-cacm-2547 : easy <b>to</b> <b>determine</b> whether <b>a</b> point lies within <b>a</b> closed boundary compute <b>the</b> area contained by <b>a</b> closed boundary generate <b>the</b> closed boundary representing <b>the</b> union or intersection <b>of</b> two closed boundaries and 
-cacm-1236 : <b>the</b> smart automatic document <b>retrieval</b> system-an illustration <b>a</b> fully automatic document <b>retrieval</b> <b>system</b> operating on <b>the</b> ibm 7094 is described 
-cacm-2046 : application programs <b>should</b> remain unaffected <b>when</b> <b>the</b> internal representation <b>of</b> data is changed and 
-cacm-2537 : <b>a</b> mathematical optimization problem <b>determine</b> how each message <b>should</b> <b>use</b> <b>the</b> available phrases <b>to</b> minimize its storage requirement 
-cacm-1506 : means <b>of</b> <b>a</b> dialogue between <b>a</b> <b>system</b> <b>user</b> and <b>a</b> <b>retrieval</b> application <b>the</b> monitor was designed so 
-cacm-1681 : illustration <b>of</b> <b>the</b> transformations performed upon <b>a</b> sample request up <b>to</b> <b>the</b> point at which <b>the</b> request string is sent 
-cacm-1489 : programs and <b>decision</b> <b>rules</b> in <b>a</b> way that adequately represents 
-cacm-1747 : influences affecting <b>the</b> content and extent <b>of</b> his computers <b>output</b> <b>to</b> define <b>the</b> scope <b>of</b> <b>the</b> criteria <b>the</b> notion <b>of</b> an abstract machine <b>of</b> <b>a</b> programming language and <b>the</b> notion <b>of</b> <b>a</b> virtual computer are explained 
-cacm-1412 : banking <b>information</b> <b>system</b> <b>the</b> banking <b>information</b> <b>system</b> now serves <b>the</b> two-fold purpose <b>of</b> providing real-time responses <b>to</b> inquires about individual account 
-cacm-1108 : <b>to</b> define <b>a</b> tracking <b>system</b> for observation <b>of</b> <b>the</b> sight line <b>to</b> <b>the</b> center <b>of</b> <b>a</b> partially illuminated moon <b>the</b> data processing portion <b>of</b> <b>the</b> <b>system</b> is presented in detail 
-cacm-2598 : <b>to</b> explore <b>the</b> limitations <b>of</b> algorithms used <b>to</b> solve <b>the</b> <b>decision</b> table problem <b>the</b> analogy between <b>the</b> two problems is also 
-cacm-3134 : <b>the</b> appropriateness <b>of</b> <b>the</b> above approach <b>to</b> <b>a</b> given <b>information</b> <b>system</b> are described for <b>a</b> certain class <b>of</b> <b>information</b> systems <b>the</b> normal multiplication table method 
-cacm-1680 : <b>the</b> operating <b>system</b> <b>to</b> perform other jobs it 
-cacm-1032 : theoretical considerations in <b>information</b> <b>retrieval</b> systems <b>information</b> storage and <b>retrieval</b> systems are composed <b>of</b> three major components <b>a</b> identification <b>of</b> <b>information</b> and tagging it for 
-cacm-2786 : describes <b>the</b> design and implementation <b>of</b> <b>a</b> <b>system</b> for typesetting mathematics <b>the</b> language has been designed 
-cacm-2580 : applicability <b>rules</b> and weight <b>rules</b> which operate on <b>the</b> productions deciding <b>when</b> and <b>to</b> what extent they are 
-cacm-2716 : approach for implementing <b>a</b> smart interface <b>to</b> support <b>a</b> relational view <b>of</b> data is proposed <b>the</b> basic idea is <b>to</b> employ automatic programming techniques 
-cacm-1359 : data filtering applied <b>to</b> <b>information</b> storage and <b>retrieval</b> applications manipulation <b>of</b> data strings is <b>the</b> most complex processing function 
-cacm-1976 : 2 <b>the</b> elimination <b>of</b> false drops 3 <b>the</b> elimination <b>of</b> computer time <b>to</b> perform intersection <b>of</b> key sets each qualified 
 cacm-2176 : <b>the</b> number <b>of</b> seeks is equal <b>to</b> <b>the</b> number <b>of</b> input-output operations and <b>the</b> seek time usually controls 
-cacm-2370 : and <b>output</b> facilities and <b>a</b> variety <b>of</b> other experimental equipment <b>the</b> <b>system</b> design and programming support 
-cacm-2314 : overview <b>of</b> <b>a</b> number <b>of</b> <b>system</b> features which <b>the</b> author feels are important 
-cacm-2990 : accuracy <b>to</b> <b>the</b> frequency <b>of</b> occurrence <b>of</b> <b>the</b> term in <b>the</b> documents <b>of</b> <b>a</b> collection it is possible 
-cacm-3041 : search tree <b>a</b> discussion <b>of</b> <b>the</b> application <b>of</b> msts <b>to</b> dictionary lookup for english 
-cacm-2947 : function <b>a</b> file and <b>a</b> search template consisting <b>of</b> <b>the</b> textual string desired and 
-cacm-2437 : presents <b>a</b> new approach <b>to</b> <b>the</b> analysis <b>of</b> performance <b>of</b> <b>the</b> various key-to-address transformation methods 
-cacm-2372 : on <b>the</b> implementation <b>of</b> security measures in <b>information</b> systems <b>the</b> security <b>of</b> an <b>information</b> <b>system</b> may be represented by 
-cacm-2622 : <b>to</b> only <b>the</b> authentication program <b>the</b> integrity <b>of</b> <b>the</b> <b>system</b> depends on keeping <b>the</b> table secret in this 
-cacm-1526 : average usage <b>of</b> <b>the</b> cpu <b>when</b> <b>user</b> programs are typical <b>of</b> those arising from an 
-cacm-2198 : discussion <b>of</b> <b>the</b> problem <b>of</b> catering <b>to</b> <b>a</b> high volume <b>of</b> transactions initiated from terminals 
-cacm-1652 : computer <b>system</b> with respect <b>to</b> non-numeric applications and <b>to</b> maximize <b>the</b> transfer rate <b>of</b> <b>the</b> <b>information</b> channel linking <b>the</b> <b>system</b> and <b>the</b> <b>system</b> <b>user</b> <b>the</b> code has direct application 
-cacm-0891 : everymans <b>information</b> <b>retrieval</b> <b>system</b> <b>the</b> <b>information</b> <b>retrieval</b> problem whose solution is 
-cacm-2987 : sets <b>of</b> consecutive sides <b>to</b> be collectively examined <b>the</b> set <b>of</b> sides are arranged in 
-cacm-2114 : <b>a</b> formal <b>system</b> for <b>information</b> <b>retrieval</b> from files <b>a</b> generalized file structure is 
-cacm-2832 : be cached <b>to</b> speed up <b>retrieval</b> <b>a</b> <b>retrieval</b> is started from <b>the</b> position <b>of</b> <b>the</b> previous <b>retrieval</b> and auxiliary structures are 
-cacm-1937 : codas <b>a</b> data display <b>system</b> codas <b>a</b> customer oriented data <b>system</b> is <b>a</b> user-oriented data <b>retrieval</b> and display <b>system</b> <b>the</b> command language <b>of</b> <b>the</b> <b>system</b> provides <b>the</b> <b>user</b> with an easy means 
-cacm-1514 : evaluates <b>the</b> gain parameters for <b>a</b> typical <b>information</b> <b>retrieval</b> <b>system</b> cacm november 1967 shumway 
-cacm-2846 : parameter <b>of</b> <b>the</b> trie but whereas <b>the</b> fields <b>of</b> <b>the</b> nodes in <b>a</b> trie have <b>to</b> be large enough <b>to</b> hold <b>a</b> key or at least 
-cacm-1695 : description is presented <b>of</b> plexus <b>a</b> <b>system</b> which enables <b>a</b> <b>user</b> <b>to</b> construct and specify <b>a</b> neural network <b>to</b> analyze <b>the</b> <b>output</b> data produced by <b>the</b> network and <b>to</b> store and retrieve networks 
-cacm-2307 : modification based on <b>user</b> needs and for <b>a</b> continuous reorganization <b>of</b> <b>the</b> stored <b>information</b> as <b>a</b> function <b>of</b> earlier file processing and 
 cacm-1271 : appropriate lists producing <b>a</b> complete set <b>of</b> addresses <b>of</b> primary records relevant <b>to</b> <b>the</b> request experimental results are 
-cacm-2968 : <b>a</b> level believed <b>to</b> be language-and compiler-independent <b>the</b> quality <b>of</b> <b>the</b> resulting trees and <b>the</b> overhead spent on building 
-cacm-3087 : detailed examples <b>of</b> <b>the</b> operation <b>of</b> <b>system</b> components and examples <b>of</b> overall <b>system</b> operation <b>the</b> language processing portion <b>of</b> <b>the</b> <b>system</b> uses <b>a</b> number <b>of</b> augmented transition networks each 
+cacm-0891 : everymans <b>information</b> <b>retrieval</b> <b>system</b> <b>the</b> <b>information</b> <b>retrieval</b> problem whose solution is 
+cacm-2437 : presents <b>a</b> new approach <b>to</b> <b>the</b> analysis <b>of</b> performance <b>of</b> <b>the</b> various key-to-address transformation methods 
+cacm-1937 : codas <b>a</b> data display <b>system</b> codas <b>a</b> customer oriented data <b>system</b> is <b>a</b> user-oriented data <b>retrieval</b> and display <b>system</b> <b>the</b> command language <b>of</b> <b>the</b> <b>system</b> provides <b>the</b> <b>user</b> with an easy means 
+cacm-2307 : modification based on <b>user</b> needs and for <b>a</b> continuous reorganization <b>of</b> <b>the</b> stored <b>information</b> as <b>a</b> function <b>of</b> earlier file processing and 
+cacm-2990 : accuracy <b>to</b> <b>the</b> frequency <b>of</b> occurrence <b>of</b> <b>the</b> term in <b>the</b> documents <b>of</b> <b>a</b> collection it is possible 
+cacm-1627 : application <b>of</b> level changing <b>to</b> <b>a</b> multilevel storage organization <b>a</b> technique for organizing <b>the</b> devices <b>of</b> <b>a</b> computer storage <b>system</b> is described this technique 
+cacm-2547 : easy <b>to</b> <b>determine</b> whether <b>a</b> point lies within <b>a</b> closed boundary compute <b>the</b> area contained by <b>a</b> closed boundary generate <b>the</b> closed boundary representing <b>the</b> union or intersection <b>of</b> two closed boundaries and 
+cacm-1415 : <b>of</b> natural language messages <b>to</b> explore <b>the</b> prospects <b>of</b> such <b>a</b> step <b>the</b> authors attempted in 1963 
+cacm-2987 : sets <b>of</b> consecutive sides <b>to</b> be collectively examined <b>the</b> set <b>of</b> sides are arranged in 
+cacm-2631 : <b>retrieval</b> namely <b>the</b> maintenance and <b>use</b> <b>of</b> large dictionaries <b>the</b> greater part <b>of</b> which is used only 
+cacm-2114 : <b>a</b> formal <b>system</b> for <b>information</b> <b>retrieval</b> from files <b>a</b> generalized file structure is 

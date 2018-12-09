@@ -1,100 +1,100 @@
-cacm-2048 : comparison <b>of</b> several adaptive newton-cotes quadrature 
-cacm-2849 : local <b>computer</b> networks ethernet is a 
-cacm-1030 : most <b>computer</b> design automation <b>systems</b> the <b>evaluation</b> <b>of</b> the boolean functions which 
-cacm-2017 : <b>systems</b> program behavior performance <b>evaluation</b> memory management 4.32 4.49 
-cacm-0040 : <b>of</b> the significance <b>of</b> decimal <b>and</b> binary addressing <b>and</b> both binary <b>and</b> decimal data arithmetic supplemented 
-cacm-1933 : quick <b>evaluation</b> <b>of</b> the lehmer pseudo-random number 
-cacm-3091 : <b>of</b> programs <b>and</b> experience characteristics <b>of</b> programmers <b>and</b> program development time the 
-cacm-1518 : an experimental model <b>of</b> system/360 the problem <b>of</b> predicting the performance <b>of</b> modern <b>computer</b> <b>systems</b> is formidable one general 
-cacm-1844 : master or control <b>computer</b> <b>and</b> supervises the collection <b>and</b> distribution <b>of</b> messages from <b>and</b> to the remote terminals 
-cacm-0096 : relative merit <b>and</b> cost <b>of</b> four ways <b>of</b> evaluating typical radiation integrals 
-cacm-2988 : network models <b>of</b> <b>computer</b> <b>systems</b> empirical analyses <b>and</b> analytic studies based on 
-cacm-1908 : <b>of</b> problem-solving using time-sharing <b>and</b> batch-processing <b>computer</b> <b>systems</b> conducted at mit is 
-cacm-1931 : interval arithmetic determinant <b>evaluation</b> <b>and</b> its use in testing 
-cacm-1267 : information transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> information bits trib <b>of</b> residual errors <b>and</b> <b>of</b> standard measurement conditions the 
-cacm-2106 : <b>and</b> <b>evaluation</b> <b>of</b> management information <b>systems</b> requires a thorough understanding 
-cacm-2318 : performance <b>of</b> <b>computer</b> <b>systems</b> <b>and</b> establishes circumstances under which 
-cacm-2317 : the development <b>of</b> system measurement <b>and</b> <b>evaluation</b> techniquesand increased use <b>of</b> microprogramming for some programming 
-cacm-1810 : examined <b>and</b> a number <b>of</b> the important troubles which 
-cacm-2375 : <b>and</b> implementation <b>of</b> a maximum performance two-policy 
-cacm-3089 : performance <b>of</b> rollback recovery <b>systems</b> under intermittent failures a 
-cacm-1728 : <b>evaluation</b> <b>of</b> page replacement algorithms <b>and</b> for assessing the effects 
-cacm-3059 : <b>of</b> cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied to the analysis 
-cacm-3035 : in terms <b>of</b> the improvement <b>of</b> the delivery <b>of</b> computing services to the 
 cacm-1671 : design <b>and</b> implementation <b>of</b> a system to alleviate 
-cacm-3088 : model <b>of</b> multiprogrammed <b>computer</b> <b>systems</b> the equations are directly 
-cacm-3072 : <b>systems</b> feature simulated continuous-flow <b>and</b> preempt-resume scheduling <b>of</b> input-output activity attention is 
-cacm-2985 : relationship <b>of</b> in ternal pricing <b>systems</b> for <b>computer</b> services chargeout <b>systems</b> <b>and</b> user management attitudes about 
-cacm-3048 : <b>evaluation</b> <b>of</b> alternative configurations <b>of</b> highly concurrent computers a 
-cacm-3027 : the development <b>of</b> the mu5 <b>computer</b> system following a brief 
-cacm-2151 : <b>of</b> the measurement <b>of</b> software <b>systems</b> is followed by a 
 cacm-1938 : <b>evaluation</b> <b>of</b> time-sharing <b>systems</b> particularly difficult six criteria 
-cacm-2016 : the instrumentation <b>of</b> multics an array <b>of</b> measuring tools devised to 
-cacm-2217 : <b>and</b> the proving program <b>and</b> for analyzing <b>and</b> summarizing results data was 
-cacm-3176 : problem <b>of</b> storing <b>and</b> searching large sparse tables 
-cacm-1719 : government <b>and</b> industry <b>of</b> the criteria for <b>and</b> methods <b>of</b> calculating <b>and</b> optimizing data processing system 
-cacm-2286 : to the <b>evaluation</b> <b>of</b> many nonrational expressions cacm 
-cacm-2535 : description <b>of</b> the output process <b>of</b> an m/d/1 queue <b>and</b> the conditions under which 
-cacm-1792 : <b>and</b> off line programming performance 
-cacm-1926 : facilitates the editing <b>and</b> printing <b>of</b> finished documents directly on 
-cacm-0893 : <b>computer</b> the 7090 at nyu 
-cacm-2711 : collection <b>of</b> documents typical <b>evaluation</b> results are shown demonstrating 
-cacm-1653 : system performance <b>evaluation</b> survey <b>and</b> appraisal the state <b>of</b> the art <b>of</b> system performance <b>evaluation</b> is reviewed <b>and</b> <b>evaluation</b> goals <b>and</b> problems are examined throughput 
-cacm-0533 : testing the performance <b>of</b> data processing <b>and</b> engineering <b>systems</b> where inputs corrupted with 
-cacm-2542 : a software design <b>and</b> <b>evaluation</b> system a critical failure 
-cacm-1750 : the general design <b>of</b> the hardware arrangement <b>and</b> the software components <b>and</b> functions <b>of</b> such a system are 
-cacm-2741 : the dynamic behavior <b>and</b> evaluate the performance <b>of</b> computing <b>systems</b> is proposed it is 
-cacm-2669 : charges <b>and</b> estimating the amount <b>of</b> core memory sharing cacm 
 cacm-1410 : <b>systems</b> the optimization <b>of</b> time-shared system performance requires 
-cacm-2329 : engineering <b>computer</b> science curriculum <b>systems</b> design 1.52 6.0 ca720616 
+cacm-0096 : relative merit <b>and</b> cost <b>of</b> four ways <b>of</b> evaluating typical radiation integrals 
 cacm-3070 : hybrid simulation models <b>of</b> <b>computer</b> <b>systems</b> this paper describes the 
-cacm-1270 : a searching test <b>of</b> the reliability <b>and</b> efficiency <b>of</b> an integration procedure there 
-cacm-0417 : a variety <b>of</b> ways <b>computer</b> <b>systems</b> used in business <b>and</b> industry can be involved 
-cacm-0462 : <b>computer</b> pattern recognition techniques electrocardiographic 
-cacm-1805 : many detailed characteristics <b>of</b> itself <b>and</b> its co-residents <b>and</b> simulation has been the 
-cacm-2863 : described <b>and</b> shown to be optimum 
-cacm-2892 : into various levels <b>of</b> protocol hierarchy <b>and</b> the characteristics <b>of</b> each level are summarized 
-cacm-1699 : language <b>and</b> on some <b>of</b> the mechanical <b>and</b> psychological limitations in their 
-cacm-2951 : analytical simulation <b>and</b> statistical performance <b>evaluation</b> tools are employed to 
-cacm-2092 : are all described <b>and</b> illustrated examples <b>of</b> the <b>systems</b> performance <b>and</b> <b>of</b> the limitations <b>of</b> its question-answering capability are 
-cacm-1415 : automatic derivation <b>of</b> microsentences the decomposition <b>of</b> long complex english sentences 
-cacm-1752 : characteristics <b>and</b> the effects <b>of</b> program mix <b>and</b> loading variations are also 
-cacm-0671 : the development <b>of</b> an on-line <b>computer</b> system for a savings 
-cacm-2522 : to permit analysis <b>of</b> its behavior <b>and</b> indicates future directions <b>of</b> research on methods <b>of</b> controlling a <b>computer</b> system cacm april 1973 
-cacm-1236 : report to illustrate <b>systems</b> operations <b>and</b> <b>evaluation</b> procedures cacm june 1965 
-cacm-2325 : <b>systems</b> computational complexity synthesis <b>and</b> analysis <b>of</b> algorithms analysis <b>of</b> error programs <b>and</b> program libraries cacm july 
-cacm-1542 : <b>of</b> a microprogrammed compiler <b>and</b> a microprogrammed string language 
-cacm-1341 : levels <b>of</b> <b>computer</b> <b>systems</b> in building current <b>computer</b> <b>systems</b> we tend to break 
-cacm-3028 : in 30 years <b>of</b> <b>computer</b> design at manchester university 
+cacm-2317 : the development <b>of</b> system measurement <b>and</b> <b>evaluation</b> techniquesand increased use <b>of</b> microprogramming for some programming 
+cacm-2859 : program behavior <b>and</b> simulations <b>of</b> <b>systems</b> using memory references from 
 cacm-2765 : complexity <b>of</b> queries <b>and</b> machine timing <b>and</b> blocking specifications identified as 
-cacm-2634 : each <b>of</b> these <b>systems</b> <b>and</b> the results are summarized 
-cacm-2798 : <b>of</b> interleaved memory <b>systems</b> is presented <b>and</b> the analysis <b>of</b> the model by monte 
-cacm-1827 : purpose <b>of</b> monitoring operating system <b>and</b> user program behavior <b>and</b> performance the overall structure 
-cacm-2967 : a comparison <b>of</b> hardware <b>and</b> software associative memories in 
-cacm-2571 : an analytic model <b>of</b> the hasp execution task 
-cacm-1747 : an abstract machine <b>of</b> a programming language <b>and</b> the notion <b>of</b> a virtual <b>computer</b> are explained examples <b>of</b> applications <b>of</b> the criteria concern the 
-cacm-2344 : on the optimization <b>of</b> performance <b>of</b> time-sharing <b>systems</b> by simulation a simulation 
-cacm-2882 : threaded list <b>and</b> cellular list organizations <b>and</b> hybrid combinations <b>of</b> these <b>systems</b> effectiveness <b>of</b> the methodology is demonstrated 
-cacm-0436 : <b>evaluation</b> <b>of</b> polynomials by <b>computer</b> cacm december 1962 knuth 
+cacm-0040 : <b>of</b> the significance <b>of</b> decimal <b>and</b> binary addressing <b>and</b> both binary <b>and</b> decimal data arithmetic supplemented 
+cacm-0533 : testing the performance <b>of</b> data processing <b>and</b> engineering <b>systems</b> where inputs corrupted with 
+cacm-1518 : an experimental model <b>of</b> system/360 the problem <b>of</b> predicting the performance <b>of</b> modern <b>computer</b> <b>systems</b> is formidable one general 
+cacm-2984 : a cost/utilization factor <b>and</b> a measure <b>of</b> imbalance these coefficients indicate 
+cacm-1699 : language <b>and</b> on some <b>of</b> the mechanical <b>and</b> psychological limitations in their 
+cacm-3176 : problem <b>of</b> storing <b>and</b> searching large sparse tables 
 cacm-1032 : <b>systems</b> information storage <b>and</b> retrieval <b>systems</b> are composed <b>of</b> three major components a 
-cacm-2298 : <b>of</b> three phases the <b>evaluation</b> <b>of</b> various possible machines to 
-cacm-3153 : <b>of</b> giving different quality <b>of</b> service to jobs <b>of</b> different classes by regulating 
-cacm-2319 : about modularizing operating <b>and</b> <b>computer</b> <b>systems</b> cacm july 1972 lynch 
-cacm-2314 : the duality <b>of</b> data retrieval <b>and</b> function <b>evaluation</b> syntax directed input <b>and</b> output <b>of</b> data would facilitate use 
-cacm-2990 : number <b>of</b> different ways much <b>of</b> the published <b>evaluation</b> work is based on 
-cacm-2268 : <b>of</b> several <b>computer</b> programs for integrating <b>systems</b> <b>of</b> ordinary differential equations is 
-cacm-1572 : the simulation <b>of</b> time sharing <b>systems</b> the development <b>of</b> new large scale time-sharing 
-cacm-1901 : <b>and</b> processor efficiency in <b>computer</b> <b>systems</b> is presented concepts <b>of</b> value <b>and</b> cost <b>of</b> space allocation per task 
+cacm-2325 : <b>systems</b> computational complexity synthesis <b>and</b> analysis <b>of</b> algorithms analysis <b>of</b> error programs <b>and</b> program libraries cacm july 
+cacm-2522 : to permit analysis <b>of</b> its behavior <b>and</b> indicates future directions <b>of</b> research on methods <b>of</b> controlling a <b>computer</b> system cacm april 1973 
+cacm-3028 : in 30 years <b>of</b> <b>computer</b> design at manchester university 
+cacm-2016 : the instrumentation <b>of</b> multics an array <b>of</b> measuring tools devised to 
+cacm-2017 : <b>systems</b> program behavior performance <b>evaluation</b> memory management 4.32 4.49 
 cacm-1526 : <b>of</b> this model is used 
-cacm-2936 : aspects <b>of</b> the best <b>of</b> the previously published algorithms 
-cacm-3136 : price/performance patterns <b>of</b> u <b>computer</b> <b>systems</b> econometric models <b>of</b> the u <b>computer</b> market have been developed 
+cacm-3089 : performance <b>of</b> rollback recovery <b>systems</b> under intermittent failures a 
+cacm-2798 : <b>of</b> interleaved memory <b>systems</b> is presented <b>and</b> the analysis <b>of</b> the model by monte 
+cacm-0417 : a variety <b>of</b> ways <b>computer</b> <b>systems</b> used in business <b>and</b> industry can be involved 
+cacm-2314 : the duality <b>of</b> data retrieval <b>and</b> function <b>evaluation</b> syntax directed input <b>and</b> output <b>of</b> data would facilitate use 
+cacm-1805 : many detailed characteristics <b>of</b> itself <b>and</b> its co-residents <b>and</b> simulation has been the 
+cacm-1270 : a searching test <b>of</b> the reliability <b>and</b> efficiency <b>of</b> an integration procedure there 
+cacm-3059 : <b>of</b> cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied to the analysis 
+cacm-2882 : threaded list <b>and</b> cellular list organizations <b>and</b> hybrid combinations <b>of</b> these <b>systems</b> effectiveness <b>of</b> the methodology is demonstrated 
+cacm-1272 : beyond mere correction <b>and</b> improvement <b>of</b> <b>computer</b> output is exemplified by 
+cacm-0671 : the development <b>of</b> an on-line <b>computer</b> system for a savings 
+cacm-2863 : described <b>and</b> shown to be optimum 
+cacm-2318 : performance <b>of</b> <b>computer</b> <b>systems</b> <b>and</b> establishes circumstances under which 
+cacm-2967 : a comparison <b>of</b> hardware <b>and</b> software associative memories in 
+cacm-2634 : each <b>of</b> these <b>systems</b> <b>and</b> the results are summarized 
+cacm-2298 : <b>of</b> three phases the <b>evaluation</b> <b>of</b> various possible machines to 
+cacm-1542 : <b>of</b> a microprogrammed compiler <b>and</b> a microprogrammed string language 
+cacm-2894 : user-oriented assessment <b>of</b> <b>computer</b> performance instead <b>of</b> the more frequently used 
+cacm-2985 : relationship <b>of</b> in ternal pricing <b>systems</b> for <b>computer</b> services chargeout <b>systems</b> <b>and</b> user management attitudes about 
+cacm-1908 : <b>of</b> problem-solving using time-sharing <b>and</b> batch-processing <b>computer</b> <b>systems</b> conducted at mit is 
+cacm-2106 : <b>and</b> <b>evaluation</b> <b>of</b> management information <b>systems</b> requires a thorough understanding 
+cacm-3088 : model <b>of</b> multiprogrammed <b>computer</b> <b>systems</b> the equations are directly 
+cacm-2535 : description <b>of</b> the output process <b>of</b> an m/d/1 queue <b>and</b> the conditions under which 
+cacm-2740 : dijkstras hierarchical structuring <b>of</b> operating <b>systems</b> the project management <b>and</b> the performance are discussed 
+cacm-3091 : <b>of</b> programs <b>and</b> experience characteristics <b>of</b> programmers <b>and</b> program development time the 
+cacm-1926 : facilitates the editing <b>and</b> printing <b>of</b> finished documents directly on 
+cacm-2268 : <b>of</b> several <b>computer</b> programs for integrating <b>systems</b> <b>of</b> ordinary differential equations is 
+cacm-2344 : on the optimization <b>of</b> performance <b>of</b> time-sharing <b>systems</b> by simulation a simulation 
+cacm-1236 : report to illustrate <b>systems</b> operations <b>and</b> <b>evaluation</b> procedures cacm june 1965 
+cacm-2542 : a software design <b>and</b> <b>evaluation</b> system a critical failure 
+cacm-2571 : an analytic model <b>of</b> the hasp execution task 
 cacm-2452 : <b>evaluation</b> <b>and</b> selection <b>of</b> file organization-a model <b>and</b> system this work first 
+cacm-3136 : price/performance patterns <b>of</b> u <b>computer</b> <b>systems</b> econometric models <b>of</b> the u <b>computer</b> market have been developed 
+cacm-1750 : the general design <b>of</b> the hardware arrangement <b>and</b> the software components <b>and</b> functions <b>of</b> such a system are 
+cacm-1901 : <b>and</b> processor efficiency in <b>computer</b> <b>systems</b> is presented concepts <b>of</b> value <b>and</b> cost <b>of</b> space allocation per task 
+cacm-2329 : engineering <b>computer</b> science curriculum <b>systems</b> design 1.52 6.0 ca720616 
+cacm-1347 : by the propagation <b>of</b> variance technique <b>of</b> the sensitivity <b>of</b> time-varying <b>systems</b> to initial condition <b>and</b> parameter errors involves the 
+cacm-2217 : <b>and</b> the proving program <b>and</b> for analyzing <b>and</b> summarizing results data was 
+cacm-2936 : aspects <b>of</b> the best <b>of</b> the previously published algorithms 
+cacm-2669 : charges <b>and</b> estimating the amount <b>of</b> core memory sharing cacm 
+cacm-1572 : the simulation <b>of</b> time sharing <b>systems</b> the development <b>of</b> new large scale time-sharing 
+cacm-0462 : <b>computer</b> pattern recognition techniques electrocardiographic 
+cacm-2375 : <b>and</b> implementation <b>of</b> a maximum performance two-policy 
+cacm-1719 : government <b>and</b> industry <b>of</b> the criteria for <b>and</b> methods <b>of</b> calculating <b>and</b> optimizing data processing system 
+cacm-1728 : <b>evaluation</b> <b>of</b> page replacement algorithms <b>and</b> for assessing the effects 
+cacm-3048 : <b>evaluation</b> <b>of</b> alternative configurations <b>of</b> highly concurrent computers a 
+cacm-1747 : an abstract machine <b>of</b> a programming language <b>and</b> the notion <b>of</b> a virtual <b>computer</b> are explained examples <b>of</b> applications <b>of</b> the criteria concern the 
+cacm-3153 : <b>of</b> giving different quality <b>of</b> service to jobs <b>of</b> different classes by regulating 
+cacm-2988 : network models <b>of</b> <b>computer</b> <b>systems</b> empirical analyses <b>and</b> analytic studies based on 
+cacm-0893 : <b>computer</b> the 7090 at nyu 
+cacm-2048 : comparison <b>of</b> several adaptive newton-cotes quadrature 
 cacm-2852 : education information <b>systems</b> administration <b>computer</b> center management <b>computer</b> system performance 1.52 2.4 
 cacm-3119 : <b>of</b> cpu service disciplines <b>and</b> distributions level <b>of</b> multiprogramming multitasking <b>and</b> job priorities cacm january 
-cacm-2894 : user-oriented assessment <b>of</b> <b>computer</b> performance instead <b>of</b> the more frequently used 
-cacm-1347 : by the propagation <b>of</b> variance technique <b>of</b> the sensitivity <b>of</b> time-varying <b>systems</b> to initial condition <b>and</b> parameter errors involves the 
-cacm-1272 : beyond mere correction <b>and</b> improvement <b>of</b> <b>computer</b> output is exemplified by 
-cacm-2859 : program behavior <b>and</b> simulations <b>of</b> <b>systems</b> using memory references from 
+cacm-2741 : the dynamic behavior <b>and</b> evaluate the performance <b>of</b> computing <b>systems</b> is proposed it is 
+cacm-2892 : into various levels <b>of</b> protocol hierarchy <b>and</b> the characteristics <b>of</b> each level are summarized 
+cacm-1827 : purpose <b>of</b> monitoring operating system <b>and</b> user program behavior <b>and</b> performance the overall structure 
+cacm-2711 : collection <b>of</b> documents typical <b>evaluation</b> results are shown demonstrating 
+cacm-1653 : system performance <b>evaluation</b> survey <b>and</b> appraisal the state <b>of</b> the art <b>of</b> system performance <b>evaluation</b> is reviewed <b>and</b> <b>evaluation</b> goals <b>and</b> problems are examined throughput 
+cacm-1752 : characteristics <b>and</b> the effects <b>of</b> program mix <b>and</b> loading variations are also 
+cacm-1267 : information transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> information bits trib <b>of</b> residual errors <b>and</b> <b>of</b> standard measurement conditions the 
+cacm-1792 : <b>and</b> off line programming performance 
+cacm-2151 : <b>of</b> the measurement <b>of</b> software <b>systems</b> is followed by a 
+cacm-2849 : local <b>computer</b> networks ethernet is a 
+cacm-1030 : most <b>computer</b> design automation <b>systems</b> the <b>evaluation</b> <b>of</b> the boolean functions which 
+cacm-2092 : are all described <b>and</b> illustrated examples <b>of</b> the <b>systems</b> performance <b>and</b> <b>of</b> the limitations <b>of</b> its question-answering capability are 
+cacm-3027 : the development <b>of</b> the mu5 <b>computer</b> system following a brief 
+cacm-1844 : master or control <b>computer</b> <b>and</b> supervises the collection <b>and</b> distribution <b>of</b> messages from <b>and</b> to the remote terminals 
+cacm-1933 : quick <b>evaluation</b> <b>of</b> the lehmer pseudo-random number 
+cacm-1341 : levels <b>of</b> <b>computer</b> <b>systems</b> in building current <b>computer</b> <b>systems</b> we tend to break 
+cacm-2951 : analytical simulation <b>and</b> statistical performance <b>evaluation</b> tools are employed to 
+cacm-2319 : about modularizing operating <b>and</b> <b>computer</b> <b>systems</b> cacm july 1972 lynch 
+cacm-2990 : number <b>of</b> different ways much <b>of</b> the published <b>evaluation</b> work is based on 
+cacm-1810 : examined <b>and</b> a number <b>of</b> the important troubles which 
+cacm-3035 : in terms <b>of</b> the improvement <b>of</b> the delivery <b>of</b> computing services to the 
+cacm-1931 : interval arithmetic determinant <b>evaluation</b> <b>and</b> its use in testing 
 cacm-2812 : consists <b>of</b> a set <b>of</b> procedures <b>and</b> <b>computer</b> programs specifically designed to 
-cacm-2984 : a cost/utilization factor <b>and</b> a measure <b>of</b> imbalance these coefficients indicate 
-cacm-2740 : dijkstras hierarchical structuring <b>of</b> operating <b>systems</b> the project management <b>and</b> the performance are discussed 
+cacm-0436 : <b>evaluation</b> <b>of</b> polynomials by <b>computer</b> cacm december 1962 knuth 
+cacm-3072 : <b>systems</b> feature simulated continuous-flow <b>and</b> preempt-resume scheduling <b>of</b> input-output activity attention is 
+cacm-1415 : automatic derivation <b>of</b> microsentences the decomposition <b>of</b> long complex english sentences 
+cacm-2286 : to the <b>evaluation</b> <b>of</b> many nonrational expressions cacm 

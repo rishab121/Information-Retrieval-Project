@@ -1,7 +1,7 @@
 algorithm
 series
-jb
 cacm
+jb
 1978
 program
 precedence

@@ -3,8 +3,8 @@ computer
 graphical
 cacm
 1978
-jb
 pm
+jb
 graphics
-verification
-plots
+errors
+sembegs

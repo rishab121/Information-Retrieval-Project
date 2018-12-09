@@ -1,100 +1,100 @@
-cacm-1496 : the meanings <b>of</b> statements <b>in</b> a large class <b>of</b> computer <b>languages</b> this meta-language has been 
-cacm-2112 : <b>used</b> to describe the syntax 
-cacm-2424 : even <b>in</b> the presence <b>of</b> a single hardware or 
-cacm-1309 : <b>in</b> elementary form use <b>of</b> two special <b>languages</b> extract and matran permits 
-cacm-1387 : by itself appears <b>in</b> appropriate however <b>in</b> the solution <b>of</b> large systems <b>of</b> equation due to the 
-cacm-1783 : number <b>in</b> one base is converted 
-cacm-1696 : the <b>construction</b> <b>of</b> variable length codes are 
-cacm-2739 : language is <b>used</b> <b>in</b> the current implementation <b>of</b> the linguistic string parser 
-cacm-3080 : and pinpointing <b>of</b> a wide class <b>of</b> errors <b>in</b> the low level language 
-cacm-2990 : to the frequency <b>of</b> occurrence <b>of</b> the term <b>in</b> the documents <b>of</b> a collection it is 
+cacm-1671 : <b>in</b> the area <b>of</b> phonology are presented it 
+cacm-1852 : been <b>used</b> as the base <b>of</b> an implementation by bootstrapping 
+cacm-1314 : feature <b>in</b> the design <b>of</b> any compiler during the 
+cacm-1029 : evaluation <b>of</b> total/partial derivatives <b>of</b> arbitrary algebraic functions is 
+cacm-2867 : the design philosophy <b>used</b> <b>in</b> the <b>construction</b> <b>of</b> a family <b>of</b> operating systems it is 
+cacm-1392 : <b>in</b> the extraction <b>of</b> the skeletal structure <b>of</b> an expression one recurrent 
+cacm-1003 : thermal diffusion <b>in</b> biochemical systems <b>in</b> the thermal detection <b>of</b> rapid biochemical reactions it 
+cacm-3130 : undergraduate program <b>in</b> computer science contained <b>in</b> this report are the 
 cacm-1007 : <b>of</b> an application <b>in</b> which macros and string 
-cacm-2320 : <b>of</b> multiprogramming <b>in</b> a high level language 
-cacm-2061 : exhaustive study <b>of</b> all possible runs <b>of</b> the pushdown automata generating 
+cacm-2179 : the speed <b>of</b> parser <b>construction</b> and <b>in</b> the size and speed 
+cacm-2138 : permitting the definition <b>of</b> the representation <b>of</b> all data structures <b>in</b> terms <b>of</b> the access algorithm for 
+cacm-1484 : <b>of</b> the standard programming <b>languages</b> for the description <b>of</b> systems are discussed and 
+cacm-1988 : describing the actions <b>of</b> processors for programming languages-compilers 
 cacm-3093 : parsers <b>in</b> this paper we present 
 cacm-1456 : storage and retrieval <b>of</b> aspects <b>of</b> meaning <b>in</b> directed graph structures an 
-cacm-2658 : recursion <b>in</b> algol 60 using restricted 
-cacm-2684 : the development <b>of</b> bnf the definition <b>of</b> the syntax <b>of</b> programming <b>languages</b> has been almost universally 
-cacm-1029 : evaluation <b>of</b> total/partial derivatives <b>of</b> arbitrary algebraic functions is 
-cacm-3151 : <b>in</b> real-time <b>of</b> the convex hull <b>of</b> a set <b>of</b> n points <b>in</b> the plane using an 
-cacm-3115 : <b>of</b> complete enumeration <b>of</b> all 2 x 2 
-cacm-2867 : the design philosophy <b>used</b> <b>in</b> the <b>construction</b> <b>of</b> a family <b>of</b> operating systems it is 
-cacm-2558 : protection <b>in</b> programming <b>languages</b> linguistic mechanisms which can 
-cacm-1572 : guides to assist <b>in</b> the analysis <b>of</b> performance characteristics the development 
-cacm-1314 : feature <b>in</b> the design <b>of</b> any compiler during the 
-cacm-3077 : <b>of</b> programs conventional programming <b>languages</b> are growing ever more 
-cacm-2372 : on the implementation <b>of</b> security measures <b>in</b> information systems the security 
-cacm-1162 : complete reprogramming <b>of</b> compiler language programs is 
-cacm-0929 : glossary <b>construction</b> cacm february 1963 grems 
-cacm-1671 : <b>in</b> the area <b>of</b> phonology are presented it 
-cacm-1134 : language and methods <b>of</b> manipulating it compilations <b>of</b> a series <b>of</b> arithmetic statements are discussed 
-cacm-3105 : sharing <b>of</b> information is needed and 
-cacm-0100 : recursive subscripting compilers and 
-cacm-3102 : incorporation <b>of</b> units into programming <b>languages</b> the issues <b>of</b> how a programming language 
-cacm-1135 : complex applications <b>in</b> terms <b>of</b> tables <b>of</b> control expressions which express 
-cacm-3000 : new empirical evidence <b>of</b> certain aspects <b>of</b> the <b>construction</b> and behavior <b>of</b> real programs and some 
-cacm-1533 : a marovian model <b>of</b> the university <b>of</b> michigan executive system a 
-cacm-3101 : <b>of</b> various methods <b>of</b> argument transmission <b>in</b> the source language itself 
-cacm-2886 : the definition <b>of</b> programming <b>languages</b> and compilers a formal 
-cacm-1003 : thermal diffusion <b>in</b> biochemical systems <b>in</b> the thermal detection <b>of</b> rapid biochemical reactions it 
-cacm-2873 : third characteristic consists <b>of</b> the possibility <b>of</b> using this language to 
-cacm-2179 : the speed <b>of</b> parser <b>construction</b> and <b>in</b> the size and speed 
-cacm-2233 : the aid <b>of</b> an unsanitized version <b>of</b> the declaration <b>of</b> independence was merely a 
-cacm-1835 : <b>languages</b> programming <b>languages</b> student programming systems language 
-cacm-1658 : and storage requirements <b>of</b> several <b>of</b> the algorithms are compared 
-cacm-1223 : pass <b>in</b> essentially the reverse <b>of</b> the order <b>in</b> which it was generated 
-cacm-0205 : macro instruction extensions <b>of</b> compiler <b>languages</b> macroinstruction compilers constructed from 
-cacm-1194 : <b>in</b> the provision <b>of</b> information services 1 easy 
-cacm-2138 : permitting the definition <b>of</b> the representation <b>of</b> all data structures <b>in</b> terms <b>of</b> the access algorithm for 
-cacm-2921 : <b>of</b> programming <b>languages</b> more concisely and more 
-cacm-0799 : applicable to the <b>construction</b> <b>of</b> algol compilers cacm july 
-cacm-1723 : computer <b>construction</b> <b>of</b> project networks project networks 
-cacm-1392 : <b>in</b> the extraction <b>of</b> the skeletal structure <b>of</b> an expression one recurrent 
-cacm-0070 : <b>construction</b> <b>of</b> a set <b>of</b> test matrices this paper 
-cacm-2746 : any <b>of</b> a finite number <b>of</b> keywords <b>in</b> a string <b>of</b> text the algorithm consists 
-cacm-0464 : the results <b>of</b> the syntactic analysis <b>in</b> a tabular form several 
-cacm-1457 : <b>of</b> various processing <b>languages</b> are outlined <b>in</b> the light <b>of</b> the procedures requiring implementation 
-cacm-2939 : the use <b>of</b> abstractions <b>in</b> program <b>construction</b> work <b>in</b> programming methodology has led 
-cacm-2534 : a maximum degree <b>of</b> diagnostic assistance <b>in</b> a batch processing environment 
+cacm-0303 : the terminology <b>used</b> <b>in</b> work for the university 
 cacm-2175 : be evaluated <b>in</b> serials <b>in</b> parallel or <b>in</b> a combination <b>of</b> these modes this paper 
-cacm-1807 : optimization <b>of</b> expressions <b>in</b> fortran a method <b>of</b> optimizing the computation <b>of</b> arithmetic and indexing expressions 
-cacm-2254 : value <b>in</b> the design <b>of</b> other array <b>languages</b> the description presented <b>in</b> this paper is implemented 
-cacm-0637 : the results <b>of</b> a project completed <b>in</b> may 1961 <b>in</b> which the neliac system 
-cacm-2310 : listing <b>of</b> detail as <b>in</b> indices and concordances is 
-cacm-2929 : an analysis <b>of</b> inline substitution for a 
-cacm-1402 : or adams-bashforth method <b>of</b> integration <b>of</b> differential equations this method 
-cacm-3130 : undergraduate program <b>in</b> computer science contained <b>in</b> this report are the 
-cacm-2871 : logical analysis <b>of</b> programs most present systems 
-cacm-1788 : form <b>in</b> terms <b>of</b> which a programming notation 
+cacm-3105 : sharing <b>of</b> information is needed and 
+cacm-1194 : <b>in</b> the provision <b>of</b> information services 1 easy 
 cacm-3030 : as helpful <b>in</b> the <b>construction</b> <b>of</b> large programs users <b>of</b> hierarchical techniques claim or 
-cacm-2572 : the <b>construction</b> <b>of</b> an information utility <b>in</b> a prototype community or 
-cacm-3171 : <b>used</b> for implementations <b>of</b> high level <b>languages</b> under suitable circumstances this 
-cacm-1787 : <b>of</b> recognizer <b>used</b> <b>in</b> a number <b>of</b> compilers operates with a 
-cacm-2767 : be <b>used</b> to schedule events <b>in</b> a general purpose discrete 
+cacm-2871 : logical analysis <b>of</b> programs most present systems 
 cacm-1154 : <b>of</b> the length <b>of</b> the input 3 restrict 
-cacm-1323 : <b>of</b> the semantics <b>of</b> algol 60 can be 
+cacm-2929 : an analysis <b>of</b> inline substitution for a 
+cacm-3102 : incorporation <b>of</b> units into programming <b>languages</b> the issues <b>of</b> how a programming language 
+cacm-2053 : the use <b>of</b> execution time diagnostics <b>in</b> pinpointing ambiguities <b>in</b> decision tables is discussed 
+cacm-0637 : the results <b>of</b> a project completed <b>in</b> may 1961 <b>in</b> which the neliac system 
+cacm-1135 : complex applications <b>in</b> terms <b>of</b> tables <b>of</b> control expressions which express 
+cacm-2310 : listing <b>of</b> detail as <b>in</b> indices and concordances is 
+cacm-3115 : <b>of</b> complete enumeration <b>of</b> all 2 x 2 
+cacm-3000 : new empirical evidence <b>of</b> certain aspects <b>of</b> the <b>construction</b> and behavior <b>of</b> real programs and some 
+cacm-2495 : adapting optimal code generation 
+cacm-0205 : macro instruction extensions <b>of</b> compiler <b>languages</b> macroinstruction compilers constructed from 
+cacm-1496 : the meanings <b>of</b> statements <b>in</b> a large class <b>of</b> computer <b>languages</b> this meta-language has been 
+cacm-2551 : mutual recursion <b>in</b> algol 60 using restricted 
+cacm-2739 : language is <b>used</b> <b>in</b> the current implementation <b>of</b> the linguistic string parser 
+cacm-0929 : glossary <b>construction</b> cacm february 1963 grems 
+cacm-2558 : protection <b>in</b> programming <b>languages</b> linguistic mechanisms which can 
 cacm-1350 : standard-form grammar each <b>of</b> whose rules is <b>in</b> standard form supplemented by 
-cacm-1988 : describing the actions <b>of</b> processors for programming languages-compilers 
-cacm-0252 : <b>used</b> with two computers <b>in</b> a military defense system 
+cacm-2341 : characters <b>in</b> the form <b>of</b> a right parallelepiped best 
+cacm-1835 : <b>languages</b> programming <b>languages</b> student programming systems language 
+cacm-2470 : <b>used</b> informally <b>in</b> the body <b>of</b> the paper cacm august 
+cacm-3151 : <b>in</b> real-time <b>of</b> the convex hull <b>of</b> a set <b>of</b> n points <b>in</b> the plane using an 
+cacm-2684 : the development <b>of</b> bnf the definition <b>of</b> the syntax <b>of</b> programming <b>languages</b> has been almost universally 
+cacm-3080 : and pinpointing <b>of</b> a wide class <b>of</b> errors <b>in</b> the low level language 
+cacm-3101 : <b>of</b> various methods <b>of</b> argument transmission <b>in</b> the source language itself 
+cacm-2767 : be <b>used</b> to schedule events <b>in</b> a general purpose discrete 
+cacm-1788 : form <b>in</b> terms <b>of</b> which a programming notation 
+cacm-1402 : or adams-bashforth method <b>of</b> integration <b>of</b> differential equations this method 
+cacm-2210 : <b>of</b> the induction rule <b>used</b> and the form <b>of</b> the program constructed is 
 cacm-2542 : performance <b>of</b> a proposed design is 
+cacm-3077 : <b>of</b> programs conventional programming <b>languages</b> are growing ever more 
+cacm-1723 : computer <b>construction</b> <b>of</b> project networks project networks 
+cacm-1134 : language and methods <b>of</b> manipulating it compilations <b>of</b> a series <b>of</b> arithmetic statements are discussed 
+cacm-1162 : complete reprogramming <b>of</b> compiler language programs is 
+cacm-1947 : data flow <b>of</b> programs during compilation are 
+cacm-2372 : on the implementation <b>of</b> security measures <b>in</b> information systems the security 
+cacm-2658 : recursion <b>in</b> algol 60 using restricted 
+cacm-2820 : feature <b>of</b> caps is its ability 
+cacm-2254 : value <b>in</b> the design <b>of</b> other array <b>languages</b> the description presented <b>in</b> this paper is implemented 
+cacm-2939 : the use <b>of</b> abstractions <b>in</b> program <b>construction</b> work <b>in</b> programming methodology has led 
+cacm-2424 : even <b>in</b> the presence <b>of</b> a single hardware or 
+cacm-0464 : the results <b>of</b> the syntactic analysis <b>in</b> a tabular form several 
+cacm-1565 : can be <b>used</b> with almost any source 
+cacm-1572 : guides to assist <b>in</b> the analysis <b>of</b> performance characteristics the development 
+cacm-2534 : a maximum degree <b>of</b> diagnostic assistance <b>in</b> a batch processing environment 
+cacm-2411 : <b>of</b> programs semantics <b>of</b> programming <b>languages</b> structured programming 4.12 4.22 
+cacm-2579 : <b>of</b> usage counts shows how 
+cacm-0252 : <b>used</b> with two computers <b>in</b> a military defense system 
+cacm-2112 : <b>used</b> to describe the syntax 
+cacm-1533 : a marovian model <b>of</b> the university <b>of</b> michigan executive system a 
+cacm-1309 : <b>in</b> elementary form use <b>of</b> two special <b>languages</b> extract and matran permits 
+cacm-0799 : applicable to the <b>construction</b> <b>of</b> algol compilers cacm july 
+cacm-1807 : optimization <b>of</b> expressions <b>in</b> fortran a method <b>of</b> optimizing the computation <b>of</b> arithmetic and indexing expressions 
+cacm-1457 : <b>of</b> various processing <b>languages</b> are outlined <b>in</b> the light <b>of</b> the procedures requiring implementation 
+cacm-1323 : <b>of</b> the semantics <b>of</b> algol 60 can be 
+cacm-3124 : assist <b>in</b> the <b>construction</b> <b>of</b> data-driven algorithms cacm february 
 cacm-1062 : <b>of</b> subroutines for use <b>in</b> fortran are described whose 
 cacm-3099 : some <b>of</b> the sets <b>of</b> sufficient conditions presented can 
-cacm-2341 : characters <b>in</b> the form <b>of</b> a right parallelepiped best 
+cacm-1787 : <b>of</b> recognizer <b>used</b> <b>in</b> a number <b>of</b> compilers operates with a 
+cacm-1387 : by itself appears <b>in</b> appropriate however <b>in</b> the solution <b>of</b> large systems <b>of</b> equation due to the 
 cacm-2111 : and the consideration <b>of</b> a limited class <b>of</b> spelling errors sample 360 
-cacm-2411 : <b>of</b> programs semantics <b>of</b> programming <b>languages</b> structured programming 4.12 4.22 
-cacm-2210 : <b>of</b> the induction rule <b>used</b> and the form <b>of</b> the program constructed is 
-cacm-2495 : adapting optimal code generation 
-cacm-2053 : the use <b>of</b> execution time diagnostics <b>in</b> pinpointing ambiguities <b>in</b> decision tables is discussed 
-cacm-0303 : the terminology <b>used</b> <b>in</b> work for the university 
-cacm-2470 : <b>used</b> informally <b>in</b> the body <b>of</b> the paper cacm august 
-cacm-2820 : feature <b>of</b> caps is its ability 
-cacm-3124 : assist <b>in</b> the <b>construction</b> <b>of</b> data-driven algorithms cacm february 
-cacm-2718 : <b>of</b> supporting a set <b>of</b> anticipated queries rather than 
-cacm-1947 : data flow <b>of</b> programs during compilation are 
-cacm-1852 : been <b>used</b> as the base <b>of</b> an implementation by bootstrapping 
-cacm-1484 : <b>of</b> the standard programming <b>languages</b> for the description <b>of</b> systems are discussed and 
+cacm-2320 : <b>of</b> multiprogramming <b>in</b> a high level language 
+cacm-2873 : third characteristic consists <b>of</b> the possibility <b>of</b> using this language to 
 cacm-1348 : produces flowcharts <b>of</b> programs written <b>in</b> almost any programming language 
-cacm-2579 : <b>of</b> usage counts shows how 
-cacm-2551 : mutual recursion <b>in</b> algol 60 using restricted 
+cacm-2921 : <b>of</b> programming <b>languages</b> more concisely and more 
+cacm-2718 : <b>of</b> supporting a set <b>of</b> anticipated queries rather than 
+cacm-3171 : <b>used</b> for implementations <b>of</b> high level <b>languages</b> under suitable circumstances this 
+cacm-1696 : the <b>construction</b> <b>of</b> variable length codes are 
+cacm-1223 : pass <b>in</b> essentially the reverse <b>of</b> the order <b>in</b> which it was generated 
+cacm-2572 : the <b>construction</b> <b>of</b> an information utility <b>in</b> a prototype community or 
+cacm-0070 : <b>construction</b> <b>of</b> a set <b>of</b> test matrices this paper 
+cacm-2990 : to the frequency <b>of</b> occurrence <b>of</b> the term <b>in</b> the documents <b>of</b> a collection it is 
+cacm-1658 : and storage requirements <b>of</b> several <b>of</b> the algorithms are compared 
+cacm-2233 : the aid <b>of</b> an unsanitized version <b>of</b> the declaration <b>of</b> independence was merely a 
 cacm-2652 : effect <b>of</b> changes <b>in</b> the power <b>of</b> a language on the 
-cacm-1565 : can be <b>used</b> with almost any source 
+cacm-0100 : recursive subscripting compilers and 
+cacm-2886 : the definition <b>of</b> programming <b>languages</b> and compilers a formal 
+cacm-2061 : exhaustive study <b>of</b> all possible runs <b>of</b> the pushdown automata generating 
+cacm-2746 : any <b>of</b> a finite number <b>of</b> keywords <b>in</b> a string <b>of</b> text the algorithm consists 
+cacm-1783 : number <b>in</b> one base is converted 

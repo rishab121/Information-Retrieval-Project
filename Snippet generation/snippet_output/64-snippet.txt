@@ -1,100 +1,100 @@
-cacm-2606 : to <b>be</b> superior in speed <b>and</b> accuracy while the new 
-cacm-2232 : illustrative example graphical <b>and</b> tabular comparisons are <b>given</b> substantial variation in width-at-angle 
-cacm-1346 : <b>as</b> well <b>as</b> to present some numerical 
-cacm-1051 : ways <b>and</b> indicate <b>how</b> <b>they</b> relate to the more 
-cacm-2833 : system such <b>as</b> lisp that allocates storage 
-cacm-2229 : <b>and</b> multiplication <b>all</b> rational positive <b>and</b> negative powers of a 
-cacm-3188 : my paper <b>on</b> semiotics <b>and</b> its three dimension i 
-cacm-2358 : <b>and</b> design <b>as</b> experience with use of 
-cacm-0397 : <b>as</b> well <b>as</b> general files since this 
-cacm-3140 : social processes <b>and</b> proofs of theorems <b>and</b> programs it is argued 
-cacm-0527 : members can <b>be</b> distinguished by processing its 
-cacm-3112 : <b>on</b> a serial computer a 
-cacm-2406 : <b>be</b> a key systems <b>as</b> well <b>as</b> in advanced data management 
-cacm-1046 : brooker <b>and</b> morris in a number 
-cacm-2919 : development function will <b>be</b> done <b>on</b> the same machine <b>on</b> which the eventual system 
-cacm-2409 : wiener-hopf technique <b>may</b> <b>be</b> applied it is furthermore 
-cacm-2060 : <b>be</b> implicit ie it <b>may</b> <b>be</b> specified by giving an 
-cacm-2883 : can <b>be</b> represented <b>as</b> a shortest path problem 
-cacm-2184 : <b>be</b> regarded <b>as</b> the abstraction based upon 
+cacm-1614 : existing operators <b>may</b> <b>be</b> redefined the processing of 
+cacm-2317 : systems <b>and</b> <b>they</b> <b>all</b> ran into similar problems 
+cacm-3106 : storage such <b>as</b> a stack is used 
+cacm-3031 : example is <b>given</b> which shows <b>how</b> to employ algebraic axioms 
+cacm-2354 : scheme was described <b>and</b> <b>how</b> each quadrature formula used 
+cacm-1265 : programming languages such <b>as</b> lisp <b>and</b> algol has been made 
+cacm-1459 : <b>may</b> <b>be</b> compiled it <b>may</b> not <b>be</b> the language extensions that 
+cacm-2944 : oriented collection scheme <b>as</b> proposed by deutsch <b>and</b> bobrow the necessary features 
+cacm-1957 : a construct which <b>may</b> <b>be</b> added to a list 
+cacm-2179 : precedence <b>and</b> simple precedence grammars <b>as</b> proper subsets <b>how</b> to construct parsers for 
+cacm-2002 : <b>as</b> simple painless <b>and</b> neat <b>as</b> possible the system described 
+cacm-1911 : subtrees <b>on</b> which <b>they</b> are to <b>be</b> performed a solution to 
+cacm-1216 : produce results <b>as</b> elegant <b>and</b> efficient <b>as</b> those obtained by hand 
+cacm-2905 : stored <b>and</b> from which <b>they</b> can <b>be</b> retrieved by using a 
+cacm-2666 : can <b>be</b> interpreted <b>as</b> a set of timetables 
+cacm-1456 : relations <b>as</b> class inclusion possession <b>and</b> active or passive actions 
+cacm-3189 : <b>may</b> <b>be</b> added to the fortran 
 cacm-3142 : with which errors <b>may</b> <b>be</b> encountered by the end 
-cacm-2106 : such <b>as</b> paging <b>and</b> priority interrupt systems can 
-cacm-2927 : <b>on</b> logn/log logn bits <b>as</b> well cacm september 1977 
-cacm-2970 : using the empty <b>and</b> idle state <b>as</b> the regenerative state a 
+cacm-1847 : n^2 <b>and</b> the time <b>as</b> n^g where g depends 
+cacm-3105 : are stated declaratively <b>and</b> can <b>be</b> enforced by static checking 
+cacm-2177 : graph the graph <b>may</b> <b>be</b> represented either i <b>as</b> an ordered list of 
+cacm-3069 : <b>be</b> modified which <b>may</b> <b>be</b> used <b>and</b> which are possibly preserved 
+cacm-2060 : <b>be</b> implicit ie it <b>may</b> <b>be</b> specified by giving an 
+cacm-1346 : <b>as</b> well <b>as</b> to present some numerical 
 cacm-2051 : <b>as</b> well <b>as</b> the limitations of the 
 cacm-2931 : of the problem <b>and</b> <b>how</b> <b>they</b> are to <b>be</b> transformed the dynamics so 
+cacm-2833 : system such <b>as</b> lisp that allocates storage 
 cacm-2838 : twice <b>as</b> much processing power <b>as</b> regular garbage collectors if 
-cacm-1614 : existing operators <b>may</b> <b>be</b> redefined the processing of 
-cacm-1162 : <b>be</b> treated <b>as</b> a machine language program 
-cacm-1643 : <b>may</b> <b>be</b> increased by dividing in 
-cacm-0731 : forward <b>and</b> a backward link <b>as</b> well <b>as</b> a datum is described 
-cacm-2712 : shown <b>how</b> mean queue size <b>and</b> throughput an <b>be</b> obtained at negligible extra 
-cacm-3105 : are stated declaratively <b>and</b> can <b>be</b> enforced by static checking 
-cacm-1072 : algorithm is based <b>on</b> a tree structure <b>and</b> has reduced computation time 
-cacm-2390 : a tree of <b>all</b> mathematical results <b>and</b> terminology <b>be</b> maintained in a multiterminal 
-cacm-0595 : in solving any <b>given</b> problem <b>and</b> programming concepts it is 
-cacm-1465 : compiler must <b>be</b> based <b>on</b> fixed conventions to preserve 
-cacm-2036 : <b>be</b> invoked <b>as</b> if <b>they</b> had been typed at 
-cacm-1856 : simulation program <b>and</b> theory of language the 
-cacm-1847 : n^2 <b>and</b> the time <b>as</b> n^g where g depends 
-cacm-1911 : subtrees <b>on</b> which <b>they</b> are to <b>be</b> performed a solution to 
-cacm-3189 : <b>may</b> <b>be</b> added to the fortran 
-cacm-2723 : are defined <b>as</b> well <b>as</b> interprocessor communication <b>and</b> interlocks complete procedures for 
-cacm-0106 : is lists <b>may</b> <b>be</b> overlapped unfortunately overlapping poses 
-cacm-2179 : precedence <b>and</b> simple precedence grammars <b>as</b> proper subsets <b>how</b> to construct parsers for 
-cacm-2944 : oriented collection scheme <b>as</b> proposed by deutsch <b>and</b> bobrow the necessary features 
-cacm-1878 : this impediment <b>they</b> however depend <b>on</b> being able to find 
-cacm-3202 : with <b>all</b> blanks removed it <b>may</b> <b>be</b> <b>as</b> complicated <b>as</b> desired parentheses nested without 
-cacm-3069 : <b>be</b> modified which <b>may</b> <b>be</b> used <b>and</b> which are possibly preserved 
-cacm-0675 : <b>as</b> well <b>as</b> quantitative test results consequently 
-cacm-1861 : <b>on</b> <b>how</b> one writes definitions <b>as</b> well <b>as</b> <b>on</b> much of the motivation 
-cacm-1323 : <b>and</b> churchs lambda-notation part i 
-cacm-0865 : <b>and</b> that reading writing <b>and</b> processing can <b>be</b> accomplished simultaneously if the 
-cacm-0616 : questions <b>and</b> comments will <b>be</b> welcomed <b>and</b> can <b>be</b> addressed to any of 
-cacm-2484 : presented <b>may</b> <b>be</b> valuable to designers <b>as</b> useful design concepts <b>and</b> <b>may</b> serve <b>as</b> a basis for developing 
-cacm-1470 : effect subroutines <b>may</b> <b>be</b> entered explicitly by execute 
-cacm-1456 : relations <b>as</b> class inclusion possession <b>and</b> active or passive actions 
-cacm-3074 : a time <b>and</b> space efficient garbage compaction 
-cacm-2993 : occurrences of cycling <b>and</b> other phenomena arising in 
-cacm-1307 : is intimately <b>and</b> primarily concerned with interpreting 
-cacm-2317 : systems <b>and</b> <b>they</b> <b>all</b> ran into similar problems 
-cacm-1957 : a construct which <b>may</b> <b>be</b> added to a list 
-cacm-0497 : shown <b>how</b> bellmans method <b>may</b> <b>be</b> applied to the curve-fitting 
-cacm-2651 : <b>and</b> associated operations in a 
-cacm-2177 : graph the graph <b>may</b> <b>be</b> represented either i <b>as</b> an ordered list of 
-cacm-2513 : list is to <b>be</b> moved <b>and</b> no additional bits per 
+cacm-2406 : <b>be</b> a key systems <b>as</b> well <b>as</b> in advanced data management 
 cacm-2194 : <b>how</b> to keep the addresses 
-cacm-2865 : partial correctness but <b>they</b> are not strong enough 
-cacm-1165 : to <b>be</b> run <b>on</b> the spectra 70/45 without 
-cacm-1931 : one by hansen <b>and</b> r r smith have 
+cacm-2232 : illustrative example graphical <b>and</b> tabular comparisons are <b>given</b> substantial variation in width-at-angle 
+cacm-1307 : is intimately <b>and</b> primarily concerned with interpreting 
 cacm-1486 : programming language <b>and</b> has a library for 
-cacm-3032 : for delivery to <b>all</b> nodes of a network 
-cacm-1853 : collection <b>and</b> system implementation compact lists 
+cacm-3074 : a time <b>and</b> space efficient garbage compaction 
 cacm-2305 : <b>and</b> conceptual system for writing 
-cacm-1264 : of executing programs <b>may</b> <b>be</b> in either english or 
-cacm-2354 : scheme was described <b>and</b> <b>how</b> each quadrature formula used 
 cacm-2609 : can <b>be</b> obtained for a <b>given</b> point set cacm august 
-cacm-3052 : values <b>and</b> <b>how</b> to obtain approximate cold-start 
-cacm-2542 : enough so that <b>they</b> can <b>be</b> corrected without costly major 
-cacm-1769 : effectively <b>they</b> remove these barriers <b>and</b> their barrier-smashing potentialities indicate 
-cacm-3144 : <b>and</b> <b>how</b> these differ from procedures 
+cacm-1878 : this impediment <b>they</b> however depend <b>on</b> being able to find 
+cacm-2723 : are defined <b>as</b> well <b>as</b> interprocessor communication <b>and</b> interlocks complete procedures for 
+cacm-2919 : development function will <b>be</b> done <b>on</b> the same machine <b>on</b> which the eventual system 
+cacm-2229 : <b>and</b> multiplication <b>all</b> rational positive <b>and</b> negative powers of a 
+cacm-1051 : ways <b>and</b> indicate <b>how</b> <b>they</b> relate to the more 
+cacm-2390 : a tree of <b>all</b> mathematical results <b>and</b> terminology <b>be</b> maintained in a multiterminal 
+cacm-0865 : <b>and</b> that reading writing <b>and</b> processing can <b>be</b> accomplished simultaneously if the 
 cacm-2470 : modeled <b>as</b> a data item <b>and</b> <b>how</b> imperative statements can <b>be</b> considered functions <b>on</b> the environment the nature 
-cacm-2622 : <b>all</b> relevant code <b>and</b> data bases <b>may</b> <b>be</b> known by anyone attempting 
-cacm-0321 : to write assignment <b>and</b> go to <b>and</b> for statements etc indeed 
-cacm-2002 : <b>as</b> simple painless <b>and</b> neat <b>as</b> possible the system described 
-cacm-2319 : system must <b>be</b> developed to <b>be</b> able to analyze <b>and</b> design the performance aspects 
-cacm-3054 : algorithm <b>and</b> its best variants <b>on</b> real computers including <b>how</b> to apply various code 
-cacm-1717 : encoding <b>and</b> decimal arithmetic decimal arithmetic 
-cacm-3106 : storage such <b>as</b> a stack is used 
-cacm-1265 : programming languages such <b>as</b> lisp <b>and</b> algol has been made 
-cacm-2905 : stored <b>and</b> from which <b>they</b> can <b>be</b> retrieved by using a 
-cacm-1216 : produce results <b>as</b> elegant <b>and</b> efficient <b>as</b> those obtained by hand 
+cacm-2993 : occurrences of cycling <b>and</b> other phenomena arising in 
+cacm-2651 : <b>and</b> associated operations in a 
+cacm-1643 : <b>may</b> <b>be</b> increased by dividing in 
+cacm-2358 : <b>and</b> design <b>as</b> experience with use of 
 cacm-1665 : the language <b>and</b> detect errors <b>and</b> which would <b>be</b> convenient <b>and</b> easy to use cacm 
-cacm-2766 : <b>on</b> the algorithm <b>given</b> here is that the 
+cacm-2542 : enough so that <b>they</b> can <b>be</b> corrected without costly major 
+cacm-2712 : shown <b>how</b> mean queue size <b>and</b> throughput an <b>be</b> obtained at negligible extra 
+cacm-2865 : partial correctness but <b>they</b> are not strong enough 
+cacm-1162 : <b>be</b> treated <b>as</b> a machine language program 
+cacm-1165 : to <b>be</b> run <b>on</b> the spectra 70/45 without 
+cacm-0616 : questions <b>and</b> comments will <b>be</b> welcomed <b>and</b> can <b>be</b> addressed to any of 
+cacm-0397 : <b>as</b> well <b>as</b> general files since this 
+cacm-1264 : of executing programs <b>may</b> <b>be</b> in either english or 
+cacm-1046 : brooker <b>and</b> morris in a number 
+cacm-1769 : effectively <b>they</b> remove these barriers <b>and</b> their barrier-smashing potentialities indicate 
+cacm-2484 : presented <b>may</b> <b>be</b> valuable to designers <b>as</b> useful design concepts <b>and</b> <b>may</b> serve <b>as</b> a basis for developing 
+cacm-3144 : <b>and</b> <b>how</b> these differ from procedures 
+cacm-1861 : <b>on</b> <b>how</b> one writes definitions <b>as</b> well <b>as</b> <b>on</b> much of the motivation 
+cacm-3140 : social processes <b>and</b> proofs of theorems <b>and</b> programs it is argued 
+cacm-2970 : using the empty <b>and</b> idle state <b>as</b> the regenerative state a 
+cacm-2513 : list is to <b>be</b> moved <b>and</b> no additional bits per 
+cacm-0595 : in solving any <b>given</b> problem <b>and</b> programming concepts it is 
+cacm-2106 : such <b>as</b> paging <b>and</b> priority interrupt systems can 
 cacm-1608 : shown that <b>they</b> can <b>be</b> used for some other 
-cacm-1459 : <b>may</b> <b>be</b> compiled it <b>may</b> not <b>be</b> the language extensions that 
-cacm-1976 : each bucket <b>may</b> <b>be</b> used for many combinations 
-cacm-3031 : example is <b>given</b> which shows <b>how</b> to employ algebraic axioms 
-cacm-2666 : can <b>be</b> interpreted <b>as</b> a set of timetables 
-cacm-3121 : <b>may</b> <b>be</b> used for development of 
+cacm-2409 : wiener-hopf technique <b>may</b> <b>be</b> applied it is furthermore 
+cacm-1323 : <b>and</b> churchs lambda-notation part i 
+cacm-2184 : <b>be</b> regarded <b>as</b> the abstraction based upon 
+cacm-2622 : <b>all</b> relevant code <b>and</b> data bases <b>may</b> <b>be</b> known by anyone attempting 
+cacm-3112 : <b>on</b> a serial computer a 
+cacm-2606 : to <b>be</b> superior in speed <b>and</b> accuracy while the new 
+cacm-0321 : to write assignment <b>and</b> go to <b>and</b> for statements etc indeed 
+cacm-1072 : algorithm is based <b>on</b> a tree structure <b>and</b> has reduced computation time 
 cacm-2841 : <b>as</b> isoparametric line drawings <b>on</b> a head-mounted display <b>and</b> <b>they</b> are designed with the 
+cacm-3032 : for delivery to <b>all</b> nodes of a network 
+cacm-1976 : each bucket <b>may</b> <b>be</b> used for many combinations 
+cacm-3188 : my paper <b>on</b> semiotics <b>and</b> its three dimension i 
+cacm-3202 : with <b>all</b> blanks removed it <b>may</b> <b>be</b> <b>as</b> complicated <b>as</b> desired parentheses nested without 
+cacm-2036 : <b>be</b> invoked <b>as</b> if <b>they</b> had been typed at 
+cacm-1853 : collection <b>and</b> system implementation compact lists 
+cacm-3121 : <b>may</b> <b>be</b> used for development of 
+cacm-1856 : simulation program <b>and</b> theory of language the 
+cacm-2927 : <b>on</b> logn/log logn bits <b>as</b> well cacm september 1977 
+cacm-0675 : <b>as</b> well <b>as</b> quantitative test results consequently 
+cacm-3054 : algorithm <b>and</b> its best variants <b>on</b> real computers including <b>how</b> to apply various code 
+cacm-0731 : forward <b>and</b> a backward link <b>as</b> well <b>as</b> a datum is described 
+cacm-1470 : effect subroutines <b>may</b> <b>be</b> entered explicitly by execute 
+cacm-0497 : shown <b>how</b> bellmans method <b>may</b> <b>be</b> applied to the curve-fitting 
+cacm-2319 : system must <b>be</b> developed to <b>be</b> able to analyze <b>and</b> design the performance aspects 
+cacm-1465 : compiler must <b>be</b> based <b>on</b> fixed conventions to preserve 
+cacm-0527 : members can <b>be</b> distinguished by processing its 
+cacm-1931 : one by hansen <b>and</b> r r smith have 
+cacm-2766 : <b>on</b> the algorithm <b>given</b> here is that the 
+cacm-3052 : values <b>and</b> <b>how</b> to obtain approximate cold-start 
+cacm-1717 : encoding <b>and</b> decimal arithmetic decimal arithmetic 
+cacm-2883 : can <b>be</b> represented <b>as</b> a shortest path problem 
+cacm-0106 : is lists <b>may</b> <b>be</b> overlapped unfortunately overlapping poses 

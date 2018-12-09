@@ -1,100 +1,100 @@
-cacm-2059 : <b>of</b> graph is described <b>and</b> the formulation <b>of</b> graph <b>operations</b> <b>such</b> <b>as</b> node and/or link deletion 
-cacm-2359 : significant <b>use</b> <b>of</b> the <b>file</b> in the <b>index</b> <b>as</b> opposed <b>to</b> the sequential mode using 
-cacm-2722 : <b>of</b> <b>information</b> <b>to</b> be retrieved by associative 
-cacm-2358 : <b>and</b> design <b>as</b> experience with <b>use</b> <b>of</b> on-line operating systems has 
-cacm-2991 : effect <b>of</b> nonuniformity in <b>file</b> loading <b>and</b> decrease the number <b>of</b> maximum probes needed <b>to</b> locate a record the 
-cacm-3128 : are shown <b>to</b> be applicable <b>to</b> situations where confinement <b>of</b> <b>information</b> matters an implementation <b>of</b> eventcount s <b>and</b> sequencers in a <b>system</b> with shared memory is 
-cacm-2977 : budget growth <b>and</b> a separation between <b>models</b> <b>of</b> budgeting growth <b>and</b> growth stages in the 
-cacm-2406 : logical <b>and</b> physical aspects <b>of</b> data applications <b>of</b> these generalized data definition 
-cacm-1828 : <b>system</b> methods for synchronization <b>of</b> processes are examined their 
-cacm-2669 : model is easy <b>to</b> manipulate <b>and</b> is applicable <b>to</b> <b>such</b> diverse problems <b>as</b> choosing an optimum size 
-cacm-0944 : processing the purpose <b>of</b> this paper is <b>to</b> examine the storage <b>and</b> search properties <b>of</b> a tree-organized storage <b>system</b> assuming that a memory 
-cacm-2816 : optimal reorganization <b>of</b> <b>distributed</b> space disk files in 
-cacm-2988 : variables <b>such</b> <b>as</b> memory requirement distribution <b>and</b> job swap time <b>and</b> performance measures <b>such</b> <b>as</b> response time <b>and</b> memory utilization are graphically 
-cacm-2862 : using these <b>models</b> <b>such</b> parameters <b>as</b> the inter-page-fault interval distribution 
-cacm-1908 : <b>of</b> problem-solving using time-sharing <b>and</b> batch-processing computer systems conducted 
-cacm-2859 : model <b>of</b> <b>such</b> a <b>system</b> the limiting value is 
-cacm-2318 : the role <b>of</b> computer <b>system</b> <b>models</b> in performance evaluation <b>models</b> constitute a useful means 
-cacm-3012 : the <b>use</b> <b>of</b> an interactive <b>information</b> storage <b>and</b> retrieval <b>system</b> in medical <b>research</b> this paper presents the 
-cacm-2375 : performance criteria <b>of</b> expected seek time <b>system</b> orientedand expected waiting time 
-cacm-3089 : the <b>system</b> is assumed <b>to</b> operate with a checkpointing 
-cacm-1695 : by the network <b>and</b> <b>to</b> store <b>and</b> retrieve networks <b>and</b> data from a library 
-cacm-2451 : design <b>of</b> <b>such</b> trees <b>to</b> serve a well-specified application 
-cacm-1745 : communications <b>and</b> the development <b>of</b> <b>information</b> services 2 the wide 
-cacm-3059 : cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied <b>to</b> the analysis <b>of</b> these problems the percentage 
-cacm-2750 : present algorithm seems <b>to</b> be usefully accurate <b>as</b> <b>such</b> it can aid in 
-cacm-2741 : <b>of</b> variable aggregation <b>and</b> the concept <b>of</b> nearly decomposable <b>system</b> both borrowed from econometrics 
-cacm-0068 : computers data processing <b>operations</b> <b>research</b> <b>and</b> other closely related fields 
-cacm-2390 : describes how the <b>system</b> can be organized <b>and</b> the role required <b>of</b> readers writers <b>and</b> commentators cacm february 1972 
-cacm-0397 : variety <b>of</b> reference files in <b>information</b> processing an 80-column ibm 
-cacm-2928 : multics <b>to</b> control the level <b>of</b> multiprogramming in the <b>system</b> <b>and</b> <b>to</b> bill for memory usage 
-cacm-2064 : genie compiler <b>operations</b> on vectors matrices <b>and</b> higher dimensional storage arrays 
-cacm-1856 : <b>of</b> examples <b>of</b> <b>such</b> assertions <b>and</b> capabilities but within the 
-cacm-1652 : the <b>information</b> channel linking the <b>system</b> <b>and</b> the <b>system</b> user the code has 
-cacm-3002 : design <b>of</b> a <b>file</b> <b>system</b> is the reduction <b>of</b> storage <b>and</b> data transfer costs this 
-cacm-2324 : <b>as</b> well <b>as</b> the current obstacles <b>to</b> practical <b>use</b> <b>of</b> these mathematical programming techniques 
-cacm-0409 : <b>system</b> <b>to</b> facilitate the solution <b>of</b> <b>information</b> processing problems <b>and</b> <b>to</b> provide intercommunication between programs 
-cacm-1700 : the <b>and</b> operation <b>of</b> this mask <b>and</b> a similarly constructed question 
-cacm-2979 : make deductive <b>and</b> inductive inferences <b>and</b> form <b>and</b> <b>optimize</b> heuristic rules <b>and</b> how machines can reach 
-cacm-3011 : <b>of</b> computing <b>and</b> tends <b>to</b> control computing <b>decisions</b> <b>and</b> where department users have 
-cacm-2876 : ability <b>to</b> condition the supply <b>of</b> <b>information</b> on its intended <b>use</b> is called here intentional 
-cacm-0696 : disc <b>file</b> is used <b>to</b> store <b>information</b> required <b>to</b> provide up-to-date <b>information</b> in response <b>to</b> inquiries received from remotely 
-cacm-1267 : discussion <b>includes</b> the pertinent aspects <b>of</b> <b>information</b> transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> <b>information</b> bits trib <b>of</b> residual errors <b>and</b> <b>of</b> standard measurement conditions the 
-cacm-2949 : the nodes <b>of</b> a <b>distributed</b> computer network <b>to</b> communicate each node must 
-cacm-1194 : establishment <b>of</b> the acm repository <b>and</b> principles <b>of</b> the ir <b>system</b> applied <b>to</b> its operation the history 
-cacm-1765 : survey it conducted <b>to</b> determine the funding <b>and</b> characterize the utilization <b>of</b> computers used for <b>research</b> <b>and</b> instruction in institutions <b>of</b> higher education in the 
-cacm-1066 : systems some <b>of</b> the components <b>of</b> <b>such</b> a <b>system</b> are translation <b>of</b> problem statement in terms 
-cacm-2484 : the problem <b>of</b> <b>information</b> organization <b>and</b> storage is reduced <b>to</b> that <b>of</b> defining relations <b>and</b> formulating algorithms under a 
-cacm-3090 : r social impacts <b>of</b> computing organizational impacts <b>of</b> computing management <b>information</b> systems sociology <b>of</b> computing <b>information</b> systems <b>and</b> service integration urban <b>information</b> systems 2.11 3.53 ca780607 
-cacm-3070 : the <b>use</b> <b>of</b> <b>system</b> processors the accuracy <b>and</b> efficiency <b>of</b> the hybrid technique are 
-cacm-1456 : on the logic <b>of</b> question answering examples <b>of</b> methods <b>of</b> inputting <b>information</b> <b>and</b> answering simple english questions 
-cacm-2978 : indexes a class <b>of</b> <b>index</b> structures for <b>use</b> in a virtual memory 
-cacm-2645 : language which <b>includes</b> most <b>of</b> the features <b>of</b> algol 60 the second 
-cacm-0462 : diagnosis the <b>use</b> <b>of</b> programmed digital computers <b>as</b> general pattern classification <b>and</b> recognition devices is one 
-cacm-2765 : complexity <b>of</b> queries <b>and</b> machine timing <b>and</b> blocking specifications identified <b>as</b> having a first-order effect 
-cacm-2892 : <b>models</b> <b>of</b> <b>system</b> <b>use</b> is studied some measurements 
-cacm-1699 : <b>of</b> <b>such</b> a <b>system</b> include ease <b>of</b> <b>use</b> learning time <b>and</b> effectiveness <b>of</b> actual retrieval three experiments 
-cacm-2951 : <b>as</b> well <b>as</b> the technical component <b>of</b> networking must be fully 
-cacm-2033 : time required <b>to</b> identify a message <b>as</b> a nonmember <b>of</b> the given set reject 
-cacm-3058 : the number <b>of</b> records multiple level <b>and</b> variable size jump strategies 
-cacm-1519 : sharing <b>and</b> operating <b>system</b> an operating <b>system</b> is described which will 
-cacm-2593 : level language <b>such</b> <b>as</b> the codasyl data base 
-cacm-2680 : must be made <b>as</b> <b>to</b> which files are <b>to</b> be permanently resident <b>and</b> which mountable these <b>decisions</b> will affect the number 
 cacm-2046 : inference are discussed <b>and</b> applied <b>to</b> the problems <b>of</b> redundancy <b>and</b> consistency in the users 
-cacm-2631 : by spaces <b>and</b> chooses subsets <b>of</b> strings <b>such</b> that their frequencies <b>of</b> occurrence are more even 
-cacm-3028 : design concepts <b>such</b> <b>as</b> address-generation <b>and</b> store management have evolved 
-cacm-3017 : frequency been proposed <b>as</b> a basic storage structure 
-cacm-3103 : example <b>and</b> overview the <b>use</b> <b>of</b> several levels <b>of</b> abstraction has proved <b>to</b> be very helpful in 
-cacm-3129 : <b>file</b> runs out <b>of</b> space the <b>system</b> must be reorganized this 
-cacm-1033 : <b>includes</b> display <b>and</b> entry <b>of</b> program <b>and</b> data sequence control is 
 cacm-1412 : banking <b>information</b> <b>system</b> the banking <b>information</b> <b>system</b> now serves the two-fold 
-cacm-3181 : <b>and</b> government <b>as</b> well <b>as</b> consumers <b>as</b> a result any effort 
+cacm-2593 : level language <b>such</b> <b>as</b> the codasyl data base 
+cacm-3070 : the <b>use</b> <b>of</b> <b>system</b> processors the accuracy <b>and</b> efficiency <b>of</b> the hybrid technique are 
+cacm-3059 : cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied <b>to</b> the analysis <b>of</b> these problems the percentage 
+cacm-2859 : model <b>of</b> <b>such</b> a <b>system</b> the limiting value is 
+cacm-2765 : complexity <b>of</b> queries <b>and</b> machine timing <b>and</b> blocking specifications identified <b>as</b> having a first-order effect 
 cacm-2926 : within the <b>file</b> <b>and</b> if a wide distribution 
+cacm-1765 : survey it conducted <b>to</b> determine the funding <b>and</b> characterize the utilization <b>of</b> computers used for <b>research</b> <b>and</b> instruction in institutions <b>of</b> higher education in the 
+cacm-2892 : <b>models</b> <b>of</b> <b>system</b> <b>use</b> is studied some measurements 
+cacm-3002 : design <b>of</b> a <b>file</b> <b>system</b> is the reduction <b>of</b> storage <b>and</b> data transfer costs this 
+cacm-2984 : for evaluating computer <b>system</b> performance in terms <b>of</b> a cost/utilization factor <b>and</b> a measure <b>of</b> imbalance these coefficients indicate 
+cacm-3103 : example <b>and</b> overview the <b>use</b> <b>of</b> several levels <b>of</b> abstraction has proved <b>to</b> be very helpful in 
+cacm-0944 : processing the purpose <b>of</b> this paper is <b>to</b> examine the storage <b>and</b> search properties <b>of</b> a tree-organized storage <b>system</b> assuming that a memory 
+cacm-2645 : language which <b>includes</b> most <b>of</b> the features <b>of</b> algol 60 the second 
+cacm-3028 : design concepts <b>such</b> <b>as</b> address-generation <b>and</b> store management have evolved 
+cacm-2750 : present algorithm seems <b>to</b> be usefully accurate <b>as</b> <b>such</b> it can aid in 
+cacm-1700 : the <b>and</b> operation <b>of</b> this mask <b>and</b> a similarly constructed question 
+cacm-1456 : on the logic <b>of</b> question answering examples <b>of</b> methods <b>of</b> inputting <b>information</b> <b>and</b> answering simple english questions 
+cacm-2059 : <b>of</b> graph is described <b>and</b> the formulation <b>of</b> graph <b>operations</b> <b>such</b> <b>as</b> node and/or link deletion 
+cacm-3089 : the <b>system</b> is assumed <b>to</b> operate with a checkpointing 
+cacm-2722 : <b>of</b> <b>information</b> <b>to</b> be retrieved by associative 
+cacm-1194 : establishment <b>of</b> the acm repository <b>and</b> principles <b>of</b> the ir <b>system</b> applied <b>to</b> its operation the history 
+cacm-1976 : one <b>secondary</b> <b>index</b> field only <b>and</b> 4 the avoidance <b>of</b> long strings <b>of</b> keys when an <b>index</b> field appearing in a 
+cacm-0696 : disc <b>file</b> is used <b>to</b> store <b>information</b> required <b>to</b> provide up-to-date <b>information</b> in response <b>to</b> inquiries received from remotely 
 cacm-3134 : the appropriateness <b>of</b> the above approach <b>to</b> a given <b>information</b> <b>system</b> are described for a 
+cacm-3129 : <b>file</b> runs out <b>of</b> space the <b>system</b> must be reorganized this 
+cacm-1534 : the design <b>and</b> implementation <b>of</b> the c operating <b>system</b> dad is described in 
+cacm-2716 : <b>to</b> <b>optimize</b> the performance <b>of</b> a particular user query 
+cacm-2862 : using these <b>models</b> <b>such</b> parameters <b>as</b> the inter-page-fault interval distribution 
+cacm-2882 : <b>and</b> cellular list organizations <b>and</b> hybrid combinations <b>of</b> these systems effectiveness <b>of</b> the methodology is demonstrated 
+cacm-2991 : effect <b>of</b> nonuniformity in <b>file</b> loading <b>and</b> decrease the number <b>of</b> maximum probes needed <b>to</b> locate a record the 
+cacm-0397 : variety <b>of</b> reference files in <b>information</b> processing an 80-column ibm 
+cacm-3181 : <b>and</b> government <b>as</b> well <b>as</b> consumers <b>as</b> a result any effort 
+cacm-2876 : ability <b>to</b> condition the supply <b>of</b> <b>information</b> on its intended <b>use</b> is called here intentional 
+cacm-2846 : measured in terms <b>of</b> bit inspections <b>of</b> one key is <b>of</b> the order logmn <b>and</b> the storage requirement <b>of</b> the order nm+log2 n 
+cacm-1828 : <b>system</b> methods for synchronization <b>of</b> processes are examined their 
+cacm-2526 : is presented <b>of</b> some <b>of</b> the <b>system</b> implications <b>of</b> memory hierarchies in which 
+cacm-2318 : the role <b>of</b> computer <b>system</b> <b>models</b> in performance evaluation <b>models</b> constitute a useful means 
+cacm-1519 : sharing <b>and</b> operating <b>system</b> an operating <b>system</b> is described which will 
+cacm-2634 : <b>and</b> tsar in order <b>to</b> provide users with a 
+cacm-1699 : <b>of</b> <b>such</b> a <b>system</b> include ease <b>of</b> <b>use</b> learning time <b>and</b> effectiveness <b>of</b> actual retrieval three experiments 
+cacm-2979 : make deductive <b>and</b> inductive inferences <b>and</b> form <b>and</b> <b>optimize</b> heuristic rules <b>and</b> how machines can reach 
+cacm-2324 : <b>as</b> well <b>as</b> the current obstacles <b>to</b> practical <b>use</b> <b>of</b> these mathematical programming techniques 
+cacm-0068 : computers data processing <b>operations</b> <b>research</b> <b>and</b> other closely related fields 
+cacm-1652 : the <b>information</b> channel linking the <b>system</b> <b>and</b> the <b>system</b> user the code has 
+cacm-2437 : new approach <b>to</b> the analysis <b>of</b> performance <b>of</b> the various key-to-address transformation 
+cacm-1908 : <b>of</b> problem-solving using time-sharing <b>and</b> batch-processing computer systems conducted 
+cacm-1695 : by the network <b>and</b> <b>to</b> store <b>and</b> retrieve networks <b>and</b> data from a library 
+cacm-2860 : for the design <b>of</b> record addressing algorithms <b>and</b> discusses the applicability <b>of</b> these rules <b>to</b> large commercial databases guidelines 
+cacm-2680 : must be made <b>as</b> <b>to</b> which files are <b>to</b> be permanently resident <b>and</b> which mountable these <b>decisions</b> will affect the number 
+cacm-2358 : <b>and</b> design <b>as</b> experience with <b>use</b> <b>of</b> on-line operating systems has 
+cacm-3058 : the number <b>of</b> records multiple level <b>and</b> variable size jump strategies 
+cacm-2741 : <b>of</b> variable aggregation <b>and</b> the concept <b>of</b> nearly decomposable <b>system</b> both borrowed from econometrics 
+cacm-2951 : <b>as</b> well <b>as</b> the technical component <b>of</b> networking must be fully 
 cacm-2542 : a software design <b>and</b> evaluation <b>system</b> a critical failure <b>of</b> current software <b>system</b> design <b>and</b> implementation methodology is that 
 cacm-1680 : <b>operations</b> <b>such</b> <b>as</b> simulation programming <b>and</b> <b>information</b> retrieval it is written 
-cacm-1032 : enter the <b>file</b> <b>to</b> circumvent the scanning <b>of</b> nonrelevant material <b>and</b> c <b>file</b> organization <b>to</b> make access <b>to</b> <b>information</b> efficient for identification <b>of</b> <b>information</b> the paper suggests that 
-cacm-1226 : him <b>to</b> limit the number <b>of</b> <b>file</b> organizations he must consider 
-cacm-2716 : <b>to</b> <b>optimize</b> the performance <b>of</b> a particular user query 
-cacm-2140 : <b>to</b> show minimal cost <b>of</b> <b>file</b> usage by grouping various 
-cacm-2307 : the stored <b>information</b> <b>as</b> a function <b>of</b> earlier <b>file</b> processing <b>and</b> <b>of</b> normal collection growth the 
-cacm-3087 : the operation <b>of</b> <b>system</b> components <b>and</b> examples <b>of</b> overall <b>system</b> operation the language processing 
-cacm-2319 : various subsystems <b>of</b> an operating <b>system</b> an overall model <b>of</b> the total <b>system</b> must be developed <b>to</b> be able <b>to</b> analyze <b>and</b> design the performance aspects 
-cacm-1534 : the design <b>and</b> implementation <b>of</b> the c operating <b>system</b> dad is described in 
-cacm-2957 : databases defined <b>as</b> collections <b>of</b> aggregates are structured <b>as</b> a hierarchy on n-ary 
-cacm-2882 : <b>and</b> cellular list organizations <b>and</b> hybrid combinations <b>of</b> these systems effectiveness <b>of</b> the methodology is demonstrated 
-cacm-2437 : new approach <b>to</b> the analysis <b>of</b> performance <b>of</b> the various key-to-address transformation 
-cacm-1515 : <b>of</b> large collections <b>of</b> factual data a <b>system</b> called relational data <b>file</b> was developed for this 
-cacm-2969 : between files <b>and</b> programs <b>such</b> <b>as</b> occur in real heterogeneous 
-cacm-2718 : a preliminary <b>system</b> for the design <b>of</b> dbtg data structures the 
-cacm-3136 : <b>to</b> be meaningless multiple-regression <b>models</b> predicting <b>system</b> cost <b>as</b> a function <b>of</b> several hardware characteristics do 
 cacm-2452 : a f <b>file</b> organization <b>file</b> structures <b>file</b> management <b>file</b> organization performance <b>file</b> organization model <b>file</b> structure design <b>secondary</b> <b>index</b> organization simulation data base 
-cacm-2114 : the concepts <b>of</b> keyword <b>index</b> record <b>file</b> directory <b>file</b> structure directory decoding <b>and</b> record retrieval are defined 
-cacm-2860 : for the design <b>of</b> record addressing algorithms <b>and</b> discusses the applicability <b>of</b> these rules <b>to</b> large commercial databases guidelines 
-cacm-2526 : is presented <b>of</b> some <b>of</b> the <b>system</b> implications <b>of</b> memory hierarchies in which 
-cacm-2846 : measured in terms <b>of</b> bit inspections <b>of</b> one key is <b>of</b> the order logmn <b>and</b> the storage requirement <b>of</b> the order nm+log2 n 
-cacm-2634 : <b>and</b> tsar in order <b>to</b> provide users with a 
+cacm-3136 : <b>to</b> be meaningless multiple-regression <b>models</b> predicting <b>system</b> cost <b>as</b> a function <b>of</b> several hardware characteristics do 
+cacm-2484 : the problem <b>of</b> <b>information</b> organization <b>and</b> storage is reduced <b>to</b> that <b>of</b> defining relations <b>and</b> formulating algorithms under a 
+cacm-2406 : logical <b>and</b> physical aspects <b>of</b> data applications <b>of</b> these generalized data definition 
+cacm-2978 : indexes a class <b>of</b> <b>index</b> structures for <b>use</b> in a virtual memory 
+cacm-2669 : model is easy <b>to</b> manipulate <b>and</b> is applicable <b>to</b> <b>such</b> diverse problems <b>as</b> choosing an optimum size 
+cacm-0462 : diagnosis the <b>use</b> <b>of</b> programmed digital computers <b>as</b> general pattern classification <b>and</b> recognition devices is one 
+cacm-2375 : performance criteria <b>of</b> expected seek time <b>system</b> orientedand expected waiting time 
+cacm-2928 : multics <b>to</b> control the level <b>of</b> multiprogramming in the <b>system</b> <b>and</b> <b>to</b> bill for memory usage 
+cacm-3017 : frequency been proposed <b>as</b> a basic storage structure 
+cacm-0409 : <b>system</b> <b>to</b> facilitate the solution <b>of</b> <b>information</b> processing problems <b>and</b> <b>to</b> provide intercommunication between programs 
+cacm-3087 : the operation <b>of</b> <b>system</b> components <b>and</b> examples <b>of</b> overall <b>system</b> operation the language processing 
+cacm-3128 : are shown <b>to</b> be applicable <b>to</b> situations where confinement <b>of</b> <b>information</b> matters an implementation <b>of</b> eventcount s <b>and</b> sequencers in a <b>system</b> with shared memory is 
+cacm-3012 : the <b>use</b> <b>of</b> an interactive <b>information</b> storage <b>and</b> retrieval <b>system</b> in medical <b>research</b> this paper presents the 
+cacm-2359 : significant <b>use</b> <b>of</b> the <b>file</b> in the <b>index</b> <b>as</b> opposed <b>to</b> the sequential mode using 
+cacm-2140 : <b>to</b> show minimal cost <b>of</b> <b>file</b> usage by grouping various 
+cacm-2451 : design <b>of</b> <b>such</b> trees <b>to</b> serve a well-specified application 
+cacm-1032 : enter the <b>file</b> <b>to</b> circumvent the scanning <b>of</b> nonrelevant material <b>and</b> c <b>file</b> organization <b>to</b> make access <b>to</b> <b>information</b> efficient for identification <b>of</b> <b>information</b> the paper suggests that 
+cacm-2969 : between files <b>and</b> programs <b>such</b> <b>as</b> occur in real heterogeneous 
+cacm-1033 : <b>includes</b> display <b>and</b> entry <b>of</b> program <b>and</b> data sequence control is 
+cacm-1267 : discussion <b>includes</b> the pertinent aspects <b>of</b> <b>information</b> transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> <b>information</b> bits trib <b>of</b> residual errors <b>and</b> <b>of</b> standard measurement conditions the 
 cacm-2893 : edp <b>and</b> in the extensiveness <b>and</b> sophistication <b>of</b> their automated applications the 
-cacm-1976 : one <b>secondary</b> <b>index</b> field only <b>and</b> 4 the avoidance <b>of</b> long strings <b>of</b> keys when an <b>index</b> field appearing in a 
+cacm-1745 : communications <b>and</b> the development <b>of</b> <b>information</b> services 2 the wide 
+cacm-2816 : optimal reorganization <b>of</b> <b>distributed</b> space disk files in 
+cacm-2114 : the concepts <b>of</b> keyword <b>index</b> record <b>file</b> directory <b>file</b> structure directory decoding <b>and</b> record retrieval are defined 
+cacm-1856 : <b>of</b> examples <b>of</b> <b>such</b> assertions <b>and</b> capabilities but within the 
+cacm-2307 : the stored <b>information</b> <b>as</b> a function <b>of</b> earlier <b>file</b> processing <b>and</b> <b>of</b> normal collection growth the 
+cacm-2977 : budget growth <b>and</b> a separation between <b>models</b> <b>of</b> budgeting growth <b>and</b> growth stages in the 
+cacm-2718 : a preliminary <b>system</b> for the design <b>of</b> dbtg data structures the 
+cacm-1515 : <b>of</b> large collections <b>of</b> factual data a <b>system</b> called relational data <b>file</b> was developed for this 
+cacm-2988 : variables <b>such</b> <b>as</b> memory requirement distribution <b>and</b> job swap time <b>and</b> performance measures <b>such</b> <b>as</b> response time <b>and</b> memory utilization are graphically 
+cacm-2390 : describes how the <b>system</b> can be organized <b>and</b> the role required <b>of</b> readers writers <b>and</b> commentators cacm february 1972 
+cacm-2319 : various subsystems <b>of</b> an operating <b>system</b> an overall model <b>of</b> the total <b>system</b> must be developed <b>to</b> be able <b>to</b> analyze <b>and</b> design the performance aspects 
+cacm-2957 : databases defined <b>as</b> collections <b>of</b> aggregates are structured <b>as</b> a hierarchy on n-ary 
+cacm-3090 : r social impacts <b>of</b> computing organizational impacts <b>of</b> computing management <b>information</b> systems sociology <b>of</b> computing <b>information</b> systems <b>and</b> service integration urban <b>information</b> systems 2.11 3.53 ca780607 
+cacm-1066 : systems some <b>of</b> the components <b>of</b> <b>such</b> a <b>system</b> are translation <b>of</b> problem statement in terms 
+cacm-2033 : time required <b>to</b> identify a message <b>as</b> a nonmember <b>of</b> the given set reject 
+cacm-2949 : the nodes <b>of</b> a <b>distributed</b> computer network <b>to</b> communicate each node must 
+cacm-3011 : <b>of</b> computing <b>and</b> tends <b>to</b> control computing <b>decisions</b> <b>and</b> where department users have 
+cacm-2064 : genie compiler <b>operations</b> on vectors matrices <b>and</b> higher dimensional storage arrays 
 cacm-2812 : computer-aided analysis <b>and</b> design <b>of</b> <b>information</b> systems this paper describes 
-cacm-2984 : for evaluating computer <b>system</b> performance in terms <b>of</b> a cost/utilization factor <b>and</b> a measure <b>of</b> imbalance these coefficients indicate 
+cacm-2631 : by spaces <b>and</b> chooses subsets <b>of</b> strings <b>such</b> that their frequencies <b>of</b> occurrence are more even 
+cacm-1226 : him <b>to</b> limit the number <b>of</b> <b>file</b> organizations he must consider 

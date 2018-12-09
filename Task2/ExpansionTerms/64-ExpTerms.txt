@@ -1,10 +1,10 @@
 data
 graph
-jb
 1978
 cacm
+jb
 system
-information
 computer
+information
 structures
-paper
+tree

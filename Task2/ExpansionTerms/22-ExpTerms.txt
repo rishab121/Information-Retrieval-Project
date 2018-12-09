@@ -1,8 +1,8 @@
 clipping
 display
-jb
-cacm
 data
+cacm
+jb
 method
 systems
 1978
