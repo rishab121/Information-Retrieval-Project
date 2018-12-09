@@ -1,9 +1,10 @@
 from __future__ import division
+from decimal import Decimal
 import os
 from os.path import exists
 from collections import defaultdict
 import collections
-
+import operator
 
 relevant_documents = defaultdict()
 output_relevant_documents = defaultdict()
@@ -50,14 +51,6 @@ def populateOutputRelevantDictionary(path):
 			count+=1
 
 	totalQueries = len(output_relevant_documents.keys())
-	# print totalQueries
-
-	# print output_relevant_documents.keys()
-
-	# for query in output_relevant_documents:
-	# 	print "\n"
-	# 	print query
-	# 	print output_relevant_documents[query]
 
 	file.close()
 
@@ -114,14 +107,14 @@ def calculatePrecisionAndRecall(responseDict,docsConsidered,path,plotname):
 				no_of_relevant_docs_retrieved+=1
 			no_of_docs_retrieved+=1
 			if no_of_relevant_docs == 0:
-				recallList.append(0.0)
+				recallList.append(Decimal('0.0'))
 			else:
-				recallList.append(float(no_of_relevant_docs_retrieved)/float(no_of_relevant_docs))
+				recallList.append(Decimal(no_of_relevant_docs_retrieved)/Decimal(no_of_relevant_docs))
 				# recallList.append(float(no_of_relevant_docs_retrieved)/float(no_of_relevant_docs))
 			# precisionList.append(float(no_of_relevant_docs_retrieved)/float(no_of_docs_retrieved))
 			if item == 'R':
-				average_precision+=float(no_of_relevant_docs_retrieved)/float(no_of_docs_retrieved)
-			precisionList.append(float(no_of_relevant_docs_retrieved)/float(no_of_docs_retrieved))
+				average_precision+=Decimal(no_of_relevant_docs_retrieved)/Decimal(no_of_docs_retrieved)
+			precisionList.append(Decimal(no_of_relevant_docs_retrieved)/Decimal(no_of_docs_retrieved))
 		precisionDict[query] = precisionList
 		recallDict[query] = recallList
 		if no_of_relevant_docs==0:
@@ -173,17 +166,17 @@ def writeOutputToFile(responseList,precisionList,recallList,queryId,docsConsider
 				dmr = queryId-documents_with_no_relevance_judgements
 				f.write("Mean Average precision: " + str(mean_average_precision/dmr)+"\n")
 				f.write("Mean Reciprocal rank: " + str(float(mean_reciprocal_rank/dmr)) + "\n")
-		# populateFileForPlot(precisionList,recallList,queryId,plotname,docs)
+		populateFileForPlot(precisionList,recallList,queryId,plotname,docs,average_precision)
 
 
-# def populateFileForPlot(precisionList,recallList,queryId,plotname,docs):
-# 	count = 0
-# 	with open('plot_file.txt', 'a+') as f:
-# 		for x in range(0, len(precisionList)):
-# 			if(count <2 and precisionList[x] > 0.7 and recallList[x]>0.7):
-# 				count+=1
-# 				f.write(str(queryId) + " " + str(precisionList[x]) + " " + str(recallList[x]) + " " + str(plotname) + " " + str(docs[x]) + "\n")
-# 	f.close()
+def populateFileForPlot(precisionList,recallList,queryId,plotname,docs,average_precision):
+	maxRecall = max(recallList)
+	# print maxRecall
+	with open ('plot_file.txt','a+') as f:
+		f.write(str(plotname) + " " + str(queryId) + " " + str(maxRecall) + " " + str(average_precision) +"\n")
+
+	f.close()
+
 
 
 
@@ -212,8 +205,8 @@ populateRelevantDictionary()
 # populateOutputRelevantDictionary('BM_Output_Stopping')
 # populateResponseList('BM_Evaluation_Stopping_Output/','bm_stop')
 
-# populateOutputRelevantDictionary('LuceneOutput')
-# populateResponseList('Lucene_EvaluationOutput/','lucene')
+populateOutputRelevantDictionary('LuceneOutput')
+populateResponseList('Lucene_EvaluationOutput/','lucene')
 
 
 
