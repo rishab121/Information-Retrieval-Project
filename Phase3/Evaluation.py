@@ -170,10 +170,11 @@ def writeOutputToFile(responseList,precisionList,recallList,queryId,docsConsider
 
 
 def populateFileForPlot(precisionList,recallList,queryId,plotname,docs,average_precision):
-	maxRecall = max(recallList)
+	# maxRecall = max(recallList)
 	# print maxRecall
 	with open ('plot_file.txt','a+') as f:
-		f.write(str(plotname) + " " + str(queryId) + " " + str(maxRecall) + " " + str(average_precision) +"\n")
+		if str(queryId) =='4' or str(queryId) =='19' or str(queryId) =='33' or str(queryId) =='36' or str(queryId) =='42':
+			f.write(str(plotname) + " " + str(queryId) + " " + str(recallList[4]) + " " + str(precisionList[4]) +"\n")
 
 	f.close()
 

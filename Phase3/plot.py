@@ -20,8 +20,8 @@ bold = workbook.add_format({'bold': 1})
 # number_format = workbook.add_format({'num_format': '$#,##0'})
 worksheet.write('A1', 'Run', bold)
 worksheet.write('B1', 'Query ID', bold)
-worksheet.write('C1', 'Max Recall', bold)
-worksheet.write('D1', 'Average Precision', bold)
+worksheet.write('C1', 'Recall', bold)
+worksheet.write('D1', 'Precision', bold)
 
 row = 1
 col = 0
