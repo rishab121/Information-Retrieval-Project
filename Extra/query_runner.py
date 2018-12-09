@@ -77,7 +77,7 @@ class BM25WithFeedback:
         for term in queryAr:
             self.calculateTermScore(term, qId, find_type, k)
 
-    def printScores(self, qId):
+    def printScores(self, qId, find_type, k):
         sortedDict = sorted(self.docScoreDict.items(),
                             key=operator.itemgetter(1), reverse=True)
 
@@ -86,8 +86,13 @@ class BM25WithFeedback:
         rank = 0
         for tup in sortedDict:
             rank += 1
-            print(str(
-                qId) + " Q0 " + str(tup[0]) + " " + str(rank) + " " + str(tup[1]) + " BM25NoStem\n")
+            if find_type == 1:
+                print(str(qId) + " Q0 " + str(tup[0]) + " " + str(rank) + " " + str(tup[1]) + " ExactMatch\n")
+            elif find_type == 2:
+                print(str(qId) + " Q0 " + str(tup[0]) + " " + str(rank) + " " + str(tup[1]) + " BestMatch\n")
+            elif find_type == 3:
+                print(str(qId) + " Q0 " + str(tup[0]) + " " + str(rank) + " " + str(tup[1]) + " OrderedBestWithProximity"+str(k)+"\n")
+
             if rank == 100:
                 break
 
@@ -99,7 +104,7 @@ class BM25WithFeedback:
         self.docScoreDict = defaultdict(int)
         self.createQueryFrequencyDict(queryAr)
         self.score(q, queryAr, find_type, k)
-        self.printScores(q)
+        self.printScores(q, find_type, k)
 
 b = 'k'
 while b != 'N' and b != 'n':

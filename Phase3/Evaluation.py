@@ -153,7 +153,7 @@ def writeOutputToFile(responseList,precisionList,recallList,queryId,docsConsider
 				f.write(str(responseList[x]))
 				f.write(" 			")
 				f.write(str(precisionList[x]))
-				f.write(" 			")
+				f.write(" 			                ")
 				f.write(str(recallList[x]))
 				f.write("\n")
 				count += 1
@@ -185,8 +185,8 @@ def populateFileForPlot(precisionList,recallList,queryId,plotname,docs,average_p
 
 
 populateRelevantDictionary()
-# populateOutputRelevantDictionary('TF-IDF_output')
-# populateResponseList('TF-IDF_EvaluationOutput/','tfidf')
+populateOutputRelevantDictionary('TF-IDF_output')
+populateResponseList('TF-IDF_EvaluationOutput/','tfidf')
 
 # populateOutputRelevantDictionary('TF-IDF_Output_Stopping')
 # populateResponseList('TF-IDF_Evaluation_Stopping_Output/','tfidf_stop')
@@ -206,8 +206,8 @@ populateRelevantDictionary()
 # populateOutputRelevantDictionary('BM_Output_Stopping')
 # populateResponseList('BM_Evaluation_Stopping_Output/','bm_stop')
 
-populateOutputRelevantDictionary('LuceneOutput')
-populateResponseList('Lucene_EvaluationOutput/','lucene')
+#populateOutputRelevantDictionary('LuceneOutput')
+#populateResponseList('Lucene_EvaluationOutput/','lucene')
 
 
 

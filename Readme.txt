@@ -147,3 +147,20 @@ To view the various snippets generated, perform the following steps:
 		for tf-idf :				TF-IDF_EvaluationOutput
 		for tf-idf with stopping :		TF-IDF_Evaluation_Stopping_Output
 
+Extra Credit:
+-------------
+
+To run the extra credit part of our source code:
+	1. Open a command prompt instance.
+	2. On the command prompt, navigate to the directory in which you unzipped the project.
+	3. Navigate to the Extra folder.
+	4. Then, execute the following command:
+		"python query_runner.py"
+	5. You'll see the following message:
+		"Enter Query:"
+	6. Enter the query here in double quotes, for example: "operating system"
+	7. Next, you'll see the following message:
+		"Enter 1 for exact match 2 for best match 3 for best match ordered"
+	8. Here, enter 1 if you to run Exact match for your query, 2 for Best match, and 3 for Ordered best match within proximity N.
+	9. Then, you'll see an ordered list of documents for the query you entered, the format of one result will look something like this:
+		"Query" Q0 docId rank score BM25 "Name of retriever system used"
