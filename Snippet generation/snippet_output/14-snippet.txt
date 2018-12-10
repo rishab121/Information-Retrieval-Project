@@ -1,100 +1,100 @@
-cacm-2146 : optimizing the polyphase <b>sort</b> various dispersion <b>algorithms</b> <b>for</b> the polyphase sorting procedure 
-cacm-2337 : complexity a technique <b>for</b> proving min-max norms <b>of</b> sorting <b>algorithms</b> is given one new 
-cacm-1412 : information <b>for</b> <b>management</b> use both kinds <b>of</b> processing draw upon a 
-cacm-2174 : to <b>find</b> <b>all</b> the stable marriage assignments 
-cacm-2959 : the system <b>for</b> business automation sba programming 
-cacm-2263 : <b>algorithms</b> two new <b>algorithms</b> <b>for</b> deriving <b>optimal</b> and near-optimal flowcharts from 
-cacm-2944 : features <b>of</b> which are summarized implementing 
-cacm-0717 : partitioning <b>algorithms</b> <b>for</b> finite sets the partitions 
-cacm-2188 : <b>of</b> a mathematical model <b>of</b> a computer driven graphics 
-cacm-2963 : published <b>algorithms</b> <b>for</b> finding the longest common 
-cacm-2522 : directions <b>of</b> research on methods <b>of</b> controlling a computer system 
-cacm-0630 : an evaluation <b>of</b> autocode readability <b>of</b> the many requirements <b>of</b> an autocode the pair 
-cacm-2750 : a basis <b>for</b> considering <b>all</b> significant cost elements this 
 cacm-1905 : standard computer <b>implementations</b> <b>of</b> dantzigs simplex method <b>for</b> linear programming are based 
-cacm-2017 : a set <b>of</b> broad guidelines <b>for</b> writing <b>sort</b> programs <b>for</b> a paging environment cacm 
-cacm-3164 : certain areas <b>of</b> <b>database</b> implementation in which there 
-cacm-1892 : and a calculation <b>of</b> the <b>optimal</b> degree <b>of</b> multiprogramming <b>for</b> a wide range <b>of</b> parameters is presented graphically 
-cacm-2181 : a series <b>of</b> recommendations <b>for</b> improving computer education <b>for</b> <b>management</b> to provide the committee 
-cacm-1873 : lp <b>algorithms</b> other lp <b>applications</b> are indicated cacm july 
-cacm-2142 : <b>algorithms</b> are described <b>all</b> using monte carlo methods 
-cacm-2902 : lists <b>for</b> each size <b>of</b> memory block used tended 
-cacm-1197 : simultaneously <b>all</b> the zeros <b>of</b> a polynomial developed by 
-cacm-2314 : <b>of</b> advanced programming systems <b>for</b> a wide range <b>of</b> <b>applications</b> three aspects <b>of</b> programming systems are highlighted 
-cacm-2931 : giving descriptions <b>of</b> processes the definition <b>of</b> the precise meaning <b>of</b> a program then requires 
-cacm-2833 : new way <b>of</b> solving the storage reclamation 
-cacm-3131 : hardware arithmetic <b>for</b> many <b>applications</b> <b>algorithms</b> <b>for</b> 8-bit and 16-bit <b>implementations</b> <b>of</b> focus are included cacm 
-cacm-2406 : aspects <b>of</b> data <b>applications</b> <b>of</b> these generalized data definition 
-cacm-0867 : approximations to <b>optimal</b> fits <b>for</b> any type <b>of</b> closed area finally <b>applications</b> are briefly described cacm 
-cacm-1423 : extension <b>of</b> the concept <b>of</b> an inverse which applies 
-cacm-1135 : compact programs even <b>for</b> comparatively complex <b>applications</b> in terms <b>of</b> tables <b>of</b> control expressions which express 
-cacm-3038 : the establishment <b>of</b> authenticated connections <b>for</b> the <b>management</b> <b>of</b> authenticated mail and <b>for</b> signature verification and document 
-cacm-3085 : discusses the computation <b>of</b> matrix chain products <b>of</b> the form m1 x 
-cacm-2627 : flow time sequencing <b>algorithms</b> <b>optimal</b> scheduling <b>algorithms</b> deterministic scheduling models 4.32 
-cacm-2499 : <b>of</b> the channel several <b>applications</b> <b>of</b> this principle are given 
-cacm-1878 : recovery <b>of</b> reentrant list structures in 
-cacm-2967 : evaluation parallel processing <b>database</b> <b>management</b> 3.71 3.72 3.73 3.74 
-cacm-2856 : generation <b>of</b> <b>optimal</b> programs <b>for</b> decision tables with as 
-cacm-2324 : <b>of</b> currently known <b>algorithms</b> to demonstrate which techniques 
-cacm-3067 : is a model <b>for</b> the entire class <b>of</b> demand-fetching memory policies that 
-cacm-3075 : model <b>of</b> computation <b>for</b> this procedure permits simultaneous 
-cacm-2819 : program attempts to <b>find</b> an <b>optimal</b> set <b>of</b> codes <b>for</b> representing substrings <b>of</b> the file four new 
-cacm-1098 : necessity <b>for</b> dynamic allocation <b>of</b> storage use <b>of</b> pushdown stores and use 
-cacm-3151 : an <b>optimal</b> real-time algorithm <b>for</b> planar convex hulls an 
-cacm-2051 : list <b>of</b> <b>all</b> correspondence types with their 
-cacm-2650 : should <b>find</b> <b>applications</b> in information retrieval artificial 
-cacm-2860 : <b>for</b> the design <b>of</b> record addressing <b>algorithms</b> and discusses the applicability 
-cacm-2358 : system programs <b>of</b> <b>all</b> information independent <b>of</b> its physical storage location 
-cacm-2740 : internal structure <b>of</b> a large operating system 
-cacm-3057 : investigates the problem <b>of</b> <b>optimal</b> his togram matching using 
-cacm-2481 : <b>optimal</b> distribution <b>of</b> a program between the 
-cacm-2716 : optimizing the performance <b>of</b> a relational algebra <b>database</b> interface an approach <b>for</b> implementing a smart interface 
-cacm-3166 : <b>algorithms</b> <b>for</b> the numerical computation <b>of</b> the standard deviation <b>of</b> unweighted sampled data are 
-cacm-1433 : attempted to <b>find</b> some characteristics <b>of</b> the way a pivot 
-cacm-3156 : to <b>find</b> the connected components <b>of</b> an undirected graph with 
-cacm-1961 : to <b>find</b> <b>all</b> <b>of</b> the elementary circuits <b>of</b> a graph the algorithm 
-cacm-2272 : family <b>of</b> sorting <b>algorithms</b> is proposed the members 
-cacm-2674 : scan conversion <b>algorithms</b> <b>for</b> a cell organized raster 
-cacm-2484 : given set <b>of</b> objects the use <b>of</b> different relations and <b>algorithms</b> results in different information 
-cacm-2450 : basis <b>for</b> the design <b>of</b> scheduling and paging <b>algorithms</b> although the words working 
-cacm-3033 : to <b>find</b> both <b>optimal</b> and quasi <b>optimal</b> solutions the heuristic search 
-cacm-2715 : <b>algorithms</b> designed <b>for</b> this purpose are described 
-cacm-2900 : problem <b>of</b> finding the <b>optimal</b> set <b>of</b> network sites at which 
-cacm-3049 : <b>of</b> graphical hardware and <b>for</b> performing graphical batch input 
-cacm-2816 : most <b>database</b> organizations the cost <b>of</b> accessing the <b>database</b> will increase due to 
-cacm-2065 : intended <b>for</b> a wide variety <b>of</b> biomedical <b>applications</b> as an example the 
-cacm-3017 : basic storage structure <b>for</b> multiuser <b>database</b> <b>applications</b> here three potential problems 
-cacm-2050 : yet possible <b>for</b> <b>all</b> <b>of</b> an unrestricted natural language 
-cacm-3087 : used <b>for</b> judging meaningfulness <b>of</b> questions generating dialogue <b>for</b> clarifying partially understood questions 
-cacm-2598 : globally <b>optimal</b> solution <b>for</b> complex decision tables is 
-cacm-2679 : its author claims <b>of</b> <b>all</b> these <b>algorithms</b> quickersort requires the fewest 
-cacm-2890 : constructed one to <b>find</b> the <b>optimal</b> message routing and the 
 cacm-2924 : been developed <b>for</b> the rapid generation <b>of</b> arbitrary shaped three-dimensional surfaces 
-cacm-2691 : comments on the <b>algorithms</b> <b>of</b> verhelst <b>for</b> the conversion <b>of</b> limited-entry decision tables to 
-cacm-2742 : <b>of</b> large complex real-world <b>applications</b> have occasionally earned the 
-cacm-2964 : an approach to <b>optimal</b> design <b>of</b> storage parameters in databases 
-cacm-0655 : some <b>of</b> its <b>applications</b> cacm january 1962 yngve 
-cacm-2308 : brief survey <b>of</b> the use <b>of</b> computers in urban society 
-cacm-3112 : be inferior <b>for</b> many <b>applications</b> cacm april 1978 baker 
-cacm-2451 : design <b>of</b> tree structures <b>for</b> efficient querying a standard 
-cacm-1462 : software <b>for</b> <b>all</b> newer computers is built 
-cacm-2106 : <b>of</b> exposing <b>all</b> outstanding issues <b>of</b> significance capable <b>of</b> exposing <b>all</b> outstanding issues <b>of</b> significance within the chosen 
-cacm-3032 : is <b>for</b> delivery to <b>all</b> nodes <b>of</b> a network <b>algorithms</b> <b>for</b> accomplishing this delivery through 
+cacm-3038 : the establishment <b>of</b> authenticated connections <b>for</b> the <b>management</b> <b>of</b> authenticated mail and <b>for</b> signature verification and document 
 cacm-1752 : resource <b>management</b> <b>for</b> a medium scale time-sharing 
-cacm-3132 : experiments with some <b>algorithms</b> that <b>find</b> central solutions <b>for</b> pattern classification in two-class 
-cacm-3163 : an <b>optimal</b> insertion algorithm <b>for</b> one-sided height-balanced binary search 
+cacm-3032 : is <b>for</b> delivery to <b>all</b> nodes <b>of</b> a network <b>algorithms</b> <b>for</b> accomplishing this delivery through 
+cacm-3033 : to <b>find</b> both <b>optimal</b> and quasi <b>optimal</b> solutions the heuristic search 
 cacm-3037 : <b>find</b> the prime factorization <b>of</b> <b>all</b> integers between 2 and 
+cacm-3131 : hardware arithmetic <b>for</b> many <b>applications</b> <b>algorithms</b> <b>for</b> 8-bit and 16-bit <b>implementations</b> <b>of</b> focus are included cacm 
+cacm-3132 : experiments with some <b>algorithms</b> that <b>find</b> central solutions <b>for</b> pattern classification in two-class 
+cacm-3017 : basic storage structure <b>for</b> multiuser <b>database</b> <b>applications</b> here three potential problems 
 cacm-2834 : one is constant <b>applications</b> to the generation <b>of</b> the combinations <b>of</b> n things taken k 
-cacm-3006 : <b>algorithms</b> five types <b>of</b> anomalous behavior which may 
-cacm-3177 : robust key <b>management</b> schemes <b>for</b> cryptographic systems that can 
-cacm-2289 : cellular <b>implementations</b> <b>of</b> the well-known serial <b>algorithms</b> <b>for</b> these problems require about 
-cacm-1886 : generation <b>of</b> <b>optimal</b> code <b>for</b> expressions via factorization given 
-cacm-3058 : file <b>management</b> search strategies <b>database</b> structures index searching 3.74 
+cacm-2833 : new way <b>of</b> solving the storage reclamation 
+cacm-1135 : compact programs even <b>for</b> comparatively complex <b>applications</b> in terms <b>of</b> tables <b>of</b> control expressions which express 
+cacm-2931 : giving descriptions <b>of</b> processes the definition <b>of</b> the precise meaning <b>of</b> a program then requires 
+cacm-2181 : a series <b>of</b> recommendations <b>for</b> improving computer education <b>for</b> <b>management</b> to provide the committee 
+cacm-3049 : <b>of</b> graphical hardware and <b>for</b> performing graphical batch input 
 cacm-2500 : <b>of</b> tasks and resources with 
-cacm-1594 : generates <b>all</b> permutations <b>of</b> k elements only the 
-cacm-3011 : <b>management</b> utilization <b>of</b> computers in american local 
-cacm-2812 : <b>for</b> the generation <b>of</b> alternative specifications <b>of</b> program modules and logical 
-cacm-2081 : <b>of</b> matrices and sequences <b>of</b> sequences <b>of</b> matrices are considered and 
-cacm-3157 : a common tool <b>for</b> proving the termination <b>of</b> programs is the well-founded 
+cacm-1423 : extension <b>of</b> the concept <b>of</b> an inverse which applies 
+cacm-2337 : complexity a technique <b>for</b> proving min-max norms <b>of</b> sorting <b>algorithms</b> is given one new 
+cacm-2627 : flow time sequencing <b>algorithms</b> <b>optimal</b> scheduling <b>algorithms</b> deterministic scheduling models 4.32 
+cacm-0717 : partitioning <b>algorithms</b> <b>for</b> finite sets the partitions 
+cacm-2740 : internal structure <b>of</b> a large operating system 
+cacm-2742 : <b>of</b> large complex real-world <b>applications</b> have occasionally earned the 
+cacm-0655 : some <b>of</b> its <b>applications</b> cacm january 1962 yngve 
+cacm-2902 : lists <b>for</b> each size <b>of</b> memory block used tended 
+cacm-2900 : problem <b>of</b> finding the <b>optimal</b> set <b>of</b> network sites at which 
+cacm-2691 : comments on the <b>algorithms</b> <b>of</b> verhelst <b>for</b> the conversion <b>of</b> limited-entry decision tables to 
+cacm-2451 : design <b>of</b> tree structures <b>for</b> efficient querying a standard 
+cacm-2450 : basis <b>for</b> the design <b>of</b> scheduling and paging <b>algorithms</b> although the words working 
+cacm-2106 : <b>of</b> exposing <b>all</b> outstanding issues <b>of</b> significance capable <b>of</b> exposing <b>all</b> outstanding issues <b>of</b> significance within the chosen 
+cacm-3058 : file <b>management</b> search strategies <b>database</b> structures index searching 3.74 
+cacm-3057 : investigates the problem <b>of</b> <b>optimal</b> his togram matching using 
+cacm-1433 : attempted to <b>find</b> some characteristics <b>of</b> the way a pivot 
+cacm-2188 : <b>of</b> a mathematical model <b>of</b> a computer driven graphics 
+cacm-2051 : list <b>of</b> <b>all</b> correspondence types with their 
+cacm-3112 : be inferior <b>for</b> many <b>applications</b> cacm april 1978 baker 
+cacm-2598 : globally <b>optimal</b> solution <b>for</b> complex decision tables is 
+cacm-2750 : a basis <b>for</b> considering <b>all</b> significant cost elements this 
+cacm-3075 : model <b>of</b> computation <b>for</b> this procedure permits simultaneous 
+cacm-2289 : cellular <b>implementations</b> <b>of</b> the well-known serial <b>algorithms</b> <b>for</b> these problems require about 
+cacm-3067 : is a model <b>for</b> the entire class <b>of</b> demand-fetching memory policies that 
+cacm-2358 : system programs <b>of</b> <b>all</b> information independent <b>of</b> its physical storage location 
+cacm-1886 : generation <b>of</b> <b>optimal</b> code <b>for</b> expressions via factorization given 
+cacm-1098 : necessity <b>for</b> dynamic allocation <b>of</b> storage use <b>of</b> pushdown stores and use 
+cacm-3177 : robust key <b>management</b> schemes <b>for</b> cryptographic systems that can 
+cacm-3085 : discusses the computation <b>of</b> matrix chain products <b>of</b> the form m1 x 
+cacm-3087 : used <b>for</b> judging meaningfulness <b>of</b> questions generating dialogue <b>for</b> clarifying partially understood questions 
+cacm-2890 : constructed one to <b>find</b> the <b>optimal</b> message routing and the 
+cacm-0867 : approximations to <b>optimal</b> fits <b>for</b> any type <b>of</b> closed area finally <b>applications</b> are briefly described cacm 
+cacm-2963 : published <b>algorithms</b> <b>for</b> finding the longest common 
+cacm-2964 : an approach to <b>optimal</b> design <b>of</b> storage parameters in databases 
+cacm-2967 : evaluation parallel processing <b>database</b> <b>management</b> 3.71 3.72 3.73 3.74 
+cacm-2050 : yet possible <b>for</b> <b>all</b> <b>of</b> an unrestricted natural language 
+cacm-1412 : information <b>for</b> <b>management</b> use both kinds <b>of</b> processing draw upon a 
+cacm-1892 : and a calculation <b>of</b> the <b>optimal</b> degree <b>of</b> multiprogramming <b>for</b> a wide range <b>of</b> parameters is presented graphically 
+cacm-2679 : its author claims <b>of</b> <b>all</b> these <b>algorithms</b> quickersort requires the fewest 
+cacm-2484 : given set <b>of</b> objects the use <b>of</b> different relations and <b>algorithms</b> results in different information 
 cacm-2997 : <b>of</b> the proposed <b>algorithms</b> is <b>optimal</b> within a multiplicative constant 
+cacm-2856 : generation <b>of</b> <b>optimal</b> programs <b>for</b> decision tables with as 
+cacm-2674 : scan conversion <b>algorithms</b> <b>for</b> a cell organized raster 
+cacm-1873 : lp <b>algorithms</b> other lp <b>applications</b> are indicated cacm july 
+cacm-1878 : recovery <b>of</b> reentrant list structures in 
+cacm-2324 : <b>of</b> currently known <b>algorithms</b> to demonstrate which techniques 
+cacm-2522 : directions <b>of</b> research on methods <b>of</b> controlling a computer system 
 cacm-2524 : searching the problem <b>of</b> searching the set <b>of</b> keys in a file 
+cacm-3166 : <b>algorithms</b> <b>for</b> the numerical computation <b>of</b> the standard deviation <b>of</b> unweighted sampled data are 
+cacm-2065 : intended <b>for</b> a wide variety <b>of</b> biomedical <b>applications</b> as an example the 
+cacm-3164 : certain areas <b>of</b> <b>database</b> implementation in which there 
+cacm-3163 : an <b>optimal</b> insertion algorithm <b>for</b> one-sided height-balanced binary search 
+cacm-2272 : family <b>of</b> sorting <b>algorithms</b> is proposed the members 
+cacm-1462 : software <b>for</b> <b>all</b> newer computers is built 
+cacm-2174 : to <b>find</b> <b>all</b> the stable marriage assignments 
+cacm-3006 : <b>algorithms</b> five types <b>of</b> anomalous behavior which may 
+cacm-1961 : to <b>find</b> <b>all</b> <b>of</b> the elementary circuits <b>of</b> a graph the algorithm 
+cacm-2944 : features <b>of</b> which are summarized implementing 
+cacm-3151 : an <b>optimal</b> real-time algorithm <b>for</b> planar convex hulls an 
+cacm-3157 : a common tool <b>for</b> proving the termination <b>of</b> programs is the well-founded 
+cacm-3156 : to <b>find</b> the connected components <b>of</b> an undirected graph with 
+cacm-2263 : <b>algorithms</b> two new <b>algorithms</b> <b>for</b> deriving <b>optimal</b> and near-optimal flowcharts from 
+cacm-2716 : optimizing the performance <b>of</b> a relational algebra <b>database</b> interface an approach <b>for</b> implementing a smart interface 
+cacm-2146 : optimizing the polyphase <b>sort</b> various dispersion <b>algorithms</b> <b>for</b> the polyphase sorting procedure 
+cacm-3011 : <b>management</b> utilization <b>of</b> computers in american local 
+cacm-2142 : <b>algorithms</b> are described <b>all</b> using monte carlo methods 
+cacm-2308 : brief survey <b>of</b> the use <b>of</b> computers in urban society 
+cacm-2499 : <b>of</b> the channel several <b>applications</b> <b>of</b> this principle are given 
+cacm-2017 : a set <b>of</b> broad guidelines <b>for</b> writing <b>sort</b> programs <b>for</b> a paging environment cacm 
+cacm-2650 : should <b>find</b> <b>applications</b> in information retrieval artificial 
+cacm-2812 : <b>for</b> the generation <b>of</b> alternative specifications <b>of</b> program modules and logical 
+cacm-2816 : most <b>database</b> organizations the cost <b>of</b> accessing the <b>database</b> will increase due to 
+cacm-2819 : program attempts to <b>find</b> an <b>optimal</b> set <b>of</b> codes <b>for</b> representing substrings <b>of</b> the file four new 
+cacm-2406 : aspects <b>of</b> data <b>applications</b> <b>of</b> these generalized data definition 
+cacm-2959 : the system <b>for</b> business automation sba programming 
+cacm-2081 : <b>of</b> matrices and sequences <b>of</b> sequences <b>of</b> matrices are considered and 
+cacm-1594 : generates <b>all</b> permutations <b>of</b> k elements only the 
+cacm-0630 : an evaluation <b>of</b> autocode readability <b>of</b> the many requirements <b>of</b> an autocode the pair 
+cacm-2715 : <b>algorithms</b> designed <b>for</b> this purpose are described 
+cacm-1197 : simultaneously <b>all</b> the zeros <b>of</b> a polynomial developed by 
+cacm-2860 : <b>for</b> the design <b>of</b> record addressing <b>algorithms</b> and discusses the applicability 
+cacm-2314 : <b>of</b> advanced programming systems <b>for</b> a wide range <b>of</b> <b>applications</b> three aspects <b>of</b> programming systems are highlighted 
+cacm-2481 : <b>optimal</b> distribution <b>of</b> a program between the 

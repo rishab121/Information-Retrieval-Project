@@ -1,100 +1,100 @@
-cacm-1795 : optimal code <b>for</b> serial <b>and</b> <b>parallel</b> computation cacm december 1969 
-cacm-2337 : algorithm <b>for</b> finding the minimum <b>and</b> maximum elements of a 
-cacm-2483 : a clear distinction <b>between</b> tree pruning <b>and</b> selective tree searching is 
-cacm-3059 : models <b>for</b> <b>parallel</b> processing within programs application 
-cacm-2986 : <b>for</b> a context-free grammar can 
-cacm-2263 : two new algorithms <b>for</b> deriving optimal <b>and</b> near-optimal flowcharts from limited 
-cacm-1145 : <b>for</b> a solution <b>and</b> the program is designed 
-cacm-2692 : provides <b>for</b> arbitrary view angles <b>and</b> depth of field in 
-cacm-1200 : <b>parallel</b> nomenclature is suggested <b>for</b> their classification cacm september 
-cacm-1957 : a whole <b>and</b> in <b>parallel</b> rather than evaluating subexpressions 
-cacm-1854 : basic instructions <b>for</b> the generation termination <b>and</b> synchronization of <b>parallel</b> processes a set of 
-cacm-2081 : some complete calculi <b>for</b> matrices a matrix calculus 
-cacm-2266 : a highly <b>parallel</b> algorithm <b>for</b> approximating all zeros of 
-cacm-2325 : numerical mathematics <b>and</b> computer science numerical mathematics 
-cacm-1171 : <b>and</b> primal-dual algorithms <b>for</b> linear programming a statistical 
-cacm-3153 : <b>and</b> paging <b>and</b> file devices with fixed 
-cacm-2896 : it <b>especially</b> difficult to understand <b>and</b> complicates the proof greatly 
-cacm-1468 : <b>and</b> the <b>parallel</b> processing simulator mentioned earlier 
-cacm-3018 : a method <b>for</b> determining keyword conflicts <b>and</b> described a heuristic algorithm 
-cacm-2828 : hierarchical geometric models <b>for</b> visible surface algorithms the 
-cacm-3073 : programming <b>and</b> that <b>parallel</b> composition of communicating <b>sequential</b> processes is a fundamental 
-cacm-2570 : <b>for</b> <b>parallel</b> processing systems the problem 
-cacm-2714 : <b>parallel</b> processing <b>parallel</b> merging <b>parallel</b> binary insertion 5.31 ca751005 
-cacm-1409 : similar to large <b>parallel</b> machines <b>and</b> uses flip-flop arithmetic <b>and</b> control registers throughout all 
-cacm-3131 : supporting computational algorithms <b>especially</b> useful <b>for</b> microcomputer control <b>and</b> other signal processing applications 
-cacm-2838 : a list processor <b>for</b> the long times that 
-cacm-2433 : these features <b>for</b> data layout <b>and</b> algorithm structure are discussed 
-cacm-2324 : oriented software <b>and</b> <b>comparisons</b> of currently known algorithms 
-cacm-2232 : recognition <b>and</b> the geometrical concept itself 
-cacm-0950 : <b>parallel</b> methods <b>for</b> integrating ordinary differential equations 
-cacm-1411 : standard deviation <b>and</b> correlation coefficient <b>for</b> each statistic the algorithm 
-cacm-2895 : a language <b>for</b> formal problem specification a 
-cacm-3124 : approaches <b>for</b> defining nested arrays in 
-cacm-2723 : interprocessor communication <b>and</b> interlocks complete procedures <b>for</b> garbage collection <b>and</b> <b>for</b> standard list processing primitives 
-cacm-3039 : of cooperation <b>between</b> <b>sequential</b> processes with very little 
-cacm-3075 : fast <b>parallel</b> sorting algorithms a <b>parallel</b> bucket-sort algorithm is presented 
-cacm-1569 : <b>and</b> statements <b>parallel</b> the structure <b>and</b> notation of the grammar 
-cacm-1471 : midway <b>between</b> an assembly language <b>and</b> an advanced algebraic language 
-cacm-2851 : formal verification of <b>parallel</b> programs two formal models 
-cacm-2912 : <b>and</b> two techniques <b>for</b> transmitting messages <b>between</b> processes these solutions do 
-cacm-2376 : is demonstrated <b>for</b> a system consisting of 
-cacm-1959 : proposed <b>for</b> the design <b>and</b> coding of large shared 
-cacm-2884 : statements <b>comparisons</b> arithmetic operations <b>and</b> subscripted array references have 
-cacm-1158 : program structures <b>for</b> <b>parallel</b> processing constructs <b>for</b> organizing <b>and</b> explicating <b>parallel</b> program segments are discussed 
-cacm-2948 : full-duplex communication <b>between</b> a time-shared computer <b>and</b> its terminals the system 
-cacm-2898 : providing both nonprocedural <b>and</b> <b>sequential</b> facilities within a program 
-cacm-2283 : <b>and</b> triangular arrays in this 
-cacm-2557 : vectors column vectors <b>and</b> square matrices the minimum 
-cacm-2700 : properties of <b>parallel</b> programs when proving that 
-cacm-2740 : of cooperating <b>sequential</b> processes the processes synchronize 
-cacm-1262 : of <b>parallel</b> operation <b>and</b> partly to define each 
-cacm-2402 : cross-correlation <b>between</b> a model <b>and</b> the correct structure cannot 
-cacm-3166 : algorithms <b>for</b> the numerical computation of 
-cacm-2865 : freedom from deadlock <b>and</b> program termination techniques <b>for</b> verifying these properties are 
-cacm-3156 : permitted <b>for</b> fetch instructions but not 
-cacm-2276 : choice <b>between</b> slower <b>and</b> shorter algorithms <b>and</b> faster but space consuming 
-cacm-1302 : <b>parallel</b> signaling speeds <b>for</b> data transmission proposed american 
-cacm-1601 : <b>parallel</b> numerical methods <b>for</b> the solution of equations 
-cacm-2135 : formulas <b>and</b> mechanical quadrature rules let 
-cacm-2195 : computed in <b>parallel</b> <b>and</b> the number of stages 
-cacm-2630 : the dantzig algorithm <b>for</b> finding the shortest path 
-cacm-2490 : efficient algorithms <b>for</b> graph manipulation h algorithm 
-cacm-1572 : <b>for</b> computation center management not 
-cacm-3037 : algorithm is presented <b>for</b> finding all primes <b>between</b> 2 <b>and</b> n the algorithm executes 
-cacm-2401 : a <b>parallel</b> processing algorithm <b>for</b> shrinking binary patterns to 
-cacm-2366 : the gamma function <b>and</b> log gamma function of 
-cacm-2785 : <b>parallel</b> computation <b>parallel</b> architecture 4.2 4.21 4.22 
-cacm-0371 : 3 algorithm 15 <b>and</b> algorithms 25 <b>and</b> 26 cacm march 1961 
-cacm-0320 : consider both the <b>sequential</b> <b>and</b> <b>parallel</b> aspects of logic they 
-cacm-2598 : <b>and</b> accordingly do not necessarily 
-cacm-2679 : <b>and</b> descendants detailed performance evaluations 
-cacm-1536 : <b>for</b> computation of derivatives can 
-cacm-2924 : <b>for</b> man-machine communication <b>and</b> software <b>for</b> static or dynamic graphics 
-cacm-2932 : <b>for</b> research in the theory 
-cacm-2030 : several previous parsers <b>for</b> context-sensitive grammars <b>and</b> general rewriting systems <b>and</b> the difference <b>between</b> the two types of 
-cacm-1811 : <b>for</b> parallel-processors an affirmative partial 
-cacm-2080 : philosophy <b>and</b> structure of a multiprogramming 
-cacm-3152 : advantageous <b>for</b> matrices <b>and</b> pages of realistic size 
-cacm-1747 : three criteria <b>for</b> designing computing systems to 
-cacm-0409 : <b>and</b> has provisions <b>for</b> accepting storing <b>and</b> retrieving both descriptions <b>and</b> instances of large <b>and</b> complex data sets as 
-cacm-3044 : deciding predicate diverges <b>and</b> the alternatives are records 
-cacm-2837 : new upper bounds <b>for</b> selection the worst-case minimum 
-cacm-3061 : simulations of dynamic <b>sequential</b> search algorithms none cacm 
-cacm-2857 : <b>for</b> instance a circular link 
-cacm-2342 : interference <b>between</b> communicating <b>parallel</b> processes various kinds of 
-cacm-2289 : of the possibilities <b>for</b> <b>parallel</b> processing in this paper 
-cacm-1928 : in execution time <b>and</b> space <b>and</b> a facility <b>for</b> handling simultaneous activities the 
-cacm-2967 : associative memory <b>and</b> creates modifies deletes stores 
-cacm-1554 : of the three-dimensional <b>parallel</b> <b>and</b> perspective projections of four-dimensional 
 cacm-1828 : j <b>parallel</b> accessing <b>parallel</b> search file search data 
+cacm-3156 : permitted <b>for</b> fetch instructions but not 
+cacm-2433 : these features <b>for</b> data layout <b>and</b> algorithm structure are discussed 
+cacm-2924 : <b>for</b> man-machine communication <b>and</b> software <b>for</b> static or dynamic graphics 
+cacm-2884 : statements <b>comparisons</b> arithmetic operations <b>and</b> subscripted array references have 
+cacm-3039 : of cooperation <b>between</b> <b>sequential</b> processes with very little 
+cacm-3037 : algorithm is presented <b>for</b> finding all primes <b>between</b> 2 <b>and</b> n the algorithm executes 
+cacm-3131 : supporting computational algorithms <b>especially</b> useful <b>for</b> microcomputer control <b>and</b> other signal processing applications 
 cacm-1341 : as time sharing <b>parallel</b> programming <b>and</b> eventually systems which learn 
-cacm-1960 : process management <b>and</b> resource sharing in the 
-cacm-3086 : <b>comparisons</b> <b>between</b> linear functions of the 
-cacm-2767 : event notices <b>and</b> another uses an indexed 
-cacm-1846 : which admits solution <b>for</b> a majority of commonly 
-cacm-1603 : <b>and</b> task scheduling <b>and</b> provides <b>parallel</b> processing capability user programs 
+cacm-2325 : numerical mathematics <b>and</b> computer science numerical mathematics 
+cacm-2324 : oriented software <b>and</b> <b>comparisons</b> of currently known algorithms 
+cacm-2630 : the dantzig algorithm <b>for</b> finding the shortest path 
+cacm-1854 : basic instructions <b>for</b> the generation termination <b>and</b> synchronization of <b>parallel</b> processes a set of 
+cacm-2030 : several previous parsers <b>for</b> context-sensitive grammars <b>and</b> general rewriting systems <b>and</b> the difference <b>between</b> the two types of 
+cacm-2837 : new upper bounds <b>for</b> selection the worst-case minimum 
+cacm-2838 : a list processor <b>for</b> the long times that 
+cacm-2932 : <b>for</b> research in the theory 
+cacm-0950 : <b>parallel</b> methods <b>for</b> integrating ordinary differential equations 
+cacm-1747 : three criteria <b>for</b> designing computing systems to 
+cacm-3044 : deciding predicate diverges <b>and</b> the alternatives are records 
+cacm-2135 : formulas <b>and</b> mechanical quadrature rules let 
+cacm-2337 : algorithm <b>for</b> finding the minimum <b>and</b> maximum elements of a 
+cacm-2232 : recognition <b>and</b> the geometrical concept itself 
+cacm-3124 : approaches <b>for</b> defining nested arrays in 
+cacm-1536 : <b>for</b> computation of derivatives can 
+cacm-2692 : provides <b>for</b> arbitrary view angles <b>and</b> depth of field in 
+cacm-3059 : models <b>for</b> <b>parallel</b> processing within programs application 
+cacm-2342 : interference <b>between</b> communicating <b>parallel</b> processes various kinds of 
+cacm-2967 : associative memory <b>and</b> creates modifies deletes stores 
+cacm-2598 : <b>and</b> accordingly do not necessarily 
+cacm-1959 : proposed <b>for</b> the design <b>and</b> coding of large shared 
+cacm-1811 : <b>for</b> parallel-processors an affirmative partial 
+cacm-2283 : <b>and</b> triangular arrays in this 
+cacm-2289 : of the possibilities <b>for</b> <b>parallel</b> processing in this paper 
+cacm-1795 : optimal code <b>for</b> serial <b>and</b> <b>parallel</b> computation cacm december 1969 
+cacm-0371 : 3 algorithm 15 <b>and</b> algorithms 25 <b>and</b> 26 cacm march 1961 
+cacm-1957 : a whole <b>and</b> in <b>parallel</b> rather than evaluating subexpressions 
 cacm-2685 : are developed <b>for</b> the <b>parallel</b> execution of different iterations 
-cacm-2524 : <b>comparisons</b> required to achieve the 
-cacm-2973 : kung h t <b>parallel</b> computer <b>parallel</b> sorting <b>parallel</b> merge routing <b>and</b> comparison steps perfect shuffle 
+cacm-2912 : <b>and</b> two techniques <b>for</b> transmitting messages <b>between</b> processes these solutions do 
+cacm-2740 : of cooperating <b>sequential</b> processes the processes synchronize 
+cacm-1411 : standard deviation <b>and</b> correlation coefficient <b>for</b> each statistic the algorithm 
 cacm-2114 : a formal system <b>for</b> information retrieval from files 
+cacm-3061 : simulations of dynamic <b>sequential</b> search algorithms none cacm 
+cacm-1158 : program structures <b>for</b> <b>parallel</b> processing constructs <b>for</b> organizing <b>and</b> explicating <b>parallel</b> program segments are discussed 
+cacm-1409 : similar to large <b>parallel</b> machines <b>and</b> uses flip-flop arithmetic <b>and</b> control registers throughout all 
+cacm-1145 : <b>for</b> a solution <b>and</b> the program is designed 
+cacm-0409 : <b>and</b> has provisions <b>for</b> accepting storing <b>and</b> retrieving both descriptions <b>and</b> instances of large <b>and</b> complex data sets as 
+cacm-2828 : hierarchical geometric models <b>for</b> visible surface algorithms the 
+cacm-1554 : of the three-dimensional <b>parallel</b> <b>and</b> perspective projections of four-dimensional 
+cacm-1928 : in execution time <b>and</b> space <b>and</b> a facility <b>for</b> handling simultaneous activities the 
+cacm-2986 : <b>for</b> a context-free grammar can 
+cacm-2767 : event notices <b>and</b> another uses an indexed 
+cacm-2195 : computed in <b>parallel</b> <b>and</b> the number of stages 
+cacm-3086 : <b>comparisons</b> <b>between</b> linear functions of the 
+cacm-2570 : <b>for</b> <b>parallel</b> processing systems the problem 
+cacm-3075 : fast <b>parallel</b> sorting algorithms a <b>parallel</b> bucket-sort algorithm is presented 
+cacm-2366 : the gamma function <b>and</b> log gamma function of 
+cacm-3073 : programming <b>and</b> that <b>parallel</b> composition of communicating <b>sequential</b> processes is a fundamental 
+cacm-2402 : cross-correlation <b>between</b> a model <b>and</b> the correct structure cannot 
+cacm-1302 : <b>parallel</b> signaling speeds <b>for</b> data transmission proposed american 
+cacm-2679 : <b>and</b> descendants detailed performance evaluations 
+cacm-2857 : <b>for</b> instance a circular link 
+cacm-2896 : it <b>especially</b> difficult to understand <b>and</b> complicates the proof greatly 
+cacm-2851 : formal verification of <b>parallel</b> programs two formal models 
+cacm-1262 : of <b>parallel</b> operation <b>and</b> partly to define each 
+cacm-2785 : <b>parallel</b> computation <b>parallel</b> architecture 4.2 4.21 4.22 
+cacm-2973 : kung h t <b>parallel</b> computer <b>parallel</b> sorting <b>parallel</b> merge routing <b>and</b> comparison steps perfect shuffle 
+cacm-2376 : is demonstrated <b>for</b> a system consisting of 
+cacm-1171 : <b>and</b> primal-dual algorithms <b>for</b> linear programming a statistical 
+cacm-3166 : algorithms <b>for</b> the numerical computation of 
+cacm-1572 : <b>for</b> computation center management not 
+cacm-2276 : choice <b>between</b> slower <b>and</b> shorter algorithms <b>and</b> faster but space consuming 
+cacm-2700 : properties of <b>parallel</b> programs when proving that 
+cacm-1468 : <b>and</b> the <b>parallel</b> processing simulator mentioned earlier 
+cacm-1960 : process management <b>and</b> resource sharing in the 
+cacm-0320 : consider both the <b>sequential</b> <b>and</b> <b>parallel</b> aspects of logic they 
+cacm-2557 : vectors column vectors <b>and</b> square matrices the minimum 
+cacm-2948 : full-duplex communication <b>between</b> a time-shared computer <b>and</b> its terminals the system 
+cacm-3153 : <b>and</b> paging <b>and</b> file devices with fixed 
+cacm-3152 : advantageous <b>for</b> matrices <b>and</b> pages of realistic size 
+cacm-1569 : <b>and</b> statements <b>parallel</b> the structure <b>and</b> notation of the grammar 
+cacm-2266 : a highly <b>parallel</b> algorithm <b>for</b> approximating all zeros of 
+cacm-2263 : two new algorithms <b>for</b> deriving optimal <b>and</b> near-optimal flowcharts from limited 
+cacm-2714 : <b>parallel</b> processing <b>parallel</b> merging <b>parallel</b> binary insertion 5.31 ca751005 
+cacm-1471 : midway <b>between</b> an assembly language <b>and</b> an advanced algebraic language 
+cacm-1200 : <b>parallel</b> nomenclature is suggested <b>for</b> their classification cacm september 
+cacm-3018 : a method <b>for</b> determining keyword conflicts <b>and</b> described a heuristic algorithm 
+cacm-2898 : providing both nonprocedural <b>and</b> <b>sequential</b> facilities within a program 
+cacm-2895 : a language <b>for</b> formal problem specification a 
+cacm-2401 : a <b>parallel</b> processing algorithm <b>for</b> shrinking binary patterns to 
+cacm-2080 : philosophy <b>and</b> structure of a multiprogramming 
+cacm-2081 : some complete calculi <b>for</b> matrices a matrix calculus 
+cacm-2524 : <b>comparisons</b> required to achieve the 
+cacm-2723 : interprocessor communication <b>and</b> interlocks complete procedures <b>for</b> garbage collection <b>and</b> <b>for</b> standard list processing primitives 
+cacm-1601 : <b>parallel</b> numerical methods <b>for</b> the solution of equations 
+cacm-2865 : freedom from deadlock <b>and</b> program termination techniques <b>for</b> verifying these properties are 
+cacm-1603 : <b>and</b> task scheduling <b>and</b> provides <b>parallel</b> processing capability user programs 
+cacm-2483 : a clear distinction <b>between</b> tree pruning <b>and</b> selective tree searching is 
+cacm-2490 : efficient algorithms <b>for</b> graph manipulation h algorithm 
+cacm-1846 : which admits solution <b>for</b> a majority of commonly 

@@ -1,100 +1,100 @@
-cacm-2046 : changes <b>in</b> query update <b>and</b> report traffic <b>and</b> natural growth <b>in</b> the types of stored 
-cacm-2949 : control <b>network</b> topology routing problem <b>in</b> networks <b>distributed</b> <b>operating</b> system store <b>and</b> forward packet switching store 
-cacm-3070 : the arrival <b>and</b> activation of jobs <b>and</b> a central-server queueing <b>network</b> models the use of 
-cacm-2317 : <b>in</b> algol 68 <b>and</b> <b>in</b> extensible languages but so 
-cacm-2867 : modularization <b>and</b> hierarchy <b>in</b> a family of <b>operating</b> systems this paper describes 
-cacm-2849 : ethernet <b>distributed</b> packet switching for <b>local</b> computer networks ethernet is 
-cacm-1461 : discussion summary on <b>operating</b> systems cacm march 1966 
-cacm-2581 : for use <b>in</b> a continuous speech recognizer 
-cacm-1946 : <b>and</b> computing speed preliminary <b>considerations</b> narrow the choice of 
-cacm-2188 : selecting major subsystems <b>in</b> an intelligent way each 
-cacm-1978 : such systems <b>and</b> design <b>considerations</b> for interactive routines furthermore 
-cacm-2138 : suitable for use <b>in</b> writing production software systems 
-cacm-3023 : multiprocessing debugging <b>and</b> monitoring error handling <b>and</b> input/output operations a final 
-cacm-1032 : theoretical <b>considerations</b> <b>in</b> information retrieval systems information 
-cacm-2522 : the design implementation <b>and</b> evaluation of a working 
-cacm-3028 : of manchester innovations <b>in</b> these <b>and</b> other areas is discussed 
-cacm-2629 : even <b>in</b> larger <b>operating</b> systems including 1 a 
-cacm-2840 : protection <b>in</b> <b>operating</b> systems a model of 
-cacm-3153 : or <b>and</b> paging <b>and</b> file devices with fixed 
-cacm-1261 : to combinational <b>and</b> sequential digital networks <b>and</b> a systematic programming approach 
-cacm-1892 : design <b>and</b> programming are discussed <b>and</b> a calculation of the 
-cacm-2626 : specifications identification <b>and</b> authentication of users <b>and</b> primary memory protection the 
-cacm-3082 : a <b>distributed</b> system is examined <b>and</b> is shown to define 
-cacm-2137 : <b>and</b> that of global <b>and</b> <b>local</b> variables <b>in</b> addition to the methods 
-cacm-1290 : <b>considerations</b> of task group x3.3.4 
-cacm-3059 : <b>in</b> terms of cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied to the analysis 
-cacm-2406 : a data definition <b>and</b> mapping language a data 
-cacm-2197 : a regional <b>network</b> brings many benefits <b>and</b> should not be judged 
-cacm-3181 : public protection <b>and</b> education with eft research 
 cacm-3038 : <b>and</b> for signature verification <b>and</b> document integrity guarantee both 
 cacm-1751 : resource allocation <b>in</b> modern computer systems is 
-cacm-2624 : system <b>in</b> this paper model of 
-cacm-3174 : security <b>and</b> ease of use cacm 
-cacm-1808 : <b>and</b> preferred methods are included 
-cacm-1664 : on theoretical <b>considerations</b> <b>and</b> methodology rather than on 
-cacm-3158 : secure personal computing <b>in</b> an insecure <b>network</b> a method for implementing 
-cacm-0828 : incompressible flow <b>network</b> calculations a general method 
-cacm-2198 : of the art <b>in</b> these systems <b>and</b> discusses the differences <b>and</b> similarities between capabilities found 
-cacm-2036 : <b>in</b> a noninteractive environment is 
-cacm-1652 : processing applications <b>in</b> online systems a code 
-cacm-2454 : highly efficient <b>and</b> quite simple to implement 
-cacm-1462 : multilevel <b>operating</b> systems the basic software 
-cacm-2470 : the questions of <b>local</b> <b>and</b> global environments <b>and</b> of various modes of 
-cacm-2948 : specific problems <b>local</b> echoing error detection <b>and</b> correction on the telephone 
-cacm-2597 : method of implementation <b>in</b> terms of semaphores <b>and</b> gives a suitable proof 
-cacm-3148 : computing programming for <b>distributed</b> <b>and</b> other loosely coupled systems 
-cacm-2358 : <b>and</b> implementation <b>considerations</b> of segmentation <b>and</b> sharing <b>in</b> multics are first discussed 
-cacm-1611 : error detection <b>and</b> <b>network</b> analysis features of the 
-cacm-3076 : value conflicts <b>and</b> social choice <b>in</b> electronic funds transfer system 
-cacm-1680 : <b>operating</b> system by terminating <b>and</b> rescheduling itself automatically relinquishing 
-cacm-1723 : pert <b>and</b> cpm an algorithm is 
-cacm-2372 : <b>and</b> whose row <b>and</b> column indices are users 
 cacm-1750 : <b>considerations</b> <b>in</b> the design of a 
-cacm-2621 : the passwords <b>in</b> the computer can be 
-cacm-3068 : data security <b>in</b> <b>operating</b> systems program verification applied 
-cacm-1695 : produced by the <b>network</b> <b>and</b> to store <b>and</b> retrieve networks <b>and</b> data from a library 
-cacm-2876 : <b>in</b> database protection <b>in</b> programming languages privacy security 
-cacm-2424 : dynamic verification of <b>operating</b> system decisions dynamic verification 
-cacm-3026 : tory analysis <b>and</b> projection the 1100 series 
-cacm-3133 : logic <b>and</b> semantic networks an extended 
-cacm-3177 : <b>in</b> this paper we show 
-cacm-3182 : <b>and</b> freedom from error <b>and</b> fraud with electronic funds 
-cacm-2969 : <b>and</b> data files <b>in</b> a computer <b>network</b> is presented this algorithm 
-cacm-1928 : ease <b>and</b> economy <b>in</b> model generation economy <b>in</b> execution time <b>and</b> space <b>and</b> a facility for handling 
-cacm-1728 : program <b>operating</b> behavior <b>in</b> those multiprogramming systems <b>in</b> which programs are organized 
-cacm-1324 : programmed <b>and</b> <b>operating</b> are described <b>and</b> reviewed the systems range 
-cacm-3127 : the system <b>and</b> application programs which use 
-cacm-2947 : a low-cost <b>in</b> teractive text handling <b>and</b> text analysis system for 
-cacm-3128 : arguments <b>and</b> also simplifies implementation <b>in</b> <b>distributed</b> systems the mechanism is 
-cacm-2890 : <b>network</b> <b>distributed</b> <b>network</b> computer <b>network</b> message switching 3.81 8.0 
-cacm-1685 : a activity <b>network</b> management project standard <b>network</b> <b>network</b> generator <b>network</b> assembler activity <b>network</b> analysis <b>network</b> calculation <b>network</b> program 3.50 3.53 4.11 
-cacm-2622 : requiring secrecy <b>in</b> the computer <b>in</b> many computer <b>operating</b> systems a user authenticates 
-cacm-1811 : <b>in</b> an electrical <b>network</b> was written for a 
-cacm-2632 : multiprocessor <b>operating</b> system this paper describes 
-cacm-2080 : simulates an environment <b>in</b> which program execution <b>and</b> input/output are handled uniformly 
-cacm-2111 : spelling correction algorithms <b>in</b> to compilers <b>and</b> <b>operating</b> systems these include the 
-cacm-3043 : examples of <b>distributed</b> processes <b>and</b> shows that they include 
-cacm-1747 : processes protection <b>in</b> multiprogrammed systems <b>and</b> the assignment of capability 
-cacm-2900 : set of <b>network</b> sites at which to 
-cacm-2776 : <b>network</b> <b>in</b> north carolina in-depth studies 
-cacm-2151 : user program measurement <b>in</b> a time-shared environment a 
-cacm-1745 : <b>and</b> communications the effective operation 
-cacm-1247 : communication <b>and</b> bookkeeping <b>and</b> debugging aids cacm june 
+cacm-0828 : incompressible flow <b>network</b> calculations a general method 
 cacm-1226 : processing system <b>in</b> many systems the selection 
-cacm-2482 : <b>and</b> prevention provide more effective 
-cacm-2870 : flow <b>in</b> a computer system these 
-cacm-1844 : design <b>and</b> organization of a general 
-cacm-3141 : arranged <b>in</b> a circle <b>in</b> which no central controller 
-cacm-3025 : system <b>and</b> languages are described <b>in</b> terms of technological change 
-cacm-2578 : self-stabilizing systems <b>in</b> spite of <b>distributed</b> control cacm november 1974 
-cacm-2988 : finite memory size <b>and</b> workload memory requirements <b>in</b> queueing <b>network</b> models of computer systems 
-cacm-2371 : used between processes <b>distributed</b> throughout a computer <b>network</b> the hypothetical application of 
-cacm-2951 : <b>network</b> systems studied <b>in</b> detail to describe <b>and</b> predict the response time 
-cacm-2069 : wallace <b>and</b> mason cacm april 1970 
-cacm-3137 : of a <b>distributed</b> information system <b>in</b> presented the model describes 
-cacm-1846 : processes <b>in</b> which simultaneous events may 
+cacm-3133 : logic <b>and</b> semantic networks an extended 
 cacm-3011 : <b>in</b> its extent among <b>local</b> governments management computing is 
-cacm-2320 : of multiprogramming <b>in</b> a high level language 
+cacm-3137 : of a <b>distributed</b> information system <b>in</b> presented the model describes 
+cacm-2632 : multiprocessor <b>operating</b> system this paper describes 
+cacm-2036 : <b>in</b> a noninteractive environment is 
+cacm-3023 : multiprocessing debugging <b>and</b> monitoring error handling <b>and</b> input/output operations a final 
+cacm-2424 : dynamic verification of <b>operating</b> system decisions dynamic verification 
+cacm-2371 : used between processes <b>distributed</b> throughout a computer <b>network</b> the hypothetical application of 
+cacm-1032 : theoretical <b>considerations</b> <b>in</b> information retrieval systems information 
+cacm-1745 : <b>and</b> communications the effective operation 
+cacm-1747 : processes protection <b>in</b> multiprogrammed systems <b>and</b> the assignment of capability 
+cacm-2138 : suitable for use <b>in</b> writing production software systems 
+cacm-2137 : <b>and</b> that of global <b>and</b> <b>local</b> variables <b>in</b> addition to the methods 
+cacm-3043 : examples of <b>distributed</b> processes <b>and</b> shows that they include 
+cacm-2626 : specifications identification <b>and</b> authentication of users <b>and</b> primary memory protection the 
+cacm-2624 : system <b>in</b> this paper model of 
+cacm-2622 : requiring secrecy <b>in</b> the computer <b>in</b> many computer <b>operating</b> systems a user authenticates 
+cacm-3127 : the system <b>and</b> application programs which use 
+cacm-2621 : the passwords <b>in</b> the computer can be 
+cacm-3128 : arguments <b>and</b> also simplifies implementation <b>in</b> <b>distributed</b> systems the mechanism is 
+cacm-2581 : for use <b>in</b> a continuous speech recognizer 
+cacm-2629 : even <b>in</b> larger <b>operating</b> systems including 1 a 
+cacm-3181 : public protection <b>and</b> education with eft research 
+cacm-3182 : <b>and</b> freedom from error <b>and</b> fraud with electronic funds 
+cacm-1808 : <b>and</b> preferred methods are included 
+cacm-2900 : set of <b>network</b> sites at which to 
+cacm-2454 : highly efficient <b>and</b> quite simple to implement 
+cacm-3059 : <b>in</b> terms of cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied to the analysis 
+cacm-1324 : programmed <b>and</b> <b>operating</b> are described <b>and</b> reviewed the systems range 
+cacm-2188 : selecting major subsystems <b>in</b> an intelligent way each 
+cacm-2597 : method of implementation <b>in</b> terms of semaphores <b>and</b> gives a suitable proof 
+cacm-1247 : communication <b>and</b> bookkeeping <b>and</b> debugging aids cacm june 
+cacm-1811 : <b>in</b> an electrical <b>network</b> was written for a 
 cacm-3032 : of a <b>network</b> algorithms for accomplishing this 
+cacm-2111 : spelling correction algorithms <b>in</b> to compilers <b>and</b> <b>operating</b> systems these include the 
+cacm-2358 : <b>and</b> implementation <b>considerations</b> of segmentation <b>and</b> sharing <b>in</b> multics are first discussed 
+cacm-3068 : data security <b>in</b> <b>operating</b> systems program verification applied 
+cacm-2046 : changes <b>in</b> query update <b>and</b> report traffic <b>and</b> natural growth <b>in</b> the types of stored 
+cacm-1723 : pert <b>and</b> cpm an algorithm is 
+cacm-2198 : of the art <b>in</b> these systems <b>and</b> discusses the differences <b>and</b> similarities between capabilities found 
+cacm-1728 : program <b>operating</b> behavior <b>in</b> those multiprogramming systems <b>in</b> which programs are organized 
+cacm-2197 : a regional <b>network</b> brings many benefits <b>and</b> should not be judged 
+cacm-1892 : design <b>and</b> programming are discussed <b>and</b> a calculation of the 
+cacm-3082 : a <b>distributed</b> system is examined <b>and</b> is shown to define 
+cacm-1946 : <b>and</b> computing speed preliminary <b>considerations</b> narrow the choice of 
+cacm-2969 : <b>and</b> data files <b>in</b> a computer <b>network</b> is presented this algorithm 
+cacm-2578 : self-stabilizing systems <b>in</b> spite of <b>distributed</b> control cacm november 1974 
+cacm-3076 : value conflicts <b>and</b> social choice <b>in</b> electronic funds transfer system 
+cacm-3070 : the arrival <b>and</b> activation of jobs <b>and</b> a central-server queueing <b>network</b> models the use of 
+cacm-2470 : the questions of <b>local</b> <b>and</b> global environments <b>and</b> of various modes of 
+cacm-3174 : security <b>and</b> ease of use cacm 
+cacm-3177 : <b>in</b> this paper we show 
+cacm-1652 : processing applications <b>in</b> online systems a code 
+cacm-1611 : error detection <b>and</b> <b>network</b> analysis features of the 
+cacm-2776 : <b>network</b> <b>in</b> north carolina in-depth studies 
+cacm-1261 : to combinational <b>and</b> sequential digital networks <b>and</b> a systematic programming approach 
+cacm-1978 : such systems <b>and</b> design <b>considerations</b> for interactive routines furthermore 
+cacm-2320 : of multiprogramming <b>in</b> a high level language 
+cacm-2069 : wallace <b>and</b> mason cacm april 1970 
+cacm-2372 : <b>and</b> whose row <b>and</b> column indices are users 
+cacm-1664 : on theoretical <b>considerations</b> <b>and</b> methodology rather than on 
+cacm-1461 : discussion summary on <b>operating</b> systems cacm march 1966 
+cacm-1462 : multilevel <b>operating</b> systems the basic software 
+cacm-2849 : ethernet <b>distributed</b> packet switching for <b>local</b> computer networks ethernet is 
+cacm-2840 : protection <b>in</b> <b>operating</b> systems a model of 
+cacm-1680 : <b>operating</b> system by terminating <b>and</b> rescheduling itself automatically relinquishing 
+cacm-1685 : a activity <b>network</b> management project standard <b>network</b> <b>network</b> generator <b>network</b> assembler activity <b>network</b> analysis <b>network</b> calculation <b>network</b> program 3.50 3.53 4.11 
+cacm-2949 : control <b>network</b> topology routing problem <b>in</b> networks <b>distributed</b> <b>operating</b> system store <b>and</b> forward packet switching store 
+cacm-2948 : specific problems <b>local</b> echoing error detection <b>and</b> correction on the telephone 
+cacm-2947 : a low-cost <b>in</b> teractive text handling <b>and</b> text analysis system for 
+cacm-3153 : or <b>and</b> paging <b>and</b> file devices with fixed 
+cacm-3158 : secure personal computing <b>in</b> an insecure <b>network</b> a method for implementing 
+cacm-2870 : flow <b>in</b> a computer system these 
+cacm-2876 : <b>in</b> database protection <b>in</b> programming languages privacy security 
+cacm-1928 : ease <b>and</b> economy <b>in</b> model generation economy <b>in</b> execution time <b>and</b> space <b>and</b> a facility for handling 
+cacm-1695 : produced by the <b>network</b> <b>and</b> to store <b>and</b> retrieve networks <b>and</b> data from a library 
+cacm-2951 : <b>network</b> systems studied <b>in</b> detail to describe <b>and</b> predict the response time 
+cacm-2406 : a data definition <b>and</b> mapping language a data 
+cacm-2890 : <b>network</b> <b>distributed</b> <b>network</b> computer <b>network</b> message switching 3.81 8.0 
+cacm-1290 : <b>considerations</b> of task group x3.3.4 
+cacm-2080 : simulates an environment <b>in</b> which program execution <b>and</b> input/output are handled uniformly 
+cacm-2522 : the design implementation <b>and</b> evaluation of a working 
+cacm-3141 : arranged <b>in</b> a circle <b>in</b> which no central controller 
+cacm-2988 : finite memory size <b>and</b> workload memory requirements <b>in</b> queueing <b>network</b> models of computer systems 
+cacm-2151 : user program measurement <b>in</b> a time-shared environment a 
+cacm-3148 : computing programming for <b>distributed</b> <b>and</b> other loosely coupled systems 
+cacm-3026 : tory analysis <b>and</b> projection the 1100 series 
+cacm-3025 : system <b>and</b> languages are described <b>in</b> terms of technological change 
+cacm-2867 : modularization <b>and</b> hierarchy <b>in</b> a family of <b>operating</b> systems this paper describes 
+cacm-2482 : <b>and</b> prevention provide more effective 
+cacm-2317 : <b>in</b> algol 68 <b>and</b> <b>in</b> extensible languages but so 
 cacm-0046 : of new problems <b>in</b> machine design <b>and</b> <b>in</b> programming systems minimum requirements 
+cacm-3028 : of manchester innovations <b>in</b> these <b>and</b> other areas is discussed 
+cacm-1846 : processes <b>in</b> which simultaneous events may 
+cacm-1844 : design <b>and</b> organization of a general 

@@ -1,100 +1,100 @@
-cacm-1937 : paper the statements <b>of</b> the request language <b>and</b> the general system <b>design</b> <b>are</b> described cacm february 1969 
-cacm-2483 : the heart <b>of</b> cokos <b>effectiveness</b> yet they <b>are</b> conceptually simple in addition 
-cacm-1646 : the <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> ditran <b>and</b> the particular techniques employed 
-cacm-2849 : address recognition <b>design</b> principles <b>and</b> <b>implementation</b> <b>are</b> described based <b>on</b> experience <b>with</b> an operating ethernet <b>of</b> 100 nodes along a 
-cacm-2267 : the radix <b>and</b> number <b>of</b> digits <b>of</b> the floating-point numbers <b>and</b> whether rounding or chopping 
-cacm-1748 : process <b>and</b> state vector <b>are</b> discussed <b>and</b> the nature <b>of</b> basic operations <b>on</b> processes is considered some 
-cacm-2542 : <b>of</b> current software system <b>design</b> <b>and</b> <b>implementation</b> methodology is that the 
-cacm-2188 : the parameters <b>of</b> the model <b>are</b> functions <b>of</b> the capabilities <b>of</b> the graphics hardware <b>and</b> <b>of</b> the computational requirements <b>of</b> the graphics application the 
-cacm-1978 : easy <b>to</b> use <b>and</b> also take advantage <b>of</b> the insight <b>and</b> visual capabilities <b>of</b> the <b>human</b> problem solver several on-line 
-cacm-2138 : prime <b>design</b> goals <b>of</b> the <b>design</b> <b>are</b> the ability <b>to</b> produce highly efficient object 
-cacm-2841 : <b>on</b> a head-mounted display <b>and</b> they <b>are</b> designed <b>with</b> the aid <b>of</b> a three-dimensional wand which 
-cacm-2771 : operations <b>are</b> concise readily composed <b>and</b> <b>are</b> given in terms <b>of</b> easily imagined solidsuite short 
-cacm-2522 : data <b>to</b> permit analysis <b>of</b> its behavior <b>and</b> indicates future directions <b>of</b> research <b>on</b> methods <b>of</b> controlling a computer system 
 cacm-1829 : the existing hardware <b>and</b> computer system <b>are</b> discussed the structure <b>of</b> the monitor program <b>and</b> the <b>human</b> <b>and</b> program interfaces <b>are</b> described there is also 
-cacm-2629 : the nature <b>and</b> <b>implementation</b> <b>of</b> the file system <b>and</b> <b>of</b> the <b>user</b> <b>command</b> <b>interface</b> cacm july 1974 ritchie 
-cacm-3127 : same <b>interface</b> <b>to</b> <b>user</b> programs hence application programs 
-cacm-1408 : raised <b>to</b> deal <b>with</b> this a standard <b>of</b> efficiency is developed in 
-cacm-1962 : groove-a program <b>to</b> compose store <b>and</b> edit functions <b>of</b> time a program which 
-cacm-1699 : emphasis <b>on</b> interactive man-machine language <b>and</b> <b>on</b> some <b>of</b> the mechanical <b>and</b> psychological limitations in their 
-cacm-2035 : automatic filing <b>and</b> file maintenance <b>and</b> program preparation <b>and</b> assembly it focuses <b>on</b> the preparation <b>and</b> <b>editing</b> <b>of</b> continuously displayed 23,040-character text 
-cacm-2181 : grant is established <b>to</b> appraise the state <b>of</b> the art <b>and</b> <b>to</b> develop a series <b>of</b> recommendations for improving computer 
-cacm-1395 : <b>to</b> other members <b>of</b> the family <b>of</b> string transformation languages <b>of</b> which ambit is a 
-cacm-3190 : correction <b>to</b> economies <b>of</b> scale <b>and</b> the ibm system/360 <b>on</b> page 439 a typical 
-cacm-2868 : retrospect distinctive features <b>of</b> the <b>design</b> were the use <b>of</b> capabilities for protection <b>and</b> the organization <b>of</b> the system into a 
-cacm-2592 : realized the necessity <b>of</b> evaluating the capacity <b>effectiveness</b> <b>and</b> accuracy <b>of</b> the solutions provided by 
-cacm-0972 : permit the system <b>to</b> be most sensitive <b>to</b> the console inputs <b>and</b> permit the operators at 
-cacm-2314 : <b>are</b> applicable <b>to</b> the <b>design</b> <b>of</b> advanced programming systems for 
-cacm-1534 : the <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> the c operating system 
-cacm-1270 : a searching test <b>of</b> the reliability <b>and</b> efficiency <b>of</b> an integration procedure there 
-cacm-2786 : <b>and</b> the <b>like</b> necessary <b>to</b> print according <b>to</b> mathematical conventions <b>are</b> all done automatically for 
-cacm-3102 : <b>issues</b> <b>of</b> how a programming language 
-cacm-1188 : <b>and</b> requirements <b>of</b> the <b>design</b> language <b>are</b> enumerated <b>to</b> achieve most <b>of</b> the purposes a translator 
-cacm-1135 : analysis <b>of</b> the class <b>of</b> processes <b>to</b> be represented in the 
-cacm-2247 : system <b>design</b> problem is presented <b>and</b> both a conventional <b>and</b> unconventional decomposition <b>are</b> described it is shown 
-cacm-1487 : analyzed <b>on</b> the basis <b>of</b> decomposition rules which <b>are</b> triggered by key words 
-cacm-2499 : allocation <b>of</b> the memory resource <b>essential</b> <b>to</b> control <b>of</b> other resources the general 
-cacm-1750 : the general <b>design</b> <b>of</b> the hardware arrangement <b>and</b> the software components <b>and</b> functions <b>of</b> such a system <b>are</b> based <b>on</b> a planned configuration <b>of</b> dual cdc 6600s that 
-cacm-1664 : the emphasis is <b>on</b> theoretical considerations <b>and</b> methodology rather than <b>on</b> programming details results <b>are</b> presented for cylindrical polar 
-cacm-1392 : experience <b>with</b> formac algorithm <b>design</b> various facets <b>of</b> the <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> mathematical expression manipulation algorithms 
-cacm-2145 : method which simulates <b>human</b> approaches <b>to</b> wiring <b>design</b> <b>and</b> the other is the 
-cacm-1502 : <b>on</b> providing maximum convenience <b>and</b> power for the <b>user</b> notable features <b>are</b> its ability <b>to</b> handle any piece <b>of</b> text the content-searching facility 
-cacm-2572 : a prudent <b>and</b> decentralized approach <b>to</b> the question <b>of</b> the <b>design</b> <b>and</b> desirability <b>of</b> computerized community information utilities 
-cacm-2003 : criteria provide the <b>user</b> <b>with</b> commands which <b>are</b> both simple <b>and</b> efficient in order <b>to</b> perform all the functions 
-cacm-2535 : system performance analytical <b>and</b> simulation results <b>are</b> based <b>on</b> the model <b>of</b> the computer-communications system being 
-cacm-3146 : an opportunity <b>to</b> work <b>on</b> real world problems <b>of</b> sufficient magnitude <b>and</b> complexity under this program 
-cacm-2277 : a description <b>of</b> the hardware <b>design</b> for <b>implementation</b> <b>of</b> the working set model 
-cacm-1930 : for library functions <b>like</b> random number generation <b>and</b> in core sorting which 
-cacm-3147 : forward search technique <b>to</b> determine aggregations <b>of</b> computations aggregations <b>of</b> datasets device organization <b>and</b> key order for each 
-cacm-1409 : a <b>command</b> structure similar <b>to</b> large parallel machines <b>and</b> uses flip-flop arithmetic <b>and</b> control registers throughout all 
-cacm-2321 : <b>on</b> the <b>interface</b> between computers <b>and</b> data communications systems future 
-cacm-2358 : <b>and</b> <b>implementation</b> considerations <b>of</b> segmentation <b>and</b> sharing in multics <b>are</b> first discussed under the 
-cacm-1571 : represents an attempt <b>to</b> provide research workers <b>of</b> the institute <b>with</b> the ability <b>to</b> interact directly <b>with</b> a highly sophisticated digital 
-cacm-1742 : successive <b>improvements</b> <b>to</b> the display processor <b>design</b> lie <b>on</b> a circular path by 
-cacm-2887 : error-including <b>design</b> <b>and</b> lack <b>of</b> research the types <b>of</b> errors were identified in 
-cacm-1671 : <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> a system <b>to</b> alleviate the problem <b>of</b> rule evaluation for the 
-cacm-2344 : <b>on</b> the optimization <b>of</b> performance <b>of</b> time-sharing systems by simulation 
-cacm-1238 : <b>of</b> the reporting requirement <b>and</b> the accounting requirements posed 
-cacm-1465 : use <b>of</b> structure <b>to</b> associate various parts <b>of</b> a program <b>and</b> economy <b>of</b> features promote clarity <b>and</b> reliability cacm march 1966 
-cacm-1159 : <b>to</b> another <b>of</b> the methods examined the 
-cacm-2820 : the <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> a table driven interactive 
 cacm-1901 : <b>to</b> the investigation <b>of</b> the problems <b>of</b> space-sharing <b>and</b> <b>to</b> demonstrate the method <b>on</b> sample problems cacm may 
-cacm-3050 : <b>of</b> detailed reports <b>on</b> the cost <b>of</b> his choices <b>and</b> a simulated run <b>of</b> the center operating under 
-cacm-1769 : this measure education <b>and</b> increased understanding <b>are</b> basic <b>to</b> all progress <b>with</b> the computer this complex 
-cacm-2484 : information organization <b>and</b> storage is reduced <b>to</b> that <b>of</b> defining relations <b>and</b> formulating algorithms under a 
-cacm-2217 : from the experience <b>of</b> pp a number <b>of</b> experiments were performed <b>to</b> test the <b>effectiveness</b> <b>and</b> generality <b>of</b> the learning program results 
-cacm-2357 : for <b>design</b> <b>and</b> checkout <b>and</b> $16,000 for parts <b>and</b> fabrication all aspects <b>of</b> the system <b>are</b> described including <b>design</b> criteria <b>implementation</b> cost overhead <b>and</b> <b>user</b> reactions cacm may 1972 
-cacm-1253 : <b>on</b> simscript <b>and</b> programmed entirely in an 
-cacm-2155 : <b>on</b> directed graphs <b>with</b> named edges <b>and</b> transformations <b>on</b> these graphs in addition 
-cacm-2105 : a flowchart the <b>user</b> draws a description <b>of</b> a sampled-data system <b>and</b> specifies description is transmitted 
-cacm-1397 : proceedings <b>of</b> the acm symposium <b>on</b> symbolic <b>and</b> algebraic manipulation the acm 
-cacm-3087 : illustrated <b>with</b> detailed examples <b>of</b> the operation <b>of</b> system components <b>and</b> examples <b>of</b> overall system operation the 
-cacm-2947 : by a crt <b>with</b> microprogrammed <b>editing</b> functions it uses a 
-cacm-1726 : depending <b>on</b> <b>human</b> demarcation <b>of</b> the various regions <b>of</b> the page for guiding 
-cacm-3012 : <b>of</b> a study <b>of</b> the use <b>of</b> an interactive computerized storage 
-cacm-2622 : more rigorous results <b>are</b> unlikely finally some <b>human</b> engineering problems relating <b>to</b> the scheme <b>are</b> discussed cacm august 1974 
-cacm-1435 : systems the aim <b>of</b> this paper is <b>to</b> provide background information <b>on</b> the existing literature <b>on</b> experimental <b>design</b> techniques which may be 
-cacm-2169 : designed <b>and</b> implemented <b>to</b> handle large problems <b>with</b> ease <b>and</b> efficiency considerable effort has 
-cacm-2106 : <b>of</b> exposing all outstanding <b>issues</b> <b>of</b> significance capable <b>of</b> exposing all outstanding <b>issues</b> <b>of</b> significance within the chosen 
-cacm-2873 : consists <b>of</b> the possibility <b>of</b> using this language <b>to</b> <b>design</b> other <b>user</b> oriented languages lg has 
-cacm-2396 : <b>and</b> reporting the contents <b>of</b> its own memory <b>to</b> an indirect form <b>of</b> question answering examples <b>are</b> presented <b>to</b> demonstrate how the model 
-cacm-0892 : selecting file records <b>with</b> the <b>are</b> <b>of</b> logical condition statements defining 
-cacm-2389 : is an extension <b>of</b> algol <b>and</b> includes means <b>to</b> represent spaces <b>and</b> objects <b>to</b> manipulate them <b>and</b> <b>to</b> test the resulting arrangements 
-cacm-1853 : <b>to</b> those <b>design</b> factors <b>essential</b> <b>to</b> the success <b>of</b> a plex processing system 
-cacm-1589 : graphical <b>and</b> numeric input <b>and</b> display online <b>and</b> off line program preparation 
-cacm-2959 : experts-nonprogrammers-can describe <b>and</b> execute their applications <b>on</b> a computer the <b>user</b> <b>of</b> sba <b>views</b> his application as manipulation 
-cacm-1844 : <b>of</b> users <b>to</b> computers is dependent <b>on</b> both the size <b>and</b> power <b>of</b> the machines used <b>and</b> the computation requirements <b>of</b> the particular mix <b>of</b> users this system organization 
-cacm-2252 : entire routines the <b>essential</b> points <b>of</b> the method <b>are</b> 1 the syntax <b>of</b> the language is restricted 
-cacm-3054 : <b>of</b> the programs <b>are</b> summarized a variety <b>of</b> special situations <b>are</b> considered from a practical 
-cacm-2167 : <b>of</b> view <b>of</b> a <b>user</b> who needs <b>to</b> comprehend a large expression 
-cacm-1764 : <b>to</b> <b>papers</b> by van dam <b>and</b> kahn or <b>to</b> the discussion during the 
-cacm-1960 : given <b>to</b> any <b>user</b> <b>to</b> schedule his own parallel 
-cacm-1810 : be compared <b>with</b> that <b>of</b> manual folding <b>are</b> discussed <b>and</b> it is shown that 
-cacm-2990 : <b>to</b> give formal proofs <b>of</b> the <b>effectiveness</b> <b>with</b> respect <b>to</b> a given <b>user</b> query <b>of</b> a number <b>of</b> automatic indexing systems that 
-cacm-3035 : in terms <b>of</b> the improvement <b>of</b> the delivery <b>of</b> computing services <b>to</b> the major institutional roles 
 cacm-2439 : multiple terminals under <b>user</b> program control in a 
-cacm-3011 : management is supportive <b>of</b> computing <b>and</b> tends <b>to</b> control computing decisions <b>and</b> where department users have 
-cacm-2812 : computer-aided analysis <b>and</b> <b>design</b> <b>of</b> information systems this paper 
+cacm-2887 : error-including <b>design</b> <b>and</b> lack <b>of</b> research the types <b>of</b> errors were identified in 
+cacm-2873 : consists <b>of</b> the possibility <b>of</b> using this language <b>to</b> <b>design</b> other <b>user</b> oriented languages lg has 
+cacm-1750 : the general <b>design</b> <b>of</b> the hardware arrangement <b>and</b> the software components <b>and</b> functions <b>of</b> such a system <b>are</b> based <b>on</b> a planned configuration <b>of</b> dual cdc 6600s that 
+cacm-2535 : system performance analytical <b>and</b> simulation results <b>are</b> based <b>on</b> the model <b>of</b> the computer-communications system being 
+cacm-1589 : graphical <b>and</b> numeric input <b>and</b> display online <b>and</b> off line program preparation 
+cacm-3035 : in terms <b>of</b> the improvement <b>of</b> the delivery <b>of</b> computing services <b>to</b> the major institutional roles 
+cacm-2321 : <b>on</b> the <b>interface</b> between computers <b>and</b> data communications systems future 
+cacm-1502 : <b>on</b> providing maximum convenience <b>and</b> power for the <b>user</b> notable features <b>are</b> its ability <b>to</b> handle any piece <b>of</b> text the content-searching facility 
+cacm-2035 : automatic filing <b>and</b> file maintenance <b>and</b> program preparation <b>and</b> assembly it focuses <b>on</b> the preparation <b>and</b> <b>editing</b> <b>of</b> continuously displayed 23,040-character text 
+cacm-1188 : <b>and</b> requirements <b>of</b> the <b>design</b> language <b>are</b> enumerated <b>to</b> achieve most <b>of</b> the purposes a translator 
+cacm-1853 : <b>to</b> those <b>design</b> factors <b>essential</b> <b>to</b> the success <b>of</b> a plex processing system 
+cacm-3190 : correction <b>to</b> economies <b>of</b> scale <b>and</b> the ibm system/360 <b>on</b> page 439 a typical 
+cacm-1135 : analysis <b>of</b> the class <b>of</b> processes <b>to</b> be represented in the 
+cacm-1238 : <b>of</b> the reporting requirement <b>and</b> the accounting requirements posed 
+cacm-1742 : successive <b>improvements</b> <b>to</b> the display processor <b>design</b> lie <b>on</b> a circular path by 
+cacm-2138 : prime <b>design</b> goals <b>of</b> the <b>design</b> <b>are</b> the ability <b>to</b> produce highly efficient object 
+cacm-1748 : process <b>and</b> state vector <b>are</b> discussed <b>and</b> the nature <b>of</b> basic operations <b>on</b> processes is considered some 
+cacm-2622 : more rigorous results <b>are</b> unlikely finally some <b>human</b> engineering problems relating <b>to</b> the scheme <b>are</b> discussed cacm august 1974 
+cacm-3127 : same <b>interface</b> <b>to</b> <b>user</b> programs hence application programs 
+cacm-1534 : the <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> the c operating system 
+cacm-2277 : a description <b>of</b> the hardware <b>design</b> for <b>implementation</b> <b>of</b> the working set model 
+cacm-2629 : the nature <b>and</b> <b>implementation</b> <b>of</b> the file system <b>and</b> <b>of</b> the <b>user</b> <b>command</b> <b>interface</b> cacm july 1974 ritchie 
 cacm-2299 : the actual <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> a text editor a 
+cacm-1699 : emphasis <b>on</b> interactive man-machine language <b>and</b> <b>on</b> some <b>of</b> the mechanical <b>and</b> psychological limitations in their 
+cacm-2106 : <b>of</b> exposing all outstanding <b>issues</b> <b>of</b> significance capable <b>of</b> exposing all outstanding <b>issues</b> <b>of</b> significance within the chosen 
+cacm-2105 : a flowchart the <b>user</b> draws a description <b>of</b> a sampled-data system <b>and</b> specifies description is transmitted 
+cacm-2344 : <b>on</b> the optimization <b>of</b> performance <b>of</b> time-sharing systems by simulation 
+cacm-3054 : <b>of</b> the programs <b>are</b> summarized a variety <b>of</b> special situations <b>are</b> considered from a practical 
+cacm-1435 : systems the aim <b>of</b> this paper is <b>to</b> provide background information <b>on</b> the existing literature <b>on</b> experimental <b>design</b> techniques which may be 
+cacm-3050 : <b>of</b> detailed reports <b>on</b> the cost <b>of</b> his choices <b>and</b> a simulated run <b>of</b> the center operating under 
+cacm-2592 : realized the necessity <b>of</b> evaluating the capacity <b>effectiveness</b> <b>and</b> accuracy <b>of</b> the solutions provided by 
+cacm-2188 : the parameters <b>of</b> the model <b>are</b> functions <b>of</b> the capabilities <b>of</b> the graphics hardware <b>and</b> <b>of</b> the computational requirements <b>of</b> the graphics application the 
+cacm-2181 : grant is established <b>to</b> appraise the state <b>of</b> the art <b>and</b> <b>to</b> develop a series <b>of</b> recommendations for improving computer 
+cacm-1930 : for library functions <b>like</b> random number generation <b>and</b> in core sorting which 
+cacm-1937 : paper the statements <b>of</b> the request language <b>and</b> the general system <b>design</b> <b>are</b> described cacm february 1969 
+cacm-1810 : be compared <b>with</b> that <b>of</b> manual folding <b>are</b> discussed <b>and</b> it is shown that 
+cacm-1392 : experience <b>with</b> formac algorithm <b>design</b> various facets <b>of</b> the <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> mathematical expression manipulation algorithms 
+cacm-2247 : system <b>design</b> problem is presented <b>and</b> both a conventional <b>and</b> unconventional decomposition <b>are</b> described it is shown 
+cacm-1397 : proceedings <b>of</b> the acm symposium <b>on</b> symbolic <b>and</b> algebraic manipulation the acm 
+cacm-1395 : <b>to</b> other members <b>of</b> the family <b>of</b> string transformation languages <b>of</b> which ambit is a 
+cacm-2358 : <b>and</b> <b>implementation</b> considerations <b>of</b> segmentation <b>and</b> sharing in multics <b>are</b> first discussed under the 
+cacm-1159 : <b>to</b> another <b>of</b> the methods examined the 
+cacm-2357 : for <b>design</b> <b>and</b> checkout <b>and</b> $16,000 for parts <b>and</b> fabrication all aspects <b>of</b> the system <b>are</b> described including <b>design</b> criteria <b>implementation</b> cost overhead <b>and</b> <b>user</b> reactions cacm may 1972 
+cacm-1409 : a <b>command</b> structure similar <b>to</b> large parallel machines <b>and</b> uses flip-flop arithmetic <b>and</b> control registers throughout all 
+cacm-1408 : raised <b>to</b> deal <b>with</b> this a standard <b>of</b> efficiency is developed in 
+cacm-0892 : selecting file records <b>with</b> the <b>are</b> <b>of</b> logical condition statements defining 
+cacm-2217 : from the experience <b>of</b> pp a number <b>of</b> experiments were performed <b>to</b> test the <b>effectiveness</b> <b>and</b> generality <b>of</b> the learning program results 
+cacm-1726 : depending <b>on</b> <b>human</b> demarcation <b>of</b> the various regions <b>of</b> the page for guiding 
+cacm-2820 : the <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> a table driven interactive 
+cacm-1253 : <b>on</b> simscript <b>and</b> programmed entirely in an 
+cacm-1487 : analyzed <b>on</b> the basis <b>of</b> decomposition rules which <b>are</b> triggered by key words 
+cacm-0972 : permit the system <b>to</b> be most sensitive <b>to</b> the console inputs <b>and</b> permit the operators at 
+cacm-3087 : illustrated <b>with</b> detailed examples <b>of</b> the operation <b>of</b> system components <b>and</b> examples <b>of</b> overall system operation the 
+cacm-2572 : a prudent <b>and</b> decentralized approach <b>to</b> the question <b>of</b> the <b>design</b> <b>and</b> desirability <b>of</b> computerized community information utilities 
+cacm-2771 : operations <b>are</b> concise readily composed <b>and</b> <b>are</b> given in terms <b>of</b> easily imagined solidsuite short 
+cacm-2990 : <b>to</b> give formal proofs <b>of</b> the <b>effectiveness</b> <b>with</b> respect <b>to</b> a given <b>user</b> query <b>of</b> a number <b>of</b> automatic indexing systems that 
+cacm-2167 : <b>of</b> view <b>of</b> a <b>user</b> who needs <b>to</b> comprehend a large expression 
+cacm-2169 : designed <b>and</b> implemented <b>to</b> handle large problems <b>with</b> ease <b>and</b> efficiency considerable effort has 
+cacm-2389 : is an extension <b>of</b> algol <b>and</b> includes means <b>to</b> represent spaces <b>and</b> objects <b>to</b> manipulate them <b>and</b> <b>to</b> test the resulting arrangements 
+cacm-1978 : easy <b>to</b> use <b>and</b> also take advantage <b>of</b> the insight <b>and</b> visual capabilities <b>of</b> the <b>human</b> problem solver several on-line 
+cacm-2542 : <b>of</b> current software system <b>design</b> <b>and</b> <b>implementation</b> methodology is that the 
+cacm-3147 : forward search technique <b>to</b> determine aggregations <b>of</b> computations aggregations <b>of</b> datasets device organization <b>and</b> key order for each 
+cacm-2786 : <b>and</b> the <b>like</b> necessary <b>to</b> print according <b>to</b> mathematical conventions <b>are</b> all done automatically for 
+cacm-1664 : the emphasis is <b>on</b> theoretical considerations <b>and</b> methodology rather than <b>on</b> programming details results <b>are</b> presented for cylindrical polar 
+cacm-1571 : represents an attempt <b>to</b> provide research workers <b>of</b> the institute <b>with</b> the ability <b>to</b> interact directly <b>with</b> a highly sophisticated digital 
+cacm-1270 : a searching test <b>of</b> the reliability <b>and</b> efficiency <b>of</b> an integration procedure there 
+cacm-1465 : use <b>of</b> structure <b>to</b> associate various parts <b>of</b> a program <b>and</b> economy <b>of</b> features promote clarity <b>and</b> reliability cacm march 1966 
+cacm-2849 : address recognition <b>design</b> principles <b>and</b> <b>implementation</b> <b>are</b> described based <b>on</b> experience <b>with</b> an operating ethernet <b>of</b> 100 nodes along a 
+cacm-3102 : <b>issues</b> <b>of</b> how a programming language 
+cacm-2841 : <b>on</b> a head-mounted display <b>and</b> they <b>are</b> designed <b>with</b> the aid <b>of</b> a three-dimensional wand which 
+cacm-1960 : given <b>to</b> any <b>user</b> <b>to</b> schedule his own parallel 
+cacm-1962 : groove-a program <b>to</b> compose store <b>and</b> edit functions <b>of</b> time a program which 
+cacm-1646 : the <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> ditran <b>and</b> the particular techniques employed 
+cacm-2396 : <b>and</b> reporting the contents <b>of</b> its own memory <b>to</b> an indirect form <b>of</b> question answering examples <b>are</b> presented <b>to</b> demonstrate how the model 
+cacm-2947 : by a crt <b>with</b> microprogrammed <b>editing</b> functions it uses a 
+cacm-1671 : <b>design</b> <b>and</b> <b>implementation</b> <b>of</b> a system <b>to</b> alleviate the problem <b>of</b> rule evaluation for the 
+cacm-2267 : the radix <b>and</b> number <b>of</b> digits <b>of</b> the floating-point numbers <b>and</b> whether rounding or chopping 
+cacm-3012 : <b>of</b> a study <b>of</b> the use <b>of</b> an interactive computerized storage 
+cacm-2145 : method which simulates <b>human</b> approaches <b>to</b> wiring <b>design</b> <b>and</b> the other is the 
+cacm-3011 : management is supportive <b>of</b> computing <b>and</b> tends <b>to</b> control computing decisions <b>and</b> where department users have 
+cacm-2499 : allocation <b>of</b> the memory resource <b>essential</b> <b>to</b> control <b>of</b> other resources the general 
 cacm-1698 : quite difficult <b>to</b> characterize a particular <b>user</b> but rather easy <b>to</b> characterize the entire <b>user</b> community based <b>on</b> the properties <b>of</b> this community we have 
+cacm-2812 : computer-aided analysis <b>and</b> <b>design</b> <b>of</b> information systems this paper 
+cacm-2959 : experts-nonprogrammers-can describe <b>and</b> execute their applications <b>on</b> a computer the <b>user</b> <b>of</b> sba <b>views</b> his application as manipulation 
+cacm-2252 : entire routines the <b>essential</b> points <b>of</b> the method <b>are</b> 1 the syntax <b>of</b> the language is restricted 
+cacm-3146 : an opportunity <b>to</b> work <b>on</b> real world problems <b>of</b> sufficient magnitude <b>and</b> complexity under this program 
+cacm-2522 : data <b>to</b> permit analysis <b>of</b> its behavior <b>and</b> indicates future directions <b>of</b> research <b>on</b> methods <b>of</b> controlling a computer system 
+cacm-1769 : this measure education <b>and</b> increased understanding <b>are</b> basic <b>to</b> all progress <b>with</b> the computer this complex 
+cacm-1764 : <b>to</b> <b>papers</b> by van dam <b>and</b> kahn or <b>to</b> the discussion during the 
+cacm-2155 : <b>on</b> directed graphs <b>with</b> named edges <b>and</b> transformations <b>on</b> these graphs in addition 
+cacm-2484 : information organization <b>and</b> storage is reduced <b>to</b> that <b>of</b> defining relations <b>and</b> formulating algorithms under a 
 cacm-1605 : considered <b>to</b> be definitive <b>of</b> system <b>effectiveness</b> <b>and</b> analysis <b>of</b> variance techniques were employed 
+cacm-2483 : the heart <b>of</b> cokos <b>effectiveness</b> yet they <b>are</b> conceptually simple in addition 
+cacm-2314 : <b>are</b> applicable <b>to</b> the <b>design</b> <b>of</b> advanced programming systems for 
+cacm-2003 : criteria provide the <b>user</b> <b>with</b> commands which <b>are</b> both simple <b>and</b> efficient in order <b>to</b> perform all the functions 
+cacm-2868 : retrospect distinctive features <b>of</b> the <b>design</b> were the use <b>of</b> capabilities for protection <b>and</b> the organization <b>of</b> the system into a 
+cacm-1844 : <b>of</b> users <b>to</b> computers is dependent <b>on</b> both the size <b>and</b> power <b>of</b> the machines used <b>and</b> the computation requirements <b>of</b> the particular mix <b>of</b> users this system organization 

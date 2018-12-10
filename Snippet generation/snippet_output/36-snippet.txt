@@ -1,100 +1,100 @@
-cacm-1012 : recently become important <b>for</b> both natural <b>language</b> data processing and syntax-directed 
-cacm-2050 : j content analysis <b>parsing</b> syntactic analysis natural <b>language</b> processing information retrieval <b>language</b> analysis text processing 3.42 
-cacm-3106 : a fast <b>algorithm</b> <b>for</b> copying list structures an 
-cacm-1612 : top-to-bottom <b>parsing</b> <b>algorithm</b> as used in connection 
-cacm-2354 : circumstances requiring cosine <b>or</b> sine transformations such as 
-cacm-1265 : <b>for</b> <b>parsing</b> sentences with respect to 
-cacm-2581 : lpars a locally-organized <b>parsing</b> system designed <b>for</b> use in a continuous 
-cacm-3132 : find central solutions <b>for</b> pattern classification in two-class 
-cacm-2733 : deterministic <b>parsing</b> of ambiguous grammars methods 
-cacm-2179 : syntactic analysis <b>parsing</b> <b>algorithm</b> parser finite-state machine deterministic 
-cacm-2980 : of semantic information <b>or</b> on the basis of 
-cacm-2963 : a fast <b>algorithm</b> <b>for</b> computing longest common subsequences 
 cacm-1902 : assembly <b>language</b> in this computer-controlled grading 
-cacm-1988 : <b>algorithm</b> is presented <b>for</b> deciding whether <b>or</b> not a given system 
-cacm-1179 : system designed <b>for</b> the ibm 7090/7094 computer 
-cacm-2476 : and/or graphs <b>language</b> theory <b>context-free</b> grammars 3.60 3.64 5.23 
-cacm-1962 : tools <b>or</b> sound synthesizers <b>or</b> anything a person normally 
-cacm-2545 : of a formal <b>language</b> algorithms <b>for</b> implementing the kinds of 
-cacm-1527 : of a sentence <b>recognition</b> device <b>for</b> the class of grammars 
-cacm-0949 : grammar of a <b>context-free</b> <b>language</b> should be conceived not 
-cacm-1669 : algol procedures <b>for</b> the fast fourier transform 
-cacm-2641 : method z <b>algorithm</b> a479 cacm june 1974 
-cacm-1665 : the multicharacter items <b>or</b> of words allowable in 
-cacm-1433 : <b>algorithm</b> design a combinatorial problem 
-cacm-2786 : a system <b>for</b> typesetting mathematics the <b>language</b> has been designed to 
-cacm-1170 : probability of .9 <b>for</b> accurately <b>parsing</b> each new sentence it 
-cacm-2828 : hierarchical geometric models <b>for</b> visible surface algorithms the 
-cacm-1679 : analysis fourier analysis <b>algorithm</b> fourier synthesis <b>algorithm</b> 3.80 3.81 4.9 5.49 
-cacm-2702 : onk+2 <b>algorithm</b> <b>for</b> testing the lrk property 
-cacm-2643 : technique <b>for</b> compacting character sets in 
-cacm-2925 : fast <b>algorithm</b> <b>for</b> finding such cycles is 
-cacm-1641 : a use of fast 
-cacm-2739 : <b>for</b> computerized natural <b>language</b> analysis the <b>language</b> is used in the 
-cacm-2084 : complement <b>context-free</b> <b>language</b> chomsky-language phrase structure <b>language</b> production system type 2 
-cacm-1399 : on top-to-bottom <b>recognition</b> and left recursion a 
-cacm-2215 : a sequential pattern <b>recognition</b> spr procedure does not 
-cacm-2794 : representation of the <b>language</b> <b>recognition</b> problem which is based 
-cacm-2703 : <b>context-free</b> <b>language</b> with the syntax of 
-cacm-1569 : <b>context-free</b> phrase structure grammar in 
-cacm-0040 : fingers <b>or</b> fists the choice of 
-cacm-1335 : character set <b>for</b> optical character <b>recognition</b> proposed american stand ard 
-cacm-1454 : <b>language</b> <b>for</b> programming automatic test equipment 
-cacm-2556 : in a programming <b>language</b> which can tolerate a 
-cacm-1350 : <b>algorithm</b> <b>for</b> arbitrary <b>context-free</b> languages is compared with 
-cacm-0617 : completely automatic <b>or</b> partly human-must work at 
-cacm-2492 : via <b>parsing</b> of complex decision situations 
-cacm-2684 : production systems <b>or</b> can we do better 
-cacm-2310 : <b>language</b> analysis in the humanities 
-cacm-0185 : minimize the time <b>for</b> executing the entire pending 
-cacm-2340 : f precedence grammars <b>context-free</b> <b>parsing</b> 4.12 ca720605 jb january 
-cacm-2113 : grammar structure <b>recognition</b> pattern <b>recognition</b> matching procedures tree-structure interpretation 
-cacm-1525 : proposed a fast <b>algorithm</b> <b>for</b> computing complex fourier transform 
-cacm-3079 : an <b>algorithm</b> <b>for</b> reasoning about equality a 
-cacm-1162 : one assembly <b>language</b> into another <b>or</b> from the assembly <b>language</b> <b>for</b> one machine into the 
-cacm-0619 : problem of <b>recognition</b> and retrieval of a 
 cacm-1825 : deterministic <b>language</b> syntax-directed compiler <b>language</b> processor <b>context-free</b> <b>language</b> algol 4.12 5.2 5.23 
-cacm-2195 : technique <b>for</b> recognizing systems of lines 
-cacm-1917 : an algol procedure <b>for</b> the fast fourier transform 
-cacm-2110 : an efficient <b>context-free</b> <b>parsing</b> <b>algorithm</b> a <b>parsing</b> <b>algorithm</b> which seems to be 
-cacm-2301 : algorithmic <b>language</b> processingbottom-up <b>parsing</b> floyd production <b>language</b> <b>parsing</b> syntax directed compiling translator 
-cacm-1910 : an <b>algorithm</b> <b>for</b> solving a special class 
-cacm-2849 : <b>for</b> carrying digital data packets 
-cacm-1768 : a global parser <b>for</b> <b>context-free</b> phrase structure grammars an 
-cacm-2112 : sensitive semantics <b>for</b> <b>context-free</b> languages a formal procedure 
-cacm-2421 : a scan conversion <b>algorithm</b> with reduced storage requirements 
-cacm-1309 : computer <b>language</b> system has been developed 
-cacm-2880 : <b>for</b> division by constant divisors 
-cacm-3135 : <b>algorithm</b> <b>for</b> detecting occurrences of a 
-cacm-2350 : clenshaw-curtis quadrature d1 <b>algorithm</b> a424 cacm may 1972 
-cacm-1855 : processing <b>language</b> analysis <b>parsing</b> analysis procedure <b>recognition</b> procedure english sentences linguistics 
-cacm-3176 : simpler <b>algorithm</b> used <b>for</b> compressing lr <b>parsing</b> tables works so well 
-cacm-2030 : context-sensitive <b>parsing</b> formal grammars formal <b>language</b> theory <b>parsing</b> <b>parsing</b> algorithms <b>recognition</b> algorithms 3.42 5.22 5.23 
-cacm-1836 : <b>algorithm</b> is presented <b>for</b> obtaining the linear precedence 
-cacm-1787 : translation grammar <b>context-free</b> <b>language</b> formal <b>language</b> <b>parsing</b> 4.12 5.23 ca680107 jb 
-cacm-1184 : <b>for</b> list-structure operations and other 
-cacm-2091 : pdel-a <b>language</b> <b>for</b> partial differential equations conventional 
-cacm-1453 : describing algebraic <b>language</b> syntax in particular of 
-cacm-2906 : very high level <b>language</b> nonprocedural <b>language</b> data flow <b>language</b> business application business data 
-cacm-2986 : <b>or</b> directed graphs such as 
+cacm-1433 : <b>algorithm</b> design a combinatorial problem 
+cacm-2925 : fast <b>algorithm</b> <b>for</b> finding such cycles is 
 cacm-2921 : handle a mechanism <b>for</b> determining the left end 
-cacm-1989 : transition network grammars <b>for</b> natural <b>language</b> analysis the use of 
-cacm-2811 : pattern <b>recognition</b> <b>parsing</b> waveform analysis pulse waves 
-cacm-2252 : a method <b>for</b> incrementally compiling languages with 
-cacm-2546 : natural grammar <b>for</b> the <b>language</b> we are proposing an 
-cacm-1455 : <b>or</b> as a name <b>or</b> as text and <b>for</b> printing out any string 
-cacm-2061 : an <b>algorithm</b> <b>for</b> the construction of bounded-context 
-cacm-1223 : fortran-like <b>language</b> although the technique is 
-cacm-1683 : boolean matrix methods <b>for</b> the detection of simple 
-cacm-2698 : syntax-directed least-errors analysis <b>for</b> <b>context-free</b> languages a practical approach 
-cacm-1737 : a global parser <b>for</b> <b>context-free</b> phrase structure grammars cacm 
-cacm-1590 : <b>recognition</b> of the peak structure 
-cacm-1668 : an algol procedure <b>for</b> the fast fourier transform 
-cacm-2754 : a syntactic <b>algorithm</b> <b>for</b> peak detection in waveforms 
-cacm-2836 : <b>context-free</b> grammar an <b>algorithm</b> is presented <b>for</b> constructing the optimal derivation 
-cacm-2423 : assembly <b>language</b> fortran <b>or</b> algol subroutine that is 
-cacm-3094 : of parsers <b>for</b> a simple programming <b>language</b> cacm june 1978 cohen 
+cacm-2880 : <b>for</b> division by constant divisors 
 cacm-2886 : <b>for</b> an attribute grammar is 
-cacm-2402 : the autocorrelation <b>or</b> patterson function especially <b>for</b> large structures this is 
-cacm-2059 : a <b>language</b> <b>for</b> treating graphs a <b>language</b> <b>for</b> the representation of graph 
+cacm-2739 : <b>for</b> computerized natural <b>language</b> analysis the <b>language</b> is used in the 
 cacm-2534 : <b>for</b> a dialect <b>for</b> pl/i the design objective 
+cacm-1223 : fortran-like <b>language</b> although the technique is 
+cacm-1453 : describing algebraic <b>language</b> syntax in particular of 
+cacm-1454 : <b>language</b> <b>for</b> programming automatic test equipment 
+cacm-1455 : <b>or</b> as a name <b>or</b> as text and <b>for</b> printing out any string 
+cacm-2733 : deterministic <b>parsing</b> of ambiguous grammars methods 
+cacm-1612 : top-to-bottom <b>parsing</b> <b>algorithm</b> as used in connection 
+cacm-1184 : <b>for</b> list-structure operations and other 
+cacm-3132 : find central solutions <b>for</b> pattern classification in two-class 
+cacm-3135 : <b>algorithm</b> <b>for</b> detecting occurrences of a 
+cacm-1855 : processing <b>language</b> analysis <b>parsing</b> analysis procedure <b>recognition</b> procedure english sentences linguistics 
+cacm-1525 : proposed a fast <b>algorithm</b> <b>for</b> computing complex fourier transform 
+cacm-2836 : <b>context-free</b> grammar an <b>algorithm</b> is presented <b>for</b> constructing the optimal derivation 
+cacm-1836 : <b>algorithm</b> is presented <b>for</b> obtaining the linear precedence 
+cacm-2421 : a scan conversion <b>algorithm</b> with reduced storage requirements 
+cacm-2423 : assembly <b>language</b> fortran <b>or</b> algol subroutine that is 
+cacm-1988 : <b>algorithm</b> is presented <b>for</b> deciding whether <b>or</b> not a given system 
+cacm-1989 : transition network grammars <b>for</b> natural <b>language</b> analysis the use of 
+cacm-1335 : character set <b>for</b> optical character <b>recognition</b> proposed american stand ard 
+cacm-0949 : grammar of a <b>context-free</b> <b>language</b> should be conceived not 
+cacm-2581 : lpars a locally-organized <b>parsing</b> system designed <b>for</b> use in a continuous 
+cacm-2906 : very high level <b>language</b> nonprocedural <b>language</b> data flow <b>language</b> business application business data 
+cacm-2698 : syntax-directed least-errors analysis <b>for</b> <b>context-free</b> languages a practical approach 
+cacm-2340 : f precedence grammars <b>context-free</b> <b>parsing</b> 4.12 ca720605 jb january 
+cacm-2050 : j content analysis <b>parsing</b> syntactic analysis natural <b>language</b> processing information retrieval <b>language</b> analysis text processing 3.42 
+cacm-1737 : a global parser <b>for</b> <b>context-free</b> phrase structure grammars cacm 
+cacm-1527 : of a sentence <b>recognition</b> device <b>for</b> the class of grammars 
+cacm-2059 : a <b>language</b> <b>for</b> treating graphs a <b>language</b> <b>for</b> the representation of graph 
+cacm-2754 : a syntactic <b>algorithm</b> <b>for</b> peak detection in waveforms 
+cacm-2702 : onk+2 <b>algorithm</b> <b>for</b> testing the lrk property 
+cacm-2684 : production systems <b>or</b> can we do better 
+cacm-1012 : recently become important <b>for</b> both natural <b>language</b> data processing and syntax-directed 
+cacm-2179 : syntactic analysis <b>parsing</b> <b>algorithm</b> parser finite-state machine deterministic 
+cacm-2110 : an efficient <b>context-free</b> <b>parsing</b> <b>algorithm</b> a <b>parsing</b> <b>algorithm</b> which seems to be 
+cacm-2112 : sensitive semantics <b>for</b> <b>context-free</b> languages a formal procedure 
+cacm-2113 : grammar structure <b>recognition</b> pattern <b>recognition</b> matching procedures tree-structure interpretation 
+cacm-2354 : circumstances requiring cosine <b>or</b> sine transformations such as 
+cacm-1641 : a use of fast 
+cacm-3106 : a fast <b>algorithm</b> <b>for</b> copying list structures an 
+cacm-2828 : hierarchical geometric models <b>for</b> visible surface algorithms the 
+cacm-2215 : a sequential pattern <b>recognition</b> spr procedure does not 
+cacm-2980 : of semantic information <b>or</b> on the basis of 
+cacm-2986 : <b>or</b> directed graphs such as 
+cacm-2195 : technique <b>for</b> recognizing systems of lines 
+cacm-1787 : translation grammar <b>context-free</b> <b>language</b> formal <b>language</b> <b>parsing</b> 4.12 5.23 ca680107 jb 
+cacm-2963 : a fast <b>algorithm</b> <b>for</b> computing longest common subsequences 
+cacm-1399 : on top-to-bottom <b>recognition</b> and left recursion a 
+cacm-2476 : and/or graphs <b>language</b> theory <b>context-free</b> grammars 3.60 3.64 5.23 
+cacm-1309 : computer <b>language</b> system has been developed 
+cacm-3176 : simpler <b>algorithm</b> used <b>for</b> compressing lr <b>parsing</b> tables works so well 
+cacm-3079 : an <b>algorithm</b> <b>for</b> reasoning about equality a 
+cacm-1265 : <b>for</b> <b>parsing</b> sentences with respect to 
+cacm-2252 : a method <b>for</b> incrementally compiling languages with 
+cacm-3094 : of parsers <b>for</b> a simple programming <b>language</b> cacm june 1978 cohen 
+cacm-2546 : natural grammar <b>for</b> the <b>language</b> we are proposing an 
+cacm-2545 : of a formal <b>language</b> algorithms <b>for</b> implementing the kinds of 
+cacm-2786 : a system <b>for</b> typesetting mathematics the <b>language</b> has been designed to 
+cacm-1768 : a global parser <b>for</b> <b>context-free</b> phrase structure grammars an 
+cacm-1665 : the multicharacter items <b>or</b> of words allowable in 
+cacm-1170 : probability of .9 <b>for</b> accurately <b>parsing</b> each new sentence it 
+cacm-1669 : algol procedures <b>for</b> the fast fourier transform 
+cacm-1668 : an algol procedure <b>for</b> the fast fourier transform 
+cacm-2061 : an <b>algorithm</b> <b>for</b> the construction of bounded-context 
+cacm-1179 : system designed <b>for</b> the ibm 7090/7094 computer 
+cacm-0617 : completely automatic <b>or</b> partly human-must work at 
+cacm-0185 : minimize the time <b>for</b> executing the entire pending 
+cacm-2703 : <b>context-free</b> <b>language</b> with the syntax of 
+cacm-2849 : <b>for</b> carrying digital data packets 
+cacm-2030 : context-sensitive <b>parsing</b> formal grammars formal <b>language</b> theory <b>parsing</b> <b>parsing</b> algorithms <b>recognition</b> algorithms 3.42 5.22 5.23 
+cacm-0619 : problem of <b>recognition</b> and retrieval of a 
+cacm-1962 : tools <b>or</b> sound synthesizers <b>or</b> anything a person normally 
+cacm-1683 : boolean matrix methods <b>for</b> the detection of simple 
+cacm-2556 : in a programming <b>language</b> which can tolerate a 
+cacm-2350 : clenshaw-curtis quadrature d1 <b>algorithm</b> a424 cacm may 1972 
+cacm-1162 : one assembly <b>language</b> into another <b>or</b> from the assembly <b>language</b> <b>for</b> one machine into the 
+cacm-2794 : representation of the <b>language</b> <b>recognition</b> problem which is based 
+cacm-2091 : pdel-a <b>language</b> <b>for</b> partial differential equations conventional 
+cacm-1569 : <b>context-free</b> phrase structure grammar in 
+cacm-1679 : analysis fourier analysis <b>algorithm</b> fourier synthesis <b>algorithm</b> 3.80 3.81 4.9 5.49 
+cacm-2301 : algorithmic <b>language</b> processingbottom-up <b>parsing</b> floyd production <b>language</b> <b>parsing</b> syntax directed compiling translator 
+cacm-2492 : via <b>parsing</b> of complex decision situations 
+cacm-2811 : pattern <b>recognition</b> <b>parsing</b> waveform analysis pulse waves 
+cacm-1917 : an algol procedure <b>for</b> the fast fourier transform 
+cacm-1910 : an <b>algorithm</b> <b>for</b> solving a special class 
+cacm-2402 : the autocorrelation <b>or</b> patterson function especially <b>for</b> large structures this is 
+cacm-1590 : <b>recognition</b> of the peak structure 
+cacm-2084 : complement <b>context-free</b> <b>language</b> chomsky-language phrase structure <b>language</b> production system type 2 
+cacm-2641 : method z <b>algorithm</b> a479 cacm june 1974 
+cacm-2310 : <b>language</b> analysis in the humanities 
+cacm-2643 : technique <b>for</b> compacting character sets in 
+cacm-0040 : fingers <b>or</b> fists the choice of 
+cacm-1350 : <b>algorithm</b> <b>for</b> arbitrary <b>context-free</b> languages is compared with 

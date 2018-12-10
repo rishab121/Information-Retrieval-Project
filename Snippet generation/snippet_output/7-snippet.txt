@@ -1,100 +1,100 @@
-cacm-2949 : protocol <b>for</b> a <b>distributed</b> computer network <b>in</b> order <b>for</b> <b>the</b> nodes <b>of</b> a <b>distributed</b> computer network to <b>communicate</b> each node must have 
-cacm-2519 : on <b>the</b> problem <b>of</b> communicating complex information <b>the</b> nature <b>of</b> <b>the</b> difficulty involved <b>in</b> communicating mathematical results between 
-cacm-3134 : directory <b>for</b> <b>the</b> information system <b>algorithms</b> <b>for</b> <b>the</b> organization an d retrieval 
-cacm-3141 : to lelanns algorithm <b>for</b> finding <b>the</b> largest or smallest <b>of</b> a set <b>of</b> uniquely numbered <b>processes</b> arranged <b>in</b> a circle <b>in</b> <b>which</b> no central controller exists 
-cacm-2646 : presents <b>the</b> background <b>and</b> <b>algorithms</b> <b>for</b> masking <b>the</b> rotational latency <b>of</b> a disk or drum 
-cacm-1948 : <b>in</b> this survey <b>the</b> more important <b>algorithms</b> <b>in</b> use are described <b>and</b> contrasted <b>and</b> results <b>which</b> have been obtained <b>using</b> existing <b>programs</b> are indicated an extensive 
-cacm-2581 : <b>processes</b> a string <b>of</b> phonemes <b>which</b> contains ambiguity <b>and</b> error <b>the</b> system is locally-organized <b>in</b> <b>the</b> sense that it builds 
-cacm-1623 : problem is stated <b>and</b> <b>the</b> way <b>in</b> <b>which</b> it was solved <b>using</b> formac is indicated <b>the</b> solution <b>of</b> <b>the</b> problem <b>using</b> formac was notable since 
-cacm-1145 : git-a heuristic program <b>for</b> testing pairs <b>of</b> directed line graphs <b>for</b> isomorphism given a pair 
-cacm-2692 : <b>in</b> three dimensions removing <b>the</b> parts <b>of</b> <b>the</b> polygon <b>which</b> lie outside <b>the</b> volume <b>in</b> two dimensions <b>the</b> <b>algorithms</b> permit clipping against irregular 
-cacm-1397 : four hundred people <b>interested</b> <b>in</b> programming languages designed <b>for</b> manipulation <b>of</b> algebraic formulas <b>and</b> symbol strings <b>in</b> their applications <b>and</b> <b>in</b> <b>algorithms</b> <b>for</b> their implementation twenty-eight papers 
-cacm-2771 : <b>the</b> synthesis <b>of</b> solids bounded <b>by</b> many faces a technique 
-cacm-2522 : dependent upon <b>the</b> <b>algorithms</b> employed to allocate <b>the</b> system resources to <b>the</b> <b>processes</b> competing <b>for</b> them recent research <b>in</b> time-sharing paging systems has 
-cacm-2905 : to be complete <b>in</b> <b>the</b> sense that <b>for</b> every set i <b>the</b> smallest table <b>in</b> <b>which</b> <b>the</b> elements <b>of</b> i can be stored 
-cacm-2016 : measurements <b>of</b> <b>interest</b> <b>in</b> a system <b>which</b> combines demand paging with 
-cacm-1609 : <b>of</b> time results <b>of</b> experiments <b>using</b> <b>these</b> <b>techniques</b> are given <b>these</b> are encouraging <b>and</b> indicate that further experimentation 
-cacm-0046 : successful <b>concurrent</b> execution <b>of</b> several independent problem <b>programs</b> are discussed <b>these</b> requirements are met <b>in</b> <b>the</b> stretch system <b>by</b> a carefully balanced combination 
-cacm-3164 : n is <b>the</b> number <b>of</b> nodes <b>and</b> r is <b>the</b> expected number <b>of</b> nodes reachable along paths 
-cacm-1854 : presented <b>which</b> avoids <b>the</b> concept <b>of</b> <b>the</b> interrupt <b>and</b> permits <b>the</b> specification <b>of</b> <b>concurrent</b> or pseudoconcurrent activities <b>in</b> a supposedly more perspicuous 
-cacm-1468 : <b>using</b> parallel processing <b>algorithms</b> was proposed <b>by</b> <b>the</b> author some years ago 
-cacm-2216 : <b>for</b> <b>the</b> first moment <b>in</b> <b>the</b> cases <b>of</b> uniform <b>and</b> nonuniform distribution <b>of</b> branching ratio <b>and</b> <b>for</b> <b>the</b> second moment <b>in</b> <b>the</b> case <b>of</b> uniform distribution <b>of</b> branching ratio cacm february 
-cacm-2142 : are situations <b>in</b> <b>the</b> natural sciences <b>and</b> medicine eg <b>in</b> electron microscopy <b>and</b> x-ray photography <b>in</b> <b>which</b> it is desirable to 
-cacm-2828 : hierarchical geometric models <b>for</b> visible surface <b>algorithms</b> <b>the</b> geometric structure inherent <b>in</b> <b>the</b> definition <b>of</b> <b>the</b> shapes <b>of</b> three-dimensional objects <b>and</b> environments is used not 
-cacm-2871 : third part examines <b>the</b> implications <b>of</b> <b>the</b> approach <b>for</b> <b>the</b> automatic diagnosis <b>and</b> correction <b>of</b> logical errors cacm april 
-cacm-2913 : observed defects <b>in</b> terms <b>of</b> <b>the</b> aliasing phenomenon inherent <b>in</b> sampled signals <b>and</b> discusses prefiltering as a 
-cacm-2314 : coroutines <b>and</b> backtracking alternative methods <b>of</b> procedure invocation required <b>include</b> invocation <b>by</b> pattern <b>and</b> <b>by</b> monitoring condition <b>the</b> need <b>for</b> extended data forms storage 
-cacm-0243 : <b>of</b> codes <b>for</b> detecting <b>and</b> correcting multiple errors <b>in</b> a binary-coded <b>message</b> <b>the</b> <b>message</b> itself is arranged conceptually 
-cacm-1665 : as input description <b>of</b> <b>the</b> multicharacter items or <b>of</b> words allowable <b>in</b> a language given <b>in</b> terms <b>of</b> a subset <b>of</b> regular expressions <b>the</b> output <b>of</b> <b>the</b> system is a lexical 
-cacm-1771 : <b>the</b> development <b>of</b> masters degree <b>programs</b> ways <b>of</b> developing guidelines <b>for</b> doctoral <b>programs</b> are discussed but no 
-cacm-1160 : upon data <b>and</b> finally <b>the</b> output pass <b>which</b> generates <b>the</b> compass program <b>in</b> <b>the</b> form <b>of</b> macro instructions cacm december 
-cacm-2317 : programming systems <b>and</b> languages 1965-1975 <b>in</b> spite <b>of</b> impressive gains <b>by</b> pl/i fortran <b>and</b> cobol remain <b>the</b> languages <b>in</b> <b>which</b> most <b>of</b> <b>the</b> worlds production <b>programs</b> are written <b>and</b> will remain so into 
-cacm-1551 : minimizes <b>the</b> frequency <b>of</b> storing <b>and</b> recovering <b>the</b> partial results <b>of</b> <b>the</b> arithmetic expressions <b>in</b> cases where there are 
-cacm-1135 : it stresses <b>the</b> structural analysis <b>of</b> <b>the</b> class <b>of</b> <b>processes</b> to be represented <b>in</b> <b>the</b> languages as opposed to 
-cacm-2541 : paper explores <b>the</b> advantages <b>of</b> <b>the</b> <b>concurrent</b> design <b>of</b> <b>the</b> language operating system <b>and</b> machine via microcode to 
-cacm-2950 : results <b>in</b> <b>the</b> definition <b>of</b> time-invariant <b>algorithms</b> <b>which</b> <b>include</b> most <b>of</b> <b>the</b> commonly implemented ones <b>for</b> time-invariant <b>algorithms</b> <b>the</b> dependence <b>of</b> processing rates on priorities 
-cacm-2379 : software <b>the</b> system is defined <b>by</b> a combination <b>of</b> microprograms <b>and</b> software <b>the</b> microprogram defines a machine 
-cacm-3014 : <b>for</b> proving <b>the</b> <b>correctness</b> <b>and</b> termination <b>of</b> <b>programs</b> simultaneously this approach <b>the</b> intermittent-assertion method involves documenting 
-cacm-2979 : risk <b>and</b> human problem solving <b>and</b> learning <b>processes</b> on <b>the</b> one hand <b>and</b> machine learning large scale 
-cacm-2324 : user oriented software <b>and</b> comparisons <b>of</b> currently known <b>algorithms</b> to demonstrate <b>which</b> <b>techniques</b> are best <b>for</b> specific problems cacm july 
+cacm-2439 : <b>and</b> can control <b>the</b> interactions between <b>these</b> terminals such <b>programs</b> can be written <b>using</b> standard input <b>and</b> output instructions <b>in</b> any language available on 
 cacm-1458 : <b>in</b> <b>the</b> <b>processes</b> related to producing <b>and</b> checking out <b>programs</b> <b>in</b> <b>the</b> main it it not 
-cacm-2376 : a system consisting <b>of</b> many sending <b>processes</b> <b>which</b> deposit messages <b>in</b> a buffer <b>and</b> many receiving <b>processes</b> <b>which</b> remove messages from that 
+cacm-1752 : given <b>of</b> <b>the</b> task scheduling <b>and</b> paging <b>algorithms</b> that were implemented <b>and</b> <b>the</b> results <b>of</b> comparative simulation are given 
 cacm-2535 : server <b>the</b> computer analytical results <b>include</b> a general description <b>of</b> <b>the</b> output process <b>of</b> an m/d/1 queue <b>and</b> <b>the</b> conditions under <b>which</b> this output process is 
-cacm-2962 : on <b>the</b> production <b>and</b> employment <b>of</b> phs <b>in</b> computer science <b>for</b> <b>the</b> calendar year 1975-76 data 
-cacm-2454 : computing <b>the</b> equilibrium distribution <b>of</b> customers <b>in</b> closed queueing networks with 
-cacm-2912 : use <b>these</b> <b>include</b> a solution to <b>the</b> general problem <b>in</b> <b>which</b> a read is repeated 
-cacm-2470 : use <b>of</b> <b>the</b> paradoxical combinator y <b>the</b> questions <b>of</b> local <b>and</b> global environments <b>and</b> <b>of</b> various modes <b>of</b> function calling <b>and</b> parameter passing are touched 
-cacm-1625 : form <b>of</b> <b>the</b> program <b>and</b> <b>the</b> knowledge obtained <b>by</b> a processor without any 
-cacm-1440 : <b>these</b> approximations <b>include</b> several <b>for</b> <b>the</b> range 1/16 1 <b>which</b> is <b>the</b> interval <b>of</b> primary <b>interest</b> on ibm system/360 cacm 
-cacm-3148 : high level programming <b>for</b> <b>distributed</b> computing programming <b>for</b> <b>distributed</b> <b>and</b> other loosely coupled systems 
-cacm-2740 : a set <b>of</b> cooperating sequential <b>processes</b> <b>the</b> <b>processes</b> <b>synchronize</b> <b>by</b> means <b>of</b> semaphores <b>and</b> extended semaphores queue semaphores 
-cacm-2498 : expected value <b>of</b> total wasted space <b>in</b> internal fragmentation <b>and</b> <b>in</b> a page table per 
-cacm-2402 : refined <b>by</b> reference to <b>the</b> experimental data application <b>of</b> standard pattern recognition <b>algorithms</b> is hindered <b>by</b> <b>the</b> fact that <b>the</b> cross-correlation between a model 
-cacm-2268 : an appendix <b>for</b> <b>the</b> <b>particular</b> problems <b>and</b> criteria used <b>in</b> <b>the</b> investigation it was found 
-cacm-2344 : measure <b>of</b> performance <b>in</b> <b>particular</b> supervisor overheads <b>the</b> size <b>of</b> <b>the</b> store <b>and</b> <b>the</b> speed <b>of</b> <b>the</b> cpu a comparison is 
-cacm-2972 : proof <b>techniques</b> <b>for</b> hierarchically structured <b>programs</b> a method <b>for</b> describing <b>and</b> structuring <b>programs</b> that simplifies proofs <b>of</b> their <b>correctness</b> is presented <b>the</b> method formally represents a 
-cacm-2865 : program termination <b>techniques</b> <b>for</b> verifying <b>these</b> properties are presented <b>and</b> illustrated <b>by</b> application to <b>the</b> dining philosophers problem cacm 
-cacm-1098 : aid <b>in</b> <b>the</b> selection <b>of</b> one <b>of</b> <b>these</b> languages <b>for</b> use <b>in</b> <b>particular</b> problem applications concluding that 
-cacm-2276 : computer methods <b>for</b> sampling from <b>the</b> exponential <b>and</b> normal distributions various methods 
-cacm-2829 : describes extensions <b>of</b> this algorithm <b>in</b> <b>the</b> areas <b>of</b> texture simulation <b>and</b> lighting models <b>the</b> parameterization <b>of</b> a patch defines a 
-cacm-1601 : several families <b>of</b> numerical procedures <b>which</b> use <b>the</b> technique <b>of</b> <b>the</b> procedures <b>in</b> a parallel processing environment 
-cacm-2795 : <b>the</b> program employs both <b>the</b> information retrieval <b>and</b> deduction capabilities <b>of</b> <b>the</b> memory model <b>the</b> model encompasses several diverse 
-cacm-1626 : <b>techniques</b> <b>include</b> careful segmentation <b>of</b> system <b>programs</b> allocation <b>of</b> virtual memory to allow 
-cacm-1381 : portion <b>of</b> <b>the</b> undergraduate mathematical curriculum <b>which</b> is preparation <b>for</b> <b>the</b> use <b>of</b> mathematics <b>by</b> persons who are not 
-cacm-1572 : <b>the</b> design <b>and</b> development <b>of</b> new time-sharing <b>algorithms</b> or <b>techniques</b> <b>for</b> <b>the</b> sake <b>of</b> efficiency <b>and</b> greater applicability <b>the</b> model was implemented <b>in</b> a limited fortran subset 
-cacm-2208 : derived <b>for</b> <b>the</b> expected number <b>of</b> entries filed <b>in</b> <b>the</b> first-level storehis expression gives 
-cacm-2665 : are presented <b>for</b> list structure copying <b>using</b> bounded workspace <b>the</b> first <b>of</b> primarily theoretical <b>interest</b> shows that without cell 
+cacm-2324 : user oriented software <b>and</b> comparisons <b>of</b> currently known <b>algorithms</b> to demonstrate <b>which</b> <b>techniques</b> are best <b>for</b> specific problems cacm july 
+cacm-3134 : directory <b>for</b> <b>the</b> information system <b>algorithms</b> <b>for</b> <b>the</b> organization an d retrieval 
+cacm-2320 : this clarifies <b>the</b> meaning <b>of</b> <b>programs</b> <b>and</b> permits a large class 
+cacm-1854 : presented <b>which</b> avoids <b>the</b> concept <b>of</b> <b>the</b> interrupt <b>and</b> permits <b>the</b> specification <b>of</b> <b>concurrent</b> or pseudoconcurrent activities <b>in</b> a supposedly more perspicuous 
 cacm-2033 : some applications <b>in</b> <b>particular</b> applications <b>in</b> <b>which</b> a large amount <b>of</b> data is involved <b>and</b> a core resident hash 
-cacm-1728 : <b>the</b> evaluation <b>of</b> page replacement <b>algorithms</b> <b>and</b> <b>for</b> assessing <b>the</b> effects on performance <b>of</b> changes <b>in</b> <b>the</b> amount <b>of</b> storage allocated to executing 
-cacm-3078 : be modeled <b>by</b> markov <b>and</b> semi-markov <b>processes</b> <b>the</b> potential range <b>of</b> application <b>of</b> <b>these</b> <b>techniques</b> is much wider than 
-cacm-0595 : are <b>the</b> syntax <b>of</b> cobol <b>the</b> use <b>of</b> such syntax <b>in</b> solving any given problem 
-cacm-2903 : improving <b>programs</b> <b>by</b> <b>the</b> introduction <b>of</b> recursion a new technique 
+cacm-2216 : <b>for</b> <b>the</b> first moment <b>in</b> <b>the</b> cases <b>of</b> uniform <b>and</b> nonuniform distribution <b>of</b> branching ratio <b>and</b> <b>for</b> <b>the</b> second moment <b>in</b> <b>the</b> case <b>of</b> uniform distribution <b>of</b> branching ratio cacm february 
+cacm-1135 : it stresses <b>the</b> structural analysis <b>of</b> <b>the</b> class <b>of</b> <b>processes</b> to be represented <b>in</b> <b>the</b> languages as opposed to 
+cacm-1237 : several translation procedures <b>for</b> <b>the</b> conversion <b>of</b> decision tables to <b>programs</b> are presented <b>and</b> then evaluated <b>in</b> terms <b>of</b> storage requirements execution time 
+cacm-1749 : vital <b>for</b> <b>the</b> verification <b>of</b> <b>the</b> logical soundness <b>of</b> <b>the</b> design <b>and</b> <b>the</b> <b>correctness</b> <b>of</b> its implementation cacm may 
+cacm-3043 : <b>these</b> <b>processes</b> <b>communicate</b> <b>and</b> <b>synchronize</b> <b>by</b> means <b>of</b> procedure calls <b>and</b> guarded regions this concept 
+cacm-1626 : <b>techniques</b> <b>include</b> careful segmentation <b>of</b> system <b>programs</b> allocation <b>of</b> virtual memory to allow 
+cacm-1625 : form <b>of</b> <b>the</b> program <b>and</b> <b>the</b> knowledge obtained <b>by</b> a processor without any 
+cacm-1623 : problem is stated <b>and</b> <b>the</b> way <b>in</b> <b>which</b> it was solved <b>using</b> formac is indicated <b>the</b> solution <b>of</b> <b>the</b> problem <b>using</b> formac was notable since 
+cacm-2740 : a set <b>of</b> cooperating sequential <b>processes</b> <b>the</b> <b>processes</b> <b>synchronize</b> <b>by</b> means <b>of</b> semaphores <b>and</b> extended semaphores queue semaphores 
 cacm-3128 : synchronization with eventcounts <b>and</b> sequencers synchronization <b>of</b> <b>concurrent</b> <b>processes</b> requires controlling <b>the</b> relative ordering <b>of</b> events <b>in</b> <b>the</b> <b>processes</b> a new synchronization mechanism 
-cacm-2890 : <b>the</b> future state <b>of</b> <b>the</b> network <b>the</b> form <b>of</b> <b>the</b> optimality conditions suggests that 
-cacm-1099 : <b>techniques</b> <b>and</b> aids <b>which</b> were designed <b>by</b> <b>the</b> staff <b>of</b> <b>the</b> medical computing center <b>of</b> <b>the</b> university <b>of</b> cincinnati college <b>of</b> medicine cacm april 1964 
-cacm-3143 : array values <b>and</b> concatenation <b>the</b> effectiveness <b>of</b> <b>these</b> ideas is illustrated <b>by</b> informal descriptions <b>of</b> <b>algorithms</b> <b>for</b> binary search <b>and</b> merging <b>and</b> <b>by</b> a short formal proof 
-cacm-2860 : <b>of</b> popular rules <b>of</b> thumb <b>which</b> have been suggested <b>for</b> <b>the</b> design <b>of</b> record addressing <b>algorithms</b> <b>and</b> discusses <b>the</b> applicability <b>of</b> <b>these</b> rules to large commercial 
+cacm-2581 : <b>processes</b> a string <b>of</b> phonemes <b>which</b> contains ambiguity <b>and</b> error <b>the</b> system is locally-organized <b>in</b> <b>the</b> sense that it builds 
+cacm-2903 : improving <b>programs</b> <b>by</b> <b>the</b> introduction <b>of</b> recursion a new technique 
+cacm-2905 : to be complete <b>in</b> <b>the</b> sense that <b>for</b> every set i <b>the</b> smallest table <b>in</b> <b>which</b> <b>the</b> elements <b>of</b> i can be stored 
+cacm-2519 : on <b>the</b> problem <b>of</b> communicating complex information <b>the</b> nature <b>of</b> <b>the</b> difficulty involved <b>in</b> communicating mathematical results between 
+cacm-0964 : expressions <b>in</b> a single variable <b>and</b> were constructed <b>by</b> a recurrence procedure they 
+cacm-2454 : computing <b>the</b> equilibrium distribution <b>of</b> customers <b>in</b> closed queueing networks with 
+cacm-2344 : measure <b>of</b> performance <b>in</b> <b>particular</b> supervisor overheads <b>the</b> size <b>of</b> <b>the</b> store <b>and</b> <b>the</b> speed <b>of</b> <b>the</b> cpu a comparison is 
+cacm-2342 : <b>for</b> <b>the</b> mutual exclusion problem <b>and</b> associated subproblems <b>in</b> <b>the</b> form <b>of</b> parallel <b>programs</b> <b>and</b> informal proofs <b>of</b> <b>correctness</b> have been given <b>for</b> <b>these</b> solutions <b>in</b> this paper a system 
+cacm-2289 : challenge <b>in</b> <b>the</b> effective use <b>of</b> cellular arrays <b>for</b> <b>the</b> solution <b>of</b> graph problems is <b>the</b> determination <b>of</b> <b>algorithms</b> that exploit <b>the</b> possibilities <b>for</b> parallelism especially <b>for</b> problems whose solutions appear 
+cacm-2912 : use <b>these</b> <b>include</b> a solution to <b>the</b> general problem <b>in</b> <b>which</b> a read is repeated 
+cacm-2913 : observed defects <b>in</b> terms <b>of</b> <b>the</b> aliasing phenomenon inherent <b>in</b> sampled signals <b>and</b> discusses prefiltering as a 
+cacm-1397 : four hundred people <b>interested</b> <b>in</b> programming languages designed <b>for</b> manipulation <b>of</b> algebraic formulas <b>and</b> symbol strings <b>in</b> their applications <b>and</b> <b>in</b> <b>algorithms</b> <b>for</b> their implementation twenty-eight papers 
 cacm-2110 : top-down <b>and</b> bottom-up <b>algorithms</b> studied <b>by</b> griffiths <b>and</b> petrick cacm february 1970 
 cacm-2111 : <b>in</b> to compilers <b>and</b> operating systems <b>these</b> <b>include</b> <b>the</b> use <b>of</b> syntax <b>and</b> semantics information <b>the</b> organization <b>of</b> restricted keyword <b>and</b> symbol tables <b>and</b> <b>the</b> consideration <b>of</b> a limited class <b>of</b> spelling errors sample 360 
-cacm-2373 : relations between <b>the</b> average working-set size <b>the</b> missing-page rate <b>and</b> <b>the</b> interreference-interval distribution may be 
+cacm-1145 : git-a heuristic program <b>for</b> testing pairs <b>of</b> directed line graphs <b>for</b> isomorphism given a pair 
 cacm-0409 : <b>algorithms</b> may be expressed <b>in</b> a family <b>of</b> command <b>and</b> descriptive languages <b>the</b> concept <b>of</b> distinct data descriptions <b>and</b> <b>the</b> content <b>and</b> use <b>of</b> such descriptions are discussed 
-cacm-1752 : given <b>of</b> <b>the</b> task scheduling <b>and</b> paging <b>algorithms</b> that were implemented <b>and</b> <b>the</b> results <b>of</b> comparative simulation are given 
-cacm-1237 : several translation procedures <b>for</b> <b>the</b> conversion <b>of</b> decision tables to <b>programs</b> are presented <b>and</b> then evaluated <b>in</b> terms <b>of</b> storage requirements execution time 
-cacm-3006 : <b>algorithms</b> five types <b>of</b> anomalous behavior <b>which</b> may occur <b>in</b> paged virtual memory operating 
-cacm-2289 : challenge <b>in</b> <b>the</b> effective use <b>of</b> cellular arrays <b>for</b> <b>the</b> solution <b>of</b> graph problems is <b>the</b> determination <b>of</b> <b>algorithms</b> that exploit <b>the</b> possibilities <b>for</b> parallelism especially <b>for</b> problems whose solutions appear 
-cacm-1886 : are presented <b>for</b> increasing <b>the</b> efficiency <b>of</b> <b>the</b> object code produced <b>by</b> first factoring <b>the</b> expressions ie finding a 
+cacm-2828 : hierarchical geometric models <b>for</b> visible surface <b>algorithms</b> <b>the</b> geometric structure inherent <b>in</b> <b>the</b> definition <b>of</b> <b>the</b> shapes <b>of</b> three-dimensional objects <b>and</b> environments is used not 
+cacm-2829 : describes extensions <b>of</b> this algorithm <b>in</b> <b>the</b> areas <b>of</b> texture simulation <b>and</b> lighting models <b>the</b> parameterization <b>of</b> a patch defines a 
+cacm-1551 : minimizes <b>the</b> frequency <b>of</b> storing <b>and</b> recovering <b>the</b> partial results <b>of</b> <b>the</b> arithmetic expressions <b>in</b> cases where there are 
+cacm-1098 : aid <b>in</b> <b>the</b> selection <b>of</b> one <b>of</b> <b>these</b> languages <b>for</b> use <b>in</b> <b>particular</b> problem applications concluding that 
+cacm-1099 : <b>techniques</b> <b>and</b> aids <b>which</b> were designed <b>by</b> <b>the</b> staff <b>of</b> <b>the</b> medical computing center <b>of</b> <b>the</b> university <b>of</b> cincinnati college <b>of</b> medicine cacm april 1964 
+cacm-1728 : <b>the</b> evaluation <b>of</b> page replacement <b>algorithms</b> <b>and</b> <b>for</b> assessing <b>the</b> effects on performance <b>of</b> changes <b>in</b> <b>the</b> amount <b>of</b> storage allocated to executing 
+cacm-1948 : <b>in</b> this survey <b>the</b> more important <b>algorithms</b> <b>in</b> use are described <b>and</b> contrasted <b>and</b> results <b>which</b> have been obtained <b>using</b> existing <b>programs</b> are indicated an extensive 
+cacm-2692 : <b>in</b> three dimensions removing <b>the</b> parts <b>of</b> <b>the</b> polygon <b>which</b> lie outside <b>the</b> volume <b>in</b> two dimensions <b>the</b> <b>algorithms</b> permit clipping against irregular 
 cacm-1946 : <b>algorithms</b> <b>for</b> computing <b>the</b> resultant <b>of</b> two polynomials <b>in</b> several variables a key 
-cacm-2094 : d <b>by</b> properties <b>which</b> permit <b>the</b> application <b>of</b> special <b>algorithms</b> mainly based on <b>the</b> exchange <b>algorithms</b> <b>of</b> remes 1934 1935 <b>for</b> their solution <b>in</b> this paper <b>the</b> application to problems <b>of</b> this type <b>of</b> a general nonlinear algorithm 
-cacm-3043 : <b>these</b> <b>processes</b> <b>communicate</b> <b>and</b> <b>synchronize</b> <b>by</b> means <b>of</b> procedure calls <b>and</b> guarded regions this concept 
-cacm-2167 : results about <b>the</b> existence <b>of</b> powerful simplification <b>algorithms</b> <b>and</b> <b>the</b> number-theoretic conjectures on <b>which</b> they rely results about 
-cacm-2342 : <b>for</b> <b>the</b> mutual exclusion problem <b>and</b> associated subproblems <b>in</b> <b>the</b> form <b>of</b> parallel <b>programs</b> <b>and</b> informal proofs <b>of</b> <b>correctness</b> have been given <b>for</b> <b>these</b> solutions <b>in</b> this paper a system 
-cacm-2716 : analysis <b>and</b> 5 maintaining locality <b>in</b> page references <b>algorithms</b> <b>for</b> implementing <b>the</b> operators <b>of</b> e f codds relational 
+cacm-1381 : portion <b>of</b> <b>the</b> undergraduate mathematical curriculum <b>which</b> is preparation <b>for</b> <b>the</b> use <b>of</b> mathematics <b>by</b> persons who are not 
+cacm-2962 : on <b>the</b> production <b>and</b> employment <b>of</b> phs <b>in</b> computer science <b>for</b> <b>the</b> calendar year 1975-76 data 
+cacm-2208 : derived <b>for</b> <b>the</b> expected number <b>of</b> entries filed <b>in</b> <b>the</b> first-level storehis expression gives 
+cacm-2470 : use <b>of</b> <b>the</b> paradoxical combinator y <b>the</b> questions <b>of</b> local <b>and</b> global environments <b>and</b> <b>of</b> various modes <b>of</b> function calling <b>and</b> parameter passing are touched 
 cacm-2895 : <b>for</b> specifying <b>the</b> <b>in</b> tended behavior <b>of</b> communicating parallel <b>processes</b> is described <b>the</b> specifications are constrain ts 
-cacm-2657 : on <b>the</b> algorithm proposed <b>by</b> waldinger <b>and</b> lee <b>in</b> 1969 is given <b>in</b> <b>the</b> old algorithm <b>the</b> program-synthesizing problem is translated 
-cacm-1749 : vital <b>for</b> <b>the</b> verification <b>of</b> <b>the</b> logical soundness <b>of</b> <b>the</b> design <b>and</b> <b>the</b> <b>correctness</b> <b>of</b> its implementation cacm may 
-cacm-2439 : <b>and</b> can control <b>the</b> interactions between <b>these</b> terminals such <b>programs</b> can be written <b>using</b> standard input <b>and</b> output instructions <b>in</b> any language available on 
+cacm-3078 : be modeled <b>by</b> markov <b>and</b> semi-markov <b>processes</b> <b>the</b> potential range <b>of</b> application <b>of</b> <b>these</b> <b>techniques</b> is much wider than 
+cacm-2771 : <b>the</b> synthesis <b>of</b> solids bounded <b>by</b> many faces a technique 
+cacm-2167 : results about <b>the</b> existence <b>of</b> powerful simplification <b>algorithms</b> <b>and</b> <b>the</b> number-theoretic conjectures on <b>which</b> they rely results about 
+cacm-0595 : are <b>the</b> syntax <b>of</b> cobol <b>the</b> use <b>of</b> such syntax <b>in</b> solving any given problem 
+cacm-2541 : paper explores <b>the</b> advantages <b>of</b> <b>the</b> <b>concurrent</b> design <b>of</b> <b>the</b> language operating system <b>and</b> machine via microcode to 
+cacm-2979 : risk <b>and</b> human problem solving <b>and</b> learning <b>processes</b> on <b>the</b> one hand <b>and</b> machine learning large scale 
+cacm-2972 : proof <b>techniques</b> <b>for</b> hierarchically structured <b>programs</b> a method <b>for</b> describing <b>and</b> structuring <b>programs</b> that simplifies proofs <b>of</b> their <b>correctness</b> is presented <b>the</b> method formally represents a 
+cacm-3141 : to lelanns algorithm <b>for</b> finding <b>the</b> largest or smallest <b>of</b> a set <b>of</b> uniquely numbered <b>processes</b> arranged <b>in</b> a circle <b>in</b> <b>which</b> no central controller exists 
+cacm-2376 : a system consisting <b>of</b> many sending <b>processes</b> <b>which</b> deposit messages <b>in</b> a buffer <b>and</b> many receiving <b>processes</b> <b>which</b> remove messages from that 
+cacm-1665 : as input description <b>of</b> <b>the</b> multicharacter items or <b>of</b> words allowable <b>in</b> a language given <b>in</b> terms <b>of</b> a subset <b>of</b> regular expressions <b>the</b> output <b>of</b> <b>the</b> system is a lexical 
+cacm-2373 : relations between <b>the</b> average working-set size <b>the</b> missing-page rate <b>and</b> <b>the</b> interreference-interval distribution may be 
+cacm-1572 : <b>the</b> design <b>and</b> development <b>of</b> new time-sharing <b>algorithms</b> or <b>techniques</b> <b>for</b> <b>the</b> sake <b>of</b> efficiency <b>and</b> greater applicability <b>the</b> model was implemented <b>in</b> a limited fortran subset 
+cacm-3164 : n is <b>the</b> number <b>of</b> nodes <b>and</b> r is <b>the</b> expected number <b>of</b> nodes reachable along paths 
+cacm-2276 : computer methods <b>for</b> sampling from <b>the</b> exponential <b>and</b> normal distributions various methods 
+cacm-2379 : software <b>the</b> system is defined <b>by</b> a combination <b>of</b> microprograms <b>and</b> software <b>the</b> microprogram defines a machine 
 cacm-0616 : represents <b>the</b> results <b>of</b> <b>the</b> first phase <b>of</b> <b>the</b> work <b>of</b> <b>the</b> language structure group <b>the</b> goal <b>of</b> this work is to 
-cacm-2320 : this clarifies <b>the</b> meaning <b>of</b> <b>programs</b> <b>and</b> permits a large class 
+cacm-3006 : <b>algorithms</b> five types <b>of</b> anomalous behavior <b>which</b> may occur <b>in</b> paged virtual memory operating 
+cacm-1468 : <b>using</b> parallel processing <b>algorithms</b> was proposed <b>by</b> <b>the</b> author some years ago 
+cacm-2665 : are presented <b>for</b> list structure copying <b>using</b> bounded workspace <b>the</b> first <b>of</b> primarily theoretical <b>interest</b> shows that without cell 
+cacm-0243 : <b>of</b> codes <b>for</b> detecting <b>and</b> correcting multiple errors <b>in</b> a binary-coded <b>message</b> <b>the</b> <b>message</b> itself is arranged conceptually 
+cacm-2949 : protocol <b>for</b> a <b>distributed</b> computer network <b>in</b> order <b>for</b> <b>the</b> nodes <b>of</b> a <b>distributed</b> computer network to <b>communicate</b> each node must have 
+cacm-1160 : upon data <b>and</b> finally <b>the</b> output pass <b>which</b> generates <b>the</b> compass program <b>in</b> <b>the</b> form <b>of</b> macro instructions cacm december 
+cacm-2795 : <b>the</b> program employs both <b>the</b> information retrieval <b>and</b> deduction capabilities <b>of</b> <b>the</b> memory model <b>the</b> model encompasses several diverse 
+cacm-2094 : d <b>by</b> properties <b>which</b> permit <b>the</b> application <b>of</b> special <b>algorithms</b> mainly based on <b>the</b> exchange <b>algorithms</b> <b>of</b> remes 1934 1935 <b>for</b> their solution <b>in</b> this paper <b>the</b> application to problems <b>of</b> this type <b>of</b> a general nonlinear algorithm 
+cacm-2268 : an appendix <b>for</b> <b>the</b> <b>particular</b> problems <b>and</b> criteria used <b>in</b> <b>the</b> investigation it was found 
+cacm-1886 : are presented <b>for</b> increasing <b>the</b> efficiency <b>of</b> <b>the</b> object code produced <b>by</b> first factoring <b>the</b> expressions ie finding a 
+cacm-1771 : <b>the</b> development <b>of</b> masters degree <b>programs</b> ways <b>of</b> developing guidelines <b>for</b> doctoral <b>programs</b> are discussed but no 
+cacm-2716 : analysis <b>and</b> 5 maintaining locality <b>in</b> page references <b>algorithms</b> <b>for</b> implementing <b>the</b> operators <b>of</b> e f codds relational 
+cacm-2871 : third part examines <b>the</b> implications <b>of</b> <b>the</b> approach <b>for</b> <b>the</b> automatic diagnosis <b>and</b> correction <b>of</b> logical errors cacm april 
+cacm-2142 : are situations <b>in</b> <b>the</b> natural sciences <b>and</b> medicine eg <b>in</b> electron microscopy <b>and</b> x-ray photography <b>in</b> <b>which</b> it is desirable to 
+cacm-3014 : <b>for</b> proving <b>the</b> <b>correctness</b> <b>and</b> termination <b>of</b> <b>programs</b> simultaneously this approach <b>the</b> intermittent-assertion method involves documenting 
+cacm-2657 : on <b>the</b> algorithm proposed <b>by</b> waldinger <b>and</b> lee <b>in</b> 1969 is given <b>in</b> <b>the</b> old algorithm <b>the</b> program-synthesizing problem is translated 
+cacm-2498 : expected value <b>of</b> total wasted space <b>in</b> internal fragmentation <b>and</b> <b>in</b> a page table per 
+cacm-2016 : measurements <b>of</b> <b>interest</b> <b>in</b> a system <b>which</b> combines demand paging with 
 cacm-1698 : actual console but <b>the</b> entire collection <b>of</b> virtual consoles models <b>the</b> collection <b>of</b> actual consoles <b>using</b> <b>the</b> model we answer questions 
-cacm-0964 : expressions <b>in</b> a single variable <b>and</b> were constructed <b>by</b> a recurrence procedure they 
+cacm-2646 : presents <b>the</b> background <b>and</b> <b>algorithms</b> <b>for</b> masking <b>the</b> rotational latency <b>of</b> a disk or drum 
+cacm-2950 : results <b>in</b> <b>the</b> definition <b>of</b> time-invariant <b>algorithms</b> <b>which</b> <b>include</b> most <b>of</b> <b>the</b> commonly implemented ones <b>for</b> time-invariant <b>algorithms</b> <b>the</b> dependence <b>of</b> processing rates on priorities 
+cacm-2890 : <b>the</b> future state <b>of</b> <b>the</b> network <b>the</b> form <b>of</b> <b>the</b> optimality conditions suggests that 
+cacm-2402 : refined <b>by</b> reference to <b>the</b> experimental data application <b>of</b> standard pattern recognition <b>algorithms</b> is hindered <b>by</b> <b>the</b> fact that <b>the</b> cross-correlation between a model 
+cacm-2522 : dependent upon <b>the</b> <b>algorithms</b> employed to allocate <b>the</b> system resources to <b>the</b> <b>processes</b> competing <b>for</b> them recent research <b>in</b> time-sharing paging systems has 
 cacm-2524 : searching <b>the</b> problem <b>of</b> searching <b>the</b> set <b>of</b> keys <b>in</b> a file to find 
+cacm-3143 : array values <b>and</b> concatenation <b>the</b> effectiveness <b>of</b> <b>these</b> ideas is illustrated <b>by</b> informal descriptions <b>of</b> <b>algorithms</b> <b>for</b> binary search <b>and</b> merging <b>and</b> <b>by</b> a short formal proof 
+cacm-3148 : high level programming <b>for</b> <b>distributed</b> computing programming <b>for</b> <b>distributed</b> <b>and</b> other loosely coupled systems 
+cacm-1601 : several families <b>of</b> numerical procedures <b>which</b> use <b>the</b> technique <b>of</b> <b>the</b> procedures <b>in</b> a parallel processing environment 
+cacm-2865 : program termination <b>techniques</b> <b>for</b> verifying <b>these</b> properties are presented <b>and</b> illustrated <b>by</b> application to <b>the</b> dining philosophers problem cacm 
+cacm-2860 : <b>of</b> popular rules <b>of</b> thumb <b>which</b> have been suggested <b>for</b> <b>the</b> design <b>of</b> record addressing <b>algorithms</b> <b>and</b> discusses <b>the</b> applicability <b>of</b> <b>these</b> rules to large commercial 
+cacm-2317 : programming systems <b>and</b> languages 1965-1975 <b>in</b> spite <b>of</b> impressive gains <b>by</b> pl/i fortran <b>and</b> cobol remain <b>the</b> languages <b>in</b> <b>which</b> most <b>of</b> <b>the</b> worlds production <b>programs</b> are written <b>and</b> will remain so into 
+cacm-2314 : coroutines <b>and</b> backtracking alternative methods <b>of</b> procedure invocation required <b>include</b> invocation <b>by</b> pattern <b>and</b> <b>by</b> monitoring condition <b>the</b> need <b>for</b> extended data forms storage 
+cacm-1440 : <b>these</b> approximations <b>include</b> several <b>for</b> <b>the</b> range 1/16 1 <b>which</b> is <b>the</b> interval <b>of</b> primary <b>interest</b> on ibm system/360 cacm 
+cacm-1609 : <b>of</b> time results <b>of</b> experiments <b>using</b> <b>these</b> <b>techniques</b> are given <b>these</b> are encouraging <b>and</b> indicate that further experimentation 
+cacm-0046 : successful <b>concurrent</b> execution <b>of</b> several independent problem <b>programs</b> are discussed <b>these</b> requirements are met <b>in</b> <b>the</b> stretch system <b>by</b> a carefully balanced combination 

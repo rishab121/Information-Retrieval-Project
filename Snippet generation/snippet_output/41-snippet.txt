@@ -1,100 +1,100 @@
-cacm-0695 : <b>for</b> problem programs <b>and</b> <b>for</b> <b>systems</b> programs such as compilers 
-cacm-2504 : heuristic programming <b>models</b> <b>of</b> cognitive <b>processes</b> computer music computer compositionmusic 
-cacm-2949 : protocol <b>for</b> a <b>distributed</b> computer network <b>in</b> order <b>for</b> the nodes <b>of</b> a <b>distributed</b> computer network to communicate 
-cacm-2777 : use <b>of</b> p <b>and</b> v these restrictions eliminate 
-cacm-3059 : the <b>models</b> are formulated <b>in</b> terms <b>of</b> cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied to the analysis 
-cacm-1153 : technique <b>for</b> generating normally <b>distributed</b> random numbers is described 
-cacm-2849 : ethernet <b>distributed</b> packet switching <b>for</b> local computer networks ethernet 
-cacm-2926 : strategy is presented <b>for</b> pagination <b>of</b> b-trees with variable-length records 
-cacm-1948 : range <b>of</b> problems <b>in</b> group <b>theory</b> the most important areas 
-cacm-1978 : <b>and</b> also take advantage <b>of</b> the insight <b>and</b> visual capabilities <b>of</b> the human problem solver 
-cacm-2080 : <b>and</b> control <b>of</b> a hierarchy <b>of</b> <b>processes</b> as well as the 
-cacm-2522 : to the <b>processes</b> competing <b>for</b> them recent research <b>in</b> time-sharing paging <b>systems</b> has developed the working 
-cacm-1484 : be used <b>for</b> simulation <b>and</b> automatic design <b>of</b> the system described <b>in</b> addition to <b>communicating</b> system specifications cacm february 
-cacm-1935 : is binary <b>in</b> nature <b>and</b> offers new potential <b>for</b> information retrieval <b>systems</b> cacm february 1969 arora 
-cacm-1854 : basic instructions <b>for</b> the generation termination <b>and</b> <b>synchronization</b> <b>of</b> <b>parallel</b> <b>processes</b> a set <b>of</b> routines representing these instructions 
-cacm-2016 : discussed these tools <b>include</b> <b>special</b> hardware clocks <b>and</b> data channels general purpose 
-cacm-2181 : <b>in</b> required <b>and</b> functional courses <b>and</b> curricula <b>for</b> students concentrating on computer-based 
-cacm-2216 : <b>for</b> the first moment <b>in</b> the cases <b>of</b> uniform <b>and</b> nonuniform distribution <b>of</b> branching ratio <b>and</b> <b>for</b> the second moment <b>in</b> the case <b>of</b> uniform distribution <b>of</b> branching ratio cacm february 
-cacm-2828 : structure inherent <b>in</b> the definition <b>of</b> the shapes <b>of</b> three-dimensional objects <b>and</b> environments is used not 
-cacm-3142 : the timeliness <b>and</b> the number <b>of</b> designs <b>of</b> very large linked program 
-cacm-3082 : time clocks <b>and</b> the ordering <b>of</b> events <b>in</b> a <b>distributed</b> system the concept <b>of</b> one event happening before 
-cacm-2373 : properties <b>of</b> the working-set model a 
-cacm-2314 : <b>of</b> advanced programming <b>systems</b> <b>for</b> a wide range <b>of</b> applications three aspects <b>of</b> programming <b>systems</b> are highlighted good interactive 
-cacm-2931 : <b>in</b> giving descriptions <b>of</b> <b>processes</b> the definition <b>of</b> the precise meaning <b>of</b> a program then requires 
-cacm-2596 : block sizes <b>of</b> 2^k <b>and</b> 32^k whereas the original 
-cacm-1745 : communications <b>and</b> the development <b>of</b> information services 2 the 
-cacm-2406 : <b>systems</b> as well as <b>in</b> advanced data management <b>systems</b> <b>and</b> <b>distributed</b> data bases this paper 
-cacm-2020 : <b>of</b> pricing <b>in</b> quite different environments cacm 
-cacm-2128 : minimize changes <b>of</b> tasks on processors <b>and</b> thereby reduce over-head the 
-cacm-2890 : two analytic <b>models</b> <b>of</b> a store-and-forward communications network 
-cacm-1951 : estimates <b>of</b> distributions <b>of</b> random variables <b>for</b> certain computer communications traffic 
-cacm-3000 : certain aspects <b>of</b> the construction <b>and</b> behavior <b>of</b> real programs <b>and</b> some <b>of</b> their implications <b>for</b> the design <b>of</b> virtual memory <b>systems</b> are presented <b>and</b> discussed cacm january 1977 
-cacm-2950 : a framework <b>for</b> implementing flexible schedulers <b>in</b> real operating <b>systems</b> the policy-driven scheduler <b>of</b> bernstein <b>and</b> sharp is discussed as 
-cacm-1751 : <b>of</b> a general treatment <b>of</b> <b>resource</b> allocation <b>in</b> modern computer <b>systems</b> is an adequate model 
-cacm-2979 : risk <b>and</b> human problem solving <b>and</b> learning <b>processes</b> on the one hand 
-cacm-2198 : host language <b>systems</b> <b>and</b> those found <b>in</b> self-contained <b>systems</b> after some discussion <b>of</b> the problems <b>of</b> data independence <b>and</b> bindingthe four user levels 
-cacm-2166 : poisson series <b>and</b> a typical problem <b>in</b> perturbation <b>theory</b> is described the requirements 
-cacm-2376 : <b>synchronization</b> <b>of</b> <b>communicating</b> <b>processes</b> formalization <b>of</b> a well-defined <b>synchronization</b> mechanism can be used 
-cacm-2697 : a fast method <b>for</b> solving a class <b>of</b> tridiagonal linear <b>systems</b> the solution <b>of</b> linear <b>systems</b> having real symmetric diagonally 
-cacm-2535 : <b>include</b> a general description <b>of</b> the output process <b>of</b> an m/d/1 queue <b>and</b> the conditions under which 
-cacm-3084 : the value <b>of</b> the key <b>and</b> the statistical distribution <b>of</b> the keys it is 
-cacm-1099 : <b>for</b> programming work because <b>of</b> intense training <b>in</b> <b>and</b> constant experience with locating 
-cacm-2912 : concurrent reading <b>and</b> writing the problem <b>of</b> sharing data among <b>asynchronous</b> process is considered it 
-cacm-2470 : questions <b>of</b> local <b>and</b> global environments <b>and</b> <b>of</b> various modes <b>of</b> function calling <b>and</b> parameter passing are touched 
-cacm-1959 : proposed <b>for</b> the design <b>and</b> coding <b>of</b> large shared data base 
-cacm-1928 : are improved ease <b>and</b> economy <b>in</b> model generation economy <b>in</b> execution time <b>and</b> space <b>and</b> a facility <b>for</b> handling simultaneous activities the 
-cacm-2597 : implementation <b>in</b> terms <b>of</b> semaphores <b>and</b> gives a suitable proof 
-cacm-2095 : measurements <b>of</b> segment size distributions <b>of</b> segment sizes measured under 
-cacm-3148 : high level programming <b>for</b> <b>distributed</b> computing programming <b>for</b> <b>distributed</b> <b>and</b> other loosely coupled <b>systems</b> is a problem <b>of</b> growing <b>interest</b> this paper describes an 
-cacm-2740 : a set <b>of</b> cooperating sequential <b>processes</b> the <b>processes</b> synchronize by means <b>of</b> semaphores <b>and</b> extended semaphores queue semaphores 
-cacm-3076 : analyses <b>of</b> market arrangements system <b>reliability</b> <b>and</b> privacy <b>of</b> transactions these topics are 
-cacm-2454 : strategies <b>and</b> order <b>of</b> evaluation are examined <b>in</b> some detail cacm september 
-cacm-3077 : von neumann languages <b>models</b> <b>of</b> computing <b>systems</b> applicative computing <b>systems</b> applicative state transition <b>systems</b> program transformation program correctness 
-cacm-2276 : are compared <b>in</b> terms <b>of</b> memory requirements <b>and</b> speed with some new 
-cacm-2846 : measured <b>in</b> terms <b>of</b> bit inspections <b>of</b> one key is <b>of</b> the order logmn <b>and</b> the storage requirement <b>of</b> the order nm+log2 n 
-cacm-2878 : well as <b>lower</b> <b>and</b> upper <b>bounds</b> <b>for</b> the control numbers <b>and</b> the capacities <b>of</b> the <b>systems</b> queues are derived cacm 
-cacm-1552 : selected sizes control <b>of</b> shattering <b>and</b> garbage collection <b>and</b> sharing <b>of</b> physical space between zones 
-cacm-2317 : great deal <b>of</b> theoretical <b>interest</b> <b>in</b> algol 68 <b>and</b> <b>in</b> extensible languages but so 
-cacm-1774 : features <b>of</b> program overlay <b>systems</b> are described three main 
-cacm-1572 : the simulation <b>of</b> time sharing <b>systems</b> the development <b>of</b> new large scale time-sharing 
-cacm-2816 : optimal reorganization <b>of</b> <b>distributed</b> space disk files <b>in</b> most database organizations the 
-cacm-2928 : <b>of</b> multiprogramming <b>in</b> the system <b>and</b> to bill <b>for</b> memory usage the resulting 
-cacm-3153 : <b>and</b> economical <b>lower</b> <b>bounds</b> <b>for</b> the expected response times 
-cacm-3128 : <b>synchronization</b> with eventcounts <b>and</b> sequencers <b>synchronization</b> <b>of</b> concurrent <b>processes</b> requires controlling the relative 
-cacm-2541 : both incremental compilation <b>and</b> the <b>systems</b> addressing structure <b>and</b> centralized the communication mechanisms 
-cacm-3124 : arrays <b>of</b> numbers <b>and</b> characters an extension <b>of</b> apl is proposed that 
-cacm-2738 : use <b>of</b> the concept <b>of</b> transparency <b>in</b> the design <b>of</b> hierarchically structured <b>systems</b> this paper deals with 
-cacm-2030 : several previous parsers <b>for</b> context-sensitive grammars <b>and</b> general rewriting <b>systems</b> <b>and</b> the difference between the 
 cacm-3119 : performance tradeoffs <b>of</b> multiple processor <b>systems</b> issues considered <b>include</b> the impact <b>of</b> cpu service disciplines <b>and</b> distributions level <b>of</b> multiprogramming multitasking <b>and</b> job priorities cacm january 
-cacm-3088 : <b>of</b> multiprogrammed computer <b>systems</b> the equations are directly 
-cacm-2616 : <b>theory</b> <b>of</b> programming <b>systems</b> analysis 4.19 4.42 4.43 
-cacm-3117 : implementation <b>and</b> impact <b>of</b> police computer technology <b>and</b> the relationship <b>of</b> this technology to law 
-cacm-2111 : <b>in</b> to compilers <b>and</b> operating <b>systems</b> these <b>include</b> the use <b>of</b> syntax <b>and</b> semantics information the organization 
+cacm-2927 : some new upper <b>bounds</b> on the generation <b>of</b> prime numbers given an 
+cacm-2926 : strategy is presented <b>for</b> pagination <b>of</b> b-trees with variable-length records 
+cacm-2928 : <b>of</b> multiprogramming <b>in</b> the system <b>and</b> to bill <b>for</b> memory usage the resulting 
+cacm-1752 : system task scheduling <b>and</b> <b>resource</b> balancing <b>for</b> a medium size virtual 
+cacm-1751 : <b>of</b> a general treatment <b>of</b> <b>resource</b> allocation <b>in</b> modern computer <b>systems</b> is an adequate model 
+cacm-2738 : use <b>of</b> the concept <b>of</b> transparency <b>in</b> the design <b>of</b> hierarchically structured <b>systems</b> this paper deals with 
+cacm-2128 : minimize changes <b>of</b> tasks on processors <b>and</b> thereby reduce over-head the 
+cacm-2535 : <b>include</b> a general description <b>of</b> the output process <b>of</b> an m/d/1 queue <b>and</b> the conditions under which 
+cacm-0435 : <b>for</b> the handling <b>of</b> a standard <b>systems</b> programming problemthat <b>of</b> providing a data input 
+cacm-1341 : levels <b>of</b> computer <b>systems</b> <b>in</b> building current computer <b>systems</b> we tend to break 
+cacm-3137 : a methodology <b>for</b> the design <b>of</b> <b>distributed</b> information <b>systems</b> a macro model <b>of</b> a <b>distributed</b> information system <b>in</b> presented the model describes 
+cacm-2320 : a proposal <b>for</b> structured representation <b>of</b> multiprogramming <b>in</b> a high level language 
+cacm-1854 : basic instructions <b>for</b> the generation termination <b>and</b> <b>synchronization</b> <b>of</b> <b>parallel</b> <b>processes</b> a set <b>of</b> routines representing these instructions 
+cacm-2030 : several previous parsers <b>for</b> context-sensitive grammars <b>and</b> general rewriting <b>systems</b> <b>and</b> the difference between the 
+cacm-2504 : heuristic programming <b>models</b> <b>of</b> cognitive <b>processes</b> computer music computer compositionmusic 
+cacm-2931 : <b>in</b> giving descriptions <b>of</b> <b>processes</b> the definition <b>of</b> the precise meaning <b>of</b> a program then requires 
+cacm-1745 : communications <b>and</b> the development <b>of</b> information services 2 the 
 cacm-1747 : <b>of</b> <b>parallel</b> <b>processes</b> protection <b>in</b> multiprogrammed <b>systems</b> <b>and</b> the assignment <b>of</b> capability indexes cacm may 
+cacm-3043 : examples <b>of</b> <b>distributed</b> <b>processes</b> <b>and</b> shows that they <b>include</b> procedures coroutines classes monitors 
+cacm-2020 : <b>of</b> pricing <b>in</b> quite different environments cacm 
+cacm-1935 : is binary <b>in</b> nature <b>and</b> offers new potential <b>for</b> information retrieval <b>systems</b> cacm february 1969 arora 
+cacm-3124 : arrays <b>of</b> numbers <b>and</b> characters an extension <b>of</b> apl is proposed that 
+cacm-2740 : a set <b>of</b> cooperating sequential <b>processes</b> the <b>processes</b> synchronize by means <b>of</b> semaphores <b>and</b> extended semaphores queue semaphores 
+cacm-3128 : <b>synchronization</b> with eventcounts <b>and</b> sequencers <b>synchronization</b> <b>of</b> concurrent <b>processes</b> requires controlling the relative 
+cacm-2629 : the nature <b>and</b> implementation <b>of</b> the file system <b>and</b> <b>of</b> the user command interface 
+cacm-3180 : <b>of</b> alternative payment <b>systems</b> such as cash checks 
+cacm-3181 : <b>in</b> the present system <b>for</b> defining responsibilities liabilities <b>and</b> avenues <b>of</b> recourse this article presents 
+cacm-2900 : problem <b>of</b> finding the optimal set 
+cacm-2697 : a fast method <b>for</b> solving a class <b>of</b> tridiagonal linear <b>systems</b> the solution <b>of</b> linear <b>systems</b> having real symmetric diagonally 
+cacm-2454 : strategies <b>and</b> order <b>of</b> evaluation are examined <b>in</b> some detail cacm september 
+cacm-3059 : the <b>models</b> are formulated <b>in</b> terms <b>of</b> cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied to the analysis 
+cacm-2616 : <b>theory</b> <b>of</b> programming <b>systems</b> analysis 4.19 4.42 4.43 
+cacm-2342 : interference between <b>communicating</b> <b>parallel</b> <b>processes</b> various kinds <b>of</b> interference between <b>communicating</b> <b>parallel</b> <b>processes</b> have been examined by 
+cacm-3117 : implementation <b>and</b> impact <b>of</b> police computer technology <b>and</b> the relationship <b>of</b> this technology to law 
+cacm-2596 : block sizes <b>of</b> 2^k <b>and</b> 32^k whereas the original 
+cacm-2597 : implementation <b>in</b> terms <b>of</b> semaphores <b>and</b> gives a suitable proof 
+cacm-2181 : <b>in</b> required <b>and</b> functional courses <b>and</b> curricula <b>for</b> students concentrating on computer-based 
+cacm-1247 : programming <b>systems</b> the available services <b>include</b> dynamic allocation <b>of</b> storage <b>for</b> contiguous blocks <b>of</b> arbitrary size input <b>and</b> output <b>for</b> a hierarchy <b>of</b> data types a public 
+cacm-1959 : proposed <b>for</b> the design <b>and</b> coding <b>of</b> large shared data base 
+cacm-1951 : estimates <b>of</b> distributions <b>of</b> random variables <b>for</b> certain computer communications traffic 
+cacm-2289 : w h graph <b>theory</b> cellular logic-in-memory arrays <b>parallel</b> processing <b>special</b> purpose computers algorithms <b>for</b> distance <b>and</b> spanning tree problems 5.32 
+cacm-2912 : concurrent reading <b>and</b> writing the problem <b>of</b> sharing data among <b>asynchronous</b> process is considered it 
+cacm-1153 : technique <b>for</b> generating normally <b>distributed</b> random numbers is described 
+cacm-2111 : <b>in</b> to compilers <b>and</b> operating <b>systems</b> these <b>include</b> the use <b>of</b> syntax <b>and</b> semantics information the organization 
+cacm-2828 : structure inherent <b>in</b> the definition <b>of</b> the shapes <b>of</b> three-dimensional objects <b>and</b> environments is used not 
+cacm-2216 : <b>for</b> the first moment <b>in</b> the cases <b>of</b> uniform <b>and</b> nonuniform distribution <b>of</b> branching ratio <b>and</b> <b>for</b> the second moment <b>in</b> the case <b>of</b> uniform distribution <b>of</b> branching ratio cacm february 
+cacm-2198 : host language <b>systems</b> <b>and</b> those found <b>in</b> self-contained <b>systems</b> after some discussion <b>of</b> the problems <b>of</b> data independence <b>and</b> bindingthe four user levels 
+cacm-1552 : selected sizes control <b>of</b> shattering <b>and</b> garbage collection <b>and</b> sharing <b>of</b> physical space between zones 
+cacm-1924 : organizing matrices <b>and</b> matrix operations <b>for</b> paged memory <b>systems</b> matrix representations <b>and</b> operations are examined <b>for</b> the purpose <b>of</b> minimizing the page faulting 
+cacm-1099 : <b>for</b> programming work because <b>of</b> intense training <b>in</b> <b>and</b> constant experience with locating 
+cacm-1484 : be used <b>for</b> simulation <b>and</b> automatic design <b>of</b> the system described <b>in</b> addition to <b>communicating</b> system specifications cacm february 
+cacm-3088 : <b>of</b> multiprogrammed computer <b>systems</b> the equations are directly 
+cacm-1948 : range <b>of</b> problems <b>in</b> group <b>theory</b> the most important areas 
+cacm-3082 : time clocks <b>and</b> the ordering <b>of</b> events <b>in</b> a <b>distributed</b> system the concept <b>of</b> one event happening before 
+cacm-3084 : the value <b>of</b> the key <b>and</b> the statistical distribution <b>of</b> the keys it is 
 cacm-2969 : <b>for</b> the allocation <b>of</b> program <b>and</b> data files <b>in</b> a computer network is 
 cacm-2578 : self-stabilizing <b>systems</b> <b>in</b> spite <b>of</b> <b>distributed</b> control cacm november 1974 
-cacm-1752 : system task scheduling <b>and</b> <b>resource</b> balancing <b>for</b> a medium size virtual 
-cacm-2342 : interference between <b>communicating</b> <b>parallel</b> <b>processes</b> various kinds <b>of</b> interference between <b>communicating</b> <b>parallel</b> <b>processes</b> have been examined by 
-cacm-1247 : programming <b>systems</b> the available services <b>include</b> dynamic allocation <b>of</b> storage <b>for</b> contiguous blocks <b>of</b> arbitrary size input <b>and</b> output <b>for</b> a hierarchy <b>of</b> data types a public 
+cacm-3076 : analyses <b>of</b> market arrangements system <b>reliability</b> <b>and</b> privacy <b>of</b> transactions these topics are 
+cacm-3077 : von neumann languages <b>models</b> <b>of</b> computing <b>systems</b> applicative computing <b>systems</b> applicative state transition <b>systems</b> program transformation program correctness 
 cacm-3072 : to the amount <b>of</b> memory <b>resource</b> required <b>for</b> effective processing <b>of</b> the i/o activity buffer 
-cacm-2289 : w h graph <b>theory</b> cellular logic-in-memory arrays <b>parallel</b> processing <b>special</b> purpose computers algorithms <b>for</b> distance <b>and</b> spanning tree problems 5.32 
-cacm-2482 : can be tailored <b>for</b> subproblems <b>of</b> <b>resource</b> allocation <b>and</b> still operate together to 
+cacm-2470 : questions <b>of</b> local <b>and</b> global environments <b>and</b> <b>of</b> various modes <b>of</b> function calling <b>and</b> parameter passing are touched 
+cacm-2166 : poisson series <b>and</b> a typical problem <b>in</b> perturbation <b>theory</b> is described the requirements 
 cacm-1877 : <b>in</b> the design <b>of</b> operating <b>systems</b> is the selection <b>of</b> a <b>resource</b> allocation policy that will 
-cacm-2955 : implementing any <b>of</b> a class <b>of</b> buddy <b>systems</b> <b>for</b> dynamic storage allocation each 
-cacm-3181 : <b>in</b> the present system <b>for</b> defining responsibilities liabilities <b>and</b> avenues <b>of</b> recourse this article presents 
-cacm-2927 : some new upper <b>bounds</b> on the generation <b>of</b> prime numbers given an 
-cacm-2629 : the nature <b>and</b> implementation <b>of</b> the file system <b>and</b> <b>of</b> the user command interface 
-cacm-3141 : <b>of</b> a set <b>of</b> uniquely numbered <b>processes</b> arranged <b>in</b> a circle <b>in</b> which no central controller 
-cacm-3025 : five generations <b>of</b> implementations to presently <b>include</b> <b>systems</b> covering a price range 
-cacm-3043 : examples <b>of</b> <b>distributed</b> <b>processes</b> <b>and</b> shows that they <b>include</b> procedures coroutines classes monitors 
-cacm-1341 : levels <b>of</b> computer <b>systems</b> <b>in</b> building current computer <b>systems</b> we tend to break 
+cacm-1978 : <b>and</b> also take advantage <b>of</b> the insight <b>and</b> visual capabilities <b>of</b> the human problem solver 
+cacm-2777 : use <b>of</b> p <b>and</b> v these restrictions eliminate 
+cacm-2541 : both incremental compilation <b>and</b> the <b>systems</b> addressing structure <b>and</b> centralized the communication mechanisms 
+cacm-2979 : risk <b>and</b> human problem solving <b>and</b> learning <b>processes</b> on the one hand 
+cacm-0695 : <b>for</b> problem programs <b>and</b> <b>for</b> <b>systems</b> programs such as compilers 
+cacm-2376 : <b>synchronization</b> <b>of</b> <b>communicating</b> <b>processes</b> formalization <b>of</b> a well-defined <b>synchronization</b> mechanism can be used 
 cacm-2371 : a system <b>for</b> interprocess communication <b>in</b> a <b>resource</b> sharing computer network a 
+cacm-2373 : properties <b>of</b> the working-set model a 
+cacm-1572 : the simulation <b>of</b> time sharing <b>systems</b> the development <b>of</b> new large scale time-sharing 
+cacm-2276 : are compared <b>in</b> terms <b>of</b> memory requirements <b>and</b> speed with some new 
+cacm-3000 : certain aspects <b>of</b> the construction <b>and</b> behavior <b>of</b> real programs <b>and</b> some <b>of</b> their implications <b>for</b> the design <b>of</b> virtual memory <b>systems</b> are presented <b>and</b> discussed cacm january 1977 
+cacm-2849 : ethernet <b>distributed</b> packet switching <b>for</b> local computer networks ethernet 
+cacm-2846 : measured <b>in</b> terms <b>of</b> bit inspections <b>of</b> one key is <b>of</b> the order logmn <b>and</b> the storage requirement <b>of</b> the order nm+log2 n 
 cacm-1960 : process management <b>and</b> <b>resource</b> sharing <b>in</b> the multiaccess system esope 
-cacm-1924 : organizing matrices <b>and</b> matrix operations <b>for</b> paged memory <b>systems</b> matrix representations <b>and</b> operations are examined <b>for</b> the purpose <b>of</b> minimizing the page faulting 
+cacm-2949 : protocol <b>for</b> a <b>distributed</b> computer network <b>in</b> order <b>for</b> the nodes <b>of</b> a <b>distributed</b> computer network to communicate 
+cacm-3153 : <b>and</b> economical <b>lower</b> <b>bounds</b> <b>for</b> the expected response times 
+cacm-2095 : measurements <b>of</b> segment size distributions <b>of</b> segment sizes measured under 
+cacm-1774 : features <b>of</b> program overlay <b>systems</b> are described three main 
+cacm-1928 : are improved ease <b>and</b> economy <b>in</b> model generation economy <b>in</b> execution time <b>and</b> space <b>and</b> a facility <b>for</b> handling simultaneous activities the 
+cacm-2878 : well as <b>lower</b> <b>and</b> upper <b>bounds</b> <b>for</b> the control numbers <b>and</b> the capacities <b>of</b> the <b>systems</b> queues are derived cacm 
+cacm-2016 : discussed these tools <b>include</b> <b>special</b> hardware clocks <b>and</b> data channels general purpose 
+cacm-2816 : optimal reorganization <b>of</b> <b>distributed</b> space disk files <b>in</b> most database organizations the 
+cacm-2950 : a framework <b>for</b> implementing flexible schedulers <b>in</b> real operating <b>systems</b> the policy-driven scheduler <b>of</b> bernstein <b>and</b> sharp is discussed as 
+cacm-2955 : implementing any <b>of</b> a class <b>of</b> buddy <b>systems</b> <b>for</b> dynamic storage allocation each 
+cacm-2406 : <b>systems</b> as well as <b>in</b> advanced data management <b>systems</b> <b>and</b> <b>distributed</b> data bases this paper 
+cacm-2890 : two analytic <b>models</b> <b>of</b> a store-and-forward communications network 
 cacm-2895 : <b>for</b> specifying the <b>in</b> tended behavior <b>of</b> <b>communicating</b> <b>parallel</b> <b>processes</b> is described the specifications 
-cacm-3180 : <b>of</b> alternative payment <b>systems</b> such as cash checks 
-cacm-3137 : a methodology <b>for</b> the design <b>of</b> <b>distributed</b> information <b>systems</b> a macro model <b>of</b> a <b>distributed</b> information system <b>in</b> presented the model describes 
-cacm-0435 : <b>for</b> the handling <b>of</b> a standard <b>systems</b> programming problemthat <b>of</b> providing a data input 
-cacm-2320 : a proposal <b>for</b> structured representation <b>of</b> multiprogramming <b>in</b> a high level language 
-cacm-2900 : problem <b>of</b> finding the optimal set 
+cacm-2080 : <b>and</b> control <b>of</b> a hierarchy <b>of</b> <b>processes</b> as well as the 
+cacm-2522 : to the <b>processes</b> competing <b>for</b> them recent research <b>in</b> time-sharing paging <b>systems</b> has developed the working 
+cacm-3141 : <b>of</b> a set <b>of</b> uniquely numbered <b>processes</b> arranged <b>in</b> a circle <b>in</b> which no central controller 
+cacm-3142 : the timeliness <b>and</b> the number <b>of</b> designs <b>of</b> very large linked program 
+cacm-3148 : high level programming <b>for</b> <b>distributed</b> computing programming <b>for</b> <b>distributed</b> <b>and</b> other loosely coupled <b>systems</b> is a problem <b>of</b> growing <b>interest</b> this paper describes an 
+cacm-3025 : five generations <b>of</b> implementations to presently <b>include</b> <b>systems</b> covering a price range 
+cacm-2482 : can be tailored <b>for</b> subproblems <b>of</b> <b>resource</b> allocation <b>and</b> still operate together to 
+cacm-2317 : great deal <b>of</b> theoretical <b>interest</b> <b>in</b> algol 68 <b>and</b> <b>in</b> extensible languages but so 
+cacm-2314 : <b>of</b> advanced programming <b>systems</b> <b>for</b> a wide range <b>of</b> applications three aspects <b>of</b> programming <b>systems</b> are highlighted good interactive 

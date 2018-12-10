@@ -1,100 +1,100 @@
-cacm-2046 : activities <b>of</b> users at terminals <b>and</b> most <b>application</b> programs should remain unaffected 
-cacm-1412 : <b>and</b> more sophisticated usage <b>of</b> data processing equipment is 
-cacm-1029 : for the <b>automatic</b> <b>evaluation</b> <b>and</b> differentiation <b>of</b> these new variables the 
-cacm-3134 : for the organization <b>and</b> <b>retrieval</b> <b>of</b> attribute based <b>information</b> systems using the normal 
-cacm-3059 : <b>of</b> cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied <b>to</b> the analysis <b>of</b> these problems the percentage 
-cacm-2765 : analysis <b>and</b> <b>performance</b> <b>of</b> inverted data base structures 
-cacm-2518 : questionnaire combines aspects <b>of</b> decision table programming <b>and</b> general purpose programming by 
-cacm-1948 : <b>and</b> contrasted <b>and</b> results which have been 
-cacm-2188 : the capabilities <b>of</b> the graphics hardware <b>and</b> <b>of</b> the computational requirements <b>of</b> the graphics <b>application</b> the model can be 
-cacm-1978 : easy <b>to</b> use <b>and</b> also take advantage <b>of</b> the insight <b>and</b> visual capabilities <b>of</b> the human problem solver 
-cacm-2390 : be organized <b>and</b> the role required <b>of</b> readers writers <b>and</b> commentators cacm february 1972 
+cacm-1827 : purpose <b>of</b> monitoring operating system <b>and</b> user program behavior <b>and</b> <b>performance</b> the overall structure <b>of</b> mts is outlined in 
+cacm-2437 : the analysis <b>of</b> <b>performance</b> <b>of</b> the various key-to-address transformation 
+cacm-2923 : updating <b>of</b> data flow <b>information</b> <b>to</b> reflect program changes <b>and</b> derives new global <b>information</b> helpful in solving many 
+cacm-2882 : estimate the <b>retrieval</b> workload <b>of</b> alternative data <b>retrieval</b> systems these data <b>retrieval</b> systems can be organized 
 cacm-0944 : processing the purpose <b>of</b> this paper is <b>to</b> examine the storage <b>and</b> search properties <b>of</b> a tree-organized storage system 
-cacm-3089 : reliability <b>and</b> system <b>performance</b> <b>evaluation</b> 3.72 3.73 4.33 4.35 
-cacm-0675 : <b>automatic</b> storage <b>and</b> <b>retrieval</b> a series <b>of</b> clinical laboratory codes have 
+cacm-1029 : for the <b>automatic</b> <b>evaluation</b> <b>and</b> differentiation <b>of</b> these new variables the 
+cacm-1457 : data manipulation <b>and</b> programming problems in <b>automatic</b> <b>information</b> <b>retrieval</b> <b>automatic</b> <b>information</b> <b>retrieval</b> programs require the manipulation 
+cacm-2631 : <b>information</b> <b>retrieval</b> namely the maintenance <b>and</b> use <b>of</b> large dictionaries the greater 
+cacm-3134 : for the organization <b>and</b> <b>retrieval</b> <b>of</b> attribute based <b>information</b> systems using the normal 
+cacm-1855 : <b>of</b> english words <b>and</b> that it pursues all 
+cacm-1856 : simulation program <b>and</b> <b>theory</b> <b>of</b> language the teachable language 
+cacm-2033 : reduce the amount <b>of</b> space required <b>to</b> contain the hash-coded <b>information</b> from that associated with 
+cacm-2835 : the detection <b>of</b> recursive use <b>of</b> procedures is presented for 
+cacm-2140 : <b>of</b> <b>retrieval</b> <b>and</b> update tradeoff curves are 
+cacm-1032 : enter the file <b>to</b> circumvent the scanning <b>of</b> nonrelevant material <b>and</b> c file organization <b>to</b> make access <b>to</b> <b>information</b> efficient for identification <b>of</b> <b>information</b> the paper suggests that 
+cacm-2139 : <b>subset</b> signature <b>information</b> compression <b>information</b> <b>retrieval</b> searching 3.74 5.30 5.6 
+cacm-1236 : the present report <b>to</b> illustrate systems operations <b>and</b> <b>evaluation</b> procedures cacm june 1965 
+cacm-3041 : the <b>application</b> <b>of</b> msts <b>to</b> dictionary lookup for english 
+cacm-1627 : <b>of</b> certain data management <b>and</b> <b>information</b> <b>retrieval</b> systems the concept <b>of</b> level changing is introduced 
+cacm-3124 : <b>of</b> numbers <b>and</b> characters an extension <b>of</b> apl is proposed that 
+cacm-2741 : <b>of</b> variable aggregation <b>and</b> the concept <b>of</b> nearly decomposable system both 
+cacm-0891 : quite general <b>and</b> is applicable <b>to</b> many different types <b>of</b> <b>retrieval</b> problems furtherthe method <b>of</b> solution makes it possible 
+cacm-1108 : study <b>of</b> lunar tracking techniques <b>and</b> fabrication <b>of</b> a breadboard <b>to</b> assess the feasibility <b>of</b> the best technique selected 
+cacm-2518 : questionnaire combines aspects <b>of</b> decision table programming <b>and</b> general purpose programming by 
+cacm-1699 : w rubinoff e <b>information</b> <b>retrieval</b> testing <b>information</b> system <b>evaluation</b> experimental document <b>retrieval</b> document <b>retrieval</b> document perusal man-machine communication 
+cacm-2883 : an <b>application</b> <b>of</b> heuristic search methods <b>to</b> edge <b>and</b> contour detection this paper 
+cacm-2699 : which allow relations <b>of</b> inclusion <b>and</b> membership <b>to</b> be established the domains 
+cacm-2451 : <b>information</b> storage <b>and</b> <b>retrieval</b> <b>clustering</b> search data structure data 
+cacm-0397 : variety <b>of</b> reference files in <b>information</b> processing an 80-column ibm 
+cacm-2454 : storage allocation strategies <b>and</b> order <b>of</b> <b>evaluation</b> are examined in some 
+cacm-3059 : <b>of</b> cpui/o <b>and</b> i/oi/o overlap <b>and</b> applied <b>to</b> the analysis <b>of</b> these problems the percentage 
+cacm-2188 : the capabilities <b>of</b> the graphics hardware <b>and</b> <b>of</b> the computational requirements <b>of</b> the graphics <b>application</b> the model can be 
+cacm-2050 : unambiguous identification <b>of</b> the subject <b>and</b> object <b>of</b> certain verbs for approximately 
+cacm-1527 : for the <b>automatic</b> <b>retrieval</b> <b>of</b> certain segments <b>of</b> stored <b>information</b> either explicitly or implicitly 
+cacm-2598 : extending the <b>information</b> <b>theory</b> approach <b>to</b> converting limited-entry decision tables 
 cacm-2059 : <b>of</b> graph is described <b>and</b> the formulation <b>of</b> graph operations such as 
+cacm-1935 : the mean <b>and</b> variance <b>of</b> the number <b>of</b> trials <b>to</b> recover a given document 
+cacm-1934 : the choice <b>of</b> the best order <b>of</b> computation <b>to</b> a specific problem under 
+cacm-1792 : <b>and</b> off line programming <b>performance</b> two exploratory experiments were 
+cacm-2684 : the development <b>of</b> bnf the definition <b>of</b> the syntax <b>of</b> programming languages has been 
+cacm-0046 : <b>of</b> new problems in machine 
+cacm-2568 : connected subgraph <b>and</b> <b>to</b> discuss the <b>application</b> <b>of</b> this algorithm <b>to</b> the solution <b>of</b> school scheduling <b>and</b> exam scheduling problems cacm 
+cacm-1398 : <b>of</b> the type <b>of</b> multivariate problem that is 
+cacm-2561 : by deleting part <b>of</b> the data <b>and</b> by purposely introducing false 
+cacm-2217 : from the experience <b>of</b> pp a number <b>of</b> experiments were performed <b>to</b> test the effectiveness <b>and</b> generality <b>of</b> the learning program results 
+cacm-2198 : a discussion <b>of</b> the problem <b>of</b> catering <b>to</b> a high volume <b>of</b> transactions initiated from terminals 
+cacm-2984 : evaluating computer system <b>performance</b> in terms <b>of</b> a cost/utilization factor <b>and</b> a measure <b>of</b> imbalance these coefficients indicate 
+cacm-1926 : facilitates the editing <b>and</b> printing <b>of</b> finished documents directly on 
+cacm-3089 : reliability <b>and</b> system <b>performance</b> <b>evaluation</b> 3.72 3.73 4.33 4.35 
+cacm-1948 : <b>and</b> contrasted <b>and</b> results which have been 
+cacm-2967 : graphics <b>information</b> <b>retrieval</b> data structures software <b>evaluation</b> hardware <b>evaluation</b> parallel processing database management 
+cacm-1415 : avenue toward conducting <b>automatic</b> <b>retrieval</b> <b>of</b> natural language messages <b>to</b> explore the prospects <b>of</b> such a step the 
+cacm-1412 : <b>and</b> more sophisticated usage <b>of</b> data processing equipment is 
+cacm-1652 : designed <b>to</b> simplify the internal <b>information</b> processing operations within an 
+cacm-1653 : system <b>performance</b> <b>evaluation</b> survey <b>and</b> appraisal the state <b>of</b> the art <b>of</b> system <b>performance</b> <b>evaluation</b> is reviewed <b>and</b> <b>evaluation</b> goals <b>and</b> problems are examined throughput 
+cacm-1651 : input <b>to</b> any linear programming solution 
+cacm-2990 : <b>information</b> <b>retrieval</b> <b>automatic</b> <b>indexing</b> content analysis term accuracy 
+cacm-2991 : effects <b>of</b> these techniques lead <b>to</b> improved file <b>performance</b> for secondary storage devices 
+cacm-1267 : the pertinent aspects <b>of</b> <b>information</b> transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> <b>information</b> bits trib <b>of</b> residual errors <b>and</b> <b>of</b> standard measurement conditions the 
+cacm-2389 : is an extension <b>of</b> algol <b>and</b> <b>includes</b> means <b>to</b> represent spaces <b>and</b> objects <b>to</b> manipulate them <b>and</b> <b>to</b> test the resulting arrangements 
+cacm-1978 : easy <b>to</b> use <b>and</b> also take advantage <b>of</b> the insight <b>and</b> visual capabilities <b>of</b> the human problem solver 
+cacm-1976 : many combinations <b>of</b> values <b>and</b> a combination <b>of</b> buckets may be required 
+cacm-2542 : system which integrates <b>performance</b> <b>evaluation</b> with design <b>and</b> implementation is described this 
+cacm-2547 : an <b>application</b> <b>of</b> this representation <b>to</b> handling terrain <b>information</b> illustrates its utility the 
+cacm-0696 : are used <b>to</b> record <b>and</b> control the flow <b>of</b> data transmitted <b>to</b> the data processing center 
+cacm-2976 : organization database <b>performance</b> <b>and</b> measurement <b>information</b> <b>retrieval</b> query answering 3.70 3.72 
+cacm-1665 : <b>of</b> the <b>theory</b> <b>of</b> finite-state automata <b>to</b> automatically generate lexical processors 
+cacm-1572 : <b>and</b> can be used <b>to</b> study a variety <b>of</b> time-sharing systems it can 
+cacm-1272 : abstracting citation <b>indexing</b> mechanical translation <b>and</b> other such procedures editing 
+cacm-2669 : demand paging <b>performance</b> predicting the <b>performance</b> <b>of</b> a proposed automatically managed 
+cacm-0185 : 2 introduction <b>and</b> <b>theory</b> in order <b>to</b> exploit fully a fast 
+cacm-1469 : that is intended <b>to</b> span differences <b>of</b> <b>application</b> area by a unified 
+cacm-2842 : concepts <b>of</b> environments stores <b>and</b> continuations are introduced <b>to</b> model classes <b>of</b> programming language features <b>and</b> the underlying mathematical <b>theory</b> <b>of</b> computation due <b>to</b> scott is motivated <b>and</b> outlined finally the paper 
+cacm-2390 : be organized <b>and</b> the role required <b>of</b> readers writers <b>and</b> commentators cacm february 1972 
+cacm-0329 : its <b>application</b> <b>to</b> problems <b>of</b> <b>automatic</b> <b>indexing</b> <b>and</b> <b>automatic</b> abstracting included in the 
+cacm-1048 : heat <b>and</b> ideal fluid flow <b>and</b> stress concentration <b>theory</b> reduce under the assumption 
+cacm-2046 : activities <b>of</b> users at terminals <b>and</b> most <b>application</b> programs should remain unaffected 
 cacm-2092 : are all described <b>and</b> illustrated examples <b>of</b> the systems <b>performance</b> <b>and</b> <b>of</b> the limitations <b>of</b> its question-answering capability are 
+cacm-2094 : <b>application</b> <b>to</b> problems <b>of</b> this type <b>of</b> a general nonlinear algorithm 
+cacm-2268 : <b>performance</b> <b>of</b> several computer programs for 
+cacm-2265 : on the notions <b>of</b> abstraction <b>and</b> <b>application</b> <b>of</b> functions in particular a 
+cacm-2307 : the early promise <b>of</b> library automation <b>and</b> <b>of</b> the mechanization <b>of</b> documentation processes has not 
+cacm-2711 : c s <b>automatic</b> <b>information</b> <b>retrieval</b> <b>automatic</b> <b>indexing</b> content analysis document space 
+cacm-2812 : analyzer generator <b>of</b> alternative designs <b>and</b> <b>performance</b> evaluator the statement <b>of</b> requirements was written in 
+cacm-1911 : work <b>of</b> transformational <b>theory</b> <b>to</b> account for these phenomena 
+cacm-1675 : <b>retrieval</b> relevance <b>indexing</b> classification 3.70 3.71 3.74 
+cacm-2765 : analysis <b>and</b> <b>performance</b> <b>of</b> inverted data base structures 
+cacm-2951 : analytical simulation <b>and</b> statistical <b>performance</b> <b>evaluation</b> tools are employed <b>to</b> investigate the feasibility <b>of</b> a dynamic response time 
+cacm-2452 : <b>evaluation</b> <b>and</b> selection <b>of</b> file organization-a model <b>and</b> system this work first 
+cacm-2959 : computer the user <b>of</b> sba views his <b>application</b> as manipulation <b>of</b> <b>information</b> in two-dimensional pictures <b>of</b> tables business forms <b>and</b> reports on a display 
+cacm-0675 : <b>automatic</b> storage <b>and</b> <b>retrieval</b> a series <b>of</b> clinical laboratory codes have 
+cacm-1290 : <b>to</b> the problems <b>of</b> transparency <b>to</b> the basic ascii communication 
+cacm-1768 : a number <b>of</b> artificial grammars <b>and</b> on a <b>subset</b> <b>of</b> algol a number <b>of</b> the routines for extracting 
+cacm-1769 : <b>automatic</b> processing <b>of</b> <b>information</b> is impeded by nine 
 cacm-2722 : n <b>and</b> optimization guarantees logarithmic <b>performance</b> <b>of</b> searches o n log 
 cacm-1194 : establishment <b>of</b> the acm repository <b>and</b> principles <b>of</b> the ir system applied 
-cacm-1976 : many combinations <b>of</b> values <b>and</b> a combination <b>of</b> buckets may be required 
-cacm-1108 : study <b>of</b> lunar tracking techniques <b>and</b> fabrication <b>of</b> a breadboard <b>to</b> assess the feasibility <b>of</b> the best technique selected 
-cacm-2835 : the detection <b>of</b> recursive use <b>of</b> procedures is presented for 
-cacm-0696 : are used <b>to</b> record <b>and</b> control the flow <b>of</b> data transmitted <b>to</b> the data processing center 
-cacm-1665 : <b>of</b> the <b>theory</b> <b>of</b> finite-state automata <b>to</b> automatically generate lexical processors 
-cacm-2882 : estimate the <b>retrieval</b> workload <b>of</b> alternative data <b>retrieval</b> systems these data <b>retrieval</b> systems can be organized 
-cacm-1272 : abstracting citation <b>indexing</b> mechanical translation <b>and</b> other such procedures editing 
-cacm-2452 : <b>evaluation</b> <b>and</b> selection <b>of</b> file organization-a model <b>and</b> system this work first 
-cacm-0891 : quite general <b>and</b> is applicable <b>to</b> many different types <b>of</b> <b>retrieval</b> problems furtherthe method <b>of</b> solution makes it possible 
-cacm-1290 : <b>to</b> the problems <b>of</b> transparency <b>to</b> the basic ascii communication 
-cacm-2318 : <b>performance</b> <b>of</b> computer systems <b>and</b> establishes circumstances under which 
-cacm-2967 : graphics <b>information</b> <b>retrieval</b> data structures software <b>evaluation</b> hardware <b>evaluation</b> parallel processing database management 
-cacm-1699 : w rubinoff e <b>information</b> <b>retrieval</b> testing <b>information</b> system <b>evaluation</b> experimental document <b>retrieval</b> document <b>retrieval</b> document perusal man-machine communication 
-cacm-2198 : a discussion <b>of</b> the problem <b>of</b> catering <b>to</b> a high volume <b>of</b> transactions initiated from terminals 
-cacm-2991 : effects <b>of</b> these techniques lead <b>to</b> improved file <b>performance</b> for secondary storage devices 
-cacm-1032 : enter the file <b>to</b> circumvent the scanning <b>of</b> nonrelevant material <b>and</b> c file organization <b>to</b> make access <b>to</b> <b>information</b> efficient for identification <b>of</b> <b>information</b> the paper suggests that 
-cacm-3041 : the <b>application</b> <b>of</b> msts <b>to</b> dictionary lookup for english 
-cacm-1652 : designed <b>to</b> simplify the internal <b>information</b> processing operations within an 
-cacm-2454 : storage allocation strategies <b>and</b> order <b>of</b> <b>evaluation</b> are examined in some 
-cacm-1651 : input <b>to</b> any linear programming solution 
-cacm-1527 : for the <b>automatic</b> <b>retrieval</b> <b>of</b> certain segments <b>of</b> stored <b>information</b> either explicitly or implicitly 
-cacm-2684 : the development <b>of</b> bnf the definition <b>of</b> the syntax <b>of</b> programming languages has been 
-cacm-1675 : <b>retrieval</b> relevance <b>indexing</b> classification 3.70 3.71 3.74 
-cacm-2699 : which allow relations <b>of</b> inclusion <b>and</b> membership <b>to</b> be established the domains 
-cacm-2976 : organization database <b>performance</b> <b>and</b> measurement <b>information</b> <b>retrieval</b> query answering 3.70 3.72 
-cacm-0185 : 2 introduction <b>and</b> <b>theory</b> in order <b>to</b> exploit fully a fast 
-cacm-1855 : <b>of</b> english words <b>and</b> that it pursues all 
-cacm-1926 : facilitates the editing <b>and</b> printing <b>of</b> finished documents directly on 
-cacm-2268 : <b>performance</b> <b>of</b> several computer programs for 
-cacm-2451 : <b>information</b> storage <b>and</b> <b>retrieval</b> <b>clustering</b> search data structure data 
-cacm-1236 : the present report <b>to</b> illustrate systems operations <b>and</b> <b>evaluation</b> procedures cacm june 1965 
-cacm-2542 : system which integrates <b>performance</b> <b>evaluation</b> with design <b>and</b> implementation is described this 
-cacm-2561 : by deleting part <b>of</b> the data <b>and</b> by purposely introducing false 
-cacm-2842 : concepts <b>of</b> environments stores <b>and</b> continuations are introduced <b>to</b> model classes <b>of</b> programming language features <b>and</b> the underlying mathematical <b>theory</b> <b>of</b> computation due <b>to</b> scott is motivated <b>and</b> outlined finally the paper 
-cacm-0397 : variety <b>of</b> reference files in <b>information</b> processing an 80-column ibm 
-cacm-0329 : its <b>application</b> <b>to</b> problems <b>of</b> <b>automatic</b> <b>indexing</b> <b>and</b> <b>automatic</b> abstracting included in the 
-cacm-0048 : the properties <b>and</b> <b>application</b> <b>of</b> the code in some 
-cacm-1769 : <b>automatic</b> processing <b>of</b> <b>information</b> is impeded by nine 
 cacm-2484 : <b>information</b> organization <b>and</b> storage is reduced <b>to</b> that <b>of</b> defining relations <b>and</b> formulating algorithms under a 
-cacm-2217 : from the experience <b>of</b> pp a number <b>of</b> experiments were performed <b>to</b> test the effectiveness <b>and</b> generality <b>of</b> the learning program results 
-cacm-2094 : <b>application</b> <b>to</b> problems <b>of</b> this type <b>of</b> a general nonlinear algorithm 
-cacm-1398 : <b>of</b> the type <b>of</b> multivariate problem that is 
-cacm-2669 : demand paging <b>performance</b> predicting the <b>performance</b> <b>of</b> a proposed automatically managed 
-cacm-1572 : <b>and</b> can be used <b>to</b> study a variety <b>of</b> time-sharing systems it can 
-cacm-2033 : reduce the amount <b>of</b> space required <b>to</b> contain the hash-coded <b>information</b> from that associated with 
-cacm-1768 : a number <b>of</b> artificial grammars <b>and</b> on a <b>subset</b> <b>of</b> algol a number <b>of</b> the routines for extracting 
-cacm-2050 : unambiguous identification <b>of</b> the subject <b>and</b> object <b>of</b> certain verbs for approximately 
-cacm-2265 : on the notions <b>of</b> abstraction <b>and</b> <b>application</b> <b>of</b> functions in particular a 
-cacm-1934 : the choice <b>of</b> the best order <b>of</b> computation <b>to</b> a specific problem under 
-cacm-2984 : evaluating computer system <b>performance</b> in terms <b>of</b> a cost/utilization factor <b>and</b> a measure <b>of</b> imbalance these coefficients indicate 
-cacm-2598 : extending the <b>information</b> <b>theory</b> approach <b>to</b> converting limited-entry decision tables 
-cacm-1457 : data manipulation <b>and</b> programming problems in <b>automatic</b> <b>information</b> <b>retrieval</b> <b>automatic</b> <b>information</b> <b>retrieval</b> programs require the manipulation 
-cacm-3124 : <b>of</b> numbers <b>and</b> characters an extension <b>of</b> apl is proposed that 
-cacm-2437 : the analysis <b>of</b> <b>performance</b> <b>of</b> the various key-to-address transformation 
-cacm-2568 : connected subgraph <b>and</b> <b>to</b> discuss the <b>application</b> <b>of</b> this algorithm <b>to</b> the solution <b>of</b> school scheduling <b>and</b> exam scheduling problems cacm 
-cacm-2140 : <b>of</b> <b>retrieval</b> <b>and</b> update tradeoff curves are 
-cacm-2741 : <b>of</b> variable aggregation <b>and</b> the concept <b>of</b> nearly decomposable system both 
-cacm-1469 : that is intended <b>to</b> span differences <b>of</b> <b>application</b> area by a unified 
-cacm-2812 : analyzer generator <b>of</b> alternative designs <b>and</b> <b>performance</b> evaluator the statement <b>of</b> requirements was written in 
-cacm-2711 : c s <b>automatic</b> <b>information</b> <b>retrieval</b> <b>automatic</b> <b>indexing</b> content analysis document space 
-cacm-1653 : system <b>performance</b> <b>evaluation</b> survey <b>and</b> appraisal the state <b>of</b> the art <b>of</b> system <b>performance</b> <b>evaluation</b> is reviewed <b>and</b> <b>evaluation</b> goals <b>and</b> problems are examined throughput 
-cacm-2139 : <b>subset</b> signature <b>information</b> compression <b>information</b> <b>retrieval</b> searching 3.74 5.30 5.6 
-cacm-1267 : the pertinent aspects <b>of</b> <b>information</b> transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> <b>information</b> bits trib <b>of</b> residual errors <b>and</b> <b>of</b> standard measurement conditions the 
-cacm-1792 : <b>and</b> off line programming <b>performance</b> two exploratory experiments were 
-cacm-2389 : is an extension <b>of</b> algol <b>and</b> <b>includes</b> means <b>to</b> represent spaces <b>and</b> objects <b>to</b> manipulate them <b>and</b> <b>to</b> test the resulting arrangements 
-cacm-0046 : <b>of</b> new problems in machine 
-cacm-2959 : computer the user <b>of</b> sba views his <b>application</b> as manipulation <b>of</b> <b>information</b> in two-dimensional pictures <b>of</b> tables business forms <b>and</b> reports on a display 
-cacm-1856 : simulation program <b>and</b> <b>theory</b> <b>of</b> language the teachable language 
-cacm-2307 : the early promise <b>of</b> library automation <b>and</b> <b>of</b> the mechanization <b>of</b> documentation processes has not 
-cacm-1935 : the mean <b>and</b> variance <b>of</b> the number <b>of</b> trials <b>to</b> recover a given document 
+cacm-0048 : the properties <b>and</b> <b>application</b> <b>of</b> the code in some 
+cacm-2318 : <b>performance</b> <b>of</b> computer systems <b>and</b> establishes circumstances under which 
 cacm-2319 : developed <b>to</b> be able <b>to</b> analyze <b>and</b> design the <b>performance</b> aspects <b>of</b> an operating system although 
-cacm-2951 : analytical simulation <b>and</b> statistical <b>performance</b> <b>evaluation</b> tools are employed <b>to</b> investigate the feasibility <b>of</b> a dynamic response time 
-cacm-2990 : <b>information</b> <b>retrieval</b> <b>automatic</b> <b>indexing</b> content analysis term accuracy 
-cacm-1627 : <b>of</b> certain data management <b>and</b> <b>information</b> <b>retrieval</b> systems the concept <b>of</b> level changing is introduced 
-cacm-2547 : an <b>application</b> <b>of</b> this representation <b>to</b> handling terrain <b>information</b> illustrates its utility the 
-cacm-2923 : updating <b>of</b> data flow <b>information</b> <b>to</b> reflect program changes <b>and</b> derives new global <b>information</b> helpful in solving many 
-cacm-1827 : purpose <b>of</b> monitoring operating system <b>and</b> user program behavior <b>and</b> <b>performance</b> the overall structure <b>of</b> mts is outlined in 
-cacm-1048 : heat <b>and</b> ideal fluid flow <b>and</b> stress concentration <b>theory</b> reduce under the assumption 
-cacm-1415 : avenue toward conducting <b>automatic</b> <b>retrieval</b> <b>of</b> natural language messages <b>to</b> explore the prospects <b>of</b> such a step the 
-cacm-2883 : an <b>application</b> <b>of</b> heuristic search methods <b>to</b> edge <b>and</b> contour detection this paper 
-cacm-1911 : work <b>of</b> transformational <b>theory</b> <b>to</b> account for these phenomena 
-cacm-2631 : <b>information</b> <b>retrieval</b> namely the maintenance <b>and</b> use <b>of</b> large dictionaries the greater 

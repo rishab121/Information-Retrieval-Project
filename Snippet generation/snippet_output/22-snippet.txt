@@ -1,100 +1,100 @@
-cacm-2146 : dispersion <b>algorithms</b> <b>for</b> the polyphase sorting procedure 
-cacm-1563 : finding <b>a</b> hamilton path <b>in</b> <b>a</b> graph <b>a</b> graph-theoretic justification <b>for</b> the method <b>is</b> given cacm july 1967 
-cacm-2337 : <b>a</b> sorting problem <b>and</b> its complexity <b>a</b> technique <b>for</b> proving min-max norms of 
-cacm-2211 : <b>computer</b> <b>and</b> software scan conversion <b>is</b> used to convert the 
-cacm-1915 : <b>is</b> obtained <b>in</b> <b>a</b> much simpler way cacm 
-cacm-2369 : hidden lines elimination <b>for</b> <b>a</b> rotating object <b>a</b> method <b>is</b> presented of determining which 
-cacm-3141 : arranged <b>in</b> <b>a</b> circle <b>in</b> which no central controller 
-cacm-3111 : <b>in</b> <b>a</b> theoretical <b>and</b> <b>a</b> practical sense cacm april 
-cacm-2400 : interesting <b>and</b> computationally efficient procedure <b>for</b> detecting lines <b>in</b> pictures this paper points 
-cacm-1623 : stated <b>in</b> <b>a</b> general mathematical sense <b>and</b> could be of interest 
-cacm-2973 : sorting on <b>a</b> mesh-connected parallel <b>computer</b> two <b>algorithms</b> are presented <b>for</b> sorting n^2 elements on 
-cacm-1664 : method <b>is</b> described whereby <b>a</b> digital <b>computer</b> can be used to 
-cacm-2692 : <b>is</b> practical <b>for</b> perspective applications <b>in</b> three dimentions <b>a</b> six-plane truncated pyramid <b>is</b> chosen as the clipping 
-cacm-2188 : <b>a</b> cost constraint <b>is</b> found <b>for</b> several applications the optimum 
-cacm-2002 : amesplot <b>is</b> outlined <b>and</b> <b>a</b> brief description <b>is</b> given of its current 
-cacm-1978 : systems <b>for</b> solving problems <b>in</b> <b>a</b> particular area such as 
-cacm-3028 : of manchester innovations <b>in</b> these <b>and</b> other areas <b>is</b> discussed <b>and</b> the contemporary performance of 
-cacm-2771 : by many faces <b>a</b> technique <b>is</b> presented which allows <b>a</b> class of solid objects 
 cacm-1829 : carnegie-mellon university <b>for</b> the cdc g21 <b>computer</b> which <b>is</b> <b>a</b> general purpose batch-processing system 
-cacm-2905 : <b>a</b> static table with <b>a</b> single probe <b>is</b> considered given <b>a</b> set i of identifiers 
-cacm-1400 : <b>rather</b> simple techniques it <b>is</b> frequently possible to produce 
-cacm-1179 : <b>for</b> the ibm 7090/7094 <b>computer</b> <b>is</b> described <b>in</b> little more than half 
-cacm-1742 : processors the flexibility <b>and</b> power needed <b>in</b> the data channel <b>for</b> <b>a</b> <b>computer</b> display are considered to 
-cacm-2016 : to aid <b>in</b> the implementation of <b>a</b> prototype <b>computer</b> utility <b>is</b> discussed these tools include 
-cacm-2367 : formats <b>for</b> such <b>a</b> course are discussed <b>a</b> <b>topic</b> by <b>topic</b> outline <b>is</b> given <b>and</b> <b>a</b> selected set of references 
-cacm-2845 : <b>a</b> buddy system variation <b>for</b> disk storage allocation <b>a</b> generalization of the buddy 
-cacm-3082 : <b>in</b> <b>a</b> distributed system <b>is</b> examined <b>and</b> <b>is</b> shown to define <b>a</b> partial ordering of the 
-cacm-2913 : inherent <b>in</b> sampled signals <b>and</b> discusses prefiltering as <b>a</b> recognized cure <b>a</b> method <b>for</b> evaluating filters <b>is</b> presented the application of 
-cacm-2314 : requirements <b>for</b> advanced programming systems <b>for</b> list processing list processing 
-cacm-1433 : that search <b>for</b> an extreme value <b>in</b> <b>a</b> table formulas provide <b>a</b> means of calculating the 
-cacm-1159 : economics <b>a</b> survey <b>is</b> offered of techniques <b>for</b> transferring programs <b>and</b> especially compilers from one 
-cacm-3116 : <b>a</b> <b>computer</b> representation <b>for</b> solids <b>and</b> surfaces <b>and</b> <b>algorithms</b> which carry out interference 
-cacm-2406 : <b>a</b> data definition <b>and</b> mapping language <b>a</b> data definition language i 
-cacm-2433 : <b>and</b> implement <b>a</b> fortran compiler on the 
-cacm-1272 : mere correction <b>and</b> improvement of <b>computer</b> output <b>is</b> exemplified by the use 
-cacm-3038 : communication <b>in</b> <b>computer</b> networks <b>is</b> discussed example protocols are 
-cacm-2817 : predicate locks <b>in</b> <b>a</b> database system <b>in</b> database systems users access 
-cacm-2925 : <b>in</b> <b>a</b> directed toroidal graph <b>a</b> new fast algorithm <b>for</b> finding such cycles <b>is</b> utilized also developed <b>is</b> <b>a</b> closed-form expression <b>in</b> term of the number 
-cacm-2809 : given <b>in</b> particular <b>for</b> the generalization of order 
-cacm-2919 : <b>a</b> <b>computer</b> <b>is</b> here called <b>a</b> programmers workbench the four 
-cacm-1281 : answer <b>a</b> data input scheme <b>for</b> <b>a</b> time-sharing <b>computer</b> <b>is</b> described <b>in</b> this paper instead of 
-cacm-2341 : <b>a</b> block <b>is</b> largely language independenthat <b>is</b> blocks require little <b>in</b> the way of <b>specialized</b> syntax <b>and</b> could readily be absorbed 
-cacm-1908 : as an aid <b>in</b> decision-making <b>and</b> problem-solving <b>rather</b> than as <b>a</b> programming end <b>in</b> itself statistically <b>and</b> logically significant results indicate 
 cacm-0144 : inefficient when <b>computer</b> systems are substituted <b>for</b> these terminals using numeric 
-cacm-2004 : <b>a</b> procedure <b>for</b> generation of three-dimensional half-toned 
-cacm-1710 : package asp <b>is</b> <b>a</b> general purpose associative data 
-cacm-1867 : one <b>is</b> <b>interested</b> <b>in</b> the ratio lj of 
-cacm-2402 : especially <b>for</b> large structures this <b>is</b> significant <b>for</b> crystallography of biological macromolecules 
-cacm-0531 : security number <b>in</b> vital <b>and</b> health records however <b>a</b> unique number <b>is</b> generally not preassigned to 
-cacm-2368 : explained <b>in</b> this paper <b>is</b> valid <b>in</b> all three cases <b>in</b> fact the major routines 
-cacm-3071 : has been implemented <b>in</b> formac <b>and</b> <b>is</b> designed to complete the 
-cacm-2473 : g collins <b>a</b> m <b>hidden-line</b> plot surface plot 4.9 
-cacm-2674 : scan conversion <b>algorithms</b> <b>for</b> <b>a</b> cell organized raster display 
-cacm-2829 : texture <b>and</b> reflection <b>in</b> <b>computer</b> generated images <b>in</b> 1974 catmull developed <b>a</b> new algorithm <b>for</b> rendering images of bivariate 
-cacm-2606 : continued fraction approximations <b>a</b> new integration algorithm <b>is</b> found <b>and</b> an implementation <b>is</b> compared with other programmed 
-cacm-2486 : <b>computer</b> photocomposition of technical text 
-cacm-2111 : spelling correction <b>in</b> systems programs several <b>specialized</b> techniques are shown <b>for</b> efficiently incorporating spelling correction 
-cacm-1957 : <b>a</b> whole <b>and</b> <b>in</b> parallel <b>rather</b> than evaluating subexpressions <b>and</b> then using those sets 
-cacm-1398 : <b>in</b> the biological <b>and</b> social sciences <b>a</b> new approach <b>is</b> outlined toward the solution 
-cacm-1253 : the g-20 quikscript <b>is</b> <b>a</b> simulation language based on 
-cacm-3049 : needs of <b>a</b> large batch environment <b>and</b> <b>is</b> even extendable to <b>a</b> fully interactive system the 
-cacm-1397 : symbol strings <b>in</b> their applications <b>and</b> <b>in</b> <b>algorithms</b> <b>for</b> their implementation twenty-eight papers 
-cacm-0595 : <b>and</b> logic <b>for</b> that <b>computer</b> <b>for</b> which he will write 
-cacm-3153 : their memory allocation <b>is</b> examined <b>in</b> the context of <b>a</b> paged <b>computer</b> system two parameterized <b>algorithms</b> which partition the main 
-cacm-1181 : the office telephone <b>a</b> method has evolved <b>for</b> transmitting data of <b>a</b> type originating <b>in</b> many laboratory situation direct 
-cacm-2598 : when compiled into <b>a</b> <b>computer</b> program the <b>algorithms</b> considered <b>in</b> this paper perform limited 
-cacm-2485 : the <b>computer</b> resource will change <b>in</b> character over <b>a</b> period of time <b>and</b> will evolve <b>in</b> patterns roughly correlated to 
-cacm-1323 : first <b>a</b> model <b>for</b> <b>computer</b> languages <b>and</b> compute behavior <b>is</b> described based on the 
+cacm-2809 : given <b>in</b> particular <b>for</b> the generalization of order 
+cacm-1908 : as an aid <b>in</b> decision-making <b>and</b> problem-solving <b>rather</b> than as <b>a</b> programming end <b>in</b> itself statistically <b>and</b> logically significant results indicate 
+cacm-2925 : <b>in</b> <b>a</b> directed toroidal graph <b>a</b> new fast algorithm <b>for</b> finding such cycles <b>is</b> utilized also developed <b>is</b> <b>a</b> closed-form expression <b>in</b> term of the number 
 cacm-2924 : <b>algorithms</b> an <b>in</b> teractive means <b>for</b> man-machine communication <b>and</b> software <b>for</b> static or dynamic graphics 
-cacm-2708 : paper describes <b>a</b> recovery scheme <b>for</b> syntax errors which provides 
-cacm-0435 : that the author <b>is</b> <b>interested</b> <b>a</b> method employing <b>a</b> decision matrix <b>is</b> presented <b>for</b> the handling of <b>a</b> standard systems programming problemthat 
-cacm-2741 : decomposability instabilities <b>and</b> saturation <b>in</b> multiprogramming systems <b>a</b> step-by-step approach to model 
-cacm-2918 : organizations are compared <b>and</b> it <b>is</b> shown that <b>a</b> home memory organization <b>in</b> which each processor <b>is</b> associated with one or 
-cacm-3152 : storage reorganization techniques <b>for</b> matrix computation <b>in</b> <b>a</b> paging environment <b>in</b> order to multiply matrices 
-cacm-1735 : <b>a</b> futures market <b>in</b> <b>computer</b> time an auction method 
-cacm-1551 : <b>a</b> fortran iv compiler <b>for</b> <b>a</b> hitac-5020 <b>computer</b> having n accumulators the 
-cacm-3032 : <b>is</b> <b>a</b> practical algorithm <b>for</b> broadcast routing <b>in</b> store-and-forward packet switching <b>computer</b> networks the algorithm <b>is</b> described as being practical 
-cacm-2873 : lg <b>a</b> language <b>for</b> analytic geometry <b>a</b> conversational programming language <b>for</b> analytic geometry <b>is</b> described together with some 
-cacm-2906 : today <b>is</b> too labor-in tensive <b>in</b> recent years very high-level 
 cacm-2438 : <b>for</b> each activation but <b>rather</b> expensive <b>in</b> both time <b>and</b> space this paper presents 
-cacm-1237 : as <b>algorithms</b> <b>for</b> <b>a</b> compiler both limited-entry <b>and</b> extended-entry tables are analyzed 
-cacm-1697 : <b>computer</b> <b>is</b> printed <b>in</b> principle the system can 
-cacm-0046 : machine design <b>and</b> <b>in</b> programming systems minimum requirements 
+cacm-3038 : communication <b>in</b> <b>computer</b> networks <b>is</b> discussed example protocols are 
+cacm-0531 : security number <b>in</b> vital <b>and</b> health records however <b>a</b> unique number <b>is</b> generally not preassigned to 
+cacm-0435 : that the author <b>is</b> <b>interested</b> <b>a</b> method employing <b>a</b> decision matrix <b>is</b> presented <b>for</b> the handling of <b>a</b> standard systems programming problemthat 
+cacm-3032 : <b>is</b> <b>a</b> practical algorithm <b>for</b> broadcast routing <b>in</b> store-and-forward packet switching <b>computer</b> networks the algorithm <b>is</b> described as being practical 
+cacm-2631 : used only infrequently <b>a</b> novel method <b>is</b> presented which maps the 
+cacm-1181 : the office telephone <b>a</b> method has evolved <b>for</b> transmitting data of <b>a</b> type originating <b>in</b> many laboratory situation direct 
 cacm-2152 : widespread <b>in</b> interactive <b>computer</b> graphics these structures present 
-cacm-2959 : the system <b>for</b> business automation sba <b>is</b> <b>a</b> system within which application 
+cacm-2433 : <b>and</b> implement <b>a</b> fortran compiler on the 
+cacm-3049 : needs of <b>a</b> large batch environment <b>and</b> <b>is</b> even extendable to <b>a</b> fully interactive system the 
+cacm-1742 : processors the flexibility <b>and</b> power needed <b>in</b> the data channel <b>for</b> <b>a</b> <b>computer</b> display are considered to 
+cacm-1237 : as <b>algorithms</b> <b>for</b> <b>a</b> compiler both limited-entry <b>and</b> extended-entry tables are analyzed 
+cacm-2337 : <b>a</b> sorting problem <b>and</b> its complexity <b>a</b> technique <b>for</b> proving min-max norms of 
+cacm-1623 : stated <b>in</b> <b>a</b> general mathematical sense <b>and</b> could be of interest 
+cacm-2741 : decomposability instabilities <b>and</b> saturation <b>in</b> multiprogramming systems <b>a</b> step-by-step approach to model 
+cacm-2906 : today <b>is</b> too labor-in tensive <b>in</b> recent years very high-level 
+cacm-2905 : <b>a</b> static table with <b>a</b> single probe <b>is</b> considered given <b>a</b> set i of identifiers 
+cacm-2692 : <b>is</b> practical <b>for</b> perspective applications <b>in</b> three dimentions <b>a</b> six-plane truncated pyramid <b>is</b> chosen as the clipping 
+cacm-2341 : <b>a</b> block <b>is</b> largely language independenthat <b>is</b> blocks require little <b>in</b> the way of <b>specialized</b> syntax <b>and</b> could readily be absorbed 
+cacm-1433 : that search <b>for</b> an extreme value <b>in</b> <b>a</b> table formulas provide <b>a</b> means of calculating the 
+cacm-3116 : <b>a</b> <b>computer</b> representation <b>for</b> solids <b>and</b> surfaces <b>and</b> <b>algorithms</b> which carry out interference 
+cacm-2188 : <b>a</b> cost constraint <b>is</b> found <b>for</b> several applications the optimum 
+cacm-1735 : <b>a</b> futures market <b>in</b> <b>computer</b> time an auction method 
+cacm-1323 : first <b>a</b> model <b>for</b> <b>computer</b> languages <b>and</b> compute behavior <b>is</b> described based on the 
+cacm-3111 : <b>in</b> <b>a</b> theoretical <b>and</b> <b>a</b> practical sense cacm april 
+cacm-2598 : when compiled into <b>a</b> <b>computer</b> program the <b>algorithms</b> considered <b>in</b> this paper perform limited 
+cacm-0492 : <b>a</b> markov chain model <b>for</b> the reader not <b>interested</b> <b>in</b> the mathematics the introduction 
+cacm-1931 : its use <b>in</b> testing <b>for</b> <b>a</b> chebyshev system two recent 
+cacm-2751 : illumination <b>for</b> <b>computer</b> generated pictures the quality 
+cacm-2918 : organizations are compared <b>and</b> it <b>is</b> shown that <b>a</b> home memory organization <b>in</b> which each processor <b>is</b> associated with one or 
+cacm-2919 : <b>a</b> <b>computer</b> <b>is</b> here called <b>a</b> programmers workbench the four 
+cacm-0078 : these practical procedures <b>and</b> thus assist <b>in</b> the use <b>and</b> extension of the ideas 
+cacm-1957 : <b>a</b> whole <b>and</b> <b>in</b> parallel <b>rather</b> than evaluating subexpressions <b>and</b> then using those sets 
+cacm-2913 : inherent <b>in</b> sampled signals <b>and</b> discusses prefiltering as <b>a</b> recognized cure <b>a</b> method <b>for</b> evaluating filters <b>is</b> presented the application of 
+cacm-1397 : symbol strings <b>in</b> their applications <b>and</b> <b>in</b> <b>algorithms</b> <b>for</b> their implementation twenty-eight papers 
+cacm-2473 : g collins <b>a</b> m <b>hidden-line</b> plot surface plot 4.9 
+cacm-1398 : <b>in</b> the biological <b>and</b> social sciences <b>a</b> new approach <b>is</b> outlined toward the solution 
+cacm-1014 : machine controls <b>for</b> analysis of variance <b>a</b> major problem <b>in</b> using the analysis of 
+cacm-1400 : <b>rather</b> simple techniques it <b>is</b> frequently possible to produce 
+cacm-2111 : spelling correction <b>in</b> systems programs several <b>specialized</b> techniques are shown <b>for</b> efficiently incorporating spelling correction 
+cacm-1159 : economics <b>a</b> survey <b>is</b> offered of techniques <b>for</b> transferring programs <b>and</b> especially compilers from one 
+cacm-2606 : continued fraction approximations <b>a</b> new integration algorithm <b>is</b> found <b>and</b> an implementation <b>is</b> compared with other programmed 
+cacm-2829 : texture <b>and</b> reflection <b>in</b> <b>computer</b> generated images <b>in</b> 1974 catmull developed <b>a</b> new algorithm <b>for</b> rendering images of bivariate 
+cacm-2987 : polygonal lines <b>for</b> rapid processing <b>a</b> representation <b>for</b> polygons <b>and</b> polygonal lines <b>is</b> described which allows sets 
+cacm-2211 : <b>computer</b> <b>and</b> software scan conversion <b>is</b> used to convert the 
+cacm-2984 : method <b>is</b> presented <b>for</b> evaluating <b>computer</b> system performance <b>in</b> terms of <b>a</b> cost/utilization factor <b>and</b> <b>a</b> measure of imbalance these 
+cacm-1253 : the g-20 quikscript <b>is</b> <b>a</b> simulation language based on 
+cacm-1867 : one <b>is</b> <b>interested</b> <b>in</b> the ratio lj of 
+cacm-3082 : <b>in</b> <b>a</b> distributed system <b>is</b> examined <b>and</b> <b>is</b> shown to define <b>a</b> partial ordering of the 
 cacm-1385 : chinese news items <b>and</b> periodical literature <b>for</b> the 1965 period <b>computer</b> technology <b>in</b> china <b>is</b> reviewed under the following 
+cacm-2572 : <b>in</b> this framework <b>and</b> the conclusion <b>is</b> drawn that society <b>is</b> not yet <b>in</b> <b>a</b> position to justify either 
 cacm-2967 : <b>a</b> comparison of hardware <b>and</b> software associative memories <b>in</b> the context of <b>computer</b> graphics the associative processing 
 cacm-2078 : <b>and</b> compared with current <b>computer</b> graphic languages four alternative 
-cacm-0492 : <b>a</b> markov chain model <b>for</b> the reader not <b>interested</b> <b>in</b> the mathematics the introduction 
-cacm-2572 : <b>in</b> this framework <b>and</b> the conclusion <b>is</b> drawn that society <b>is</b> not yet <b>in</b> <b>a</b> position to justify either 
-cacm-2751 : illumination <b>for</b> <b>computer</b> generated pictures the quality 
-cacm-1764 : of <b>a</b> panel discussion on <b>computer</b> appreciation organized <b>and</b> chaired by elliot i 
-cacm-1014 : machine controls <b>for</b> analysis of variance <b>a</b> major problem <b>in</b> using the analysis of 
-cacm-0078 : these practical procedures <b>and</b> thus assist <b>in</b> the use <b>and</b> extension of the ideas 
-cacm-2984 : method <b>is</b> presented <b>for</b> evaluating <b>computer</b> system performance <b>in</b> terms of <b>a</b> cost/utilization factor <b>and</b> <b>a</b> measure of imbalance these 
-cacm-1931 : its use <b>in</b> testing <b>for</b> <b>a</b> chebyshev system two recent 
+cacm-2367 : formats <b>for</b> such <b>a</b> course are discussed <b>a</b> <b>topic</b> by <b>topic</b> outline <b>is</b> given <b>and</b> <b>a</b> selected set of references 
+cacm-3071 : has been implemented <b>in</b> formac <b>and</b> <b>is</b> designed to complete the 
+cacm-2369 : hidden lines elimination <b>for</b> <b>a</b> rotating object <b>a</b> method <b>is</b> presented of determining which 
+cacm-2368 : explained <b>in</b> this paper <b>is</b> valid <b>in</b> all three cases <b>in</b> fact the major routines 
+cacm-2771 : by many faces <b>a</b> technique <b>is</b> presented which allows <b>a</b> class of solid objects 
+cacm-1710 : package asp <b>is</b> <b>a</b> general purpose associative data 
+cacm-2674 : scan conversion <b>algorithms</b> <b>for</b> <b>a</b> cell organized raster display 
+cacm-0595 : <b>and</b> logic <b>for</b> that <b>computer</b> <b>for</b> which he will write 
+cacm-1978 : systems <b>for</b> solving problems <b>in</b> <b>a</b> particular area such as 
+cacm-2973 : sorting on <b>a</b> mesh-connected parallel <b>computer</b> two <b>algorithms</b> are presented <b>for</b> sorting n^2 elements on 
+cacm-1664 : method <b>is</b> described whereby <b>a</b> digital <b>computer</b> can be used to 
+cacm-1179 : <b>for</b> the ibm 7090/7094 <b>computer</b> <b>is</b> described <b>in</b> little more than half 
+cacm-1272 : mere correction <b>and</b> improvement of <b>computer</b> output <b>is</b> exemplified by the use 
 cacm-0616 : language designers <b>and</b> implementors <b>and</b> all those <b>interested</b> <b>in</b> developing <b>a</b> theoretical approach to data 
-cacm-2987 : polygonal lines <b>for</b> rapid processing <b>a</b> representation <b>for</b> polygons <b>and</b> polygonal lines <b>is</b> described which allows sets 
+cacm-2845 : <b>a</b> buddy system variation <b>for</b> disk storage allocation <b>a</b> generalization of the buddy 
+cacm-2708 : paper describes <b>a</b> recovery scheme <b>for</b> syntax errors which provides 
+cacm-1281 : answer <b>a</b> data input scheme <b>for</b> <b>a</b> time-sharing <b>computer</b> <b>is</b> described <b>in</b> this paper instead of 
+cacm-3153 : their memory allocation <b>is</b> examined <b>in</b> the context of <b>a</b> paged <b>computer</b> system two parameterized <b>algorithms</b> which partition the main 
+cacm-3152 : storage reorganization techniques <b>for</b> matrix computation <b>in</b> <b>a</b> paging environment <b>in</b> order to multiply matrices 
+cacm-1563 : finding <b>a</b> hamilton path <b>in</b> <b>a</b> graph <b>a</b> graph-theoretic justification <b>for</b> the method <b>is</b> given cacm july 1967 
+cacm-2873 : lg <b>a</b> language <b>for</b> analytic geometry <b>a</b> conversational programming language <b>for</b> analytic geometry <b>is</b> described together with some 
+cacm-2146 : dispersion <b>algorithms</b> <b>for</b> the polyphase sorting procedure 
+cacm-1551 : <b>a</b> fortran iv compiler <b>for</b> <b>a</b> hitac-5020 <b>computer</b> having n accumulators the 
 cacm-1366 : of this paper <b>is</b> to present <b>a</b> comparison of some <b>computer</b> simulation languages <b>and</b> of some of the 
-cacm-2631 : used only infrequently <b>a</b> novel method <b>is</b> presented which maps the 
+cacm-2016 : to aid <b>in</b> the implementation of <b>a</b> prototype <b>computer</b> utility <b>is</b> discussed these tools include 
+cacm-1915 : <b>is</b> obtained <b>in</b> <b>a</b> much simpler way cacm 
+cacm-2817 : predicate locks <b>in</b> <b>a</b> database system <b>in</b> database systems users access 
+cacm-1697 : <b>computer</b> <b>is</b> printed <b>in</b> principle the system can 
+cacm-2406 : <b>a</b> data definition <b>and</b> mapping language <b>a</b> data definition language i 
+cacm-2959 : the system <b>for</b> business automation sba <b>is</b> <b>a</b> system within which application 
+cacm-2402 : especially <b>for</b> large structures this <b>is</b> significant <b>for</b> crystallography of biological macromolecules 
+cacm-2400 : interesting <b>and</b> computationally efficient procedure <b>for</b> detecting lines <b>in</b> pictures this paper points 
+cacm-3141 : arranged <b>in</b> <b>a</b> circle <b>in</b> which no central controller 
+cacm-1764 : of <b>a</b> panel discussion on <b>computer</b> appreciation organized <b>and</b> chaired by elliot i 
+cacm-2486 : <b>computer</b> photocomposition of technical text 
+cacm-2485 : the <b>computer</b> resource will change <b>in</b> character over <b>a</b> period of time <b>and</b> will evolve <b>in</b> patterns roughly correlated to 
+cacm-2314 : requirements <b>for</b> advanced programming systems <b>for</b> list processing list processing 
+cacm-2002 : amesplot <b>is</b> outlined <b>and</b> <b>a</b> brief description <b>is</b> given of its current 
+cacm-0046 : machine design <b>and</b> <b>in</b> programming systems minimum requirements 
+cacm-2004 : <b>a</b> procedure <b>for</b> generation of three-dimensional half-toned 
+cacm-3028 : of manchester innovations <b>in</b> these <b>and</b> other areas <b>is</b> discussed <b>and</b> the contemporary performance of 

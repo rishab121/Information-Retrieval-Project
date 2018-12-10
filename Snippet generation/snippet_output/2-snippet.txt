@@ -1,100 +1,100 @@
-cacm-2304 : early years <b>in</b> a personal way the 
-cacm-1012 : productions of p <b>in</b> the form za ay1 
-cacm-2849 : viewed as <b>either</b> local computer networks <b>or</b> loosely coupled multiprocessors an 
-cacm-2354 : the cosine transformation <b>in</b> a companion paper to 
-cacm-1676 : <b>written</b> <b>in</b> a high level language 
-cacm-1623 : be <b>interested</b> <b>in</b> the problem because it 
-cacm-1145 : <b>written</b> <b>in</b> the comit language and 
-cacm-1010 : <b>either</b> simple <b>or</b> complex implementation is described 
-cacm-1200 : on reversible subroutines and 
-cacm-1397 : strings <b>in</b> their applications and <b>in</b> algorithms for their implementation 
-cacm-2002 : program <b>written</b> <b>in</b> most conventional higher languages 
-cacm-1674 : generators <b>either</b> using congruential generators <b>by</b> themselves <b>or</b> mixing several generators to 
-cacm-1634 : numbers accurately <b>by</b> 27-bit floating-point numbers however 
-cacm-2771 : <b>by</b> many faces a technique 
-cacm-2905 : item <b>in</b> a static table with 
-cacm-2434 : <b>in</b> his model are noted 
-cacm-0670 : are authorized <b>by</b> law to invest <b>in</b> the new facilities <b>either</b> directly <b>or</b> through cooperatives more challenging 
-cacm-1527 : explicitly <b>or</b> implicitly represented through questions 
-cacm-2177 : 2m+n <b>in</b> case i <b>or</b> n^2/win case ii a 
-cacm-1519 : <b>or</b> gecos <b>or</b> a multiaccess system resembling 
-cacm-1154 : <b>either</b> the finite automata <b>or</b> the unrestricted turing machines 
-cacm-3129 : files <b>either</b> <b>by</b> jobs <b>in</b> batch processing mode <b>or</b> <b>by</b> on-line transactions each transaction 
-cacm-1564 : <b>written</b> <b>in</b> a modular form <b>in</b> required cobol-61 cacm july 
-cacm-2786 : learned <b>in</b> an hour <b>or</b> so for it has 
-cacm-1272 : possible for <b>either</b> humans <b>or</b> computers to produce alone 
-cacm-0397 : files <b>in</b> information processing this paper 
-cacm-0619 : retrieval of misspelled names 
-cacm-2899 : <b>in</b> terest <b>in</b> pursuing topics <b>in</b> computer science beyond the 
-cacm-1741 : <b>or</b> up to 4000 characters 
-cacm-2215 : directly <b>or</b> <b>by</b> analogy into spr procedures 
-cacm-1464 : ibsys links <b>written</b> <b>in</b> map <b>or</b> fortran as well as 
-cacm-2863 : vmin-an optimal variable-space page 
-cacm-2047 : <b>by</b> incorporating a sequence of 
-cacm-2925 : contours <b>in</b> many scientific and technical 
-cacm-1486 : for transforming programs <b>written</b> <b>in</b> the language and for 
-cacm-2125 : obtained <b>by</b> a modified ledley algorithm 
-cacm-0282 : being <b>written</b> will be used <b>in</b> the future <b>in</b> the case where the 
-cacm-1652 : <b>in</b> the set <b>or</b> <b>by</b> suitable interpretation of otherwise 
-cacm-2039 : permanent function of a 
-cacm-1117 : sort is <b>written</b> to operate on five 
-cacm-1651 : linear programming <b>in</b> this descriptive article an 
-cacm-1197 : <b>by</b> the q-d algorithm a 
-cacm-1930 : entirely universal <b>or</b> are not used <b>in</b> a standardized way the 
-cacm-1155 : deducom <b>either</b> some specific information <b>or</b> a method of answering 
-cacm-2680 : packs to <b>either</b> resident <b>or</b> nonresident status is presented 
-cacm-1334 : <b>written</b> to generate tables of 
-cacm-1523 : code <b>or</b> to simulate segmentation <b>or</b> paging implementation time was 
-cacm-1867 : sequences generated <b>in</b> sorting <b>by</b> replacement selecting <b>in</b> the replacement-selecting technique of 
-cacm-2250 : computer methods for sampling 
-cacm-1671 : facility described <b>in</b> detail was implemented <b>by</b> translating linguistic rules to 
-cacm-2519 : the difficulty involved <b>in</b> communicating mathematical results between 
-cacm-0854 : <b>in</b> contrast sorting <b>in</b> a random access-oriented system 
-cacm-2368 : <b>either</b> connect cut <b>or</b> the player moving first 
-cacm-1975 : <b>or</b> at most two adjustments 
-cacm-2194 : of coding produced <b>by</b> an assembler <b>or</b> compiler when 1 the 
-cacm-1264 : <b>in</b> <b>either</b> english <b>or</b> braille even though this 
-cacm-1046 : brooker and morris <b>in</b> a number of <b>articles</b> published during the past 
-cacm-2195 : curves <b>in</b> noisy pictures a technique 
-cacm-2939 : <b>or</b> subroutine clu provides <b>in</b> addition to procedures novel 
-cacm-2127 : recent experiments <b>in</b> programming natural language question-answering 
-cacm-3110 : a label <b>or</b> an assembly-time expression of 
-cacm-1861 : <b>in</b> which definitions are <b>written</b> some conclusions are drawn 
 cacm-1821 : permanent function of a 
-cacm-1258 : machines <b>in</b> such cases an extended 
-cacm-1259 : for <b>either</b> a set of letters 
-cacm-3078 : are presented <b>in</b> this paper these results 
-cacm-1309 : presentation of results <b>in</b> <b>either</b> tabular <b>or</b> graphical form matrix algebra 
-cacm-1593 : is <b>either</b> radix less one <b>or</b> is unity with the 
-cacm-1846 : processes <b>in</b> which simultaneous events may 
-cacm-1553 : the part of <b>either</b> humans <b>or</b> machines is impossible cacm 
-cacm-2852 : graduate professional programs <b>in</b> computer science <b>or</b> <b>in</b> information systems mcfarlan and 
-cacm-2980 : a major problem <b>in</b> picture processing is the 
-cacm-1062 : symbol manipulation <b>in</b> fortran-sasp i subroutines a 
-cacm-0616 : and all those <b>interested</b> <b>in</b> developing a theoretical approach 
-cacm-2451 : which records <b>in</b> a data collection satisfy 
-cacm-1469 : <b>written</b> appearances of programs <b>or</b> more generally their physical 
-cacm-3117 : computer technology <b>by</b> the police over the 
-cacm-3201 : <b>written</b> partially <b>in</b> the ibm 7094 machine 
-cacm-2906 : results <b>in</b> three different sublanguages <b>or</b> components one for defining 
-cacm-1379 : <b>either</b> ambiguous <b>or</b> unnecessarily restrictive let sand 
-cacm-3202 : upon is <b>written</b> <b>in</b> fortran-like notation and stored 
-cacm-2342 : examined <b>by</b> dijkstra knuth and others 
-cacm-1977 : minimize the error <b>in</b> <b>either</b> the l1 <b>or</b> l-infinity norm auxiliary conditions 
-cacm-1877 : problem <b>in</b> sufficient generality <b>or</b> they suggest policies which 
-cacm-1856 : that text <b>by</b> correctly relating each explicit 
-cacm-3171 : overhead <b>in</b> <b>either</b> time <b>or</b> space during execution of 
-cacm-2572 : utility <b>in</b> a prototype community <b>or</b> the acceptance of a 
-cacm-1764 : panelists were joined <b>in</b> discussion <b>by</b> andries van dam and 
-cacm-1014 : be <b>interested</b> <b>in</b> these interactions it is 
-cacm-3144 : which programs execute <b>by</b> virtue of being interpreted 
-cacm-3180 : costs of the current 
-cacm-1705 : requested <b>by</b> this journals algorithms policy 
-cacm-0242 : not have <b>either</b> multiplication <b>or</b> division <b>in</b> addition some attempt has 
+cacm-2925 : contours <b>in</b> many scientific and technical 
+cacm-2434 : <b>in</b> his model are noted 
 cacm-2439 : the system executive <b>or</b> <b>in</b> any of the systems 
-cacm-1931 : to bound errors <b>in</b> matrix computations <b>in</b> the present paper a 
-cacm-0435 : occurs <b>by</b> an evolutionary process we 
-cacm-2812 : system <b>by</b> the navy material command 
 cacm-0531 : <b>or</b> social security number <b>in</b> vital and health records 
-cacm-1391 : system is <b>written</b> <b>in</b> mad and fap on 
 cacm-2534 : source test <b>or</b> comment <b>in</b> spite of the diagnostic 
+cacm-0435 : occurs <b>by</b> an evolutionary process we 
+cacm-2127 : recent experiments <b>in</b> programming natural language question-answering 
+cacm-2039 : permanent function of a 
+cacm-1856 : that text <b>by</b> correctly relating each explicit 
+cacm-1200 : on reversible subroutines and 
+cacm-1527 : explicitly <b>or</b> implicitly represented through questions 
+cacm-2939 : <b>or</b> subroutine clu provides <b>in</b> addition to procedures novel 
+cacm-3202 : upon is <b>written</b> <b>in</b> fortran-like notation and stored 
+cacm-3201 : <b>written</b> partially <b>in</b> the ibm 7094 machine 
+cacm-1741 : <b>or</b> up to 4000 characters 
+cacm-1334 : <b>written</b> to generate tables of 
+cacm-1623 : be <b>interested</b> <b>in</b> the problem because it 
+cacm-3129 : files <b>either</b> <b>by</b> jobs <b>in</b> batch processing mode <b>or</b> <b>by</b> on-line transactions each transaction 
+cacm-3180 : costs of the current 
+cacm-2906 : results <b>in</b> three different sublanguages <b>or</b> components one for defining 
+cacm-2905 : item <b>in</b> a static table with 
+cacm-2519 : the difficulty involved <b>in</b> communicating mathematical results between 
+cacm-2451 : which records <b>in</b> a data collection satisfy 
+cacm-0397 : files <b>in</b> information processing this paper 
+cacm-1634 : numbers accurately <b>by</b> 27-bit floating-point numbers however 
+cacm-2342 : examined <b>by</b> dijkstra knuth and others 
+cacm-3117 : computer technology <b>by</b> the police over the 
+cacm-1523 : code <b>or</b> to simulate segmentation <b>or</b> paging implementation time was 
+cacm-3110 : a label <b>or</b> an assembly-time expression of 
+cacm-1931 : to bound errors <b>in</b> matrix computations <b>in</b> the present paper a 
+cacm-1930 : entirely universal <b>or</b> are not used <b>in</b> a standardized way the 
+cacm-1464 : ibsys links <b>written</b> <b>in</b> map <b>or</b> fortran as well as 
+cacm-1391 : system is <b>written</b> <b>in</b> mad and fap on 
+cacm-1397 : strings <b>in</b> their applications and <b>in</b> algorithms for their implementation 
+cacm-1010 : <b>either</b> simple <b>or</b> complex implementation is described 
+cacm-1012 : productions of p <b>in</b> the form za ay1 
+cacm-1014 : be <b>interested</b> <b>in</b> these interactions it is 
+cacm-1155 : deducom <b>either</b> some specific information <b>or</b> a method of answering 
+cacm-1154 : <b>either</b> the finite automata <b>or</b> the unrestricted turing machines 
+cacm-2354 : the cosine transformation <b>in</b> a companion paper to 
+cacm-0242 : not have <b>either</b> multiplication <b>or</b> division <b>in</b> addition some attempt has 
+cacm-2047 : <b>by</b> incorporating a sequence of 
+cacm-2215 : directly <b>or</b> <b>by</b> analogy into spr procedures 
+cacm-1259 : for <b>either</b> a set of letters 
+cacm-2680 : packs to <b>either</b> resident <b>or</b> nonresident status is presented 
+cacm-1553 : the part of <b>either</b> humans <b>or</b> machines is impossible cacm 
+cacm-2194 : of coding produced <b>by</b> an assembler <b>or</b> compiler when 1 the 
+cacm-2195 : curves <b>in</b> noisy pictures a technique 
+cacm-1486 : for transforming programs <b>written</b> <b>in</b> the language and for 
+cacm-0670 : are authorized <b>by</b> law to invest <b>in</b> the new facilities <b>either</b> directly <b>or</b> through cooperatives more challenging 
+cacm-1867 : sequences generated <b>in</b> sorting <b>by</b> replacement selecting <b>in</b> the replacement-selecting technique of 
+cacm-1861 : <b>in</b> which definitions are <b>written</b> some conclusions are drawn 
+cacm-1652 : <b>in</b> the set <b>or</b> <b>by</b> suitable interpretation of otherwise 
+cacm-2572 : utility <b>in</b> a prototype community <b>or</b> the acceptance of a 
+cacm-1062 : symbol manipulation <b>in</b> fortran-sasp i subroutines a 
+cacm-1309 : presentation of results <b>in</b> <b>either</b> tabular <b>or</b> graphical form matrix algebra 
+cacm-1145 : <b>written</b> <b>in</b> the comit language and 
+cacm-2368 : <b>either</b> connect cut <b>or</b> the player moving first 
+cacm-3078 : are presented <b>in</b> this paper these results 
+cacm-1651 : linear programming <b>in</b> this descriptive article an 
+cacm-2771 : <b>by</b> many faces a technique 
+cacm-1264 : <b>in</b> <b>either</b> english <b>or</b> braille even though this 
+cacm-2852 : graduate professional programs <b>in</b> computer science <b>or</b> <b>in</b> information systems mcfarlan and 
+cacm-1877 : problem <b>in</b> sufficient generality <b>or</b> they suggest policies which 
+cacm-1977 : minimize the error <b>in</b> <b>either</b> the l1 <b>or</b> l-infinity norm auxiliary conditions 
+cacm-1975 : <b>or</b> at most two adjustments 
+cacm-0854 : <b>in</b> contrast sorting <b>in</b> a random access-oriented system 
+cacm-2786 : learned <b>in</b> an hour <b>or</b> so for it has 
+cacm-1705 : requested <b>by</b> this journals algorithms policy 
+cacm-1379 : <b>either</b> ambiguous <b>or</b> unnecessarily restrictive let sand 
+cacm-1272 : possible for <b>either</b> humans <b>or</b> computers to produce alone 
+cacm-0616 : and all those <b>interested</b> <b>in</b> developing a theoretical approach 
+cacm-2177 : 2m+n <b>in</b> case i <b>or</b> n^2/win case ii a 
+cacm-2849 : viewed as <b>either</b> local computer networks <b>or</b> loosely coupled multiprocessors an 
+cacm-1469 : <b>written</b> appearances of programs <b>or</b> more generally their physical 
+cacm-0619 : retrieval of misspelled names 
+cacm-0282 : being <b>written</b> will be used <b>in</b> the future <b>in</b> the case where the 
+cacm-1046 : brooker and morris <b>in</b> a number of <b>articles</b> published during the past 
+cacm-2125 : obtained <b>by</b> a modified ledley algorithm 
+cacm-1674 : generators <b>either</b> using congruential generators <b>by</b> themselves <b>or</b> mixing several generators to 
+cacm-1676 : <b>written</b> <b>in</b> a high level language 
+cacm-1671 : facility described <b>in</b> detail was implemented <b>by</b> translating linguistic rules to 
+cacm-1564 : <b>written</b> <b>in</b> a modular form <b>in</b> required cobol-61 cacm july 
+cacm-1258 : machines <b>in</b> such cases an extended 
+cacm-2980 : a major problem <b>in</b> picture processing is the 
+cacm-2304 : early years <b>in</b> a personal way the 
+cacm-3171 : overhead <b>in</b> <b>either</b> time <b>or</b> space during execution of 
+cacm-2812 : system <b>by</b> the navy material command 
+cacm-2899 : <b>in</b> terest <b>in</b> pursuing topics <b>in</b> computer science beyond the 
+cacm-1117 : sort is <b>written</b> to operate on five 
+cacm-3144 : which programs execute <b>by</b> virtue of being interpreted 
+cacm-1593 : is <b>either</b> radix less one <b>or</b> is unity with the 
+cacm-2250 : computer methods for sampling 
+cacm-1764 : panelists were joined <b>in</b> discussion <b>by</b> andries van dam and 
+cacm-1519 : <b>or</b> gecos <b>or</b> a multiaccess system resembling 
+cacm-1197 : <b>by</b> the q-d algorithm a 
+cacm-2863 : vmin-an optimal variable-space page 
+cacm-2002 : program <b>written</b> <b>in</b> most conventional higher languages 
+cacm-1846 : processes <b>in</b> which simultaneous events may 

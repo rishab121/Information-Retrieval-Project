@@ -1,100 +1,100 @@
+cacm-0144 : shorthand present communications <b>systems</b> transmit single characters <b>in</b> groups of coded pulses 
+cacm-2437 : weighted <b>in</b> accordance with the algorithm 
+cacm-2920 : <b>operating</b> system multiprogramming time-sharing <b>resource</b> allocation deadlock <b>in</b> terlock deadly embrace deadlock 
+cacm-2928 : of a process <b>in</b> multics to be approximated 
+cacm-1752 : n time-sharing <b>operating</b> <b>systems</b> <b>resource</b> management task scheduling paging 
+cacm-1751 : <b>resource</b> allocation <b>in</b> modern computer <b>systems</b> is an adequate model 
+cacm-1754 : dynamic storage allocation <b>systems</b> <b>in</b> many recent computer system 
+cacm-0828 : incompressible flow <b>network</b> calculations a general method 
+cacm-3133 : path-following strategy <b>for</b> guiding the search <b>for</b> a proof cacm march 
+cacm-1611 : <b>in</b> the c-e-i-r proprietary scheduling 
+cacm-2320 : only within <b>operating</b> <b>systems</b> but also within user 
+cacm-2033 : may be tolerable <b>in</b> some applications <b>in</b> particular applications <b>in</b> which a large amount 
+cacm-2830 : a practitioners guide to 
+cacm-3110 : is presented <b>for</b> the case <b>in</b> which the operand of 
+cacm-0796 : double modification <b>in</b> general and relative <b>addressing</b> of subroutines <b>in</b> particular thus the overall 
+cacm-2501 : powerful method <b>for</b> <b>addressing</b> text by content is 
+cacm-2500 : <b>resources</b> and avoiding deadlocks <b>resource</b> scheduling and allocation can 
+cacm-3040 : <b>network</b> representation is presented <b>for</b> a combinatorial search problem 
+cacm-2020 : by which the <b>resources</b> of these <b>systems</b> are allocated among the 
+cacm-2625 : capability-based <b>addressing</b> various <b>addressing</b> <b>schemes</b> making use of segment 
+cacm-3126 : <b>for</b> static sets cacm february 
+cacm-3127 : time <b>operating</b> <b>systems</b> minicomputer 3.80 4.30 4.35 
 cacm-2297 : of contention <b>for</b> main memory <b>resources</b> <b>in</b> a multiprogrammed computer system 
-cacm-2046 : <b>for</b> large shared data banks 
-cacm-1938 : some criteria <b>for</b> time-sharing system performance time-sharing 
-cacm-2949 : <b>for</b> a distributed computer <b>network</b> <b>in</b> order <b>for</b> the nodes of a 
+cacm-2900 : set of <b>network</b> sites at which to 
+cacm-2905 : to be complete <b>in</b> the sense that <b>for</b> every set i the 
+cacm-2515 : <b>network</b> is an event-node <b>network</b> <b>in</b> which both the number 
 cacm-3059 : greatest <b>for</b> <b>systems</b> which are <b>in</b> approximate cpui/o utilization balance 
-cacm-2274 : the information <b>in</b> the semantic <b>network</b> to select appropriate generation 
-cacm-2849 : <b>for</b> carrying digital data packets 
-cacm-0040 : representation <b>for</b> a high-performance general-purpose computer 
-cacm-1879 : namely the loss <b>in</b> storage utilization caused by 
-cacm-3068 : <b>for</b> <b>operating</b> <b>systems</b> this model is suitable 
+cacm-2109 : <b>for</b> some classes of prime 
+cacm-3053 : <b>for</b> open <b>addressing</b> benefit from recursive entry 
+cacm-2614 : arrow to precedence <b>network</b> transformation h algorithm a481 
+cacm-1938 : some criteria <b>for</b> time-sharing system performance time-sharing 
+cacm-1735 : a futures market <b>in</b> computer time an auction 
+cacm-2597 : r monitors <b>operating</b> <b>systems</b> scheduling mutual exclusion synchronization 
 cacm-0492 : new file <b>addressing</b> method based on the 
+cacm-2181 : the committees recommendations <b>for</b> improving computer education <b>for</b> management this report has 
+cacm-1811 : <b>for</b> useful problems parallel-processor <b>systems</b> are multiprocessor <b>systems</b> <b>in</b> which several of the 
+cacm-0071 : proposal <b>for</b> a feasible programming system 
+cacm-2681 : is exercised <b>in</b> order to determine the 
+cacm-2111 : <b>in</b> to compilers and <b>operating</b> <b>systems</b> these include the use 
+cacm-2358 : use of on-line <b>operating</b> <b>systems</b> has grown the need 
+cacm-3068 : <b>for</b> <b>operating</b> <b>systems</b> this model is suitable 
+cacm-2046 : <b>for</b> large shared data banks 
+cacm-1723 : is given <b>for</b> constructing project networks directly 
+cacm-1928 : <b>in</b> model generation economy <b>in</b> execution time and space 
+cacm-2194 : <b>for</b> minimizing the sum of 
+cacm-1728 : program <b>operating</b> behavior <b>in</b> those multiprogramming <b>systems</b> <b>in</b> which programs are organized 
+cacm-2197 : means <b>for</b> stimulating the spread of 
+cacm-3032 : a <b>network</b> algorithms <b>for</b> accomplishing this delivery through 
+cacm-1785 : hash <b>addressing</b> searching file searching file 
+cacm-3083 : pseudochaining <b>in</b> hash tables this paper 
+cacm-3082 : of events <b>in</b> a distributed system the 
+cacm-1869 : <b>addressing</b> is used as <b>in</b> snobol naming constraints may 
+cacm-2969 : data files <b>in</b> a computer <b>network</b> is presented this algorithm 
+cacm-2578 : self-stabilizing <b>systems</b> <b>in</b> spite of distributed control 
+cacm-3076 : if full scale <b>systems</b> <b>for</b> electronic funds transfer eft 
+cacm-3072 : feedback-driven scheduling <b>systems</b> <b>for</b> multiprogrammed multiprocessor computer <b>systems</b> are presented the basic 
+cacm-3177 : <b>schemes</b> <b>for</b> cryptographic <b>systems</b> that can function securely 
+cacm-2203 : wide range <b>in</b> addition appropriate variables pertinent 
+cacm-2991 : <b>in</b> the key set shadow 
+cacm-2776 : universities computation center <b>network</b> <b>in</b> north carolina in-depth studies 
+cacm-1261 : element comprising the <b>network</b> mode the simplicity of 
+cacm-2858 : a process <b>for</b> the determination of addresses 
+cacm-1877 : well-known problem <b>in</b> the design of <b>operating</b> <b>systems</b> is the selection of 
+cacm-3092 : of the total <b>resources</b> of <b>systems</b> and programming groups 2 
+cacm-2632 : of an <b>operating</b> system <b>for</b> cmmp the carnegie-mellon multi-mini-processor 
+cacm-1879 : namely the loss <b>in</b> storage utilization caused by 
+cacm-2543 : calculation content <b>addressing</b> file searching hash <b>addressing</b> hash code linear probing 
+cacm-2541 : and the <b>systems</b> <b>addressing</b> structure and centralized the 
+cacm-0912 : <b>addressing</b> an array yi <b>in</b> k-dimensions by fortran <b>for</b> analysis of variance cacm 
+cacm-2377 : a hardware architecture <b>for</b> implementing protection rings protection 
+cacm-2371 : a system <b>for</b> interprocess communication <b>in</b> a <b>resource</b> sharing computer <b>network</b> a system of communication 
+cacm-2274 : the information <b>in</b> the semantic <b>network</b> to select appropriate generation 
+cacm-2060 : <b>in</b> some context of the 
+cacm-2379 : <b>operating</b> system the venus <b>operating</b> system is an experimental 
+cacm-0615 : <b>addressing</b> multidimensional arrays a useful 
+cacm-2849 : <b>for</b> carrying digital data packets 
+cacm-2840 : protection <b>in</b> <b>operating</b> <b>systems</b> a model of protection 
+cacm-2798 : <b>systems</b> modular memory <b>systems</b> memory performance analysis blockage 
+cacm-1680 : written <b>in</b> fortran iv g <b>for</b> the ibm system/360 model 
+cacm-1685 : activity <b>network</b> management project standard <b>network</b> <b>network</b> generator <b>network</b> assembler activity <b>network</b> analysis <b>network</b> calculation <b>network</b> program 3.50 3.53 4.11 
+cacm-2949 : <b>for</b> a distributed computer <b>network</b> <b>in</b> order <b>for</b> the nodes of a 
+cacm-1677 : storage organization <b>in</b> programming <b>systems</b> the system of program 
+cacm-2095 : routine <b>operating</b> con ditions on a 
+cacm-3158 : secure personal computing <b>in</b> an insecure <b>network</b> a method <b>for</b> implementing secure personal computing 
+cacm-2712 : horners rule <b>for</b> the evaluation of general 
+cacm-2860 : <b>for</b> the design of record 
+cacm-2499 : <b>for</b> those <b>resources</b> raising the problems of 
+cacm-0332 : <b>addressing</b> on secondary keys methods 
+cacm-1695 : plexus-an on-line system <b>for</b> modeling neural networks a 
+cacm-2951 : the response time <b>for</b> <b>network</b> time-sharing <b>systems</b> as it depends on 
+cacm-2892 : <b>in</b> the arpanet the form 
+cacm-1591 : a model <b>for</b> a multifunctional teaching system 
 cacm-2080 : <b>operating</b> <b>systems</b> to suit diverse requirements 
 cacm-2522 : scheduler time-sharing <b>systems</b> <b>resource</b> allocation software evaluation <b>operating</b> <b>systems</b> supervisory <b>systems</b> 4.31 4.32 ca730406 jb 
-cacm-2830 : a practitioners guide to 
-cacm-1785 : hash <b>addressing</b> searching file searching file 
-cacm-2905 : to be complete <b>in</b> the sense that <b>for</b> every set i the 
-cacm-2840 : protection <b>in</b> <b>operating</b> <b>systems</b> a model of protection 
-cacm-1261 : element comprising the <b>network</b> mode the simplicity of 
-cacm-2798 : <b>systems</b> modular memory <b>systems</b> memory performance analysis blockage 
-cacm-2181 : the committees recommendations <b>for</b> improving computer education <b>for</b> management this report has 
-cacm-2625 : capability-based <b>addressing</b> various <b>addressing</b> <b>schemes</b> making use of segment 
-cacm-2060 : <b>in</b> some context of the 
-cacm-0332 : <b>addressing</b> on secondary keys methods 
-cacm-2712 : horners rule <b>for</b> the evaluation of general 
-cacm-2020 : by which the <b>resources</b> of these <b>systems</b> are allocated among the 
-cacm-0441 : required <b>for</b> many problems involving analysis 
 cacm-2988 : memory requirements <b>in</b> queueing <b>network</b> models of computer <b>systems</b> empirical analyses and analytic 
-cacm-2776 : universities computation center <b>network</b> <b>in</b> north carolina in-depth studies 
-cacm-1677 : storage organization <b>in</b> programming <b>systems</b> the system of program 
-cacm-1591 : a model <b>for</b> a multifunctional teaching system 
-cacm-1751 : <b>resource</b> allocation <b>in</b> modern computer <b>systems</b> is an adequate model 
-cacm-2499 : <b>for</b> those <b>resources</b> raising the problems of 
-cacm-2203 : wide range <b>in</b> addition appropriate variables pertinent 
-cacm-1869 : <b>addressing</b> is used as <b>in</b> snobol naming constraints may 
-cacm-3158 : secure personal computing <b>in</b> an insecure <b>network</b> a method <b>for</b> implementing secure personal computing 
-cacm-0615 : <b>addressing</b> multidimensional arrays a useful 
-cacm-3082 : of events <b>in</b> a distributed system the 
-cacm-0828 : incompressible flow <b>network</b> calculations a general method 
-cacm-0912 : <b>addressing</b> an array yi <b>in</b> k-dimensions by fortran <b>for</b> analysis of variance cacm 
-cacm-2991 : <b>in</b> the key set shadow 
-cacm-2920 : <b>operating</b> system multiprogramming time-sharing <b>resource</b> allocation deadlock <b>in</b> terlock deadly embrace deadlock 
-cacm-3110 : is presented <b>for</b> the case <b>in</b> which the operand of 
-cacm-1928 : <b>in</b> model generation economy <b>in</b> execution time and space 
-cacm-0144 : shorthand present communications <b>systems</b> transmit single characters <b>in</b> groups of coded pulses 
-cacm-2095 : routine <b>operating</b> con ditions on a 
-cacm-2860 : <b>for</b> the design of record 
-cacm-2515 : <b>network</b> is an event-node <b>network</b> <b>in</b> which both the number 
-cacm-2858 : a process <b>for</b> the determination of addresses 
-cacm-3083 : pseudochaining <b>in</b> hash tables this paper 
-cacm-1611 : <b>in</b> the c-e-i-r proprietary scheduling 
-cacm-3076 : if full scale <b>systems</b> <b>for</b> electronic funds transfer eft 
-cacm-1680 : written <b>in</b> fortran iv g <b>for</b> the ibm system/360 model 
-cacm-1723 : is given <b>for</b> constructing project networks directly 
-cacm-2681 : is exercised <b>in</b> order to determine the 
+cacm-0441 : required <b>for</b> many problems involving analysis 
 cacm-2258 : key-to-address transformation direct <b>addressing</b> direct access method randomizing 
-cacm-2194 : <b>for</b> minimizing the sum of 
-cacm-2377 : a hardware architecture <b>for</b> implementing protection rings protection 
-cacm-1695 : plexus-an on-line system <b>for</b> modeling neural networks a 
-cacm-2111 : <b>in</b> to compilers and <b>operating</b> <b>systems</b> these include the use 
-cacm-3040 : <b>network</b> representation is presented <b>for</b> a combinatorial search problem 
-cacm-0796 : double modification <b>in</b> general and relative <b>addressing</b> of subroutines <b>in</b> particular thus the overall 
-cacm-2892 : <b>in</b> the arpanet the form 
-cacm-2900 : set of <b>network</b> sites at which to 
-cacm-3177 : <b>schemes</b> <b>for</b> cryptographic <b>systems</b> that can function securely 
-cacm-2969 : data files <b>in</b> a computer <b>network</b> is presented this algorithm 
-cacm-2928 : of a process <b>in</b> multics to be approximated 
-cacm-1728 : program <b>operating</b> behavior <b>in</b> those multiprogramming <b>systems</b> <b>in</b> which programs are organized 
-cacm-3092 : of the total <b>resources</b> of <b>systems</b> and programming groups 2 
-cacm-3127 : time <b>operating</b> <b>systems</b> minicomputer 3.80 4.30 4.35 
-cacm-2597 : r monitors <b>operating</b> <b>systems</b> scheduling mutual exclusion synchronization 
-cacm-0071 : proposal <b>for</b> a feasible programming system 
-cacm-2541 : and the <b>systems</b> <b>addressing</b> structure and centralized the 
-cacm-1685 : activity <b>network</b> management project standard <b>network</b> <b>network</b> generator <b>network</b> assembler activity <b>network</b> analysis <b>network</b> calculation <b>network</b> program 3.50 3.53 4.11 
-cacm-2437 : weighted <b>in</b> accordance with the algorithm 
-cacm-1811 : <b>for</b> useful problems parallel-processor <b>systems</b> are multiprocessor <b>systems</b> <b>in</b> which several of the 
-cacm-2632 : of an <b>operating</b> system <b>for</b> cmmp the carnegie-mellon multi-mini-processor 
-cacm-1735 : a futures market <b>in</b> computer time an auction 
-cacm-3133 : path-following strategy <b>for</b> guiding the search <b>for</b> a proof cacm march 
-cacm-3032 : a <b>network</b> algorithms <b>for</b> accomplishing this delivery through 
-cacm-1752 : n time-sharing <b>operating</b> <b>systems</b> <b>resource</b> management task scheduling paging 
-cacm-2614 : arrow to precedence <b>network</b> transformation h algorithm a481 
-cacm-2109 : <b>for</b> some classes of prime 
-cacm-2197 : means <b>for</b> stimulating the spread of 
-cacm-3072 : feedback-driven scheduling <b>systems</b> <b>for</b> multiprogrammed multiprocessor computer <b>systems</b> are presented the basic 
 cacm-2482 : <b>resource</b> allocation <b>operating</b> <b>systems</b> multiprogramming hierarchical <b>systems</b> 4.30 4.32 ca730704 jb 
-cacm-1877 : well-known problem <b>in</b> the design of <b>operating</b> <b>systems</b> is the selection of 
-cacm-2358 : use of on-line <b>operating</b> <b>systems</b> has grown the need 
-cacm-2578 : self-stabilizing <b>systems</b> <b>in</b> spite of distributed control 
-cacm-3053 : <b>for</b> open <b>addressing</b> benefit from recursive entry 
-cacm-1754 : dynamic storage allocation <b>systems</b> <b>in</b> many recent computer system 
-cacm-2371 : a system <b>for</b> interprocess communication <b>in</b> a <b>resource</b> sharing computer <b>network</b> a system of communication 
-cacm-2951 : the response time <b>for</b> <b>network</b> time-sharing <b>systems</b> as it depends on 
-cacm-2379 : <b>operating</b> system the venus <b>operating</b> system is an experimental 
-cacm-2500 : <b>resources</b> and avoiding deadlocks <b>resource</b> scheduling and allocation can 
-cacm-2033 : may be tolerable <b>in</b> some applications <b>in</b> particular applications <b>in</b> which a large amount 
-cacm-2543 : calculation content <b>addressing</b> file searching hash <b>addressing</b> hash code linear probing 
+cacm-0040 : representation <b>for</b> a high-performance general-purpose computer 
 cacm-1846 : simulating discrete event <b>systems</b> particularly computer <b>systems</b> on a conventional digital 
-cacm-2501 : powerful method <b>for</b> <b>addressing</b> text by content is 
-cacm-2320 : only within <b>operating</b> <b>systems</b> but also within user 
-cacm-3126 : <b>for</b> static sets cacm february 

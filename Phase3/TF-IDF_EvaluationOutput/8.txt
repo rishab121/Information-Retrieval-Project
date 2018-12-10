@@ -102,4 +102,4 @@ QueryId 	Document 		Ranking 	R/N 			Precision 		Recall
 P@5: 0
 P@20: 0.05
 Average precision: 0.06274131274131274131274131275
-Reciprocal rank: 0.07142857142857142
+Reciprocal rank: 0.0714285714286

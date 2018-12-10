@@ -1,100 +1,100 @@
-cacm-1012 : <b>analysis</b> has recently become important 
-cacm-1002 : real-time <b>analysis</b> <b>of</b> biological data the filters 
-cacm-0533 : to simplify discussion <b>of</b> the statistical properties <b>of</b> the noise generated the 
-cacm-1003 : <b>of</b> fouriers law <b>of</b> heat conduction and the 
-cacm-2560 : are presented <b>of</b> an <b>analysis</b> <b>of</b> a probabilistic model <b>of</b> a multiprogrammed computer system 
-cacm-2226 : utility <b>of</b> one <b>of</b> the algorithms as a 
-cacm-2188 : this is accomplished <b>by</b> means <b>of</b> a mathematical model <b>of</b> a computer driven graphics 
-cacm-0974 : for the automatic <b>analysis</b> <b>of</b> long series heart cycles 
-cacm-1325 : development <b>of</b> three dimensional pattern <b>analysis</b> the <b>analysis</b> <b>of</b> parallel electrocardiographer-computer diagnostic interaction 
-cacm-2494 : representation <b>of</b> the elements <b>of</b> a data matrix <b>of</b> similarities or dissimilarities <b>by</b> computer printed symbols <b>of</b> character overstrikes <b>of</b> various shades <b>of</b> darkness where a dark 
-cacm-3194 : <b>by</b> native speakers <b>of</b> a particular language parallels 
-cacm-2325 : the <b>analysis</b> <b>of</b> continuous algorithms four <b>of</b> the components <b>of</b> numerical mathematics are discussed 
-cacm-2645 : <b>analysis</b> <b>of</b> algorithms and some <b>of</b> the directions for further 
-cacm-1605 : <b>of</b> system effectiveness and <b>analysis</b> <b>of</b> variance techniques were employed 
-cacm-1526 : predict performance measured <b>by</b> the average usage <b>of</b> the cpu when user 
-cacm-2798 : and the <b>analysis</b> <b>of</b> the model <b>by</b> monte carlo simulation is 
-cacm-1653 : appraisal the state <b>of</b> the art <b>of</b> system performance evaluation is 
-cacm-2835 : <b>of</b> recursive use <b>of</b> procedures is presented for 
-cacm-2871 : <b>analysis</b> <b>of</b> programs <b>by</b> using invariants which express 
-cacm-1497 : from the division <b>of</b> a two-precision segment <b>of</b> every partial remainder <b>by</b> a suitably rounded single-precision 
-cacm-1632 : appropriate pooling <b>of</b> the single degree <b>of</b> freedom sums <b>of</b> squares program segments to 
-cacm-1272 : the amount <b>of</b> condensation <b>of</b> text in language processing 
-cacm-1927 : <b>by</b> a listing <b>of</b> some desirable graduate-level courses 
-cacm-2310 : <b>analysis</b> humanities science <b>of</b> the humanities pattern recognition 
-cacm-1307 : significance <b>of</b> data handled <b>by</b> the system since such 
-cacm-2701 : for global flow <b>analysis</b> on reducible graphs is 
-cacm-3069 : flow <b>analysis</b> global flow <b>analysis</b> optimization side effects relations 
-cacm-3022 : and research grants <b>analysis</b> <b>of</b> the data indicated that 
-cacm-2820 : is subsequently edited <b>analysis</b> is performed character <b>by</b> character the most remarkable 
-cacm-2924 : created <b>by</b> the combination <b>of</b> a number <b>of</b> shapes that have been 
-cacm-2634 : <b>analysis</b> one-way <b>analysis</b> <b>of</b> variance 1.3 3.30 4.19 
-cacm-2739 : statement <b>of</b> restrictions <b>of</b> a natural language grammar 
-cacm-2735 : <b>analysis</b> keypunch operators machine operators 
-cacm-0912 : k-dimensions <b>by</b> fortran for <b>analysis</b> <b>of</b> variance cacm march 1963 
-cacm-2937 : <b>analysis</b> <b>of</b> the number <b>of</b> errors and the number 
-cacm-1260 : least-squares <b>analysis</b> <b>of</b> resonance spectra on small 
-cacm-2221 : system <b>analysis</b> business applications 3.50 3.59 
-cacm-2556 : <b>analysis</b> syntax <b>analysis</b> 3.62 3.63 3.65 ca730105 
-cacm-1809 : program numerical <b>analysis</b> is the study <b>of</b> methods and procedures used 
-cacm-3078 : <b>analysis</b> <b>of</b> the availability <b>of</b> computer systems using computer 
-cacm-2492 : the development <b>of</b> decision tables via parsing 
-cacm-2062 : to the <b>analysis</b> <b>of</b> data generated <b>by</b> a computer simulation experiment 
-cacm-2113 : significant addresses <b>by</b> means <b>of</b> which processing times for 
-cacm-1802 : <b>analysis</b> <b>of</b> variance <b>analysis</b> <b>of</b> covariance regression <b>analysis</b> experimental design matrix direct 
-cacm-0284 : the development <b>of</b> programs for systems <b>analysis</b> problems this algorithm enablesus 
-cacm-1801 : claringbold p j <b>analysis</b> <b>of</b> variance <b>analysis</b> <b>of</b> covariance regression <b>analysis</b> experimental design balanced experiment 
-cacm-0721 : and <b>analysis</b> <b>of</b> the american standards association 
-cacm-0525 : <b>analysis</b> <b>of</b> variance cacm august 1962 
-cacm-2829 : <b>of</b> <b>texture</b> simulation and lighting models 
-cacm-1404 : <b>analysis</b> <b>of</b> covariance and the <b>analysis</b> <b>of</b> variance and <b>by</b> introducing a new operator 
-cacm-2989 : on <b>analysis</b> <b>of</b> traces <b>of</b> program executions the concept 
-cacm-2823 : <b>analysis</b> <b>of</b> the data indicated that 
-cacm-1517 : <b>of</b> analyzing data generated <b>by</b> computer simulations <b>of</b> economic systems we first 
-cacm-1916 : <b>analysis</b> <b>of</b> boolean program models for 
-cacm-0464 : syntactic <b>analysis</b> <b>by</b> digital computer this paper 
-cacm-2877 : exposed and codified <b>by</b> the static <b>analysis</b> methods described in this 
-cacm-2825 : <b>of</b> variance cluster <b>analysis</b> contingency tables data <b>analysis</b> discriminant <b>analysis</b> factor <b>analysis</b> graphics outliers regression time 
-cacm-1780 : harmonic <b>analysis</b> for symmetrically distributed data 
-cacm-0825 : the <b>analysis</b> <b>of</b> spark-chamber data an operating 
-cacm-1045 : programming <b>analysis</b> <b>of</b> variance <b>by</b> sequences <b>of</b> operators and isomorphic mappings 
-cacm-2387 : a simple <b>analysis</b> <b>of</b> some computer-economic factors involved 
-cacm-1365 : <b>analysis</b> and generation <b>of</b> the coefficients <b>of</b> equations in keplerian motion 
-cacm-0931 : systematic mistake <b>analysis</b> <b>of</b> digital computer programs cacm 
-cacm-3094 : <b>analysis</b> <b>of</b> algorithmstop-down and bottom-up parsing 
-cacm-1507 : ition and <b>analysis</b> <b>of</b> large bodies <b>of</b> data derived from scientific 
-cacm-2050 : some applications <b>of</b> which content <b>analysis</b> is one do not 
-cacm-2999 : this is followed <b>by</b> a summary <b>of</b> some recent developments in 
-cacm-2478 : computer science-seminars for undergraduates 
-cacm-2719 : 1975 wegbreit b <b>analysis</b> <b>of</b> programs performance <b>analysis</b> execution time execution behavior 
-cacm-2947 : handling and text <b>analysis</b> system for nontechnical users 
-cacm-1732 : factorial <b>analysis</b> <b>of</b> variance algorithm 330 g1 
-cacm-1709 : it permits the <b>analysis</b> <b>of</b> problems containing the same 
-cacm-1855 : a number <b>of</b> examples <b>of</b> output produced <b>by</b> the program are given 
-cacm-2125 : the ordered sequence <b>of</b> contour points and the 
-cacm-2308 : brief survey <b>of</b> the use <b>of</b> computers in urban society 
-cacm-3149 : scene <b>analysis</b> a cyclic-order property is 
 cacm-1435 : placed on <b>analysis</b> <b>of</b> variance techniques three other 
-cacm-1885 : chomskys aspects <b>of</b> the theory <b>of</b> syntax the major innovations 
-cacm-2771 : the synthesis <b>of</b> solids bounded <b>by</b> many faces a technique 
-cacm-1679 : time series <b>analysis</b> digital filtering spectral <b>analysis</b> real-time spectrum analyzers fourier 
-cacm-0726 : <b>analysis</b> <b>of</b> square and rectangular lattice 
-cacm-2837 : comparisons complexity vin <b>of</b> the i-th selection problem 
-cacm-1271 : preparation <b>of</b> secondary storage lists from 
-cacm-1237 : table <b>analysis</b> the nature <b>of</b> table-oriented programming languages and 
-cacm-1989 : language <b>analysis</b> the use <b>of</b> augmented transition network grammars 
-cacm-0950 : <b>of</b> numerical <b>analysis</b> will have to be 
-cacm-2523 : scene <b>analysis</b> a method <b>of</b> converting a picture into 
-cacm-2977 : budget curve <b>of</b> nolans stage model <b>of</b> computer development in an 
-cacm-1515 : logical <b>analysis</b> <b>of</b> large collections <b>of</b> factual data a system 
-cacm-0461 : coding <b>of</b> medical case history data 
-cacm-2751 : the quality <b>of</b> computer generated images <b>of</b> three-dimensional scenes depends on 
-cacm-1014 : machine controls for <b>analysis</b> <b>of</b> variance a major problem 
 cacm-1823 : factorial <b>analysis</b> <b>of</b> variance algorithm g1 cacm 
-cacm-1658 : <b>analysis</b> <b>of</b> algorithms for the zero-one 
-cacm-3055 : improved program <b>by</b> refinement both <b>of</b> the algorithms given <b>by</b> dijkstra are shown to 
+cacm-2924 : created <b>by</b> the combination <b>of</b> a number <b>of</b> shapes that have been 
+cacm-2739 : statement <b>of</b> restrictions <b>of</b> a natural language grammar 
+cacm-0533 : to simplify discussion <b>of</b> the statistical properties <b>of</b> the noise generated the 
+cacm-2125 : the ordered sequence <b>of</b> contour points and the 
+cacm-2735 : <b>analysis</b> keypunch operators machine operators 
+cacm-2634 : <b>analysis</b> one-way <b>analysis</b> <b>of</b> variance 1.3 3.30 4.19 
+cacm-2325 : the <b>analysis</b> <b>of</b> continuous algorithms four <b>of</b> the components <b>of</b> numerical mathematics are discussed 
+cacm-1732 : factorial <b>analysis</b> <b>of</b> variance algorithm 330 g1 
+cacm-1855 : a number <b>of</b> examples <b>of</b> output produced <b>by</b> the program are given 
+cacm-1507 : ition and <b>analysis</b> <b>of</b> large bodies <b>of</b> data derived from scientific 
+cacm-2837 : comparisons complexity vin <b>of</b> the i-th selection problem 
+cacm-2835 : <b>of</b> recursive use <b>of</b> procedures is presented for 
+cacm-3194 : <b>by</b> native speakers <b>of</b> a particular language parallels 
+cacm-2937 : <b>analysis</b> <b>of</b> the number <b>of</b> errors and the number 
+cacm-0950 : <b>of</b> numerical <b>analysis</b> will have to be 
+cacm-1989 : language <b>analysis</b> the use <b>of</b> augmented transition network grammars 
+cacm-1237 : table <b>analysis</b> the nature <b>of</b> table-oriented programming languages and 
+cacm-1365 : <b>analysis</b> and generation <b>of</b> the coefficients <b>of</b> equations in keplerian motion 
+cacm-1809 : program numerical <b>analysis</b> is the study <b>of</b> methods and procedures used 
+cacm-1802 : <b>analysis</b> <b>of</b> variance <b>analysis</b> <b>of</b> covariance regression <b>analysis</b> experimental design matrix direct 
+cacm-1801 : claringbold p j <b>analysis</b> <b>of</b> variance <b>analysis</b> <b>of</b> covariance regression <b>analysis</b> experimental design balanced experiment 
 cacm-2812 : activity nmcsa computer-aided <b>analysis</b> consists <b>of</b> a set <b>of</b> procedures and computer programs 
+cacm-1003 : <b>of</b> fouriers law <b>of</b> heat conduction and the 
+cacm-1002 : real-time <b>analysis</b> <b>of</b> biological data the filters 
+cacm-1632 : appropriate pooling <b>of</b> the single degree <b>of</b> freedom sums <b>of</b> squares program segments to 
+cacm-3055 : improved program <b>by</b> refinement both <b>of</b> the algorithms given <b>by</b> dijkstra are shown to 
+cacm-1325 : development <b>of</b> three dimensional pattern <b>analysis</b> the <b>analysis</b> <b>of</b> parallel electrocardiographer-computer diagnostic interaction 
+cacm-2226 : utility <b>of</b> one <b>of</b> the algorithms as a 
+cacm-2050 : some applications <b>of</b> which content <b>analysis</b> is one do not 
+cacm-1526 : predict performance measured <b>by</b> the average usage <b>of</b> the cpu when user 
+cacm-2751 : the quality <b>of</b> computer generated images <b>of</b> three-dimensional scenes depends on 
 cacm-2754 : measurement <b>of</b> peak amplitude duration and 
 cacm-2286 : automatic error <b>analysis</b> for determining precision the 
-cacm-1366 : series <b>of</b> tables the implications <b>of</b> this <b>analysis</b> for designers <b>of</b> languages for users and 
+cacm-0974 : for the automatic <b>analysis</b> <b>of</b> long series heart cycles 
+cacm-1012 : <b>analysis</b> has recently become important 
+cacm-1014 : machine controls for <b>analysis</b> <b>of</b> variance a major problem 
+cacm-2560 : are presented <b>of</b> an <b>analysis</b> <b>of</b> a probabilistic model <b>of</b> a multiprogrammed computer system 
 cacm-2447 : <b>by</b> the use <b>of</b> sard kernels numerical results 
+cacm-2113 : significant addresses <b>by</b> means <b>of</b> which processing times for 
+cacm-3069 : flow <b>analysis</b> global flow <b>analysis</b> optimization side effects relations 
+cacm-0825 : the <b>analysis</b> <b>of</b> spark-chamber data an operating 
+cacm-2829 : <b>of</b> <b>texture</b> simulation and lighting models 
+cacm-1885 : chomskys aspects <b>of</b> the theory <b>of</b> syntax the major innovations 
+cacm-2221 : system <b>analysis</b> business applications 3.50 3.59 
+cacm-2820 : is subsequently edited <b>analysis</b> is performed character <b>by</b> character the most remarkable 
+cacm-2989 : on <b>analysis</b> <b>of</b> traces <b>of</b> program executions the concept 
+cacm-2823 : <b>analysis</b> <b>of</b> the data indicated that 
+cacm-2825 : <b>of</b> variance cluster <b>analysis</b> contingency tables data <b>analysis</b> discriminant <b>analysis</b> factor <b>analysis</b> graphics outliers regression time 
+cacm-1780 : harmonic <b>analysis</b> for symmetrically distributed data 
+cacm-1658 : <b>analysis</b> <b>of</b> algorithms for the zero-one 
+cacm-1307 : significance <b>of</b> data handled <b>by</b> the system since such 
+cacm-3078 : <b>analysis</b> <b>of</b> the availability <b>of</b> computer systems using computer 
+cacm-1653 : appraisal the state <b>of</b> the art <b>of</b> system performance evaluation is 
+cacm-2478 : computer science-seminars for undergraduates 
+cacm-2771 : the synthesis <b>of</b> solids bounded <b>by</b> many faces a technique 
+cacm-1497 : from the division <b>of</b> a two-precision segment <b>of</b> every partial remainder <b>by</b> a suitably rounded single-precision 
+cacm-2999 : this is followed <b>by</b> a summary <b>of</b> some recent developments in 
+cacm-1260 : least-squares <b>analysis</b> <b>of</b> resonance spectra on small 
+cacm-3094 : <b>analysis</b> <b>of</b> algorithmstop-down and bottom-up parsing 
+cacm-2977 : budget curve <b>of</b> nolans stage model <b>of</b> computer development in an 
+cacm-0912 : k-dimensions <b>by</b> fortran for <b>analysis</b> <b>of</b> variance cacm march 1963 
+cacm-1709 : it permits the <b>analysis</b> <b>of</b> problems containing the same 
+cacm-1404 : <b>analysis</b> <b>of</b> covariance and the <b>analysis</b> <b>of</b> variance and <b>by</b> introducing a new operator 
+cacm-2062 : to the <b>analysis</b> <b>of</b> data generated <b>by</b> a computer simulation experiment 
+cacm-1271 : preparation <b>of</b> secondary storage lists from 
+cacm-1272 : the amount <b>of</b> condensation <b>of</b> text in language processing 
+cacm-0461 : coding <b>of</b> medical case history data 
+cacm-2701 : for global flow <b>analysis</b> on reducible graphs is 
+cacm-2188 : this is accomplished <b>by</b> means <b>of</b> a mathematical model <b>of</b> a computer driven graphics 
+cacm-0464 : syntactic <b>analysis</b> <b>by</b> digital computer this paper 
+cacm-2798 : and the <b>analysis</b> <b>of</b> the model <b>by</b> monte carlo simulation is 
+cacm-0284 : the development <b>of</b> programs for systems <b>analysis</b> problems this algorithm enablesus 
+cacm-2556 : <b>analysis</b> syntax <b>analysis</b> 3.62 3.63 3.65 ca730105 
+cacm-1045 : programming <b>analysis</b> <b>of</b> variance <b>by</b> sequences <b>of</b> operators and isomorphic mappings 
+cacm-2947 : handling and text <b>analysis</b> system for nontechnical users 
+cacm-1679 : time series <b>analysis</b> digital filtering spectral <b>analysis</b> real-time spectrum analyzers fourier 
+cacm-2494 : representation <b>of</b> the elements <b>of</b> a data matrix <b>of</b> similarities or dissimilarities <b>by</b> computer printed symbols <b>of</b> character overstrikes <b>of</b> various shades <b>of</b> darkness where a dark 
+cacm-2871 : <b>analysis</b> <b>of</b> programs <b>by</b> using invariants which express 
+cacm-2877 : exposed and codified <b>by</b> the static <b>analysis</b> methods described in this 
+cacm-2492 : the development <b>of</b> decision tables via parsing 
+cacm-0721 : and <b>analysis</b> <b>of</b> the american standards association 
+cacm-2308 : brief survey <b>of</b> the use <b>of</b> computers in urban society 
+cacm-1366 : series <b>of</b> tables the implications <b>of</b> this <b>analysis</b> for designers <b>of</b> languages for users and 
+cacm-2719 : 1975 wegbreit b <b>analysis</b> <b>of</b> programs performance <b>analysis</b> execution time execution behavior 
+cacm-1916 : <b>analysis</b> <b>of</b> boolean program models for 
+cacm-0726 : <b>analysis</b> <b>of</b> square and rectangular lattice 
+cacm-2387 : a simple <b>analysis</b> <b>of</b> some computer-economic factors involved 
+cacm-0931 : systematic mistake <b>analysis</b> <b>of</b> digital computer programs cacm 
+cacm-2523 : scene <b>analysis</b> a method <b>of</b> converting a picture into 
+cacm-1927 : <b>by</b> a listing <b>of</b> some desirable graduate-level courses 
+cacm-0525 : <b>analysis</b> <b>of</b> variance cacm august 1962 
+cacm-3149 : scene <b>analysis</b> a cyclic-order property is 
+cacm-2310 : <b>analysis</b> humanities science <b>of</b> the humanities pattern recognition 
+cacm-1605 : <b>of</b> system effectiveness and <b>analysis</b> <b>of</b> variance techniques were employed 
+cacm-3022 : and research grants <b>analysis</b> <b>of</b> the data indicated that 
+cacm-2645 : <b>analysis</b> <b>of</b> algorithms and some <b>of</b> the directions for further 
+cacm-1515 : logical <b>analysis</b> <b>of</b> large collections <b>of</b> factual data a system 
+cacm-1517 : <b>of</b> analyzing data generated <b>by</b> computer simulations <b>of</b> economic systems we first 

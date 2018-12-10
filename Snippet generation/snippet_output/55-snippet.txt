@@ -1,100 +1,100 @@
-cacm-2815 : high-level binding <b>with</b> low-level linkers an easy 
-cacm-3056 : substantially independent <b>of</b> the number n <b>of</b> events this relative error 
-cacm-2838 : in parallel <b>with</b> list processing operations <b>or</b> on a single processor 
-cacm-2398 : the advantages <b>of</b> independent <b>or</b> solo mode computing <b>with</b> those <b>of</b> guided <b>or</b> dual mode interaction preliminary 
-cacm-1612 : is concerned <b>with</b> the efficiency <b>of</b> the top-to-bottom parsing algorithm 
-cacm-1650 : for some levels <b>of</b> a factor <b>or</b> for combinations <b>of</b> levels <b>of</b> more than one factor 
-cacm-1896 : <b>regular</b> coulomb wave functions algorithm 
-cacm-2175 : <b>of</b> arithmetic <b>expressions</b> an arithmetic expression can 
-cacm-0719 : <b>of</b> a variety <b>of</b> field delimiters allows the 
-cacm-2717 : be confused <b>with</b> any other language <b>or</b> program bearing the same 
-cacm-1957 : the list set generator 
-cacm-2002 : independent <b>of</b> the axis systems <b>or</b> other attributes <b>of</b> the plot this enables 
-cacm-2253 : <b>of</b> the symbolic manipulation <b>of</b> <b>expressions</b> in the matrix calculi 
-cacm-0944 : quantities <b>of</b> data <b>or</b> to problems where the 
-cacm-2771 : the synthesis <b>of</b> solids bounded by many 
-cacm-1216 : <b>of</b> one <b>or</b> several variables no use 
-cacm-2078 : involving the arrangement <b>of</b> objects in two <b>or</b> three-space where the objective 
-cacm-1456 : <b>of</b> question answering examples <b>of</b> methods <b>of</b> inputting information and answering 
-cacm-1962 : <b>of</b> machine tools <b>or</b> sound synthesizers <b>or</b> anything a person normally 
-cacm-1898 : <b>regular</b> coulomb wave functions algorithm 
-cacm-3042 : the number <b>of</b> nodes <b>of</b> a pk tree asymptotically 
-cacm-1975 : <b>with</b> positive integral operands is 
-cacm-3142 : <b>of</b> individuals <b>or</b> households having average contacts 
-cacm-0717 : the partitions <b>of</b> a set <b>with</b> n elements are represented 
-cacm-1665 : given in terms <b>of</b> a subset <b>of</b> <b>regular</b> <b>expressions</b> the output <b>of</b> the system is a 
-cacm-2786 : phototypesetter <b>or</b> on a terminal <b>with</b> forward and reverse half-line 
-cacm-1197 : a number <b>of</b> polynomials <b>with</b> real coefficients this slowly 
-cacm-1257 : core <b>with</b> the remainder <b>of</b> the program being relocated 
-cacm-2514 : <b>languages</b> consisting <b>of</b> simple geometrical patterns as 
-cacm-2906 : very high-level <b>languages</b> have been increasingly explored 
-cacm-2051 : list <b>of</b> all correspondence types <b>with</b> their frequency <b>of</b> occurrence in the data 
-cacm-1084 : the inability <b>of</b> existing programming <b>languages</b> to handle character strings 
-cacm-1152 : size <b>or</b> type <b>of</b> number representation used <b>or</b> multiple precision arithmetic cacm 
-cacm-2953 : <b>of</b> one <b>or</b> more stacks and the 
-cacm-3113 : optimal conversion <b>of</b> extended-entry decision tables <b>with</b> general cost criteria a 
-cacm-1869 : garbage collection programming <b>languages</b> have included explicit <b>or</b> implicit block structures to 
-cacm-3158 : a network <b>with</b> one <b>or</b> more central facilities is 
-cacm-1641 : a use <b>of</b> fast and slow memories 
-cacm-3030 : <b>of</b> large programs users <b>of</b> hierarchical techniques claim <b>or</b> predict substantial increases in 
-cacm-2998 : measurements <b>of</b> the list structure <b>of</b> five large lisp programs 
-cacm-2470 : types out <b>of</b> simper ones <b>with</b> the operations <b>of</b> rowing structuring and uniting 
-cacm-2704 : language features for <b>dealing</b> <b>with</b> exceptions in an orderly 
-cacm-3110 : the problem <b>of</b> minimizing the lengths <b>of</b> programs for such machines 
-cacm-2650 : <b>regular</b> <b>languages</b> <b>regular</b> events finite state automata 
-cacm-2265 : information the determination <b>of</b> the type-wise correctness <b>or</b> incorrectness <b>of</b> the program is resolved 
-cacm-2267 : high-level <b>languages</b> philosophy <b>of</b> language design 4.9 5.19 
-cacm-1355 : <b>regular</b> coulomb wave functions algorithm 
-cacm-1488 : done <b>with</b> one <b>or</b> two fortran statements <b>or</b> <b>with</b> two cobol statements if 
-cacm-3096 : <b>height</b> <b>of</b> its left subtree it 
-cacm-2684 : bnf the definition <b>of</b> the syntax <b>of</b> programming <b>languages</b> has been almost universally 
-cacm-1035 : complexity <b>of</b> the list <b>of</b> quantities to be transmitted 
-cacm-3101 : <b>of</b> various methods <b>of</b> argument transmission in the 
-cacm-3138 : a matrix <b>of</b> column <b>or</b> row vectors the fundamental 
-cacm-2931 : experience <b>of</b> many independent workers <b>with</b> the method <b>of</b> data types as lattices 
-cacm-1402 : for use <b>with</b> the adams <b>or</b> adams-bashforth method <b>of</b> integration <b>of</b> differential equations this method 
-cacm-1162 : complete reprogramming <b>of</b> compiler language programs is 
-cacm-1264 : <b>of</b> this system <b>or</b> <b>of</b> executing programs may be 
-cacm-1888 : <b>with</b> two-point boundary conditions is 
-cacm-2939 : <b>languages</b> through the procedure <b>or</b> subroutine clu provides in 
-cacm-3026 : the evolution <b>of</b> the sperry univac 1100 
-cacm-2177 : <b>of</b> edges <b>or</b> ii as a packed 
-cacm-1747 : examples <b>of</b> applications <b>of</b> the criteria concern the 
-cacm-3040 : <b>of</b> constraints a theory <b>of</b> consistency levels in such 
-cacm-2112 : <b>expressions</b> <b>or</b> translation equations are used 
-cacm-1259 : <b>of</b> letters <b>or</b> a decimal number there 
-cacm-1324 : to be concerned <b>with</b> measuring <b>dealing</b> <b>with</b> ambiguities translating into formal 
-cacm-1309 : preparation <b>of</b> management reports regardless <b>of</b> computational complexity <b>or</b> format variety costs are 
-cacm-1457 : manipulation <b>of</b> a variety <b>of</b> different data structures including 
-cacm-3034 : be inequalities <b>or</b> equalities relating linear <b>expressions</b> it is also assumed 
-cacm-2632 : <b>of</b> hydra-the kernel <b>of</b> an operating system for 
-cacm-1469 : the choice <b>of</b> written appearances <b>of</b> programs <b>or</b> more generally their physical 
-cacm-1001 : concerned <b>with</b> the question <b>of</b> what constitutes infringement <b>of</b> a copyright on a 
-cacm-3043 : networks <b>with</b> distributed storage the paper 
-cacm-2711 : <b>with</b> each other <b>or</b> <b>with</b> incoming patterns search requests 
-cacm-3044 : evaluation <b>of</b> a conditional expression may 
-cacm-3198 : concerned <b>with</b> is that <b>of</b> converting language to action 
-cacm-1453 : <b>languages</b> including some sublanguage <b>of</b> algol a hand calculation 
-cacm-1379 : <b>of</b> a class <b>of</b> potential ambiguities in algol-like 
-cacm-1523 : <b>or</b> to simulate segmentation <b>or</b> paging implementation time was 
-cacm-1237 : is familiar <b>with</b> the nature <b>of</b> decision tables and conventional 
-cacm-2921 : a special case <b>regular</b> <b>expressions</b> since these can be 
-cacm-1977 : data by means <b>of</b> a linear combination <b>of</b> functions including splines selected 
-cacm-1589 : copy presentation <b>of</b> results use <b>of</b> the system requires a 
-cacm-1886 : code optimization sequencing <b>of</b> operations detection <b>of</b> common subexpressions factorization <b>of</b> boolean <b>expressions</b> 4.12 6.1 ca690607jb february 
-cacm-1739 : <b>regular</b> expression search algorithm a 
-cacm-1988 : describing the actions <b>of</b> processors for programming languages-compilers 
-cacm-1999 : slow <b>or</b> no division it is 
-cacm-3171 : used for implementations <b>of</b> high level <b>languages</b> under suitable circumstances this 
-cacm-1223 : remove locally constant <b>expressions</b> and recursively calculable <b>expressions</b> from loops and to 
-cacm-1993 : <b>regular</b> coulomb wave functions algorithm 
-cacm-1470 : the structure <b>of</b> programming <b>languages</b> the following are identified 
 cacm-1906 : <b>with</b> a <b>regular</b> pattern <b>of</b> lines pins terminals and 
-cacm-0078 : is concerned <b>with</b> the practical solution <b>of</b> characteristic value problem for 
-cacm-2767 : tested <b>with</b> a set <b>of</b> typical stochastic scheduling distributions 
-cacm-2500 : <b>of</b> tasks and resources <b>with</b> conflicting requirements detection and/or 
-cacm-1846 : problem <b>of</b> <b>dealing</b> <b>with</b> simultaneous events in separate 
-cacm-2320 : <b>of</b> multiprogramming in a high 
-cacm-1696 : <b>dealing</b> <b>with</b> certain sequences <b>of</b> stochastic matrices is discussed 
-cacm-1366 : a comparison <b>of</b> some computer simulation <b>languages</b> and <b>of</b> some <b>of</b> the involved in comparing 
+cacm-3158 : a network <b>with</b> one <b>or</b> more central facilities is 
+cacm-2921 : a special case <b>regular</b> <b>expressions</b> since these can be 
+cacm-0944 : quantities <b>of</b> data <b>or</b> to problems where the 
+cacm-1999 : slow <b>or</b> no division it is 
 cacm-2534 : <b>or</b> comment in spite <b>of</b> the diagnostic effort pl/c 
+cacm-3030 : <b>of</b> large programs users <b>of</b> hierarchical techniques claim <b>or</b> predict substantial increases in 
+cacm-1453 : <b>languages</b> including some sublanguage <b>of</b> algol a hand calculation 
+cacm-3034 : be inequalities <b>or</b> equalities relating linear <b>expressions</b> it is also assumed 
+cacm-1993 : <b>regular</b> coulomb wave functions algorithm 
+cacm-1457 : manipulation <b>of</b> a variety <b>of</b> different data structures including 
+cacm-1612 : is concerned <b>with</b> the efficiency <b>of</b> the top-to-bottom parsing algorithm 
+cacm-2320 : <b>of</b> multiprogramming in a high 
+cacm-3138 : a matrix <b>of</b> column <b>or</b> row vectors the fundamental 
+cacm-3198 : concerned <b>with</b> is that <b>of</b> converting language to action 
+cacm-2838 : in parallel <b>with</b> list processing operations <b>or</b> on a single processor 
+cacm-2931 : experience <b>of</b> many independent workers <b>with</b> the method <b>of</b> data types as lattices 
+cacm-2939 : <b>languages</b> through the procedure <b>or</b> subroutine clu provides in 
+cacm-1747 : examples <b>of</b> applications <b>of</b> the criteria concern the 
+cacm-1988 : describing the actions <b>of</b> processors for programming languages-compilers 
+cacm-2500 : <b>of</b> tasks and resources <b>with</b> conflicting requirements detection and/or 
+cacm-3044 : evaluation <b>of</b> a conditional expression may 
+cacm-1035 : complexity <b>of</b> the list <b>of</b> quantities to be transmitted 
+cacm-3040 : <b>of</b> constraints a theory <b>of</b> consistency levels in such 
+cacm-3043 : networks <b>with</b> distributed storage the paper 
+cacm-3042 : the number <b>of</b> nodes <b>of</b> a pk tree asymptotically 
+cacm-0717 : the partitions <b>of</b> a set <b>with</b> n elements are represented 
+cacm-0719 : <b>of</b> a variety <b>of</b> field delimiters allows the 
+cacm-1237 : is familiar <b>with</b> the nature <b>of</b> decision tables and conventional 
+cacm-2906 : very high-level <b>languages</b> have been increasingly explored 
+cacm-2514 : <b>languages</b> consisting <b>of</b> simple geometrical patterns as 
+cacm-1001 : concerned <b>with</b> the question <b>of</b> what constitutes infringement <b>of</b> a copyright on a 
+cacm-3056 : substantially independent <b>of</b> the number n <b>of</b> events this relative error 
+cacm-1324 : to be concerned <b>with</b> measuring <b>dealing</b> <b>with</b> ambiguities translating into formal 
+cacm-1523 : <b>or</b> to simulate segmentation <b>or</b> paging implementation time was 
+cacm-2051 : list <b>of</b> all correspondence types <b>with</b> their frequency <b>of</b> occurrence in the data 
+cacm-3110 : the problem <b>of</b> minimizing the lengths <b>of</b> programs for such machines 
+cacm-1739 : <b>regular</b> expression search algorithm a 
+cacm-1084 : the inability <b>of</b> existing programming <b>languages</b> to handle character strings 
+cacm-0078 : is concerned <b>with</b> the practical solution <b>of</b> characteristic value problem for 
+cacm-1957 : the list set generator 
+cacm-2684 : bnf the definition <b>of</b> the syntax <b>of</b> programming <b>languages</b> has been almost universally 
+cacm-1402 : for use <b>with</b> the adams <b>or</b> adams-bashforth method <b>of</b> integration <b>of</b> differential equations this method 
+cacm-1152 : size <b>or</b> type <b>of</b> number representation used <b>or</b> multiple precision arithmetic cacm 
+cacm-2112 : <b>expressions</b> <b>or</b> translation equations are used 
+cacm-3101 : <b>of</b> various methods <b>of</b> argument transmission in the 
+cacm-1641 : a use <b>of</b> fast and slow memories 
+cacm-1223 : remove locally constant <b>expressions</b> and recursively calculable <b>expressions</b> from loops and to 
+cacm-1488 : done <b>with</b> one <b>or</b> two fortran statements <b>or</b> <b>with</b> two cobol statements if 
+cacm-2767 : tested <b>with</b> a set <b>of</b> typical stochastic scheduling distributions 
+cacm-1257 : core <b>with</b> the remainder <b>of</b> the program being relocated 
+cacm-1888 : <b>with</b> two-point boundary conditions is 
+cacm-1589 : copy presentation <b>of</b> results use <b>of</b> the system requires a 
+cacm-1869 : garbage collection programming <b>languages</b> have included explicit <b>or</b> implicit block structures to 
+cacm-2398 : the advantages <b>of</b> independent <b>or</b> solo mode computing <b>with</b> those <b>of</b> guided <b>or</b> dual mode interaction preliminary 
+cacm-1896 : <b>regular</b> coulomb wave functions algorithm 
+cacm-1898 : <b>regular</b> coulomb wave functions algorithm 
+cacm-2078 : involving the arrangement <b>of</b> objects in two <b>or</b> three-space where the objective 
+cacm-1309 : preparation <b>of</b> management reports regardless <b>of</b> computational complexity <b>or</b> format variety costs are 
+cacm-2470 : types out <b>of</b> simper ones <b>with</b> the operations <b>of</b> rowing structuring and uniting 
+cacm-3171 : used for implementations <b>of</b> high level <b>languages</b> under suitable circumstances this 
+cacm-1650 : for some levels <b>of</b> a factor <b>or</b> for combinations <b>of</b> levels <b>of</b> more than one factor 
+cacm-2771 : the synthesis <b>of</b> solids bounded by many 
+cacm-1264 : <b>of</b> this system <b>or</b> <b>of</b> executing programs may be 
+cacm-2998 : measurements <b>of</b> the list structure <b>of</b> five large lisp programs 
+cacm-1977 : data by means <b>of</b> a linear combination <b>of</b> functions including splines selected 
+cacm-1975 : <b>with</b> positive integral operands is 
+cacm-2632 : <b>of</b> hydra-the kernel <b>of</b> an operating system for 
+cacm-3096 : <b>height</b> <b>of</b> its left subtree it 
+cacm-2786 : phototypesetter <b>or</b> on a terminal <b>with</b> forward and reverse half-line 
+cacm-1665 : given in terms <b>of</b> a subset <b>of</b> <b>regular</b> <b>expressions</b> the output <b>of</b> the system is a 
+cacm-1379 : <b>of</b> a class <b>of</b> potential ambiguities in algol-like 
+cacm-2704 : language features for <b>dealing</b> <b>with</b> exceptions in an orderly 
+cacm-2177 : <b>of</b> edges <b>or</b> ii as a packed 
+cacm-2175 : <b>of</b> arithmetic <b>expressions</b> an arithmetic expression can 
+cacm-1469 : the choice <b>of</b> written appearances <b>of</b> programs <b>or</b> more generally their physical 
+cacm-1962 : <b>of</b> machine tools <b>or</b> sound synthesizers <b>or</b> anything a person normally 
+cacm-3113 : optimal conversion <b>of</b> extended-entry decision tables <b>with</b> general cost criteria a 
+cacm-1162 : complete reprogramming <b>of</b> compiler language programs is 
+cacm-1886 : code optimization sequencing <b>of</b> operations detection <b>of</b> common subexpressions factorization <b>of</b> boolean <b>expressions</b> 4.12 6.1 ca690607jb february 
+cacm-2267 : high-level <b>languages</b> philosophy <b>of</b> language design 4.9 5.19 
+cacm-2265 : information the determination <b>of</b> the type-wise correctness <b>or</b> incorrectness <b>of</b> the program is resolved 
+cacm-2717 : be confused <b>with</b> any other language <b>or</b> program bearing the same 
+cacm-1470 : the structure <b>of</b> programming <b>languages</b> the following are identified 
+cacm-1259 : <b>of</b> letters <b>or</b> a decimal number there 
+cacm-2711 : <b>with</b> each other <b>or</b> <b>with</b> incoming patterns search requests 
+cacm-1366 : a comparison <b>of</b> some computer simulation <b>languages</b> and <b>of</b> some <b>of</b> the involved in comparing 
+cacm-2650 : <b>regular</b> <b>languages</b> <b>regular</b> events finite state automata 
+cacm-2815 : high-level binding <b>with</b> low-level linkers an easy 
+cacm-1696 : <b>dealing</b> <b>with</b> certain sequences <b>of</b> stochastic matrices is discussed 
+cacm-2953 : <b>of</b> one <b>or</b> more stacks and the 
+cacm-1456 : <b>of</b> question answering examples <b>of</b> methods <b>of</b> inputting information and answering 
+cacm-2253 : <b>of</b> the symbolic manipulation <b>of</b> <b>expressions</b> in the matrix calculi 
+cacm-3142 : <b>of</b> individuals <b>or</b> households having average contacts 
+cacm-1216 : <b>of</b> one <b>or</b> several variables no use 
+cacm-3026 : the evolution <b>of</b> the sperry univac 1100 
+cacm-1197 : a number <b>of</b> polynomials <b>with</b> real coefficients this slowly 
+cacm-2002 : independent <b>of</b> the axis systems <b>or</b> other attributes <b>of</b> the plot this enables 
+cacm-1355 : <b>regular</b> coulomb wave functions algorithm 
+cacm-1846 : problem <b>of</b> <b>dealing</b> <b>with</b> simultaneous events in separate 

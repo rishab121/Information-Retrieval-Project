@@ -1,0 +1,19 @@
+INDEX VERSION 1.130+E:\IR Fall 18\project repo\Information-Retrieval-Project\Task1\.metadata\.plugins\org.eclipse.jdt.core
+3693261185.index
+315890579.index
+2916426105.index
+1580166048.index
+1860642593.index
+592600685.index
+2429332019.index
+2589955883.index
+3808123788.index
+2956378016.index
+2692035760.index
+3947521672.index
+1329257546.index
+421022922.index
+1055679481.index
+3637040476.index
+1230538165.index
+4232500288.index

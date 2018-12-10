@@ -64,7 +64,17 @@ To execute the four Baseline runs perform the following steps:
 	7. To use JM Smoothed Query Likelihood Model as the retrieval model, execute the following command:
 		"python JM_Retreiver.py"
 	8. The results for the JM Smoothed Query Likelihood Model will be generated in a folder named "JM_output".
-	9. To 
+	9. For Lucene:
+		A. Make a new project in Java and use the Lucene.java file provided.
+		   Create this project in the same directory and set the path in inputLocation to the path containing Lucene.java.		   
+		B. Add the three following jars into your project's list of referenced libraries:
+			1. lucene-core-VERSION.jar
+			2. lucene-queryparser-VERSION.jar
+			3. lucene-analyzers-common-VERSION.jar
+		C. TokenizedFile and queries.txt should be in the same directory, and the path should be set for them in the program.
+	   	   It will take the documents from TokenizedFile and index them and rank them based on the queries, 
+	           the output generated will be in the prog folder with the name LuceneOutput.txt
+		D. Run the java program.
 
 Task 2:
 -------
@@ -146,6 +156,8 @@ To view the various snippets generated, perform the following steps:
 		for Lucene :				Lucene_EvaluationOutput
 		for tf-idf :				TF-IDF_EvaluationOutput
 		for tf-idf with stopping :		TF-IDF_Evaluation_Stopping_Output
+	6. The Recall-Precision curve is present with the name Recall-Precision Curve.png
+
 
 Extra Credit:
 -------------

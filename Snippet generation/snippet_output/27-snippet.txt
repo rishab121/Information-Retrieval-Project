@@ -1,100 +1,100 @@
-cacm-2297 : with certain <b>aspects</b> <b>of</b> contention for main memory 
-cacm-2582 : the concept <b>of</b> critical working set a 
-cacm-1912 : simulation <b>of</b> outpatient appointment <b>systems</b> an experimental computer program 
-cacm-3006 : algorithms five types <b>of</b> anomalous behavior which may 
-cacm-2868 : reflections on an <b>operating</b> system design the main 
-cacm-0417 : lawyers the technical <b>aspects</b> <b>of</b> computer <b>systems</b> involved in legal situations 
-cacm-2317 : s languages <b>operating</b> <b>systems</b> programming <b>systems</b> multiprogramming history 1.2 4.22 
-cacm-2859 : model <b>of</b> such a system the 
-cacm-2867 : <b>of</b> a family <b>of</b> <b>operating</b> <b>systems</b> it is shown that 
-cacm-1461 : discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 
-cacm-0086 : survey <b>of</b> progress and trend <b>of</b> development and use <b>of</b> automatic data processing in 
-cacm-3068 : <b>of</b> those properties <b>of</b> an <b>operating</b> system which are necessary 
-cacm-2479 : r l education <b>management</b> information <b>systems</b> information <b>systems</b> administration information <b>systems</b> <b>management</b> computer <b>management</b> 1.52 3.51 ca730707 jb 
-cacm-2577 : an on-site data <b>management</b> system application in field 
-cacm-2092 : illustrated examples <b>of</b> the <b>systems</b> performance and <b>of</b> the limitations <b>of</b> its question-answering capability are 
-cacm-3028 : compilers <b>operating</b> <b>systems</b> ferranti manchester mark i 
-cacm-0084 : survey <b>of</b> progress and trend <b>of</b> development and use <b>of</b> automatic data processing in 
-cacm-2017 : <b>of</b> an extensive measurement project 
-cacm-1748 : analysis <b>of</b> multiprocessing <b>systems</b> the notions <b>of</b> process and state vector 
-cacm-1892 : models scheduling strategies <b>operating</b> <b>systems</b> memory <b>management</b> 2.44 4.32 4.39 6.20 
-cacm-2798 : analysis <b>of</b> interleaved memory <b>systems</b> using blockage buffers a 
-cacm-2625 : superior to present <b>systems</b> on the basis <b>of</b> protection simplicity <b>of</b> programming conventions and efficient 
-cacm-3142 : <b>systems</b> errors billing errors <b>management</b> <b>systems</b> consumers 2.0 2.1 2.12 
-cacm-2902 : performance <b>of</b> 35 dynamic memory allocation 
-cacm-2314 : applications three <b>aspects</b> <b>of</b> programming <b>systems</b> are highlighted good interactive 
-cacm-2406 : <b>aspects</b> <b>of</b> data applications <b>of</b> these generalized data definition 
-cacm-3000 : new empirical evidence <b>of</b> certain <b>aspects</b> <b>of</b> the construction and behavior 
-cacm-1751 : <b>of</b> a general treatment <b>of</b> resource allocation in modern 
-cacm-2624 : limited number <b>of</b> third generation computer <b>systems</b> eg cp-67 on the 
-cacm-2967 : a comparison <b>of</b> hardware and software associative 
-cacm-0059 : survey <b>of</b> progress and trend <b>of</b> development and use <b>of</b> automatic data processing in 
-cacm-2163 : <b>management</b> information <b>systems</b> education in colleges and 
-cacm-2198 : <b>of</b> generalized data base <b>management</b> <b>systems</b> this introduction gives a 
-cacm-3067 : reference segments <b>of</b> different sizes the generalized 
-cacm-1462 : multilevel <b>operating</b> <b>systems</b> the basic software for 
-cacm-1959 : <b>management</b> information <b>systems</b> a programming structure language 
-cacm-1928 : <b>aspects</b> <b>of</b> the techniques described may 
-cacm-2597 : <b>of</b> structuring an <b>operating</b> system it introduces a 
-cacm-2095 : measurements <b>of</b> segment size distributions <b>of</b> segment sizes measured under 
-cacm-3148 : other loosely coupled <b>systems</b> is a problem <b>of</b> growing interest this paper 
-cacm-2365 : paging the efficiency <b>of</b> conventional fortran programs for 
-cacm-2358 : use <b>of</b> on-line <b>operating</b> <b>systems</b> has grown the need 
-cacm-2740 : dijkstras hierarchical structuring <b>of</b> <b>operating</b> <b>systems</b> the project <b>management</b> and the performance are 
-cacm-2319 : <b>aspects</b> <b>of</b> an <b>operating</b> system although such total 
-cacm-2681 : model <b>of</b> a multiprogramming system is 
-cacm-1657 : the execution <b>of</b> part <b>of</b> a program with its 
-cacm-2372 : control confidentiality <b>operating</b> <b>systems</b> access <b>management</b> data banks <b>management</b> information <b>systems</b> 3.50 3.73 4.12 4.22 
-cacm-1750 : <b>systems</b> multiprocessor <b>operating</b> <b>systems</b> control data corporation 6600 
 cacm-1901 : <b>systems</b> is presented concepts <b>of</b> value and cost <b>of</b> space allocation per task 
-cacm-3050 : run <b>of</b> the center <b>operating</b> under his choices cacm 
-cacm-2481 : useful fraction <b>of</b> the cost-time integral <b>of</b> primary and fast buffer 
-cacm-2127 : to subtle <b>aspects</b> <b>of</b> meaning or to applications 
-cacm-2424 : dynamic verification <b>of</b> <b>operating</b> system decisions dynamic verification 
-cacm-2936 : <b>aspects</b> <b>of</b> the best <b>of</b> the previously published algorithms 
-cacm-3026 : the evolution <b>of</b> the sperry univac 1100 
-cacm-2818 : interference in multiprocessor computer 
-cacm-2583 : <b>systems</b> a report from stanley 
-cacm-2357 : <b>operating</b> as part <b>of</b> a normal batch system 
-cacm-2069 : <b>operating</b> <b>systems</b> memory <b>management</b> 2.44 4.32 4.39 6.20 
-cacm-1781 : translator writing <b>systems</b> a critical review <b>of</b> recent efforts to automate 
-cacm-2482 : resource allocation <b>operating</b> <b>systems</b> multiprogramming hierarchical <b>systems</b> 4.30 4.32 ca730704 jb 
-cacm-1728 : measurement <b>of</b> program <b>operating</b> behavior in those multiprogramming 
-cacm-1708 : the use <b>of</b> two levels <b>of</b> storage for programs is 
-cacm-0856 : variety <b>of</b> record statements this description 
-cacm-3092 : much <b>of</b> the total resources <b>of</b> <b>systems</b> and programming groups 2 
-cacm-0320 : <b>aspects</b> <b>of</b> logic they can be 
-cacm-2668 : computation <b>of</b> page fault probability from 
-cacm-2864 : existence <b>of</b> a hierarchy <b>of</b> localities at any given 
-cacm-1267 : includes the pertinent <b>aspects</b> <b>of</b> information transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> information bits trib <b>of</b> residual errors and <b>of</b> standard measurement conditions the 
-cacm-2988 : models <b>of</b> computer <b>systems</b> empirical analyses and analytic 
-cacm-2852 : the technology <b>of</b> computer center <b>management</b> a proposed course for 
-cacm-2311 : i computing milieu <b>management</b> data processing hardware <b>systems</b> software <b>systems</b> <b>systems</b> development process functional <b>systems</b> <b>management</b> <b>systems</b> 2.0 3.50 4.0 6.20 
-cacm-2622 : in many computer <b>operating</b> <b>systems</b> a user authenticates himself 
-cacm-3112 : <b>of</b> list processing <b>systems</b> lack this property because 
-cacm-2985 : relationship <b>of</b> in ternal pricing <b>systems</b> for computer services chargeout 
-cacm-2378 : <b>of</b> the advantages <b>of</b> this approach cacm march 
-cacm-1541 : simulating dynamic <b>systems</b> the general objective <b>of</b> this language is to 
-cacm-2345 : education <b>management</b> <b>systems</b> <b>systems</b> analysis <b>management</b> information <b>systems</b> information <b>systems</b> development information analysis system 
-cacm-2111 : and <b>operating</b> <b>systems</b> these include the use 
-cacm-1747 : design <b>operating</b> <b>systems</b> <b>operating</b> <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual 
-cacm-2106 : school <b>of</b> <b>management</b> several years <b>of</b> experience have led to 
-cacm-1752 : time-sharing <b>operating</b> <b>systems</b> resource <b>management</b> task scheduling paging system 
-cacm-1083 : purpose <b>of</b> facilitating the programming and 
-cacm-2502 : <b>aspects</b> <b>of</b> computer science education cacm 
-cacm-1725 : elementary <b>aspects</b> <b>of</b> the structure <b>of</b> sets <b>of</b> binary numbers is presented 
 cacm-1753 : the multics <b>operating</b> system are introduced multics 
-cacm-2669 : the effect <b>of</b> the automatic <b>management</b> algorithm to produce a 
-cacm-2689 : <b>systems</b> design data processing <b>management</b> 3.50 4.12 4.22 ca740110 
-cacm-3025 : and evolution <b>of</b> the hardware <b>operating</b> system and languages are 
-cacm-1924 : as a function <b>of</b> the number <b>of</b> pages <b>of</b> main memory available to 
-cacm-3090 : social impacts <b>of</b> computing organizational impacts <b>of</b> computing <b>management</b> information <b>systems</b> sociology <b>of</b> computing information <b>systems</b> and service integration urban 
-cacm-2374 : a study <b>of</b> storage partitioning using a 
-cacm-1810 : part <b>of</b> most computing <b>systems</b> cacm december 1969 sayre 
-cacm-2500 : <b>of</b> tasks and resources with 
+cacm-1752 : time-sharing <b>operating</b> <b>systems</b> resource <b>management</b> task scheduling paging system 
+cacm-1751 : <b>of</b> a general treatment <b>of</b> resource allocation in modern 
+cacm-1750 : <b>systems</b> multiprocessor <b>operating</b> <b>systems</b> control data corporation 6600 
+cacm-2127 : to subtle <b>aspects</b> <b>of</b> meaning or to applications 
 cacm-1456 : storage and retrieval <b>of</b> <b>aspects</b> <b>of</b> meaning in directed graph 
+cacm-2374 : a study <b>of</b> storage partitioning using a 
+cacm-2936 : <b>aspects</b> <b>of</b> the best <b>of</b> the previously published algorithms 
+cacm-1747 : design <b>operating</b> <b>systems</b> <b>operating</b> <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual 
+cacm-2502 : <b>aspects</b> <b>of</b> computer science education cacm 
+cacm-2500 : <b>of</b> tasks and resources with 
+cacm-1748 : analysis <b>of</b> multiprocessing <b>systems</b> the notions <b>of</b> process and state vector 
+cacm-2624 : limited number <b>of</b> third generation computer <b>systems</b> eg cp-67 on the 
+cacm-2625 : superior to present <b>systems</b> on the basis <b>of</b> protection simplicity <b>of</b> programming conventions and efficient 
+cacm-2622 : in many computer <b>operating</b> <b>systems</b> a user authenticates himself 
+cacm-2740 : dijkstras hierarchical structuring <b>of</b> <b>operating</b> <b>systems</b> the project <b>management</b> and the performance are 
+cacm-2583 : <b>systems</b> a report from stanley 
+cacm-2582 : the concept <b>of</b> critical working set a 
+cacm-1810 : part <b>of</b> most computing <b>systems</b> cacm december 1969 sayre 
+cacm-2297 : with certain <b>aspects</b> <b>of</b> contention for main memory 
+cacm-2902 : performance <b>of</b> 35 dynamic memory allocation 
+cacm-0417 : lawyers the technical <b>aspects</b> <b>of</b> computer <b>systems</b> involved in legal situations 
+cacm-2106 : school <b>of</b> <b>management</b> several years <b>of</b> experience have led to 
+cacm-2345 : education <b>management</b> <b>systems</b> <b>systems</b> analysis <b>management</b> information <b>systems</b> information <b>systems</b> development information analysis system 
+cacm-3050 : run <b>of</b> the center <b>operating</b> under his choices cacm 
+cacm-1462 : multilevel <b>operating</b> <b>systems</b> the basic software for 
+cacm-3112 : <b>of</b> list processing <b>systems</b> lack this property because 
+cacm-2597 : <b>of</b> structuring an <b>operating</b> system it introduces a 
+cacm-1083 : purpose <b>of</b> facilitating the programming and 
 cacm-1247 : an <b>operating</b> environment for dynamic-recursive computer 
-cacm-3011 : unsophisticated nature <b>of</b> these <b>systems</b> <b>management</b> use <b>of</b> computing is surprisingly common 
-cacm-1698 : needed in certain <b>aspects</b> <b>of</b> <b>operating</b> system design cacm september 
+cacm-1959 : <b>management</b> information <b>systems</b> a programming structure language 
+cacm-2681 : model <b>of</b> a multiprogramming system is 
+cacm-2689 : <b>systems</b> design data processing <b>management</b> 3.50 4.12 4.22 ca740110 
+cacm-3067 : reference segments <b>of</b> different sizes the generalized 
+cacm-2111 : and <b>operating</b> <b>systems</b> these include the use 
+cacm-2358 : use <b>of</b> on-line <b>operating</b> <b>systems</b> has grown the need 
+cacm-2357 : <b>operating</b> as part <b>of</b> a normal batch system 
+cacm-3068 : <b>of</b> those properties <b>of</b> an <b>operating</b> system which are necessary 
+cacm-0084 : survey <b>of</b> progress and trend <b>of</b> development and use <b>of</b> automatic data processing in 
+cacm-0086 : survey <b>of</b> progress and trend <b>of</b> development and use <b>of</b> automatic data processing in 
+cacm-2198 : <b>of</b> generalized data base <b>management</b> <b>systems</b> this introduction gives a 
+cacm-2985 : relationship <b>of</b> in ternal pricing <b>systems</b> for computer services chargeout 
+cacm-1725 : elementary <b>aspects</b> <b>of</b> the structure <b>of</b> sets <b>of</b> binary numbers is presented 
+cacm-1924 : as a function <b>of</b> the number <b>of</b> pages <b>of</b> main memory available to 
+cacm-1728 : measurement <b>of</b> program <b>operating</b> behavior in those multiprogramming 
+cacm-2988 : models <b>of</b> computer <b>systems</b> empirical analyses and analytic 
+cacm-1781 : translator writing <b>systems</b> a critical review <b>of</b> recent efforts to automate 
+cacm-2577 : an on-site data <b>management</b> system application in field 
+cacm-2967 : a comparison <b>of</b> hardware and software associative 
+cacm-2365 : paging the efficiency <b>of</b> conventional fortran programs for 
+cacm-1657 : the execution <b>of</b> part <b>of</b> a program with its 
+cacm-1892 : models scheduling strategies <b>operating</b> <b>systems</b> memory <b>management</b> 2.44 4.32 4.39 6.20 
+cacm-2479 : r l education <b>management</b> information <b>systems</b> information <b>systems</b> administration information <b>systems</b> <b>management</b> computer <b>management</b> 1.52 3.51 ca730707 jb 
+cacm-2163 : <b>management</b> information <b>systems</b> education in colleges and 
+cacm-2859 : model <b>of</b> such a system the 
+cacm-1541 : simulating dynamic <b>systems</b> the general objective <b>of</b> this language is to 
+cacm-1267 : includes the pertinent <b>aspects</b> <b>of</b> information transfer <b>of</b> determination <b>of</b> transfer rate <b>of</b> information bits trib <b>of</b> residual errors and <b>of</b> standard measurement conditions the 
+cacm-2852 : the technology <b>of</b> computer center <b>management</b> a proposed course for 
+cacm-3092 : much <b>of</b> the total resources <b>of</b> <b>systems</b> and programming groups 2 
+cacm-3090 : social impacts <b>of</b> computing organizational impacts <b>of</b> computing <b>management</b> information <b>systems</b> sociology <b>of</b> computing information <b>systems</b> and service integration urban 
+cacm-0856 : variety <b>of</b> record statements this description 
+cacm-1708 : the use <b>of</b> two levels <b>of</b> storage for programs is 
+cacm-2069 : <b>operating</b> <b>systems</b> memory <b>management</b> 2.44 4.32 4.39 6.20 
+cacm-2372 : control confidentiality <b>operating</b> <b>systems</b> access <b>management</b> data banks <b>management</b> information <b>systems</b> 3.50 3.73 4.12 4.22 
+cacm-2378 : <b>of</b> the advantages <b>of</b> this approach cacm march 
 cacm-2379 : the design <b>of</b> the venus <b>operating</b> system the venus <b>operating</b> system is an experimental 
+cacm-1461 : discussion summary on <b>operating</b> <b>systems</b> cacm march 1966 ca660311 
+cacm-3000 : new empirical evidence <b>of</b> certain <b>aspects</b> <b>of</b> the construction and behavior 
+cacm-2668 : computation <b>of</b> page fault probability from 
+cacm-2669 : the effect <b>of</b> the automatic <b>management</b> algorithm to produce a 
+cacm-3006 : algorithms five types <b>of</b> anomalous behavior which may 
+cacm-0320 : <b>aspects</b> <b>of</b> logic they can be 
+cacm-2798 : analysis <b>of</b> interleaved memory <b>systems</b> using blockage buffers a 
+cacm-2092 : illustrated examples <b>of</b> the <b>systems</b> performance and <b>of</b> the limitations <b>of</b> its question-answering capability are 
+cacm-2095 : measurements <b>of</b> segment size distributions <b>of</b> segment sizes measured under 
+cacm-0059 : survey <b>of</b> progress and trend <b>of</b> development and use <b>of</b> automatic data processing in 
+cacm-3011 : unsophisticated nature <b>of</b> these <b>systems</b> <b>management</b> use <b>of</b> computing is surprisingly common 
+cacm-1928 : <b>aspects</b> <b>of</b> the techniques described may 
+cacm-2017 : <b>of</b> an extensive measurement project 
+cacm-2867 : <b>of</b> a family <b>of</b> <b>operating</b> <b>systems</b> it is shown that 
+cacm-1698 : needed in certain <b>aspects</b> <b>of</b> <b>operating</b> system design cacm september 
+cacm-1912 : simulation <b>of</b> outpatient appointment <b>systems</b> an experimental computer program 
+cacm-2818 : interference in multiprocessor computer 
+cacm-2406 : <b>aspects</b> <b>of</b> data applications <b>of</b> these generalized data definition 
+cacm-2424 : dynamic verification <b>of</b> <b>operating</b> system decisions dynamic verification 
 cacm-2080 : <b>of</b> <b>operating</b> <b>systems</b> to suit diverse requirements 
+cacm-3142 : <b>systems</b> errors billing errors <b>management</b> <b>systems</b> consumers 2.0 2.1 2.12 
+cacm-3148 : other loosely coupled <b>systems</b> is a problem <b>of</b> growing interest this paper 
+cacm-2864 : existence <b>of</b> a hierarchy <b>of</b> localities at any given 
+cacm-3026 : the evolution <b>of</b> the sperry univac 1100 
+cacm-3025 : and evolution <b>of</b> the hardware <b>operating</b> system and languages are 
+cacm-2311 : i computing milieu <b>management</b> data processing hardware <b>systems</b> software <b>systems</b> <b>systems</b> development process functional <b>systems</b> <b>management</b> <b>systems</b> 2.0 3.50 4.0 6.20 
+cacm-2482 : resource allocation <b>operating</b> <b>systems</b> multiprogramming hierarchical <b>systems</b> 4.30 4.32 ca730704 jb 
+cacm-2317 : s languages <b>operating</b> <b>systems</b> programming <b>systems</b> multiprogramming history 1.2 4.22 
+cacm-2314 : applications three <b>aspects</b> <b>of</b> programming <b>systems</b> are highlighted good interactive 
+cacm-2481 : useful fraction <b>of</b> the cost-time integral <b>of</b> primary and fast buffer 
+cacm-2319 : <b>aspects</b> <b>of</b> an <b>operating</b> system although such total 
+cacm-2868 : reflections on an <b>operating</b> system design the main 
+cacm-3028 : compilers <b>operating</b> <b>systems</b> ferranti manchester mark i 

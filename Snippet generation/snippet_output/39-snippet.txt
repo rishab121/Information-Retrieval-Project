@@ -1,100 +1,100 @@
-cacm-1002 : a succession <b>of</b> readily analyzable components <b>in</b> a manner <b>that</b> facilitates cascading the repertoire 
-cacm-2152 : present a number <b>of</b> problems which tend <b>to</b> <b>restrict</b> their generality and usefulness 
-cacm-1463 : the intent <b>of</b> <b>this</b> paper <b>to</b> expand and clarify the 
-cacm-2082 : program 2 <b>to</b> use the syntactic <b>types</b> and identifiers <b>in</b> the resulting structure <b>to</b> trigger the automatic formation 
-cacm-1678 : formal <b>languages</b> <b>abstract</b> switching and computability <b>that</b> <b>might</b> be available <b>to</b> a ph student <b>in</b> computer science a brief 
-cacm-3031 : process <b>of</b> proving the correctness <b>of</b> an implementation <b>of</b> an <b>abstract</b> <b>data</b> <b>type</b> second semi-automatic tools are 
-cacm-2651 : the treatment <b>of</b> <b>data</b> <b>types</b> <b>in</b> el1 <b>in</b> constructing a general purpose 
-cacm-3002 : model one <b>of</b> the main objectives <b>in</b> the design <b>of</b> a file system is 
-cacm-1693 : special <b>types</b> <b>of</b> procedures new symbols underlined 
-cacm-2717 : <b>definition</b> language for <b>data</b> conversion <b>this</b> paper describes a high 
-cacm-2732 : <b>that</b> <b>allow</b> nondeterministic program components for 
-cacm-2002 : and are independent <b>of</b> the axis systems <b>or</b> other attributes <b>of</b> the plot <b>this</b> enables plots <b>of</b> any complexity <b>to</b> be constructed by adding 
-cacm-1911 : analysis a class <b>of</b> coordination phenomena <b>in</b> natural <b>languages</b> is considered within the 
-cacm-2138 : permitting the <b>definition</b> <b>of</b> the representation <b>of</b> all <b>data</b> structures <b>in</b> terms <b>of</b> the access algorithm for 
-cacm-3103 : <b>abstract</b> <b>types</b> were then inefficient <b>in</b> space <b>or</b> time <b>in</b> <b>this</b> paper a system for 
-cacm-0630 : an evaluation <b>of</b> autocode readability <b>of</b> the many requirements <b>of</b> an autocode the pair 
-cacm-2078 : graphic <b>languages</b> four alternative <b>data</b> structures <b>that</b> <b>allow</b> automated space planning are 
-cacm-2941 : <b>types</b> and <b>type</b> coercions the benefits <b>of</b> the <b>type</b> system and why it 
-cacm-2937 : an experimental evaluation <b>of</b> <b>data</b> <b>type</b> conventions the language <b>in</b> which programs are written 
-cacm-2722 : advantage <b>of</b> <b>this</b> structure is <b>that</b> a single <b>data</b> structure can handle many 
-cacm-3030 : as helpful <b>in</b> the construction <b>of</b> large programs users <b>of</b> hierarchical techniques claim <b>or</b> predict substantial increases <b>in</b> productivity and <b>in</b> the reliability <b>of</b> the programs produced <b>in</b> <b>this</b> paper we describe a 
-cacm-0867 : are developed <b>to</b> extend the method <b>to</b> the fitting <b>of</b> broken plane segments <b>to</b> surfaces zgxy <b>defined</b> over certain <b>types</b> <b>of</b> subareas <b>of</b> the xy-space the first 
-cacm-3142 : reaction <b>of</b> consumers <b>to</b> errors-to a failure <b>to</b> correct them what can 
-cacm-1282 : enables the <b>programmer</b> <b>to</b> take advantage <b>of</b> the most useful properties 
-cacm-2051 : relative value <b>that</b> is a function <b>of</b> the total frequency <b>in</b> the <b>data</b> <b>of</b> each correspondence found <b>in</b> <b>that</b> pair <b>of</b> words the output is 
-cacm-2314 : feels are important <b>to</b> improve the productivity <b>of</b> programmers working <b>in</b> such domains a system 
-cacm-2931 : programs naturally enter <b>in</b> giving descriptions <b>of</b> processes the <b>definition</b> <b>of</b> the precise meaning <b>of</b> a program then requires 
-cacm-1703 : and reliable identification <b>of</b> programming <b>languages</b> and related services one 
-cacm-2958 : <b>abstract</b> <b>data</b> <b>types</b> and the development <b>of</b> <b>data</b> structures <b>abstract</b> <b>data</b> <b>types</b> can play a significant 
-cacm-2876 : the process <b>of</b> user-database interaction <b>in</b> particular it appears <b>to</b> be necessary for the 
-cacm-2305 : features <b>that</b> are standard <b>in</b> todays programming <b>languages</b> the investigation is <b>of</b> historical interest also it 
-cacm-1869 : garbage collection programming <b>languages</b> have included explicit <b>or</b> implicit block structures <b>to</b> provide a naming convenience 
-cacm-2723 : aim throughout is <b>to</b> <b>allow</b> the list processor <b>to</b> run unimpeded while the 
-cacm-2201 : is anticipated <b>that</b> one <b>of</b> the primary contributions <b>of</b> animator will be the 
-cacm-2558 : protection <b>in</b> programming <b>languages</b> linguistic mechanisms which can 
-cacm-2794 : viewing the two <b>types</b> <b>of</b> representations <b>in</b> <b>this</b> manner a representation <b>of</b> the language recognition problem 
-cacm-3185 : tremendous difficulty provided <b>that</b> we stick <b>to</b> modest and elegant programming 
-cacm-3066 : the ability <b>to</b> detect certain <b>types</b> <b>of</b> errors varies from method 
-cacm-2341 : blocks-a new <b>data</b> <b>type</b> for snobol4 a new 
-cacm-1098 : the principal characteristics <b>of</b> existing list-processing <b>languages</b> important common features <b>of</b> list-processing <b>languages</b> are reviewed forms <b>of</b> <b>data</b> structures which are manipulated 
-cacm-2470 : used <b>to</b> build composite <b>data</b> <b>types</b> out <b>of</b> simper ones with the 
-cacm-1625 : source-language programs methods <b>of</b> simplification <b>that</b> can be applied automatically 
-cacm-2684 : bnf the <b>definition</b> <b>of</b> the syntax <b>of</b> programming <b>languages</b> has been almost universally 
-cacm-2265 : checking <b>this</b> paper attempts <b>to</b> isolate the notion <b>of</b> <b>type</b> checking and presents a 
-cacm-2699 : automatic <b>data</b> structure choice <b>in</b> a language <b>of</b> very high level setl 
-cacm-2810 : a professional each <b>of</b> the four <b>types</b> <b>of</b> institutions-academic industry government and 
-cacm-1262 : are suggested which <b>allow</b> a <b>programmer</b> writing <b>in</b> a procedure-oriented language <b>to</b> indicate sections <b>of</b> program which are <b>to</b> be executed <b>in</b> parallel the statements are 
-cacm-3101 : the control <b>of</b> the <b>programmer</b> permitting the <b>definition</b> <b>of</b> various methods <b>of</b> argument transmission <b>in</b> the source language itself 
-cacm-1474 : <b>of</b> <b>this</b> paper is <b>to</b> give precise descriptions <b>of</b> certain probabilistic models for 
-cacm-3105 : liskovb programming <b>languages</b> access control <b>data</b> <b>types</b> <b>abstract</b> <b>data</b> <b>types</b> <b>type</b> checking capabilities 4.20 4.35 
-cacm-1162 : from a symbolic <b>to</b> a numeric version <b>of</b> a program <b>that</b> is from assembly language 
-cacm-2254 : <b>in</b> sufficient detail <b>to</b> be <b>of</b> value <b>in</b> the design <b>of</b> other array <b>languages</b> the description presented <b>in</b> <b>this</b> paper is implemented <b>in</b> a new array language 
-cacm-1200 : is shown <b>that</b> using <b>this</b> concept a number <b>of</b> new subroutine <b>types</b> can be developed with 
-cacm-1835 : <b>data</b> <b>types</b> several novel and powerful 
-cacm-2939 : support the use <b>of</b> <b>data</b> and control abstractions <b>this</b> paper provides an <b>in</b> troduction <b>to</b> the abstraction mechanisms <b>in</b> clu by means <b>of</b> programming examples the utility 
-cacm-1626 : include careful segmentation <b>of</b> system programs allocation <b>of</b> virtual memory <b>to</b> <b>allow</b> address arithmetic for <b>type</b> determination and a special 
-cacm-1861 : the mad <b>definition</b> facility one <b>of</b> the first <b>definition</b> facilities for higher level 
-cacm-1747 : possible criteria <b>of</b> <b>this</b> kind are input recordability 
-cacm-1602 : equation form <b>to</b> computer instruction <b>in</b> <b>this</b> way the pose language 
-cacm-2785 : extended <b>to</b> <b>allow</b> the <b>programmer</b> explicitly <b>to</b> specify the parallelism <b>of</b> his algorithm <b>in</b> terms <b>of</b> 64-word vectors <b>this</b> paper describes the characteristics 
-cacm-0595 : are the syntax <b>of</b> cobol the use <b>of</b> such syntax <b>in</b> solving any given problem 
-cacm-3097 : rate requirement <b>does</b> not <b>allow</b> one <b>to</b> simply park at bit 
-cacm-2264 : the action <b>of</b> the machine <b>in</b> executing a flowchart is 
-cacm-2940 : <b>abstract</b> <b>data</b> <b>types</b> <b>in</b> <b>this</b> paper the abstraction techniques 
-cacm-3067 : costs special cases <b>of</b> the cost structure <b>allow</b> gws and gopt <b>to</b> simulate any known stack 
-cacm-2632 : including the creation <b>of</b> new <b>types</b> specification <b>of</b> new operations applicable <b>to</b> a given <b>type</b> sharing and protection <b>of</b> any reference <b>to</b> a given object against 
-cacm-1469 : a family <b>of</b> unimplemented computing <b>languages</b> is described <b>that</b> is intended <b>to</b> span differences <b>of</b> application area by a 
-cacm-0495 : + 1/2 <b>of</b> them are independent <b>in</b> order <b>to</b> <b>allow</b> a computer <b>of</b> given memory capacity <b>to</b> handle a larger matrix 
-cacm-1491 : algol is described <b>in</b> full detail <b>to</b> demonstrate <b>that</b> concepts <b>like</b> block-structure procedures parameters etc 
-cacm-1180 : language designed for <b>data</b> manipulation <b>data</b> arranged <b>in</b> a linear form <b>in</b> a workspace is transformed 
-cacm-2527 : detects many <b>types</b> <b>of</b> <b>programmer</b> errors cacm april 1973 
-cacm-3198 : concerned with is <b>that</b> <b>of</b> converting language <b>to</b> action <b>or</b> intellectual energy <b>to</b> mechanical energy the medium 
-cacm-1379 : the difficulty lies <b>in</b> whether <b>to</b> attach the else <b>to</b> the first if <b>or</b> <b>to</b> the second one existing 
-cacm-2705 : <b>of</b> the history <b>of</b> artificial auxiliary <b>languages</b> it is suggested <b>that</b> fortran and cobol will 
-cacm-1237 : conversion <b>of</b> decision tables <b>to</b> computer programs several translation 
-cacm-3006 : algorithms five <b>types</b> <b>of</b> anomalous behavior which may 
-cacm-2178 : is <b>defined</b> graspe consists <b>of</b> a <b>type</b> <b>of</b> directed graph <b>data</b> structure and a set 
-cacm-2289 : and the analysis <b>of</b> many <b>types</b> <b>of</b> networks these algorithms exhibit 
-cacm-1853 : <b>to</b> be chained compact <b>or</b> any combination <b>of</b> the two a description 
-cacm-1589 : as <b>to</b> <b>restrict</b> the programmers choice <b>of</b> input symbols <b>to</b> those which are syntactically 
-cacm-1390 : the advantages <b>of</b> the language are <b>that</b> it allows one <b>to</b> apply transformation rules <b>to</b> lists and arrays as 
-cacm-1856 : explicit <b>or</b> implicit assertion <b>of</b> the new text <b>to</b> a large memory <b>this</b> memory is a semantic 
-cacm-2546 : <b>definition</b> inference identification <b>in</b> the limit extensible <b>languages</b> 3.61 4.2 5.23 ca730202 
-cacm-2886 : <b>of</b> programming <b>languages</b> and compilers a formal 
 cacm-1902 : <b>to</b> record the results <b>of</b> programming exercises <b>in</b> three different <b>languages</b> including assembly language <b>in</b> <b>this</b> computer-controlled grading scheme provision 
-cacm-2956 : some ideas on <b>data</b> <b>types</b> <b>in</b> high-level <b>languages</b> a number <b>of</b> issues are explored concerning 
-cacm-3171 : <b>in</b> either time <b>or</b> space during execution <b>of</b> the program cacm october 
-cacm-1470 : the structure <b>of</b> programming <b>languages</b> the following are identified 
-cacm-1614 : new <b>data</b> <b>types</b> and <b>operators</b> <b>to</b> the language <b>definitions</b> may occur <b>in</b> any block heading and 
-cacm-1112 : over 95 percent <b>of</b> these error <b>types</b> cacm march 1964 damerau 
-cacm-2957 : <b>data</b> abstraction relational database <b>data</b> <b>type</b> aggregation database design <b>data</b> structure knowledge representation <b>data</b> <b>definition</b> language 3.65 3.69 3.79 
-cacm-0527 : property is <b>defined</b> <b>to</b> <b>mean</b> a partition <b>of</b> the set <b>of</b> all objects into disjoint 
+cacm-2886 : <b>of</b> programming <b>languages</b> and compilers a formal 
 cacm-2928 : employed <b>in</b> an experimental version <b>of</b> multics <b>to</b> control the level <b>of</b> multiprogramming <b>in</b> the system and <b>to</b> bill for memory usage 
-cacm-2320 : with operations <b>defined</b> on it <b>this</b> clarifies the meaning <b>of</b> programs and permits a 
-cacm-2081 : <b>operators</b> areext ended <b>to</b> sequence <b>operators</b> and cumulative <b>operators</b> algorithms are given which 
-cacm-2299 : all <b>types</b> <b>of</b> <b>data</b> manipulation such a <b>data</b> structure is described and 
-cacm-2898 : <b>this</b> way will <b>allow</b> concurrent evaluation <b>this</b> paper describes a conceptual 
-cacm-2252 : <b>in</b> the sense <b>that</b> recompilation <b>of</b> modified lines <b>does</b> not occur until the 
-cacm-1783 : needed <b>in</b> the intermediate base <b>to</b> <b>allow</b> such in-and-out conversions <b>to</b> return the original number 
 cacm-2534 : testing <b>to</b> accommodate these extensions <b>to</b> pl/i without abandoning <b>compatibility</b> with ibm compiler pl/c 
+cacm-3030 : as helpful <b>in</b> the construction <b>of</b> large programs users <b>of</b> hierarchical techniques claim <b>or</b> predict substantial increases <b>in</b> productivity and <b>in</b> the reliability <b>of</b> the programs produced <b>in</b> <b>this</b> paper we describe a 
+cacm-3031 : process <b>of</b> proving the correctness <b>of</b> an implementation <b>of</b> an <b>abstract</b> <b>data</b> <b>type</b> second semi-automatic tools are 
+cacm-1589 : as <b>to</b> <b>restrict</b> the programmers choice <b>of</b> input symbols <b>to</b> those which are syntactically 
+cacm-2732 : <b>that</b> <b>allow</b> nondeterministic program components for 
+cacm-1180 : language designed for <b>data</b> manipulation <b>data</b> arranged <b>in</b> a linear form <b>in</b> a workspace is transformed 
+cacm-2632 : including the creation <b>of</b> new <b>types</b> specification <b>of</b> new operations applicable <b>to</b> a given <b>type</b> sharing and protection <b>of</b> any reference <b>to</b> a given object against 
+cacm-1856 : explicit <b>or</b> implicit assertion <b>of</b> the new text <b>to</b> a large memory <b>this</b> memory is a semantic 
+cacm-1853 : <b>to</b> be chained compact <b>or</b> any combination <b>of</b> the two a description 
+cacm-3198 : concerned with is <b>that</b> <b>of</b> converting language <b>to</b> action <b>or</b> intellectual energy <b>to</b> mechanical energy the medium 
+cacm-1835 : <b>data</b> <b>types</b> several novel and powerful 
+cacm-2937 : an experimental evaluation <b>of</b> <b>data</b> <b>type</b> conventions the language <b>in</b> which programs are written 
+cacm-2931 : programs naturally enter <b>in</b> giving descriptions <b>of</b> processes the <b>definition</b> <b>of</b> the precise meaning <b>of</b> a program then requires 
+cacm-2939 : support the use <b>of</b> <b>data</b> and control abstractions <b>this</b> paper provides an <b>in</b> troduction <b>to</b> the abstraction mechanisms <b>in</b> clu by means <b>of</b> programming examples the utility 
+cacm-1747 : possible criteria <b>of</b> <b>this</b> kind are input recordability 
+cacm-2138 : permitting the <b>definition</b> <b>of</b> the representation <b>of</b> all <b>data</b> structures <b>in</b> terms <b>of</b> the access algorithm for 
+cacm-1237 : conversion <b>of</b> decision tables <b>to</b> computer programs several translation 
+cacm-1626 : include careful segmentation <b>of</b> system programs allocation <b>of</b> virtual memory <b>to</b> <b>allow</b> address arithmetic for <b>type</b> determination and a special 
+cacm-1625 : source-language programs methods <b>of</b> simplification <b>that</b> can be applied automatically 
+cacm-3185 : tremendous difficulty provided <b>that</b> we stick <b>to</b> modest and elegant programming 
+cacm-2299 : all <b>types</b> <b>of</b> <b>data</b> manipulation such a <b>data</b> structure is described and 
+cacm-2699 : automatic <b>data</b> structure choice <b>in</b> a language <b>of</b> very high level setl 
+cacm-2705 : <b>of</b> the history <b>of</b> artificial auxiliary <b>languages</b> it is suggested <b>that</b> fortran and cobol will 
+cacm-1002 : a succession <b>of</b> readily analyzable components <b>in</b> a manner <b>that</b> facilitates cascading the repertoire 
+cacm-2341 : blocks-a new <b>data</b> <b>type</b> for snobol4 a new 
+cacm-2051 : relative value <b>that</b> is a function <b>of</b> the total frequency <b>in</b> the <b>data</b> <b>of</b> each correspondence found <b>in</b> <b>that</b> pair <b>of</b> words the output is 
+cacm-0495 : + 1/2 <b>of</b> them are independent <b>in</b> order <b>to</b> <b>allow</b> a computer <b>of</b> given memory capacity <b>to</b> handle a larger matrix 
+cacm-2289 : and the analysis <b>of</b> many <b>types</b> <b>of</b> networks these algorithms exhibit 
+cacm-2684 : bnf the <b>definition</b> <b>of</b> the syntax <b>of</b> programming <b>languages</b> has been almost universally 
+cacm-1390 : the advantages <b>of</b> the language are <b>that</b> it allows one <b>to</b> apply transformation rules <b>to</b> lists and arrays as 
+cacm-3067 : costs special cases <b>of</b> the cost structure <b>allow</b> gws and gopt <b>to</b> simulate any known stack 
+cacm-3066 : the ability <b>to</b> detect certain <b>types</b> <b>of</b> errors varies from method 
+cacm-3101 : the control <b>of</b> the <b>programmer</b> permitting the <b>definition</b> <b>of</b> various methods <b>of</b> argument transmission <b>in</b> the source language itself 
+cacm-3103 : <b>abstract</b> <b>types</b> were then inefficient <b>in</b> space <b>or</b> time <b>in</b> <b>this</b> paper a system for 
+cacm-3105 : liskovb programming <b>languages</b> access control <b>data</b> <b>types</b> <b>abstract</b> <b>data</b> <b>types</b> <b>type</b> checking capabilities 4.20 4.35 
+cacm-1098 : the principal characteristics <b>of</b> existing list-processing <b>languages</b> important common features <b>of</b> list-processing <b>languages</b> are reviewed forms <b>of</b> <b>data</b> structures which are manipulated 
+cacm-1783 : needed <b>in</b> the intermediate base <b>to</b> <b>allow</b> such in-and-out conversions <b>to</b> return the original number 
+cacm-1861 : the mad <b>definition</b> facility one <b>of</b> the first <b>definition</b> facilities for higher level 
+cacm-1869 : garbage collection programming <b>languages</b> have included explicit <b>or</b> implicit block structures <b>to</b> provide a naming convenience 
+cacm-0867 : are developed <b>to</b> extend the method <b>to</b> the fitting <b>of</b> broken plane segments <b>to</b> surfaces zgxy <b>defined</b> over certain <b>types</b> <b>of</b> subareas <b>of</b> the xy-space the first 
+cacm-2078 : graphic <b>languages</b> four alternative <b>data</b> structures <b>that</b> <b>allow</b> automated space planning are 
+cacm-2470 : used <b>to</b> build composite <b>data</b> <b>types</b> out <b>of</b> simper ones with the 
+cacm-2201 : is anticipated <b>that</b> one <b>of</b> the primary contributions <b>of</b> animator will be the 
+cacm-3171 : <b>in</b> either time <b>or</b> space during execution <b>of</b> the program cacm october 
+cacm-1491 : algol is described <b>in</b> full detail <b>to</b> demonstrate <b>that</b> concepts <b>like</b> block-structure procedures parameters etc 
+cacm-0595 : are the syntax <b>of</b> cobol the use <b>of</b> such syntax <b>in</b> solving any given problem 
+cacm-1614 : new <b>data</b> <b>types</b> and <b>operators</b> <b>to</b> the language <b>definitions</b> may occur <b>in</b> any block heading and 
+cacm-2320 : with operations <b>defined</b> on it <b>this</b> clarifies the meaning <b>of</b> programs and permits a 
+cacm-3097 : rate requirement <b>does</b> not <b>allow</b> one <b>to</b> simply park at bit 
+cacm-2546 : <b>definition</b> inference identification <b>in</b> the limit extensible <b>languages</b> 3.61 4.2 5.23 ca730202 
+cacm-2785 : extended <b>to</b> <b>allow</b> the <b>programmer</b> explicitly <b>to</b> specify the parallelism <b>of</b> his algorithm <b>in</b> terms <b>of</b> 64-word vectors <b>this</b> paper describes the characteristics 
+cacm-3142 : reaction <b>of</b> consumers <b>to</b> errors-to a failure <b>to</b> correct them what can 
+cacm-1703 : and reliable identification <b>of</b> programming <b>languages</b> and related services one 
+cacm-1262 : are suggested which <b>allow</b> a <b>programmer</b> writing <b>in</b> a procedure-oriented language <b>to</b> indicate sections <b>of</b> program which are <b>to</b> be executed <b>in</b> parallel the statements are 
+cacm-1379 : the difficulty lies <b>in</b> whether <b>to</b> attach the else <b>to</b> the first if <b>or</b> <b>to</b> the second one existing 
+cacm-1463 : the intent <b>of</b> <b>this</b> paper <b>to</b> expand and clarify the 
+cacm-3002 : model one <b>of</b> the main objectives <b>in</b> the design <b>of</b> a file system is 
+cacm-3006 : algorithms five <b>types</b> <b>of</b> anomalous behavior which may 
+cacm-1469 : a family <b>of</b> unimplemented computing <b>languages</b> is described <b>that</b> is intended <b>to</b> span differences <b>of</b> application area by a 
+cacm-1200 : is shown <b>that</b> using <b>this</b> concept a number <b>of</b> new subroutine <b>types</b> can be developed with 
+cacm-2178 : is <b>defined</b> graspe consists <b>of</b> a <b>type</b> <b>of</b> directed graph <b>data</b> structure and a set 
+cacm-2794 : viewing the two <b>types</b> <b>of</b> representations <b>in</b> <b>this</b> manner a representation <b>of</b> the language recognition problem 
+cacm-2558 : protection <b>in</b> programming <b>languages</b> linguistic mechanisms which can 
+cacm-1162 : from a symbolic <b>to</b> a numeric version <b>of</b> a program <b>that</b> is from assembly language 
+cacm-2941 : <b>types</b> and <b>type</b> coercions the benefits <b>of</b> the <b>type</b> system and why it 
+cacm-2940 : <b>abstract</b> <b>data</b> <b>types</b> <b>in</b> <b>this</b> paper the abstraction techniques 
+cacm-2264 : the action <b>of</b> the machine <b>in</b> executing a flowchart is 
+cacm-2265 : checking <b>this</b> paper attempts <b>to</b> isolate the notion <b>of</b> <b>type</b> checking and presents a 
+cacm-1678 : formal <b>languages</b> <b>abstract</b> switching and computability <b>that</b> <b>might</b> be available <b>to</b> a ph student <b>in</b> computer science a brief 
+cacm-2717 : <b>definition</b> language for <b>data</b> conversion <b>this</b> paper describes a high 
+cacm-1470 : the structure <b>of</b> programming <b>languages</b> the following are identified 
+cacm-2305 : features <b>that</b> are standard <b>in</b> todays programming <b>languages</b> the investigation is <b>of</b> historical interest also it 
+cacm-2876 : the process <b>of</b> user-database interaction <b>in</b> particular it appears <b>to</b> be necessary for the 
+cacm-1474 : <b>of</b> <b>this</b> paper is <b>to</b> give precise descriptions <b>of</b> certain probabilistic models for 
+cacm-1282 : enables the <b>programmer</b> <b>to</b> take advantage <b>of</b> the most useful properties 
+cacm-2651 : the treatment <b>of</b> <b>data</b> <b>types</b> <b>in</b> el1 <b>in</b> constructing a general purpose 
+cacm-2810 : a professional each <b>of</b> the four <b>types</b> <b>of</b> institutions-academic industry government and 
+cacm-1911 : analysis a class <b>of</b> coordination phenomena <b>in</b> natural <b>languages</b> is considered within the 
+cacm-1693 : special <b>types</b> <b>of</b> procedures new symbols underlined 
+cacm-2898 : <b>this</b> way will <b>allow</b> concurrent evaluation <b>this</b> paper describes a conceptual 
+cacm-2956 : some ideas on <b>data</b> <b>types</b> <b>in</b> high-level <b>languages</b> a number <b>of</b> issues are explored concerning 
+cacm-2957 : <b>data</b> abstraction relational database <b>data</b> <b>type</b> aggregation database design <b>data</b> structure knowledge representation <b>data</b> <b>definition</b> language 3.65 3.69 3.79 
+cacm-2958 : <b>abstract</b> <b>data</b> <b>types</b> and the development <b>of</b> <b>data</b> structures <b>abstract</b> <b>data</b> <b>types</b> can play a significant 
+cacm-1112 : over 95 percent <b>of</b> these error <b>types</b> cacm march 1964 damerau 
+cacm-2082 : program 2 <b>to</b> use the syntactic <b>types</b> and identifiers <b>in</b> the resulting structure <b>to</b> trigger the automatic formation 
+cacm-2252 : <b>in</b> the sense <b>that</b> recompilation <b>of</b> modified lines <b>does</b> not occur until the 
+cacm-2081 : <b>operators</b> areext ended <b>to</b> sequence <b>operators</b> and cumulative <b>operators</b> algorithms are given which 
+cacm-0527 : property is <b>defined</b> <b>to</b> <b>mean</b> a partition <b>of</b> the set <b>of</b> all objects into disjoint 
+cacm-2527 : detects many <b>types</b> <b>of</b> <b>programmer</b> errors cacm april 1973 
+cacm-2254 : <b>in</b> sufficient detail <b>to</b> be <b>of</b> value <b>in</b> the design <b>of</b> other array <b>languages</b> the description presented <b>in</b> <b>this</b> paper is implemented <b>in</b> a new array language 
+cacm-2723 : aim throughout is <b>to</b> <b>allow</b> the list processor <b>to</b> run unimpeded while the 
+cacm-2722 : advantage <b>of</b> <b>this</b> structure is <b>that</b> a single <b>data</b> structure can handle many 
+cacm-2152 : present a number <b>of</b> problems which tend <b>to</b> <b>restrict</b> their generality and usefulness 
+cacm-0630 : an evaluation <b>of</b> autocode readability <b>of</b> the many requirements <b>of</b> an autocode the pair 
+cacm-1602 : equation form <b>to</b> computer instruction <b>in</b> <b>this</b> way the pose language 
+cacm-2314 : feels are important <b>to</b> improve the productivity <b>of</b> programmers working <b>in</b> such domains a system 
+cacm-2002 : and are independent <b>of</b> the axis systems <b>or</b> other attributes <b>of</b> the plot <b>this</b> enables plots <b>of</b> any complexity <b>to</b> be constructed by adding 

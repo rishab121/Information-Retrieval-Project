@@ -1,100 +1,100 @@
-cacm-1795 : fateman r j <b>code</b> optimization sequencing <b>of</b> operations detection <b>of</b> common subexpressions 4.12 ca691217 
-cacm-1655 : 1968 standard <b>code</b> <b>code</b> information interchange characters shift 
-cacm-3020 : knuths sturdy toddler <b>and</b> to obtain measurements <b>of</b> the cost <b>of</b> procedure linkage in pl/i 
-cacm-1029 : evaluation <b>of</b> total/partial derivatives <b>of</b> arbitrary algebraic functions is 
-cacm-1392 : various facets <b>of</b> the design <b>and</b> implementation <b>of</b> mathematical expression manipulation algorithms 
-cacm-1676 : possesses a number <b>of</b> different computers <b>and</b> which frequently acquires new 
-cacm-2944 : <b>code</b> is executed <b>and</b> those that can be 
-cacm-3130 : <b>of</b> elementary level topics <b>and</b> courses <b>and</b> <b>intermediate</b> level courses elective courses 
-cacm-2877 : data structure <b>and</b> handles reducible <b>and</b> irreducible graphs indistinguishably cacm 
-cacm-2253 : a by-product <b>of</b> the symbolic manipulation <b>of</b> expressions in the matrix 
-cacm-2570 : <b>and</b> that the b-schedule <b>of</b> coffman <b>and</b> graham is near-optimal a 
-cacm-2233 : tode <b>code</b> them vast armies <b>of</b> fortune hunters <b>and</b> treasure seekers have devoted 
-cacm-0066 : card <b>code</b> for 256 characters cacm 
-cacm-2290 : immediate predominators in a 
-cacm-0104 : digital simulation <b>of</b> discrete flow systems the 
-cacm-3018 : to the problem <b>of</b> covering the edges <b>of</b> a graph by complete 
-cacm-1016 : formats for positioning <b>and</b> straight cut rs-273 <b>and</b> contouring <b>and</b> contouring/positioning rs-274 numerically controlled 
-cacm-2835 : the detection <b>of</b> recursive use <b>of</b> procedures is presented for 
-cacm-2871 : diagnosis <b>and</b> correction <b>of</b> logical errors cacm april 
-cacm-1154 : a finite-state <b>machine</b> <b>and</b> then performing any or 
-cacm-2611 : the complex method for 
-cacm-1665 : <b>of</b> the theory <b>of</b> finite-state automata to automatically 
-cacm-1195 : uplifts-university <b>of</b> pittsburgh linear file tandem 
-cacm-2433 : means <b>of</b> expressing data <b>and</b> control structures suitable for 
-cacm-2053 : are simplicity <b>of</b> implementation <b>and</b> detection <b>of</b> ambiguities at execution time 
-cacm-2133 : algorithm for the assignment 
-cacm-3115 : examples <b>of</b> complete enumeration <b>of</b> all 2 x 2 
-cacm-2495 : adapting optimal <b>code</b> generation for arithmetic expressions 
-cacm-1992 : method for hash <b>code</b> searching cacm september 1970 
 cacm-2801 : <b>code</b> by simple removal <b>of</b> redundant 0 bits a 
-cacm-2953 : methods <b>of</b> recursion elimination are applied 
-cacm-2138 : relevant hardware features <b>of</b> the host <b>machine</b> <b>and</b> to provide a rational 
-cacm-1542 : processing <b>of</b> interpretive <b>code</b> the structure <b>and</b> content <b>of</b> a higher level language 
-cacm-2979 : make deductive <b>and</b> inductive inferences <b>and</b> form <b>and</b> optimize heuristic rules <b>and</b> how machines can reach 
-cacm-1350 : yi are <b>intermediate</b> symbols <b>and</b> c a terminal symbol 
-cacm-3066 : in terms <b>of</b> errors found <b>and</b> cost employed pairs <b>of</b> subjects who tested the 
-cacm-1652 : <b>and</b> text editing this <b>code</b> called ipc information processing 
-cacm-2964 : <b>of</b> storage parameters in databases 
-cacm-2897 : <b>code</b> into lower level <b>code</b> by a sequence <b>of</b> steps each step expands 
-cacm-3080 : start <b>of</b> the program <b>and</b> the detection <b>and</b> pinpointing <b>of</b> a wide class <b>of</b> errors in the low 
-cacm-2321 : interfaces by means <b>of</b> which computers <b>and</b> digital terminals connect to 
-cacm-2858 : the assignment <b>of</b> instruction addresses <b>and</b> formats under the following 
-cacm-2195 : the structure <b>of</b> the figure <b>of</b> merit <b>and</b> the complexity <b>of</b> the optimization process is 
-cacm-2929 : the size <b>of</b> compiled <b>code</b> <b>and</b> a small savings in 
-cacm-2464 : the complex method for 
-cacm-2716 : optimizing the performance <b>of</b> a relational algebra database 
-cacm-1402 : or adams-bashforth method <b>of</b> integration <b>of</b> differential equations this method 
 cacm-1134 : language <b>and</b> methods <b>of</b> manipulating it compilations <b>of</b> a series <b>of</b> arithmetic statements are discussed 
-cacm-2079 : on multiprogramming <b>machine</b> coding <b>and</b> computer organization cacm april 
-cacm-1947 : expression elimination <b>and</b> loop identification implementation <b>of</b> these <b>and</b> other optimizations in os/360 
-cacm-2491 : to <b>machine</b> language <b>code</b> hardware <b>and</b> software realizations <b>of</b> it are given in 
-cacm-0048 : the properties <b>and</b> application <b>of</b> the <b>code</b> in some detail <b>and</b> the finding <b>of</b> the particular example to 
-cacm-1289 : proposed revised american standard 
-cacm-2904 : <b>of</b> compiled <b>code</b> program analysis operator strength 
-cacm-1231 : stage <b>of</b> compilation by using a 
-cacm-2411 : programs semantics <b>of</b> programming languages structured programming 
-cacm-1389 : closer to <b>machine</b> <b>code</b> in order to write 
-cacm-1187 : note on an ascii-octal 
-cacm-0230 : a proposal for character 
-cacm-1719 : industry <b>of</b> the criteria for <b>and</b> methods <b>of</b> calculating <b>and</b> optimizing data processing system 
-cacm-1275 : <b>code</b> structures for protection <b>and</b> manipulation <b>of</b> variable length items corrigendum 
-cacm-2748 : to bells notion <b>of</b> threaded <b>code</b> but requires less space 
-cacm-0123 : countess program generated <b>machine</b> <b>code</b> for the control data 
-cacm-2699 : from above <b>and</b> below <b>and</b> the single-valuedness <b>of</b> tabulated mappings to be 
+cacm-2433 : means <b>of</b> expressing data <b>and</b> control structures suitable for 
+cacm-2929 : the size <b>of</b> compiled <b>code</b> <b>and</b> a small savings in 
+cacm-2533 : gray <b>code</b> <b>and</b> the + sign sequence 
 cacm-1757 : data <b>code</b> for calendar date for 
-cacm-1807 : a linear analysis <b>of</b> the definition points <b>of</b> the variables <b>and</b> the branching <b>and</b> do loop structure <b>of</b> the program the objectives 
 cacm-1756 : hollerith punched card <b>code</b> proposed usa standard cacm 
-cacm-1062 : subroutines a set <b>of</b> subroutines for use in 
-cacm-1414 : twelve-row punched-card <b>code</b> for information interchange proposed 
+cacm-1029 : evaluation <b>of</b> total/partial derivatives <b>of</b> arbitrary algebraic functions is 
+cacm-1992 : method for hash <b>code</b> searching cacm september 1970 
+cacm-3130 : <b>of</b> elementary level topics <b>and</b> courses <b>and</b> <b>intermediate</b> level courses elective courses 
+cacm-2716 : optimizing the performance <b>of</b> a relational algebra database 
+cacm-2321 : interfaces by means <b>of</b> which computers <b>and</b> digital terminals connect to 
+cacm-0230 : a proposal for character 
+cacm-2491 : to <b>machine</b> language <b>code</b> hardware <b>and</b> software realizations <b>of</b> it are given in 
+cacm-2836 : <b>of</b> a weighted derivation tree 
+cacm-2835 : the detection <b>of</b> recursive use <b>of</b> procedures is presented for 
+cacm-2834 : reflected gray <b>code</b> <b>and</b> codewords <b>of</b> fixed weight in that 
+cacm-0104 : digital simulation <b>of</b> discrete flow systems the 
+cacm-2423 : words <b>of</b> 60-bit core memory <b>of</b> which 140 words are 
+cacm-0797 : american standard <b>code</b> for information interchange cacm 
+cacm-2138 : relevant hardware features <b>of</b> the host <b>machine</b> <b>and</b> to provide a rational 
+cacm-2134 : an extension <b>of</b> the munkres algorithm for 
+cacm-1231 : stage <b>of</b> compilation by using a 
+cacm-2748 : to bells notion <b>of</b> threaded <b>code</b> but requires less space 
+cacm-2233 : tode <b>code</b> them vast armies <b>of</b> fortune hunters <b>and</b> treasure seekers have devoted 
+cacm-1331 : <b>code</b> structures for protection <b>and</b> manipulation <b>of</b> variable-length items when items 
+cacm-3125 : redundant computations <b>and</b> the moving <b>of</b> invariant computations out <b>of</b> loops are often done 
+cacm-1807 : a linear analysis <b>of</b> the definition points <b>of</b> the variables <b>and</b> the branching <b>and</b> do loop structure <b>of</b> the program the objectives 
+cacm-2904 : <b>of</b> compiled <b>code</b> program analysis operator strength 
+cacm-2699 : from above <b>and</b> below <b>and</b> the single-valuedness <b>of</b> tabulated mappings to be 
+cacm-2344 : the size <b>of</b> the store <b>and</b> the speed <b>of</b> the cpu a comparison 
+cacm-3054 : <b>of</b> algorithms <b>code</b> optimization sorting 4.0 4.6 
 cacm-2616 : <b>and</b> objectives the problems <b>of</b> converting programs to decision 
+cacm-0252 : <b>and</b> continually cross-check the <b>intermediate</b> <b>and</b> final results cacm november 
+cacm-3115 : examples <b>of</b> complete enumeration <b>of</b> all 2 x 2 
+cacm-1523 : <b>of</b> the <b>code</b> being written in fortran 
+cacm-2053 : are simplicity <b>of</b> implementation <b>and</b> detection <b>of</b> ambiguities at execution time 
+cacm-3005 : implications <b>of</b> structured programming for <b>machine</b> architecture based on an 
+cacm-1795 : fateman r j <b>code</b> optimization sequencing <b>of</b> operations detection <b>of</b> common subexpressions 4.12 ca691217 
+cacm-1392 : various facets <b>of</b> the design <b>and</b> implementation <b>of</b> mathematical expression manipulation algorithms 
+cacm-2680 : <b>and</b> reducing the number <b>of</b> mounts thus decreases turnaround 
+cacm-3171 : diagnostic messages abstract <b>machine</b> <b>code</b> 4.12 4.13 4.20 4.42 
+cacm-1016 : formats for positioning <b>and</b> straight cut rs-273 <b>and</b> contouring <b>and</b> contouring/positioning rs-274 numerically controlled 
+cacm-1402 : or adams-bashforth method <b>of</b> integration <b>of</b> differential equations this method 
+cacm-2964 : <b>of</b> storage parameters in databases 
+cacm-1154 : a finite-state <b>machine</b> <b>and</b> then performing any or 
+cacm-1223 : high speed compilation <b>of</b> efficient object <b>code</b> a three-pass compiler with 
+cacm-1726 : <b>of</b> the various regions <b>of</b> the page for guiding 
+cacm-2195 : the structure <b>of</b> the figure <b>of</b> merit <b>and</b> the complexity <b>of</b> the optimization process is 
+cacm-0066 : card <b>code</b> for 256 characters cacm 
+cacm-1783 : in another base <b>and</b> then converted back to 
+cacm-3080 : start <b>of</b> the program <b>and</b> the detection <b>and</b> pinpointing <b>of</b> a wide class <b>of</b> errors in the low 
+cacm-1947 : expression elimination <b>and</b> loop identification implementation <b>of</b> these <b>and</b> other optimizations in os/360 
 cacm-1387 : solution <b>of</b> systems <b>of</b> polynomial equations by elimination 
 cacm-1064 : perforated tape <b>code</b> for information interchange proposed 
-cacm-2527 : implementation <b>of</b> high level language <b>machine</b> computing machines which directly 
-cacm-0797 : american standard <b>code</b> for information interchange cacm 
-cacm-2680 : <b>and</b> reducing the number <b>of</b> mounts thus decreases turnaround 
-cacm-1564 : using queueing techniques <b>and</b> extensive indexing <b>and</b> also by outputting the 
-cacm-2834 : reflected gray <b>code</b> <b>and</b> codewords <b>of</b> fixed weight in that 
-cacm-2701 : larger classes <b>of</b> function spaces <b>and</b> graphs by relaxing the 
-cacm-1523 : <b>of</b> the <b>code</b> being written in fortran 
-cacm-1886 : <b>code</b> optimization sequencing <b>of</b> operations detection <b>of</b> common subexpressions factorization <b>of</b> boolean expressions 4.12 6.1 
-cacm-0195 : what is a <b>code</b> cacm may 1960 patterson 
-cacm-3054 : <b>of</b> algorithms <b>code</b> optimization sorting 4.0 4.6 
-cacm-3125 : redundant computations <b>and</b> the moving <b>of</b> invariant computations out <b>of</b> loops are often done 
-cacm-3171 : diagnostic messages abstract <b>machine</b> <b>code</b> 4.12 4.13 4.20 4.42 
-cacm-1223 : high speed compilation <b>of</b> efficient object <b>code</b> a three-pass compiler with 
-cacm-2134 : an extension <b>of</b> the munkres algorithm for 
-cacm-2344 : the size <b>of</b> the store <b>and</b> the speed <b>of</b> the cpu a comparison 
-cacm-1362 : principle <b>of</b> <b>code</b> extension that is with 
 cacm-1066 : growing applications <b>of</b> linear programming use <b>of</b> linear programming models has 
+cacm-1389 : closer to <b>machine</b> <b>code</b> in order to write 
+cacm-2570 : <b>and</b> that the b-schedule <b>of</b> coffman <b>and</b> graham is near-optimal a 
+cacm-1062 : subroutines a set <b>of</b> subroutines for use in 
+cacm-1414 : twelve-row punched-card <b>code</b> for information interchange proposed 
+cacm-2079 : on multiprogramming <b>machine</b> coding <b>and</b> computer organization cacm april 
 cacm-1658 : is summarized the <b>machine</b> time <b>and</b> storage requirements <b>of</b> several <b>of</b> the algorithms are compared 
-cacm-0252 : <b>and</b> continually cross-check the <b>intermediate</b> <b>and</b> final results cacm november 
-cacm-2836 : <b>of</b> a weighted derivation tree 
-cacm-1726 : <b>of</b> the various regions <b>of</b> the page for guiding 
-cacm-2533 : gray <b>code</b> <b>and</b> the + sign sequence 
-cacm-2423 : words <b>of</b> 60-bit core memory <b>of</b> which 140 words are 
-cacm-2812 : consists <b>of</b> a set <b>of</b> procedures <b>and</b> computer programs specifically designed 
-cacm-1331 : <b>code</b> structures for protection <b>and</b> manipulation <b>of</b> variable-length items when items 
-cacm-3005 : implications <b>of</b> structured programming for <b>machine</b> architecture based on an 
-cacm-1783 : in another base <b>and</b> then converted back to 
+cacm-1187 : note on an ascii-octal 
+cacm-1655 : 1968 standard <b>code</b> <b>code</b> information interchange characters shift 
+cacm-1652 : <b>and</b> text editing this <b>code</b> called ipc information processing 
+cacm-1542 : processing <b>of</b> interpretive <b>code</b> the structure <b>and</b> content <b>of</b> a higher level language 
+cacm-2858 : the assignment <b>of</b> instruction addresses <b>and</b> formats under the following 
+cacm-1719 : industry <b>of</b> the criteria for <b>and</b> methods <b>of</b> calculating <b>and</b> optimizing data processing system 
+cacm-2979 : make deductive <b>and</b> inductive inferences <b>and</b> form <b>and</b> optimize heuristic rules <b>and</b> how machines can reach 
+cacm-2290 : immediate predominators in a 
+cacm-2464 : the complex method for 
+cacm-3066 : in terms <b>of</b> errors found <b>and</b> cost employed pairs <b>of</b> subjects who tested the 
+cacm-1665 : <b>of</b> the theory <b>of</b> finite-state automata to automatically 
+cacm-2701 : larger classes <b>of</b> function spaces <b>and</b> graphs by relaxing the 
+cacm-1275 : <b>code</b> structures for protection <b>and</b> manipulation <b>of</b> variable length items corrigendum 
+cacm-0123 : countess program generated <b>machine</b> <b>code</b> for the control data 
+cacm-1289 : proposed revised american standard 
+cacm-2944 : <b>code</b> is executed <b>and</b> those that can be 
+cacm-2411 : programs semantics <b>of</b> programming languages structured programming 
+cacm-1676 : possesses a number <b>of</b> different computers <b>and</b> which frequently acquires new 
+cacm-1886 : <b>code</b> optimization sequencing <b>of</b> operations detection <b>of</b> common subexpressions factorization <b>of</b> boolean expressions 4.12 6.1 
+cacm-1564 : using queueing techniques <b>and</b> extensive indexing <b>and</b> also by outputting the 
+cacm-2495 : adapting optimal <b>code</b> generation for arithmetic expressions 
 cacm-1204 : character structure <b>and</b> character parity sense for 
+cacm-2871 : diagnosis <b>and</b> correction <b>of</b> logical errors cacm april 
+cacm-2877 : data structure <b>and</b> handles reducible <b>and</b> irreducible graphs indistinguishably cacm 
+cacm-0195 : what is a <b>code</b> cacm may 1960 patterson 
+cacm-1362 : principle <b>of</b> <b>code</b> extension that is with 
+cacm-3018 : to the problem <b>of</b> covering the edges <b>of</b> a graph by complete 
+cacm-2133 : algorithm for the assignment 
+cacm-2812 : consists <b>of</b> a set <b>of</b> procedures <b>and</b> computer programs specifically designed 
+cacm-2953 : methods <b>of</b> recursion elimination are applied 
+cacm-2897 : <b>code</b> into lower level <b>code</b> by a sequence <b>of</b> steps each step expands 
+cacm-2253 : a by-product <b>of</b> the symbolic manipulation <b>of</b> expressions in the matrix 
+cacm-2527 : implementation <b>of</b> high level language <b>machine</b> computing machines which directly 
+cacm-1195 : uplifts-university <b>of</b> pittsburgh linear file tandem 
+cacm-0048 : the properties <b>and</b> application <b>of</b> the <b>code</b> in some detail <b>and</b> the finding <b>of</b> the particular example to 
+cacm-3020 : knuths sturdy toddler <b>and</b> to obtain measurements <b>of</b> the cost <b>of</b> procedure linkage in pl/i 
+cacm-2611 : the complex method for 
+cacm-1350 : yi are <b>intermediate</b> symbols <b>and</b> c a terminal symbol 

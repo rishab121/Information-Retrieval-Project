@@ -1,100 +1,100 @@
-cacm-1795 : optimal <b>code</b> <b>for</b> serial and parallel computation 
-cacm-1655 : <b>code</b> extension procedures <b>for</b> information interchange proposed usa 
-cacm-1275 : <b>code</b> structures <b>for</b> protection and manipulation of 
-cacm-3134 : tables <b>for</b> information storage and retrieval 
-cacm-2944 : the <b>code</b> is executed and those 
-cacm-2230 : a language <b>for</b> treating geometric patterns in 
-cacm-0117 : <b>efficiency</b> of two internal sorting 
-cacm-1352 : methods <b>for</b> automatic numerical integration are 
-cacm-2253 : generate <b>code</b> <b>for</b> handling the tedious address 
-cacm-0149 : a decision rule <b>for</b> improved <b>efficiency</b> in solving linear programming 
-cacm-2645 : two languages <b>for</b> estimating program <b>efficiency</b> two languages enabling their 
-cacm-2078 : representations <b>for</b> <b>space</b> planning problems involving the 
-cacm-2745 : a linear <b>space</b> algorithm <b>for</b> computing maximal common subsequences 
-cacm-0066 : a proposal <b>for</b> a generalized card <b>code</b> <b>for</b> 256 characters cacm september 
-cacm-1235 : a limited storage <b>space</b> about half of the 
-cacm-2722 : <b>for</b> associative searching this paper 
-cacm-2611 : the complex method <b>for</b> constrained <b>optimization</b> algorithm r454 cacm august 
-cacm-2835 : recursion analysis <b>for</b> compiler <b>optimization</b> a relatively simple method 
-cacm-0794 : <b>space</b> and time is proposed 
-cacm-1429 : method <b>for</b> the generation of school 
-cacm-3129 : <b>for</b> best allocating storage <b>space</b> to the files cacm 
-cacm-3018 : a method <b>for</b> determining keyword conflicts and 
-cacm-1564 : <b>for</b> the conversion of decision 
-cacm-1270 : are presented <b>for</b> the computer evaluation of 
-cacm-1807 : <b>optimization</b> of expressions in fortran 
-cacm-2433 : structures suitable <b>for</b> exploiting illiac iv parallelism 
-cacm-1289 : <b>for</b> information interchange cacm april 
-cacm-2133 : algorithm <b>for</b> the assignment problem rectangular 
-cacm-2495 : adapting optimal <b>code</b> generation <b>for</b> arithmetic expressions to the 
-cacm-1992 : method <b>for</b> hash <b>code</b> searching cacm september 1970 
-cacm-2950 : a criterion <b>for</b> the implementation <b>efficiency</b> of an algorithm is 
-cacm-2499 : to be unfair <b>for</b> example by holding an 
-cacm-0164 : <b>efficiency</b> cacm august 1960 smith 
-cacm-2856 : is selected <b>for</b> testing and two smaller 
-cacm-2559 : when the <b>space</b> allocation <b>for</b> a hash-coded table is 
-cacm-1542 : <b>space</b> required and compiler and 
-cacm-1071 : computer-usage accounting <b>for</b> generalized time-sharing systems the 
-cacm-3053 : <b>for</b> open addressing benefit from 
-cacm-2498 : minimizing wasted <b>space</b> in partitioned segmentation a 
-cacm-1651 : article an input <b>code</b> is presented which greatly 
-cacm-2929 : <b>for</b> a structured programming language 
-cacm-1064 : perforated tape <b>code</b> <b>for</b> information interchange proposed american 
-cacm-1195 : the output <b>for</b> <b>optimization</b> of processing on the 
-cacm-2365 : paging the <b>efficiency</b> of conventional fortran programs 
-cacm-2858 : a process <b>for</b> the determination of addresses 
-cacm-1523 : a simple scheme <b>for</b> system extension <b>for</b> a machine with only 
-cacm-3083 : the table the <b>efficiency</b> of the method is 
-cacm-1969 : increasing the <b>efficiency</b> of quicksort algorithm 402 
-cacm-2015 : a technique <b>for</b> generating almost optimal floyd-evans 
-cacm-1065 : standard <b>code</b> <b>for</b> information interchange ascii in 
-cacm-2716 : approach <b>for</b> implementing a smart interface 
-cacm-1947 : object <b>code</b> <b>optimization</b> methods of analyzing the 
-cacm-2491 : interpreter machine <b>code</b> time tradeoff <b>space</b> tradeoff compiled <b>code</b> subroutine calls threaded <b>code</b> 4.12 4.13 6.33 ca730609 
 cacm-1901 : <b>efficiency</b> in computer systems is 
-cacm-0048 : correcting <b>code</b> minimum-distance-three <b>code</b> with 64 10-bit <b>code</b> words to be employed 
-cacm-2904 : j compilers <b>optimization</b> of compiled <b>code</b> program analysis operator strength 
-cacm-1066 : concept <b>for</b> organizing a computer <b>code</b> has undergone a radical 
-cacm-0267 : some proposals <b>for</b> improving the <b>efficiency</b> of algol 60 cacm 
-cacm-2508 : increasing the <b>efficiency</b> of quicksort algorithm r402 
-cacm-1231 : peephole <b>optimization</b> redundant instructions may be 
-cacm-1030 : techniques <b>for</b> the simulation of computer 
-cacm-2134 : algorithm <b>for</b> the assignment problem to 
-cacm-2262 : a growing demand <b>for</b> <b>space</b> during program execution this 
-cacm-1708 : levels of storage <b>for</b> programs is explored in 
-cacm-2748 : indirect threaded <b>code</b> an efficient arrangement <b>for</b> interpretive <b>code</b> is described it is 
-cacm-3080 : optimized <b>code</b> a system <b>for</b> proving that programs written 
+cacm-0149 : a decision rule <b>for</b> improved <b>efficiency</b> in solving linear programming 
+cacm-3053 : <b>for</b> open addressing benefit from 
+cacm-2433 : structures suitable <b>for</b> exploiting illiac iv parallelism 
+cacm-2929 : <b>for</b> a structured programming language 
+cacm-2495 : adapting optimal <b>code</b> generation <b>for</b> arithmetic expressions to the 
 cacm-1757 : data <b>code</b> <b>for</b> calendar date <b>for</b> machine-to-machine data interchange proposed 
-cacm-2586 : adapting optimal <b>code</b> generation <b>for</b> arithmetic expressions to the 
 cacm-2537 : storage a method <b>for</b> saving storage <b>space</b> <b>for</b> text strings such as 
-cacm-2964 : an approach to optimal 
-cacm-2616 : <b>optimization</b> in practice extensions to 
-cacm-2892 : then the line <b>efficiency</b> <b>for</b> various models of system 
-cacm-2711 : a vector <b>space</b> model <b>for</b> automatic indexing in a 
-cacm-1369 : <b>space</b> an iterative procedure is 
-cacm-0797 : american standard <b>code</b> <b>for</b> information interchange cacm august 
-cacm-2680 : optimal <b>space</b> allocation on disk storage 
-cacm-2701 : data flow <b>code</b> <b>optimization</b> common subexpression elimination live-dead 
-cacm-1414 : twelve-row punched-card <b>code</b> <b>for</b> information interchange proposed american 
-cacm-1886 : presented <b>for</b> increasing the <b>efficiency</b> of the object <b>code</b> produced by first factoring 
-cacm-3005 : <b>for</b> structured programs is proposed 
-cacm-2734 : effect on allocation <b>efficiency</b> <b>for</b> exponential and hyperexponential distributions 
-cacm-1226 : <b>for</b> the data within the 
-cacm-3054 : <b>code</b> <b>optimization</b> sorting 4.0 4.6 5.25 
-cacm-3171 : technique is described <b>for</b> run-time line number administration 
-cacm-2000 : method <b>for</b> the solution of two-point 
 cacm-1223 : object <b>code</b> a three-pass compiler with 
+cacm-2126 : with respect to <b>efficiency</b> flexibility and utility <b>for</b> different categories of users 
+cacm-1226 : <b>for</b> the data within the 
+cacm-1992 : method <b>for</b> hash <b>code</b> searching cacm september 1970 
+cacm-3134 : tables <b>for</b> information storage and retrieval 
 cacm-0230 : a proposal <b>for</b> character <b>code</b> compatibility cacm february 1960 
-cacm-2897 : new <b>code</b> generation technique <b>for</b> compilers recent developments in 
-cacm-2464 : the complex method <b>for</b> constrained <b>optimization</b> e4 algorithm a454 cacm 
-cacm-1362 : international 7-bit <b>code</b> <b>for</b> information interchange cacm october 
-cacm-1234 : <b>for</b> expressions which minimizes stores 
-cacm-2374 : <b>for</b> use in multiprogramming systems 
 cacm-2033 : area <b>space</b> the time required to 
 cacm-2836 : presented <b>for</b> constructing the optimal derivation 
+cacm-2835 : recursion analysis <b>for</b> compiler <b>optimization</b> a relatively simple method 
 cacm-2423 : a parser-generating system <b>for</b> constructing compressed compilers this 
-cacm-2812 : <b>for</b> the design and development 
+cacm-0794 : <b>space</b> and time is proposed 
+cacm-0797 : american standard <b>code</b> <b>for</b> information interchange cacm august 
+cacm-1030 : techniques <b>for</b> the simulation of computer 
+cacm-1429 : method <b>for</b> the generation of school 
+cacm-1234 : <b>for</b> expressions which minimizes stores 
+cacm-2499 : to be unfair <b>for</b> example by holding an 
+cacm-2134 : algorithm <b>for</b> the assignment problem to 
+cacm-1231 : peephole <b>optimization</b> redundant instructions may be 
+cacm-2508 : increasing the <b>efficiency</b> of quicksort algorithm r402 
+cacm-2230 : a language <b>for</b> treating geometric patterns in 
 cacm-1331 : <b>code</b> structures <b>for</b> protection and manipulation of 
-cacm-2126 : with respect to <b>efficiency</b> flexibility and utility <b>for</b> different categories of users 
-cacm-2524 : the key <b>space</b> is suitably defined three 
+cacm-1235 : a limited storage <b>space</b> about half of the 
+cacm-2586 : adapting optimal <b>code</b> generation <b>for</b> arithmetic expressions to the 
+cacm-3129 : <b>for</b> best allocating storage <b>space</b> to the files cacm 
+cacm-2745 : a linear <b>space</b> algorithm <b>for</b> computing maximal common subsequences 
+cacm-1807 : <b>optimization</b> of expressions in fortran 
+cacm-2904 : j compilers <b>optimization</b> of compiled <b>code</b> program analysis operator strength 
+cacm-2374 : <b>for</b> use in multiprogramming systems 
+cacm-2748 : indirect threaded <b>code</b> an efficient arrangement <b>for</b> interpretive <b>code</b> is described it is 
+cacm-3054 : <b>code</b> <b>optimization</b> sorting 4.0 4.6 5.25 
+cacm-2616 : <b>optimization</b> in practice extensions to 
+cacm-1523 : a simple scheme <b>for</b> system extension <b>for</b> a machine with only 
+cacm-2701 : data flow <b>code</b> <b>optimization</b> common subexpression elimination live-dead 
+cacm-1795 : optimal <b>code</b> <b>for</b> serial and parallel computation 
+cacm-2680 : optimal <b>space</b> allocation on disk storage 
+cacm-1886 : presented <b>for</b> increasing the <b>efficiency</b> of the object <b>code</b> produced by first factoring 
+cacm-0164 : <b>efficiency</b> cacm august 1960 smith 
+cacm-0066 : a proposal <b>for</b> a generalized card <b>code</b> <b>for</b> 256 characters cacm september 
+cacm-3080 : optimized <b>code</b> a system <b>for</b> proving that programs written 
+cacm-3083 : the table the <b>efficiency</b> of the method is 
+cacm-1947 : object <b>code</b> <b>optimization</b> methods of analyzing the 
+cacm-1065 : standard <b>code</b> <b>for</b> information interchange ascii in 
+cacm-1064 : perforated tape <b>code</b> <b>for</b> information interchange proposed american 
+cacm-1066 : concept <b>for</b> organizing a computer <b>code</b> has undergone a radical 
+cacm-2964 : an approach to optimal 
+cacm-1414 : twelve-row punched-card <b>code</b> <b>for</b> information interchange proposed american 
+cacm-2078 : representations <b>for</b> <b>space</b> planning problems involving the 
+cacm-2365 : paging the <b>efficiency</b> of conventional fortran programs 
+cacm-1655 : <b>code</b> extension procedures <b>for</b> information interchange proposed usa 
+cacm-3171 : technique is described <b>for</b> run-time line number administration 
+cacm-1651 : article an input <b>code</b> is presented which greatly 
+cacm-1542 : <b>space</b> required and compiler and 
+cacm-2858 : a process <b>for</b> the determination of addresses 
+cacm-2856 : is selected <b>for</b> testing and two smaller 
+cacm-0117 : <b>efficiency</b> of two internal sorting 
+cacm-2464 : the complex method <b>for</b> constrained <b>optimization</b> e4 algorithm a454 cacm 
+cacm-1071 : computer-usage accounting <b>for</b> generalized time-sharing systems the 
+cacm-1708 : levels of storage <b>for</b> programs is explored in 
+cacm-0267 : some proposals <b>for</b> improving the <b>efficiency</b> of algol 60 cacm 
+cacm-2611 : the complex method <b>for</b> constrained <b>optimization</b> algorithm r454 cacm august 
+cacm-1270 : are presented <b>for</b> the computer evaluation of 
+cacm-3005 : <b>for</b> structured programs is proposed 
+cacm-1275 : <b>code</b> structures <b>for</b> protection and manipulation of 
+cacm-2734 : effect on allocation <b>efficiency</b> <b>for</b> exponential and hyperexponential distributions 
+cacm-1969 : increasing the <b>efficiency</b> of quicksort algorithm 402 
+cacm-1289 : <b>for</b> information interchange cacm april 
+cacm-2944 : the <b>code</b> is executed and those 
+cacm-2559 : when the <b>space</b> allocation <b>for</b> a hash-coded table is 
+cacm-1564 : <b>for</b> the conversion of decision 
+cacm-2262 : a growing demand <b>for</b> <b>space</b> during program execution this 
+cacm-2716 : approach <b>for</b> implementing a smart interface 
 cacm-1204 : american standard <b>code</b> <b>for</b> information interchange proposed american 
+cacm-1369 : <b>space</b> an iterative procedure is 
+cacm-2491 : interpreter machine <b>code</b> time tradeoff <b>space</b> tradeoff compiled <b>code</b> subroutine calls threaded <b>code</b> 4.12 4.13 6.33 ca730609 
+cacm-2711 : a vector <b>space</b> model <b>for</b> automatic indexing in a 
+cacm-1362 : international 7-bit <b>code</b> <b>for</b> information interchange cacm october 
+cacm-3018 : a method <b>for</b> determining keyword conflicts and 
+cacm-2015 : a technique <b>for</b> generating almost optimal floyd-evans 
+cacm-2498 : minimizing wasted <b>space</b> in partitioned segmentation a 
+cacm-2133 : algorithm <b>for</b> the assignment problem rectangular 
+cacm-2812 : <b>for</b> the design and development 
+cacm-2950 : a criterion <b>for</b> the implementation <b>efficiency</b> of an algorithm is 
+cacm-2892 : then the line <b>efficiency</b> <b>for</b> various models of system 
+cacm-2897 : new <b>code</b> generation technique <b>for</b> compilers recent developments in 
+cacm-2253 : generate <b>code</b> <b>for</b> handling the tedious address 
+cacm-2524 : the key <b>space</b> is suitably defined three 
+cacm-2722 : <b>for</b> associative searching this paper 
+cacm-1195 : the output <b>for</b> <b>optimization</b> of processing on the 
+cacm-0048 : correcting <b>code</b> minimum-distance-three <b>code</b> with 64 10-bit <b>code</b> words to be employed 
+cacm-2645 : two languages <b>for</b> estimating program <b>efficiency</b> two languages enabling their 
+cacm-2000 : method <b>for</b> the solution of two-point 
+cacm-1352 : methods <b>for</b> automatic numerical integration are 

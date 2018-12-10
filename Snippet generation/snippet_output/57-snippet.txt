@@ -1,100 +1,100 @@
-cacm-1852 : used as <b>the</b> base <b>of</b> an implementation by bootstrapping 
-cacm-2097 : mit <b>to</b> ease <b>the</b> cost <b>and</b> improve <b>the</b> results <b>of</b> elementary instruction in <b>programming</b> <b>to</b> <b>the</b> student teach offers loosely 
-cacm-0942 : <b>to</b> perform these <b>the</b> main purpose <b>of</b> this note is <b>to</b> describe these subroutines but 
-cacm-1891 : computer calculates <b>the</b> projected video images <b>of</b> an object viewed <b>from</b> two separate points <b>the</b> resulting video maps are 
-cacm-1029 : for <b>the</b> derivatives <b>the</b> key <b>to</b> <b>the</b> method is <b>the</b> decomposition <b>of</b> <b>the</b> given function by introduction 
-cacm-1676 : a number <b>of</b> different computers <b>and</b> which frequently acquires new 
-cacm-3036 : <b>the</b> algorithm has reduced <b>the</b> number <b>of</b> characters transmitted by <b>from</b> 7 <b>to</b> 30 percent but requires 
-cacm-3154 : <b>the</b> logic component determines <b>the</b> meaning <b>of</b> <b>the</b> algorithm whereas <b>the</b> control component only affects 
-cacm-1002 : biological data <b>the</b> filters are constructed <b>from</b> a succession <b>of</b> readily analyzable components in 
-cacm-2542 : as direct input <b>to</b> performance analysis <b>and</b> simulation routines using <b>the</b> performance information obtained <b>from</b> these routines as feedback 
-cacm-3103 : example <b>and</b> overview <b>the</b> use <b>of</b> several levels <b>of</b> abstraction has proved <b>to</b> <b>be</b> very helpful in constructing 
-cacm-0349 : a set <b>of</b> test matrices cacm april 
-cacm-1890 : movement <b>of</b> cars ie <b>the</b> transfer <b>of</b> cars <b>from</b> one block <b>to</b> <b>the</b> next is expressed by 
-cacm-1834 : other branches <b>of</b> mathematics this involves <b>the</b> elucidation <b>of</b> sets <b>of</b> axioms <b>and</b> rules <b>of</b> inference which can <b>be</b> used in proofs <b>of</b> <b>the</b> properties <b>of</b> computer programs examples are 
-cacm-0096 : relative merit <b>and</b> cost <b>of</b> four ways <b>of</b> evaluating typical radiation integrals 
-cacm-3099 : integer <b>programming</b> <b>and</b> their application <b>the</b> purpose <b>of</b> this report is <b>to</b> present a new class 
-cacm-2181 : a summary <b>of</b> <b>the</b> discussions a condensation <b>of</b> <b>the</b> pedagogic <b>and</b> substantive concerns raised <b>and</b> consideration <b>of</b> <b>the</b> resource allocation issues involved 
-cacm-0176 : symbol manipulation by threaded 
-cacm-2707 : a brief exposition <b>of</b> <b>the</b> general backtrack technique <b>and</b> <b>its</b> history is given second 
-cacm-2971 : computers <b>to</b> make <b>the</b> language easy <b>to</b> learn <b>and</b> use <b>to</b> eliminate confusing <b>and</b> redundant constructs <b>and</b> <b>to</b> make <b>the</b> language easy <b>to</b> compile <b>the</b> resulting language is suitable 
-cacm-2718 : design <b>of</b> dbtg data structures <b>the</b> <b>functional</b> approach <b>to</b> database design is introduced 
-cacm-0196 : report on <b>the</b> algorithmic language algol 60 
-cacm-1028 : <b>the</b> technique is shown <b>to</b> <b>be</b> both accurate <b>and</b> easy <b>to</b> apply though certain indicated 
+cacm-2802 : <b>the</b> new math <b>of</b> computer <b>programming</b> structured <b>programming</b> has proved <b>to</b> <b>be</b> an important methodology for 
+cacm-2922 : <b>the</b> attempt level deferring <b>the</b> coordination <b>of</b> problem solving efforts <b>to</b> another <b>the</b> choice level <b>the</b> feasibility <b>of</b> recognizing these two levels 
+cacm-1106 : <b>programming</b> <b>of</b> digital computers cacm april 
 cacm-2929 : a modified copy <b>of</b> <b>the</b> procedure body <b>the</b> general problem <b>of</b> using inline substitution <b>to</b> minimize execution time subject 
-cacm-1482 : applications in particular <b>the</b> authors have used <b>the</b> system for <b>the</b> analysis <b>of</b> linear graphs <b>the</b> main concept <b>of</b> <b>the</b> system is <b>the</b> use <b>of</b> a collection <b>of</b> programmable pointers which are 
-cacm-0065 : algol sub-committee report extensions 
-cacm-0001 : preliminary report-international algebraic language 
-cacm-2215 : <b>be</b> tested after receiving <b>the</b> result <b>of</b> that test <b>the</b> procedure either classifies <b>the</b> unknown pattern or selects 
-cacm-3140 : in mathematics furthermore <b>the</b> absence <b>of</b> continuity <b>the</b> inevitability <b>of</b> change <b>and</b> <b>the</b> complexity <b>of</b> specification <b>of</b> significantly many real programs 
-cacm-0254 : smalgol-61 prior <b>to</b> <b>and</b> during <b>the</b> 1961 western joint computer 
-cacm-0689 : report <b>of</b> a visit <b>to</b> discuss common <b>programming</b> languages in czechoslovakia <b>and</b> poland 1963 cacm november 
-cacm-2201 : one <b>of</b> <b>the</b> primary contributions <b>of</b> animator will <b>be</b> <b>the</b> provision <b>of</b> a facility which will 
-cacm-1677 : is discussed with <b>its</b> realized advantages or <b>programming</b> systems simplicity <b>of</b> programmed addressing flexibility <b>of</b> data structures efficiency <b>of</b> memory utilization variability <b>of</b> system composition during execution 
-cacm-1766 : constants <b>and</b> a number <b>of</b> <b>its</b> eigenvalues <b>the</b> values <b>of</b> <b>the</b> unknown constants are estimated 
-cacm-1835 : <b>the</b> iitran <b>programming</b> language <b>the</b> iitran language developed <b>to</b> <b>be</b> used by students <b>and</b> <b>its</b> important important features are 
-cacm-2538 : 1969 <b>to</b> consider <b>the</b> unique problems <b>of</b> small colleges <b>and</b> universities <b>and</b> <b>to</b> make recommendations regarding computer 
-cacm-1675 : estimate <b>and</b> <b>its</b> improvement in this paper 
-cacm-1393 : in size some <b>of</b> <b>the</b> formal operations which can 
-cacm-3148 : <b>of</b> module message <b>and</b> transaction key <b>the</b> methodology is shown <b>to</b> <b>be</b> independent <b>of</b> particular languages <b>and</b> machines it appears <b>to</b> <b>be</b> useful for <b>programming</b> a wide range <b>of</b> tasks this is part 
-cacm-2700 : indivisible ie that <b>the</b> statement cannot <b>be</b> interleaved with <b>the</b> rest <b>of</b> <b>the</b> program here sufficient conditions 
-cacm-1764 : kahn or <b>to</b> <b>the</b> discussion during <b>the</b> first half <b>of</b> <b>the</b> session pertinent papers are 
-cacm-2113 : individual locations <b>of</b> bytes <b>and</b> bits come <b>to</b> represent <b>the</b> data involved in <b>the</b> matching procedure <b>the</b> shifting <b>of</b> information is reduced <b>to</b> a minimum <b>and</b> <b>the</b> searching <b>of</b> lists is eliminated altogether 
-cacm-3138 : least squares addition <b>of</b> <b>the</b> column or row <b>the</b> elimination process for <b>the</b> procedure is successive ssive 
-cacm-3027 : brief outline <b>of</b> <b>the</b> background <b>of</b> <b>the</b> mu5 project <b>the</b> aims <b>and</b> ideas for mu5 are 
-cacm-0284 : system <b>the</b> machine representation <b>of</b> <b>the</b> derived expression is by 
-cacm-1007 : extension <b>of</b> existing compilers by sophisticated 
-cacm-3077 : can <b>programming</b> <b>be</b> <b>liberated</b> <b>from</b> <b>the</b> von neumann <b>style</b> a <b>functional</b> <b>style</b> <b>and</b> <b>its</b> <b>algebra</b> <b>of</b> programs conventional <b>programming</b> languages are growing ever 
-cacm-1469 : rules about <b>the</b> uses <b>of</b> user-coined names <b>and</b> <b>the</b> conventions about characterizing <b>functional</b> relationships within this framework 
-cacm-1196 : this is true <b>from</b> <b>the</b> point <b>of</b> view <b>of</b> ease <b>of</b> <b>programming</b> ease <b>of</b> debugging <b>and</b> minimization <b>of</b> computer time a number 
-cacm-3197 : structures <b>of</b> standards-processing organizations in <b>the</b> computer area in line 
+cacm-0942 : <b>to</b> perform these <b>the</b> main purpose <b>of</b> this note is <b>to</b> describe these subroutines but 
+cacm-2534 : compiler <b>the</b> most remarkable characteristic <b>of</b> pl/c is <b>its</b> perseverance-it completes translation <b>of</b> every program submitted <b>and</b> continues execution until a 
+cacm-1029 : for <b>the</b> derivatives <b>the</b> key <b>to</b> <b>the</b> method is <b>the</b> decomposition <b>of</b> <b>the</b> given function by introduction 
+cacm-1028 : <b>the</b> technique is shown <b>to</b> <b>be</b> both accurate <b>and</b> easy <b>to</b> apply though certain indicated 
+cacm-0437 : compiling matrix operations cacm 
+cacm-1226 : many systems <b>the</b> selection <b>of</b> an organization for <b>the</b> data within <b>the</b> file can <b>be</b> critical <b>to</b> <b>the</b> systems operating efficiency this 
+cacm-3036 : <b>the</b> algorithm has reduced <b>the</b> number <b>of</b> characters transmitted by <b>from</b> 7 <b>to</b> 30 percent but requires 
+cacm-3133 : <b>of</b> <b>the</b> clausal form <b>of</b> logic by virtue <b>of</b> <b>its</b> relationship with logic <b>the</b> extended semantic network is 
 cacm-1614 : language even <b>the</b> behavior <b>of</b> existing operators may <b>be</b> redefined <b>the</b> processing <b>of</b> text containing defined contexts 
-cacm-1046 : not intentionally depart <b>from</b> or add <b>to</b> <b>the</b> material published in <b>the</b> listed references cacm july 
-cacm-0209 : symbol manipulation by threaded 
-cacm-1715 : direct search algorithm 178 
-cacm-0527 : <b>the</b> recursive definition <b>of</b> a concept <b>and</b> <b>its</b> description list structure like 
+cacm-3138 : least squares addition <b>of</b> <b>the</b> column or row <b>the</b> elimination process for <b>the</b> procedure is successive ssive 
+cacm-1852 : used as <b>the</b> base <b>of</b> an implementation by bootstrapping 
+cacm-2834 : that <b>the</b> time required <b>to</b> generate <b>the</b> next element <b>from</b> <b>the</b> current one is constant 
 cacm-3199 : handling any number <b>of</b> single <b>letter</b> variables variable exponents <b>and</b> <b>of</b> finding <b>the</b> highest common factor <b>of</b> two polynomials also included 
+cacm-3197 : structures <b>of</b> standards-processing organizations in <b>the</b> computer area in line 
+cacm-1836 : precedence matrix often <b>the</b> information in <b>the</b> matrix can <b>be</b> represented more concisely by 
+cacm-1834 : other branches <b>of</b> mathematics this involves <b>the</b> elucidation <b>of</b> sets <b>of</b> axioms <b>and</b> rules <b>of</b> inference which can <b>be</b> used in proofs <b>of</b> <b>the</b> properties <b>of</b> computer programs examples are 
+cacm-1835 : <b>the</b> iitran <b>programming</b> language <b>the</b> iitran language developed <b>to</b> <b>be</b> used by students <b>and</b> <b>its</b> important important features are 
+cacm-1132 : an extension <b>to</b> algol for manipulating formulae 
 cacm-1137 : a format language cacm 
+cacm-1931 : <b>to</b> test a set <b>of</b> functions <b>to</b> see if they form 
+cacm-1891 : computer calculates <b>the</b> projected video images <b>of</b> an object viewed <b>from</b> two separate points <b>the</b> resulting video maps are 
+cacm-3121 : manipulation a catalogue <b>of</b> syntactic transforms <b>and</b> <b>its</b> use for solution <b>of</b> a system <b>of</b> program equations is given 
+cacm-0001 : preliminary report-international algebraic language 
+cacm-2903 : <b>of</b> knuth morris <b>and</b> pratt can <b>be</b> derived in a few 
+cacm-1007 : extension <b>of</b> existing compilers by sophisticated 
+cacm-1002 : biological data <b>the</b> filters are constructed <b>from</b> a succession <b>of</b> readily analyzable components in 
+cacm-0254 : smalgol-61 prior <b>to</b> <b>and</b> during <b>the</b> 1961 western joint computer 
+cacm-3054 : how <b>to</b> implement <b>the</b> quicksort sorting algorithm <b>and</b> <b>its</b> best variants on real 
+cacm-3052 : large capacities <b>the</b> effect on <b>the</b> measured miss ratio <b>of</b> <b>the</b> misses incurred while filling 
+cacm-0096 : relative merit <b>and</b> cost <b>of</b> four ways <b>of</b> evaluating typical radiation integrals 
+cacm-2181 : a summary <b>of</b> <b>the</b> discussions a condensation <b>of</b> <b>the</b> pedagogic <b>and</b> substantive concerns raised <b>and</b> consideration <b>of</b> <b>the</b> resource allocation issues involved 
+cacm-1934 : this representation reduces <b>the</b> choice <b>of</b> <b>the</b> best order <b>of</b> computation <b>to</b> a specific problem under 
+cacm-0071 : it is intended <b>to</b> provide an opportunity <b>to</b> concentrate on <b>the</b> other aspects <b>of</b> program construction <b>the</b> <b>programming</b> system should stress <b>the</b> discovery in source program 
+cacm-1393 : in size some <b>of</b> <b>the</b> formal operations which can 
+cacm-1278 : in <b>the</b> communications <b>of</b> <b>the</b> acm r wengert suggested 
+cacm-0406 : <b>the</b> use <b>of</b> threaded lists in constructing 
+cacm-1155 : some questions answerable <b>from</b> <b>the</b> given facts cannot <b>be</b> answered <b>and</b> some other answerable questions 
+cacm-2113 : individual locations <b>of</b> bytes <b>and</b> bits come <b>to</b> represent <b>the</b> data involved in <b>the</b> matching procedure <b>the</b> shifting <b>of</b> information is reduced <b>to</b> a minimum <b>and</b> <b>the</b> searching <b>of</b> lists is eliminated altogether 
+cacm-3103 : example <b>and</b> overview <b>the</b> use <b>of</b> several levels <b>of</b> abstraction has proved <b>to</b> <b>be</b> very helpful in constructing 
+cacm-2215 : <b>be</b> tested after receiving <b>the</b> result <b>of</b> that test <b>the</b> procedure either classifies <b>the</b> unknown pattern or selects 
+cacm-1259 : in which <b>the</b> form <b>of</b> an expression is changed 
+cacm-2210 : or with recursion <b>the</b> principle <b>of</b> mathematical induction must <b>be</b> applied <b>the</b> relation between <b>the</b> version <b>of</b> <b>the</b> induction rule used <b>and</b> <b>the</b> form <b>of</b> <b>the</b> program constructed is explored 
+cacm-1482 : applications in particular <b>the</b> authors have used <b>the</b> system for <b>the</b> analysis <b>of</b> linear graphs <b>the</b> main concept <b>of</b> <b>the</b> system is <b>the</b> use <b>of</b> a collection <b>of</b> programmable pointers which are 
+cacm-2538 : 1969 <b>to</b> consider <b>the</b> unique problems <b>of</b> small colleges <b>and</b> universities <b>and</b> <b>to</b> make recommendations regarding computer 
+cacm-0065 : algol sub-committee report extensions 
+cacm-0349 : a set <b>of</b> test matrices cacm april 
+cacm-3077 : can <b>programming</b> <b>be</b> <b>liberated</b> <b>from</b> <b>the</b> von neumann <b>style</b> a <b>functional</b> <b>style</b> <b>and</b> <b>its</b> <b>algebra</b> <b>of</b> programs conventional <b>programming</b> languages are growing ever 
+cacm-3178 : introduction <b>to</b> <b>the</b> eft symposium cacm december 
+cacm-1658 : <b>the</b> machine time <b>and</b> storage requirements <b>of</b> several <b>of</b> <b>the</b> algorithms are compared over 
+cacm-1890 : movement <b>of</b> cars ie <b>the</b> transfer <b>of</b> cars <b>from</b> one block <b>to</b> <b>the</b> next is expressed by 
+cacm-2201 : one <b>of</b> <b>the</b> primary contributions <b>of</b> animator will <b>be</b> <b>the</b> provision <b>of</b> a facility which will 
+cacm-3078 : purpose <b>of</b> this paper is <b>to</b> demonstrate that <b>the</b> difficulties <b>of</b> obtaining analytical solutions <b>to</b> markov processes can <b>be</b> considerably reduced by <b>the</b> application <b>of</b> symbol manipulation programs since 
+cacm-1715 : direct search algorithm 178 
+cacm-0176 : symbol manipulation by threaded 
+cacm-2850 : <b>the</b> symbolic execution <b>of</b> programs instead <b>of</b> supplying <b>the</b> normal inputs <b>to</b> a program eg numbers 
+cacm-1260 : <b>the</b> <b>functional</b> form <b>of</b> <b>the</b> calculation it is possible 
+cacm-3099 : integer <b>programming</b> <b>and</b> their application <b>the</b> purpose <b>of</b> this report is <b>to</b> present a new class 
+cacm-0231 : <b>of</b> publication standards for use 
+cacm-1977 : for <b>the</b> approximation <b>of</b> data by means <b>of</b> a linear combination <b>of</b> functions including splines selected 
+cacm-2542 : as direct input <b>to</b> performance analysis <b>and</b> simulation routines using <b>the</b> performance information obtained <b>from</b> these routines as feedback 
+cacm-3140 : in mathematics furthermore <b>the</b> absence <b>of</b> continuity <b>the</b> inevitability <b>of</b> change <b>and</b> <b>the</b> complexity <b>of</b> specification <b>of</b> significantly many real programs 
+cacm-2971 : computers <b>to</b> make <b>the</b> language easy <b>to</b> learn <b>and</b> use <b>to</b> eliminate confusing <b>and</b> redundant constructs <b>and</b> <b>to</b> make <b>the</b> language easy <b>to</b> compile <b>the</b> resulting language is suitable 
+cacm-1705 : <b>be</b> written because <b>of</b> <b>the</b> explicit call <b>of</b> <b>the</b> procedures decompose integer <b>and</b> decompose real <b>the</b> highly recommended practice <b>of</b> echoing input is made 
+cacm-2705 : programs <b>of</b> general utility <b>and</b> studies <b>of</b> questions related <b>to</b> program <b>style</b> cacm december 1975 naur 
+cacm-2707 : a brief exposition <b>of</b> <b>the</b> general backtrack technique <b>and</b> <b>its</b> history is given second 
+cacm-0616 : represents <b>the</b> results <b>of</b> <b>the</b> first phase <b>of</b> <b>the</b> work <b>of</b> <b>the</b> language structure group <b>the</b> goal <b>of</b> this work is <b>to</b> arrive at a proper 
+cacm-2700 : indivisible ie that <b>the</b> statement cannot <b>be</b> interleaved with <b>the</b> rest <b>of</b> <b>the</b> program here sufficient conditions 
+cacm-1469 : rules about <b>the</b> uses <b>of</b> user-coined names <b>and</b> <b>the</b> conventions about characterizing <b>functional</b> relationships within this framework 
+cacm-3008 : <b>of</b> graphs are used <b>to</b> model <b>the</b> loss <b>of</b> proximity involved in such 
+cacm-0284 : system <b>the</b> machine representation <b>of</b> <b>the</b> derived expression is by 
+cacm-1046 : not intentionally depart <b>from</b> or add <b>to</b> <b>the</b> material published in <b>the</b> listed references cacm july 
+cacm-0689 : report <b>of</b> a visit <b>to</b> discuss common <b>programming</b> languages in czechoslovakia <b>and</b> poland 1963 cacm november 
+cacm-1280 : no extensive body <b>of</b> knowledge exists concerning <b>the</b> effects which these variable 
+cacm-1675 : estimate <b>and</b> <b>its</b> improvement in this paper 
+cacm-1676 : a number <b>of</b> different computers <b>and</b> which frequently acquires new 
+cacm-1677 : is discussed with <b>its</b> realized advantages or <b>programming</b> systems simplicity <b>of</b> programmed addressing flexibility <b>of</b> data structures efficiency <b>of</b> memory utilization variability <b>of</b> system composition during execution 
+cacm-2097 : mit <b>to</b> ease <b>the</b> cost <b>and</b> improve <b>the</b> results <b>of</b> elementary instruction in <b>programming</b> <b>to</b> <b>the</b> student teach offers loosely 
+cacm-3154 : <b>the</b> logic component determines <b>the</b> meaning <b>of</b> <b>the</b> algorithm whereas <b>the</b> control component only affects 
+cacm-1196 : this is true <b>from</b> <b>the</b> point <b>of</b> view <b>of</b> ease <b>of</b> <b>programming</b> ease <b>of</b> debugging <b>and</b> minimization <b>of</b> computer time a number 
+cacm-0196 : report on <b>the</b> algorithmic language algol 60 
 cacm-2490 : <b>the</b> number <b>of</b> vertices <b>and</b> e is <b>the</b> number <b>of</b> edges each algorithm requires 
+cacm-2718 : design <b>of</b> dbtg data structures <b>the</b> <b>functional</b> approach <b>to</b> database design is introduced 
+cacm-1691 : <b>be</b> free <b>from</b> this defect <b>the</b> applicability <b>of</b> these two generators <b>to</b> <b>the</b> ibm 360 is then 
+cacm-2899 : summarizes <b>the</b> results <b>of</b> a survey taken <b>to</b> determine <b>the</b> type <b>of</b> computer science programs being 
+cacm-3027 : brief outline <b>of</b> <b>the</b> background <b>of</b> <b>the</b> mu5 project <b>the</b> aims <b>and</b> ideas for mu5 are 
+cacm-3144 : run directly on <b>the</b> host machine <b>the</b> model reveals <b>the</b> anatomy <b>of</b> interpreters <b>and</b> how these differ <b>from</b> procedures <b>and</b> exhibits links <b>to</b> protection domains <b>and</b> multiprocessor architectures cacm may 
+cacm-3145 : read <b>and</b> debug a program <b>and</b> c <b>the</b> ability <b>to</b> write a program analysis 
+cacm-0527 : <b>the</b> recursive definition <b>of</b> a concept <b>and</b> <b>its</b> description list structure like 
+cacm-1766 : constants <b>and</b> a number <b>of</b> <b>its</b> eigenvalues <b>the</b> values <b>of</b> <b>the</b> unknown constants are estimated 
+cacm-1764 : kahn or <b>to</b> <b>the</b> discussion during <b>the</b> first half <b>of</b> <b>the</b> session pertinent papers are 
+cacm-3148 : <b>of</b> module message <b>and</b> transaction key <b>the</b> methodology is shown <b>to</b> <b>be</b> independent <b>of</b> particular languages <b>and</b> machines it appears <b>to</b> <b>be</b> useful for <b>programming</b> a wide range <b>of</b> tasks this is part 
+cacm-3149 : by smooth-curved faces <b>the</b> property is shown <b>to</b> <b>be</b> useful for analyzing pictures 
 cacm-2312 : is given <b>of</b> what can <b>be</b> expected <b>to</b> happen in <b>the</b> application <b>of</b> computers <b>to</b> <b>the</b> physical sciences cacm july 
 cacm-2311 : for each generation <b>the</b> scope <b>of</b> development projects <b>and</b> <b>the</b> technological world view <b>of</b> <b>the</b> system developer are examined 
-cacm-3133 : <b>of</b> <b>the</b> clausal form <b>of</b> logic by virtue <b>of</b> <b>its</b> relationship with logic <b>the</b> extended semantic network is 
-cacm-0231 : <b>of</b> publication standards for use 
-cacm-0406 : <b>the</b> use <b>of</b> threaded lists in constructing 
-cacm-3052 : large capacities <b>the</b> effect on <b>the</b> measured miss ratio <b>of</b> <b>the</b> misses incurred while filling 
-cacm-1259 : in which <b>the</b> form <b>of</b> an expression is changed 
-cacm-1934 : this representation reduces <b>the</b> choice <b>of</b> <b>the</b> best order <b>of</b> computation <b>to</b> a specific problem under 
-cacm-3078 : purpose <b>of</b> this paper is <b>to</b> demonstrate that <b>the</b> difficulties <b>of</b> obtaining analytical solutions <b>to</b> markov processes can <b>be</b> considerably reduced by <b>the</b> application <b>of</b> symbol manipulation programs since 
-cacm-3008 : <b>of</b> graphs are used <b>to</b> model <b>the</b> loss <b>of</b> proximity involved in such 
-cacm-1155 : some questions answerable <b>from</b> <b>the</b> given facts cannot <b>be</b> answered <b>and</b> some other answerable questions 
-cacm-2903 : <b>of</b> knuth morris <b>and</b> pratt can <b>be</b> derived in a few 
-cacm-0071 : it is intended <b>to</b> provide an opportunity <b>to</b> concentrate on <b>the</b> other aspects <b>of</b> program construction <b>the</b> <b>programming</b> system should stress <b>the</b> discovery in source program 
-cacm-2899 : summarizes <b>the</b> results <b>of</b> a survey taken <b>to</b> determine <b>the</b> type <b>of</b> computer science programs being 
-cacm-1260 : <b>the</b> <b>functional</b> form <b>of</b> <b>the</b> calculation it is possible 
-cacm-0437 : compiling matrix operations cacm 
-cacm-1836 : precedence matrix often <b>the</b> information in <b>the</b> matrix can <b>be</b> represented more concisely by 
-cacm-1106 : <b>programming</b> <b>of</b> digital computers cacm april 
-cacm-3149 : by smooth-curved faces <b>the</b> property is shown <b>to</b> <b>be</b> useful for analyzing pictures 
-cacm-1280 : no extensive body <b>of</b> knowledge exists concerning <b>the</b> effects which these variable 
-cacm-3145 : read <b>and</b> debug a program <b>and</b> c <b>the</b> ability <b>to</b> write a program analysis 
-cacm-2705 : programs <b>of</b> general utility <b>and</b> studies <b>of</b> questions related <b>to</b> program <b>style</b> cacm december 1975 naur 
-cacm-1132 : an extension <b>to</b> algol for manipulating formulae 
-cacm-2834 : that <b>the</b> time required <b>to</b> generate <b>the</b> next element <b>from</b> <b>the</b> current one is constant 
-cacm-3178 : introduction <b>to</b> <b>the</b> eft symposium cacm december 
-cacm-1226 : many systems <b>the</b> selection <b>of</b> an organization for <b>the</b> data within <b>the</b> file can <b>be</b> critical <b>to</b> <b>the</b> systems operating efficiency this 
-cacm-1691 : <b>be</b> free <b>from</b> this defect <b>the</b> applicability <b>of</b> these two generators <b>to</b> <b>the</b> ibm 360 is then 
-cacm-3121 : manipulation a catalogue <b>of</b> syntactic transforms <b>and</b> <b>its</b> use for solution <b>of</b> a system <b>of</b> program equations is given 
-cacm-2802 : <b>the</b> new math <b>of</b> computer <b>programming</b> structured <b>programming</b> has proved <b>to</b> <b>be</b> an important methodology for 
 cacm-1443 : least squares estimate <b>of</b> <b>the</b> intersection point <b>of</b> two helices in space 
-cacm-3054 : how <b>to</b> implement <b>the</b> quicksort sorting algorithm <b>and</b> <b>its</b> best variants on real 
-cacm-1658 : <b>the</b> machine time <b>and</b> storage requirements <b>of</b> several <b>of</b> <b>the</b> algorithms are compared over 
-cacm-2922 : <b>the</b> attempt level deferring <b>the</b> coordination <b>of</b> problem solving efforts <b>to</b> another <b>the</b> choice level <b>the</b> feasibility <b>of</b> recognizing these two levels 
-cacm-2850 : <b>the</b> symbolic execution <b>of</b> programs instead <b>of</b> supplying <b>the</b> normal inputs <b>to</b> a program eg numbers 
-cacm-2210 : or with recursion <b>the</b> principle <b>of</b> mathematical induction must <b>be</b> applied <b>the</b> relation between <b>the</b> version <b>of</b> <b>the</b> induction rule used <b>and</b> <b>the</b> form <b>of</b> <b>the</b> program constructed is explored 
-cacm-3144 : run directly on <b>the</b> host machine <b>the</b> model reveals <b>the</b> anatomy <b>of</b> interpreters <b>and</b> how these differ <b>from</b> procedures <b>and</b> exhibits links <b>to</b> protection domains <b>and</b> multiprocessor architectures cacm may 
-cacm-1705 : <b>be</b> written because <b>of</b> <b>the</b> explicit call <b>of</b> <b>the</b> procedures decompose integer <b>and</b> decompose real <b>the</b> highly recommended practice <b>of</b> echoing input is made 
-cacm-1931 : <b>to</b> test a set <b>of</b> functions <b>to</b> see if they form 
-cacm-0616 : represents <b>the</b> results <b>of</b> <b>the</b> first phase <b>of</b> <b>the</b> work <b>of</b> <b>the</b> language structure group <b>the</b> goal <b>of</b> this work is <b>to</b> arrive at a proper 
-cacm-1278 : in <b>the</b> communications <b>of</b> <b>the</b> acm r wengert suggested 
-cacm-2534 : compiler <b>the</b> most remarkable characteristic <b>of</b> pl/c is <b>its</b> perseverance-it completes translation <b>of</b> every program submitted <b>and</b> continues execution until a 
-cacm-1977 : for <b>the</b> approximation <b>of</b> data by means <b>of</b> a linear combination <b>of</b> functions including splines selected 
+cacm-0209 : symbol manipulation by threaded 

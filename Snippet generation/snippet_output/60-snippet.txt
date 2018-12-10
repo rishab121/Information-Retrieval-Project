@@ -1,100 +1,100 @@
-cacm-0695 : <b>special</b> emphasis given <b>to</b> the organization <b>and</b> operation of its input-output 
-cacm-2046 : formatted data <b>systems</b> provide users <b>with</b> tree-structured files <b>or</b> slightly more general <b>network</b> models of the data 
-cacm-3056 : <b>or</b> <b>software</b> used for the monitoring 
-cacm-0417 : potential opportunities <b>to</b> interpret <b>to</b> lawyers the technical aspects 
-cacm-2967 : a comparison of <b>hardware</b> <b>and</b> <b>software</b> <b>associative</b> memories in the context 
-cacm-2859 : those more nearly <b>like</b> real <b>systems</b> that the simple model 
-cacm-1518 : <b>to</b> turnaround time throughput <b>hardware</b> utilization <b>software</b> utilization <b>and</b> queueing processes the model 
-cacm-2188 : of now <b>to</b> configure display <b>systems</b> this is accomplished by 
-cacm-2516 : connected memory <b>hardware</b> <b>with</b> increasing data access times 
-cacm-2002 : alphabetic characters <b>and</b> transformations <b>and</b> <b>to</b> produce a variety of 
-cacm-1856 : new factual assertions <b>and</b> capabilities for <b>relating</b> text <b>to</b> such stored assertions <b>to</b> generalize automatically that is 
-cacm-2138 : <b>to</b> allow access <b>to</b> all relevant <b>hardware</b> features of the host 
-cacm-2771 : begins <b>with</b> primitive solids <b>like</b> a cube wedge <b>or</b> cylinder any solid can 
-cacm-2147 : <b>with</b> regard <b>to</b> computers in higher education 
-cacm-3127 : <b>with</b> quite different architectures both 
-cacm-2059 : deletion <b>or</b> insertion union intersection comparison 
-cacm-1408 : is <b>to</b> incorporate engineering <b>or</b> <b>hardware</b> improvements in this paper 
-cacm-0670 : questions <b>relating</b> <b>to</b> off-premises processors particularly <b>with</b> respect <b>to</b> the obligation not <b>to</b> disclose information concerning a 
-cacm-1962 : groove-a program <b>to</b> compose store <b>and</b> edit functions of time 
 cacm-3089 : operate <b>with</b> a checkpointing <b>and</b> rollback/recovery method <b>to</b> ensure reliable information processing 
-cacm-2016 : <b>hardware</b> clocks <b>and</b> data channels general purpose 
-cacm-3030 : an example of <b>hierarchical</b> design <b>and</b> proof <b>hierarchical</b> programming is being increasingly 
+cacm-2972 : <b>to</b> semi-automatic <b>and</b> automatic proofs preliminary results 
 cacm-2888 : business <b>systems</b> have <b>to</b> be identified by reference 
-cacm-2625 : <b>to</b> present <b>systems</b> on the basis of 
-cacm-2828 : frame <b>to</b> frame coherence <b>and</b> clipping define a graphical 
-cacm-3142 : <b>systems</b> errors billing errors <b>management</b> <b>systems</b> consumers 2.0 2.1 2.12 
-cacm-3024 : <b>to</b> have been built <b>to</b> date that satisfies erdas 
-cacm-1805 : singly according <b>to</b> eligibility readiness <b>to</b> proceed <b>and</b> priority it is useful 
-cacm-2833 : algorithms are designed <b>to</b> work well in <b>systems</b> which use multiple levels 
-cacm-2786 : been designed <b>to</b> be easy <b>to</b> learn <b>and</b> <b>to</b> use by people for 
 cacm-2882 : <b>database</b> architecture <b>database</b> performance <b>and</b> evaluation invented list threaded 
-cacm-2398 : <b>or</b> solo mode computing <b>with</b> those of guided <b>or</b> dual mode interaction preliminary 
-cacm-2876 : <b>to</b> him by the <b>database</b> the ability <b>to</b> condition the supply of 
+cacm-2928 : in the system <b>and</b> <b>to</b> bill for memory usage 
+cacm-1752 : <b>to</b> alternate <b>hardware</b> characteristics <b>and</b> the effects of program 
 cacm-2247 : <b>software</b> modules modularity <b>software</b> engineering kwic index <b>software</b> design 4.0 ca721208 jb 
-cacm-1892 : the results <b>to</b> time-shared system design <b>and</b> programming are discussed <b>and</b> a calculation of the 
-cacm-2379 : <b>software</b> exploits these features <b>to</b> define the operating system 
-cacm-2817 : system in <b>database</b> <b>systems</b> users access shared data 
-cacm-3158 : <b>with</b> one <b>or</b> more central facilities is 
-cacm-2298 : appears <b>to</b> be superior <b>to</b> the others considered <b>and</b> the organization <b>and</b> definition of goals for 
+cacm-2738 : from <b>hardware</b> <b>and</b> <b>software</b> are given as illustrations 
+cacm-1754 : dynamic storage allocation <b>systems</b> in many recent computer 
+cacm-3030 : an example of <b>hierarchical</b> design <b>and</b> proof <b>hierarchical</b> programming is being increasingly 
+cacm-1589 : <b>and</b> numeric input <b>and</b> display online <b>and</b> off line program preparation 
+cacm-3131 : <b>with</b> <b>hardware</b> arithmetic for many applications 
 cacm-3136 : price <b>and</b> <b>hardware</b> performance single measures of 
-cacm-1924 : <b>systems</b> matrix representations <b>and</b> operations are examined for 
-cacm-2198 : <b>systems</b> committee data base <b>management</b> <b>systems</b> programming languages data structures 
-cacm-1652 : system <b>with</b> respect <b>to</b> non-numeric applications <b>and</b> <b>to</b> maximize the transfer rate 
-cacm-1462 : multilevel operating <b>systems</b> the basic <b>software</b> for all newer computers 
+cacm-1856 : new factual assertions <b>and</b> capabilities for <b>relating</b> text <b>to</b> such stored assertions <b>to</b> generalize automatically that is 
+cacm-2833 : algorithms are designed <b>to</b> work well in <b>systems</b> which use multiple levels 
+cacm-2424 : <b>hardware</b> <b>and</b> <b>software</b> the dynamic verification of 
+cacm-2421 : <b>hardware</b> <b>or</b> <b>software</b> must be provided <b>to</b> translate the picture description 
+cacm-1747 : design operating <b>systems</b> operating <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual 
+cacm-3049 : variety of graphical <b>hardware</b> <b>and</b> for performing graphical batch 
+cacm-2138 : <b>to</b> allow access <b>to</b> all relevant <b>hardware</b> features of the host 
+cacm-2625 : <b>to</b> present <b>systems</b> on the basis of 
+cacm-3127 : <b>with</b> quite different architectures both 
+cacm-2740 : an alternative <b>to</b> dijkstras <b>hierarchical</b> structuring of operating <b>systems</b> the project <b>management</b> <b>and</b> the performance are discussed 
+cacm-2298 : appears <b>to</b> be superior <b>to</b> the others considered <b>and</b> the organization <b>and</b> definition of goals for 
+cacm-1805 : singly according <b>to</b> eligibility readiness <b>to</b> proceed <b>and</b> priority it is useful 
+cacm-2900 : heuristics <b>and</b> other aids <b>to</b> finding optimal <b>or</b> near-optimal solutions are therefore 
+cacm-2516 : connected memory <b>hardware</b> <b>with</b> increasing data access times 
+cacm-0397 : programming terms <b>hardware</b> terms equipment machine <b>systems</b> abbreviations etc it is 
+cacm-0417 : potential opportunities <b>to</b> interpret <b>to</b> lawyers the technical aspects 
+cacm-3056 : <b>or</b> <b>software</b> used for the monitoring 
+cacm-2342 : values <b>and</b> process configurations <b>to</b> a next state s 
+cacm-2188 : of now <b>to</b> configure display <b>systems</b> this is accomplished by 
+cacm-3112 : virtual memory file <b>or</b> <b>database</b> <b>management</b> storage <b>management</b> storage allocation lisp cdr-coding 
 cacm-1930 : generator <b>with</b> n less than <b>or</b> equal <b>to</b> 4 while the small 
-cacm-1711 : in deciding whether <b>or</b> not <b>to</b> automate certain operations <b>and</b> in complying <b>with</b> statutes <b>and</b> regulation <b>relating</b> <b>to</b> record keeping information is 
-cacm-1774 : detail <b>with</b> <b>special</b> reference <b>to</b> real time applications cacm 
-cacm-1264 : 4k 1401 <b>with</b> common optional features <b>and</b> two <b>attached</b> tape drives printed output 
+cacm-2059 : deletion <b>or</b> insertion union intersection comparison 
+cacm-1750 : <b>hardware</b> arrangement <b>and</b> the <b>software</b> components <b>and</b> functions of such a 
 cacm-2680 : of files <b>to</b> <b>disk</b> packs <b>and</b> packs <b>to</b> either resident <b>or</b> nonresident status is presented 
 cacm-2358 : <b>and</b> design as experience <b>with</b> use of on-line operating 
-cacm-2740 : an alternative <b>to</b> dijkstras <b>hierarchical</b> structuring of operating <b>systems</b> the project <b>management</b> <b>and</b> the performance are discussed 
-cacm-1641 : slow <b>disk</b> <b>or</b> drum memories the space 
-cacm-2972 : <b>to</b> semi-automatic <b>and</b> automatic proofs preliminary results 
-cacm-0397 : programming terms <b>hardware</b> terms equipment machine <b>systems</b> abbreviations etc it is 
-cacm-2846 : <b>to</b> be large enough <b>to</b> hold a key <b>or</b> at least a pointer 
-cacm-1750 : <b>hardware</b> arrangement <b>and</b> the <b>software</b> components <b>and</b> functions of such a 
-cacm-2989 : used <b>to</b> answer questions <b>like</b> how many registers are 
-cacm-2486 : <b>end</b> of one line <b>and</b> partly at the beginning 
-cacm-2717 : level <b>and</b> nonprocedural translation definition language 
-cacm-2424 : <b>hardware</b> <b>and</b> <b>software</b> the dynamic verification of 
-cacm-0585 : self-searching input <b>and</b> output <b>to</b> the automatic time sharing 
-cacm-3026 : frame computer <b>systems</b> beginning <b>with</b> the 1107 in 1962 
-cacm-2715 : <b>relational</b> memory system <b>and</b> the sequel language have 
-cacm-2311 : i computing milieu <b>management</b> data processing <b>hardware</b> <b>systems</b> <b>software</b> <b>systems</b> <b>systems</b> development process functional <b>systems</b> <b>management</b> <b>systems</b> 2.0 3.50 4.0 6.20 
-cacm-2669 : easy <b>to</b> manipulate <b>and</b> is applicable <b>to</b> such diverse problems as 
-cacm-1572 : <b>to</b> develop an appropriate <b>hardware</b> configuration for these <b>systems</b> but appropriate <b>software</b> adjustments must be made 
-cacm-3049 : variety of graphical <b>hardware</b> <b>and</b> for performing graphical batch 
-cacm-2375 : access storage <b>disk</b> analysis <b>disk</b> scheduling performance criteria peripheral 
-cacm-2928 : in the system <b>and</b> <b>to</b> bill for memory usage 
-cacm-2421 : <b>hardware</b> <b>or</b> <b>software</b> must be provided <b>to</b> translate the picture description 
-cacm-3092 : characteristics of application <b>software</b> maintenance maintenance <b>and</b> enhancement of application <b>software</b> consume a major portion 
-cacm-3087 : d question answering <b>relational</b> <b>database</b> natural language <b>database</b> front <b>end</b> artificial intelligence dialogue query 
-cacm-2988 : <b>network</b> models of computer <b>systems</b> empirical analyses <b>and</b> analytic studies based on 
 cacm-1409 : machineand 3 <b>to</b> have easily modifiable <b>hardware</b> for basic research in 
-cacm-2852 : <b>or</b> in information <b>systems</b> mcfarlan <b>and</b> nolan have made a 
-cacm-2738 : from <b>hardware</b> <b>and</b> <b>software</b> are given as illustrations 
-cacm-3131 : <b>with</b> <b>hardware</b> arithmetic for many applications 
-cacm-3112 : virtual memory file <b>or</b> <b>database</b> <b>management</b> storage <b>management</b> storage allocation lisp cdr-coding 
-cacm-2900 : heuristics <b>and</b> other aids <b>to</b> finding optimal <b>or</b> near-optimal solutions are therefore 
-cacm-1747 : design operating <b>systems</b> operating <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual 
-cacm-1199 : <b>hardware</b> <b>and</b> <b>software</b> <b>systems</b> it is difficult therefore 
-cacm-1752 : <b>to</b> alternate <b>hardware</b> characteristics <b>and</b> the effects of program 
-cacm-2396 : trees <b>and</b> <b>special</b> purpose rules the <b>relational</b> triple notation used during 
-cacm-0698 : no <b>special</b> <b>hardware</b> <b>or</b> connections are required at 
-cacm-2151 : <b>systems</b> multiprogramming <b>systems</b> time-sharing <b>systems</b> <b>software</b> measurement user program measurement 
-cacm-2342 : values <b>and</b> process configurations <b>to</b> a next state s 
-cacm-1589 : <b>and</b> numeric input <b>and</b> display online <b>and</b> off line program preparation 
+cacm-1408 : is <b>to</b> incorporate engineering <b>or</b> <b>hardware</b> improvements in this paper 
+cacm-1641 : slow <b>disk</b> <b>or</b> drum memories the space 
+cacm-2046 : formatted data <b>systems</b> provide users <b>with</b> tree-structured files <b>or</b> slightly more general <b>network</b> models of the data 
 cacm-1886 : two <b>or</b> more other expressions <b>or</b> subexpressions once all the 
-cacm-1844 : multiple terminal <b>systems</b> terminal oriented <b>systems</b> multiple processor <b>systems</b> high availability conversational <b>systems</b> general purpose time-sharing <b>systems</b> real-time response system modular 
-cacm-2718 : the functional approach <b>to</b> <b>database</b> design is introduced in 
+cacm-2198 : <b>systems</b> committee data base <b>management</b> <b>systems</b> programming languages data structures 
+cacm-1924 : <b>systems</b> matrix representations <b>and</b> operations are examined for 
+cacm-2989 : used <b>to</b> answer questions <b>like</b> how many registers are 
+cacm-2988 : <b>network</b> models of computer <b>systems</b> empirical analyses <b>and</b> analytic studies based on 
+cacm-0670 : questions <b>relating</b> <b>to</b> off-premises processors particularly <b>with</b> respect <b>to</b> the obligation not <b>to</b> disclose information concerning a 
+cacm-0585 : self-searching input <b>and</b> output <b>to</b> the automatic time sharing 
+cacm-2398 : <b>or</b> solo mode computing <b>with</b> those of guided <b>or</b> dual mode interaction preliminary 
+cacm-3087 : d question answering <b>relational</b> <b>database</b> natural language <b>database</b> front <b>end</b> artificial intelligence dialogue query 
+cacm-2967 : a comparison of <b>hardware</b> <b>and</b> <b>software</b> <b>associative</b> memories in the context 
+cacm-1892 : the results <b>to</b> time-shared system design <b>and</b> programming are discussed <b>and</b> a calculation of the 
+cacm-1652 : system <b>with</b> respect <b>to</b> non-numeric applications <b>and</b> <b>to</b> maximize the transfer rate 
+cacm-2771 : begins <b>with</b> primitive solids <b>like</b> a cube wedge <b>or</b> cylinder any solid can 
+cacm-2859 : those more nearly <b>like</b> real <b>systems</b> that the simple model 
+cacm-1711 : in deciding whether <b>or</b> not <b>to</b> automate certain operations <b>and</b> in complying <b>with</b> statutes <b>and</b> regulation <b>relating</b> <b>to</b> record keeping information is 
+cacm-1264 : 4k 1401 <b>with</b> common optional features <b>and</b> two <b>attached</b> tape drives printed output 
+cacm-2852 : <b>or</b> in information <b>systems</b> mcfarlan <b>and</b> nolan have made a 
+cacm-3092 : characteristics of application <b>software</b> maintenance maintenance <b>and</b> enhancement of application <b>software</b> consume a major portion 
 cacm-2380 : augmented by <b>special</b> paging <b>hardware</b> developed at bbn this 
-cacm-3025 : time sharing computing <b>systems</b> transferring <b>hardware</b> technology within dec <b>and</b> elsewhere <b>to</b> minicomputer design <b>and</b> manufacturing supporting minicomputer <b>hardware</b> <b>and</b> <b>software</b> development <b>and</b> serving as a model 
-cacm-1754 : dynamic storage allocation <b>systems</b> in many recent computer 
-cacm-2319 : of the current <b>and</b> future positions <b>with</b> respect <b>to</b> operating system performance is 
-cacm-2951 : <b>network</b> <b>systems</b> studied in detail <b>to</b> describe <b>and</b> predict the response time 
 cacm-1602 : fortran formula <b>and</b> logic representations <b>and</b> actually contains fortran vi 
-cacm-1846 : are dealt <b>with</b> the <b>systems</b> are assumed <b>to</b> be described as a 
-cacm-2812 : computer-aided analysis <b>and</b> design of information <b>systems</b> this paper describes the 
-cacm-1698 : <b>to</b> communicate <b>with</b> the outside world efficiently 
+cacm-0698 : no <b>special</b> <b>hardware</b> <b>or</b> connections are required at 
+cacm-0695 : <b>special</b> emphasis given <b>to</b> the organization <b>and</b> operation of its input-output 
+cacm-2786 : been designed <b>to</b> be easy <b>to</b> learn <b>and</b> <b>to</b> use by people for 
+cacm-2375 : access storage <b>disk</b> analysis <b>disk</b> scheduling performance criteria peripheral 
+cacm-1572 : <b>to</b> develop an appropriate <b>hardware</b> configuration for these <b>systems</b> but appropriate <b>software</b> adjustments must be made 
+cacm-2379 : <b>software</b> exploits these features <b>to</b> define the operating system 
+cacm-2669 : easy <b>to</b> manipulate <b>and</b> is applicable <b>to</b> such diverse problems as 
+cacm-2846 : <b>to</b> be large enough <b>to</b> hold a key <b>or</b> at least a pointer 
+cacm-1962 : groove-a program <b>to</b> compose store <b>and</b> edit functions of time 
+cacm-2396 : trees <b>and</b> <b>special</b> purpose rules the <b>relational</b> triple notation used during 
+cacm-2828 : frame <b>to</b> frame coherence <b>and</b> clipping define a graphical 
+cacm-3026 : frame computer <b>systems</b> beginning <b>with</b> the 1107 in 1962 
+cacm-1774 : detail <b>with</b> <b>special</b> reference <b>to</b> real time applications cacm 
+cacm-3158 : <b>with</b> one <b>or</b> more central facilities is 
+cacm-2147 : <b>with</b> regard <b>to</b> computers in higher education 
+cacm-2717 : level <b>and</b> nonprocedural translation definition language 
+cacm-2715 : <b>relational</b> memory system <b>and</b> the sequel language have 
+cacm-2876 : <b>to</b> him by the <b>database</b> the ability <b>to</b> condition the supply of 
+cacm-1462 : multilevel operating <b>systems</b> the basic <b>software</b> for all newer computers 
 cacm-1366 : <b>to</b> computer simulation <b>and</b> simulation languages the computational 
+cacm-2718 : the functional approach <b>to</b> <b>database</b> design is introduced in 
+cacm-2016 : <b>hardware</b> clocks <b>and</b> data channels general purpose 
+cacm-1698 : <b>to</b> communicate <b>with</b> the outside world efficiently 
+cacm-2812 : computer-aided analysis <b>and</b> design of information <b>systems</b> this paper describes the 
+cacm-2311 : i computing milieu <b>management</b> data processing <b>hardware</b> <b>systems</b> <b>software</b> <b>systems</b> <b>systems</b> development process functional <b>systems</b> <b>management</b> <b>systems</b> 2.0 3.50 4.0 6.20 
+cacm-2817 : system in <b>database</b> <b>systems</b> users access shared data 
+cacm-2951 : <b>network</b> <b>systems</b> studied in detail <b>to</b> describe <b>and</b> predict the response time 
+cacm-3142 : <b>systems</b> errors billing errors <b>management</b> <b>systems</b> consumers 2.0 2.1 2.12 
+cacm-2151 : <b>systems</b> multiprogramming <b>systems</b> time-sharing <b>systems</b> <b>software</b> measurement user program measurement 
+cacm-2486 : <b>end</b> of one line <b>and</b> partly at the beginning 
+cacm-1518 : <b>to</b> turnaround time throughput <b>hardware</b> utilization <b>software</b> utilization <b>and</b> queueing processes the model 
+cacm-3025 : time sharing computing <b>systems</b> transferring <b>hardware</b> technology within dec <b>and</b> elsewhere <b>to</b> minicomputer design <b>and</b> manufacturing supporting minicomputer <b>hardware</b> <b>and</b> <b>software</b> development <b>and</b> serving as a model 
+cacm-3024 : <b>to</b> have been built <b>to</b> date that satisfies erdas 
+cacm-2002 : alphabetic characters <b>and</b> transformations <b>and</b> <b>to</b> produce a variety of 
+cacm-2319 : of the current <b>and</b> future positions <b>with</b> respect <b>to</b> operating system performance is 
+cacm-1199 : <b>hardware</b> <b>and</b> <b>software</b> <b>systems</b> it is difficult therefore 
+cacm-1846 : are dealt <b>with</b> the <b>systems</b> are assumed <b>to</b> be described as a 
+cacm-1844 : multiple terminal <b>systems</b> terminal oriented <b>systems</b> multiple processor <b>systems</b> high availability conversational <b>systems</b> general purpose time-sharing <b>systems</b> real-time response system modular 
