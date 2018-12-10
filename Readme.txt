@@ -73,7 +73,7 @@ To execute the four Baseline runs perform the following steps:
 			3. lucene-analyzers-common-VERSION.jar
 		C. TokenizedFile and queries.txt should be in the same directory, and the path should be set for them in the program.
 	   	   It will take the documents from TokenizedFile and index them and rank them based on the queries, 
-	           the output generated will be in the prog folder with the name LuceneOutput.txt
+	           the output generated will be in the prog folder with the name LuceneOutput folder where there will be 64 files, one per query
 		D. Run the java program.
 
 Task 2:

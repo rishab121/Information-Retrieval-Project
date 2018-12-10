@@ -1,0 +1,34 @@
+Notes
+
+Lucene:
+
+Code is in Lucene.java file. Input queries are taken from queries.txt file where each query is parsed and stored and the input corpus is the CACM corpus.
+
+For each query, one output file is generated with the scores in the LuceneOutput folder.
+The code is similar to HW4 code, just some changes in the input and output format are incorporated.
+
+
+TfIdf:
+
+Code is in tfidf.py file. The tf idf scores per term per document were calculated and stored in the dictionary and then appropriate query wise scores were calculated and the output is put in the TF-IDF_Output folder.
+The output contains 64 files, each containing the top 100 entries per query.
+
+Evaluation:
+
+Phase3 folder has evaluation code.
+The input to evaluation step is the results generated in task1, task2, task3.
+
+The outputs of the evaluation phase are stored in the respective output folders.
+For example, TF-IDF_Output from task 1 is given as an input folder to evaluation phase and its evaluated results are stored in the  TF-IDF_EvaluationOutput folder. The folder contains 1 txt file per query.
+
+The MAP and MRR values per query can be found in the file 64.txt
+
+TO run evaluation:
+
+cd into the Phase3 folder, run python Evaluation.py. You will get a folder made per run with the output files.
+
+To plot values, after running evaluation, run python plot.py --> this ill give you co-ordinates that can be used to plot the graph
+
+
+
+
